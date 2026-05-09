@@ -128,6 +128,7 @@ export function Admin() {
       const userRef = doc(db, 'users', request.userId);
       await updateDoc(userRef, {
         plan: request.plan,
+        level: request.level,
         subjects: request.subjects,
         updatedAt: serverTimestamp()
       });
@@ -145,6 +146,7 @@ export function Admin() {
         userEmail: request.userEmail,
         userName: request.userName,
         plan: request.planName,
+        level: request.level,
         subject: request.subjects.join(', '),
         amount: request.amount,
         date: serverTimestamp(),
@@ -443,6 +445,7 @@ export function Admin() {
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Date</th>
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">User</th>
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Plan</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Level</th>
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Subjects</th>
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Amount</th>
                   <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Status</th>
@@ -452,7 +455,7 @@ export function Admin() {
               <tbody className="bg-white divide-y divide-gray-200">
                 {paymentRequests.length === 0 ? (
                   <tr>
-                    <td colSpan="7" className="px-6 py-8 text-center text-gray-500">
+                    <td colSpan="8" className="px-6 py-8 text-center text-gray-500">
                       No pending payment requests
                     </td>
                   </tr>
@@ -470,6 +473,9 @@ export function Admin() {
                         <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
                           {request.planName}
                         </span>
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {request.level === 'all' ? 'Both' : request.level === 'OLEVEL' ? 'O Level' : 'A Level'}
                       </td>
                       <td className="px-6 py-4 text-sm text-gray-900">
                         {request.subjects?.includes('all') ? 'All Subjects' : request.subjects?.join(', ')}

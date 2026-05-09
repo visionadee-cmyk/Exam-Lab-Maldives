@@ -58,6 +58,7 @@ export function Subscribe() {
   const { user, userData } = useAuth();
   const navigate = useNavigate();
   const [selectedPlan, setSelectedPlan] = useState(userData?.plan || 'free');
+  const [selectedLevel, setSelectedLevel] = useState(userData?.level || 'all');
   const [selectedSubjects, setSelectedSubjects] = useState(userData?.subjects || []);
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState(false);
@@ -93,6 +94,7 @@ export function Subscribe() {
         userName: userData?.name || user.displayName || 'Unknown',
         plan: selectedPlan,
         planName: currentPlan?.name,
+        level: selectedLevel,
         subjects: selectedSubjects,
         amount: totalPrice,
         status: 'pending',
@@ -218,9 +220,52 @@ export function Subscribe() {
           </div>
         </div>
 
+        {/* Level Selection */}
+        <div className="mb-8">
+          <h2 className="text-lg font-semibold text-gray-900 mb-4">2. Choose Level</h2>
+          <div className="flex gap-4">
+            <button
+              onClick={() => setSelectedLevel('OLEVEL')}
+              className={cn(
+                'flex-1 p-6 rounded-xl border-2 text-center transition-all',
+                selectedLevel === 'OLEVEL'
+                  ? 'border-primary-500 bg-primary-50'
+                  : 'border-gray-200 bg-white hover:border-gray-300'
+              )}
+            >
+              <h3 className="text-lg font-bold text-gray-900">O Level</h3>
+              <p className="text-sm text-gray-600">Cambridge & Edexcel</p>
+            </button>
+            <button
+              onClick={() => setSelectedLevel('ALEVEL')}
+              className={cn(
+                'flex-1 p-6 rounded-xl border-2 text-center transition-all',
+                selectedLevel === 'ALEVEL'
+                  ? 'border-primary-500 bg-primary-50'
+                  : 'border-gray-200 bg-white hover:border-gray-300'
+              )}
+            >
+              <h3 className="text-lg font-bold text-gray-900">A Level</h3>
+              <p className="text-sm text-gray-600">Cambridge & Edexcel</p>
+            </button>
+            <button
+              onClick={() => setSelectedLevel('all')}
+              className={cn(
+                'flex-1 p-6 rounded-xl border-2 text-center transition-all',
+                selectedLevel === 'all'
+                  ? 'border-primary-500 bg-primary-50'
+                  : 'border-gray-200 bg-white hover:border-gray-300'
+              )}
+            >
+              <h3 className="text-lg font-bold text-gray-900">Both</h3>
+              <p className="text-sm text-gray-600">O Level & A Level</p>
+            </button>
+          </div>
+        </div>
+
         {/* Subject Selection */}
         <div className="mb-8">
-          <h2 className="text-lg font-semibold text-gray-900 mb-4">2. Choose Subjects</h2>
+          <h2 className="text-lg font-semibold text-gray-900 mb-4">3. Choose Subjects</h2>
           <div className="bg-white rounded-xl border border-gray-200 p-6">
             <div className="flex flex-wrap gap-3 mb-4">
               {SUBJECTS.map((subject) => (
@@ -254,10 +299,17 @@ export function Subscribe() {
 
         {/* Summary */}
         <div className="bg-white rounded-xl border border-gray-200 p-6">
-          <h2 className="text-lg font-semibold text-gray-900 mb-4">3. Order Summary</h2>
+          <h2 className="text-lg font-semibold text-gray-900 mb-4">4. Order Summary</h2>
           <div className="flex items-center justify-between py-3 border-b border-gray-100">
             <span className="text-gray-600">Plan</span>
             <span className="font-medium text-gray-900">{currentPlan?.name}</span>
+          </div>
+          <div className="flex items-center justify-between py-3 border-b border-gray-100">
+            <span className="text-gray-600">Level</span>
+            <span className="font-medium text-gray-900">
+              {selectedLevel === 'all' ? 'Both O Level & A Level' : 
+               selectedLevel === 'OLEVEL' ? 'O Level' : 'A Level'}
+            </span>
           </div>
           <div className="flex items-center justify-between py-3 border-b border-gray-100">
             <span className="text-gray-600">Subjects</span>
