@@ -1,0 +1,194 @@
+{
+  "id": "wbi13-jun-2019-unit3-qp",
+  "title": "Pearson Edexcel IAL Biology Unit 3",
+  "unit": "Unit 3: Practical Skills in Biology I",
+  "code": "WBI13/01",
+  "session": "June 2019",
+  "totalMarks": 50,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 18,
+      "question": "The stigma of a flower secretes a solution of sucrose. Pollen grains germinate in this solution to produce pollen tubes. The effect of sucrose concentration on the germination of pollen grains was investigated.",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "State the independent variable in this investigation.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Concentration of sucrose solution (g dm⁻³).",
+          "keywords": ["sucrose", "concentration", "solution"]
+        },
+        {
+          "id": "1a_ii",
+          "text": "State one abiotic (environmental) variable that should be controlled in this investigation.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Temperature (kept constant).",
+          "keywords": ["temperature", "constant", "control"]
+        },
+        {
+          "id": "1a_iii",
+          "text": "Explain why the results might have been affected if the variable you named in (a)(ii) had not been controlled.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Temperature affects enzyme-controlled reactions / metabolism in pollen grains and pollen tube growth. If temperature varies, rate of germination could change, so differences in germination might be due to temperature rather than sucrose concentration. Extreme temperatures could denature enzymes or slow reactions, changing percentage germination.",
+          "keywords": ["temperature", "enzymes", "rate", "germination", "denature", "metabolism"]
+        },
+        {
+          "id": "1b_i",
+          "text": "Plot a suitable graph to show the results of this investigation. Join the points with straight lines.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi13-jun2019/q1b-results-table.PNG",
+          "answer": "Graph of percentage germination (%) (y-axis) against sucrose concentration (g dm⁻³) (x-axis), suitable scale, correctly plotted points, and points joined with straight lines.",
+          "keywords": ["graph", "percentage", "germination", "sucrose concentration", "axes", "scale", "straight lines"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "These results suggest that the optimum concentration of sucrose for pollen grain germination is 40 g dm⁻³. Explain how the method could be modified to find the actual optimum concentration of sucrose.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Test a wider range of sucrose concentrations with smaller intervals around 40 g dm⁻³ (e.g., 30, 35, 40, 45, 50). Repeat each concentration several times and calculate a mean percentage germination to identify the true optimum.",
+          "keywords": ["smaller intervals", "around 40", "more concentrations", "repeat", "mean", "optimum"]
+        },
+        {
+          "id": "1c_i",
+          "text": "The table shows the results of an investigation into the effect of boric acid concentration, in a sucrose solution, on the growth of pollen tubes. Calculate the percentage increase in pollen tube length at 100 ppm compared with that at 25 ppm.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi13-jun2019/q1c-boric-acid-table.PNG",
+          "answer": "Percentage increase = ((166 − 78) / 78) × 100 = 112.8% (≈ 113%).",
+          "keywords": ["percentage increase", "calculation", "166", "78", "113"]
+        },
+        {
+          "id": "1c_ii",
+          "text": "You are provided with a solution containing 500 g dm⁻³ of sucrose. Devise a procedure to investigate the effect of different concentrations of sucrose on the rate of growth of pollen tubes, using this sucrose solution.",
+          "marks": 5,
+          "type": "short_answer",
+          "answer": "Prepare a series of sucrose concentrations by diluting the 500 g dm⁻³ stock with distilled water (e.g., serial dilutions) and include a control concentration. Add equal volumes of each sucrose concentration to separate cavity slides. Add the same amount of pollen grains (from the same flower) to each slide, start a timer, and incubate under controlled conditions (constant temperature, pH, time). Use a microscope with an eyepiece graticule / calibrated scale to measure pollen tube length at set time intervals (or measure length after a fixed time and calculate rate = length ÷ time). Repeat for each concentration with replicates and calculate mean rates; plot mean rate of pollen tube growth against sucrose concentration.",
+          "keywords": ["dilution", "stock", "cavity slide", "replicates", "control variables", "measure length", "time intervals", "rate", "mean", "plot"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 16,
+      "question": "An investigation was carried out to determine the relative concentration of reducing sugars in a range of foods. In each case, some food was ground up with distilled water. The resulting liquid was filtered to give an extract. This extract was then tested for the presence of reducing sugars using a reagent.",
+      "parts": [
+        {
+          "id": "2a_i",
+          "text": "Describe how a test for reducing sugars is carried out.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Add Benedict's solution to the food extract and heat in a hot water bath (near boiling) for a few minutes. A positive result is a colour change from blue to green/yellow/orange/brick red precipitate, depending on concentration.",
+          "keywords": ["Benedict", "water bath", "heat", "blue", "precipitate", "brick red", "reducing sugar"]
+        },
+        {
+          "id": "2a_ii",
+          "text": "Explain how this investigation should be carried out to give a semi-quantitative estimate of the concentration of the reducing sugars by comparing the colour of the precipitate with a colour chart.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Use the same volumes of food extract and Benedict's solution for each test and heat for the same time at the same temperature. After heating, compare the colour of the precipitate with a standard colour chart under the same lighting conditions. Repeat tests and use a mean / most frequent colour match to estimate relative concentration.",
+          "keywords": ["same volume", "same temperature", "same time", "colour chart", "standard", "repeat", "mean"]
+        },
+        {
+          "id": "2a_iii",
+          "text": "It was assumed that the extract contained all the reducing sugars from the food sample. Suggest how this assumption could be tested.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "After filtering, repeat the extraction on the remaining solid residue using fresh distilled water (or extract multiple times) and test each additional extract with Benedict's reagent. If later extracts give no precipitate / remain blue, the first extract contained (almost) all the reducing sugar.",
+          "keywords": ["repeat extraction", "residue", "fresh water", "Benedict", "no precipitate", "remain blue"]
+        },
+        {
+          "id": "2b",
+          "text": "The table shows the results of the investigation. Complete the table by writing the names of the foods in order from the highest concentration of reducing sugars to the lowest concentration.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi13-jun2019/q2b-food-precipitate-table.PNG",
+          "answer": "Apple (brick red) → sweet potato (orange) → potato (yellow) → bread (green) → cashew nut (no precipitate).",
+          "keywords": ["brick red", "orange", "yellow", "green", "no precipitate", "highest", "lowest"]
+        },
+        {
+          "id": "2c_i",
+          "text": "The reagent used to test for reducing sugars is a blue solution containing soluble copper ions. Reducing sugars react with the copper to form an insoluble precipitate. After testing, the precipitate formed can be removed. This leaves a solution that is less blue. Explain which food extract would leave the least blue solution when the precipitate is removed.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Apple extract would leave the least blue solution because it gave a brick red precipitate, indicating the highest concentration of reducing sugars. More reducing sugar reduces more Cu²⁺ ions to form more insoluble precipitate, removing more copper ions from solution. Therefore, the remaining solution is least blue.",
+          "keywords": ["apple", "brick red", "highest", "Cu2+", "copper ions", "precipitate", "least blue"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "Devise a procedure to determine the concentration of reducing sugars in a sweet potato.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Prepare a sweet potato extract by weighing a known mass of sweet potato, grinding with a known volume of distilled water, then filtering. Prepare a calibration curve using known concentrations of a reducing sugar (e.g., glucose) treated with Benedict's reagent under the same conditions (same volumes, temperature, and heating time). Measure colour intensity using a colorimeter (or compare to standards) after removing precipitate / using supernatant, then use the calibration curve to determine the concentration in the sweet potato extract. Account for dilution to calculate concentration in the original sweet potato sample.",
+          "keywords": ["known mass", "known volume", "filter", "calibration curve", "glucose", "colorimeter", "standards", "dilution"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 16,
+      "question": "The enzyme urease catalyses the reaction: urea → ammonia + carbon dioxide. The effect of pH on this reaction was investigated.",
+      "parts": [
+        {
+          "id": "3a_i",
+          "text": "Explain why the urease solution and the urea solution were kept in the water bath at 40°C before and after being mixed.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Keeping both solutions at 40°C ensures they are at the same temperature before mixing so the reaction starts immediately at 40°C. Temperature affects enzyme activity, so using a water bath controls temperature as a constant variable across different pH values. Maintaining 40°C after mixing keeps the enzyme at the optimum/controlled temperature during the reaction so changes in ammonia produced are due to pH, not temperature. It also helps ensure fair comparison between trials and improves reliability.",
+          "keywords": ["temperature", "constant", "enzyme activity", "controlled variable", "fair test", "pH", "water bath", "rate"]
+        },
+        {
+          "id": "3a_ii",
+          "text": "Explain how you could determine suitable concentrations of urea and urease solutions to use in this investigation.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Carry out preliminary trials using a range of urea and/or urease concentrations. Choose concentrations that give a measurable change in ammonia concentration within the time period (not too small to measure and not so fast that the reaction is complete before 15 minutes). Use the same measurement method and keep temperature constant.",
+          "keywords": ["preliminary", "range", "concentration", "measurable", "not too fast", "ammonia"]
+        },
+        {
+          "id": "3b_i",
+          "text": "The graph shows the results of this investigation. (i) Draw a suitable table to include the results for the experiment at 60 minutes.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi13-jun2019/q3b-ph-graph.PNG",
+          "answer": "A correct table with headings including units, e.g. pH and concentration of ammonia (a.u.) at 60 minutes. Include the pH values (3.0, 4.0, 6.5, 6.8, 7.3, 8.0, 9.0) and the corresponding plotted values read from the 60-minute line on the graph.",
+          "keywords": ["table", "headings", "units", "pH", "60 minutes", "ammonia", "a.u."]
+        },
+        {
+          "id": "3b_ii",
+          "text": "Calculate the rate of reaction at a pH of 7.3 during the first 15 minutes of this investigation. Include appropriate units with your answer.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Rate = change in ammonia concentration ÷ time. From the graph at pH 7.3 after 15 minutes, concentration ≈ 60 a.u. Rate ≈ 60 ÷ 15 = 4.0 a.u. min⁻¹.",
+          "keywords": ["rate", "change", "time", "60", "15", "4.0", "a.u.", "min-1"]
+        },
+        {
+          "id": "3b_iii",
+          "text": "Compare and contrast the results shown in the graph at 60 minutes with those at 15 minutes.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "At both 15 and 60 minutes, ammonia concentration increases with pH up to an optimum around pH 7.3, then decreases at higher pH values. Values at 60 minutes are higher than at 15 minutes at each pH. At both times, very low pH (around 3–4) gives low ammonia, and the highest value occurs at about pH 7.3. The differences between pH values are more pronounced at 60 minutes.",
+          "keywords": ["optimum", "7.3", "higher at 60", "same trend", "increase", "decrease", "pH"]
+        },
+        {
+          "id": "3c",
+          "text": "In another investigation, the concentration of ammonia was recorded every 5 minutes for 35 minutes, at a pH of 6.0. The graph shows the results of this investigation. Calculate the initial rate of this reaction. Include appropriate units with your answer.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi13-jun2019/q3c-time-graph.PNG",
+          "answer": "Initial rate = gradient at start. Using first interval: (1.8 a.u. − 0) ÷ (5 min − 0) = 0.36 a.u. min⁻¹ (≈ 0.4 a.u. min⁻¹).",
+          "keywords": ["initial rate", "gradient", "0.36", "a.u.", "min-1"]
+        }
+      ]
+    }
+  ]
+}

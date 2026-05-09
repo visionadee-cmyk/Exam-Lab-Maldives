@@ -1,0 +1,456 @@
+{
+  "paperId": "wbi11-may-2019-unit1-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI11/01",
+  "session": "May 2019",
+  "title": "Unit 1: Molecules, Diet, Transport and Health",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Water is important as a solvent for transport in living organisms.",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Draw a diagram of a water molecule to show its dipole nature.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Water molecule with oxygen (δ-) and two hydrogens (δ+) showing polarity / partial charges / correct angle",
+          "keywords": ["oxygen", "hydrogen", "partial positive", "partial negative", "dipole", "polarity", "104.5°"]
+        },
+        {
+          "id": "1b_i",
+          "text": "The graph shows the effect of temperature on the solubility in water of three salts, F, G and H, in the human diet. Describe the effect of temperature on the solubility of these three salts.",
+          "image": "/papers/wbi11-may2019/q1-salt-solubility-graph.PNG",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Salt F: solubility increases with temperature / salt G: solubility decreases with temperature / salt H: solubility constant / does not change",
+          "keywords": ["F increases", "G decreases", "H constant", "solubility changes"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "How many times more soluble is salt G than salt H at 30°C?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "15.00" },
+            { "id": "B", "text": "1.67" },
+            { "id": "C", "text": "1.50" },
+            { "id": "D", "text": "0.60" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "1.67"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "The risk of developing cardiovascular disease (CVD) can be increased by a number of factors including diet and a history of thrombosis. Thrombosis is the development of a blood clot in a blood vessel. Blood clots can develop in veins and then move through the circulatory system into the coronary artery.",
+      "parts": [
+        {
+          "id": "2a_i",
+          "text": "A diet high in saturated triglycerides raises the levels of cholesterol in the blood. What is the ratio of glycerol to fatty acid in a triglyceride molecule?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "1:1" },
+            { "id": "B", "text": "1:3" },
+            { "id": "C", "text": "3:1" },
+            { "id": "D", "text": "3:3" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "1:3"]
+        },
+        {
+          "id": "2a_ii",
+          "text": "Which diagram shows the bond that joins a glycerol molecule to a fatty acid in a triglyceride?",
+          "image": "/papers/wbi11-may2019/q2-triglyceride-bonds.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Diagram A" },
+            { "id": "B", "text": "Diagram B" },
+            { "id": "C", "text": "Diagram C" },
+            { "id": "D", "text": "Diagram D" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "ester bond"]
+        },
+        {
+          "id": "2a_iii",
+          "text": "The table gives some information about four fatty acids. Explain which of these fatty acids would have the lowest risk of causing CVD, if included in a diet in equal masses.",
+          "image": "/papers/wbi11-may2019/q2-fatty-acid-table.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Linoleic acid / has most double bonds / unsaturated / lowers LDL cholesterol / reduces risk of atherosclerosis",
+          "keywords": ["linoleic", "double bonds", "unsaturated", "lowers LDL", "reduces risk"]
+        },
+        {
+          "id": "2b_i",
+          "text": "Anticoagulants, antiplatelets and thrombolytics are drugs used to treat blood clots. One anticoagulant binds to the active site of thrombin. Explain how this drug reduces blood clotting.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Prevents thrombin from working / fibrinogen not converted to fibrin / no clot formation",
+          "keywords": ["thrombin", "fibrinogen", "fibrin", "clot", "active site", "prevents"]
+        },
+        {
+          "id": "2b_ii",
+          "text": "Molecules on the surface of platelets enable them to bind to other molecules. One of the antiplatelet drugs affects molecules on the surface of platelets. Explain how this drug reduces blood clotting.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Prevents platelet aggregation / platelets cannot stick together / no clumping",
+          "keywords": ["platelet", "aggregation", "surface molecules", "bind", "stick"]
+        },
+        {
+          "id": "2b_iii",
+          "text": "One thrombolytic drug converts plasminogen into the active enzyme, plasmin. Plasmin breaks down fibrin. Explain how this drug reduces the formation of blood clots.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Breaks down existing clots / dissolves fibrin / removes blood clots",
+          "keywords": ["plasmin", "breaks down fibrin", "dissolves clots", "enzyme"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "The sequence of bases in DNA determines the sequence of amino acids in a polypeptide.",
+      "parts": [
+        {
+          "id": "3a_i",
+          "text": "The diagram shows a DNA base sequence. Complete the diagram to show the sequence of amino acids coded by this DNA base sequence.",
+          "image": "/papers/wbi11-may2019/q3-genetic-code-table.PNG",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Write amino acid names in boxes: Tryptophan, Alanine, Serine, Alanine, Tryptophan",
+          "keywords": ["tryptophan", "alanine", "serine", "codons"]
+        },
+        {
+          "id": "3a_ii",
+          "text": "Explain why only five amino acids are coded by this sequence of bases.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "15 bases / 3 bases per codon / triplet code / 15÷3 = 5 codons / each codon codes for one amino acid",
+          "keywords": ["triplet", "3 bases", "codon", "15 bases", "5 codons"]
+        },
+        {
+          "id": "3b",
+          "text": "Explain why some amino acids, such as alanine, have more than one genetic code.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Degeneracy of genetic code / wobble hypothesis / multiple codons code for same amino acid / reduces effect of mutations",
+          "keywords": ["degenerate", "wobble", "multiple codons", "mutations", "redundancy"]
+        },
+        {
+          "id": "3c_i",
+          "text": "Of the 64 possible genetic codes, 61 code for amino acids. Calculate the percentage of genetic codes that code for amino acids. Give your answer to four significant figures.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "95.31%",
+          "keywords": ["95.31", "95.31%", "61/64"]
+        },
+        {
+          "id": "3c_ii",
+          "text": "Explain the role of the other three genetic codes.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Stop codons / termination codons / signal end of polypeptide chain / UAA, UAG, UGA",
+          "keywords": ["stop codons", "termination", "end of chain", "UAA", "UAG", "UGA"]
+        },
+        {
+          "id": "3d",
+          "text": "Messenger RNA (mRNA) and transfer RNA (tRNA) are involved in the synthesis of a polypeptide chain from DNA. Which row of the table shows the codon on mRNA and the anticodon on tRNA that correspond to tryptophan?",
+          "image": "/papers/wbi11-may2019/q3-codon-table.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "ACC and TGG" },
+            { "id": "B", "text": "ACC and UGG" },
+            { "id": "C", "text": "UCC and AGG" },
+            { "id": "D", "text": "UCC and TGG" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "UCC", "AGG"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Meselson and Stahl performed experiments that demonstrated semi-conservative replication of DNA.",
+      "parts": [
+        {
+          "id": "4a_i",
+          "text": "State what is meant by the term semi-conservative replication.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Each new DNA molecule contains one original (parent) strand and one newly synthesized strand",
+          "keywords": ["one parent strand", "one new strand", "complementary", "template"]
+        },
+        {
+          "id": "4a_ii",
+          "text": "Name one enzyme involved in semi-conservative replication.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "DNA polymerase / helicase / primase / DNA ligase",
+          "keywords": ["DNA polymerase", "helicase", "primase", "DNA ligase"]
+        },
+        {
+          "id": "4a_iii",
+          "text": "Explain the importance of semi-conservative replication in the production of new cells.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Ensures genetic continuity / maintains genetic stability / passes exact copy of genetic information to daughter cells / prevents mutations",
+          "keywords": ["genetic continuity", "stability", "exact copy", "daughter cells"]
+        },
+        {
+          "id": "4b",
+          "text": "The flow chart summarises part of one experiment performed by Meselson and Stahl. Complete the table to show the percentage of the total number of DNA molecules containing heavy nitrogen only, light nitrogen only or both heavy and light nitrogen, at the end of each stage.",
+          "image": "/papers/wbi11-may2019/q4-meselson-stahl-flowchart.PNG",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Stage 1: 100% heavy only / Stage 2: 100% both heavy and light / Stage 3: 50% both, 50% light only",
+          "keywords": ["100% heavy", "100% hybrid", "50% hybrid", "50% light"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Pineapples contain the sugars fructose, glucose and sucrose.",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "Which row of the table shows which of these sugars are monosaccharides and which are disaccharides?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "fructose only / glucose and sucrose" },
+            { "id": "B", "text": "glucose only / fructose and sucrose" },
+            { "id": "C", "text": "fructose and glucose / sucrose only" },
+            { "id": "D", "text": "glucose and sucrose / fructose only" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "fructose", "glucose", "monosaccharides", "sucrose disaccharide"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Which type of bond joins two monosaccharides together to form a disaccharide?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "ester" },
+            { "id": "B", "text": "glycosidic" },
+            { "id": "C", "text": "peptide" },
+            { "id": "D", "text": "phosphodiester" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "glycosidic"]
+        },
+        {
+          "id": "5b_i",
+          "text": "The table shows the concentration of these sugars in three pineapples. Calculate the mean concentration of glucose in these three pineapples. Give your answer in g dm⁻³.",
+          "image": "/papers/wbi11-may2019/q5-pineapple-sugars-table.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "1.08 g dm⁻³",
+          "keywords": ["1.08", "mean", "average"]
+        },
+        {
+          "id": "5b_ii",
+          "text": "Pineapples can be preserved by a process called osmotic dehydration in which pieces of pineapple are submerged in a solution of sugars. The diagram shows how this process can be carried out. Osmotic dehydration helps to preserve the pineapple by reducing the water content. Osmotic dehydration also ensures that the concentration of each sugar in the pineapple does not change. This preserves the sweet taste of the pineapple. Explain what the solution of sugars should contain to preserve pineapples. Use the information in the table to support your answer.",
+          "image": "/papers/wbi11-may2019/q5-osmotic-dehydration-diagram.PNG",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "High concentration of sugars / hypertonic solution / water moves out by osmosis / fructose, glucose and sucrose in specific proportions / maintains sugar concentration / prevents dilution of taste",
+          "keywords": ["high concentration", "hypertonic", "osmosis", "water out", "sugar proportions"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Dietary antioxidants may reduce the risk of cardiovascular disease (CVD).",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Explain how dietary antioxidants reduce the risk of CVD.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Antioxidants prevent oxidation of LDL / prevent cholesterol deposition / reduce atherosclerosis / neutralise free radicals / prevent damage to artery walls",
+          "keywords": ["prevent oxidation", "LDL", "cholesterol", "atherosclerosis", "free radicals"]
+        },
+        {
+          "id": "6b_i",
+          "text": "Chocolate contains high concentrations of a group of antioxidants called flavonoids. It has been suggested that eating chocolate could reduce the risk of CVD. The table shows some information about two types of chocolate. Explain whether eating dark chocolate is likely to reduce the risk of CVD more than eating milk chocolate. Use the information in the table to support your answer.",
+          "image": "/papers/wbi11-may2019/q6-chocolate-flavonoids-table.PNG",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Dark chocolate has more flavonoids (170 vs 70 mg) / lower energy content (1800 vs 2345 kJ) / more antioxidants / less likely to cause weight gain / more effective at reducing CVD risk",
+          "keywords": ["more flavonoids", "170", "lower energy", "weight gain", "antioxidants"]
+        },
+        {
+          "id": "6b_ii",
+          "text": "The table gives some information about ingredients in three different brands of milk chocolate and dark chocolate. Use the information in both tables to identify which ingredient contains the most flavonoids.",
+          "image": "/papers/wbi11-may2019/q6-chocolate-ingredients-table.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "cocoa mass" },
+            { "id": "B", "text": "milk fat" },
+            { "id": "C", "text": "sugar" },
+            { "id": "D", "text": "whole milk powder" }
+          ],
+          "answer": "A",
+          "keywords": ["A", "cocoa mass"]
+        },
+        {
+          "id": "6b_iii",
+          "text": "Describe how a study could be designed to collect valid and reliable data on the effects of eating chocolate on the risk of CVD.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Large sample size / random selection / control group / placebo / double-blind / measure CVD risk factors over time / standardised chocolate intake",
+          "keywords": ["large sample", "control group", "placebo", "double-blind", "longitudinal"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "The photograph shows an adult giraffe.",
+      "image": "/papers/wbi11-may2019/q7-giraffe-photo.PNG",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Estimate the length of the neck of this giraffe from the shoulders, using the information in the photograph.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Approximately 2.0-2.5 m / accept range 1.8-2.7 m",
+          "keywords": ["2.0", "2.5", "estimate", "ratio", "neck length"]
+        },
+        {
+          "id": "7b",
+          "text": "The heart of an adult giraffe can be 60 cm long. Explain why the heart of a giraffe needs to be so large.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Need to pump blood up to head / against gravity / long neck / high blood pressure / need more powerful pump / maintain blood flow to brain",
+          "keywords": ["long neck", "gravity", "brain", "pump", "pressure", "head"]
+        },
+        {
+          "id": "7c_i",
+          "text": "The arteries near the heart of a giraffe are highly elastic. Draw a labelled diagram of an artery, as seen in section.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Correct structure: endothelium, smooth muscle, elastic tissue, collagen fibres, lumen",
+          "keywords": ["endothelium", "smooth muscle", "elastic tissue", "collagen", "lumen"]
+        },
+        {
+          "id": "7c_ii",
+          "text": "Explain why the arteries near the heart of a giraffe are highly elastic.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Stretch and recoil / withstand high pressure / maintain blood flow / prevent damage to artery walls",
+          "keywords": ["stretch", "recoil", "high pressure", "maintain flow"]
+        },
+        {
+          "id": "7d_i",
+          "text": "Damage to the legs of the giraffe could result in excessive bleeding. To prevent excessive bleeding, the capillaries near the surface of the skin are very narrow. Explain why very narrow capillaries prevent excessive bleeding.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Slow blood flow / allow time for clotting / platelets can plug small vessels / restricts blood loss",
+          "keywords": ["slow flow", "clotting", "platelets", "plug", "restricts loss"]
+        },
+        {
+          "id": "7d_ii",
+          "text": "The red blood cells of the giraffe are about one third the size of human red blood cells, so that they can pass through the very narrow capillaries. The small size of the red blood cells ensures that the legs of the giraffe have a good supply of oxygen. Explain why smaller red blood cells increase the supply of oxygen to the legs.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Greater surface area to volume ratio / more haemoglobin in contact with capillary wall / faster oxygen diffusion / more efficient oxygen transfer",
+          "keywords": ["surface area", "volume ratio", "diffusion", "efficient", "haemoglobin"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "Silkworms are caterpillars that produce silk. Silk is a fibrous protein that can be used in clothing and in medicine. Silkworms have been selectively bred to produce a modified silk that could have even more medical uses.",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "The modified silk is made by these silkworms by inserting a synthetic amino acid, AzPhe, into the protein. This replaces the naturally-occurring amino acid phenylalanine. The diagram shows the structure of AzPhe. Which of the following diagrams shows the R group only of AzPhe?",
+          "image": "/papers/wbi11-may2019/q8-azphe-structure.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Diagram A" },
+            { "id": "B", "text": "Diagram B" },
+            { "id": "C", "text": "Diagram C" },
+            { "id": "D", "text": "Diagram D" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "R group"]
+        },
+        {
+          "id": "8b_i",
+          "text": "Only the silkworms that have been selectively bred can use AzPhe in the synthesis of protein. During translation, AzPhe joins to two other amino acids by condensation reactions. Name the covalent bond that joins two amino acids in a condensation reaction.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Peptide bond",
+          "keywords": ["peptide", "peptide bond"]
+        },
+        {
+          "id": "8b_ii",
+          "text": "Draw two circles on the diagram of AzPhe to show which parts of the molecule are lost when AzPhe joins to two other amino acids by condensation reactions.",
+          "image": "/papers/wbi11-may2019/q8-azphe-structure.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Circle the OH on the carboxyl group and the H on the amino group / these are lost as water",
+          "keywords": ["OH", "carboxyl", "H", "amino", "water", "lost"]
+        },
+        {
+          "id": "8b_iii",
+          "text": "Transfer RNA (tRNA) is involved in translation. The amino acid AzPhe requires a special tRNA molecule during the synthesis of silk. Suggest why AzPhe is not inserted into proteins in silkworms that have not been selectively bred.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Normal silkworms lack the specific tRNA / no anticodon for AzPhe / tRNA has different anticodon / not recognised by normal ribosomes",
+          "keywords": ["tRNA", "anticodon", "specific", "not recognised", "normal silkworms"]
+        },
+        {
+          "id": "8c_i",
+          "text": "Part of a silk molecule contains 1100 amino acids. In natural silk, 1% of the amino acids are phenylalanine. In modified silk, 16% of the phenylalanine molecules are replaced by AzPhe. Calculate the ratio of phenylalanine to AzPhe in this part of a modified silk molecule.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "84:16 or 21:4 or 5.25:1 or equivalent ratio",
+          "keywords": ["84:16", "21:4", "5.25:1", "ratio"]
+        },
+        {
+          "id": "8c_ii",
+          "text": "The R group of phenylalanine is smaller than the R group of AzPhe. Suggest how inserting an amino acid with a larger R group could affect the properties of silk fibres.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Change in tertiary structure / different folding / affects strength / elasticity / flexibility / may change binding properties / altered medical properties / more space between molecules / different interactions",
+          "keywords": ["tertiary structure", "folding", "strength", "elasticity", "binding", "interactions"]
+        }
+      ]
+    }
+  ]
+}

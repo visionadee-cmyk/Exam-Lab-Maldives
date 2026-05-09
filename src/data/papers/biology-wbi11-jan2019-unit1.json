@@ -1,0 +1,434 @@
+{
+  "paperId": "wbi11-may-2019-unit1-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI11/01",
+  "session": "May 2019",
+  "title": "Unit 1: Molecules, Diet, Transport and Health",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Carbohydrates are one of the main types of nutrient. They include polysaccharides, disaccharides and monosaccharides.",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "Which formula is correct for a monosaccharide?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "CₙHₙO₂ₙ" },
+            { "id": "B", "text": "CₙH₂ₙOₙ" },
+            { "id": "C", "text": "C₂ₙHₙOₙ" },
+            { "id": "D", "text": "C₂ₙH₂ₙOₙ" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "CₙH₂ₙOₙ", "CnH2nOn"]
+        },
+        {
+          "id": "1a_ii",
+          "text": "Name the reaction that joins two monosaccharides together to form a disaccharide.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Condensation reaction",
+          "keywords": ["condensation", "dehydration synthesis"]
+        },
+        {
+          "id": "1b_i",
+          "text": "Which carbohydrate is present in cow's milk?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "amylose" },
+            { "id": "B", "text": "galactose" },
+            { "id": "C", "text": "lactose" },
+            { "id": "D", "text": "sucrose" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "lactose"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "Which carbohydrate contains only glucose subunits?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "amylopectin" },
+            { "id": "B", "text": "galactose" },
+            { "id": "C", "text": "maltose" },
+            { "id": "D", "text": "sucrose" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "maltose"]
+        },
+        {
+          "id": "1b_iii",
+          "text": "Which carbohydrate is an energy store in animals?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "amylose" },
+            { "id": "B", "text": "fructose" },
+            { "id": "C", "text": "glycogen" },
+            { "id": "D", "text": "sucrose" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "glycogen"]
+        },
+        {
+          "id": "1b_iv",
+          "text": "Which carbohydrate has 1-6 glycosidic bonds present?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "amylose" },
+            { "id": "B", "text": "amylopectin" },
+            { "id": "C", "text": "fructose" },
+            { "id": "D", "text": "maltose" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "amylopectin"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "The diagram shows a coronary heart disease (CHD) risk calculator.",
+      "image": "/papers/wbi11-jan2019/q2-chd-calculator.PNG",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Which of the following is a medication to control blood pressure?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "anticoagulant" },
+            { "id": "B", "text": "antihypertensive" },
+            { "id": "C", "text": "platelet inhibitor" },
+            { "id": "D", "text": "statin" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "antihypertensive"]
+        },
+        {
+          "id": "2b",
+          "text": "Explain why the risk calculator takes into account total cholesterol and HDL cholesterol levels.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "HDL removes cholesterol from the blood / atherosclerosis / plaque build-up",
+          "keywords": ["HDL removes cholesterol", "atherosclerosis", "plaque", "lower risk", "heart disease"]
+        },
+        {
+          "id": "2c",
+          "text": "Explain why the 10 Year CHD Risk would change if this person ticked the box next to the 'Patient smokes' on the risk calculator.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Smoking damages endothelium / increases blood pressure / carbon monoxide reduces oxygen transport / increases risk",
+          "keywords": ["smoking damages", "endothelium", "blood pressure", "carbon monoxide", "oxygen", "increases risk"]
+        },
+        {
+          "id": "2d_i",
+          "text": "State one other factor that the risk calculator should include to improve the accuracy of the value for the 10 Year CHD Risk.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Family history / BMI / exercise / diet / alcohol",
+          "keywords": ["family history", "BMI", "exercise", "diet", "alcohol", "weight"]
+        },
+        {
+          "id": "2d_ii",
+          "text": "Predict the effect that taking this factor into account would have on the value for the 10 Year CHD Risk.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Increase or decrease depending on the factor",
+          "keywords": ["increase", "decrease", "higher", "lower"]
+        },
+        {
+          "id": "2d_iii",
+          "text": "A person used this risk calculator. Explain why the value obtained for the 10 Year CHD Risk may be an underestimate.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Other risk factors not included / inaccurate data entered / lifestyle changes not accounted for",
+          "keywords": ["underestimate", "other factors", "inaccurate data", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Nucleic acids include DNA and RNA.",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Each single strand of a DNA molecule is synthesised from mononucleotides. Draw a diagram to show two mononucleotides joined together in a single strand of DNA. Use the symbols shown for each component in your diagram (phosphate group = circle, pentose sugar = pentagon, base = rectangle, bond = line).",
+          "image": "/papers/wbi11-jan2019/q3a-symbols.PNG",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Two nucleotides with phosphate-sugar-base units joined by phosphodiester bonds between sugars and phosphates",
+          "keywords": ["phosphodiester bond", "sugar-phosphate backbone", "bases", "pentose", "phosphate"]
+        },
+        {
+          "id": "3b_i",
+          "text": "The pitch of DNA is 3.4 nm. There are 10 base pairs in one pitch. Calculate the distance between one base and the next base on one strand of DNA. Give your answer to an appropriate number of significant figures.",
+          "image": "/papers/wbi11-jan2019/q3-dna-structure.PNG",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "0.34 nm",
+          "keywords": ["0.34", "0.34 nm", "3.4/10"]
+        },
+        {
+          "id": "3b_ii",
+          "text": "The diagram shows the structure of thymine and four other bases, P, Q, R and S. Bases P and S can form three hydrogen bonds each and bases Q and R can form two hydrogen bonds each. Explain which of the four bases P, Q, R or S is adenine.",
+          "image": "/papers/wbi11-jan2019/q3-bases-diagram.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Base R is adenine because it is a purine (double ring) with two hydrogen bonds and pairs with thymine",
+          "keywords": ["R", "purine", "two hydrogen bonds", "pairs with thymine", "double ring"]
+        },
+        {
+          "id": "3c",
+          "text": "Compare and contrast the structure of messenger RNA (mRNA) with the structure of transfer RNA (tRNA).",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Both are single-stranded polynucleotides containing ribose and uracil. mRNA is linear / single strand, tRNA is folded / cloverleaf / has hydrogen bonds. mRNA carries genetic code, tRNA carries amino acids.",
+          "keywords": ["single-stranded", "ribose", "uracil", "linear", "cloverleaf", "folded", "hydrogen bonds", "amino acid", "genetic code"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "The photograph shows a mammalian heart. The blood vessel labelled X is a branch from the aorta. The aorta is one of the major blood vessels of the heart.",
+      "image": "/papers/wbi11-jan2019/q4-heart-photo.PNG",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Explain why it is important that blood vessel X branches directly from the aorta.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "To supply oxygenated blood to the heart muscle / coronary artery / high pressure / first branch ensures heart muscle receives oxygen before other organs",
+          "keywords": ["coronary artery", "oxygenated blood", "heart muscle", "high pressure", "first branch"]
+        },
+        {
+          "id": "4b_i",
+          "text": "The diagram shows the internal structure of a mammalian heart. Explain which stage of the cardiac cycle is shown in this diagram.",
+          "image": "/papers/wbi11-jan2019/q4-heart-diagram.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Ventricles contracting / systole / blood being pumped into aorta and pulmonary artery / semilunar valves open / atrioventricular valves closed",
+          "keywords": ["systole", "ventricles contracting", "semilunar valves open", "blood pumped"]
+        },
+        {
+          "id": "4b_ii",
+          "text": "Draw arrows on the diagram to show the flow of blood through the left side of the heart and into the aorta.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Pulmonary vein → left atrium → left ventricle → aorta",
+          "keywords": ["pulmonary vein", "left atrium", "left ventricle", "aorta"]
+        },
+        {
+          "id": "4c",
+          "text": "The graph shows the changes in the internal diameter of the aorta during two cardiac cycles. Explain the changes in the internal diameter of the aorta.",
+          "image": "/papers/wbi11-jan2019/q4-aorta-graph.PNG",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Diameter increases as blood is forced into aorta during ventricular systole / elastic walls stretch. Diameter decreases during diastole as walls recoil / maintains blood pressure.",
+          "keywords": ["ventricular systole", "elastic walls", "stretch", "recoil", "blood pressure", "diastole"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Liposomes are spherical structures composed of phospholipids. They can be made by adding phospholipids to water. Liposomes can be used to study membrane permeability.",
+      "image": "/papers/wbi11-jan2019/q5-liposome.PNG",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "The diagram shows a liposome with diameter 100 nm. Calculate the volume of this liposome, using the formula V = 4/3 πr³.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "5.24 × 10⁵ nm³ (accept 523 598 nm³)",
+          "keywords": ["5.24", "523598", "10^5", "volume", "nm"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Explain the arrangement of phospholipids in liposomes.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Hydrophilic heads face outward toward water / hydrophobic tails face inward away from water / forms a bilayer",
+          "keywords": ["hydrophilic heads", "hydrophobic tails", "bilayer", "water"]
+        },
+        {
+          "id": "5b_i",
+          "text": "How does glycerol pass through the liposome membrane?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "active transport" },
+            { "id": "B", "text": "diffusion" },
+            { "id": "C", "text": "endocytosis" },
+            { "id": "D", "text": "osmosis" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "diffusion"]
+        },
+        {
+          "id": "5b_ii",
+          "text": "Describe the effects of cholesterol and temperature on membrane permeability, as shown in the graph.",
+          "image": "/papers/wbi11-jan2019/q5-cholesterol-graph.PNG",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "As temperature increases, permeability increases. Higher cholesterol percentage decreases permeability. Cholesterol reduces the effect of temperature.",
+          "keywords": ["temperature increases", "permeability increases", "cholesterol decreases", "less fluid"]
+        },
+        {
+          "id": "5b_iii",
+          "text": "Explain why cholesterol and temperature affect membrane permeability.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Temperature increases kinetic energy / phospholipids move more / creates gaps. Cholesterol restricts phospholipid movement / makes membrane less fluid.",
+          "keywords": ["kinetic energy", "phospholipids", "gaps", "restricts movement", "less fluid"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Platelets are involved in the blood clotting process.",
+      "image": "/papers/wbi11-jan2019/q6-phospholipid-table.PNG",
+      "parts": [
+        {
+          "id": "6a_i",
+          "text": "The table shows the phospholipid content of the membranes of platelets. Estimate the ratio of phosphatidylserine in the inner layer to that in the outer layer before the blood clotting process is triggered.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "4:1 (accept 3:1 to 5:1)",
+          "keywords": ["4:1", "4", "80:20", "3:1", "5:1"]
+        },
+        {
+          "id": "6a_ii",
+          "text": "Describe the effect that the movement of phosphatidylserine into the outer layer will have on the content of phospholipids in the membranes of platelets.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Phosphatidylserine increases in outer layer / decreases in inner layer / other phospholipids may also shift",
+          "keywords": ["increases outer", "decreases inner", "phosphatidylserine"]
+        },
+        {
+          "id": "6a_iii",
+          "text": "Describe how the movement of phosphatidylserine into the outer layer results in the production of thrombin in the blood clotting process.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Phosphatidylserine provides binding site for clotting factors / cascade / prothrombin converted to thrombin / fibrinogen to fibrin",
+          "keywords": ["clotting factors", "prothrombin", "thrombin", "fibrinogen", "fibrin", "cascade"]
+        },
+        {
+          "id": "6b",
+          "text": "Thrombin inhibitors are drugs that have an effect on the time taken for blood to clot. Explain why thrombin inhibitors affect the time taken for blood to clot.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Thrombin inhibitors prevent thrombin from converting fibrinogen to fibrin / no fibrin mesh formed / blood cannot clot / increases clotting time",
+          "keywords": ["thrombin", "fibrinogen", "fibrin", "mesh", "clotting time", "inhibits"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Some insects lay eggs inside leaves. This causes the leaves to produce swellings called galls. The galls supply the developing insects with nutrients and protect them from the external environment. The photograph shows galls on a leaf. In an investigation, the concentrations of protein molecules and amino acids found in healthy leaves, leaves with galls and in the galls themselves were determined.",
+      "image": "/papers/wbi11-jan2019/q7-galls-photo.PNG",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "The insects were removed from each gall before the investigation. Suggest why the insects were removed from the galls.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "To ensure only plant tissue is measured / insects contain proteins/amino acids that would affect results / standardise the investigation",
+          "keywords": ["only plant tissue", "insects contain protein", "standardise", "fair test"]
+        },
+        {
+          "id": "7b_i",
+          "text": "The amino acids were extracted and dissolved in a non-polar organic solvent. Which row of the table describes the solubility of these amino acids in a non-polar organic solvent?",
+          "image": "/papers/wbi11-jan2019/q7-amino-acid-table.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Most soluble: alanine | aspartate | tryptophan :Least soluble" },
+            { "id": "B", "text": "Most soluble: alanine | tryptophan | aspartate :Least soluble" },
+            { "id": "C", "text": "Most soluble: aspartate | alanine | tryptophan :Least soluble" },
+            { "id": "D", "text": "Most soluble: aspartate | tryptophan | alanine :Least soluble" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "alanine", "tryptophan", "aspartate"]
+        },
+        {
+          "id": "7b_ii",
+          "text": "The solubility of an amino acid can be determined by measuring the maximum mass of the amino acid that dissolves in a known volume of solvent. The solubility of the amino acid histidine in a solvent is 43.5 g dm⁻³. The mass of the amino acid leucine that dissolves in 250 cm³ of the same solvent is 5.5 g. Calculate how many times more soluble histidine is than leucine.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "1.98 (accept 2.0)",
+          "keywords": ["1.98", "2.0", "2", "43.5", "22"]
+        },
+        {
+          "id": "7c",
+          "text": "The saliva contains enzymes that change the nutrients in the leaf and cause the galls to form. The graphs show the concentrations of protein molecules and amino acid molecules in tissues from a healthy leaf, tissues from a leaf with galls and in the galls themselves. The table shows the abundance of five amino acid molecules. Explain the results of this investigation. Use the information in both graphs and the table to support your answer.",
+          "image": "/papers/wbi11-jan2019/q7-graphs-table.PNG",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Protein concentration lowest in healthy leaf, higher in leaf with galls, highest in galls. Amino acid concentration highest in galls. Enzymes break down proteins into amino acids. Insects use amino acids for growth. Specific amino acids (histidine, arginine) most abundant in galls.",
+          "keywords": ["protein broken down", "amino acids", "enzymes", "galls highest", "healthy lowest", "insects use", "histidine", "arginine"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "The photographs show two mammals, an elephant and a mouse.",
+      "image": "/papers/wbi11-jan2019/q8-elephant-mouse.PNG",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "The height of a mouse is 3 cm. Calculate how many times taller an elephant is than a mouse. Use the white line drawn on the photograph of the elephant to calculate this value.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Approximately 67 times taller (accept 60–75 depending on measurement)",
+          "keywords": ["67", "measurement", "magnification", "0.02"]
+        },
+        {
+          "id": "8b",
+          "text": "The respiratory system of an elephant is different from that of other mammals. The lungs are attached to the chest cavity wall and diaphragm by collagen fibres. Describe how the lungs of an elephant are adapted for gas exchange.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Large surface area / thick pleural membranes / attached to prevent collapse / efficient ventilation / large tidal volume",
+          "keywords": ["surface area", "pleural membrane", "prevent collapse", "ventilation", "tidal volume"]
+        },
+        {
+          "id": "8c",
+          "text": "Graph 1 shows the oxygen dissociation curve of haemoglobin for a mouse and for an elephant. Graph 2 shows the mass-specific metabolic rate for a mouse and for an elephant. Mass-specific metabolic rate is a measure of how much oxygen is needed for chemical reactions per gram of body tissue. Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and for an elephant. Use the information in both graphs to support your answer.",
+          "image": "/papers/wbi11-jan2019/q8-oxygen-graphs.PNG",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Mouse curve to the left of elephant / mouse haemoglobin has higher affinity / mouse releases oxygen at lower partial pressure. Mouse has higher mass-specific metabolic rate / needs more oxygen per gram / higher metabolic rate requires faster oxygen uptake. Elephant has lower metabolic rate per gram / curve to the right allows oxygen release at higher partial pressure.",
+          "keywords": ["mouse left", "elephant right", "affinity", "partial pressure", "metabolic rate", "oxygen", "haemoglobin"]
+        }
+      ]
+    }
+  ]
+}

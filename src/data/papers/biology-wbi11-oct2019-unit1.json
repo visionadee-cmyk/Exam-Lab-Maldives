@@ -1,0 +1,379 @@
+{
+  "paperId": "wbi11-oct-2019-unit1-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI11/01",
+  "session": "October 2019",
+  "title": "Unit 1: Molecules, Diet, Transport and Health",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "The graph shows the relative risk of developing cardiovascular disease (CVD) for non-smokers and for smokers.",
+      "image": "/papers/wbi11-oct2019/q1-cvd-risk-graph.PNG",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "Describe the conclusions that can be made about the risk factors for CVD. Use the information in the graph to support your answer.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Risk increases with age for both groups / smokers have higher risk than non-smokers in every age group / e.g. 25–34 smokers ~3.5 vs non-smokers ~1.5 and 45+ smokers ~7 vs non-smokers ~4.5",
+          "keywords": ["age", "smokers", "higher", "risk", "graph", "25", "45"]
+        },
+        {
+          "id": "1a_ii",
+          "text": "The information shown in this graph was collected more than 25 years ago. Explain how this graph might appear if it showed data collected last year.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Bars for smokers likely lower than before due to reduced smoking rates / better healthcare reduces CVD risk / difference between smokers and non-smokers may be smaller / overall lower risk values",
+          "keywords": ["lower", "smoking", "healthcare", "smaller difference", "overall"]
+        },
+        {
+          "id": "1b",
+          "text": "The number of people in the world who die from CVD each year is 17.7 million. This is 31% of all total deaths. How many deaths are there in the world each year?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "0.571 × 10^6" },
+            { "id": "B", "text": "5.71 × 10^6" },
+            { "id": "C", "text": "57.1 × 10^6" },
+            { "id": "D", "text": "571.00 × 10^6" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "57.1", "10^6"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Rabbits can have brown fur or white fur. A heterozygous rabbit will have brown fur.",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Draw a genetic diagram to show the genotypes and corresponding phenotypes of the baby rabbits produced if two heterozygous rabbits were bred together.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Bb × Bb / gametes B and b from each parent / offspring genotypes: BB, Bb, Bb, bb / phenotypes: 3 brown : 1 white",
+          "keywords": ["Bb", "BB", "bb", "3", "1", "brown", "white", "Punnett"]
+        },
+        {
+          "id": "2b",
+          "text": "A number of heterozygous pairs of rabbits were bred together and produced 284 baby rabbits. Calculate the expected number of homozygous brown rabbits, heterozygous brown rabbits and white rabbits produced.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Genotype ratio from Bb × Bb is 1 BB : 2 Bb : 1 bb / expected numbers: BB = 284 × 1/4 = 71 / Bb = 284 × 1/2 = 142 / bb = 284 × 1/4 = 71",
+          "keywords": ["71", "142", "1:2:1", "BB", "Bb", "bb", "284"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Haemophilia A is an inherited genetic disorder. Haemophilia A results in the blood not being able to clot.",
+      "image": "/papers/wbi11-oct2019/q3-haemophilia-table.PNG",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "The table gives some information about blood clotting components. Complete the table by filling in the empty boxes with either the name of the component, the role of the component or the solubility of the component.",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "thromboplastin: released from damaged tissue / initiates clotting cascade / converts prothrombin to thrombin; thrombin: catalyses conversion of fibrinogen to fibrin / soluble; fibrin: forms insoluble mesh / traps cells / forms clot",
+          "keywords": ["thrombin", "thromboplastin", "prothrombin", "fibrinogen", "fibrin", "insoluble", "mesh", "soluble"]
+        },
+        {
+          "id": "3b",
+          "text": "Haemophilia A is inherited in a similar way to red-green colour blindness. Explain why more males than females are affected with haemophilia A.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Sex-linked on X chromosome / males are XY so one recessive allele on X is expressed / females are XX so need two recessive alleles / heterozygous females are carriers",
+          "keywords": ["X", "sex-linked", "XY", "XX", "recessive", "carrier", "males"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Carbohydrates are important molecules in living organisms.",
+      "image": "/papers/wbi11-oct2019/q4-sweetness-graph.PNG",
+      "parts": [
+        {
+          "id": "4a_i",
+          "text": "Which row in the table gives the correct number of monosaccharides and disaccharides shown in this graph?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "1 monosaccharide and 4 disaccharides" },
+            { "id": "B", "text": "2 monosaccharides and 3 disaccharides" },
+            { "id": "C", "text": "3 monosaccharides and 2 disaccharides" },
+            { "id": "D", "text": "4 monosaccharides and 1 disaccharide" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "3", "2"]
+        },
+        {
+          "id": "4a_ii",
+          "text": "Which bond joins two monosaccharides together to form a disaccharide?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "ester" },
+            { "id": "B", "text": "glycosidic" },
+            { "id": "C", "text": "hydrogen" },
+            { "id": "D", "text": "phosphodiester" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "glycosidic"]
+        },
+        {
+          "id": "4a_iii",
+          "text": "State two conclusions that can be made about the relative sweetness of monosaccharides and of disaccharides.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Fructose is sweetest / lactose is least sweet / monosaccharides (glucose, sucrose? actually sucrose is disaccharide) vary / fructose (mono) sweeter than disaccharides lactose and maltose / sucrose sweeter than glucose",
+          "keywords": ["fructose", "lactose", "maltose", "sucrose", "glucose", "sweet"]
+        },
+        {
+          "id": "4a_iv",
+          "text": "Devise an investigation that a student could carry out to confirm the data shown in the graph.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Prepare equal concentration solutions of each sugar / control volume and temperature / taste test with multiple volunteers using blind samples / rinse between tests / rank sweetness / repeat and calculate mean rankings",
+          "keywords": ["equal concentration", "control", "blind", "repeat", "mean", "rank"]
+        },
+        {
+          "id": "4b",
+          "text": "Amylose and amylopectin are components of starch. Compare and contrast the structure of amylose with the structure of amylopectin.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Both are polymers of α-glucose / amylose is unbranched with α-1,4 glycosidic bonds / amylopectin is branched with α-1,4 and α-1,6 glycosidic bonds",
+          "keywords": ["alpha glucose", "unbranched", "branched", "1,4", "1,6", "glycosidic"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "An amoeba is a single-celled organism that lives in water. The photograph shows an amoeba, as seen using a light microscope.",
+      "image": "/papers/wbi11-oct2019/q5-amoeba-transport-table.PNG",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Which feature is true for active transport only, facilitated diffusion only, both active transport and facilitated diffusion, or not true for both active transport and facilitated diffusion?",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "passive process = facilitated diffusion only / membrane proteins involved = both / transport up concentration gradient = active transport only",
+          "keywords": ["passive", "facilitated", "membrane proteins", "both", "up", "gradient", "active"]
+        },
+        {
+          "id": "5b_i",
+          "text": "Explain the differences in the uptake of substance K and substance L.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "K increases linearly with no plateau (simple diffusion) / L increases then plateaus due to carrier proteins saturating (facilitated diffusion/active transport)",
+          "keywords": ["plateau", "saturation", "carriers", "linear", "diffusion"]
+        },
+        {
+          "id": "5b_ii",
+          "text": "On the graph, draw a line to show the uptake of substance L at 10°C.",
+          "image": "/papers/wbi11-oct2019/q5-uptake-graph.PNG",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Curve below the 18°C line with lower gradient / reaches a lower plateau (reduced rate at lower temperature)",
+          "keywords": ["below", "lower", "plateau", "temperature"]
+        },
+        {
+          "id": "5c_i",
+          "text": "Explain why the membrane is able to change its shape when cytoplasm flows towards it.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Phospholipid bilayer is fluid / phospholipids move laterally / flexible membrane / not rigid",
+          "keywords": ["fluid", "phospholipid", "bilayer", "flexible"]
+        },
+        {
+          "id": "5c_ii",
+          "text": "Explain how the uptake of substances would be affected if the amoeba increased its number of pseudopodia.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Increased surface area for diffusion / faster uptake of substances / more membrane area",
+          "keywords": ["surface area", "diffusion", "faster", "uptake"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Errors in DNA replication can give rise to mutations. The diagram shows the bases in a length of DNA. The table shows the genetic code for the amino acids.",
+      "image": "/papers/wbi11-oct2019/q6-genetic-code-table.PNG",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "State the sequence of the first four amino acids coded for by this length of DNA.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Depends on transcription/translation reading frame; use codons from the given sequence and table",
+          "keywords": ["codon", "amino acid", "sequence"]
+        },
+        {
+          "id": "6b_i",
+          "text": "Name the type of each mutation described below: Base number 3 becomes cytosine (C); Base number 6 becomes number 5 in the sequence; Base number 9 becomes number 10 in the sequence.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Substitution / deletion / insertion",
+          "keywords": ["substitution", "deletion", "insertion"]
+        },
+        {
+          "id": "6b_ii",
+          "text": "Explain the possible effects of these three types of mutation on the amino acid sequence coded for by this length of DNA. Use the information in the table to support your answer.",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Substitution may change one codon so one amino acid changes or may be silent / insertion or deletion causes a frameshift changing many codons and amino acids / may create a stop codon and shorten the polypeptide",
+          "keywords": ["frameshift", "codon", "stop", "shorten", "silent", "amino acid"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 15,
+      "question": "Blood flow and blood pressure are affected by a number of factors.",
+      "image": "/papers/wbi11-oct2019/q7-blood-pressure-graph.PNG",
+      "parts": [
+        {
+          "id": "7a_i",
+          "text": "Pulse pressure is the difference between systolic pressure and diastolic pressure. In a healthy person, pulse pressure should be at least 25% of the systolic pressure. Determine whether this person is healthy, using the point indicated by the arrow on the x-axis of the graph.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Calculate pulse pressure and compare with 25% of systolic; conclude healthy/not healthy based on values from the arrow point",
+          "keywords": ["pulse", "25%", "systolic", "diastolic", "healthy"]
+        },
+        {
+          "id": "7a_ii",
+          "text": "The mean arterial pressure (MAP) can be approximated using the formula. Estimate the MAP in the elastic arteries for this person.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Use MAP = diastolic + (systolic - diastolic)/3 with estimated values from graph",
+          "keywords": ["MAP", "diastolic", "systolic", "/3"]
+        },
+        {
+          "id": "7a_iii",
+          "text": "If the mean arterial pressure (MAP) value is less than 8 kPa, the force pushing the blood through the vessels will be too low. Explain how a low MAP could affect a person.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Reduced blood flow to tissues / less oxygen and glucose delivery / dizziness/fainting / organ failure if severe",
+          "keywords": ["reduced", "blood flow", "oxygen", "tissues", "faint"]
+        },
+        {
+          "id": "7b_i",
+          "text": "Which formula can be used to calculate resistance?",
+          "image": "/papers/wbi11-oct2019/q7-blood-flow-formula.PNG",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "8ηl / πΔPr^4" },
+            { "id": "B", "text": "πΔPr^4 / 8ηl" },
+            { "id": "C", "text": "πr^4 / 8ηl" },
+            { "id": "D", "text": "8ηl / πr^4" }
+          ],
+          "answer": "A",
+          "keywords": ["A", "8", "η", "l", "π", "ΔP", "r^4"]
+        },
+        {
+          "id": "7b_ii",
+          "text": "A change in which factor has the biggest effect on resistance?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "blood pressure" },
+            { "id": "B", "text": "length of the blood vessel" },
+            { "id": "C", "text": "radius of the blood vessel lumen" },
+            { "id": "D", "text": "thickness of the blood vessel wall" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "radius", "r^4"]
+        },
+        {
+          "id": "7b_iii",
+          "text": "Explain how arteries are adapted to reduce resistance to blood flow.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Large lumen radius reduces resistance (r^4) / smooth endothelium reduces friction / elastic walls maintain flow",
+          "keywords": ["lumen", "radius", "smooth", "endothelium", "elastic", "resistance"]
+        },
+        {
+          "id": "7c_i",
+          "text": "Blood vessels can expand to accommodate increased blood flow. This is known as compliance. Explain how arteries are adapted to accommodate sudden increases in blood flow.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Elastic fibres allow stretch and recoil / smooth muscle adjusts diameter / reduces pressure surges",
+          "keywords": ["elastic", "recoil", "stretch", "smooth muscle"]
+        },
+        {
+          "id": "7c_ii",
+          "text": "Explain why a reduction in the compliance of a blood vessel can lead to cardiovascular disease (CVD).",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Less elastic arteries increase blood pressure / damage endothelium / promotes atherosclerosis / increases workload on heart",
+          "keywords": ["blood pressure", "elastic", "atherosclerosis", "heart", "damage"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 15,
+      "question": "The amino acid aspartate is converted into the amino acid arginine in the urea cycle. The urea cycle involves several enzymes and takes place in the liver.",
+      "image": "/papers/wbi11-oct2019/q8-urea-cycle-diagram.PNG",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "The R group of aspartate is shown. Draw the structure of the amino acid aspartate.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Correct amino acid structure with NH2, COOH, H and R group on central carbon (aspartate R = CH2COO−)",
+          "keywords": ["NH2", "COOH", "CH2", "COO", "aspartate"]
+        },
+        {
+          "id": "8b",
+          "text": "Explain why several enzymes are involved in the urea cycle.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Each step is a different reaction needing a specific enzyme / enzymes are specific to substrates / lowers activation energy for each step / allows control of pathway",
+          "keywords": ["specific", "activation energy", "steps", "substrate", "control"]
+        },
+        {
+          "id": "8c_i",
+          "text": "Ornithine transcarbamylase (OTC) is one enzyme involved in the urea cycle. Ornithine transcarbamylase deficiency is an inherited genetic disorder. Suggest how a person can be shown to have this disorder.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Measure ammonia concentration in blood (high) / test OTC enzyme activity / genetic test for mutation in OTC gene",
+          "keywords": ["ammonia", "blood", "OTC", "enzyme", "genetic test", "mutation"]
+        },
+        {
+          "id": "8c_ii",
+          "text": "Targeted mRNA therapy is being developed to treat OTC deficiency in mice. Targeted mRNA therapy involves injecting mice with phospholipid particles containing OTC mRNA. Explain how this treatment works. Use the information in the diagram of the urea cycle, the diagram of the particle and the table of results to support your answer.",
+          "image": "/papers/wbi11-oct2019/q8-mrna-particle-table.PNG",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Particles deliver OTC mRNA into liver cells / mRNA translated to make functional OTC enzyme / restores urea cycle conversion of ammonia to urea / lowers blood ammonia (supported by table: treated OTC-deficient mice have much lower ammonia)",
+          "keywords": ["mRNA", "translate", "OTC", "enzyme", "liver", "urea", "ammonia", "lower"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { AuthProvider } from './contexts/AuthContext';
+import { Layout } from './components/Layout';
+import { ProtectedRoute } from './components/ProtectedRoute';
+
+// Pages
+import { Home } from './pages/Home';
+import { Login } from './pages/Login';
+import { Signup } from './pages/Signup';
+import { Subjects } from './pages/Subjects';
+import { SubjectDetail } from './pages/SubjectDetail';
+import { Practice } from './pages/Practice';
+import { Exam } from './pages/Exam';
+import { Progress } from './pages/Progress';
+import { Admin } from './pages/Admin';
+import { Paper } from './pages/Paper';
+import { PdfLibrary } from './pages/PdfLibrary';
+
+function App() {
+  return (
+    <AuthProvider>
+      <Router>
+        <Routes>
+          {/* Public Routes */}
+          <Route path="/login" element={<Login />} />
+          <Route path="/signup" element={<Signup />} />
+          
+          {/* Protected Routes */}
+          <Route path="/" element={
+            <ProtectedRoute>
+              <Layout />
+            </ProtectedRoute>
+          }>
+            <Route index element={<Home />} />
+            <Route path="subjects" element={<Subjects />} />
+            <Route path="subjects/:subjectId" element={<SubjectDetail />} />
+            <Route path="practice" element={<Practice />} />
+            <Route path="exam" element={<Exam />} />
+            <Route path="paper" element={<Paper />} />
+            <Route path="pdf-library" element={<PdfLibrary />} />
+            <Route path="progress" element={<Progress />} />
+            <Route path="admin" element={
+              <ProtectedRoute requireAdmin>
+                <Admin />
+              </ProtectedRoute>
+            } />
+          </Route>
+        </Routes>
+      </Router>
+    </AuthProvider>
+  );
+}
+
+export default App
