@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useQuestions } from '../hooks/useQuestions';
 import { SUBJECTS, QUESTION_TYPES, DIFFICULTY_LEVELS } from '../data/subjects';
-import { db } from '../firebase';
+import { db } from '../services/firebase';
 import { 
   collection, 
   query, 
