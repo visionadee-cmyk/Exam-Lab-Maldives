@@ -1,8 +1,8 @@
 import { useState, useEffect, useMemo } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Link } from 'react-router-dom';
 import { 
   FileText, BookOpen, CheckCircle, XCircle, RefreshCw, Crown, 
-  Zap, Target, Award, Users, ArrowRight, Star, Shield, Clock
+  Zap, Target, Award, Users, ArrowRight, Star, Shield, Clock, LogIn, UserPlus
 } from 'lucide-react';
 import { cn } from '../utils/cn';
 
@@ -171,62 +171,90 @@ export function PdfLibraryHero() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
+    <div className="min-h-screen" style={{ backgroundColor: '#F8FAFC' }}>
       {/* Hero Section */}
-      <div className="relative overflow-hidden">
-        {/* Background Pattern */}
-        <div className="absolute inset-0 opacity-30">
-          <div className="absolute top-20 left-10 w-72 h-72 bg-blue-300 rounded-full mix-blend-multiply filter blur-xl animate-blob" />
-          <div className="absolute top-20 right-10 w-72 h-72 bg-purple-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-2000" />
-          <div className="absolute -bottom-8 left-1/2 w-72 h-72 bg-pink-300 rounded-full mix-blend-multiply filter blur-xl animate-blob animation-delay-4000" />
-        </div>
+      <div className="relative overflow-hidden" style={{ backgroundColor: '#F8FAFC' }}>
+        <div className="relative max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
+          {/* Header with Auth Buttons */}
+          <div className="flex justify-end gap-3 mb-8">
+            <Link
+              to="/login"
+              className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
+              style={{ backgroundColor: 'white', color: '#2563EB', border: '2px solid #2563EB' }}
+            >
+              <LogIn className="w-4 h-4" />
+              Login
+            </Link>
+            <Link
+              to="/signup"
+              className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
+              style={{ backgroundColor: '#2563EB', color: 'white' }}
+            >
+              <UserPlus className="w-4 h-4" />
+              Sign Up
+            </Link>
+          </div>
 
-        <div className="relative max-w-7xl mx-auto px-4 py-16 sm:px-6 lg:px-8">
-          {/* Header */}
-          <div className="text-center mb-12">
+          {/* Hero Content */}
+          <div className="grid lg:grid-cols-2 gap-12 items-center">
+            {/* Left - Text */}
+            <div>
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-medium mb-4">
               <Star className="w-4 h-4" />
               #1 Exam Resource in Maldives
             </div>
-            <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-4">
-              Past Papers Library
+            <h1 className="text-4xl md:text-5xl font-bold mb-4" style={{ color: '#111827' }}>
+              Exam Lab <span style={{ color: '#2563EB' }}>Maldives</span>
             </h1>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
-              Access thousands of verified past exam papers. Practice with real questions from Cambridge, Edexcel, and more.
+            <p className="text-lg mb-6" style={{ color: '#1E40AF' }}>
+              Your complete exam preparation companion. Access thousands of verified past papers, 
+              practice with answers, and track your progress to ace your O-Level & A-Level exams.
             </p>
 
             {/* Stats */}
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto mb-8">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto mb-8">
               {stats.map((stat, idx) => (
                 <div key={idx} className="bg-white/80 backdrop-blur-sm rounded-2xl p-4 shadow-lg">
-                  <div className="text-2xl md:text-3xl font-bold text-blue-600">{stat.value}</div>
+                  <div className="text-2xl md:text-3xl font-bold" style={{ color: '#2563EB' }}>{stat.value}</div>
                   <div className="text-sm text-gray-600">{stat.label}</div>
                 </div>
               ))}
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-4">
               <button
                 onClick={() => navigate('/pdf-library/view')}
-                className="px-8 py-4 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition-all shadow-lg hover:shadow-xl flex items-center justify-center gap-2"
+                className="px-6 py-3 rounded-xl font-semibold transition-all shadow-lg flex items-center justify-center gap-2"
+                style={{ backgroundColor: '#2563EB', color: 'white' }}
               >
                 View Free Papers
                 <ArrowRight className="w-5 h-5" />
               </button>
               <button
                 onClick={() => document.getElementById('pricing').scrollIntoView({ behavior: 'smooth' })}
-                className="px-8 py-4 bg-white text-gray-700 rounded-xl font-semibold hover:bg-gray-50 transition-all shadow-lg border border-gray-200 flex items-center justify-center gap-2"
+                className="px-6 py-3 rounded-xl font-semibold transition-all shadow-lg flex items-center justify-center gap-2"
+                style={{ backgroundColor: 'white', color: '#111827', border: '2px solid #E5E7EB' }}
               >
-                <Crown className="w-5 h-5 text-amber-500" />
-                Unlock Full Access
+                <Crown className="w-5 h-5" style={{ color: '#F59E0B' }} />
+                Upgrade
               </button>
+            </div>
+            </div>
+
+            {/* Right - Illustration */}
+            <div className="hidden lg:block">
+              <img 
+                src="/storyset/Exams-cuate.png" 
+                alt="Exam Preparation" 
+                className="w-full h-auto max-w-lg mx-auto"
+              />
             </div>
           </div>
         </div>
       </div>
 
       {/* Features Section */}
-      <div className="py-16 bg-white">
+      <div className="py-16" style={{ backgroundColor: '#FFFFFF' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Everything You Need to Ace Your Exams</h2>
@@ -237,12 +265,12 @@ export function PdfLibraryHero() {
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {FEATURES.map((feature, idx) => (
-              <div key={idx} className="p-6 rounded-2xl bg-gradient-to-br from-gray-50 to-white border border-gray-100 hover:shadow-lg transition-all">
-                <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center mb-4">
-                  <feature.icon className="w-6 h-6 text-blue-600" />
+              <div key={idx} className="p-6 rounded-2xl border hover:shadow-lg transition-all" style={{ backgroundColor: '#FFFFFF', borderColor: '#E5E7EB' }}>
+                <div className="w-12 h-12 rounded-xl flex items-center justify-center mb-4" style={{ backgroundColor: '#DBEAFE' }}>
+                  <feature.icon className="w-6 h-6" style={{ color: '#2563EB' }} />
                 </div>
-                <h3 className="text-lg font-semibold text-gray-900 mb-2">{feature.title}</h3>
-                <p className="text-gray-600">{feature.description}</p>
+                <h3 className="text-lg font-semibold mb-2" style={{ color: '#111827' }}>{feature.title}</h3>
+                <p style={{ color: '#6B7280' }}>{feature.description}</p>
               </div>
             ))}
           </div>
@@ -250,11 +278,11 @@ export function PdfLibraryHero() {
       </div>
 
       {/* Pricing Section */}
-      <div id="pricing" className="py-16 bg-gradient-to-b from-white to-blue-50">
+      <div id="pricing" className="py-16" style={{ backgroundColor: '#FFFFFF' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Simple, Transparent Pricing</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">
+            <h2 className="text-3xl font-bold mb-4" style={{ color: '#111827' }}>Simple, Transparent Pricing</h2>
+            <p className="max-w-2xl mx-auto" style={{ color: '#6B7280' }}>
               Choose the plan that fits your needs. All prices in Maldivian Rufiyaa (MVR).
             </p>
           </div>
@@ -263,12 +291,11 @@ export function PdfLibraryHero() {
             {PRICING_PLANS.map((plan) => (
               <div
                 key={plan.id}
-                className={cn(
-                  'relative rounded-2xl p-6 transition-all hover:shadow-xl',
-                  plan.popular 
-                    ? 'bg-gradient-to-br from-blue-600 to-indigo-600 text-white ring-4 ring-blue-600 ring-offset-2' 
-                    : 'bg-white border border-gray-200'
-                )}
+                className="relative rounded-2xl p-6 transition-all hover:shadow-xl border"
+                style={{ 
+                  backgroundColor: plan.popular ? '#2563EB' : '#FFFFFF',
+                  borderColor: plan.popular ? '#2563EB' : '#E5E7EB',
+                }}
               >
                 {plan.popular && (
                   <div className="absolute -top-3 left-1/2 -translate-x-1/2 px-4 py-1 bg-amber-400 text-amber-900 text-sm font-bold rounded-full">
@@ -277,28 +304,25 @@ export function PdfLibraryHero() {
                 )}
 
                 <div className="flex items-center gap-3 mb-4">
-                  <div className={cn(
-                    'w-10 h-10 rounded-xl flex items-center justify-center',
-                    plan.popular ? 'bg-white/20' : 'bg-blue-100'
-                  )}>
-                    <plan.icon className={cn('w-5 h-5', plan.popular ? 'text-white' : 'text-blue-600')} />
+                  <div className="w-10 h-10 rounded-xl flex items-center justify-center" style={{ backgroundColor: plan.popular ? 'rgba(255,255,255,0.2)' : '#DBEAFE' }}>
+                    <plan.icon className="w-5 h-5" style={{ color: plan.popular ? 'white' : '#2563EB' }} />
                   </div>
                   <div>
-                    <h3 className={cn('font-bold text-lg', plan.popular ? 'text-white' : 'text-gray-900')}>
+                    <h3 className="font-bold text-lg" style={{ color: plan.popular ? 'white' : '#111827' }}>
                       {plan.name}
                     </h3>
-                    <p className={cn('text-sm', plan.popular ? 'text-blue-100' : 'text-gray-500')}>
+                    <p className="text-sm" style={{ color: plan.popular ? 'rgba(255,255,255,0.8)' : '#6B7280' }}>
                       {plan.description}
                     </p>
                   </div>
                 </div>
 
                 <div className="mb-6">
-                  <span className={cn('text-4xl font-bold', plan.popular ? 'text-white' : 'text-gray-900')}>
+                  <span className="text-4xl font-bold" style={{ color: plan.popular ? 'white' : '#111827' }}>
                     {plan.price === 0 ? 'Free' : `${plan.price} MVR`}
                   </span>
                   {plan.price > 0 && (
-                    <span className={cn('text-sm', plan.popular ? 'text-blue-100' : 'text-gray-500')}>
+                    <span className="text-sm" style={{ color: plan.popular ? 'rgba(255,255,255,0.8)' : '#6B7280' }}>
                       {plan.period}
                     </span>
                   )}
@@ -308,16 +332,11 @@ export function PdfLibraryHero() {
                   {plan.features.map((feature, idx) => (
                     <li key={idx} className="flex items-start gap-2">
                       {feature.included ? (
-                        <CheckCircle className={cn('w-5 h-5 flex-shrink-0', plan.popular ? 'text-green-300' : 'text-green-500')} />
+                        <CheckCircle className="w-5 h-5 flex-shrink-0" style={{ color: plan.popular ? '#86EFAC' : '#10B981' }} />
                       ) : (
-                        <XCircle className={cn('w-5 h-5 flex-shrink-0', plan.popular ? 'text-white/40' : 'text-gray-300')} />
+                        <XCircle className="w-5 h-5 flex-shrink-0" style={{ color: plan.popular ? 'rgba(255,255,255,0.4)' : '#D1D5DB' }} />
                       )}
-                      <span className={cn(
-                        'text-sm',
-                        feature.included 
-                          ? (plan.popular ? 'text-white' : 'text-gray-700')
-                          : (plan.popular ? 'text-white/50' : 'text-gray-400')
-                      )}>
+                      <span className="text-sm" style={{ color: feature.included ? (plan.popular ? 'white' : '#374151') : (plan.popular ? 'rgba(255,255,255,0.6)' : '#9CA3AF') }}>
                         {feature.text}
                       </span>
                     </li>
@@ -326,12 +345,11 @@ export function PdfLibraryHero() {
 
                 <button
                   onClick={() => handlePlanSelect(plan)}
-                  className={cn(
-                    'w-full py-3 px-4 rounded-xl font-semibold transition-all',
-                    plan.popular 
-                      ? 'bg-white text-blue-600 hover:bg-blue-50' 
-                      : 'bg-blue-600 text-white hover:bg-blue-700'
-                  )}
+                  className="w-full py-3 px-4 rounded-xl font-semibold transition-all"
+                  style={{ 
+                    backgroundColor: plan.popular ? 'white' : '#2563EB',
+                    color: plan.popular ? '#2563EB' : 'white'
+                  }}
                 >
                   {plan.cta}
                 </button>
@@ -340,7 +358,7 @@ export function PdfLibraryHero() {
           </div>
 
           {/* Trust Badges */}
-          <div className="mt-12 flex flex-wrap justify-center gap-6 text-gray-500">
+          <div className="mt-12 flex flex-wrap justify-center gap-6" style={{ color: '#6B7280' }}>
             <div className="flex items-center gap-2">
               <Shield className="w-5 h-5" />
               <span className="text-sm">Secure Payments</span>
@@ -358,25 +376,27 @@ export function PdfLibraryHero() {
       </div>
 
       {/* CTA Section */}
-      <div className="py-16 bg-gray-900">
+      <div className="py-16" style={{ backgroundColor: '#111827' }}>
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold text-white mb-4">Ready to Ace Your Exams?</h2>
           <p className="text-gray-300 mb-8 text-lg">
             Join thousands of students in Maldives who are already using Exam Lab to achieve top grades.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button
-              onClick={() => navigate('/pdf-library/view')}
-              className="px-8 py-4 bg-blue-600 text-white rounded-xl font-semibold hover:bg-blue-700 transition-all"
+            <Link
+              to="/pdf-library/view"
+              className="px-8 py-4 rounded-xl font-semibold transition-all"
+              style={{ backgroundColor: '#2563EB', color: 'white' }}
             >
               Start Free Now
-            </button>
-            <button
-              onClick={() => navigate('/subjects')}
-              className="px-8 py-4 bg-gray-800 text-white rounded-xl font-semibold hover:bg-gray-700 transition-all border border-gray-700"
+            </Link>
+            <Link
+              to="/subjects"
+              className="px-8 py-4 rounded-xl font-semibold transition-all border"
+              style={{ backgroundColor: '#1F2937', color: 'white', borderColor: '#374151' }}
             >
               Explore All Subjects
-            </button>
+            </Link>
           </div>
         </div>
       </div>

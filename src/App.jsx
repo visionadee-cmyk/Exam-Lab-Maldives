@@ -23,6 +23,7 @@ function App() {
       <Router>
         <Routes>
           {/* Public Routes */}
+          <Route path="/" element={<PdfLibraryHero />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           
