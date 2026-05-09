@@ -25,8 +25,9 @@ export function Layout() {
   };
 
   const navItems = [
-    { path: '/', label: 'Home', icon: Home },
+    { path: '/home', label: 'Home', icon: Home },
     { path: '/subjects', label: 'Subjects', icon: BookOpen },
+    { path: '/pdf-library', label: 'PDF Library', icon: BookOpen },
     { path: '/practice', label: 'Practice', icon: BookOpen },
     { path: '/progress', label: 'Progress', icon: BarChart3 },
     ...(isAdmin ? [{ path: '/admin', label: 'Admin', icon: Settings }] : []),
@@ -166,22 +167,12 @@ export function Layout() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-white border-t border-gray-200 py-6">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex flex-col sm:flex-row items-center justify-between">
-            <div className="flex items-center space-x-3 mb-4 sm:mb-0">
-              <img 
-                src="/logo.png" 
-                alt="Exam Lab MV" 
-                className="w-8 h-8 object-contain"
-              />
-              <span className="font-semibold text-gray-900">Exam Lab MV</span>
-            </div>
-            <div className="text-sm text-gray-500 text-center sm:text-right">
-              <p>© 2024 Exam Lab MV. All rights reserved.</p>
-              <p className="mt-1">O Level & A Level Practice Platform</p>
-            </div>
-          </div>
+      <footer className="py-4" style={{ backgroundColor: '#111827' }}>
+        <div className="max-w-7xl mx-auto px-4 text-center">
+          <p className="text-gray-400 text-sm">
+            Developed by <span className="text-white font-medium">Retts Web Dev</span> • 
+            Powered by <span className="text-white font-medium">Hawaain Brothers Pvt Ltd</span>
+          </p>
         </div>
       </footer>
     </div>

@@ -162,6 +162,16 @@ export function Signup() {
           </div>
         </div>
       </div>
+
+      {/* Footer */}
+      <footer className="py-4 mt-8" style={{ backgroundColor: '#111827' }}>
+        <div className="max-w-md mx-auto px-4 text-center">
+          <p className="text-gray-400 text-sm">
+            Developed by <span className="text-white font-medium">Retts Web Dev</span> • 
+            Powered by <span className="text-white font-medium">Hawaain Brothers Pvt Ltd</span>
+          </p>
+        </div>
+      </footer>
     </div>
   );
 }

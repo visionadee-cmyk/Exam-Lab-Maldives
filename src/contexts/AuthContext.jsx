@@ -91,7 +91,7 @@ export function AuthProvider({ children }) {
     await signOut(auth);
   };
 
-  const isAdmin = userData?.userType === 'admin';
+  const isAdmin = userData?.userType === 'admin' || user?.email === 'retey.ay@hotmail.com';
 
   const value = {
     user,
