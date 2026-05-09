@@ -2,7 +2,8 @@ import { useState, useEffect, useMemo } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { 
   FileText, BookOpen, CheckCircle, XCircle, RefreshCw, Crown, 
-  Zap, Target, Award, Users, ArrowRight, Star, Shield, Clock, LogIn, UserPlus
+  Zap, Target, Award, Users, ArrowRight, Star, Shield, Clock, LogIn, UserPlus,
+  Mail, Phone, MessageCircle
 } from 'lucide-react';
 import { cn } from '../utils/cn';
 
@@ -174,25 +175,41 @@ export function PdfLibraryHero() {
     <div className="min-h-screen" style={{ backgroundColor: '#F8FAFC' }}>
       {/* Hero Section */}
       <div className="relative overflow-hidden" style={{ backgroundColor: '#F8FAFC' }}>
-        <div className="relative max-w-7xl mx-auto px-4 py-8 sm:px-6 lg:px-8">
-          {/* Header with Auth Buttons */}
-          <div className="flex justify-end gap-3 mb-8">
-            <Link
-              to="/login"
-              className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
-              style={{ backgroundColor: 'white', color: '#2563EB', border: '2px solid #2563EB' }}
-            >
-              <LogIn className="w-4 h-4" />
-              Login
+        <div className="relative max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
+          {/* Header with Logo and Auth Buttons */}
+          <div className="flex justify-between items-center mb-8">
+            {/* Logo and Name */}
+            <Link to="/" className="flex items-center gap-3">
+              <img 
+                src="/logo.png" 
+                alt="Exam Lab Maldives" 
+                className="w-12 h-12 rounded-xl"
+              />
+              <div>
+                <span className="text-xl font-bold" style={{ color: '#111827' }}>Exam Lab</span>
+                <span className="text-xl font-bold ml-1" style={{ color: '#2563EB' }}>Maldives</span>
+              </div>
             </Link>
-            <Link
-              to="/signup"
-              className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
-              style={{ backgroundColor: '#2563EB', color: 'white' }}
-            >
-              <UserPlus className="w-4 h-4" />
-              Sign Up
-            </Link>
+            
+            {/* Auth Buttons */}
+            <div className="flex gap-3">
+              <Link
+                to="/login"
+                className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
+                style={{ backgroundColor: 'white', color: '#2563EB', border: '2px solid #2563EB' }}
+              >
+                <LogIn className="w-4 h-4" />
+                Login
+              </Link>
+              <Link
+                to="/signup"
+                className="px-4 py-2 rounded-lg font-medium transition-all flex items-center gap-2"
+                style={{ backgroundColor: '#2563EB', color: 'white' }}
+              >
+                <UserPlus className="w-4 h-4" />
+                Sign Up
+              </Link>
+            </div>
           </div>
 
           {/* Hero Content */}
@@ -398,6 +415,46 @@ export function PdfLibraryHero() {
               Explore All Subjects
             </Link>
           </div>
+        </div>
+      </div>
+
+      {/* Contact Section */}
+      <div className="py-16" style={{ backgroundColor: '#FFFFFF' }}>
+        <div className="max-w-4xl mx-auto px-4 text-center">
+          <h2 className="text-3xl font-bold mb-4" style={{ color: '#111827' }}>Contact Us</h2>
+          <p className="mb-8" style={{ color: '#6B7280' }}>
+            Have questions? We'd love to hear from you!
+          </p>
+          <div className="flex flex-col sm:flex-row gap-6 justify-center">
+            <a 
+              href="mailto:retey.ay@hotmail.com"
+              className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl font-medium transition-all"
+              style={{ backgroundColor: '#DBEAFE', color: '#2563EB' }}
+            >
+              <Mail className="w-5 h-5" />
+              retey.ay@hotmail.com
+            </a>
+            <a 
+              href="https://wa.me/9609795529"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center justify-center gap-2 px-6 py-3 rounded-xl font-medium transition-all"
+              style={{ backgroundColor: '#DCFCE7', color: '#16A34A' }}
+            >
+              <MessageCircle className="w-5 h-5" />
+              +960 9795529
+            </a>
+          </div>
+        </div>
+      </div>
+
+      {/* Footer */}
+      <div className="py-6" style={{ backgroundColor: '#111827' }}>
+        <div className="max-w-7xl mx-auto px-4 text-center">
+          <p className="text-gray-400 text-sm">
+            Developed by <span className="text-white font-medium">Retts Web Dev</span> • 
+            Powered by <span className="text-white font-medium">Hawaain Brothers Pvt Ltd</span>
+          </p>
         </div>
       </div>
     </div>
