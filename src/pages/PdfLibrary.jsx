@@ -11,6 +11,7 @@ export function PdfLibrary() {
   const [boardFilter, setBoardFilter] = useState('all');
   const [subjectFilter, setSubjectFilter] = useState('all');
   const [typeTab, setTypeTab] = useState('all'); // 'all', 'qp', 'ms'
+  const [selectedPdf, setSelectedPdf] = useState(null);
 
   useEffect(() => {
     fetch('/pdf-manifest.json')
@@ -164,13 +165,11 @@ export function PdfLibrary() {
       {/* Cards Grid */}
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         {filtered.map((item, idx) => (
-          <a
+          <div
             key={idx}
-            href={item.url}
-            target="_blank"
-            rel="noreferrer"
+            onClick={() => setSelectedPdf(item)}
             className={cn(
-              'group block rounded-xl border transition-all overflow-hidden',
+              'group block rounded-xl border transition-all overflow-hidden cursor-pointer',
               item.isQP
                 ? 'bg-white border-blue-200 hover:shadow-lg hover:border-blue-400'
                 : 'bg-white border-green-200 hover:shadow-lg hover:border-green-400'
@@ -214,9 +213,41 @@ export function PdfLibrary() {
                 <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-primary-600" />
               </div>
             </div>
-          </a>
+          </div>
         ))}
       </div>
+
+      {/* PDF Viewer Modal */}
+      {selectedPdf && (
+        <div className="fixed inset-0 bg-black/80 z-50 flex items-center justify-center p-4">
+          <div className="bg-white rounded-xl w-full max-w-5xl h-[90vh] flex flex-col">
+            <div className="flex items-center justify-between p-4 border-b">
+              <h3 className="font-semibold text-gray-900 truncate flex-1 mr-4">{selectedPdf.file}</h3>
+              <div className="flex items-center gap-2">
+                <a
+                  href={selectedPdf.url}
+                  download
+                  className="px-3 py-1.5 text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 flex items-center gap-1"
+                >
+                  <Download className="w-4 h-4" />
+                  Download
+                </a>
+                <button
+                  onClick={() => setSelectedPdf(null)}
+                  className="px-3 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200"
+                >
+                  Close
+                </button>
+              </div>
+            </div>
+            <iframe
+              src={selectedPdf.url}
+              className="flex-1 w-full"
+              title={selectedPdf.file}
+            />
+          </div>
+        </div>
+      )}
 
       {filtered.length === 0 && (
         <div className="text-center py-12">
