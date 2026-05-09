@@ -6,13 +6,13 @@ import { getAnalytics } from 'firebase/analytics';
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDruhILEw7xD-lruMJbpBC8S_EZavLr24I",
-  authDomain: "exam-lab-mv.firebaseapp.com",
-  projectId: "exam-lab-mv",
-  storageBucket: "exam-lab-mv.firebasestorage.app",
-  messagingSenderId: "593133464131",
-  appId: "1:593133464131:web:0b646a000e1e553b4a42f6",
-  measurementId: "G-VLZ2P3MWXH"
+  apiKey: "AIzaSyB0RYZGqx4VfOb3-z-v6mgx54z_SWRxvic",
+  authDomain: "exam-lab-maldives.firebaseapp.com",
+  projectId: "exam-lab-maldives",
+  storageBucket: "exam-lab-maldives.firebasestorage.app",
+  messagingSenderId: "814228758812",
+  appId: "1:814228758812:web:239677fa1da62517145ad9",
+  measurementId: "G-XL1EK68TW1"
 };
 
 // Initialize Firebase
@@ -22,6 +22,6 @@ const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
 export const storage = getStorage(app);
-export const analytics = getAnalytics(app);
+export const analytics = typeof window !== 'undefined' ? getAnalytics(app) : null;
 
 export default app;
