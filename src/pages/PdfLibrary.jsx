@@ -1,10 +1,12 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, FileText, Search, ExternalLink, Download, Eye, Calendar, BookOpen, Filter } from 'lucide-react';
+import { ArrowLeft, FileText, Search, ExternalLink, Download, Eye, Calendar, BookOpen, Filter, Lock, Crown } from 'lucide-react';
 import { cn } from '../utils/cn';
+import { useAccessControl } from '../hooks/useAccessControl';
 
 export function PdfLibrary() {
   const navigate = useNavigate();
+  const { canViewAnswers, hasSubjectAccess, userPlan } = useAccessControl();
   const [manifest, setManifest] = useState(null);
   const [search, setSearch] = useState('');
   const [levelFilter, setLevelFilter] = useState('all');
@@ -164,27 +166,45 @@ export function PdfLibrary() {
 
       {/* Cards Grid */}
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {filtered.map((item, idx) => (
+        {filtered.map((item, idx) => {
+          const isLocked = item.isMS && !canViewAnswers();
+          const handleClick = () => {
+            if (isLocked) {
+              alert(`Upgrade to "With Answers" or higher to view mark schemes!\n\nCurrent plan: ${userPlan}\n\nGo to /admin to upgrade.`);
+              return;
+            }
+            setSelectedPdf(item);
+          };
+          
+          return (
           <div
             key={idx}
-            onClick={() => setSelectedPdf(item)}
+            onClick={handleClick}
             className={cn(
               'group block rounded-xl border transition-all overflow-hidden cursor-pointer',
               item.isQP
                 ? 'bg-white border-blue-200 hover:shadow-lg hover:border-blue-400'
-                : 'bg-white border-green-200 hover:shadow-lg hover:border-green-400'
+                : isLocked 
+                  ? 'bg-gray-50 border-gray-200'
+                  : 'bg-white border-green-200 hover:shadow-lg hover:border-green-400'
             )}
           >
             <div className={cn(
-              'aspect-[4/3] flex items-center justify-center',
+              'aspect-[4/3] flex items-center justify-center relative',
               item.isQP
                 ? 'bg-gradient-to-br from-blue-50 to-blue-100'
-                : 'bg-gradient-to-br from-green-50 to-green-100'
+                : isLocked
+                  ? 'bg-gradient-to-br from-gray-100 to-gray-200'
+                  : 'bg-gradient-to-br from-green-50 to-green-100'
             )}>
-              <FileText className={cn(
-                'w-12 h-12 group-hover:scale-110 transition-transform',
-                item.isQP ? 'text-blue-500' : 'text-green-600'
-              )} />
+              {isLocked ? (
+                <Lock className="w-12 h-12 text-gray-400" />
+              ) : (
+                <FileText className={cn(
+                  'w-12 h-12 group-hover:scale-110 transition-transform',
+                  item.isQP ? 'text-blue-500' : 'text-green-600'
+                )} />
+              )}
             </div>
             <div className="p-4 space-y-2">
               <div className="flex items-start justify-between gap-2">
@@ -207,14 +227,19 @@ export function PdfLibrary() {
               </div>
               <div className="flex items-center justify-between pt-2 border-t border-gray-100">
                 <span className="flex items-center gap-1 text-xs text-gray-400">
-                  <Eye className="w-3 h-3" />
-                  View
+                  {isLocked ? <Lock className="w-3 h-3" /> : <Eye className="w-3 h-3" />}
+                  {isLocked ? 'Locked' : 'View'}
                 </span>
-                <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-primary-600" />
+                {isLocked ? (
+                  <Crown className="w-4 h-4 text-amber-500" />
+                ) : (
+                  <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-primary-600" />
+                )}
               </div>
             </div>
           </div>
-        ))}
+          );
+        })}
       </div>
 
       {/* PDF Viewer Modal */}
