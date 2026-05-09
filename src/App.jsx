@@ -29,19 +29,19 @@ function App() {
           <Route path="/signup" element={<Signup />} />
           
           {/* Protected Routes */}
-          <Route path="/" element={
+          <Route element={
             <ProtectedRoute>
               <Layout />
             </ProtectedRoute>
           }>
-            <Route index element={<Home />} />
-            <Route path="subjects" element={<Subjects />} />
-            <Route path="subjects/:subjectId" element={<SubjectDetail />} />
-            <Route path="practice" element={<Practice />} />
-            <Route path="exam" element={<Exam />} />
-            <Route path="paper" element={<Paper />} />
-            <Route path="progress" element={<Progress />} />
-            <Route path="admin" element={
+            <Route path="/home" element={<Home />} />
+            <Route path="/subjects" element={<Subjects />} />
+            <Route path="/subjects/:subjectId" element={<SubjectDetail />} />
+            <Route path="/practice" element={<Practice />} />
+            <Route path="/exam" element={<Exam />} />
+            <Route path="/paper" element={<Paper />} />
+            <Route path="/progress" element={<Progress />} />
+            <Route path="/admin" element={
               <ProtectedRoute requireAdmin>
                 <Admin />
               </ProtectedRoute>

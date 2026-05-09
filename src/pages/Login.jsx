@@ -16,11 +16,11 @@ export function Login() {
 
   useEffect(() => {
     if (isAuthenticated) {
-      navigate('/', { replace: true });
+      navigate('/home', { replace: true });
     }
   }, [isAuthenticated, navigate]);
   
-  const from = location.state?.from?.pathname || '/';
+  const from = location.state?.from?.pathname || '/home';
 
   const handleSubmit = async (e) => {
     e.preventDefault();

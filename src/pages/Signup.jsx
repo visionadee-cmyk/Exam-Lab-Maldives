@@ -17,7 +17,7 @@ export function Signup() {
 
   useEffect(() => {
     if (isAuthenticated) {
-      navigate('/', { replace: true });
+      navigate('/home', { replace: true });
     }
   }, [isAuthenticated, navigate]);
 
