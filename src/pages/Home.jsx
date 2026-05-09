@@ -40,14 +40,17 @@ export function Home() {
   return (
     <div className="space-y-8">
       {/* Hero Section */}
-      <section className="text-center py-8 md:py-12">
-        <img 
-          src="/logo.png" 
-          alt="Exam Lab MV" 
-          className="w-24 h-24 md:w-32 md:h-32 mx-auto mb-6 object-contain"
-        />
-        <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-          Master Your Exams with{' '}
+      <section className="py-8 md:py-12">
+        <div className="grid lg:grid-cols-2 gap-8 items-center">
+          {/* Left - Text */}
+          <div className="text-center lg:text-left">
+            <img 
+              src="/logo.png" 
+              alt="Exam Lab MV" 
+              className="w-24 h-24 mx-auto lg:mx-0 mb-6 object-contain"
+            />
+            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
+              Master Your Exams with{' '}
           <span className="text-primary-600">Exam Lab MV</span>
         </h1>
         <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-8">
@@ -70,6 +73,17 @@ export function Home() {
               </Link>
             </>
           )}
+        </div>
+          </div>
+          
+          {/* Right - Illustration */}
+          <div className="hidden lg:block">
+            <img 
+              src="/storyset/Online learning-amico.png" 
+              alt="Online Learning" 
+              className="w-full h-auto max-w-md mx-auto"
+            />
+          </div>
         </div>
       </section>
 
