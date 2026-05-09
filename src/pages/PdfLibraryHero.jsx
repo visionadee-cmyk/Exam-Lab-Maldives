@@ -164,7 +164,7 @@ export function PdfLibraryHero() {
   const handlePlanSelect = (plan) => {
     setSelectedPlan(plan);
     if (plan.id === 'free') {
-      navigate('/pdf-library/view');
+      navigate('/pdf-library');
     } else {
       alert(`Payment integration coming soon! Selected: ${plan.name} - ${plan.price} MVR${plan.period}`);
     }
@@ -223,7 +223,7 @@ export function PdfLibraryHero() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <button
-                onClick={() => navigate('/pdf-library/view')}
+                onClick={() => navigate('/pdf-library')}
                 className="px-6 py-3 rounded-xl font-semibold transition-all shadow-lg flex items-center justify-center gap-2"
                 style={{ backgroundColor: '#2563EB', color: 'white' }}
               >
@@ -384,7 +384,7 @@ export function PdfLibraryHero() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
-              to="/pdf-library/view"
+              to="/pdf-library"
               className="px-8 py-4 rounded-xl font-semibold transition-all"
               style={{ backgroundColor: '#2563EB', color: 'white' }}
             >

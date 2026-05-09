@@ -24,6 +24,7 @@ function App() {
         <Routes>
           {/* Public Routes */}
           <Route path="/" element={<PdfLibraryHero />} />
+          <Route path="/pdf-library" element={<PdfLibrary />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           
@@ -39,8 +40,6 @@ function App() {
             <Route path="practice" element={<Practice />} />
             <Route path="exam" element={<Exam />} />
             <Route path="paper" element={<Paper />} />
-            <Route path="pdf-library" element={<PdfLibraryHero />} />
-            <Route path="pdf-library/view" element={<PdfLibrary />} />
             <Route path="progress" element={<Progress />} />
             <Route path="admin" element={
               <ProtectedRoute requireAdmin>
