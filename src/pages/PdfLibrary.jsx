@@ -13,8 +13,9 @@ export function PdfLibrary() {
   const [typeTab, setTypeTab] = useState('all'); // 'all', 'qp', 'ms'
 
   useEffect(() => {
-    import('../data/pdf-manifest.json')
-      .then(m => setManifest(m.default))
+    fetch('/pdf-manifest.json')
+      .then(res => res.json())
+      .then(data => setManifest(data))
       .catch(() => setManifest({ OLEVEL: {}, ALEVEL: {} }));
   }, []);
 
