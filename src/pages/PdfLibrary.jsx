@@ -28,6 +28,8 @@ export function PdfLibrary() {
           files.forEach(file => {
             const isQP = /qp|question/i.test(file);
             const isMS = /ms|mark|answer/i.test(file);
+            const boardPath = board.replace(/&/g, '%26');
+            const subjectPath = subject.replace(/&/g, '%26');
             items.push({
               level,
               board,
@@ -35,7 +37,7 @@ export function PdfLibrary() {
               file,
               isQP,
               isMS,
-              url: `/pdf-pastpaer-q&a/${board}/${subject}/${encodeURIComponent(file)}`
+              url: `https://raw.githubusercontent.com/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}/${encodeURIComponent(file)}`
             });
           });
         });
