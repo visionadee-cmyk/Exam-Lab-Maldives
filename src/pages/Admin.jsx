@@ -65,20 +65,19 @@ export function Admin() {
     try {
       const usersRef = collection(db, 'users');
       const snapshot = await getDocs(usersRef);
-      const usersData = snapshot.docs.map(doc => ({
-        id: doc.id,
-        ...doc.data(),
-        createdAt: doc.data()?.createdAt?.toDate?.()?.toLocaleDateString() || 'N/A'
-      }));
+      const usersData = snapshot.docs.map(doc => {
+        const data = doc.data();
+        return {
+          id: doc.id,
+          ...data,
+          createdAt: data?.createdAt ? new Date(data.createdAt).toLocaleDateString() : 'N/A',
+          lastLogin: data?.lastLogin ? new Date(data.lastLogin).toLocaleDateString() : 'N/A'
+        };
+      });
       setUsers(usersData);
     } catch (err) {
       console.error('Error loading users:', err);
-      // Demo data
-      setUsers([
-        { id: '1', email: 'student1@example.com', name: 'Ahmed Ali', plan: 'free', subjects: [], createdAt: '2024-01-15', lastLogin: '2024-01-20' },
-        { id: '2', email: 'student2@example.com', name: 'Fatima Hassan', plan: 'answers', subjects: ['biology', 'chemistry'], createdAt: '2024-01-10', lastLogin: '2024-01-19' },
-        { id: '3', email: 'retey.ay@hotmail.com', name: 'Admin User', plan: 'pro', subjects: ['all'], createdAt: '2024-01-01', lastLogin: '2024-01-20', isAdmin: true },
-      ]);
+      setUsers([]);
     }
     setLoading(false);
   };
@@ -87,20 +86,18 @@ export function Admin() {
     try {
       const paymentsRef = collection(db, 'payments');
       const snapshot = await getDocs(paymentsRef);
-      const paymentsData = snapshot.docs.map(doc => ({
-        id: doc.id,
-        ...doc.data(),
-        date: doc.data()?.date?.toDate?.()?.toLocaleDateString() || 'N/A'
-      }));
+      const paymentsData = snapshot.docs.map(doc => {
+        const data = doc.data();
+        return {
+          id: doc.id,
+          ...data,
+          date: data?.date ? new Date(data.date).toLocaleDateString() : 'N/A'
+        };
+      });
       setPayments(paymentsData);
     } catch (err) {
       console.error('Error loading payments:', err);
-      // Demo data
-      setPayments([
-        { id: '1', userId: '2', userEmail: 'student2@example.com', userName: 'Fatima Hassan', amount: 25, plan: 'With Answers', subject: 'Biology', date: '2024-01-12', status: 'completed' },
-        { id: '2', userId: '2', userEmail: 'student2@example.com', userName: 'Fatima Hassan', amount: 25, plan: 'With Answers', subject: 'Chemistry', date: '2024-01-13', status: 'completed' },
-        { id: '3', userId: '3', userEmail: 'retey.ay@hotmail.com', userName: 'Admin User', amount: 150, plan: 'Pro Monthly', subject: 'All', date: '2024-01-01', status: 'completed' },
-      ]);
+      setPayments([]);
     }
   };
 

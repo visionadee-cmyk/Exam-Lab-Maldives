@@ -6,7 +6,7 @@ import {
   signOut,
   updateProfile
 } from 'firebase/auth';
-import { doc, setDoc, getDoc } from 'firebase/firestore';
+import { doc, setDoc, getDoc, updateDoc } from 'firebase/firestore';
 import { auth, db } from '../services/firebase';
 
 const AuthContext = createContext(null);
@@ -60,6 +60,12 @@ export function AuthProvider({ children }) {
 
   const login = async (email, password) => {
     const result = await signInWithEmailAndPassword(auth, email, password);
+    // Update last login time
+    if (result.user) {
+      await updateDoc(doc(db, 'users', result.user.uid), {
+        lastLogin: new Date().toISOString()
+      });
+    }
     return result;
   };
 
@@ -74,7 +80,9 @@ export function AuthProvider({ children }) {
       name,
       email,
       userType,
+      plan: 'free',
       createdAt: new Date().toISOString(),
+      lastLogin: new Date().toISOString(),
       subjects: [],
       stats: {
         totalQuestions: 0,
