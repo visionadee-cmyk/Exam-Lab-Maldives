@@ -8,7 +8,8 @@ import {
   Menu, 
   X,
   Home,
-  Settings
+  Settings,
+  Crown
 } from 'lucide-react';
 import { useState } from 'react';
 import { cn } from '../utils/cn';
@@ -29,6 +30,7 @@ export function Layout() {
     { path: '/subjects', label: 'Subjects', icon: BookOpen },
     { path: '/pdf-library', label: 'PDF Library', icon: BookOpen },
     { path: '/practice', label: 'Practice', icon: BookOpen },
+    { path: '/subscribe', label: 'Upgrade', icon: Crown },
     { path: '/progress', label: 'Progress', icon: BarChart3 },
     ...(isAdmin ? [{ path: '/admin', label: 'Admin', icon: Settings }] : []),
   ];

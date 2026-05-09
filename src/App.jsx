@@ -16,6 +16,7 @@ import { Admin } from './pages/Admin';
 import { Paper } from './pages/Paper';
 import { PdfLibrary } from './pages/PdfLibrary';
 import { PdfLibraryHero } from './pages/PdfLibraryHero';
+import { Subscribe } from './pages/Subscribe';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           {/* Public Routes */}
           <Route path="/" element={<PdfLibraryHero />} />
           <Route path="/pdf-library" element={<PdfLibrary />} />
+          <Route path="/subscribe" element={<Subscribe />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           

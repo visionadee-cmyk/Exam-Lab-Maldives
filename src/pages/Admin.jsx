@@ -46,6 +46,7 @@ export function Admin() {
   const [activeTab, setActiveTab] = useState('users');
   const [users, setUsers] = useState([]);
   const [payments, setPayments] = useState([]);
+  const [paymentRequests, setPaymentRequests] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedUser, setSelectedUser] = useState(null);
@@ -59,6 +60,7 @@ export function Admin() {
   useEffect(() => {
     loadUsers();
     loadPayments();
+    loadPaymentRequests();
   }, []);
 
   const loadUsers = async () => {
@@ -98,6 +100,64 @@ export function Admin() {
     } catch (err) {
       console.error('Error loading payments:', err);
       setPayments([]);
+    }
+  };
+
+  const loadPaymentRequests = async () => {
+    try {
+      const requestsRef = collection(db, 'paymentRequests');
+      const snapshot = await getDocs(requestsRef);
+      const requestsData = snapshot.docs.map(doc => {
+        const data = doc.data();
+        return {
+          id: doc.id,
+          ...data,
+          createdAt: data?.createdAt ? new Date(data.createdAt.toDate()).toLocaleDateString() : 'N/A'
+        };
+      });
+      setPaymentRequests(requestsData);
+    } catch (err) {
+      console.error('Error loading payment requests:', err);
+      setPaymentRequests([]);
+    }
+  };
+
+  const approvePaymentRequest = async (request) => {
+    try {
+      // Update user access
+      const userRef = doc(db, 'users', request.userId);
+      await updateDoc(userRef, {
+        plan: request.plan,
+        subjects: request.subjects,
+        updatedAt: serverTimestamp()
+      });
+      
+      // Update request status
+      const requestRef = doc(db, 'paymentRequests', request.id);
+      await updateDoc(requestRef, {
+        status: 'approved',
+        approvedAt: serverTimestamp()
+      });
+
+      // Add to payments history
+      await addDoc(collection(db, 'payments'), {
+        userId: request.userId,
+        userEmail: request.userEmail,
+        userName: request.userName,
+        plan: request.planName,
+        subject: request.subjects.join(', '),
+        amount: request.amount,
+        date: serverTimestamp(),
+        status: 'completed'
+      });
+
+      loadPaymentRequests();
+      loadUsers();
+      loadPayments();
+      alert(`Access granted to ${request.userName}!`);
+    } catch (err) {
+      console.error('Error approving request:', err);
+      alert('Failed to approve request');
     }
   };
 
@@ -257,6 +317,7 @@ export function Admin() {
         <nav className="flex space-x-8">
           {[
             { id: 'users', label: 'Users', icon: Users },
+            { id: 'requests', label: 'Requests', icon: CreditCard },
             { id: 'payments', label: 'Payments', icon: CreditCard },
             { id: 'questions', label: 'Questions', icon: Settings },
           ].map((tab) => (
@@ -366,6 +427,80 @@ export function Admin() {
                     </tr>
                   );
                 })}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      )}
+
+      {/* Payment Requests Table */}
+      {activeTab === 'requests' && (
+        <div className="card overflow-hidden">
+          <div className="overflow-x-auto">
+            <table className="min-w-full divide-y divide-gray-200">
+              <thead className="bg-gray-50">
+                <tr>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Date</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">User</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Plan</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Subjects</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Amount</th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase">Status</th>
+                  <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase">Actions</th>
+                </tr>
+              </thead>
+              <tbody className="bg-white divide-y divide-gray-200">
+                {paymentRequests.length === 0 ? (
+                  <tr>
+                    <td colSpan="7" className="px-6 py-8 text-center text-gray-500">
+                      No pending payment requests
+                    </td>
+                  </tr>
+                ) : (
+                  paymentRequests.map((request) => (
+                    <tr key={request.id} className="hover:bg-gray-50">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {request.createdAt}
+                      </td>
+                      <td className="px-6 py-4">
+                        <div className="text-sm font-medium text-gray-900">{request.userName}</div>
+                        <div className="text-sm text-gray-500">{request.userEmail}</div>
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap">
+                        <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800">
+                          {request.planName}
+                        </span>
+                      </td>
+                      <td className="px-6 py-4 text-sm text-gray-900">
+                        {request.subjects?.includes('all') ? 'All Subjects' : request.subjects?.join(', ')}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                        {request.amount} MVR
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap">
+                        <span className={cn(
+                          'inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium',
+                          request.status === 'pending' && 'bg-yellow-100 text-yellow-800',
+                          request.status === 'approved' && 'bg-green-100 text-green-800',
+                          request.status === 'rejected' && 'bg-red-100 text-red-800'
+                        )}>
+                          {request.status}
+                        </span>
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                        {request.status === 'pending' && (
+                          <button 
+                            onClick={() => approvePaymentRequest(request)}
+                            className="text-green-600 hover:text-green-900 mr-3"
+                            title="Approve & Grant Access"
+                          >
+                            <CheckCircle className="w-5 h-5" />
+                          </button>
+                        )}
+                      </td>
+                    </tr>
+                  ))
+                )}
               </tbody>
             </table>
           </div>
