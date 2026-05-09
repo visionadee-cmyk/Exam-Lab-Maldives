@@ -223,22 +223,12 @@ export function PdfLibrary() {
           <div className="bg-white rounded-xl w-full max-w-5xl h-[90vh] flex flex-col">
             <div className="flex items-center justify-between p-4 border-b">
               <h3 className="font-semibold text-gray-900 truncate flex-1 mr-4">{selectedPdf.file}</h3>
-              <div className="flex items-center gap-2">
-                <a
-                  href={selectedPdf.url}
-                  download
-                  className="px-3 py-1.5 text-sm bg-blue-600 text-white rounded-lg hover:bg-blue-700 flex items-center gap-1"
-                >
-                  <Download className="w-4 h-4" />
-                  Download
-                </a>
-                <button
-                  onClick={() => setSelectedPdf(null)}
-                  className="px-3 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200"
-                >
-                  Close
-                </button>
-              </div>
+              <button
+                onClick={() => setSelectedPdf(null)}
+                className="px-3 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200"
+              >
+                Close
+              </button>
             </div>
             <iframe
               src={selectedPdf.url}
