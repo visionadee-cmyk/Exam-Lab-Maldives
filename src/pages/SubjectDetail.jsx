@@ -3,9 +3,11 @@ import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
 import biologyWbi11Jan2019Unit1 from '../data/papers/biology-wbi11-jan2019-unit1.json';
 import biologyWbi11May2019Unit1 from '../data/papers/biology-wbi11-may2019-unit1.json';
 import biologyWbi11Oct2019Unit1 from '../data/papers/biology-wbi11-oct2019-unit1.json';
+import biologyWbi11Jan2020Unit1 from '../data/papers/biology-wbi11-jan2020-unit1.json';
 import biologyWbi12Jun2019Unit2 from '../data/papers/biology-wbi12-jun2019-unit2.json';
 import biologyWbi12Oct2019Unit2 from '../data/papers/biology-wbi12-oct2019-unit2.json';
 import biologyWbi13Jun2019Unit3 from '../data/papers/biology-wbi13-jun2019-unit3.json';
+import biologyWbi13Oct2019Unit3 from '../data/papers/biology-wbi13-oct2019-unit3.json';
 import { 
   ArrowLeft, 
   BookOpen, 
@@ -95,9 +97,11 @@ export function SubjectDetail() {
     'wbi11-jan-2019-unit1-qp': biologyWbi11Jan2019Unit1,
     'wbi11-may-2019-unit1-qp': biologyWbi11May2019Unit1,
     'wbi11-oct-2019-unit1-qp': biologyWbi11Oct2019Unit1,
+    'wbi11-jan-2020-unit1-qp': biologyWbi11Jan2020Unit1,
     'wbi12-jun-2019-unit2-qp': biologyWbi12Jun2019Unit2,
     'wbi12-oct-2019-unit2-qp': biologyWbi12Oct2019Unit2,
-    'wbi13-jun-2019-unit3-qp': biologyWbi13Jun2019Unit3
+    'wbi13-jun-2019-unit3-qp': biologyWbi13Jun2019Unit3,
+    'wbi13-oct-2019-unit3-qp': biologyWbi13Oct2019Unit3
   };
 
   const interactivePapers = papers.filter(p => Boolean(interactivePaperById[p.id]));

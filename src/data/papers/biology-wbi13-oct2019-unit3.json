@@ -1,0 +1,198 @@
+{
+  "id": "wbi13-oct-2019-unit3-qp",
+  "title": "Pearson Edexcel IAL Biology Unit 3",
+  "unit": "Unit 3: Practical Skills in Biology I",
+  "code": "WBI13/01",
+  "session": "October 2019",
+  "totalMarks": 50,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "The effect of mineral deficiency on plant growth can be studied. The diagram shows a plant growing in a solution of inorganic ions.",
+      "image": "/papers/wbi13-oct2019/q1-plant-in-solution-diagram.PNG",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "Name an inorganic ion needed for the synthesis of each of the following. Amino acids. Chlorophyll. Middle lamella.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Amino acids: nitrate ions (NO₃⁻) / ammonium ions (NH₄⁺). Chlorophyll: magnesium ions (Mg²⁺). Middle lamella: calcium ions (Ca²⁺).",
+          "keywords": ["nitrate", "NO3", "ammonium", "magnesium", "Mg2+", "calcium", "Ca2+", "middle lamella"]
+        },
+        {
+          "id": "1a_ii",
+          "text": "Devise an experiment, which will produce valid data, to investigate the deficiency of a named inorganic ion on the growth of a plant.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Use genetically similar plants of similar starting size and grow them hydroponically in identical conditions. Prepare a complete nutrient solution (control) and an identical solution lacking the named ion (e.g., nitrate-free). Use replicates for each treatment. Control variables such as light intensity/photoperiod, temperature, CO₂, volume of solution, pH, aeration, and duration. Measure growth quantitatively (e.g., increase in dry mass, height, leaf area, or mean growth over time) at set intervals. Calculate mean growth for each group and compare.",
+          "keywords": ["control", "complete solution", "without ion", "replicates", "control variables", "measure growth", "valid data", "mean"]
+        },
+        {
+          "id": "1b_i",
+          "text": "The table shows the results of an investigation into the effect of nitrate ion deficiency on the growth of a plant. Calculate the difference in the mean daily growth rate of the plants grown in these two solutions.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q1b-growth-results-table.PNG",
+          "answer": "Mean growth difference after 21 days = 371 − 216 = 155 a.u. Difference in mean daily growth rate = 155 ÷ 21 = 7.38 a.u. day⁻¹ (≈ 7.4 a.u. day⁻¹).",
+          "keywords": ["371", "216", "155", "21", "7.38", "7.4", "a.u.", "day-1"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "The bar chart shows the mean growth after 21 days. Complete the bar chart by showing the standard deviations. Explain what the standard deviations indicate about the results of this investigation.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q1b-bar-chart.PNG",
+          "answer": "Add error bars of ±17.4 a.u. for the complete solution bar and ±9.7 a.u. for the solution without nitrate ions bar. Standard deviation shows the spread/variation of results around the mean; larger SD means more variation/less consistency. The complete solution has greater variation than the nitrate-deficient solution. If SD bars do not overlap much, it supports a real difference between means.",
+          "keywords": ["error bars", "standard deviation", "±17.4", "±9.7", "variation", "spread", "mean", "overlap"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "The flow chart shows how garlic root tips can be treated to observe mitosis in the root cells.",
+      "image": "/papers/wbi13-oct2019/q2-garlic-root-tip-flowchart.PNG",
+      "parts": [
+        {
+          "id": "2a_i",
+          "text": "Give one reason why each of the following steps was taken. Step 2. Step 4. Step 5.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Step 2 (acetic orcein at 55°C): to stain chromosomes / DNA so stages of mitosis can be seen more clearly. Step 4 (coverslip squashed gently): to spread cells into a single layer / separate cells so chromosomes are not overlapping and can be counted. Step 5 (view low power then high power): low power to locate the root tip / suitable area and focus; high power to observe and count cells in mitosis / see chromosomes clearly.",
+          "keywords": ["stain", "chromosomes", "acetic orcein", "squash", "single layer", "spread", "low power", "high power", "count"]
+        },
+        {
+          "id": "2a_ii",
+          "text": "Explain one safety precaution that must be taken when carrying out this procedure.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Wear eye protection and gloves when handling hydrochloric acid and stains because they are irritants/corrosive and could damage eyes/skin. Take care with mounted needles / glass slides and coverslips to avoid cuts.",
+          "keywords": ["goggles", "gloves", "hydrochloric acid", "corrosive", "irritant", "needles", "glass"]
+        },
+        {
+          "id": "2b",
+          "text": "Describe how the procedure shown in the flow chart could be used to investigate the effect of pH on the mitotic index.",
+          "marks": 5,
+          "type": "short_answer",
+          "answer": "Grow groups of garlic roots in solutions buffered to different pH values for the same time period. Keep other variables constant (temperature, light, nutrient availability, root length/age). Prepare slides for each pH using the same steps in the flow chart (acid treatment, stain, squash, microscope). For each pH, view several fields of view / multiple root tips, count total cells and cells in mitosis, and calculate mitotic index = (cells in mitosis ÷ total cells) × 100. Use replicates and calculate mean mitotic index for each pH, then plot mean mitotic index against pH.",
+          "keywords": ["buffer", "different pH", "control variables", "count", "cells in mitosis", "total cells", "mitotic index", "replicates", "mean", "plot"]
+        },
+        {
+          "id": "2c_i",
+          "text": "The graph shows the results of an investigation into the effect of pH on mitotic index. Draw a suitable table for the results shown in the graph.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q2c-mitotic-index-ph-graph.PNG",
+          "answer": "A table with headings including units, e.g. pH and mitotic index (%). Include the pH values shown on the graph (e.g. 3.5, 4.5, 5.2, 6.3, 7.2, 8.5, 9.0) and the corresponding mitotic index values read from the plotted points.",
+          "keywords": ["table", "headings", "units", "pH", "mitotic index", "%", "read from graph"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "The photograph shows 35 cells from a root tip at one of the pH values investigated. Calculate the mitotic index of this root tip. Using the graph, determine the pH at which this root tip was grown.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q2c-ii-root-tip-photo.PNG",
+          "answer": "Count cells in mitosis (e.g. 3 cells show condensed chromosomes). Mitotic index = (3 ÷ 35) × 100 = 8.6%. From the graph, a mitotic index of about 9% corresponds to a pH of approximately 7.2 (around pH 7).",
+          "keywords": ["mitotic index", "3", "35", "8.6", "%", "pH", "7", "7.2"]
+        },
+        {
+          "id": "2c_iii",
+          "text": "Explain why the mitotic index is affected by pH, as shown by the graph.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Mitosis and the cell cycle are controlled by enzymes and proteins involved in DNA replication and spindle formation. pH affects enzyme activity by altering ionisation of amino acid side chains and disrupting bonds that maintain tertiary structure. At the optimum pH, enzymes/proteins function best so more cells proceed through the cell cycle, increasing mitotic index. At pH values that are too acidic or too alkaline, enzyme activity is reduced or proteins denature, slowing the cell cycle so fewer cells are in mitosis, reducing mitotic index.",
+          "keywords": ["enzyme", "pH", "active site", "tertiary", "denature", "optimum", "cell cycle", "mitosis"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 18,
+      "question": "Antimicrobial chemicals derived from plants may be used in food preservation. An investigation was carried out to assess the antimicrobial properties of extracts from five plants: clove, cumin, ginger, pomegranate and thyme.",
+      "image": "/papers/wbi13-oct2019/q3-agar-plate-setup.PNG",
+      "parts": [
+        {
+          "id": "3a_i",
+          "text": "State the dependent variable in this investigation.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Area of the zone of inhibition (area with no bacteria), measured in mm².",
+          "keywords": ["dependent", "area", "zone of inhibition", "mm2"]
+        },
+        {
+          "id": "3a_ii",
+          "text": "Suggest why the plates were kept at 5°C, before they were incubated.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "To slow bacterial growth initially and allow the plant extract to diffuse into the agar before incubation, producing clearer zones of inhibition.",
+          "keywords": ["diffuse", "agar", "slow growth", "5°C", "zone of inhibition"]
+        },
+        {
+          "id": "3a_iii",
+          "text": "Describe how the area of a zone of inhibition could be determined.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Measure the diameter (or radius) of the clear zone and calculate area using A = πr². Alternatively, trace the clear zone onto graph paper and count squares to estimate area.",
+          "keywords": ["diameter", "radius", "pi r2", "trace", "graph paper", "area"]
+        },
+        {
+          "id": "3a_iv",
+          "text": "Describe the control disc used in this investigation.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "A filter paper disc treated with the solvent used to make the extracts (e.g. water/ethanol) but with no plant extract, and dried in the same way, to show any inhibition is due to the extract not the disc/solvent.",
+          "keywords": ["control", "solvent", "no extract", "filter paper", "disc"]
+        },
+        {
+          "id": "3b",
+          "text": "The table shows the results of this investigation.",
+          "marks": 0,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q3b-zone-of-inhibition-table.PNG",
+          "answer": "",
+          "keywords": []
+        },
+        {
+          "id": "3b_i",
+          "text": "Calculate the percentage difference between the inhibitory effect of clove extract on type A and type B bacteria.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Difference = 196 − 111 = 85 mm². Percentage difference (relative to type A) = (85 ÷ 196) × 100 = 43.4% (≈ 43%).",
+          "keywords": ["196", "111", "85", "43", "43.4", "percentage"]
+        },
+        {
+          "id": "3b_ii",
+          "text": "Plot a suitable graph to show the results of this investigation.",
+          "marks": 5,
+          "type": "short_answer",
+          "image": "/papers/wbi13-oct2019/q3b-graph-grid.PNG",
+          "answer": "A suitable grouped bar chart with plant extract on the x-axis and area of zone of inhibition (mm²) on the y-axis, with separate bars for bacteria type A and type B, appropriate scale, clear key/legend, and correctly plotted values.",
+          "keywords": ["bar chart", "grouped", "x-axis", "y-axis", "mm2", "key", "legend", "scale"]
+        },
+        {
+          "id": "3b_iii",
+          "text": "Comment on the results of this investigation into the preservation of food using plant extracts.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Some plant extracts show antimicrobial activity and could help preserve food by inhibiting bacterial growth (e.g., pomegranate and thyme show large zones for type A; pomegranate also inhibits type B). Effects differ between bacteria types, so a single extract may not be effective against all bacteria (several extracts show 0 for type B). Pomegranate appears the most effective overall because it inhibits both types and has the largest zone areas, while cumin shows low/no effect. Results suggest plant extracts could be useful but choice/concentration depends on the target bacteria.",
+          "keywords": ["antimicrobial", "preserve", "inhibit", "pomegranate", "thyme", "type A", "type B", "not all", "effective"]
+        },
+        {
+          "id": "3c",
+          "text": "This method can be used to suggest that an extract has an antimicrobial effect. Other factors can affect the size of the zone of inhibition. State two factors, other than the antimicrobial effect, that could affect the area of the zone of inhibition in this investigation.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Amount/concentration of extract on the disc (volume absorbed / how long discs were soaked / disc size). Rate of diffusion through agar (affected by agar thickness/concentration/temperature). Density of bacterial lawn (amount of bacteria spread). Incubation time/temperature.",
+          "keywords": ["concentration", "volume", "disc size", "diffusion", "agar thickness", "bacterial lawn", "incubation"]
+        }
+      ]
+    }
+  ]
+}
