@@ -1,8 +1,10 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef, useCallback } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { 
   ArrowLeft, Clock, CheckCircle, AlertCircle, ChevronRight, ChevronLeft,
-  Eye, Brain, FileText, Layers, Bookmark, ChevronDown
+  Eye, Brain, FileText, Layers, Bookmark, ChevronDown, Flag, Save,
+  Upload, Square, Type, Hash, Plus, Minus, X, Divide, Equal, Percent,
+  ArrowUp, ArrowDown, Parentheses, Superscript, Subscript
 } from 'lucide-react';
 import { cn } from '../utils/cn';
 
@@ -43,6 +45,90 @@ export function Paper() {
   const [showAnswer, setShowAnswer] = useState({});
   const [timeLeft, setTimeLeft] = useState(null);
   const [showModeMenu, setShowModeMenu] = useState(false);
+  const [markedForReview, setMarkedForReview] = useState({});
+  const [showFormulaKeyboard, setShowFormulaKeyboard] = useState(false);
+  const [showDrawing, setShowDrawing] = useState(false);
+  const [savedMessage, setSavedMessage] = useState(false);
+  const canvasRef = useRef(null);
+  const [isDrawing, setIsDrawing] = useState(false);
+
+  // Auto-save to localStorage
+  const saveProgress = useCallback(() => {
+    if (paper && answers) {
+      localStorage.setItem(`paper_${paper.id}`, JSON.stringify(answers));
+      setSavedMessage(true);
+      setTimeout(() => setSavedMessage(false), 2000);
+    }
+  }, [paper, answers]);
+
+  // Load saved progress
+  useEffect(() => {
+    if (paper) {
+      const saved = localStorage.getItem(`paper_${paper.id}`);
+      if (saved) {
+        setAnswers(JSON.parse(saved));
+      }
+    }
+  }, [paper]);
+
+  // Auto-save every 30 seconds
+  useEffect(() => {
+    const interval = setInterval(saveProgress, 30000);
+    return () => clearInterval(interval);
+  }, [saveProgress]);
+
+  // Drawing functions
+  const startDrawing = (e) => {
+    const canvas = canvasRef.current;
+    const ctx = canvas.getContext('2d');
+    const rect = canvas.getBoundingClientRect();
+    const x = (e.clientX || e.touches?.[0]?.clientX) - rect.left;
+    const y = (e.clientY || e.touches?.[0]?.clientY) - rect.top;
+    ctx.beginPath();
+    ctx.moveTo(x, y);
+    setIsDrawing(true);
+  };
+
+  const draw = (e) => {
+    if (!isDrawing) return;
+    const canvas = canvasRef.current;
+    const ctx = canvas.getContext('2d');
+    const rect = canvas.getBoundingClientRect();
+    const x = (e.clientX || e.touches?.[0]?.clientX) - rect.left;
+    const y = (e.clientY || e.touches?.[0]?.clientY) - rect.top;
+    ctx.lineTo(x, y);
+    ctx.stroke();
+  };
+
+  const stopDrawing = () => setIsDrawing(false);
+
+  const clearCanvas = () => {
+    const canvas = canvasRef.current;
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+  };
+
+  const insertFormula = (symbol) => {
+    const textarea = document.querySelector('textarea[name="answer"]');
+    if (textarea) {
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const text = textarea.value;
+      const newText = text.substring(0, start) + symbol + text.substring(end);
+      handleAnswerChange(question.parts[0]?.id, newText);
+      setTimeout(() => {
+        textarea.focus();
+        textarea.setSelectionRange(start + symbol.length, start + symbol.length);
+      }, 0);
+    }
+  };
+
+  const toggleMarkForReview = () => {
+    setMarkedForReview(prev => ({
+      ...prev,
+      [currentQuestion]: !prev[currentQuestion]
+    }));
+  };
 
   useEffect(() => {
     if (mode === 'exam' && paper?.timeMinutes) {
@@ -382,25 +468,170 @@ export function Paper() {
             ))}
           </div>
 
-          {/* Navigation */}
-          <div className="flex items-center justify-between mt-8">
+          {/* Formula Keyboard */}
+          {showFormulaKeyboard && (
+            <div className="fixed bottom-20 left-4 right-4 bg-white border border-gray-200 rounded-xl shadow-lg p-3 z-50">
+              <div className="grid grid-cols-6 gap-2">
+                {['+', '-', '×', '÷', '=', '(', ')', '²', '³', '√', 'π', 'θ', 
+                  'α', 'β', 'γ', 'δ', 'Σ', '∞', '°', '±', '→', '↓', '↑', 'λ'].map(sym => (
+                  <button
+                    key={sym}
+                    onClick={() => insertFormula(sym)}
+                    className="p-2 text-center bg-gray-100 rounded hover:bg-gray-200 font-mono"
+                  >
+                    {sym}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Drawing Area */}
+          {showDrawing && (
+            <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4">
+              <div className="bg-white rounded-xl p-4 w-full max-w-2xl">
+                <div className="flex justify-between items-center mb-3">
+                  <h3 className="font-medium">Draw your answer</h3>
+                  <button onClick={() => setShowDrawing(false)} className="text-gray-500">✕</button>
+                </div>
+                <canvas
+                  ref={canvasRef}
+                  width={600}
+                  height={300}
+                  className="border border-gray-200 rounded w-full touch-none"
+                  onMouseDown={startDrawing}
+                  onMouseMove={draw}
+                  onMouseUp={stopDrawing}
+                  onMouseLeave={stopDrawing}
+                  onTouchStart={startDrawing}
+                  onTouchMove={draw}
+                  onTouchEnd={stopDrawing}
+                />
+                <div className="flex justify-between mt-3">
+                  <button onClick={clearCanvas} className="px-4 py-2 text-gray-600 bg-gray-100 rounded">
+                    Clear
+                  </button>
+                  <button onClick={() => setShowDrawing(false)} className="px-4 py-2 bg-primary-600 text-white rounded">
+                    Save Drawing
+                  </button>
+                </div>
+              </div>
+            </div>
+          )}
+
+          {/* Bottom Toolbar */}
+          <div className="fixed bottom-16 left-0 right-0 bg-white border-t border-gray-200 px-4 py-2 z-40">
+            <div className="flex items-center justify-between max-w-4xl mx-auto">
+              {/* Left - Tools */}
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={() => setShowFormulaKeyboard(!showFormulaKeyboard)}
+                  className={cn(
+                    'p-2 rounded-lg flex items-center gap-1 text-sm',
+                    showFormulaKeyboard ? 'bg-primary-100 text-primary-700' : 'text-gray-600'
+                  )}
+                >
+                  <Type className="w-4 h-4" /> Formula
+                </button>
+                <button
+                  onClick={() => setShowDrawing(true)}
+                  className="p-2 rounded-lg text-gray-600 flex items-center gap-1 text-sm"
+                >
+                  <Square className="w-4 h-4" /> Draw
+                </button>
+                <button
+                  onClick={saveProgress}
+                  className="p-2 rounded-lg text-gray-600 flex items-center gap-1 text-sm"
+                >
+                  <Save className="w-4 h-4" />
+                </button>
+              </div>
+
+              {/* Center - Mark for Review */}
+              <button
+                onClick={toggleMarkForReview}
+                className={cn(
+                  'flex items-center gap-1 px-3 py-1.5 rounded-lg text-sm',
+                  markedForReview[currentQuestion] 
+                    ? 'bg-amber-100 text-amber-700' 
+                    : 'text-gray-600 hover:bg-gray-100'
+                )}
+              >
+                <Flag className="w-4 h-4" />
+                {markedForReview[currentQuestion] ? 'Marked' : 'Mark'}
+              </button>
+
+              {/* Right - Navigation */}
+              <div className="flex items-center gap-2">
+                <button
+                  onClick={handlePrevious}
+                  disabled={currentQuestion === 0}
+                  className={cn(
+                    'p-2 rounded-lg',
+                    currentQuestion === 0 ? 'text-gray-300' : 'text-gray-600'
+                  )}
+                >
+                  <ChevronLeft className="w-5 h-5" />
+                </button>
+                <span className="text-sm text-gray-500 min-w-[60px] text-center">
+                  {currentQuestion + 1}/{paper.questions.length}
+                </span>
+                <button
+                  onClick={currentQuestion === paper.questions.length - 1 ? handleSubmit : handleNext}
+                  className="p-2 rounded-lg text-primary-600"
+                >
+                  <ChevronRight className="w-5 h-5" />
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Saved indicator */}
+          {savedMessage && (
+            <div className="fixed top-20 right-4 bg-green-600 text-white px-4 py-2 rounded-lg text-sm z-50">
+              ✓ Progress saved
+            </div>
+          )}
+
+          {/* Question dots for quick navigation */}
+          <div className="flex flex-wrap gap-2 justify-center mt-4 pb-20">
+            {paper.questions.map((_, idx) => (
+              <button
+                key={idx}
+                onClick={() => setCurrentQuestion(idx)}
+                className={cn(
+                  'w-8 h-8 rounded-full text-xs font-medium transition-colors',
+                  idx === currentQuestion 
+                    ? 'bg-primary-600 text-white' 
+                    : markedForReview[idx]
+                      ? 'bg-amber-100 text-amber-700'
+                      : answers[paper.questions[idx].id + '_' + paper.questions[idx].parts[0]?.id]
+                        ? 'bg-green-100 text-green-700'
+                        : 'bg-gray-100 text-gray-600'
+                )}
+              >
+                {idx + 1}
+              </button>
+            ))}
+          </div>
+
+          {/* Submit button for last question */}
+          {currentQuestion === paper.questions.length - 1 && (
+            <div className="flex justify-center mt-4">
+              <button onClick={handleSubmit} className="btn-primary">
+                Submit Paper
+              </button>
+            </div>
+          )}
+
+          {/* Legacy navigation - keeping for compatibility */}
+          <div className="hidden">
             <button
               onClick={handlePrevious}
               disabled={currentQuestion === 0}
-              className={cn(
-                'flex items-center px-4 py-2 rounded-lg',
-                currentQuestion === 0 
-                  ? 'text-gray-400 cursor-not-allowed' 
-                  : 'text-gray-700 hover:bg-gray-100'
-              )}
             >
-              <ChevronLeft className="w-4 h-4 mr-1" />
               Previous
             </button>
-
-            <div className="text-sm text-gray-500">
-              {currentQuestion + 1} of {paper.questions.length}
-            </div>
 
             {currentQuestion === paper.questions.length - 1 ? (
               <button
