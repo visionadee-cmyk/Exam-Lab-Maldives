@@ -15,6 +15,8 @@ export function PdfLibrary() {
   const [typeTab, setTypeTab] = useState('all'); // 'all', 'qp', 'ms'
   const [selectedPdf, setSelectedPdf] = useState(null);
   const [viewMode, setViewMode] = useState('grid');
+  const [yearFilter, setYearFilter] = useState('all');
+  const [sessionFilter, setSessionFilter] = useState('all');
 
   useEffect(() => {
     fetch('/pdf-manifest.json')
@@ -61,9 +63,11 @@ export function PdfLibrary() {
       const matchesBoard = boardFilter === 'all' || item.board === boardFilter;
       const matchesSubject = subjectFilter === 'all' || item.subject === subjectFilter;
       const matchesType = typeTab === 'all' || (typeTab === 'qp' && item.isQP) || (typeTab === 'ms' && item.isMS);
-      return matchesSearch && matchesLevel && matchesBoard && matchesSubject && matchesType;
+      const matchesYear = yearFilter === 'all' || item.file.includes(yearFilter);
+      const matchesSession = sessionFilter === 'all' || item.file.toLowerCase().includes(sessionFilter.toLowerCase());
+      return matchesSearch && matchesLevel && matchesBoard && matchesSubject && matchesType && matchesYear && matchesSession;
     });
-  }, [allItems, search, levelFilter, boardFilter, subjectFilter, typeTab]);
+  }, [allItems, search, levelFilter, boardFilter, subjectFilter, typeTab, yearFilter, sessionFilter]);
 
   const boards = useMemo(() => [...new Set(allItems.map(i => i.board))], [allItems]);
   const subjects = useMemo(() => [...new Set(allItems.map(i => i.subject))], [allItems]);
@@ -170,6 +174,31 @@ export function PdfLibrary() {
             {subjects.map(s => (
               <option key={s} value={s}>{s}</option>
             ))}
+          </select>
+          <select
+            value={yearFilter}
+            onChange={e => setYearFilter(e.target.value)}
+            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+          >
+            <option value="all">All Years</option>
+            <option value="2024">2024</option>
+            <option value="2023">2023</option>
+            <option value="2022">2022</option>
+            <option value="2021">2021</option>
+            <option value="2020">2020</option>
+            <option value="2019">2019</option>
+            <option value="2018">2018</option>
+          </select>
+          <select
+            value={sessionFilter}
+            onChange={e => setSessionFilter(e.target.value)}
+            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+          >
+            <option value="all">All Sessions</option>
+            <option value="m">March (m)</option>
+            <option value="s">June (s)</option>
+            <option value="o">November (o)</option>
+            <option value="w">Winter (w)</option>
           </select>
           <div className="flex bg-gray-100 rounded-lg p-1">
             <button
