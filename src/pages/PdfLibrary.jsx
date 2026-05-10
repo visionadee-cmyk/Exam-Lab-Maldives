@@ -133,31 +133,31 @@ export function PdfLibrary() {
       </div>
 
       {/* Search & Filters */}
-      <div className="bg-white rounded-xl border border-gray-200 p-4 space-y-4">
+      <div className="bg-white rounded-xl border border-gray-200 p-3 sm:p-4 space-y-3">
         <div className="relative">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
           <input
             type="text"
-            placeholder="Search by subject, code, or filename..."
+            placeholder="Search papers..."
             value={search}
             onChange={e => setSearch(e.target.value)}
-            className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="w-full pl-10 pr-4 py-2.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-primary-500 text-sm"
           />
         </div>
-        <div className="flex flex-wrap gap-3">
+        <div className="flex flex-wrap gap-2">
           <select
             value={levelFilter}
             onChange={e => setLevelFilter(e.target.value)}
-            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
           >
             <option value="all">All Levels</option>
-            <option value="OLEVEL">O Level / IGCSE</option>
-            <option value="ALEVEL">A Level / IAL</option>
+            <option value="OLEVEL">O Level</option>
+            <option value="ALEVEL">A Level</option>
           </select>
           <select
             value={boardFilter}
             onChange={e => setBoardFilter(e.target.value)}
-            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
           >
             <option value="all">All Boards</option>
             {boards.map(b => (
@@ -167,7 +167,7 @@ export function PdfLibrary() {
           <select
             value={subjectFilter}
             onChange={e => setSubjectFilter(e.target.value)}
-            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
           >
             <option value="all">All Subjects</option>
             {subjects.map(s => (
@@ -177,7 +177,7 @@ export function PdfLibrary() {
           <select
             value={yearFilter}
             onChange={e => setYearFilter(e.target.value)}
-            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
           >
             <option value="all">All Years</option>
             <option value="2024">2024</option>
@@ -191,7 +191,7 @@ export function PdfLibrary() {
           <select
             value={sessionFilter}
             onChange={e => setSessionFilter(e.target.value)}
-            className="px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500"
+            className="px-3 py-2 text-sm border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-primary-500 bg-white"
           >
             <option value="all">All Sessions</option>
             <option value="m">March (m)</option>
@@ -224,7 +224,7 @@ export function PdfLibrary() {
 
       {/* Cards Grid / List */}
       {viewMode === 'grid' ? (
-      <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+      <div className="grid grid-cols-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
         {filtered.slice(0, 100).map((item, idx) => {
           const isLocked = item.isMS && !canViewAnswers();
           const handleClick = () => {
@@ -240,12 +240,12 @@ export function PdfLibrary() {
             key={idx}
             onClick={handleClick}
             className={cn(
-              'group block rounded-xl border-2 transition-all overflow-hidden cursor-pointer hover:scale-[1.02]',
+              'group block rounded-xl border-2 transition-all overflow-hidden cursor-pointer hover:scale-[1.02] hover:shadow-md',
               item.isQP
-                ? 'bg-white border-blue-200 hover:shadow-lg hover:border-blue-400'
+                ? 'bg-white border-blue-200 hover:border-blue-400'
                 : isLocked 
-                  ? 'bg-gray-50 border-gray-200'
-                  : 'bg-white border-green-200 hover:shadow-lg hover:border-green-400'
+                  ? 'bg-gray-50 border-gray-200 opacity-75'
+                  : 'bg-white border-green-200 hover:border-green-400'
             )}
           >
             <div className={cn(
