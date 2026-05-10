@@ -40,7 +40,7 @@ export function PdfLibrary() {
               file,
               isQP,
               isMS,
-              url: `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}/${encodeURIComponent(file)}`
+              url: `https://raw.githubusercontent.com/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}/${encodeURIComponent(file)}`
             });
           });
         });
