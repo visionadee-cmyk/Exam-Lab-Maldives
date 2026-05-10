@@ -9,48 +9,82 @@ import { collection, addDoc, serverTimestamp } from 'firebase/firestore';
 
 const PLANS = [
   {
-    id: 'answers',
-    name: 'With Answers',
-    price: 25,
+    id: 'free',
+    name: 'Free',
+    price: 0,
     icon: BookOpen,
-    color: 'blue',
+    color: 'gray',
     features: [
-      'View Mark Schemes',
-      'Check Correct Answers',
-      'Understand Marking Points',
-      'Self-Assessment',
+      '✅ Limited past papers (1-2 years)',
+      '✅ View PDFs',
+      '✅ Basic practice mode (5 questions)',
+      '✅ Basic bookmarking',
+      '❌ Unlimited answers',
+      '❌ Full paper access',
+      '❌ Exam analytics',
+      '❌ Offline mode',
+      '❌ AI checking',
     ]
+  },
+  {
+    id: 'standard',
+    name: 'Standard',
+    price: 99,
+    icon: Zap,
+    color: 'blue',
+    popular: true,
+    period: '/month',
+    features: [
+      '✅ Full access to all papers',
+      '✅ Mark schemes',
+      '✅ Unlimited practice',
+      '✅ Save answers',
+      '✅ Subject progress tracking',
+      '✅ No ads',
+      '✅ Dark mode',
+      '✅ Offline downloads',
+    ]
+  },
+  {
+    id: 'premium',
+    name: 'Premium AI',
+    price: 249,
+    icon: Crown,
+    color: 'purple',
+    period: '/month',
+    features: [
+      '✅ Everything in Standard',
+      '✅ AI answer checking',
+      '✅ Predicted grades',
+      '✅ Weak-topic analysis',
+      '✅ Smart revision plans',
+      '✅ Timed mock exams',
+      '✅ Performance graphs',
+      '✅ AI tutor/chat assistant',
+      '✅ Personalized recommendations',
+    ]
+  },
+];
+
+const LIFETIME_PLANS = [
+  {
+    id: 'single',
+    name: 'Single Subject',
+    price: 199,
+    description: 'One subject forever',
+    subjects: ['Biology', 'Chemistry', 'Physics', 'Math']
+  },
+  {
+    id: 'science',
+    name: 'Science Bundle',
+    price: 499,
+    description: 'Biology + Chemistry + Physics',
   },
   {
     id: 'full',
-    name: 'Full Access',
-    price: 50,
-    icon: Zap,
-    color: 'purple',
-    popular: true,
-    features: [
-      'Everything in Answers',
-      'Practice Mode',
-      'Reset & Retry Papers',
-      'Track Your Progress',
-      'Detailed Analytics',
-      'Priority Support',
-    ]
-  },
-  {
-    id: 'pro',
-    name: 'Pro Monthly',
-    price: 150,
-    icon: Crown,
-    color: 'amber',
-    features: [
-      'Everything in Full Access',
-      'Unlimited Paper Resets',
-      'New Papers Added Weekly',
-      'Early Access to New Content',
-      'Expert Doubt Solving',
-      'Cancel Anytime',
-    ]
+    name: 'Full O Level',
+    price: 999,
+    description: 'All O Level subjects',
   },
 ];
 
@@ -203,20 +237,52 @@ export function Subscribe() {
                   </div>
                   <h3 className="text-lg font-bold text-gray-900">{plan.name}</h3>
                   <p className="text-2xl font-bold text-gray-900 mt-1">
-                    {plan.price} <span className="text-sm font-normal text-gray-600">MVR</span>
-                    <span className="text-sm font-normal text-gray-500">/subject</span>
+                    {plan.price === 0 ? 'Free' : `${plan.price} MVR`}
+                    {plan.period && <span className="text-sm font-normal text-gray-500">{plan.period}</span>}
                   </p>
                   <ul className="mt-4 space-y-2">
-                    {plan.features.slice(3).map((feature, i) => (
-                      <li key={i} className="flex items-start gap-2 text-sm text-gray-600">
-                        <Check className="w-4 h-4 text-green-500 mt-0.5 flex-shrink-0" />
-                        {feature}
+                    {plan.features.map((feature, i) => (
+                      <li key={i} className={cn(
+                        "flex items-start gap-2 text-sm",
+                        feature.includes('✅') ? "text-green-600" : "text-gray-400"
+                      )}>
+                        <Check className={cn(
+                          "w-4 h-4 mt-0.5 flex-shrink-0",
+                          feature.includes('✅') ? "text-green-500" : "text-gray-300"
+                        )} />
+                        {feature.replace(/✅|❌/, '').trim()}
                       </li>
                     ))}
                   </ul>
                 </button>
               );
             })}
+          </div>
+        </div>
+
+        {/* One-Time Purchases */}
+        <div className="mb-8">
+          <h2 className="text-lg font-semibold text-gray-900 mb-4">One-Time Purchases (Lifetime)</h2>
+          <p className="text-sm text-gray-600 mb-4">Perfect for students who want permanent access to specific subjects</p>
+          <div className="grid md:grid-cols-3 gap-4">
+            {LIFETIME_PLANS.map((plan) => (
+              <button
+                key={plan.id}
+                onClick={() => setSelectedPlan(plan.id)}
+                className={cn(
+                  'relative p-6 rounded-xl border-2 text-left transition-all',
+                  selectedPlan === plan.id
+                    ? 'border-green-500 bg-green-50'
+                    : 'border-gray-200 bg-white hover:border-gray-300'
+                )}
+              >
+                <h3 className="text-lg font-bold text-gray-900">{plan.name}</h3>
+                <p className="text-2xl font-bold text-green-600 mt-1">
+                  {plan.price} MVR <span className="text-sm font-normal text-gray-500">lifetime</span>
+                </p>
+                <p className="text-sm text-gray-600 mt-2">{plan.description}</p>
+              </button>
+            ))}
           </div>
         </div>
 

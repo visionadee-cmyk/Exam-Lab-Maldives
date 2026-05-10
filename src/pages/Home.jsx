@@ -12,11 +12,13 @@ import {
   Clock,
   Target,
   TrendingUp,
-  Award
+  Award,
+  Zap
 } from 'lucide-react';
 import { SUBJECTS } from '../data/subjects';
 import { cn } from '../utils/cn';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { SmartSearch } from '../components/SmartSearch';
 
 const CATEGORIES = [
   { id: 'olevel', name: 'O Level', icon: BookOpen, color: 'from-emerald-500 to-teal-600', count: '12 Subjects' },
@@ -31,6 +33,53 @@ export function Home() {
   const { isAuthenticated, userData } = useAuth();
   const navigate = useNavigate();
   const [searchQuery, setSearchQuery] = useState('');
+  const [streak, setStreak] = useState(0);
+  const [dailyXP, setDailyXP] = useState(0);
+  const [dailyGoal, setDailyGoal] = useState(10);
+
+  // Load streak data
+  useEffect(() => {
+    if (isAuthenticated) {
+      const today = new Date().toDateString();
+      const streakData = JSON.parse(localStorage.getItem('streak_data') || '{}');
+      
+      if (streakData.lastDate === today) {
+        setStreak(streakData.streak || 0);
+        setDailyXP(streakData.xp || 0);
+      } else {
+        // Check if yesterday was practiced
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        if (streakData.lastDate === yesterday.toDateString()) {
+          setStreak(streakData.streak || 0);
+        } else {
+          setStreak(0);
+        }
+        setDailyXP(0);
+      }
+    }
+  }, [isAuthenticated]);
+
+  // Update streak when user practices
+  const updateStreak = () => {
+    const today = new Date().toDateString();
+    const streakData = JSON.parse(localStorage.getItem('streak_data') || '{}');
+    
+    if (streakData.lastDate !== today) {
+      const newStreak = (streakData.lastDate === new Date(Date.now() - 86400000).toDateString()) 
+        ? (streakData.streak || 0) + 1 
+        : 1;
+      const newXP = (streakData.lastDate === today) ? streakData.xp + 10 : 10;
+      
+      localStorage.setItem('streak_data', JSON.stringify({
+        streak: newStreak,
+        xp: newXP,
+        lastDate: today
+      }));
+      setStreak(newStreak);
+      setDailyXP(newXP);
+    }
+  };
 
   const handleSearch = (e) => {
     e.preventDefault();
@@ -46,17 +95,8 @@ export function Home() {
 
   return (
     <div className="space-y-6 pb-20">
-      {/* Search Bar */}
-      <form onSubmit={handleSearch} className="relative">
-        <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
-        <input
-          type="text"
-          placeholder="Search papers, topics, questions..."
-          value={searchQuery}
-          onChange={(e) => setSearchQuery(e.target.value)}
-          className="w-full pl-12 pr-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
-        />
-      </form>
+      {/* Smart Search */}
+      <SmartSearch />
 
       {/* Continue Studying */}
       {isAuthenticated && (
@@ -77,36 +117,41 @@ export function Home() {
         </div>
       )}
 
-      {/* Daily Streak & Upcoming Exams Row */}
+      {/* Daily Streak & XP Progress */}
       <div className="grid grid-cols-2 gap-4">
         {/* Daily Streak */}
         <div className="bg-white rounded-2xl p-4 border border-gray-100">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-orange-100 rounded-xl flex items-center justify-center">
-              <Flame className="w-5 h-5 text-orange-600" />
+            <div className={cn("w-10 h-10 rounded-xl flex items-center justify-center", streak > 0 ? "bg-orange-100" : "bg-gray-100")}>
+              <Flame className={cn("w-5 h-5", streak > 0 ? "text-orange-600" : "text-gray-400")} />
             </div>
             <div>
-              <p className="text-2xl font-bold text-gray-900">7</p>
+              <p className="text-2xl font-bold text-gray-900">{streak}</p>
               <p className="text-xs text-gray-500">Day Streak</p>
             </div>
           </div>
         </div>
 
-        {/* Upcoming Exams */}
+        {/* XP Progress */}
         <div className="bg-white rounded-2xl p-4 border border-gray-100">
           <div className="flex items-center gap-3 mb-2">
-            <div className="w-10 h-10 bg-red-100 rounded-xl flex items-center justify-center">
-              <Calendar className="w-5 h-5 text-red-600" />
+            <div className="w-10 h-10 bg-purple-100 rounded-xl flex items-center justify-center">
+              <Zap className="w-5 h-5 text-purple-600" />
             </div>
             <div>
-              <p className="text-sm font-medium text-gray-900">Upcoming</p>
-              <p className="text-xs text-gray-500">{upcomingExams[0].name}</p>
+              <p className="text-sm font-medium text-gray-900">Daily XP</p>
+              <p className="text-xs text-gray-500">{dailyXP} / {dailyGoal * 10} XP</p>
             </div>
           </div>
-          <div className="flex items-center gap-1 text-orange-600 text-sm">
-            <Clock className="w-4 h-4" />
-            <span>{upcomingExams[0].daysLeft} days left</span>
+          <div className="w-full bg-gray-100 rounded-full h-2">
+            <div 
+              className="bg-purple-500 h-2 rounded-full transition-all"
+              style={{ width: `${Math.min((dailyXP / (dailyGoal * 10)) * 100, 100)}%` }}
+            />
           </div>
+          <p className="text-xs text-gray-500 mt-1">
+            {dailyGoal - Math.floor(dailyXP / 10)} more questions to goal
+          </p>
         </div>
       </div>
 
@@ -134,6 +179,29 @@ export function Home() {
               </Link>
             );
           })}
+        </div>
+      </div>
+
+      {/* Daily Free Questions */}
+      <div className="bg-gradient-to-r from-blue-500 to-cyan-500 rounded-2xl p-5 text-white">
+        <div className="flex items-center justify-between">
+          <div>
+            <h3 className="font-semibold text-lg">Today's Free Questions</h3>
+            <p className="text-blue-100 text-sm mt-1">10 free questions daily</p>
+          </div>
+          <button 
+            onClick={() => navigate('/practice', { state: { mode: 'daily' } })}
+            className="px-4 py-2 bg-white text-blue-600 rounded-lg font-medium text-sm"
+          >
+            Start Now
+          </button>
+        </div>
+        <div className="flex gap-2 mt-4">
+          {['Biology', 'Chemistry', 'Physics', 'Math'].map((subject) => (
+            <div key={subject} className="bg-white/20 rounded-lg px-3 py-2 text-sm">
+              {subject}
+            </div>
+          ))}
         </div>
       </div>
 

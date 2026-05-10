@@ -1,6 +1,8 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
+import { useAuth } from '../contexts/AuthContext';
+import { Plus, Trash2, Edit3, Save, X } from 'lucide-react';
 import biologyWbi11Jan2019Unit1 from '../data/papers/biology-wbi11-jan2019-unit1.json';
 import biologyWbi11May2019Unit1 from '../data/papers/biology-wbi11-may2019-unit1.json';
 import biologyWbi11Oct2019Unit1 from '../data/papers/biology-wbi11-oct2019-unit1.json';
@@ -62,10 +64,87 @@ const TABS = [
 export function SubjectDetail() {
   const { subjectId } = useParams();
   const navigate = useNavigate();
+  const { userData } = useAuth();
   const [activeTab, setActiveTab] = useState('papers');
   
   const subject = SUBJECTS.find(s => s.id === subjectId);
   const papers = Array.isArray(subject?.papers) ? subject.papers : [];
+  
+  // Get progress from localStorage
+  const [progressStats, setProgressStats] = useState({
+    completed: 0,
+    total: 0,
+    accuracy: 0,
+    weakTopic: null,
+    streak: 0
+  });
+
+  useEffect(() => {
+    if (userData && subjectId) {
+      const key = `progress_${subjectId}`;
+      const saved = localStorage.getItem(key);
+      if (saved) {
+        const data = JSON.parse(saved);
+        // Calculate accuracy
+        const totalQuestions = data.completed || 0;
+        const correctAnswers = data.correct || 0;
+        const accuracy = totalQuestions > 0 ? Math.round((correctAnswers / totalQuestions) * 100) : 0;
+        
+        // Find weak topic
+        const topicStats = data.topicStats || {};
+        let weakTopic = null;
+        let lowestAccuracy = 100;
+        Object.entries(topicStats).forEach(([topic, stats]) => {
+          const topicAcc = stats.total > 0 ? (stats.correct / stats.total) * 100 : 0;
+          if (topicAcc < lowestAccuracy && stats.total >= 3) {
+            lowestAccuracy = topicAcc;
+            weakTopic = topic;
+          }
+        });
+        
+        setProgressStats({
+          completed: totalQuestions,
+          total: data.total || 0,
+          accuracy,
+          weakTopic,
+          streak: data.streak || 0
+        });
+      }
+      
+      // Load notes
+      const notesKey = `notes_${subjectId}`;
+      const savedNotes = localStorage.getItem(notesKey);
+      if (savedNotes) {
+        setNotes(JSON.parse(savedNotes));
+      }
+    }
+  }, [userData, subjectId]);
+
+  // Notes state
+  const [notes, setNotes] = useState([]);
+  const [newNote, setNewNote] = useState('');
+  const [editingNote, setEditingNote] = useState(null);
+
+  const saveNote = () => {
+    if (!newNote.trim()) return;
+    const updated = [...notes, { id: Date.now(), text: newNote, date: new Date().toISOString() }];
+    setNotes(updated);
+    localStorage.setItem(`notes_${subjectId}`, JSON.stringify(updated));
+    setNewNote('');
+  };
+
+  const deleteNote = (id) => {
+    const updated = notes.filter(n => n.id !== id);
+    setNotes(updated);
+    localStorage.setItem(`notes_${subjectId}`, JSON.stringify(updated));
+  };
+
+  const updateNote = (id, text) => {
+    const updated = notes.map(n => n.id === id ? { ...n, text, date: new Date().toISOString() } : n);
+    setNotes(updated);
+    localStorage.setItem(`notes_${subjectId}`, JSON.stringify(updated));
+    setEditingNote(null);
+  };
   
   if (!subject) {
     return (
@@ -132,6 +211,44 @@ export function SubjectDetail() {
           </div>
         </div>
       </div>
+
+      {/* Progress Stats */}
+      {progressStats.completed > 0 && (
+        <div className="bg-white rounded-xl p-4 border border-gray-100 space-y-3">
+          <div className="flex items-center justify-between">
+            <span className="text-sm font-medium text-gray-600">Progress</span>
+            <span className="text-sm text-gray-500">{progressStats.completed} questions</span>
+          </div>
+          <div className="w-full bg-gray-100 rounded-full h-2">
+            <div 
+              className="bg-primary-500 h-2 rounded-full transition-all" 
+              style={{ width: `${Math.min((progressStats.completed / 60) * 100, 100)}%` }}
+            />
+          </div>
+          <div className="grid grid-cols-3 gap-2 text-center">
+            <div className="bg-green-50 rounded-lg p-2">
+              <p className="text-lg font-bold text-green-600">{progressStats.accuracy}%</p>
+              <p className="text-xs text-gray-500">Accuracy</p>
+            </div>
+            <div className="bg-blue-50 rounded-lg p-2">
+              <p className="text-lg font-bold text-blue-600">{progressStats.completed}</p>
+              <p className="text-xs text-gray-500">Practiced</p>
+            </div>
+            <div className="bg-amber-50 rounded-lg p-2">
+              <p className="text-lg font-bold text-amber-600">{progressStats.streak}</p>
+              <p className="text-xs text-gray-500">Streak</p>
+            </div>
+          </div>
+          {progressStats.weakTopic && (
+            <div className="bg-red-50 rounded-lg p-3 flex items-center gap-2">
+              <TrendingUp className="w-4 h-4 text-red-500" />
+              <span className="text-sm text-red-700">
+                Weak topic: <strong>{progressStats.weakTopic}</strong>
+              </span>
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Tabs */}
       <div className="flex gap-1 overflow-x-auto pb-2 -mx-4 px-4">
@@ -204,9 +321,86 @@ export function SubjectDetail() {
       )}
 
       {activeTab === 'notes' && (
-        <div className="text-center py-12 text-gray-500">
-          <StickyNote className="w-12 h-12 mx-auto mb-3 opacity-50" />
-          <p>No notes available yet</p>
+        <div className="space-y-4">
+          {/* Add Note */}
+          <div className="bg-white rounded-xl p-4 border border-gray-100">
+            <textarea
+              value={newNote}
+              onChange={(e) => setNewNote(e.target.value)}
+              placeholder="Add a note..."
+              className="w-full p-3 border border-gray-200 rounded-lg text-sm resize-none focus:outline-none focus:ring-2 focus:ring-primary-500"
+              rows={3}
+            />
+            <button
+              onClick={saveNote}
+              disabled={!newNote.trim()}
+              className="mt-2 px-4 py-2 bg-primary-500 text-white rounded-lg text-sm font-medium disabled:opacity-50"
+            >
+              <Plus className="w-4 h-4 inline mr-1" /> Add Note
+            </button>
+          </div>
+
+          {/* Notes List */}
+          {notes.length === 0 ? (
+            <div className="text-center py-12 text-gray-500">
+              <StickyNote className="w-12 h-12 mx-auto mb-3 opacity-50" />
+              <p>No notes yet. Add your first note above!</p>
+            </div>
+          ) : (
+            <div className="space-y-3">
+              {notes.map((note) => (
+                <div key={note.id} className="bg-white rounded-xl p-4 border border-gray-100">
+                  {editingNote === note.id ? (
+                    <div>
+                      <textarea
+                        defaultValue={note.text}
+                        id={`note-${note.id}`}
+                        className="w-full p-3 border border-gray-200 rounded-lg text-sm resize-none focus:outline-none focus:ring-2 focus:ring-primary-500"
+                        rows={3}
+                      />
+                      <div className="flex gap-2 mt-2">
+                        <button
+                          onClick={() => updateNote(note.id, document.getElementById(`note-${note.id}`).value)}
+                          className="px-3 py-1 bg-green-500 text-white rounded-lg text-sm"
+                        >
+                          <Save className="w-4 h-4 inline" />
+                        </button>
+                        <button
+                          onClick={() => setEditingNote(null)}
+                          className="px-3 py-1 bg-gray-200 text-gray-700 rounded-lg text-sm"
+                        >
+                          <X className="w-4 h-4 inline" />
+                        </button>
+                      </div>
+                    </div>
+                  ) : (
+                    <div>
+                      <p className="text-gray-900 text-sm">{note.text}</p>
+                      <div className="flex items-center justify-between mt-3">
+                        <span className="text-xs text-gray-500">
+                          {new Date(note.date).toLocaleDateString()}
+                        </span>
+                        <div className="flex gap-2">
+                          <button
+                            onClick={() => setEditingNote(note.id)}
+                            className="p-1 text-gray-400 hover:text-primary-500"
+                          >
+                            <Edit3 className="w-4 h-4" />
+                          </button>
+                          <button
+                            onClick={() => deleteNote(note.id)}
+                            className="p-1 text-gray-400 hover:text-red-500"
+                          >
+                            <Trash2 className="w-4 h-4" />
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  )}
+                </div>
+              ))}
+            </div>
+          )}
         </div>
       )}
 
