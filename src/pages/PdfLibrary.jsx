@@ -256,7 +256,7 @@ export function PdfLibrary() {
               </button>
             </div>
             <iframe
-              src={`https://docs.google.com/viewer?url=${encodeURIComponent(selectedPdf.url)}&embedded=true`}
+              src={`https://docs.google.com/viewer?url=${encodeURIComponent(decodeURIComponent(selectedPdf.url))}&embedded=true`}
               className="flex-1 w-full"
               title={selectedPdf.file}
             />
