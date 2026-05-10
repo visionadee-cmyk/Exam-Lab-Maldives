@@ -48,9 +48,10 @@ export function Signup() {
   };
 
   return (
-    <div className="min-h-[calc(100vh-200px)] flex items-center justify-center">
-      <div className="w-full max-w-md">
-        <div className="card">
+    <div className="min-h-screen flex flex-col">
+      <div className="flex-1 flex items-center justify-center px-4 py-10">
+        <div className="w-full max-w-md">
+          <div className="card">
           {/* Header */}
           <div className="text-center mb-8">
             <img 
@@ -160,11 +161,12 @@ export function Signup() {
               </Link>
             </p>
           </div>
+          </div>
         </div>
       </div>
 
       {/* Footer */}
-      <footer className="py-4 mt-8" style={{ backgroundColor: '#111827' }}>
+      <footer className="w-full py-4" style={{ backgroundColor: '#111827' }}>
         <div className="max-w-md mx-auto px-4 text-center">
           <p className="text-gray-400 text-sm">
             Developed by <span className="text-white font-medium">Retts Web Dev</span> • 
