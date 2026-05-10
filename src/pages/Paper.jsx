@@ -1,6 +1,9 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { ArrowLeft, Clock, CheckCircle, AlertCircle, ChevronRight, ChevronLeft } from 'lucide-react';
+import { 
+  ArrowLeft, Clock, CheckCircle, AlertCircle, ChevronRight, ChevronLeft,
+  Eye, Brain, FileText, Layers, Bookmark, ChevronDown
+} from 'lucide-react';
 import { cn } from '../utils/cn';
 
 // Format part ID like "1a_i" → "1(a)(i)"
@@ -20,15 +23,43 @@ function formatPartNumber(partId) {
   return partId;
 }
 
+const MODES = [
+  { id: 'practice', name: 'Practice Mode', icon: Brain, color: 'bg-green-500', desc: 'Instant feedback & hints' },
+  { id: 'exam', name: 'Exam Mode', icon: FileText, color: 'bg-amber-500', desc: 'Timed, no hints' },
+  { id: 'view', name: 'View PDF', icon: Eye, color: 'bg-blue-500', desc: 'Read only' },
+  { id: 'topics', name: 'Topic Extraction', icon: Layers, color: 'bg-purple-500', desc: 'Filter by topic' },
+];
+
 export function Paper() {
   const navigate = useNavigate();
   const location = useLocation();
   const { paper, subject } = location.state || {};
   
+  const [mode, setMode] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
   const [submitted, setSubmitted] = useState(false);
   const [showResults, setShowResults] = useState(false);
+  const [showAnswer, setShowAnswer] = useState({});
+  const [timeLeft, setTimeLeft] = useState(null);
+  const [showModeMenu, setShowModeMenu] = useState(false);
+
+  useEffect(() => {
+    if (mode === 'exam' && paper?.timeMinutes) {
+      setTimeLeft(paper.timeMinutes * 60);
+      const timer = setInterval(() => {
+        setTimeLeft(t => {
+          if (t <= 1) {
+            clearInterval(timer);
+            handleSubmit();
+            return 0;
+          }
+          return t - 1;
+        });
+      }, 1000);
+      return () => clearInterval(timer);
+    }
+  }, [mode]);
 
   if (!paper || !subject) {
     return (
@@ -41,6 +72,49 @@ export function Paper() {
     );
   }
 
+  // Mode Selection Screen
+  if (!mode) {
+    return (
+      <div className="space-y-6">
+        <button onClick={() => navigate(-1)} className="flex items-center text-gray-600">
+          <ArrowLeft className="w-4 h-4 mr-1" /> Back
+        </button>
+
+        <div className="text-center mb-6">
+          <h1 className="text-2xl font-bold text-gray-900">{paper.session}</h1>
+          <p className="text-gray-600">{paper.code} • {paper.unit}</p>
+        </div>
+
+        <div className="grid grid-cols-2 gap-3">
+          {MODES.map((m) => {
+            const Icon = m.icon;
+            return (
+              <button
+                key={m.id}
+                onClick={() => setMode(m.id)}
+                className="bg-white rounded-xl p-4 border border-gray-100 text-left hover:border-primary-200 transition-colors"
+              >
+                <div className={cn('w-10 h-10 rounded-lg flex items-center justify-center mb-3', m.color)}>
+                  <Icon className="w-5 h-5 text-white" />
+                </div>
+                <p className="font-medium text-gray-900">{m.name}</p>
+                <p className="text-xs text-gray-500 mt-1">{m.desc}</p>
+              </button>
+            );
+          })}
+        </div>
+
+        <div className="bg-gray-50 rounded-xl p-4">
+          <p className="text-sm text-gray-600">
+            <strong>{paper.questions.length}</strong> questions • 
+            <strong> {paper.totalMarks}</strong> marks • 
+            <strong> {paper.timeMinutes}</strong> min
+          </p>
+        </div>
+      </div>
+    );
+  }
+
   const question = paper.questions[currentQuestion];
 
   const handleAnswerChange = (partId, value) => {
@@ -48,6 +122,10 @@ export function Paper() {
       ...prev,
       [`${question.id}_${partId}`]: value
     }));
+  };
+
+  const toggleShowAnswer = (partId) => {
+    setShowAnswer(prev => ({ ...prev, [partId]: !prev[partId] }));
   };
 
   const handleNext = () => {
@@ -77,12 +155,10 @@ export function Paper() {
         const userAnswer = answers[`${q.id}_${part.id}`]?.toString().toLowerCase().trim();
         
         if (part.type === 'mcq') {
-          // MCQ: exact match required
           if (userAnswer === part.answer.toLowerCase()) {
             earnedMarks += part.marks;
           }
         } else {
-          // Short answer: check keywords
           if (userAnswer && part.keywords) {
             const hasKeyword = part.keywords.some(keyword => 
               userAnswer.includes(keyword.toLowerCase())
@@ -98,35 +174,43 @@ export function Paper() {
     return { totalMarks, earnedMarks, percentage: Math.round((earnedMarks / totalMarks) * 100) };
   };
 
+  const formatTime = (seconds) => {
+    const mins = Math.floor(seconds / 60);
+    const secs = seconds % 60;
+    return `${mins}:${secs.toString().padStart(2, '0')}`;
+  };
+
   const score = calculateScore();
 
   return (
-    <div className="max-w-4xl mx-auto space-y-6">
+    <div className="max-w-4xl mx-auto space-y-4">
       {/* Header */}
       <div className="flex items-center justify-between">
         <button
-          onClick={() => navigate(-1)}
+          onClick={() => setMode(null)}
           className="flex items-center text-gray-600 hover:text-gray-900"
         >
           <ArrowLeft className="w-4 h-4 mr-1" />
-          Back to {subject.name}
+          Back
         </button>
         
-        <div className="flex items-center space-x-4">
-          <div className="flex items-center text-sm text-gray-600">
-            <Clock className="w-4 h-4 mr-1" />
-            {paper.timeMinutes} minutes
-          </div>
+        <div className="flex items-center gap-3">
+          {timeLeft !== null && mode === 'exam' && (
+            <div className={cn('px-3 py-1 rounded-lg text-sm font-medium', timeLeft < 60 ? 'bg-red-100 text-red-600' : 'bg-gray-100')}>
+              <Clock className="w-4 h-4 inline mr-1" />
+              {formatTime(timeLeft)}
+            </div>
+          )}
           <div className="text-sm font-medium text-gray-700">
-            Question {currentQuestion + 1} of {paper.questions.length}
+            {currentQuestion + 1}/{paper.questions.length}
           </div>
         </div>
       </div>
 
       {/* Progress bar */}
-      <div className="w-full bg-gray-200 rounded-full h-2">
+      <div className="w-full bg-gray-200 rounded-full h-1.5">
         <div 
-          className="bg-primary-600 h-2 rounded-full transition-all duration-300"
+          className="bg-primary-600 h-1.5 rounded-full transition-all"
           style={{ width: `${((currentQuestion + 1) / paper.questions.length) * 100}%` }}
         />
       </div>
