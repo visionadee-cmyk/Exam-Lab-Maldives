@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ArrowLeft, FileText, Search, ExternalLink, Download, Eye, Calendar, BookOpen, Filter, Lock, Crown } from 'lucide-react';
+import { ArrowLeft, FileText, Search, ExternalLink, Download, Eye, Calendar, BookOpen, Filter, Lock, Crown, Grid, List, X } from 'lucide-react';
 import { cn } from '../utils/cn';
 import { useAccessControl } from '../hooks/useAccessControl';
 
@@ -14,6 +14,7 @@ export function PdfLibrary() {
   const [subjectFilter, setSubjectFilter] = useState('all');
   const [typeTab, setTypeTab] = useState('all'); // 'all', 'qp', 'ms'
   const [selectedPdf, setSelectedPdf] = useState(null);
+  const [viewMode, setViewMode] = useState('grid');
 
   useEffect(() => {
     fetch('/pdf-manifest.json')
@@ -77,17 +78,32 @@ export function PdfLibrary() {
 
   return (
     <div className="space-y-6">
-      <button
-        onClick={() => navigate('/subjects')}
-        className="flex items-center text-gray-600 hover:text-gray-900"
-      >
-        <ArrowLeft className="w-4 h-4 mr-1" />
-        Back to Subjects
-      </button>
+      {/* Better Header */}
+      <div className="bg-gradient-to-r from-indigo-600 to-primary-600 rounded-2xl p-6 text-white">
+        <button
+          onClick={() => navigate('/subjects')}
+          className="flex items-center text-white/80 hover:text-white mb-4"
+        >
+          <ArrowLeft className="w-4 h-4 mr-1" />
+          Back to Subjects
+        </button>
 
-      <div>
-        <h1 className="text-3xl font-bold text-gray-900">PDF Past Papers Library</h1>
-        <p className="text-gray-600">Browse and download past papers by level, board, and subject.</p>
+        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+          <div>
+            <h1 className="text-2xl md:text-3xl font-bold mb-1">Past Papers Library</h1>
+            <p className="text-white/80">Browse thousands of exam papers</p>
+          </div>
+          <div className="flex gap-3">
+            <div className="bg-white/20 backdrop-blur rounded-lg px-4 py-2 text-center">
+              <div className="text-xl font-bold">{allItems.length.toLocaleString()}</div>
+              <div className="text-xs text-white/70">Papers</div>
+            </div>
+            <div className="bg-white/20 backdrop-blur rounded-lg px-4 py-2 text-center">
+              <div className="text-xl font-bold">{subjects.length}</div>
+              <div className="text-xs text-white/70">Subjects</div>
+            </div>
+          </div>
+        </div>
       </div>
 
       {/* QP/MS Tabs */}
@@ -155,6 +171,20 @@ export function PdfLibrary() {
               <option key={s} value={s}>{s}</option>
             ))}
           </select>
+          <div className="flex bg-gray-100 rounded-lg p-1">
+            <button
+              onClick={() => setViewMode('grid')}
+              className={cn('p-2 rounded-md transition-all', viewMode === 'grid' ? 'bg-white shadow-sm' : 'text-gray-500')}
+            >
+              <Grid className="w-4 h-4" />
+            </button>
+            <button
+              onClick={() => setViewMode('list')}
+              className={cn('p-2 rounded-md transition-all', viewMode === 'list' ? 'bg-white shadow-sm' : 'text-gray-500')}
+            >
+              <List className="w-4 h-4" />
+            </button>
+          </div>
         </div>
       </div>
 
@@ -164,9 +194,10 @@ export function PdfLibrary() {
         {search && <span>for "{search}"</span>}
       </div>
 
-      {/* Cards Grid */}
+      {/* Cards Grid / List */}
+      {viewMode === 'grid' ? (
       <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-        {filtered.map((item, idx) => {
+        {filtered.slice(0, 100).map((item, idx) => {
           const isLocked = item.isMS && !canViewAnswers();
           const handleClick = () => {
             if (isLocked) {
@@ -181,7 +212,7 @@ export function PdfLibrary() {
             key={idx}
             onClick={handleClick}
             className={cn(
-              'group block rounded-xl border transition-all overflow-hidden cursor-pointer',
+              'group block rounded-xl border-2 transition-all overflow-hidden cursor-pointer hover:scale-[1.02]',
               item.isQP
                 ? 'bg-white border-blue-200 hover:shadow-lg hover:border-blue-400'
                 : isLocked 
@@ -209,15 +240,15 @@ export function PdfLibrary() {
             <div className="p-4 space-y-2">
               <div className="flex items-start justify-between gap-2">
                 <div className="flex-1 min-w-0">
-                  <p className="font-semibold text-gray-900 text-sm truncate">{item.subject}</p>
+                  <p className="font-bold text-gray-900 text-sm truncate">{item.subject}</p>
                   <p className="text-xs text-gray-500 truncate">{item.file}</p>
                 </div>
                 <div className="flex flex-col gap-1 flex-shrink-0">
                   {item.isQP && (
-                    <span className="text-xs px-2 py-0.5 bg-blue-100 text-blue-700 rounded font-medium">QP</span>
+                    <span className="text-xs px-2 py-0.5 bg-blue-100 text-blue-700 rounded font-bold">QP</span>
                   )}
                   {item.isMS && (
-                    <span className="text-xs px-2 py-0.5 bg-green-100 text-green-700 rounded font-medium">MS</span>
+                    <span className="text-xs px-2 py-0.5 bg-green-100 text-green-700 rounded font-bold">MS</span>
                   )}
                 </div>
               </div>
@@ -241,6 +272,44 @@ export function PdfLibrary() {
           );
         })}
       </div>
+      ) : (
+        <div className="space-y-2">
+          {filtered.slice(0, 100).map((item, idx) => {
+            const isLocked = item.isMS && !canViewAnswers();
+            const handleClick = () => {
+              if (isLocked) {
+                alert(`Upgrade to "With Answers" or higher to view mark schemes!\n\nCurrent plan: ${userPlan}`);
+                return;
+              }
+              setSelectedPdf(item);
+            };
+            return (
+              <div
+                key={idx}
+                onClick={handleClick}
+                className={cn(
+                  'flex items-center gap-3 p-3 rounded-xl border-2 transition-all cursor-pointer hover:shadow-md',
+                  item.isQP ? 'border-blue-100 hover:border-blue-300 bg-blue-50/50' : isLocked ? 'border-gray-100' : 'border-green-100 hover:border-green-300 bg-green-50/50'
+                )}
+              >
+                <div className={cn('w-10 h-10 rounded-lg flex items-center justify-center', item.isQP ? 'bg-blue-100' : 'bg-green-100')}>
+                  {isLocked ? <Lock className="w-5 h-5 text-gray-400" /> : <FileText className={cn('w-5 h-5', item.isQP ? 'text-blue-600' : 'text-green-600')} />}
+                </div>
+                <div className="flex-1 min-w-0">
+                  <p className="font-medium text-gray-900 text-sm truncate">{item.file}</p>
+                  <p className="text-xs text-gray-500">{item.subject} • {item.board}</p>
+                </div>
+                <span className={cn('text-xs px-2 py-1 rounded font-bold', item.isQP ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700')}>{item.isQP ? 'QP' : 'MS'}</span>
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {/* Show more hint */}
+      {filtered.length > 100 && (
+        <p className="text-center text-gray-500 text-sm py-4">Showing first 100 of {filtered.length} papers. Use filters to narrow down.</p>
+      )}
 
       {/* PDF Viewer Modal */}
       {selectedPdf && (
