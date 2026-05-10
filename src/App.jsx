@@ -17,6 +17,7 @@ import { Paper } from './pages/Paper';
 import { PdfLibrary } from './pages/PdfLibrary';
 import { PdfLibraryHero } from './pages/PdfLibraryHero';
 import { Subscribe } from './pages/Subscribe';
+import { Profile } from './pages/Profile';
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
             <Route path="/exam" element={<Exam />} />
             <Route path="/paper" element={<Paper />} />
             <Route path="/progress" element={<Progress />} />
+            <Route path="/profile" element={<Profile />} />
             <Route path="/admin" element={
               <ProtectedRoute requireAdmin>
                 <Admin />

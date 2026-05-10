@@ -1,209 +1,203 @@
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
 import { 
-  BookOpen, 
-  BarChart3, 
-  Clock, 
+  Search,
+  Flame,
+  Calendar,
+  BookOpen,
+  FileText,
+  Brain,
+  Bookmark,
+  ChevronRight,
+  Clock,
   Target,
-  Award,
-  ChevronRight
+  TrendingUp,
+  Award
 } from 'lucide-react';
 import { SUBJECTS } from '../data/subjects';
 import { cn } from '../utils/cn';
+import { useState } from 'react';
+
+const CATEGORIES = [
+  { id: 'olevel', name: 'O Level', icon: BookOpen, color: 'from-emerald-500 to-teal-600', count: '12 Subjects' },
+  { id: 'alevel', name: 'A Level', icon: Award, color: 'from-violet-500 to-purple-600', count: '8 Subjects' },
+  { id: 'revision', name: 'Revision Notes', icon: FileText, color: 'from-amber-500 to-orange-600', count: '200+ Notes' },
+  { id: 'mock', name: 'Mock Exams', icon: Target, color: 'from-rose-500 to-pink-600', count: '50+ Exams' },
+  { id: 'ai', name: 'AI Practice', icon: Brain, color: 'from-blue-500 to-cyan-600', count: 'Smart Quiz' },
+  { id: 'saved', name: 'Saved Papers', icon: Bookmark, color: 'from-indigo-500 to-blue-600', count: 'My Collection' },
+];
 
 export function Home() {
   const { isAuthenticated, userData } = useAuth();
+  const navigate = useNavigate();
+  const [searchQuery, setSearchQuery] = useState('');
 
-  const features = [
-    {
-      icon: BookOpen,
-      title: 'Practice Questions',
-      description: 'Access thousands of past paper questions from O Level and A Level exams.'
-    },
-    {
-      icon: Clock,
-      title: 'Exam Simulation',
-      description: 'Experience real exam conditions with timed practice sessions.'
-    },
-    {
-      icon: BarChart3,
-      title: 'Track Progress',
-      description: 'Monitor your performance and identify areas for improvement.'
-    },
-    {
-      icon: Target,
-      title: 'Topic Focus',
-      description: 'Practice specific topics and master them one by one.'
+  const handleSearch = (e) => {
+    e.preventDefault();
+    if (searchQuery.trim()) {
+      navigate(`/pdf-library?search=${encodeURIComponent(searchQuery)}`);
     }
+  };
+
+  const upcomingExams = [
+    { name: 'Biology Paper 2', date: 'May 15, 2026', daysLeft: 5 },
+    { name: 'Chemistry Paper 4', date: 'May 20, 2026', daysLeft: 10 },
   ];
 
   return (
-    <div className="space-y-8">
-      {/* Hero Section */}
-      <section className="py-8 md:py-12">
-        <div className="grid lg:grid-cols-2 gap-8 items-center">
-          {/* Left - Text */}
-          <div className="text-center lg:text-left">
-            <img 
-              src="/logo.png" 
-              alt="Exam Lab MV" 
-              className="w-24 h-24 mx-auto lg:mx-0 mb-6 object-contain"
-            />
-            <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-4">
-              Master Your Exams with{' '}
-          <span className="text-primary-600">Exam Lab MV</span>
-        </h1>
-        <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-8">
-          The ultimate practice platform for O Level and A Level students in the Maldives. 
-          Practice with real past papers, track your progress, and achieve your best grades.
-        </p>
-        
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-          {isAuthenticated ? (
-            <Link to="/subjects" className="btn-primary text-lg px-8 py-3">
-              Start Practicing
-            </Link>
-          ) : (
-            <>
-              <Link to="/signup" className="btn-primary text-lg px-8 py-3">
-                Get Started Free
-              </Link>
-              <Link to="/login" className="btn-secondary text-lg px-8 py-3">
-                Sign In
-              </Link>
-            </>
-          )}
-        </div>
-          </div>
-          
-          {/* Right - Illustration */}
-          <div className="hidden lg:block">
-            <img 
-              src="/storyset/Online learning-amico.png" 
-              alt="Online Learning" 
-              className="w-full h-auto max-w-md mx-auto"
-            />
-          </div>
-        </div>
-      </section>
+    <div className="space-y-6 pb-20">
+      {/* Search Bar */}
+      <form onSubmit={handleSearch} className="relative">
+        <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+        <input
+          type="text"
+          placeholder="Search papers, topics, questions..."
+          value={searchQuery}
+          onChange={(e) => setSearchQuery(e.target.value)}
+          className="w-full pl-12 pr-4 py-3 bg-white border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+        />
+      </form>
 
-      {/* Stats for logged in users */}
-      {isAuthenticated && userData?.stats && (
-        <section className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <div className="card text-center">
-            <div className="text-3xl font-bold text-primary-600 mb-1">
-              {userData.stats.totalQuestions || 0}
+      {/* Continue Studying */}
+      {isAuthenticated && (
+        <div className="bg-gradient-to-r from-primary-600 to-primary-700 rounded-2xl p-5 text-white">
+          <h3 className="font-semibold mb-3">Continue Studying</h3>
+          <div className="flex items-center justify-between">
+            <div>
+              <p className="text-primary-100 text-sm">Last session: Biology Unit 3</p>
+              <p className="font-medium mt-1">Question 12 of 50</p>
             </div>
-            <div className="text-sm text-gray-600">Questions Attempted</div>
+            <Link 
+              to="/practice" 
+              className="px-4 py-2 bg-white text-primary-700 rounded-lg font-medium text-sm"
+            >
+              Continue
+            </Link>
           </div>
-          <div className="card text-center">
-            <div className="text-3xl font-bold text-green-600 mb-1">
-              {userData.stats.correctAnswers || 0}
-            </div>
-            <div className="text-sm text-gray-600">Correct Answers</div>
-          </div>
-          <div className="card text-center">
-            <div className="text-3xl font-bold text-amber-600 mb-1">
-              {userData.stats.examsTaken || 0}
-            </div>
-            <div className="text-sm text-gray-600">Exams Completed</div>
-          </div>
-          <div className="card text-center">
-            <div className="text-3xl font-bold text-purple-600 mb-1">
-              {userData.stats.practiceSessions || 0}
-            </div>
-            <div className="text-sm text-gray-600">Practice Sessions</div>
-          </div>
-        </section>
+        </div>
       )}
 
-      {/* Features */}
-      <section>
-        <h2 className="text-2xl font-bold text-gray-900 mb-6">Why Choose Exam Lab MV?</h2>
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
-          {features.map((feature, index) => {
-            const Icon = feature.icon;
+      {/* Daily Streak & Upcoming Exams Row */}
+      <div className="grid grid-cols-2 gap-4">
+        {/* Daily Streak */}
+        <div className="bg-white rounded-2xl p-4 border border-gray-100">
+          <div className="flex items-center gap-3">
+            <div className="w-10 h-10 bg-orange-100 rounded-xl flex items-center justify-center">
+              <Flame className="w-5 h-5 text-orange-600" />
+            </div>
+            <div>
+              <p className="text-2xl font-bold text-gray-900">7</p>
+              <p className="text-xs text-gray-500">Day Streak</p>
+            </div>
+          </div>
+        </div>
+
+        {/* Upcoming Exams */}
+        <div className="bg-white rounded-2xl p-4 border border-gray-100">
+          <div className="flex items-center gap-3 mb-2">
+            <div className="w-10 h-10 bg-red-100 rounded-xl flex items-center justify-center">
+              <Calendar className="w-5 h-5 text-red-600" />
+            </div>
+            <div>
+              <p className="text-sm font-medium text-gray-900">Upcoming</p>
+              <p className="text-xs text-gray-500">{upcomingExams[0].name}</p>
+            </div>
+          </div>
+          <div className="flex items-center gap-1 text-orange-600 text-sm">
+            <Clock className="w-4 h-4" />
+            <span>{upcomingExams[0].daysLeft} days left</span>
+          </div>
+        </div>
+      </div>
+
+      {/* Main Categories */}
+      <div>
+        <h2 className="text-lg font-semibold text-gray-900 mb-4">Explore</h2>
+        <div className="grid grid-cols-2 gap-4">
+          {CATEGORIES.map((cat) => {
+            const Icon = cat.icon;
             return (
-              <div key={index} className="card hover:shadow-md transition-shadow">
-                <div className="w-12 h-12 bg-primary-100 rounded-xl flex items-center justify-center mb-4">
-                  <Icon className="w-6 h-6 text-primary-600" />
-                </div>
-                <h3 className="font-semibold text-gray-900 mb-2">{feature.title}</h3>
-                <p className="text-sm text-gray-600">{feature.description}</p>
-              </div>
+              <Link
+                key={cat.id}
+                to={cat.id === 'olevel' ? '/subjects?level=OLEVEL' : 
+                    cat.id === 'alevel' ? '/subjects?level=ALEVEL' :
+                    cat.id === 'saved' ? '/progress' : '/subjects'}
+                className={cn(
+                  'relative overflow-hidden rounded-2xl p-5 text-white',
+                  'bg-gradient-to-br',
+                  cat.color
+                )}
+              >
+                <Icon className="w-8 h-8 mb-3 opacity-90" />
+                <p className="font-semibold">{cat.name}</p>
+                <p className="text-sm opacity-80">{cat.count}</p>
+              </Link>
             );
           })}
         </div>
-      </section>
+      </div>
 
-      {/* Subjects */}
-      <section>
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="text-2xl font-bold text-gray-900">Available Subjects</h2>
-          <Link to="/subjects" className="text-primary-600 hover:text-primary-700 font-medium flex items-center">
-            View All
-            <ChevronRight className="w-4 h-4 ml-1" />
+      {/* Quick Stats */}
+      {isAuthenticated && (
+        <div className="grid grid-cols-3 gap-4">
+          <div className="bg-white rounded-xl p-4 border border-gray-100 text-center">
+            <TrendingUp className="w-5 h-5 text-green-600 mx-auto mb-2" />
+            <p className="text-xl font-bold text-gray-900">{userData?.stats?.totalQuestions || 0}</p>
+            <p className="text-xs text-gray-500">Questions</p>
+          </div>
+          <div className="bg-white rounded-xl p-4 border border-gray-100 text-center">
+            <Target className="w-5 h-5 text-blue-600 mx-auto mb-2" />
+            <p className="text-xl font-bold text-gray-900">{userData?.stats?.examsTaken || 0}</p>
+            <p className="text-xs text-gray-500">Exams</p>
+          </div>
+          <div className="bg-white rounded-xl p-4 border border-gray-100 text-center">
+            <Award className="w-5 h-5 text-amber-600 mx-auto mb-2" />
+            <p className="text-xl font-bold text-gray-900">{userData?.plan || 'Free'}</p>
+            <p className="text-xs text-gray-500">Plan</p>
+          </div>
+        </div>
+      )}
+
+      {/* Popular Subjects */}
+      <div>
+        <div className="flex items-center justify-between mb-4">
+          <h2 className="text-lg font-semibold text-gray-900">Popular Subjects</h2>
+          <Link to="/subjects" className="text-primary-600 text-sm font-medium flex items-center">
+            See All
+            <ChevronRight className="w-4 h-4" />
           </Link>
         </div>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {SUBJECTS.map((subject) => (
+        <div className="flex gap-3 overflow-x-auto pb-2 -mx-4 px-4">
+          {SUBJECTS.slice(0, 6).map((subject) => (
             <Link
               key={subject.id}
               to={`/subjects/${subject.id}`}
-              className="card hover:shadow-md transition-all group"
+              className="flex-shrink-0 bg-white rounded-xl p-4 border border-gray-100 w-36"
             >
-              <div className="flex items-start space-x-4">
-                <div className={cn('w-12 h-12 rounded-xl flex items-center justify-center text-white', subject.color)}>
-                  <BookOpen className="w-6 h-6" />
-                </div>
-                <div className="flex-1">
-                  <div className="flex items-center justify-between">
-                    <h3 className="font-semibold text-gray-900 group-hover:text-primary-600 transition-colors">
-                      {subject.name}
-                    </h3>
-                    <span className="text-xs font-bold text-gray-400">
-                      {subject.code}
-                    </span>
-                  </div>
-                  <p className="text-sm text-gray-500 mt-1">
-                    {subject.topics.length} topics
-                  </p>
-                  <div className="flex flex-wrap gap-1 mt-2">
-                    <span className={cn(
-                      'text-xs px-2 py-0.5 rounded',
-                      subject.board?.includes('IGCSE') && 'bg-emerald-100 text-emerald-700',
-                      subject.board?.includes('Edexcel') && 'bg-blue-100 text-blue-700',
-                      subject.board?.includes('Cambridge IAL') && 'bg-teal-100 text-teal-700'
-                    )}>
-                      {subject.board}
-                    </span>
-                  </div>
-                </div>
+              <div className={cn('w-10 h-10 rounded-lg flex items-center justify-center text-white mb-2', subject.color)}>
+                <BookOpen className="w-5 h-5" />
               </div>
+              <p className="font-medium text-gray-900 text-sm truncate">{subject.name}</p>
+              <p className="text-xs text-gray-500">{subject.code}</p>
             </Link>
           ))}
         </div>
-      </section>
+      </div>
 
-      {/* CTA Section */}
+      {/* CTA for non-authenticated */}
       {!isAuthenticated && (
-        <section className="card bg-gradient-to-r from-primary-600 to-primary-700 text-white text-center py-12">
-          <Award className="w-16 h-16 mx-auto mb-4 text-primary-200" />
-          <h2 className="text-2xl md:text-3xl font-bold mb-4">
-            Ready to Excel in Your Exams?
-          </h2>
-          <p className="text-primary-100 mb-6 max-w-xl mx-auto">
-            Join thousands of students preparing for their O Level and A Level exams. 
-            Start practicing today and achieve the grades you deserve.
-          </p>
-          <Link 
-            to="/signup" 
-            className="inline-flex items-center px-8 py-3 bg-white text-primary-700 font-semibold rounded-lg hover:bg-primary-50 transition-colors"
-          >
-            Create Free Account
-            <ChevronRight className="w-5 h-5 ml-2" />
-          </Link>
-        </section>
+        <div className="bg-gray-900 rounded-2xl p-6 text-white text-center">
+          <h3 className="text-lg font-semibold mb-2">Start Your Exam Prep</h3>
+          <p className="text-gray-400 text-sm mb-4">Join thousands of students achieving their best grades</p>
+          <div className="flex gap-3">
+            <Link to="/signup" className="flex-1 bg-primary-600 py-2.5 rounded-lg font-medium">
+              Sign Up Free
+            </Link>
+            <Link to="/login" className="flex-1 bg-gray-800 py-2.5 rounded-lg font-medium">
+              Sign In
+            </Link>
+          </div>
+        </div>
       )}
     </div>
   );
