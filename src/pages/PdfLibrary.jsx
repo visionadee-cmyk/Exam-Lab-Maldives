@@ -17,6 +17,8 @@ export function PdfLibrary() {
   const [viewMode, setViewMode] = useState('grid');
   const [yearFilter, setYearFilter] = useState('all');
   const [sessionFilter, setSessionFilter] = useState('all');
+  const [showLockedModal, setShowLockedModal] = useState(false);
+  const [lockedItem, setLockedItem] = useState(null);
 
   useEffect(() => {
     fetch('/pdf-manifest.json')
@@ -79,9 +81,6 @@ export function PdfLibrary() {
       </div>
     );
   }
-
-  const [showLockedModal, setShowLockedModal] = useState(false);
-  const [lockedItem, setLockedItem] = useState(null);
 
   const handleLockedClick = (item) => {
     setLockedItem(item);
