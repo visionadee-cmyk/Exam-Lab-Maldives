@@ -26,7 +26,6 @@ function App() {
         <Routes>
           {/* Public Routes */}
           <Route path="/" element={<PdfLibraryHero />} />
-          <Route path="/pdf-library" element={<PdfLibrary />} />
           <Route path="/subscribe" element={<Subscribe />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
