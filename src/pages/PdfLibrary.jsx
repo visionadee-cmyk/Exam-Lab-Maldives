@@ -80,26 +80,26 @@ export function PdfLibrary() {
     );
   }
 
-  return (
-    <div className="space-y-6">
-      {/* Better Header */}
-      <div className="bg-gradient-to-r from-indigo-600 to-primary-600 rounded-2xl p-6 text-white">
-        <button
-          onClick={() => navigate('/subjects')}
-          className="flex items-center text-white/80 hover:text-white mb-4"
-        >
-          <ArrowLeft className="w-4 h-4 mr-1" />
-          Back to Subjects
-        </button>
+  const [showLockedModal, setShowLockedModal] = useState(false);
+  const [lockedItem, setLockedItem] = useState(null);
 
-        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+  const handleLockedClick = (item) => {
+    setLockedItem(item);
+    setShowLockedModal(true);
+  };
+
+  return (
+    <div className="space-y-4">
+      {/* Header Stats */}
+      <div className="bg-gradient-to-r from-indigo-600 to-primary-600 rounded-xl p-4 text-white">
+        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-3">
           <div>
-            <h1 className="text-2xl md:text-3xl font-bold mb-1">Past Papers Library</h1>
-            <p className="text-white/80">Browse thousands of exam papers</p>
+            <h1 className="text-xl md:text-2xl font-bold">Past Papers Library</h1>
+            <p className="text-white/80 text-sm">Browse exam papers</p>
           </div>
-          <div className="flex gap-3">
-            <div className="bg-white/20 backdrop-blur rounded-lg px-4 py-2 text-center">
-              <div className="text-xl font-bold">{allItems.length.toLocaleString()}</div>
+          <div className="flex gap-2">
+            <div className="bg-white/20 backdrop-blur rounded-lg px-3 py-1.5 text-center">
+              <div className="text-lg font-bold">{allItems.length.toLocaleString()}</div>
               <div className="text-xs text-white/70">Papers</div>
             </div>
             <div className="bg-white/20 backdrop-blur rounded-lg px-4 py-2 text-center">
@@ -230,7 +230,7 @@ export function PdfLibrary() {
           const isLocked = item.isMS && !canViewAnswers();
           const handleClick = () => {
             if (isLocked) {
-              alert(`Upgrade to "With Answers" or higher to view mark schemes!\n\nCurrent plan: ${userPlan}\n\nGo to /admin to upgrade.`);
+              handleLockedClick(item);
               return;
             }
             setSelectedPdf(item);
@@ -307,7 +307,7 @@ export function PdfLibrary() {
             const isLocked = item.isMS && !canViewAnswers();
             const handleClick = () => {
               if (isLocked) {
-                alert(`Upgrade to "With Answers" or higher to view mark schemes!\n\nCurrent plan: ${userPlan}`);
+                handleLockedClick(item);
                 return;
               }
               setSelectedPdf(item);
@@ -362,22 +362,43 @@ export function PdfLibrary() {
         </div>
       )}
 
+      {/* Locked Content Modal */}
+      {showLockedModal && (
+        <div className="fixed inset-0 bg-black/60 z-50 flex items-center justify-center p-4">
+          <div className="bg-white rounded-2xl w-full max-w-md p-6 text-center">
+            <div className="w-16 h-16 bg-amber-100 rounded-full flex items-center justify-center mx-auto mb-4">
+              <Lock className="w-8 h-8 text-amber-600" />
+            </div>
+            <h3 className="text-xl font-bold text-gray-900 mb-2">Mark Scheme Locked</h3>
+            <p className="text-gray-600 mb-2">
+              This mark scheme requires <span className="font-semibold text-primary-600">"With Answers"</span> or higher plan.
+            </p>
+            <p className="text-sm text-gray-500 mb-6">Current plan: <span className="font-medium">{userPlan || 'Free'}</span></p>
+            
+            <div className="space-y-2">
+              <button
+                onClick={() => { setShowLockedModal(false); navigate('/subscribe'); }}
+                className="w-full py-3 px-4 bg-gradient-to-r from-primary-500 to-primary-600 text-white rounded-xl font-semibold hover:opacity-90"
+              >
+                Upgrade Now
+              </button>
+              <button
+                onClick={() => setShowLockedModal(false)}
+                className="w-full py-2 px-4 text-gray-500 hover:text-gray-700"
+              >
+                Maybe Later
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
       {filtered.length === 0 && (
         <div className="text-center py-12">
           <FileText className="w-12 h-12 text-gray-300 mx-auto mb-3" />
           <p className="text-gray-500">No PDFs found matching your filters.</p>
         </div>
       )}
-
-      {/* Footer */}
-      <footer className="py-4 mt-8" style={{ backgroundColor: '#111827' }}>
-        <div className="max-w-7xl mx-auto px-4 text-center">
-          <p className="text-gray-400 text-sm">
-            Developed by <span className="text-white font-medium">Retts Web Dev</span> • 
-            Powered by <span className="text-white font-medium">Hawaain Brothers Pvt Ltd</span>
-          </p>
-        </div>
-      </footer>
     </div>
   );
 }
