@@ -37,6 +37,13 @@ export function Paper() {
   const location = useLocation();
   const { paper, subject } = location.state || {};
   
+  // Redirect if no paper data
+  useEffect(() => {
+    if (!paper) {
+      navigate('/subjects');
+    }
+  }, [paper, navigate]);
+
   const [mode, setMode] = useState(null);
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [answers, setAnswers] = useState({});
