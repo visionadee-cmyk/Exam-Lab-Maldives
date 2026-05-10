@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Check, CreditCard, BookOpen, Crown, Zap, ArrowLeft, Send } from 'lucide-react';
+import { Check, CreditCard, BookOpen, Crown, Zap, ArrowLeft, Send, CheckCircle } from 'lucide-react';
 import { cn } from '../utils/cn';
 import { useAuth } from '../contexts/AuthContext';
 import { SUBJECTS } from '../data/subjects';
