@@ -27,8 +27,8 @@ export function Layout() {
   const bottomNavItems = [
     { path: '/home', label: 'Home', icon: Home },
     { path: '/subjects', label: 'Subjects', icon: BookOpen },
+    { path: '/pdf-library', label: 'PDFs', icon: FileText },
     { path: '/practice', label: 'Practice', icon: Brain },
-    { path: '/progress', label: 'Analytics', icon: BarChart3 },
     { path: '/profile', label: 'Profile', icon: User },
   ];
 
