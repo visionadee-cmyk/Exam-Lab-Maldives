@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const PDF_ROOT = path.join(__dirname, '../public/pdf-pastpaer-q&a');
-const OUTPUT = path.join(__dirname, '../src/data/pdf-manifest.json');
+const OUTPUT = path.join(__dirname, '../public/pdf-manifest.json');
 
 function isPDF(file) {
   return file.endsWith('.pdf');
@@ -50,13 +50,13 @@ function main() {
   // Detect OLEVEL folders
   const olevelFolders = fs.readdirSync(PDF_ROOT).filter(d =>
     fs.statSync(path.join(PDF_ROOT, d)).isDirectory() &&
-    (d.includes('IGCSE') || d.includes('O-Level'))
+    (d.includes('IGCSE') || d.includes('O-Level') || d.includes('OLEVEL'))
   );
 
   // Detect ALEVEL folders
   const alevelFolders = fs.readdirSync(PDF_ROOT).filter(d =>
     fs.statSync(path.join(PDF_ROOT, d)).isDirectory() &&
-    (d.includes('AS-A-Level') || d.includes('IAL'))
+    (d.includes('AS-A-Level') || d.includes('IAL') || d.includes('A-Level') || d.includes('ALEVEL'))
   );
 
   olevelFolders.forEach(folder => {
