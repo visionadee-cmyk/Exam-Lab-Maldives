@@ -38,6 +38,7 @@ export function PdfLibrary() {
             const isMS = /ms|mark|answer/i.test(file);
             const boardPath = board.replace(/&/g, '%26');
             const subjectPath = subject.replace(/&/g, '%26');
+            const baseUrl = `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}`;
             items.push({
               level,
               board,
@@ -45,7 +46,8 @@ export function PdfLibrary() {
               file,
               isQP,
               isMS,
-              url: `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}/${encodeURIComponent(file)}`
+              url: `${baseUrl}/${encodeURIComponent(file)}`,
+              msFile: isQP ? file.replace(/-qp\./i, '-ms.').replace(/qp\.pdf/i, 'ms.pdf') : null
             });
           });
         });
@@ -53,6 +55,13 @@ export function PdfLibrary() {
     });
     return items;
   }, [manifest]);
+
+  // Find MS for a QP
+  const findMS = (item) => {
+    if (!item.isQP || !item.msFile) return null;
+    const msItem = allItems.find(i => i.file === item.msFile && i.isMS);
+    return msItem;
+  };
 
   const filtered = useMemo(() => {
     return allItems.filter(item => {
@@ -295,6 +304,19 @@ export function PdfLibrary() {
                   <ExternalLink className="w-4 h-4 text-gray-400 group-hover:text-primary-600" />
                 )}
               </div>
+              {/* Answer Sheet Link for QP */}
+              {item.isQP && findMS(item) && (
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setSelectedPdf(findMS(item));
+                  }}
+                  className="w-full mt-2 py-1.5 px-3 text-xs bg-green-50 text-green-700 rounded-lg hover:bg-green-100 flex items-center justify-center gap-1"
+                >
+                  <FileText className="w-3 h-3" />
+                  View Answer Sheet
+                </button>
+              )}
             </div>
           </div>
           );
@@ -327,7 +349,21 @@ export function PdfLibrary() {
                   <p className="font-medium text-gray-900 text-sm truncate">{item.file}</p>
                   <p className="text-xs text-gray-500">{item.subject} • {item.board}</p>
                 </div>
-                <span className={cn('text-xs px-2 py-1 rounded font-bold', item.isQP ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700')}>{item.isQP ? 'QP' : 'MS'}</span>
+                <div className="flex items-center gap-2">
+                  {item.isQP && findMS(item) && (
+                    <button
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setSelectedPdf(findMS(item));
+                      }}
+                      className="p-1.5 text-green-600 hover:bg-green-100 rounded"
+                      title="View Answer Sheet"
+                    >
+                      <FileText className="w-4 h-4" />
+                    </button>
+                  )}
+                  <span className={cn('text-xs px-2 py-1 rounded font-bold', item.isQP ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700')}>{item.isQP ? 'QP' : 'MS'}</span>
+                </div>
               </div>
             );
           })}
