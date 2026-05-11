@@ -48,9 +48,11 @@ export function Exam() {
   const totalMarks = questions.reduce((sum, q) => sum + (q.marks || 1), 0);
 
   const handleAnswer = (answer) => {
+    const currentQuestion = questions[currentIndex];
+    if (!currentQuestion) return;
     setAnswers(prev => ({
       ...prev,
-      [questions[currentIndex].id]: answer
+      [currentQuestion.id]: answer
     }));
   };
 
@@ -103,6 +105,28 @@ export function Exam() {
   const timeTaken = Math.floor((Date.now() - startTime) / 1000);
   const progress = ((currentIndex + 1) / questions.length) * 100;
   const answeredCount = Object.keys(answers).length;
+
+  if (questions.length === 0) {
+    return (
+      <div className="max-w-3xl mx-auto">
+        <div className="card">
+          <h1 className="text-xl font-bold text-gray-900">Loading exam...</h1>
+          <p className="text-sm text-gray-600 mt-2">
+            Please wait while we load your questions.
+          </p>
+          <div className="mt-4">
+            <button
+              onClick={() => navigate('/subjects')}
+              className="btn-secondary"
+            >
+              <ArrowLeft className="w-4 h-4 mr-1" />
+              Back to Subjects
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   if (showResults) {
     return (
@@ -280,7 +304,7 @@ export function Exam() {
       <QuestionCard
         question={questions[currentIndex]}
         index={currentIndex}
-        userAnswer={answers[questions[currentIndex].id]}
+        userAnswer={answers[questions[currentIndex]?.id]}
         onAnswer={handleAnswer}
         showResult={false}
         isExamMode={true}
