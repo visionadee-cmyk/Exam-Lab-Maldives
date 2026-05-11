@@ -89,8 +89,16 @@ export function PdfLibrary() {
     });
   }, [allItems, search, levelFilter, boardFilter, subjectFilter, typeTab, yearFilter, sessionFilter]);
 
-  const boards = useMemo(() => [...new Set(allItems.map(i => i.board))], [allItems]);
-  const subjects = useMemo(() => [...new Set(allItems.map(i => i.subject))], [allItems]);
+  const boards = useMemo(() => [...new Set(allItems.map(i => i.board))].sort(), [allItems]);
+  const subjects = useMemo(() => [...new Set(allItems.map(i => i.subject))].sort(), [allItems]);
+
+  const formatSubjectLabel = (subjectKey) => {
+    const parts = String(subjectKey).split('-');
+    const code = parts.length > 1 ? parts[parts.length - 1] : '';
+    const nameRaw = parts.length > 1 ? parts.slice(0, -1).join('-') : subjectKey;
+    const name = nameRaw.replace(/([a-z])([A-Z])/g, '$1 $2');
+    return code ? `${name} - ${code}` : name;
+  };
 
   if (!manifest) {
     return (
@@ -189,7 +197,7 @@ export function PdfLibrary() {
           >
             <option value="all">All Subjects</option>
             {subjects.map(s => (
-              <option key={s} value={s}>{s}</option>
+              <option key={s} value={s}>{formatSubjectLabel(s)}</option>
             ))}
           </select>
           <select
