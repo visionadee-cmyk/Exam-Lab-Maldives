@@ -46,8 +46,8 @@ export function PdfLibrary() {
             const boardPath = board.replace(/&/g, '%26');
             const subjectPath = subject.replace(/&/g, '%26');
             const baseUrl = `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(folderPath)}/${encodeURIComponent(subjectPath)}`;
-            // Extract base code to match QP with MS (e.g., "0400_s20" from "0400_s20_qp_02.pdf")
-            const baseMatch = file.match(/^(\d+_[msw]\d{2})_/);
+            // Extract base code to match QP with MS (e.g., "0400_s20" from "0400_s20_qp_02.pdf" or "2021-unit1-2021-06-WPH11-01" from "2021-unit1-2021-06-WPH11-01-qp.pdf")
+            const baseMatch = file.match(/^(.+?)[-_](?:qp|ms|question|mark)[_-]/i) || file.match(/^(\d+_[msw]\d{2})_/);
             items.push({
               level,
               board,
