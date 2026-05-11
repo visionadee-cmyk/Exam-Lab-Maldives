@@ -41,9 +41,11 @@ export function Practice() {
   }, [subject, topic, mode, fetchQuestions]);
 
   const handleAnswer = (answer) => {
+    const currentQuestion = questions[currentIndex];
+    if (!currentQuestion) return;
     setAnswers(prev => ({
       ...prev,
-      [questions[currentIndex].id]: answer
+      [currentQuestion.id]: answer
     }));
   };
 
@@ -64,6 +66,7 @@ export function Practice() {
     let totalScore = 0;
     
     questions.forEach(q => {
+      if (!q) return;
       const answer = answers[q.id];
       if (answer) {
         let isCorrect = false;
@@ -149,7 +152,7 @@ export function Practice() {
             question={currentQuestion}
             index={currentIndex}
             userAnswer={answers[currentQuestion?.id]}
-            onAnswer={handleAnswer}
+            onAnswer={(answer) => currentQuestion && handleAnswer(answer)}
             showResult={false}
             isExamMode={false}
           />

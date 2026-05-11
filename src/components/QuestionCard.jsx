@@ -30,6 +30,8 @@ export function QuestionCard({
   showResult = false,
   isExamMode = false 
 }) {
+  if (!question) return null;
+
   const [showSolution, setShowSolution] = useState(false);
   const [imageLoaded, setImageLoaded] = useState(false);
 
