@@ -342,6 +342,7 @@ export function PdfLibrary() {
         <div className="space-y-2">
           {filtered.slice(0, 100).map((item, idx) => {
             const isLocked = item.isMS && !canViewAnswers();
+            const typeLabel = item.isQP ? 'QP' : item.isMS ? 'MS' : 'Other';
             const handleClick = () => {
               if (isLocked) {
                 handleLockedClick(item);
@@ -358,8 +359,8 @@ export function PdfLibrary() {
                   item.isQP ? 'border-blue-100 hover:border-blue-300 bg-blue-50/50' : isLocked ? 'border-gray-100' : 'border-green-100 hover:border-green-300 bg-green-50/50'
                 )}
               >
-                <div className={cn('w-10 h-10 rounded-lg flex items-center justify-center', item.isQP ? 'bg-blue-100' : 'bg-green-100')}>
-                  {isLocked ? <Lock className="w-5 h-5 text-gray-400" /> : <FileText className={cn('w-5 h-5', item.isQP ? 'text-blue-600' : 'text-green-600')} />}
+                <div className={cn('w-10 h-10 rounded-lg flex items-center justify-center', item.isQP ? 'bg-blue-100' : item.isMS ? 'bg-green-100' : 'bg-gray-100')}>
+                  {isLocked ? <Lock className="w-5 h-5 text-gray-400" /> : <FileText className={cn('w-5 h-5', item.isQP ? 'text-blue-600' : item.isMS ? 'text-green-600' : 'text-gray-600')} />}
                 </div>
                 <div className="flex-1 min-w-0">
                   <p className="font-medium text-gray-900 text-sm truncate">{item.file}</p>
@@ -384,7 +385,10 @@ export function PdfLibrary() {
                       </span>
                     )
                   )}
-                  <span className={cn('text-xs px-2 py-1 rounded font-bold', item.isQP ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700')}>{item.isQP ? 'QP' : 'MS'}</span>
+                  <span className={cn(
+                    'text-xs px-2 py-1 rounded font-bold',
+                    item.isQP ? 'bg-blue-100 text-blue-700' : item.isMS ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-700'
+                  )}>{typeLabel}</span>
                 </div>
               </div>
             );
