@@ -44,7 +44,6 @@ export function useQuestions() {
         constraints.push(where('year', '==', filters.year));
       }
       
-      constraints.push(orderBy('createdAt', 'desc'));
       constraints.push(limit(pageSize));
       
       if (filters.cursor) {
