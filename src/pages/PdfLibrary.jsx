@@ -307,17 +307,24 @@ export function PdfLibrary() {
                 )}
               </div>
               {/* Answer Sheet Link for QP */}
-              {item.isQP && findMS(item) && (
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setSelectedPdf(findMS(item));
-                  }}
-                  className="w-full mt-2 py-1.5 px-3 text-xs bg-green-50 text-green-700 rounded-lg hover:bg-green-100 flex items-center justify-center gap-1"
-                >
-                  <FileText className="w-3 h-3" />
-                  View Answer Sheet
-                </button>
+              {item.isQP && (
+                findMS(item) ? (
+                  <button
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      setSelectedPdf(findMS(item));
+                    }}
+                    className="w-full mt-2 py-1.5 px-3 text-xs bg-green-50 text-green-700 rounded-lg hover:bg-green-100 flex items-center justify-center gap-1"
+                  >
+                    <FileText className="w-3 h-3" />
+                    View Answer Sheet
+                  </button>
+                ) : (
+                  <div className="w-full mt-2 py-1.5 px-3 text-xs bg-red-50 text-red-500 rounded-lg flex items-center justify-center gap-1">
+                    <FileText className="w-3 h-3" />
+                    No Answer Sheet
+                  </div>
+                )
               )}
             </div>
           </div>
@@ -352,17 +359,23 @@ export function PdfLibrary() {
                   <p className="text-xs text-gray-500">{item.subject} • {item.board}</p>
                 </div>
                 <div className="flex items-center gap-2">
-                  {item.isQP && findMS(item) && (
-                    <button
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setSelectedPdf(findMS(item));
-                      }}
-                      className="p-1.5 text-green-600 hover:bg-green-100 rounded"
-                      title="View Answer Sheet"
-                    >
-                      <FileText className="w-4 h-4" />
-                    </button>
+                  {item.isQP && (
+                    findMS(item) ? (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setSelectedPdf(findMS(item));
+                        }}
+                        className="p-1.5 text-green-600 hover:bg-green-100 rounded"
+                        title="View Answer Sheet"
+                      >
+                        <FileText className="w-4 h-4" />
+                      </button>
+                    ) : (
+                      <span className="p-1.5 text-red-400" title="No Answer Sheet">
+                        <FileText className="w-4 h-4" />
+                      </span>
+                    )
                   )}
                   <span className={cn('text-xs px-2 py-1 rounded font-bold', item.isQP ? 'bg-blue-100 text-blue-700' : 'bg-green-100 text-green-700')}>{item.isQP ? 'QP' : 'MS'}</span>
                 </div>
