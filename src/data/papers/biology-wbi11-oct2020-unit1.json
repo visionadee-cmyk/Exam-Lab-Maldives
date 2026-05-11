@@ -1,0 +1,442 @@
+{
+  "paperId": "wbi11-oct-2020-unit1-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI11/01",
+  "session": "October 2020",
+  "title": "Biology Unit 1 - Molecules, Diet, Transport and Health",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "The primary structure of a protein determines its secondary structure and its three-dimensional structure.",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "The primary structure of a protein is the specific sequence of amino acids joined together by ____ bonds.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "peptide",
+          "keywords": ["peptide"]
+        },
+        {
+          "id": "1a_ii",
+          "text": "These bonds are formed between the ____ group of one amino acid and the ____ group of an adjacent amino acid by a ____ reaction.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "carboxyl / amino / condensation",
+          "keywords": ["carboxyl", "amino", "condensation"]
+        },
+        {
+          "id": "1a_iii",
+          "text": "These bonds are formed during the stage of protein synthesis called ____.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "translation",
+          "keywords": ["translation"]
+        },
+        {
+          "id": "1b_i",
+          "text": "Which type of bonding is true for the secondary structure?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Hydrogen bonds only" },
+            { "id": "B", "text": "Ionic bonds only" },
+            { "id": "C", "text": "Both hydrogen and ionic bonds" },
+            { "id": "D", "text": "Neither of these bonds" }
+          ],
+          "answer": "A",
+          "keywords": ["A", "hydrogen"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "Which type of bonding is true for the three-dimensional structure?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Hydrogen bonds only" },
+            { "id": "B", "text": "Ionic bonds only" },
+            { "id": "C", "text": "Both hydrogen and ionic bonds" },
+            { "id": "D", "text": "Neither of these bonds" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "both", "hydrogen", "ionic"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Most Bengal tigers are orange with black stripes but there is a very small number of Bengal tigers that are white with black stripes.",
+      "image": "/papers/wbi11-oct2020/q2_white_tiger_photo.png",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "State what is meant by the term genotype.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "The genetic constitution / alleles present in an organism",
+          "keywords": ["genetic", "alleles", "genes"]
+        },
+        {
+          "id": "2b",
+          "text": "State the probability that the next tiger born to these two parents will be female.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "1/2 / 0.5 / 50%",
+          "keywords": ["1/2", "0.5", "50", "half"]
+        },
+        {
+          "id": "2c",
+          "text": "Determine the expected phenotypic ratio of orange tigers to white tigers born to the parents shown in this pedigree diagram. Use a genetic diagram to support your answer.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q2_pedigree.png",
+          "answer": "Parents are both carriers (heterozygous); genetic diagram shows Aa x Aa; offspring ratio 3 orange : 1 white",
+          "keywords": ["3:1", "Aa", "carrier", "heterozygous", "orange", "white", "genetic diagram"]
+        },
+        {
+          "id": "2d",
+          "text": "The incidence of white tigers in the wild is 1 in 10 000 Bengal tigers. There are approximately 6000 Bengal tigers in captivity, 200 of which are white. Calculate the incidence of white tigers in captivity.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "1 in 30 / 1/30 / 0.033 / 3.3%",
+          "keywords": ["30", "0.033", "3.3"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "The cardiac cycle is the sequence of events that occurs when the heart beats. A typical cardiac cycle takes 0.86 seconds.",
+      "image": "/papers/wbi11-oct2020/q3_cardiac_cycle_pie.png",
+      "parts": [
+        {
+          "id": "3a_i",
+          "text": "Which row of the table describes the atria and ventricles during atrial systole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Atria: contracted; Ventricles: contracted" },
+            { "id": "B", "text": "Atria: contracted; Ventricles: relaxed" },
+            { "id": "C", "text": "Atria: relaxed; Ventricles: contracted" },
+            { "id": "D", "text": "Atria: relaxed; Ventricles: relaxed" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "contracted", "relaxed"]
+        },
+        {
+          "id": "3a_ii",
+          "text": "Explain why there is a delay of 0.01 seconds between atrial systole and ventricular systole.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Allows atria to empty / blood to flow into ventricles; prevents simultaneous contraction of atria and ventricles; due to AV node delay",
+          "keywords": ["empty", "AV node", "delay", "blood flow", "ventricles", "simultaneous"]
+        },
+        {
+          "id": "3a_iii",
+          "text": "Using the information in the diagram, calculate the duration of ventricular systole in milliseconds. Express your answer in standard form.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Approximately 3.0 × 10² ms (accept 2.5–3.5 × 10² ms depending on diagram interpretation)",
+          "keywords": ["300", "3", "standard form", "10²", "× 10²"]
+        },
+        {
+          "id": "3a_iv",
+          "text": "State what proportion of the cardiac cycle is spent in ventricular diastole.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Approximately 0.5 / 1/2 / 50% / 0.53 (accept values around 0.5)",
+          "keywords": ["0.5", "half", "50", "1/2", "0.53"]
+        },
+        {
+          "id": "3b",
+          "text": "A typical cardiac cycle takes 0.86 seconds. During exercise, the heart rate increases and the duration of the cardiac cycle decreases. Calculate the increase in heart rate if the cardiac cycle decreases by 0.4 seconds.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Normal HR = 60 ÷ 0.86 = 69.8 bpm; New cycle = 0.86 – 0.4 = 0.46 s; New HR = 60 ÷ 0.46 = 130.4 bpm; Increase = 130.4 – 69.8 = 60.6 ≈ 61 bpm",
+          "keywords": ["61", "60.6", "69.8", "130.4", "0.46", "beats per minute"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "The polynucleotide DNA is composed of mononucleotides linked together. Two polynucleotides form a DNA molecule.",
+      "image": "/papers/wbi11-oct2020/q4_dna_molecule.png",
+      "parts": [
+        {
+          "id": "4a_i",
+          "text": "Draw a circle around one mononucleotide that includes the base labelled R.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Circle should enclose one phosphate, one pentose sugar and one base (R)",
+          "keywords": ["phosphate", "sugar", "base", "circle"]
+        },
+        {
+          "id": "4a_ii",
+          "text": "Which row of the table identifies the bonds labelled S, T and U?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "S: hydrogen; T: phosphodiester; U: covalent" },
+            { "id": "B", "text": "S: hydrogen; T: covalent; U: phosphodiester" },
+            { "id": "C", "text": "S: phosphodiester; T: hydrogen; U: covalent" },
+            { "id": "D", "text": "S: phosphodiester; T: covalent; U: hydrogen" }
+          ],
+          "answer": "D",
+          "keywords": ["D", "phosphodiester", "covalent", "hydrogen"]
+        },
+        {
+          "id": "4a_iii",
+          "text": "The base labelled P is adenine. Which is the base labelled Q?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "cytosine" },
+            { "id": "B", "text": "guanine" },
+            { "id": "C", "text": "thymine" },
+            { "id": "D", "text": "uracil" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "thymine"]
+        },
+        {
+          "id": "4b_i",
+          "text": "Meselson and Stahl carried out experiments that provided evidence for the semi-conservative replication of DNA. Heavy nitrogen (N¹⁵) and light nitrogen (N¹⁴) were used in these experiments. Complete the diagram to show the results of this experiment. Use the dotted lines to help you to position the bands on the diagram. The first one has been done for you.",
+          "marks": 5,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q4b_meselson_stahl_bands.png",
+          "answer": "Stage 2: one band at intermediate position; Stage 3: two bands (one light, one intermediate); Stage 4: one light band, one intermediate band with light band more intense",
+          "keywords": ["stage 2", "stage 3", "stage 4", "intermediate", "light", "heavy", "band"]
+        },
+        {
+          "id": "4b_ii",
+          "text": "The experiments of Meselson and Stahl disproved the dispersive theory of DNA replication. The diagram shows the expected results if the dispersive theory was correct. Which diagram would show the bands of DNA molecules on the density gradient at stage 2, if the dispersive theory was correct?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi11-oct2020/q4b_dispersive_theory.png",
+          "options": [
+            { "id": "A", "text": "Diagram A" },
+            { "id": "B", "text": "Diagram B" },
+            { "id": "C", "text": "Diagram C" },
+            { "id": "D", "text": "Diagram D" }
+          ],
+          "answer": "D",
+          "keywords": ["D", "intermediate", "single band"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Obesity increases the risk of cardiovascular disease (CVD). One way to reduce obesity is to lose weight by changing eating habits.",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Name two obesity indicators used by scientists.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "BMI / waist-to-hip ratio / waist circumference / body fat percentage",
+          "keywords": ["BMI", "waist", "body fat", "obesity indicators"]
+        },
+        {
+          "id": "5b_i",
+          "text": "Glucomannan is a dietary supplement claimed to aid weight loss. Glucomannan is a branched polysaccharide similar in structure to amylopectin. Which glycosidic bonds are responsible for the branching in glucomannan?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "1-4 only" },
+            { "id": "B", "text": "1-6 only" },
+            { "id": "C", "text": "both 1-4 and 1-6" },
+            { "id": "D", "text": "neither 1-4 nor 1-6" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "1-4", "1-6", "both"]
+        },
+        {
+          "id": "5b_ii",
+          "text": "In the presence of water, glucomannan swells to form a semi-solid gel. The diagram shows a stomach with glucomannan present and a stomach without glucomannan. Suggest how glucomannan aids weight loss.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q5b_stomach_diagrams.png",
+          "answer": "It fills the stomach / creates a feeling of fullness / satiety; reduces appetite / food intake",
+          "keywords": ["fullness", "satiety", "appetite", "food intake", "stomach"]
+        },
+        {
+          "id": "5b_iii",
+          "text": "If glucomannan could be digested it would cause a gain in weight. Explain why glucomannan could cause a gain in weight.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "It is a polysaccharide / carbohydrate; digestion would release glucose / monosaccharides; glucose can be used in respiration / converted to glycogen or fat for storage",
+          "keywords": ["carbohydrate", "glucose", "respiration", "fat", "glycogen", "storage"]
+        },
+        {
+          "id": "5c_i",
+          "text": "A study compared weight loss in two groups of women. One group had a low-fat diet and the other had a very low-carbohydrate diet. The table shows the results. Many studies claim that a low-carbohydrate diet can result in two to three times as much weight loss as a low-fat diet. Determine the extent to which this study supports this claim.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q5c_weight_loss_table.png",
+          "answer": "Low-fat group lost 92.5 – 88.2 = 4.3 kg; Low-carb group lost 91.1 – 83.0 = 8.1 kg; Ratio = 8.1 / 4.3 ≈ 1.9; This is close to but slightly less than the claimed 2–3 times; supports claim to some extent",
+          "keywords": ["4.3", "8.1", "ratio", "1.9", "supports", "close to"]
+        },
+        {
+          "id": "5c_ii",
+          "text": "Very low-carbohydrate diets may increase cardiovascular risk factors. Give two factors, other than weight loss, that should have been monitored in this study.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Blood pressure / cholesterol levels / blood glucose / lipid profile / heart rate / BMI",
+          "keywords": ["blood pressure", "cholesterol", "glucose", "lipid", "BMI", "heart rate"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "A gene contains the genetic code for the sequence of amino acids in a polypeptide chain. The table shows the genetic codes found in DNA.",
+      "image": "/papers/wbi11-oct2020/q6_genetic_code_table.png",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Explain the nature of the genetic code. Use information in the table to support your answer.",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Triplet / three bases code for one amino acid; degenerate / more than one codon for most amino acids (e.g. 6 codons for Leucine); non-overlapping / each base is part of only one codon; universal / same code in all organisms; start codon (ATG = Methionine); stop codons (TAA, TAG, TGA) do not code for amino acids",
+          "keywords": ["triplet", "degenerate", "non-overlapping", "universal", "start", "stop", "codon"]
+        },
+        {
+          "id": "6b_i",
+          "text": "The diagram shows the sequence of nucleotide bases in part of a DNA template (antisense) strand. Give the sequence of amino acids that is coded for by these bases.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q6b_dna_template.png",
+          "answer": "Tyrosine-Arginine-Threonine-Glycine-Leucine-Glycine",
+          "keywords": ["tyrosine", "arginine", "threonine", "glycine", "leucine"]
+        },
+        {
+          "id": "6b_ii",
+          "text": "Explain the possible effects on a protein if there is a substitution mutation in the 9th base in this DNA strand. Use information in the table to support your answer.",
+          "marks": 5,
+          "type": "short_answer",
+          "answer": "The 9th base is in the third position of the ACG codon (Threonine); due to the degenerate nature of the code, a substitution may still code for Threonine (silent mutation); some substitutions could change the amino acid (missense mutation); could create a stop codon (nonsense mutation); may alter protein structure / function / folding",
+          "keywords": ["silent", "missense", "nonsense", "degenerate", "threonine", "protein structure", "stop codon"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "Warfarin is used in the treatment of cardiovascular disease. Warfarin inhibits the synthesis of prothrombin.",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Describe the role of prothrombin in the blood clotting process.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Prothrombin is converted to thrombin; thrombin catalyses the conversion of fibrinogen to fibrin; fibrin forms a mesh / network that traps blood cells / platelets to form a clot",
+          "keywords": ["thrombin", "fibrinogen", "fibrin", "mesh", "clot", "network"]
+        },
+        {
+          "id": "7b",
+          "text": "Which type of treatment is warfarin?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "anticoagulant" },
+            { "id": "B", "text": "antihypertensive" },
+            { "id": "C", "text": "platelet inhibitor" },
+            { "id": "D", "text": "statin" }
+          ],
+          "answer": "A",
+          "keywords": ["A", "anticoagulant"]
+        },
+        {
+          "id": "7c_i",
+          "text": "Reduced vitamin K is needed for the synthesis of prothrombin. An enzyme, vitamin K epoxide reductase (VKOR), converts vitamin K to reduced vitamin K. The diagrams show the structures of warfarin and vitamin K. Using the information in the diagrams, suggest why warfarin inhibits the synthesis of prothrombin.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q7c_structures.png",
+          "answer": "Warfarin has a similar structure to vitamin K / competitive inhibitor; warfarin binds to VKOR / competes with vitamin K for the active site; less reduced vitamin K is produced; less prothrombin can be synthesised",
+          "keywords": ["similar structure", "competitive", "VKOR", "active site", "reduced vitamin K"]
+        },
+        {
+          "id": "7c_ii",
+          "text": "Suggest why people taking warfarin have to avoid eating foods that contain a high concentration of vitamin K.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "High vitamin K would outcompete warfarin / reduce effectiveness of warfarin; more reduced vitamin K would be produced; more prothrombin would be synthesised; increased risk of blood clotting",
+          "keywords": ["outcompete", "effectiveness", "reduced vitamin K", "prothrombin", "blood clotting"]
+        },
+        {
+          "id": "7d",
+          "text": "Other drugs are available that work in a similar way to warfarin. The diagram shows one study to compare the effect of warfarin with drug X. Explain how this study should be designed so that the effectiveness of these two drugs can be compared.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q7d_study_design.png",
+          "answer": "Use large sample size / random allocation to groups; control variables such as age, gender, diet, dose; use placebo / blind trial to avoid bias; measure prothrombin levels over time / same duration; standardise vitamin K intake; repeat measurements",
+          "keywords": ["large sample", "random", "control", "placebo", "blind", "prothrombin", "standardise"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 15,
+      "question": "Low-density lipoproteins (LDLs) transport lipids around the body in the blood. Low-density lipoproteins can result in the development of atherosclerosis. They can be absorbed into the endothelial cells lining arteries and broken down by free radicals. The diagram shows a low-density lipoprotein containing cholesterol.",
+      "image": "/papers/wbi11-oct2020/q8_ldl_diagram.png",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Compare and contrast the structure of a triglyceride and a phospholipid.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Both contain glycerol and fatty acids / ester bonds; triglyceride has three fatty acids, phospholipid has two fatty acids and one phosphate group; triglyceride is non-polar / hydrophobic, phospholipid has polar / hydrophilic phosphate head and non-polar fatty acid tails",
+          "keywords": ["glycerol", "fatty acids", "three", "two", "phosphate", "hydrophobic", "hydrophilic"]
+        },
+        {
+          "id": "8b",
+          "text": "Explain why the properties of LDLs enable cholesterol to be transported in the blood.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "LDLs are soluble in water / blood; hydrophilic phospholipid heads and protein face outward; hydrophobic cholesterol and triglycerides are enclosed inside; proteins on surface allow recognition by target cells",
+          "keywords": ["soluble", "hydrophilic", "hydrophobic", "enclosed", "proteins", "recognition"]
+        },
+        {
+          "id": "8c_i",
+          "text": "The diameters of LDLs range from 19 nm to 24 nm. The table shows some information about LDLs. Complete the table by calculating the volume of LDL and the ratio of LDL volume to cholesterol volume. Use the formula v = 4/3 πr³.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q8c_table.png",
+          "answer": "For diameter 24 nm, radius = 12 nm; Volume = 4/3 × π × 12³ = 7238 nm³; Ratio = 7238 / 523 = 13.8 ≈ 14:1",
+          "keywords": ["7238", "14", "13.8", "radius", "12", "volume"]
+        },
+        {
+          "id": "8c_ii",
+          "text": "The graph shows the relationship between LDLs, high-density lipoproteins (HDLs) and the risk of CVD. Explain why measuring only the level of LDL in the blood is not a reliable predictor of CVD. Use the graph, all the information in this question and your own knowledge to support your answer.",
+          "marks": 6,
+          "type": "short_answer",
+          "image": "/papers/wbi11-oct2020/q8c_ii_graph.png",
+          "answer": "At same LDL level, risk varies depending on HDL level; high HDL reduces risk / protective effect; HDLs transport cholesterol to liver for excretion; other factors affect CVD risk (smoking, blood pressure, genetics, age, gender, exercise, diet); LDL size matters (small dense LDLs more atherogenic); oxidation of LDLs by free radicals; need to measure total cholesterol / HDL ratio / LDL:HDL ratio for better prediction",
+          "keywords": ["HDL", "protective", "liver", "excretion", "other factors", "ratio", "oxidation", "free radicals"]
+        }
+      ]
+    }
+  ]
+}

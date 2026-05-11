@@ -62,12 +62,46 @@
           "keywords": ["A"]
         },
         {
-          "id": "2c",
-          "text": "The table describes the atrioventricular (AV) valves and the semilunar (SL) valves during the cardiac cycle. Which description is true for each stage of the cardiac cycle?",
-          "marks": 3,
-          "type": "short_answer",
-          "answer": "Atrial systole: AV valves open and SL valves closed; Ventricular systole: AV valves closed and SL valves open; Diastole: AV valves open and SL valves closed",
-          "keywords": ["atrial systole", "AV open", "SL closed", "ventricular systole", "AV closed", "SL open", "diastole", "AV open", "SL closed"]
+          "id": "2c_i",
+          "text": "The table describes the atrioventricular (AV) valves and the semilunar (SL) valves during the cardiac cycle. Which description is true for atrial systole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "AV open", "SL closed"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "Which description is true for ventricular systole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "AV closed", "SL open"]
+        },
+        {
+          "id": "2c_iii",
+          "text": "Which description is true for diastole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "AV open", "SL closed"]
         },
         {
           "id": "2d",

@@ -163,6 +163,14 @@ export const A_LEVEL_PEARSON_SUBJECTS = [
         file: '2020-unit1-2020-01-WBI11-01-qp.pdf'
       },
       {
+        id: 'wbi11-oct-2020-unit1-qp',
+        title: 'Unit 1 Question Paper',
+        session: 'October 2020',
+        code: 'WBI11/01',
+        type: 'QP',
+        file: '2020-unit1-2020-10-WBI11-01-qp.pdf'
+      },
+      {
         id: 'wbi12-jun-2019-unit2-qp',
         title: 'Unit 2 Question Paper',
         session: 'June 2019',
@@ -177,6 +185,22 @@ export const A_LEVEL_PEARSON_SUBJECTS = [
         code: 'WBI12/01',
         type: 'QP',
         file: '2019-unit2-2019-10-WBI12-01-qp.pdf'
+      },
+      {
+        id: 'wbi12-jan-2020-unit2-qp',
+        title: 'Unit 2 Question Paper',
+        session: 'January 2020',
+        code: 'WBI12/01',
+        type: 'QP',
+        file: '2020-unit2-2020-01-WBI12-01-qp.pdf'
+      },
+      {
+        id: 'wbi12-may-2020-unit2-qp',
+        title: 'Unit 2 Question Paper',
+        session: 'May 2020',
+        code: 'WBI12/01',
+        type: 'QP',
+        file: '2020-unit2-2020-10-WBI12-01-qp.pdf'
       },
       {
         id: 'wbi13-jun-2019-unit3-qp',
