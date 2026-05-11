@@ -27,6 +27,12 @@ export function PdfLibrary() {
       .catch(() => setManifest({ OLEVEL: {}, ALEVEL: {} }));
   }, []);
 
+  const boardToFolder = {
+    'Cambridge_O-Level': 'O-Level',
+    'Cambridge_IGCSE': 'IGCSE',
+    'Edexcel_IAL': 'A-Level'
+  };
+
   const allItems = useMemo(() => {
     if (!manifest) return [];
     const items = [];
@@ -36,9 +42,10 @@ export function PdfLibrary() {
           files.forEach(file => {
             const isQP = /qp|question/i.test(file);
             const isMS = /ms|mark|answer/i.test(file);
+            const folderPath = boardToFolder[board] || board;
             const boardPath = board.replace(/&/g, '%26');
             const subjectPath = subject.replace(/&/g, '%26');
-            const baseUrl = `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}`;
+            const baseUrl = `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(folderPath)}/${encodeURIComponent(subjectPath)}`;
             // Extract base code to match QP with MS (e.g., "0400_s20" from "0400_s20_qp_02.pdf")
             const baseMatch = file.match(/^(\d+_[msw]\d{2})_/);
             items.push({
