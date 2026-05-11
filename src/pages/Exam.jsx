@@ -25,7 +25,7 @@ export function Exam() {
   const navigate = useNavigate();
   const { user } = useAuth();
   const { subject, mode } = location.state || {};
-  const { fetchQuestions } = useQuestions();
+  const { loading, error, fetchQuestions } = useQuestions();
   
   const [questions, setQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -106,13 +106,55 @@ export function Exam() {
   const progress = ((currentIndex + 1) / questions.length) * 100;
   const answeredCount = Object.keys(answers).length;
 
-  if (questions.length === 0) {
+  if (loading) {
     return (
       <div className="max-w-3xl mx-auto">
         <div className="card">
           <h1 className="text-xl font-bold text-gray-900">Loading exam...</h1>
           <p className="text-sm text-gray-600 mt-2">
             Please wait while we load your questions.
+          </p>
+          <div className="mt-4">
+            <button
+              onClick={() => navigate('/subjects')}
+              className="btn-secondary"
+            >
+              <ArrowLeft className="w-4 h-4 mr-1" />
+              Back to Subjects
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-3xl mx-auto">
+        <div className="card">
+          <h1 className="text-xl font-bold text-gray-900">Unable to load exam</h1>
+          <p className="text-sm text-gray-600 mt-2">{error}</p>
+          <div className="mt-4">
+            <button
+              onClick={() => navigate('/subjects')}
+              className="btn-secondary"
+            >
+              <ArrowLeft className="w-4 h-4 mr-1" />
+              Back to Subjects
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (questions.length === 0) {
+    return (
+      <div className="max-w-3xl mx-auto">
+        <div className="card">
+          <h1 className="text-xl font-bold text-gray-900">No questions found</h1>
+          <p className="text-sm text-gray-600 mt-2">
+            We couldn't find any questions for this exam.
           </p>
           <div className="mt-4">
             <button
