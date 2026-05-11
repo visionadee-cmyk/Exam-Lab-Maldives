@@ -39,6 +39,8 @@ export function PdfLibrary() {
             const boardPath = board.replace(/&/g, '%26');
             const subjectPath = subject.replace(/&/g, '%26');
             const baseUrl = `https://media.githubusercontent.com/media/visionadee-cmyk/Exam-Lab-Maldives/main/public/pdf-pastpaer-q%26a/${encodeURIComponent(boardPath)}/${encodeURIComponent(subjectPath)}`;
+            // Extract base code to match QP with MS (e.g., "0400_s20" from "0400_s20_qp_02.pdf")
+            const baseMatch = file.match(/^(\d+_[msw]\d{2})_/);
             items.push({
               level,
               board,
@@ -47,7 +49,7 @@ export function PdfLibrary() {
               isQP,
               isMS,
               url: `${baseUrl}/${encodeURIComponent(file)}`,
-              msFile: isQP ? file.replace(/-qp\./i, '-ms.').replace(/qp\.pdf/i, 'ms.pdf') : null
+              baseCode: baseMatch ? baseMatch[1] : null
             });
           });
         });
@@ -58,8 +60,8 @@ export function PdfLibrary() {
 
   // Find MS for a QP
   const findMS = (item) => {
-    if (!item.isQP || !item.msFile) return null;
-    const msItem = allItems.find(i => i.file === item.msFile && i.isMS);
+    if (!item.isQP || !item.baseCode) return null;
+    const msItem = allItems.find(i => i.isMS && i.baseCode === item.baseCode);
     return msItem;
   };
 
