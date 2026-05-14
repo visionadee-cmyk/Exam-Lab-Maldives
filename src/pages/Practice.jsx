@@ -12,18 +12,30 @@ import {
 } from 'lucide-react';
 import { cn } from '../utils/cn';
 import { LAST_PRACTICE_SUBJECT_KEY, defaultPracticeSubjectId } from '../lib/practicePrefs';
+import { getAllBiologyPracticeQuestions } from '../data/biologyPracticePool';
 
-// Import biology paper JSON files for local fallback
-import biology06102021Unit1June from '../data/papers/biology-0610-2021-unit1-june-ms.json';
-import biology06102021Unit1November from '../data/papers/biology-0610-2021-unit1-november-ms.json';
-import biology06102021Unit2June from '../data/papers/biology-0610-2021-unit2-june-ms.json';
-import biology06102021Unit2November from '../data/papers/biology-0610-2021-unit2-november-ms.json';
-import biology06102021Unit3June from '../data/papers/biology-0610-2021-unit3-june-ms.json';
-import biology06102021Unit3November from '../data/papers/biology-0610-2021-unit3-november-ms.json';
-import biology06102021Unit6June from '../data/papers/biology-0610-2021-unit6-june-ms.json';
-import biology06102021Unit6November from '../data/papers/biology-0610-2021-unit6-november-ms.json';
+// Questions: Firestore for most subjects; bundled JSON for biology IGCSE (reliable offline / empty DB).
 
-// Questions loaded from Firestore with local JSON fallback
+function shuffleCopy(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function pickBiologyPracticeQuestions(topic, count = 10) {
+  const all = getAllBiologyPracticeQuestions();
+  if (!all.length) return [];
+  let pool = all;
+  if (topic?.trim()) {
+    const t = topic.trim().toLowerCase();
+    const narrowed = all.filter((q) => (q.text || '').toLowerCase().includes(t));
+    if (narrowed.length) pool = narrowed;
+  }
+  return shuffleCopy(pool).slice(0, count);
+}
 
 export function Practice() {
   const location = useLocation();
@@ -62,50 +74,29 @@ export function Practice() {
   const { loading, fetchQuestions } = useQuestions();
 
   useEffect(() => {
-    // Load questions from Firestore with local JSON fallback
+    let cancelled = false;
+
     const loadQuestions = async () => {
+      // Biology IGCSE: always use bundled JSON (Firestore may be empty; avoids async race wiping questions).
+      if (subject === 'biology_igcse') {
+        const local = pickBiologyPracticeQuestions(topic, 10);
+        if (!cancelled) setQuestions(local);
+        return;
+      }
+
       const filters = {};
       if (subject) filters.subject = subject;
       if (topic) filters.topic = topic;
-      
+
       const data = await fetchQuestions(filters, 10);
-      
-      // If no questions from Firestore, try local JSON files
-      if (data.length === 0 && subject === 'biology_igcse') {
-        const localPapers = [
-          biology06102021Unit1June,
-          biology06102021Unit1November,
-          biology06102021Unit2June,
-          biology06102021Unit2November,
-          biology06102021Unit3June,
-          biology06102021Unit3November,
-          biology06102021Unit6June,
-          biology06102021Unit6November
-        ];
-        
-        // Flatten questions from all papers
-        const allQuestions = localPapers.flatMap(paper => {
-          if (!paper.questions) return [];
-          return paper.questions.map(q => ({
-            id: q.id,
-            text: q.question,
-            question: q.question,
-            type: q.type === 'multiple_choice' ? 'mcq' : 'structured',
-            marks: q.totalMarks || 1,
-            correctAnswer: q.answer || '',
-            options: q.options || [],
-            subjectId: paper.subjectId,
-            paperId: paper.paperId
-          }));
-        });
-        
-        setQuestions(allQuestions.slice(0, 10));
-      } else {
-        setQuestions(data);
-      }
+      if (cancelled) return;
+      setQuestions(data);
     };
-    
+
     loadQuestions();
+    return () => {
+      cancelled = true;
+    };
   }, [subject, topic, mode, fetchQuestions]);
 
   const handleAnswer = (answer) => {
@@ -141,7 +132,9 @@ export function Practice() {
         if (q.type === 'mcq') {
           isCorrect = answer === q.correctAnswer;
         } else {
-          isCorrect = answer.toLowerCase().trim() === q.correctAnswer.toLowerCase().trim();
+          const expected = String(q.correctAnswer ?? '').toLowerCase().trim();
+          const got = String(answer).toLowerCase().trim();
+          isCorrect = got === expected;
         }
         if (isCorrect) {
           correct++;
