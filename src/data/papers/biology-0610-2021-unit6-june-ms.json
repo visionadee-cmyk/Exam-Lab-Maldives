@@ -1,0 +1,198 @@
+{
+  "paperId": "biology-0610-2021-unit6-june-ms",
+  "subjectId": "biology_cambridge_igcse",
+  "code": "0610/61",
+  "session": "May/June 2021",
+  "title": "Biology Paper 6 Alternative to Practical - Mark Scheme",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 14,
+      "question": "A student investigated the response of some small animals called woodlice to various stimuli. A circular container with a lid called a 'choice chamber' was used. This had four distinct areas: dry and light, damp and light, dry and dark, and damp and dark.",
+      "parts": [
+        {
+          "id": "q1ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Count the numbers of woodlice in each area of choice chamber C and record them in the table.",
+          "answer": "2, 4, 2, 2",
+          "marks": 1
+        },
+        {
+          "id": "q1aii",
+          "number": "(a)(ii)",
+          "totalMarks": 2,
+          "question": "Calculate the mean number of woodlice in each of the four areas of the choice chamber to the nearest whole number. Record these results in the table.",
+          "answer": "dark: 2, 5; light: 1, 2 (including rounding)",
+          "marks": 2
+        },
+        {
+          "id": "q1b",
+          "number": "(b)",
+          "totalMarks": 4,
+          "question": "Construct a bar chart on the grid provided to show the mean number of woodlice (to the nearest whole number) found in each area of the choice chamber.",
+          "answer": "both axes fully labelled: mean number of woodlice / correct conditions with labels central to bars; linear scale + value at origin on mean number axis + at least half of each axis used in both directions; 4 plots correct; bars of equal width with ruled lines",
+          "marks": 4
+        },
+        {
+          "id": "q1ci",
+          "number": "(c)(i)",
+          "totalMarks": 1,
+          "question": "Using the data in the table and your bar chart, state which area of the choice chamber the woodlice preferred.",
+          "answer": "damp and dark",
+          "marks": 1
+        },
+        {
+          "id": "q1cii",
+          "number": "(c)(ii)",
+          "totalMarks": 2,
+          "question": "Suggest where the student should have placed the 10 woodlice when she first put them into the choice chamber. Explain your answer.",
+          "answer": "placed in the centre / random; to avoid bias",
+          "marks": 2
+        },
+        {
+          "id": "q1ciii",
+          "number": "(c)(iii)",
+          "totalMarks": 2,
+          "question": "Suggest two ways in which the results of this investigation could be made more reliable.",
+          "answer": "more repeats; leave longer than 20 minutes / give time to detect surroundings; more woodlice / only use each woodlouse once / use different woodlice; same type / species of woodlouse",
+          "marks": 2
+        },
+        {
+          "id": "q1civ",
+          "number": "(c)(iv)",
+          "totalMarks": 2,
+          "question": "Another student says that it would be a good idea to make some holes in the lid of the choice chamber. Suggest one advantage and one disadvantage of doing this.",
+          "answer": "advantage: provide air / oxygen / able to add more woodlice; disadvantage: affects moisture or humidity / dries out / woodlice can escape",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 15,
+      "question": "The photograph shows a mammalian organ.",
+      "parts": [
+        {
+          "id": "q2ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Identify the organ labelled D.",
+          "answer": "lung; Ig left or right",
+          "marks": 1
+        },
+        {
+          "id": "q2aii",
+          "number": "(a)(ii)",
+          "totalMarks": 1,
+          "question": "Identify the structure labelled E.",
+          "answer": "trachea",
+          "marks": 1
+        },
+        {
+          "id": "q2b",
+          "number": "(b)",
+          "totalMarks": 5,
+          "question": "In the space below, make a large drawing of structures D and E as they appear in the photograph. Do not include the surface detail of structure D in your drawing.",
+          "answer": "1 clear and clean outlines of lung drawn with a sharp pencil + no shading; 2 trachea present + joins lung about 1/3 from top + extends beyond top of lung; 3 detail on trachea + ridged sides; 4 minimum size; 5 height greater than width + shape detail",
+          "marks": 5
+        },
+        {
+          "id": "q2ci",
+          "number": "(c)(i)",
+          "totalMarks": 2,
+          "question": "On the photograph, draw a line between F and G. Measure and record this length.",
+          "answer": "line drawn; 39 ± 1",
+          "marks": 2
+        },
+        {
+          "id": "q2cii",
+          "number": "(c)(ii)",
+          "totalMarks": 2,
+          "question": "On your drawing, draw a line at the same location as the line F–G. Measure and record the length of this line.",
+          "answer": "line in matching place; correct measurement",
+          "marks": 2
+        },
+        {
+          "id": "q2ciii",
+          "number": "(c)(iii)",
+          "totalMarks": 2,
+          "question": "Use your measurements in (c)(i) and (c)(ii) to calculate the magnification of your drawing compared to the photograph. Give your answer to one decimal place.",
+          "answer": "measurement in (c)(ii) / measurement in (c)(i); correct answer rounded to 1dp",
+          "marks": 2
+        },
+        {
+          "id": "q2d",
+          "number": "(d)",
+          "totalMarks": 2,
+          "question": "The photomicrographs show the detail of the same organ from a smoker and a non-smoker. Both photomicrographs are to the same scale. Complete the table to identify two differences between the two photomicrographs.",
+          "answer": "smoker: large / many alveoli / few or no small blood vessels; non-smoker: small / few alveoli / more / larger blood vessels",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "A student investigated the effect of exercise on her pulse rate using the Step Test.",
+      "parts": [
+        {
+          "id": "q3ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Complete the table by calculating the total number of heart beats for the 3 minutes after the step exercise.",
+          "answer": "320",
+          "marks": 1
+        },
+        {
+          "id": "q3aii",
+          "number": "(a)(ii)",
+          "totalMarks": 1,
+          "question": "The resting pulse rate of the student before exercising was 16 heart beats in 15 seconds. Calculate the number of heart beats in a minute for this resting pulse rate.",
+          "answer": "64",
+          "marks": 1
+        },
+        {
+          "id": "q3aiii",
+          "number": "(a)(iii)",
+          "totalMarks": 1,
+          "question": "Use your answer to (a)(ii) and the data in the table to state the effect of exercise on the pulse rate of this student.",
+          "answer": "increases",
+          "marks": 1
+        },
+        {
+          "id": "q3aiv",
+          "number": "(a)(iv)",
+          "totalMarks": 3,
+          "question": "The fitness rating of an individual can be calculated using the formula shown. Use the information given above to calculate the student's fitness and to determine her fitness rating.",
+          "answer": "24 000 / 320; 75; fitness rating = very good",
+          "marks": 3
+        },
+        {
+          "id": "q3bi",
+          "number": "(b)(i)",
+          "totalMarks": 3,
+          "question": "Describe the differences in pulse rate between the unfit student and the fit student as shown in the graph.",
+          "answer": "for fit student: 1 lower pulse rate throughout / overall; 2 lower resting pulse rate / pulse rate at start or 0–2 minutes or 52 (fit) v 76 (unfit); 3 pulse rate increases more slowly during exercise; 4 at peak / at 6 minutes, pulse rate is lower or 104 (fit) v 140 (unfit); 5 pulse rate returns to (near) resting / stable more quickly; max 3 ORA throughout",
+          "marks": 3
+        },
+        {
+          "id": "q3bii",
+          "number": "(b)(ii)",
+          "totalMarks": 2,
+          "question": "Use the graph to calculate the difference in pulse rate between the unfit student and the fit student 6 minutes after starting to exercise.",
+          "answer": "two correct values for unfit (112 ± 1) and fit student (66 ± 1); correct calculation with units (beats per minute or bpm)",
+          "marks": 2
+        }
+      ]
+    }
+  ]
+}

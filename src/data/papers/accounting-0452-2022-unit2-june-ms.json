@@ -1,0 +1,191 @@
+{
+  "paperId": "accounting-0452-2022-unit2-june-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/21",
+  "session": "May/June 2022",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the purchases journal for Nakul for January 2022.",
+      "answer": "Purchases journal: Jan 12 Nadia (350 - 70) $280, Jan 18 Nadia (400 - 80) $320, Jan 31 Sophie $60, Transfer to purchases account $660.",
+      "marks": 4
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the purchases returns journal for Nakul for January 2022.",
+      "answer": "Purchases returns journal: Jan 14 Nadia (80 - 16) $64, Jan 31 Sophie $9, Transfer to purchases returns account $73.",
+      "marks": 3
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the Nadia account for Nakul for January 2022.",
+      "answer": "Nadia account: Debit side - Jan 2 Bank $441, Jan 14 Discount $9, Jan 14 Purchases returns $64, Jan 31 Balance c/d $536 = $1050. Credit side - Jan 1 Balance b/d $450, Jan 12 Purchases $280, Jan 18 Purchases $320 = $1050. Feb 1 Balance b/d $536.",
+      "marks": 6
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Classify the following items as current liabilities or non-current liabilities: Trade payables, Bank overdraft.",
+      "answer": "Trade payables - Current liabilities, Bank overdraft - Current liabilities.",
+      "marks": 2
+    },
+    {
+      "id": "q1e",
+      "number": "1(e)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of delaying payment to Nadia and make a recommendation.",
+      "answer": "Advantages: Would delay outflow of cash/will reduce bank overdraft, May reduce bank overdraft charges/interest, Overdraft charges may be higher than cash discount offered by suppliers, May currently be paying Nadia/suppliers quicker than is necessary. Disadvantages: May lose cash discount allowed by Nadia/suppliers, Nadia/suppliers may charge interest on late payment, Nadia/suppliers may stop supplying or reduce amount they supply/may damage relationship with suppliers, There may be better methods of improving cash flow. Recommendation: Should delay payment to Nadia.",
+      "marks": 5
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Prepare the income statement for Fatima for the year ended 31 March 2022.",
+      "answer": "Revenue $79400, Less Returns $3970 = $75430. Cost of sales: Opening inventory $3000, Purchases $36500, Less goods for own use $1300 = $35200, Less Closing inventory $3120 = $32080. Gross profit $43350, Add Discount received $1095 = $44445. Less Expenses: Rent and rates (9000 - [2/3 x 1500]) $8000, Wages (10100 + 800) $10900, General expenses $1287, Insurance $1800, Irrecoverable debts $200, Provision for doubtful debts ([6400 - 200] x 3% = 186 - 156) $30, Depreciation of fixtures and equipment ([80000 - 39040] x 20%) $8192 = $30409. Profit for the year $11036.",
+      "marks": 11
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the capital account for Fatima for the year ended 31 March 2022.",
+      "answer": "Capital account: Debit side - March 31 Drawings (8580 + 1300) $9880, Balance c/d $60156 = $70036. Credit side - April 1 Balance b/d $59000, March 31 Profit for the year $11036 = $70036. April 1 Balance b/d $60156.",
+      "marks": 4
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of accepting a bank loan and make a recommendation.",
+      "answer": "Advantages: Liability to bank ends after 4 years/do not have to repay until 4 years' time, Interest would only need to be paid for four years, Repayment of interest and loan when due improves relationship with bank, Other ways of raising finance may require commitment for longer period, May be best way for sole trader with limited access to funds. Disadvantages: Bank loan has to be repaid by set date in future, Bank may require security/personal assets may be at risk, May find it difficult to repay loan in 4 years' time, Loan interest must be paid even if short of liquid funds, There may be more appropriate ways of raising finance. Recommendation: Should accept bank loan.",
+      "marks": 5
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the journal entry for Jules to record the purchase of hairdressing equipment on credit from YZH Limited.",
+      "answer": "Journal: April 30 2022 - Debit Equipment $1900, Credit YZH Limited $1900.",
+      "marks": 3
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Indicate the effect on profit for the year of each item: Heat and light, Depreciation, Insurance.",
+      "answer": "Heat and light - Increase in profit, Depreciation - Decrease in profit, Insurance - Decrease in profit.",
+      "marks": 3
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Prepare journal entries to correct the errors in Jules' books.",
+      "answer": "Error 1: Debit General expenses $28, Credit Suspense $28. Error 2: Debit Isaac $36, Credit Suspense $36. Error 3: Debit Wages $144, Credit Bank $144. Error 4: Debit Suspense $76, Credit Discount received $76. Error 5: Debit Commission receivable $200, Credit Rent $200.",
+      "marks": 10
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the suspense account for Jules.",
+      "answer": "Suspense account: Debit side - Discount received $76, Difference on trial balance $76 = $76. Credit side - General expenses $28, Isaac $36 = $76.",
+      "marks": 4
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Calculate the gross margin, profit margin, rate of inventory turnover, current ratio and liquid ratio.",
+      "answer": "Gross margin = (41900 / 112300) x 100 = 37.31%. Profit margin = (22080 / 112300) x 100 = 19.66%. Rate of inventory turnover = 70400 / ((12800 + 14650) / 2) = 5.13 times. Current ratio = (14650 + 12700) : (7125 + 5375) = 27350 : 12500 = 2.19 : 1. Liquid ratio = 12700 : (7125 + 5375) = 12700 : 12500 = 1.02 : 1.",
+      "marks": 11
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of reducing selling price or increasing advertising to clear excess inventory and make a recommendation.",
+      "answer": "Advantages: May be able to increase sales/gain more customers by reducing selling price, May be able to increase sales/gain more customers by extra advertising, Profit may increase if sales increase, Gross margin may improve, Can respond to increase in demand, Inventory should not lose value. Disadvantages: Expenses increase/profit decreases due to increased advertising costs, Demand for that particular type of inventory may decrease, Inventory may deteriorate over time, Goods may be of inferior quality, Already has large amount of inventory, May increase storage costs, May require increased bank overdraft/reduce liquidity/decrease liquid ratio, Advertising does not guarantee increase in sales. Recommendation: Should reduce selling price.",
+      "marks": 5
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain the consistency principle.",
+      "answer": "Accounting methods must be used consistently from one accounting period to the next. This means that accurate comparisons can be made from year to year.",
+      "marks": 2
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two intangible assets that may appear in a statement of financial position.",
+      "answer": "Business reputation/goodwill, Reliability of workforce/skills of workforce/staff morale/working conditions, Actions of competitors, Government decisions, Location of business.",
+      "marks": 2
+    },
+    {
+      "id": "q5ai",
+      "number": "5(a)(i)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the subscriptions account for Sew and Soup Club for the year ended 31 December 2021.",
+      "answer": "Subscriptions account: Debit side - Jan 1 2021 Balance b/d $1820, Dec 31 2021 Income and expenditure account $14710, Balance c/d $115 = $16645. Credit side - Jan 1 2021 Balance b/d $2260, Bank $13900, Balance c/d $485 = $16645. Jan 1 2022 Balance b/d $115, Jan 1 2022 Balance b/d $485.",
+      "marks": 6
+    },
+    {
+      "id": "q5aii",
+      "number": "5(a)(ii)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Explain whether the treasurer should be pleased with the subscriptions situation.",
+      "answer": "The amount received was less than the subscriptions due for the year, Subscriptions in advance have decreased, Subscriptions in arrears have increased. The treasurer should not be pleased with this situation.",
+      "marks": 3
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Calculate the profit on refreshments for Sew and Soup Club for the year ended 31 December 2021.",
+      "answer": "Revenue $17650, Cost of sales: Opening inventory $1070, Purchases (1580 + 10435 - 1940) $10075 = $11145, Less Closing inventory $1130 = $10015. Profit on refreshments $7635.",
+      "marks": 7
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the statement of financial position extract for Sew and Soup Club at 31 December 2021 showing current assets.",
+      "answer": "Current assets: Inventory $1130, Other receivables (500 + 2115) $2615, Bank $7743 = $11488.",
+      "marks": 4
+    }
+  ]
+}

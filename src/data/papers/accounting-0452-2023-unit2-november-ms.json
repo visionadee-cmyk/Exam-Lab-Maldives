@@ -1,0 +1,191 @@
+{
+  "paperId": "accounting-0452-2023-unit2-november-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/22",
+  "session": "October/November 2023",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the sales journal for Seok for August 2023.",
+      "answer": "Sales journal: Aug 3 Naomi (410 - 41) $369, Aug 5 Bwana $89, Aug 19 Bwana $180, Aug 22 Naomi (230 - 23) $207, Aug 31 Transfer to sales account $845.",
+      "marks": 4
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the sales returns journal for Seok for August 2023.",
+      "answer": "Sales returns journal: Aug 10 Naomi (20 - 2) $18, Aug 27 Bwana $19, Aug 31 Transfer to sales returns account $37.",
+      "marks": 3
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the Naomi account for Seok for August 2023.",
+      "answer": "Naomi account: Debit side - Aug 1 Balance b/d $450, Aug 3 Sales $369, Aug 22 Sales $207 = $1026. Credit side - Aug 10 Sales returns $18, Aug 11 Bank $423, Aug 31 Discount allowed $27, Aug 31 Balance c/d $558 = $1026. Sept 1 Balance b/d $558.",
+      "marks": 6
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Prepare the sales ledger control account for Seok for August 2023.",
+      "answer": "Sales ledger control account: Debit side - Aug 1 Balance b/d $991, Aug 31 Sales $845 = $1836. Credit side - Aug 31 Sales returns $37, Aug 31 Bank (423 + 400) $823, Aug 31 Discount allowed $27, Aug 31 Irrecoverable debts $155, Aug 31 Balance c/d $794 = $1836. Sept 1 Balance b/d $794.",
+      "marks": 7
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Prepare the manufacturing account for Sara for the year ended 30 September 2023.",
+      "answer": "Cost of material consumed: Opening inventory of raw material $4875, Purchases of raw material $56400 = $61275, Less Closing inventory of raw material $5110 = $56165. Direct wages $43300, Prime cost $99465. Factory overheads: Wages of factory supervisor $25000, Rates and insurance ((29600 - 6000) / 2) $11800, General factory expenses (9650 + 335) $9985, Depreciation of factory machinery ((80000 - 35000) x 25%) $11250 = $58035. Add opening work-in-progress $8125 = $165625, Less closing work-in-progress $7365 = Cost of production $158260.",
+      "marks": 11
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the statement of financial position (current assets section) for Sara at 30 September 2023.",
+      "answer": "Current Assets: Inventory - Raw materials $5110, Work-in-progress $7365, Finished goods $13725 = $26200. Trade receivables $27000, Other receivables $6000, Cash at bank $1050 = $60250.",
+      "marks": 3
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State the accounting principle that states only items that can be measured in monetary terms should be included in the financial statements.",
+      "answer": "Money measurement.",
+      "marks": 1
+    },
+    {
+      "id": "q2d",
+      "number": "2(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of supplying a drama school and make a recommendation.",
+      "answer": "Advantages: Will increase sales / revenue, May increase profit, The extra work will provide security/continuity of workload, If successful, potential to supply other schools, theatre groups, etc. Disadvantages: There would be extra administration or may incur additional costs / wages / costs of production, More manufacturing and/or storage capacity may be required, May not have capacity to supply both existing customers and drama group, Allowing 60 days credit will adversely affect liquidity. Recommendation: Should supply the drama school.",
+      "marks": 5
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Prepare the income statement for Lionel for the year ended 30 June 2023.",
+      "answer": "Revenue $90000, Cost of sales: Purchases $67175, Less Purchases returns $3000 = $64175, Less Closing inventory $4175 = $60000, Gross profit $30000. Less Expenses: Wages (8060 + 2600) $10660, Motor expenses (4992 x 2/3) $3328, General expenses $1140, Rent and insurance $5585, Depreciation of motor vehicles/van (25% x 8000) $2000 = $22713. Profit for the year $7287.",
+      "marks": 9
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare the capital account for Lionel for the year ended 30 June 2023.",
+      "answer": "Capital account: Debit side - June 30 2023 Drawings (12000 + 1664) $13664, June 30 2023 Balance c/d $8623 = $22287. Credit side - July 1 2022 Bank $15000, June 30 2023 Profit for the year $7287 = $22287. July 1 2023 Balance b/d $8623.",
+      "marks": 5
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State one advantage of maintaining full accounting records.",
+      "answer": "Full details are available about the assets, liabilities, revenues and expenses of the business, The preparation of financial statements is relatively straightforward, The profit or loss for the year is more likely to be reliable and accurate / the financial statements are more likely to be reliable and accurate, More informed decision-making is possible, A greater degree of control over business activities can be exercised, The possibility of fraud is reduced, Comparisons with the results of previous years and with other businesses are possible, Detailed records are available for reference purposes, Information required by a bank or other lender is readily available.",
+      "marks": 1
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of allowing trade discount and cash discount and make a recommendation.",
+      "answer": "Allowing Trade discount: May encourage customers to purchase regularly / place repeat orders, If successful may increase revenue and gross profit OR If unsuccessful may decrease revenue and gross profit, Need to record which customers qualify for discount / record discount on invoices, One-off customers may feel they are being overcharged. Allowing Cash discount: Some credit customers will pay more quickly or encourage prompt payment, Less money will be received, Will reduce profit / net profit for the year, 3% may not be enough to encourage early payment, May reduce risk of irrecoverable debts. Recommendation: Should allow cash discount.",
+      "marks": 5
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Prepare journal entries to correct the errors in Rachel's books.",
+      "answer": "Error 1: Debit Rent payable $350, Credit Wages $350. Error 2: Debit Suspense $90, Credit Sales $90. Error 3: Debit Purchases returns $110, Credit Sales returns $110. Error 4: Debit Suspense $63, Credit Office expenses $63. Error 5: Debit Cole $29, Credit Motor expenses $29.",
+      "marks": 9
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare the suspense account for Rachel.",
+      "answer": "Suspense account: Debit side - Sept 30 2023 Difference on trial balance $247, Sept 30 2023 Office expenses $63 = $310. Credit side - Sept 30 2023 Sales $90, Sept 30 2023 Purchases returns $110, Sept 30 2023 Sales returns $110 = $310.",
+      "marks": 5
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Calculate the corrected profit for Rachel for the year ended 30 September 2023.",
+      "answer": "Draft profit $18243, Add: Office expenses $63, Motor expenses $29 = $92, Adjusted profit $18335, Less: Sales $90, Purchases returns $110, Sales returns $110 = $310, Corrected profit $18025.",
+      "marks": 5
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Explain the materiality concept.",
+      "answer": "Financial statements can still be reliable if errors are present provided those errors are not material or significant.",
+      "marks": 1
+    },
+    {
+      "id": "q5a",
+      "number": "5(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Calculate the gross margin, profit margin, return on capital employed, rate of inventory turnover, and liquid ratio.",
+      "answer": "Gross margin = ((98420 - 78130) / 98420) x 100 = 20.71%. Profit margin = (9055 / 98420) x 100 = 9.20%. Return on capital employed = (9055 / 125000) x 100 = 7.24%. Rate of inventory turnover = 6175 / ((6265 + 78130) / 2) = 12.55 times. Liquid ratio = 992 / 4880 = 0.20:1.",
+      "marks": 11
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Discuss whether the advertising campaign will be successful.",
+      "answer": "The gross profit margin will be lower than her competitor's, Reduction in gross profit margin may result in a lower gross profit OR increase in sales my result in a higher gross profit, The profit for the year or profit margin will reduce because of the increase in (advertising) expenses OR the profit for the year may increase because of the increase in gross profit / increase in sales from extra advertising, Selling her inventory faster does not mean her sales will be more than her competitor, Needs to sell more inventory to significantly increase profit.",
+      "marks": 3
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of obtaining a bank loan and make a recommendation.",
+      "answer": "For obtaining a bank loan: If business expands profit may increase, Once the loan is paid off, there will be no further liability to the bank, 5 years before loan is due allows time for repayment. Against obtaining a bank loan: Interest will have to be paid on the loan, Loan interest will reduce profit for the year, The bank may require security, Assets may be at risk if unable to repay loan, The loan will have to be repaid, Bank may not be prepared to offer a loan. Recommendation: Should obtain the bank loan.",
+      "marks": 5
+    },
+    {
+      "id": "q5d",
+      "number": "5(d)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State one factor a business should consider before obtaining a bank loan.",
+      "answer": "Assess whether loan can be repaid, Assess whether loan interest can be paid, Assess security available for the loan.",
+      "marks": 1
+    }
+  ]
+}

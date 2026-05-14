@@ -1,0 +1,216 @@
+{
+  "paperId": "accounting-7707-2021-unit2-november-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/22",
+  "session": "October/November 2021",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ayesha - Control accounts",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the sales ledger control account and purchases ledger control account for the month ended 31 August 2021.",
+          "marks": 14,
+          "type": "structured",
+          "answer": "Sales ledger control account: Aug 1: Balance b/d $9,800, Balance b/d $420. Aug 31: Sales $88,850, Bank $82,100, Interest $90, Discount allowed $900, Balance c/d $350, Irrecoverable debts $300, Sales returns $2,400, Contra $2,920, Balance c/d $10,050. Total $99,090. Sep 1: Balance b/d $10,050, Balance b/d $350. Purchases ledger control account: Aug 31: Bank $50,600, Discount received $600, Contra $2,920, Balance c/d $8,980. Aug 1: Balance b/d $7,700, Aug 31: Purchases $55,400. Total $63,100. Sep 1: Balance b/d $8,980.",
+          "keywords": ["sales ledger control account", "purchases ledger control account", "balance"]
+        },
+        {
+          "id": "1b",
+          "text": "Complete the table to show the book of prime entry for each item.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Returns: Sales returns journal. Discount allowed: Cash book. Interest charged to customer on overdue account: General journal/Journal. Contra entry: General journal/Journal.",
+          "keywords": ["book of prime entry", "journal"]
+        },
+        {
+          "id": "1c",
+          "text": "State two reasons why a credit balance may appear in the purchases ledger.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Overpayment by credit customer, Credit customer returned goods after settling the account, Credit customer paid for goods in advance, Payment by credit customer before cash discount was deducted.",
+          "keywords": ["credit balance", "purchases ledger"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ratios and business advice",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the trading account for the year ended 30 June 2021.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Revenue $160,000. Cost of sales: Opening inventory $11,000 + Purchases $109,000 = $120,000 - Closing inventory $8,000 = $112,000. Gross profit $48,000. Operating expenses $35,200. Profit for the year $12,800.",
+          "keywords": ["trading account", "gross profit"]
+        },
+        {
+          "id": "2b_i",
+          "text": "Calculate the gross margin for the year ended 30 June 2021.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Gross margin = (48,000 / 160,000) × 100 = 30%.",
+          "keywords": ["gross margin"]
+        },
+        {
+          "id": "2b_ii",
+          "text": "Suggest two ways to improve the gross margin.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Increase selling price/reduce trade discount to customers, Obtain cheaper supplies/obtain higher trade discount from suppliers, Purchase lower quality goods, Change proportion of different types of goods sold/sell more goods with higher profit margin.",
+          "keywords": ["gross margin", "improve"]
+        },
+        {
+          "id": "2c",
+          "text": "Calculate the trade receivables turnover for the year ended 30 June 2021.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Trade receivables turnover = (22,600 / 160,000) × 365 = 52 days.",
+          "keywords": ["trade receivables turnover"]
+        },
+        {
+          "id": "2d",
+          "text": "Advise whether to offer credit terms to customers.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Sales may increase, May attract more customers, Profit may increase, May improve relationship with customers. Disadvantages: Delays the receipt of money, Additional working capital may be required, May be an increase in irrecoverable debts, May be an increase in administration costs. Recommendation required.",
+          "keywords": ["credit terms", "advantages", "disadvantages"]
+        },
+        {
+          "id": "2e",
+          "text": "Calculate the trade payables turnover for the year ended 30 June 2021.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Trade payables turnover = (11,600 / 109,000) × 365 = 39 days.",
+          "keywords": ["trade payables turnover"]
+        },
+        {
+          "id": "2f",
+          "text": "Advise whether to purchase additional inventory from the supplier.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Reduction in cost of sales, If goods can be sold the gross profit will increase, May reduce selling price to increase sales revenue, Could increase range of products to sell. Disadvantages: Increase in quantity/value of inventory, Increased cost of storage, Additional working capital may be required, Increase in amount payable to suppliers each month. Recommendation required.",
+          "keywords": ["inventory", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "KA Limited - Manufacturing accounts",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the manufacturing account for the year ended 31 July 2021.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Cost of material consumed: Opening inventory raw material $5,820 + Purchases raw material $34,200 + Carriage inwards $410 = $40,430 - Closing inventory raw material $6,030 = $34,400. Direct wages $67,200. Prime cost $101,600. Factory overheads: Indirect factory wages $24,000, Factory general overheads (16,400 + 230) $16,630, Rates (5300 - 500) × 75% $3,600, Depreciation of factory machinery (36,000 × 20%) $7,200 = $51,430. Add opening work in progress $1,750 = $153,030. Less closing work in progress $2,780. Cost of production $152,000.",
+          "keywords": ["manufacturing account", "cost of production"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the income statement (Trading section) for the year ended 31 July 2021.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Revenue $223,000. Cost of sales: Opening inventory finished goods $12,360 + Cost of production $152,000 + Purchases of finished goods $3,900 + Carriage inwards $80 = $168,340 - Closing inventory finished goods $10,340 = $158,000. Gross profit $65,000.",
+          "keywords": ["income statement", "gross profit"]
+        },
+        {
+          "id": "3c",
+          "text": "Prepare the journal entry to write off the irrecoverable debt.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Dr Irrecoverable debts $350, Cr DH Limited $350.",
+          "keywords": ["journal", "irrecoverable debts"]
+        },
+        {
+          "id": "3d_i",
+          "text": "Define the term 'irrecoverable debts'.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "The amount of sales for which the business is unlikely to be paid is regarded as an expense of the year in which those sales are made.",
+          "keywords": ["irrecoverable debts"]
+        },
+        {
+          "id": "3d_ii",
+          "text": "Explain the purpose of a provision for doubtful debts.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "The profit for the year is not overstated and the amount of trade receivables is shown at a realistic level in the statement of financial position.",
+          "keywords": ["provision for doubtful debts"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Nikita - Error correction",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare journal entries to correct errors 1-4.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Error 1: Dr Suspense $2,000, Cr Insurance $2,000. Error 2: Dr Suspense $1,000, Cr Discount received $500, Cr Discount allowed $500. Error 3: Dr Kajal $400, Cr Suspense $400. Error 4: Dr Aisha $700, Cr Anisah $700.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare the suspense account.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Insurance $2,000, Difference on trial balance $2,600, Discount received $500, Discounts allowed $500, Kajal $400. Total $3,000.",
+          "keywords": ["suspense account", "balance"]
+        },
+        {
+          "id": "4c",
+          "text": "Prepare the statement of corrected profit for the year ended 30 June 2021.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Profit for the year before corrections $28,000. Error 1: Increase profit $2,000. Error 2: Decrease profit $1,000. Error 3: No effect. Error 4: No effect. Corrected profit for the year $31,000.",
+          "keywords": ["corrected profit", "errors"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Simon - Depreciation",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Prepare the delivery vehicles account, provision for depreciation of delivery vehicles account, and delivery vehicles disposal account for the three years ended 31 December 2020.",
+          "marks": 15,
+          "type": "structured",
+          "answer": "Delivery vehicles account: Jan 1 2019 Balance b/d $55,000. Mar 31 2020 Disposal $25,000. Dec 31 2020 Balance c/d $30,000. Total $55,000. Jan 1 2021 Balance b/d $30,000. Provision for depreciation of delivery vehicles account: Dec 31 2019 Balance c/d $22,000, Jan 1 2019 Balance b/d $11,000, Dec 31 2019 Income statement $6,000, Dec 31 2020 Income statement $5,000, Jan 1 2020 Balance b/d $22,000, Mar 31 2020 Disposal $11,250, Dec 31 2020 Balance c/d $18,000. Total $29,250. Jan 1 2021 Balance b/d $18,000. Delivery vehicles disposal account: Mar 31 2020 Delivery vehicles $25,000, Mar 31 2020 Provision for depreciation $11,250, Mar 31 2020 Bank $10,350, Dec 31 2020 Income statement $3,400. Total $25,000.",
+          "keywords": ["delivery vehicles", "depreciation", "disposal"]
+        },
+        {
+          "id": "5b",
+          "text": "Advise Simon whether to use the reducing balance method or the straight line method.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Reducing balance: Has to be recalculated each year, Suitable when lose more value in early years, Shows a more realistic book value, Matches cost more closely with revenue, Unable to compare with previous accounts. Straight line: Easier to calculate/only one calculation needed, Suitable when lose equal value each year, Suitable when annual usage is the same, Should not change method without good reason/apply consistency. Recommendation required.",
+          "keywords": ["depreciation", "reducing balance", "straight line"]
+        }
+      ]
+    }
+  ]
+}

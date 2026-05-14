@@ -1,0 +1,326 @@
+{
+  "paperId": "accounting-0452-2024-unit1-june-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/11",
+  "session": "May/June 2024",
+  "title": "Accounting Paper 1 - Mark Scheme",
+  "totalMarks": 35,
+  "timeMinutes": 75,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which task is performed by a book-keeper? A analysing accounting ratios, B interpreting the income statement, C posting entries from the journals to the ledgers, D preparing a statement of financial position",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which statement is correct? A Accounting involves measuring profits and losses, B Accounting is the recording of financial transactions, C Book-keeping involves communicating financial data, D Book-keeping requires the use of ratio analysis",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "In which book of prime entry does a trader record cash discount received? A cash book, B general journal, C purchases journal, D sales journal",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "The analysis columns of a petty cash book show the following totals: postage $20, stationery $31. How should these totals be posted to the ledger? A credit bank account with $51, B credit postage account with $20 and stationery account with $31, C debit cash account with $51, D debit postage account with $20 and stationery account with $31",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which business documents are not entered in the books of prime entry? 1 credit note, 2 debit note, 3 invoice, 4 statement of account. A 1 and 3, B 1 only, C 2, 3 and 4, D 2 and 4 only",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A trader has the following ledger account: heat and light account. What does the balance on 1 January, year 2 represent? A heat and light outstanding, B heat and light refunded, C overpayment of heat and light, D prepayment of heat and light",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which statement about a trial balance is correct? A It is a list of the ledger balances on a particular date, B It is part of the double entry system of book-keeping, C It is proof that all items have been posted to the correct accounts, D It is proof that all transactions have been entered in the books of account",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Trevor prepared his financial statements for the year ended 31 December 2020. He then discovered that he had omitted to record a cash payment, $240, for insurance for the 12 months ending 30 November 2021. What was the effect of this error on his statement of financial position? A capital $220 overstated, other receivables $20 understated, cash $240 overstated, B capital $20 overstated, other receivables $220 understated, cash $240 overstated, C capital $220 understated, other receivables $20 overstated, cash $240 understated, D capital $20 understated, other receivables $220 overstated, cash $240 understated",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A payment of $68 for insurance has been entered in the insurance account as $86. Which double entry will correct this? A debit suspense $18, credit insurance $18, B debit suspense $36, credit insurance $36, C debit insurance $18, credit suspense $18, D debit insurance $36, credit suspense $36",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A business has received a bank statement. The bank statement shows the following entries: 1 a cheque issued to a credit supplier, 2 a cheque received from a credit customer, 3 a monthly rent payment made by standing order, 4 charges made by the bank. Which items appear in the debit column of the bank statement? A 1, 3 and 4, B 1 and 3 only, C 1 only, D 2",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "On 31 May the bank statement of a business showed a positive bank balance of $1790. Comparing the bank statement with the cash book the following items were discovered: The bank had charged $35 in error, Unpresented cheques totalled $550, Uncredited deposits totalled $250. What was the cash book balance? A $1455, B $1490, C $1525, D $2125",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "What would not be included in a sales ledger control account? A cash sales recorded in the cash book, B cheques received from credit customers recorded in the cash book, C goods sold on credit recorded in the sales journal, D irrecoverable debts written off recorded in the journal",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Nadia provided the following information for the month of July: 1 July sales ledger control account balance debit $1750, credit $215. For the month of July: total of sales journal $5500, total of sales returns journal $360, cheques received from credit customers $4840, irrecoverable debt written off $280, interest charged on credit account $5. There was no credit balance on the account on 1 August. What was the debit balance brought down on the sales ledger control account on 1 August? A $1550, B $1560, C $1980, D $1990",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Samir runs a car hire business. He received cash payments for car hire. He also received the proceeds from the sale of an old vehicle. Which type of receipts were they? A car hire capital, proceeds from sale of an old vehicle capital, B car hire revenue, proceeds from sale of an old vehicle capital, C car hire capital, proceeds from sale of an old vehicle revenue, D car hire revenue, proceeds from sale of an old vehicle revenue",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "The following ledger account appeared in the books of a trader: Rent receivable account. Which entry was made in the income statement for the year ended 31 December 2020 for rent receivable? A $3400 credit, B $3400 debit, C $3800 credit, D $3800 debit",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Mandeep depreciates his motor vehicles at the rate of 20% using the straight-line method. A full year's depreciation is provided in the year of purchase. Mandeep bought a motor vehicle on 1 January 2017 for $20000. On 1 June 2020 he bought a second motor vehicle for $10000. What was the depreciation charge on motor vehicles for the year ended 31 December 2020? A $2000, B $4000, C $5000, D $6000",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Why does a trader maintain a provision for doubtful debts? 1 to ensure amounts owing to the business for which payment is unlikely to be received are regarded as an expense, 2 to ensure the trade receivables of the business are not overstated, by providing for debts which are unlikely to be paid, 3 to identify credit customers who are not able to settle their accounts by the end of the financial year, 4 to provide for the amounts from credit customers which are unpaid at the end of the financial year. A 1 and 2, B 1, 3 and 4, C 2 and 3 only, D 2, 3 and 4",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Why is inventory valued at the lower of cost and net realisable value? A to avoid overstating current assets and sales, B to avoid overstating profit and current assets, C to avoid understating current assets and sales, D to avoid understating profit and current assets",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "At the end of the financial year Cindy valued her inventory at cost. This valuation incorrectly included damaged goods costing $300. Cindy estimated these goods could be sold for $100. What is the effect of correcting the inventory valuation? A current assets decreases by $200, profit for the year decreases by $200, gross profit decreases by $200, B current assets decreases by $300, profit for the year decreases by $300, gross profit decreases by $300, C current assets increases by $100, profit for the year increases by $100, gross profit increases by $100, D current assets increases by $200, profit for the year increases by $200, gross profit increases by $200",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which business is not a service business? A accountant's practice, B computer repair shop, C flower shop, D hairdressing salon",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A trader was preparing her statement of financial position at 30 June 2021. She had four bank loans: 1 $5000 repayable 1 December 2021, 2 $10000 repayable 1 December 2022, 3 $8000 repayable 1 September 2023, 4 $6000 repayable 1 December 2025. What was the total amount of loans that should be recorded as non-current liabilities at 30 June 2021? A $14000, B $15000, C $23000, D $24000",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "What is shown in a partnership appropriation account? A the capital contributed by each partner, B the distribution of profit/loss among the partners, C the partners' current account balances, D the interest on a partner's loan account",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Rajid and Sunil formed a partnership on 1 January 2019 but did not prepare a partnership agreement. They provided the following information: Rajid capital introduced 1 January 2019 $40000, drawings during the year ended 31 December 2019 $5000, share of work 50%. Sunil capital introduced 1 January 2019 $20000, drawings during the year ended 31 December 2019 $3500, share of work 50%. They decided to draw up a partnership agreement for future years. Which item would be most beneficial to Rajid in 2020? A interest on capital, B interest on drawings, C limit on annual drawings, D partnership salaries",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A company supplied the following information: issued and paid up share capital $300000, general reserve $45000, long-term bank loan $80000, retained earnings $35000, 6% debentures $25000. What is the total equity? A $335000, B $345000, C $380000, D $413000",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which apply to both debentures and preference shares? A included in capital employed, fixed rate of return, no voting rights, B included in capital employed, fixed rate of return, voting rights, C capital employed, fixed rate of return, voting rights, D capital employed, fixed rate of return, voting rights",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "The AB Sports Club runs a café for the use of members. The treasurer prepared draft financial statements which showed a deficit of $700 and an accumulated fund of $4600. He then discovered that the closing inventory of the café had been overvalued by $50. How much were the deficit and the accumulated fund after the inventory valuation had been corrected? A deficit $650, accumulated fund $4550, B deficit $650, accumulated fund $4650, C deficit $750, accumulated fund $4550, D deficit $750, accumulated fund $4650",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "Which accounting statement prepared by the treasurer of a sports club provides a summary of all the monies received and paid out during the financial year? A bank reconciliation statement, B income and expenditure account, C receipts and payments account, D statement of financial position",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "At the end of the financial year, a manufacturing business owed rent on its factory. The business adjusted its financial statements to account for this. What effects did this adjustment have? A gross profit increase, cost of production decrease, prime cost decrease, B gross profit decrease, cost of production increase, prime cost no effect, C gross profit decrease, cost of production no effect, prime cost no effect, D gross profit decrease, cost of production increase, prime cost increase",
+      "answer": "B",
+      "marks": 1
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "What is a direct cost for a manufacturer? A carriage outwards, B depreciation of delivery vehicle, C factory supervisor's salary, D production royalties",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A business uses 20% mark up to arrive at its selling prices. During the year it made purchases of $35000 and the inventory decreased from $7000 to $2000. What was the revenue for the year? A $36000, B $40000, C $42000, D $48000",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "What is needed for the preparation of a statement of affairs? A a trial balance, B an income statement, C books of prime entry, D values of assets and liabilities",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "A trader provided the following information: cash purchases for the year $146000, credit purchases for the year $108000, trade payables at the year end $14000. What was the trader's trade payables turnover? A 6 days, B 13 days, C 21 days, D 48 days",
+      "answer": "D",
+      "marks": 1
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "George provided the following information: non-current assets $15000, inventory $12000, trade receivables $18000, trade payables $8000. His liquid (acid test) ratio was 1.2:1. What was his bank overdraft? A $7000, B $15000, C $17000, D $29500",
+      "answer": "A",
+      "marks": 1
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "The following ratios have been calculated for a trader: year 1 profit margin 20%, year 2 profit margin 6%, year 1 return on capital employed (ROCE) 15%, year 2 return on capital employed (ROCE) 9%. What explains these changes? A Drawings have increased by more than profit for the year, B Gross profit has increased but profit for the year has decreased, C Profit for the year has increased and capital has been introduced, D Profit for the year has increased and a long-term loan has been repaid",
+      "answer": "C",
+      "marks": 1
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "question": "William is a trader. He has received an order from James to supply goods on credit. When should William regard the revenue as earned? A when William accepts the order from James, B when William delivers the goods to James, C when William receives full payment for the goods from James, D when William receives the first payment on account from James",
+      "answer": "B",
+      "marks": 1
+    }
+  ]
+}

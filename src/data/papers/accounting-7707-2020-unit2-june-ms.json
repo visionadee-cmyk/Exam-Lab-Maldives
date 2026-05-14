@@ -1,0 +1,224 @@
+{
+  "paperId": "accounting-7707-2020-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/21",
+  "session": "May/June 2020",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 120,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "ZED Sports Club - Club accounts",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the trading account of ZED Sports Club for the year ended 29 February 2020.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Sales: $10,542. Cost of sales: Opening inventory $900, Purchases $7,600, Less Closing inventory $970 = $7,530. Gross profit: $3,012.",
+          "keywords": ["trading account", "gross profit", "cost of sales"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare the receipts and payments account of ZED Sports Club for the year ended 29 February 2020.",
+          "marks": 8,
+          "type": "structured",
+          "answer": "Receipts: Balance b/d $845, Shop sales $10,542, Subscriptions $11,400, Competition fees $915. Total $22,702. Payments: Shop purchases $7,600, Competition prizes $390, Fittings $4,000, Rent and insurance $4,575, Wages - shop assistant $2,000, Balance c/d $3,447. Total $22,702. Balance b/d Mar 1: $3,447.",
+          "keywords": ["receipts and payments account", "balance"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare the bank reconciliation statement of ZED Sports Club at 29 February 2020.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Balance on bank statement: $7,162. Add: Amount not yet credited - competition fees $260, Bank error $25 = $7,447. Less: Cheque not yet presented - fittings $4,000. Balance in cash book: $3,447.",
+          "keywords": ["bank reconciliation", "balance"]
+        },
+        {
+          "id": "1d",
+          "text": "Compare the receipts and payments account with the income and expenditure account.",
+          "marks": 3,
+          "type": "essay",
+          "answer": "Receipts and payments account: Includes all money received and paid, No adjustment made for accruals or prepayments, Includes only monetary items, Includes both capital and revenue items, Balancing figure represents bank balance. Income and expenditure account: Includes income and expenses, Adjustments made for accruals and prepayments, Includes non-monetary items, Includes only revenue receipts and expenditure, Balancing figure represents surplus/deficit.",
+          "keywords": ["receipts and payments", "income and expenditure", "comparison"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ame - Trial balance and errors",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the trial balance of Ame at 31 March 2020.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Debit: Capital $10,369, Drawings $4,000, Equipment at cost $15,500, Provision for depreciation of equipment $3,100, Inventory at 1 April 2019 $1,765, Trade receivables $1,290, Bank overdraft $475, Sales $31,250, Purchases $18,330, Purchases returns $910, Carriage inwards $640, Discount received $815, Commission receivable $1,500, Rent and Insurance $5,700, Office expenses $2,425, Suspense $369. Total: $50,019.",
+          "keywords": ["trial balance", "suspense"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare journal entries to correct the errors.",
+          "marks": 9,
+          "type": "structured",
+          "answer": "Error 1: No entry for cash sales $60. Dr Cash $60, Cr Sales $60. Error 2: Office expenses $240 credited to wages account, no debit entry. Dr Office expenses $240, Dr Suspense $480, Cr Wages $240. Error 3: Purchases journal total $2,165 incorrectly recorded as $2,651. Dr Suspense $486, Cr Purchases $486. Error 4: Insurance payment $375 recorded in cash book but no other entry. Dr Rent and insurance $375, Cr Suspense $375. Error 5: Equipment purchase $800 debited to office expenses. Dr Equipment $800, Cr Office expenses $800.",
+          "keywords": ["journal entries", "errors", "correction"]
+        },
+        {
+          "id": "2c",
+          "text": "Prepare the suspense account.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Mar 31: Difference on trial balance $369. Mar 31: Office expenses $240, Wages $240, Purchases $486, Rent and insurance $375. Total $855.",
+          "keywords": ["suspense account", "balance"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Chippo - Manufacturing accounts",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the manufacturing account for the year ended 30 April 2020.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Cost of material consumed: Opening inventory of raw material $3,120 + Purchases of raw material $46,500 - Closing inventory of raw material $3,000 = $46,620. Direct wages $38,250. Direct expenses - royalties $7,690. Prime cost $92,560. Factory overheads: Wages - factory supervisor $28,500, Factory general expenses $4,500, Factory fuel and power $5,325, Rent and insurance (28,000 × 50%) $14,000, Depreciation of machinery (60,000 - 21,600) × 20% $7,680 = $60,005. Add opening work in progress $5,400 = $157,965. Less closing work in progress $5,590. Cost of production $152,375.",
+          "keywords": ["manufacturing account", "prime cost", "cost of production"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the income statement (Trading Account section) for the year ended 30 April 2020.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Revenue $254,000. Cost of sales: Opening inventory of finished goods $8,220 + Cost of production $152,375 + Purchases of finished goods $59,000 = $219,595 - Closing inventory of finished goods $7,885 = $211,710. Gross profit $42,290.",
+          "keywords": ["income statement", "gross profit"]
+        },
+        {
+          "id": "3c",
+          "text": "State whether each action would increase or decrease gross profit.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Increase wages of factory supervisor: Decrease gross profit. Reduce trade discount allowed to customers: Increase gross profit.",
+          "keywords": ["gross profit", "increase", "decrease"]
+        },
+        {
+          "id": "3d",
+          "text": "Advise Chippo whether she should convert to a limited company.",
+          "marks": 4,
+          "type": "essay",
+          "answer": "Advantages: Manufacturing business requiring machinery and premises would usually operate as a limited company; Able to raise money by issuing shares; Easier to obtain finance for expansion; Personal assets will be safer; If sole trader, lender could take personal assets if business assets insufficient. Disadvantages: Lender likely to require security over company assets; Lender could take possession of assets if payments not made; Costs involved in setting up and running a limited company. Recommendation required.",
+          "keywords": ["limited company", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Rani - Inventory valuation",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Complete the table to show the inventory valuation.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Item A: Cost $17, NRV $18, Lower of cost and NRV $17, Units 110, Total $1,870. Item B: Cost $18, NRV $18, Lower of cost and NRV $18, Units 85, Total $1,530. Item C: Cost $16, NRV $14, Lower of cost and NRV $14, Units 90, Total $1,260. Total: $4,660.",
+          "keywords": ["inventory valuation", "net realisable value"]
+        },
+        {
+          "id": "4b",
+          "text": "Explain the effect on profit if Rani records item D at its net realisable value of zero.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "The net realisable value is lower than the cost so item D should be recorded at its net realisable value of zero. There will be no effect on profit.",
+          "keywords": ["net realisable value", "profit"]
+        },
+        {
+          "id": "4c",
+          "text": "Advise Rani whether she should stop buying item D.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Obsolete inventory is a loss to business; Wish to avoid such losses in future; Holding inventory necessitates storage costs; Funds available for other business opportunities; Difficulty in monitoring four types of inventory. Disadvantages: Risky to stock only three lines; May be customer demand for item D in future; Customers buying item D from another supplier may also buy items A, B and C from them. Recommendation required.",
+          "keywords": ["inventory", "advantages", "disadvantages"]
+        },
+        {
+          "id": "4d",
+          "text": "Prepare the advertising income account.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "Apr 1: Balance b/d $300, Balance b/d $420. Mar 31: Income statement $6,320, Bank $6,000, Balance c/d $300, Irrecoverable debts $400, Balance c/d $400. Total $7,120. Apr 1: Balance b/d $400, Balance b/d $500.",
+          "keywords": ["advertising income account", "balance"]
+        },
+        {
+          "id": "4e",
+          "text": "Explain the accounting treatment of advertising income.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Sales of inventory are included in calculation of the gross profit. Advertising income is included as other income after the calculation of the gross profit. If sales of inventory are included as advertising income the gross profit will be understated.",
+          "keywords": ["advertising income", "gross profit"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "MPT Limited - Financial statements",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Prepare a statement showing the retained earnings for the year ended 30 April 2020.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Retained earnings 1 May 2019 $14,000 + Profit for the year $28,000 = $42,000. Less: Transfer to general reserve $5,000, Dividend $4,500 = $9,500. Retained earnings 30 April 2020 $32,500.",
+          "keywords": ["retained earnings", "statement"]
+        },
+        {
+          "id": "5b",
+          "text": "Prepare the statement of financial position at 30 April 2020.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "Non-current Assets: Fixtures and equipment at book value $152,000, Motor vehicles at book value $60,400 = $212,400. Current Assets: Inventory $30,330, Trade receivables $31,500 - Provision for doubtful debts $630 = $30,870. Total assets $273,600. Equity: Ordinary share capital $150,000, General reserve $40,000, Retained earnings $32,500 = $222,500. Non-current Liabilities: 5% Debentures $20,000. Current Liabilities: Trade payables $24,900, Bank $6,200 = $31,100. Total Equity and Liabilities $273,600.",
+          "keywords": ["statement of financial position", "assets", "liabilities"]
+        },
+        {
+          "id": "5c",
+          "text": "Explain why general reserves may not be matched by cash balances.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "General reserves may not necessarily be matched by cash balances.",
+          "keywords": ["general reserves", "cash"]
+        },
+        {
+          "id": "5d",
+          "text": "Calculate the return on capital employed.",
+          "marks": 4,
+          "type": "calculation",
+          "answer": "ROCE = (Profit for year / Capital employed) × 100 = (28,000 / (150,000 + 40,000 + 32,500 + 20,000)) × 100 = (28,000 / 242,500) × 100 = 11.96%.",
+          "keywords": ["ROCE", "capital employed"]
+        },
+        {
+          "id": "5e",
+          "text": "Suggest ways to improve the return on capital employed.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Basic statements: Increase profit for the year; Reduce capital employed; Use capital employed more effectively. Expansion: Ways to increase profit - Increase gross profit, Reduce expenses, Increase other income. Ways to reduce capital employed - Increase dividend, Reduce non-current liabilities. Ways to use capital employed more effectively - Combine lower costs with higher sales, Sell off surplus/inefficient assets.",
+          "keywords": ["ROCE", "improve", "profit", "capital employed"]
+        }
+      ]
+    }
+  ]
+}

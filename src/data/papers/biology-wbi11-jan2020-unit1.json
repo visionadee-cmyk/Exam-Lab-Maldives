@@ -1,0 +1,432 @@
+{
+  "paperId": "wbi11-jan-2020-unit1-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI11/01",
+  "session": "January 2020",
+  "title": "Unit 1: Molecules, Diet, Transport and Health",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Polynucleotides include DNA and messenger RNA (mRNA). Some components of polynucleotides are found in both DNA and mRNA. Other components are found only in DNA or in mRNA. A Venn diagram can be drawn to represent this information. Components found in both DNA and mRNA are written in the part of the diagram where the circles overlap. Complete the Venn diagram by writing the name of two components in each part of the diagram.",
+      "image": "/papers/wbi11-jan2020/q1_venn_diagram.png",
+      "parts": [
+        {
+          "id": "1",
+          "text": "Complete the Venn diagram by writing the name of two components in each part of the diagram (DNA only, DNA and mRNA, mRNA only).",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "DNA only: deoxyribose, thymine; Both: phosphate, adenine, guanine, cytosine; mRNA only: ribose, uracil",
+          "keywords": ["deoxyribose", "thymine", "phosphate", "adenine", "guanine", "cytosine", "ribose", "uracil"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Blood flows through the heart during the cardiac cycle.",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Which diagram shows the direction of blood flow through the vena cava?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi11-jan2020/q2a_heart_diagrams.png",
+          "options": [
+            { "id": "A", "text": "Diagram A" },
+            { "id": "B", "text": "Diagram B" },
+            { "id": "C", "text": "Diagram C" },
+            { "id": "D", "text": "Diagram D" }
+          ],
+          "answer": "A",
+          "keywords": ["A"]
+        },
+        {
+          "id": "2b",
+          "text": "Which row in the table describes the blood flow through the pulmonary artery and the pulmonary vein?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "Pulmonary artery: deoxygenated blood flowing away from the heart; Pulmonary vein: oxygenated blood flowing towards the heart" },
+            { "id": "B", "text": "Pulmonary artery: deoxygenated blood flowing towards the heart; Pulmonary vein: oxygenated blood flowing away from the heart" },
+            { "id": "C", "text": "Pulmonary artery: oxygenated blood flowing away from the heart; Pulmonary vein: deoxygenated blood flowing towards the heart" },
+            { "id": "D", "text": "Pulmonary artery: oxygenated blood flowing towards the heart; Pulmonary vein: deoxygenated blood flowing away from the heart" }
+          ],
+          "answer": "A",
+          "keywords": ["A"]
+        },
+        {
+          "id": "2c_i",
+          "text": "The table describes the atrioventricular (AV) valves and the semilunar (SL) valves during the cardiac cycle. Which description is true for atrial systole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "AV open", "SL closed"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "Which description is true for ventricular systole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "C",
+          "keywords": ["C", "AV closed", "SL open"]
+        },
+        {
+          "id": "2c_iii",
+          "text": "Which description is true for diastole?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "AV valves open and SL valves open" },
+            { "id": "B", "text": "AV valves open and SL valves closed" },
+            { "id": "C", "text": "AV valves closed and SL valves open" },
+            { "id": "D", "text": "AV valves closed and SL valves closed" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "AV open", "SL closed"]
+        },
+        {
+          "id": "2d",
+          "text": "Describe how the events of the cardiac cycle change when the demand of body cells for oxygen increases.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Heart rate increases / stroke volume increases / cardiac output increases",
+          "keywords": ["heart rate", "stroke volume", "cardiac output", "increases", "faster", "greater"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Lactase is an enzyme that catalyses the hydrolysis of lactose.",
+      "parts": [
+        {
+          "id": "3a_i",
+          "text": "The diagrams show symbols for lactase, lactose and the monosaccharides of lactose. Which diagram shows the sequence of events for the hydrolysis of lactose?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi11-jan2020/q3ai_lactase_sequence.png",
+          "options": [
+            { "id": "A", "text": "Sequence A" },
+            { "id": "B", "text": "Sequence B" },
+            { "id": "C", "text": "Sequence C" },
+            { "id": "D", "text": "Sequence D" }
+          ],
+          "answer": "C",
+          "keywords": ["C"]
+        },
+        {
+          "id": "3a_ii",
+          "text": "Which of the following are the monosaccharides present in lactose?",
+          "marks": 1,
+          "type": "mcq",
+          "options": [
+            { "id": "A", "text": "fructose and sucrose" },
+            { "id": "B", "text": "galactose and glucose" },
+            { "id": "C", "text": "glucose and fructose" },
+            { "id": "D", "text": "sucrose and galactose" }
+          ],
+          "answer": "B",
+          "keywords": ["B", "galactose", "glucose"]
+        },
+        {
+          "id": "3b",
+          "text": "The graph shows the energy changes for the hydrolysis of lactose, with and without lactase. Which row in the table describes line P and identifies the letter that shows the decrease in activation energy due to lactase?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi11-jan2020/q3b_energy_graph.png",
+          "options": [
+            { "id": "A", "text": "Line P: reaction with enzyme; Decrease in activation energy: Q" },
+            { "id": "B", "text": "Line P: reaction with enzyme; Decrease in activation energy: R" },
+            { "id": "C", "text": "Line P: reaction without enzyme; Decrease in activation energy: Q" },
+            { "id": "D", "text": "Line P: reaction without enzyme; Decrease in activation energy: R" }
+          ],
+          "answer": "C",
+          "keywords": ["C"]
+        },
+        {
+          "id": "3c_i",
+          "text": "The graph shows the relationship between substrate concentration and the rate of reaction of lactase. Explain why substrate concentration affects the rate of reaction.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q3ci_substrate_graph.png",
+          "answer": "More substrate means more collisions with enzyme active sites; at high substrate concentration all active sites are occupied / enzyme saturated",
+          "keywords": ["collisions", "active sites", "saturated", "enzyme-substrate complex", "occupied"]
+        },
+        {
+          "id": "3c_ii",
+          "text": "The reaction rate (V) at each substrate concentration can be calculated using the formula V = (Vmax × S) / (K + S). Vmax is the maximum rate of reaction. K is the substrate concentration when the rate of reaction is half the rate of Vmax. S is the substrate concentration. Calculate the reaction rate (V) at a substrate concentration of 4 a.u.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "40 a.u. (accept approximately 40 using Vmax=50, K=1 from graph)",
+          "keywords": ["40", "approx 40", "40 a.u."]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Water is the solvent for the transport of sodium chloride and glucose in the blood.",
+      "parts": [
+        {
+          "id": "4a_i",
+          "text": "The graph shows the effect of temperature on the solubility of sodium chloride and glucose in water. Compare and contrast the effect of temperature on the solubilities of sodium chloride and glucose in water.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q4ai_solubility_graph.png",
+          "answer": "Both solubilities increase with temperature; glucose solubility increases much more steeply than sodium chloride; sodium chloride solubility only increases slightly",
+          "keywords": ["both increase", "glucose increases more", "steeply", "sodium chloride slight increase", "less"]
+        },
+        {
+          "id": "4a_ii",
+          "text": "The formula mass of sodium chloride is 58.44. Calculate the molecular mass of glucose, using the information in the table (carbon = 12, hydrogen = 1, oxygen = 16).",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "180 (C6H12O6 = 6×12 + 12×1 + 6×16 = 180)",
+          "keywords": ["180"]
+        },
+        {
+          "id": "4a_iii",
+          "text": "Calculate how many times greater the molecular mass of glucose is than the formula mass of sodium chloride.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "3.08 (accept 3.1 / 3.07-3.09)",
+          "keywords": ["3.08", "3.1", "3.07", "3.09"]
+        },
+        {
+          "id": "4a_iv",
+          "text": "Suggest why there is a difference in the solubility of sodium chloride and glucose in water.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Sodium chloride is ionic and dissociates into ions; glucose is polar / forms hydrogen bonds but does not dissociate into ions",
+          "keywords": ["ionic", "dissociates", "ions", "polar", "hydrogen bonds", "covalent"]
+        },
+        {
+          "id": "4b",
+          "text": "Explain why fatty acids are less soluble in blood than glucose and sodium chloride.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Fatty acids are non-polar / hydrophobic / have long hydrocarbon chains; blood is mainly water / aqueous",
+          "keywords": ["non-polar", "hydrophobic", "hydrocarbon", "water", "aqueous", "insoluble"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Paramecia are single-celled organisms that live in pond water. The photograph shows a single paramecium as seen using a light microscope.",
+      "image": "/papers/wbi11-jan2020/q5_paramecium_photo.png",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "Explain why water enters the paramecium.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Water potential of pond water is higher than inside the paramecium / water enters by osmosis down a water potential gradient",
+          "keywords": ["osmosis", "water potential", "higher outside", "hypotonic", "lower inside"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Explain the importance of the contractile vacuole in the paramecium.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Pumps out excess water; prevents cell bursting / lysis; maintains water balance / osmoregulation",
+          "keywords": ["pumps water out", "excess water", "bursting", "lysis", "osmoregulation", "water balance"]
+        },
+        {
+          "id": "5b",
+          "text": "In an investigation, paramecia were placed in three separate solutions: pond water, solution A and solution B. The number of times that the contractile vacuole pumped water out of the cell in 30-second intervals was recorded. The graphs show the results of this investigation. Explain the results of this investigation. Use the information in the graphs to support your answer.",
+          "marks": 6,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q5b_contractile_vacuole_graphs.png",
+          "answer": "Pond water: moderate pumping (~2/30s) as water potential difference is moderate; Solution A: less pumping (~1/30s) as water potential difference is lower / less water enters; Solution B: more pumping (~4/30s) as water potential difference is greater / more water enters; relates to osmosis and water potential gradients",
+          "keywords": ["pond water", "solution A", "solution B", "water potential", "osmosis", "pumping rate", "hypertonic", "hypotonic", "isotonic"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "A diet high in salt has been shown to increase the risk of some diseases. The graph shows the results of one study into the increased risk of death related to a diet high in salt. An increased risk of death is associated with a high hazard ratio.",
+      "image": "/papers/wbi11-jan2020/q6_salt_hazard_ratio.png",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "State two conclusions that can be drawn from these results.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "High salt intake increases risk of death from all causes; coronary artery disease has the highest hazard ratio for high salt intake; low salt intake has hazard ratio of 1.00 for all causes",
+          "keywords": ["high salt", "increases risk", "coronary artery disease", "hazard ratio", "low salt", "1.00"]
+        },
+        {
+          "id": "6b_i",
+          "text": "The values for the hazard ratio were adjusted for a number of factors, including age and smoking. Explain why age and smoking were taken into account when determining the hazard ratio.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Age and smoking are confounding variables; they also affect risk of death / cardiovascular disease; to ensure the effect measured is due to salt intake alone",
+          "keywords": ["confounding", "affect risk", "control", "isolating", "salt intake"]
+        },
+        {
+          "id": "6b_ii",
+          "text": "State two factors, other than age and smoking, that may have been considered when adjusting the values for the hazard ratio.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Gender / BMI / exercise / diet / alcohol / genetics / family history / socioeconomic status",
+          "keywords": ["gender", "BMI", "exercise", "diet", "alcohol", "genetics", "family history"]
+        },
+        {
+          "id": "6c",
+          "text": "Suggest why the hazard ratio for low salt intake was 1.00 for each cause of death.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "1.00 is the baseline / reference value; low salt intake is the control group against which high salt intake is compared",
+          "keywords": ["baseline", "reference", "control", "compared", "standard"]
+        },
+        {
+          "id": "6d_i",
+          "text": "The results of this study suggest that there is a correlation between salt intake and cause of death. State the meaning of the term correlation.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "A relationship / association between two variables",
+          "keywords": ["relationship", "association", "linked", "connected"]
+        },
+        {
+          "id": "6d_ii",
+          "text": "Suggest why studies of this type are unreliable.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Relies on self-reported data / difficult to control all variables / other lifestyle factors / does not show causation",
+          "keywords": ["self-reported", "controls", "causation", "variables", "lifestyle"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "One role of haemoglobin is to transport oxygen.",
+      "parts": [
+        {
+          "id": "7a_i",
+          "text": "State what is meant by the term partial pressure.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q7a_oxygen_dissociation.png",
+          "answer": "The pressure exerted by a single gas in a mixture of gases",
+          "keywords": ["pressure", "single gas", "mixture", "proportion"]
+        },
+        {
+          "id": "7a_ii",
+          "text": "Explain how the structure of haemoglobin causes the oxygen dissociation curve of haemoglobin to be this sigmoidal (S) shape.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Haemoglobin has four polypeptide chains / four haem groups; binding of first oxygen molecule causes conformational change / cooperativity; makes it easier for subsequent oxygen molecules to bind",
+          "keywords": ["four subunits", "cooperativity", "conformational change", "easier", "sigmoidal", "haem"]
+        },
+        {
+          "id": "7b_i",
+          "text": "The oxygen cascade describes the differences in the partial pressure of oxygen between different blood vessels and the external atmosphere. The graph shows the partial pressures of oxygen for a person at sea level and a person at high altitude. Suggest why the partial pressure of oxygen in the air in the alveoli is lower than in the atmosphere.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q7b_oxygen_cascade.png",
+          "answer": "Air in alveoli is saturated with water vapour / mixed with carbon dioxide / warmed to body temperature",
+          "keywords": ["water vapour", "carbon dioxide", "humidified", "warmed", "diluted"]
+        },
+        {
+          "id": "7b_ii",
+          "text": "Explain why the partial pressure of oxygen decreases as the blood flows through the arteries and into the veins.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Oxygen diffuses from blood into tissues / cells for respiration; blood in veins has given up oxygen to tissues; metabolic activity consumes oxygen",
+          "keywords": ["diffuses", "tissues", "respiration", "consumes", "cells", "lower"]
+        },
+        {
+          "id": "7b_iii",
+          "text": "Determine the percentage saturation of haemoglobin in the blood as it leaves the lungs of the person at high altitude. Use the point marked X on the graph and the oxygen dissociation curve of haemoglobin.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Approximately 80% (accept 78-82%)",
+          "keywords": ["80", "78", "79", "81", "82"]
+        },
+        {
+          "id": "7b_iv",
+          "text": "Explain why the percentage saturation of haemoglobin in a person at high altitude is much lower than in a person at sea level.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Lower partial pressure of oxygen at high altitude; less oxygen available to bind to haemoglobin; lower percentage saturation; body compensates by increasing breathing rate / heart rate / red blood cell production",
+          "keywords": ["lower partial pressure", "less oxygen", "bind", "saturation", "compensates", "breathing rate", "red blood cells"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 16,
+      "question": "Cystic fibrosis is an inherited disorder. The diagrams show a cross section through a trachea from a person without cystic fibrosis and from a person with cystic fibrosis.",
+      "image": "/papers/wbi11-jan2020/q8_trachea_diagrams.png",
+      "parts": [
+        {
+          "id": "8a_i",
+          "text": "Calculate the percentage decrease in the diameter of the lumen of the trachea from a person with cystic fibrosis. Take your measurements between X and Y on each diagram.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Accept approximately 50% (measurement-dependent)",
+          "keywords": ["50", "measurement", "percentage decrease"]
+        },
+        {
+          "id": "8a_ii",
+          "text": "Explain why cystic fibrosis causes the differences shown in the diagrams.",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Mutated CFTR gene / defective chloride channel; chloride ions cannot leave cells; water potential of mucus decreases / osmosis draws water out of mucus; mucus becomes thick and sticky / accumulates; inflammation / bacterial infection; muscle becomes inflamed",
+          "keywords": ["CFTR", "chloride channel", "chloride ions", "water potential", "osmosis", "thick mucus", "sticky", "inflammation", "infection"]
+        },
+        {
+          "id": "8b",
+          "text": "The diagram shows the genetic inheritance of cystic fibrosis in a family tree. Use the information in the diagram to calculate the probability that individual 9 is a carrier of the cystic fibrosis allele.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi11-jan2020/q8b_pedigree.png",
+          "answer": "2/3 (66.7%) - since individual 3 is affected (cc) and individual 4 is unaffected but must be a carrier (Cc) as they have affected offspring; individual 9 is unaffected so could be CC or Cc; probability of being a carrier is 2/3",
+          "keywords": ["2/3", "66.7", "carrier", "probability", "Cc", "CC"]
+        },
+        {
+          "id": "8c",
+          "text": "Explain why cystic fibrosis is more common in some populations than in others.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Founder effect / genetic drift / population bottlenecks; limited gene pool in isolated populations; specific alleles become more common by chance; lack of genetic diversity",
+          "keywords": ["founder effect", "genetic drift", "bottleneck", "gene pool", "isolated", "alleles", "diversity"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "paperId": "accounting-0452-2020-unit2-november-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/22",
+  "session": "October/November 2020",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Complete the table showing the business document and book of prime entry for transactions 2, 3 and 4.",
+      "answer": "Transaction 2: Credit note, Sales returns journal. Transaction 3: Paying-in slip, Cash book. Transaction 4: Bank statement, Cash book.",
+      "marks": 6
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the Petra account for the month of August 2020.",
+      "answer": "Petra account: Aug 1 Balance b/d $940, Aug 9 Sales $675, Aug 29 Bank $893, Aug 29 Discount allowed $47, Aug 31 Balance c/d $555. Total $1,615 each side. Sept 1 Balance b/d $555.",
+      "marks": 6
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State one current asset from the Petra account.",
+      "answer": "Current assets",
+      "marks": 1
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain one advantage and one disadvantage to Dev of offering a cash discount to credit customers.",
+      "answer": "Advantage: Increase profit for the year, Increase cash inflow. Disadvantage: May lose customers/sales may fall, Customers may take longer to pay.",
+      "marks": 2
+    },
+    {
+      "id": "q1e",
+      "number": "1(e)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of Dev converting to a limited company and make a recommendation.",
+      "answer": "Advantages: Limited liability for debts, separate legal identity, access to different forms of finance. Disadvantages: Greater regulation, more complex accounting requirements, financial statements may be viewed by public. Recommendation: Should convert to limited company.",
+      "marks": 5
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the subscriptions account for BH Sports Club for the year ended 31 July 2020.",
+      "answer": "Subscriptions account: Aug 1 2019 Balance b/d $360, Jul 31 2020 Bank $9,960, Balance c/d $720, Jul 31 2020 Income and Expenditure $10,200, Balance c/d $120. Total $10,680 each side. Aug 1 2020 Balance b/d $720, Balance b/d $120.",
+      "marks": 6
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the trading account for BH Sports Club café for the year ended 31 July 2020.",
+      "answer": "Revenue $13,520, Opening inventory $520, Purchases $8,190 = $8,710, Less Closing inventory $770 = $7,940, Wages - café staff $2,770 = $10,710, Profit for the year $2,810.",
+      "marks": 4
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Prepare the income and expenditure account for BH Sports Club for the year ended 31 July 2020.",
+      "answer": "Income: Subscriptions $10,200, Profit on café $2,810 = $13,010. Expenditure: Wages - sports staff $5,220, Insurance - sports hall and sports equipment $1,390, Sports Hall expenses $3,360, Depreciation - sports hall $440, Depreciation - sports equipment $600 = $11,010. Surplus for the year $2,000.",
+      "marks": 7
+    },
+    {
+      "id": "q2di",
+      "number": "2(d)(i)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Explain what is meant by the accumulated fund of a club.",
+      "answer": "The difference between the assets and the liabilities, The accumulated surpluses earned since the club started.",
+      "marks": 1
+    },
+    {
+      "id": "q2dii",
+      "number": "2(d)(ii)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Calculate the accumulated fund of BH Sports Club at 31 July 2020.",
+      "answer": "Increase $2,000",
+      "marks": 2
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Calculate the cost of sales for JP Limited for the year ended 30 September 2020.",
+      "answer": "Opening inventory $66,000, Purchases $263,000, Carriage inwards $1,500 = $330,500, Less Closing inventory $59,000 = Cost of sales $271,500.",
+      "marks": 2
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Calculate the increase in the provision for doubtful debts for JP Limited for the year ended 30 September 2020.",
+      "answer": "Provision at 30 September 2020 ((80,500 - 500) x 2%) $1,600, Less Provision at 1 October 2019 $1,000 = Increase in provision $600.",
+      "marks": 2
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "Prepare the income statement for JP Limited for the year ended 30 September 2020.",
+      "answer": "Revenue $529,500, Less Cost of sales $271,500 = Gross profit $258,000. Less expenses: Administrative expenses $42,800, Distribution costs $38,800, Irrecoverable debts $500, Provision for doubtful debts $600, Depreciation - non-current assets $61,000 = $143,700. Profit from operations $114,300, Debenture interest $1,400 = Profit for the year $112,900.",
+      "marks": 12
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Indicate the effect of each transaction on the capital employed of JP Limited.",
+      "answer": "Issue of additional debentures - Increase, Issue of additional ordinary shares - Increase, Payment of ordinary share dividend - Decrease, Proposal of ordinary share dividend - No effect, Transfer from retained earnings to general reserve - No effect.",
+      "marks": 4
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Calculate the profit for the year for 2020.",
+      "answer": "Profit for the year $16,000",
+      "marks": 1
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Calculate the profit margin, gross margin and return on capital employed (ROCE) for 2020.",
+      "answer": "Profit margin = (16,000 / 240,000) x 100 = 6.67%. Gross margin = ((240,000 - 169,000) / 240,000) x 100 = 29.58%. ROCE = (16,000 / 62,000) x 100 = 25.81%.",
+      "marks": 6
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Comment on the performance of the business using the ratios calculated in (b).",
+      "answer": "Profit margin: Has worsened from 8.56% to 6.67%. Possible causes: Increase in expenses, Poor control over expenses. Gross margin: Has worsened from 34.26% to 29.58%. Possible causes: Reduction in selling price, Purchasing from more expensive suppliers. ROCE: Has worsened from 32.08% to 25.81%. Possible causes: Increased capital employed, Less efficient use of resources.",
+      "marks": 6
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of introducing additional capital or taking a loan and make a recommendation.",
+      "answer": "Introduce additional capital: Advantages - Does not have to be repaid, No interest cost. Disadvantages - May not have enough available funds, Greater personal risk. Loan: Advantages - Instantly available, Has two years to pay it off. Disadvantages - Annual interest charged, Must be repaid, Security may be required. Recommendation: Should take a loan.",
+      "marks": 5
+    },
+    {
+      "id": "q4e",
+      "number": "4(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Identify one interested party and explain their interest in the financial statements.",
+      "answer": "Suppliers/potential suppliers - To assess whether outstanding debts are likely to be paid. Bank - To assess the likelihood of loan/overdraft being repaid, To assess ability to pay interest, To assess availability of security. Lenders/potential lenders - To assess likelihood of loan repayment, To assess ability to pay interest, To assess security availability. Investors/potential partners - To assess future prospects, To assess profitability. Government/tax authorities - To assess tax due.",
+      "marks": 2
+    },
+    {
+      "id": "q5a",
+      "number": "5(a)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the suspense account for Razia at 30 September 2020.",
+      "answer": "Suspense account: Sep 30 Sales returns $300, Sep 30 Difference on trial balance $200, Motor repairs $180, Rent receivable $310, Kamil $900, Rent payable $310. Total $1,100 each side.",
+      "marks": 6
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State the type of error for error 2 and error 4.",
+      "answer": "Error 2: Error of omission. Error 4: Error of transposition in one account.",
+      "marks": 2
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Indicate the effect of each error on the profit for the year.",
+      "answer": "Error 1: Decrease profit. Error 2: No effect on profit. Error 3: Decrease profit. Error 4: No effect on profit. Error 5: Increase profit. Error 6: No effect on profit. Error 7: Decrease profit.",
+      "marks": 7
+    },
+    {
+      "id": "q5d",
+      "number": "5(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of selling only for cash and make a recommendation.",
+      "answer": "Advantages: Less book-keeping, No irrecoverable debts, Cash received immediately. Disadvantages: May lose customers/sales may reduce, May adversely affect customer relationships/customer loyalty, Increased security issues. Recommendation: Should continue selling on credit.",
+      "marks": 5
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "paperId": "accounting-7707-2021-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/24",
+  "session": "May/June 2021",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Sinita - Sales ledger control account and bank reconciliation",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the sales ledger control account for the month ended 31 August 2020.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Aug 1: Balance b/d $38,440, Balance b/d $105. Aug 31: Bank (dis. Chq.) $88, Interest $125, Sales $26,845, Balance c/d $148. Aug 31: Contra $315, Irrecoverable debts $460, Discount allowed $692, Bank $30,121, Returns inwards $763, Balance c/d $33,190. Total $65,646. Sep 1: Balance b/d $33,190, Balance b/d $148.",
+          "keywords": ["sales ledger control account", "balance"]
+        },
+        {
+          "id": "1b",
+          "text": "State one purpose of a control account.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Assist in the location of errors, Provide an instant total of trade receivables, Prove the arithmetical accuracy of the sales ledger, Enable a statement of financial position to be prepared quickly, Provide a summary of transactions relating to trade receivables, Help reduce fraud.",
+          "keywords": ["control account", "purpose"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare the bank reconciliation statement at 31 August 2020.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Balance in cash book $6,416. Cheques not yet presented $9,825 = $16,241. Amounts not yet credited $2,460, Bank error $250 = $2,710. Balance on bank statement $13,531.",
+          "keywords": ["bank reconciliation", "balance"]
+        },
+        {
+          "id": "1d",
+          "text": "Advise Sinita whether to reconcile the bank statement after 1 month or after 3 months.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Reconciling after 1 month: Advantages - Enables errors in the cash book to be identified earlier, Enables errors on the bank statement to be identified earlier, Errors are easier to identify, Enables missing entries in the cash book to be identified earlier, Enables out-of-date cheques to be identified earlier, Enables balance on bank account to be reviewed regularly, Acts as a deterrent to fraud. Disadvantages - May take comparatively more time, More transactions to record, May be more costly, Cash book is updated regularly from a bank statement less need for a reconciliation statement. Reconciling after 3 months: Advantages - May take comparatively less time, Less transactions to record, May be less costly, Cash book is updated less frequently from a bank statement. Disadvantages - Errors in the cash book are identified later, Errors on the bank statement are identified later, Errors may be more difficult to identify, Missing entries in the cash book will be identified later, Out-of-date cheques are identified later, Balance on bank account are reviewed less frequently, Acts less as a deterrent to fraud. Recommendation required.",
+          "keywords": ["bank reconciliation", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Huan - Cash book and working capital",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the three column cash book for the month of September 2020.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Sep 1: Balance b/d $80, Balance b/d $630. Sep 3: Sales $458. Sep 4: Motor repairs $2, Cash c/d $453, Bank $453. Sep 5: Alisha $1,280, Lucia $21,819. Sep 6: Cao (dis chq) $200. Sep 7: Balance c/d $50,841, Balance c/d $538, Balance c/d $1,733. Total $21,538, $1,733. Sep 8: Balance b/d $50,841, Balance b/d $538.",
+          "keywords": ["cash book", "balance"]
+        },
+        {
+          "id": "2b",
+          "text": "Name the document that Huan would send to Alisha.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Debit note",
+          "keywords": ["debit note"]
+        },
+        {
+          "id": "2c",
+          "text": "State the effect of each action on working capital and give a reason.",
+          "marks": 8,
+          "type": "short_answer",
+          "answer": "Sell surplus non-current assets: Increase - Bank increases so current assets increase, No change to current liabilities. Obtain a short-term bank loan: No effect - Bank increases so current assets increase, Current liabilities increase by same amount. Reduce credit sales and increase cash sales by the same amount: No effect - Trade receivables decrease and cash increases by the same amount so no change in current assets, No change to current liabilities. Create a provision for doubtful debts: Decrease - Trade receivables decrease so current assets decrease, No change to current liabilities.",
+          "keywords": ["working capital", "effect"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Naomi - Manufacturing account",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the manufacturing account for the year ended 30 September 2020.",
+          "marks": 14,
+          "type": "structured",
+          "answer": "Cost of materials consumed: Purchases $42,100 - Closing inventory of raw materials $11,200 = $30,900. Direct factory wages (46,220 + 480) $46,700. Royalties $3,900. Prime Cost $81,500. Factory overheads: Indirect factory wages $15,940, Factory general expenses $8,620, Factory rent and rates (2/3 × (28,400 - 6,000)) $15,200, Depreciation factory machinery (15% × 80,000) $12,000, Depreciation loose tools (800 - 670) $130 = $41,890. Add closing work in progress $1,680 = $123,390. Cost of production $121,710.",
+          "keywords": ["manufacturing account", "cost of production"]
+        },
+        {
+          "id": "3b",
+          "text": "Calculate the total change in profit for the year if Naomi purchases the new machinery.",
+          "marks": 6,
+          "type": "calculation",
+          "answer": "Annual wages of factory workers would decrease by $3,000 (increase profit). Machinery repairs, $1,100, included in factory general expense would decrease by 60% = $660 (increase profit). Cost of raw materials used would decrease by 10% = $3,090 (increase profit). The total cost of the new machinery would be financed by a loan on which annual interest of 4% would be charged = $4,000 (decrease profit). The new machinery would be depreciated in equal instalments over 8 years = $500 (decrease profit). Total change in profit = $2,250 increase.",
+          "keywords": ["profit", "change"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Aaron and Sami - Partnership",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare the income statement for the year ended 31 August 2020.",
+          "marks": 13,
+          "type": "structured",
+          "answer": "Revenue $240,560 - Sales returns $2,100 = $238,460. Cost of sales: Opening inventory $36,500 + Purchases $129,270 + Carriage inwards $1,240 = $167,010 - Closing inventory $42,750 = $124,260. Gross profit $114,200. Less Expenses: Administrative expenses $61,040, Rent payable (23,680 - 5,920) $17,760, Depreciation Fixtures and fittings (10% × (86,600 - 51,200)) $3,540 = $82,340. Profit from operations $31,860. Loan interest (5% × 2,000) $100, Bank interest (675 + 225) $900 = $1,000. Profit for the year $30,860.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "4b",
+          "text": "Advise Aaron and Sami whether to purchase from the new supplier.",
+          "marks": 2,
+          "type": "essay",
+          "answer": "Payments to suppliers reduced OR improve liquidity/working capital. May be more wastage/faulty goods/poor quality goods. Customers may be dissatisfied/sales may fall/may be more sales returns. Gross profit may fall because of increased wastage/reduced selling price/fall in sales. Gross profit may increase because of lower cost of sales/purchases.",
+          "keywords": ["supplier", "advantages", "disadvantages"]
+        },
+        {
+          "id": "4c",
+          "text": "Advise Aaron and Sami whether to repay the loan or introduce additional capital.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages of repaying loan: Reduction in interest costs resulting in increased profits, Higher interest on capital received, May increase the share of profits for partners, Reduces any claim the bank may have on business assets. Disadvantages of repaying loan: More personal funds at risk, May not have sufficient personal funds available, May cause conflict between Aaron and Sami/may require partnership agreement to be re-negotiated, Interest on capital may be lower than alternative investments. Recommendation required.",
+          "keywords": ["loan", "capital", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Share capital",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "Prepare a statement showing the retained earnings for the year ended 31 August 2020.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Retained earnings 1 September 2019 $12,000 + Profit for the year $12,600 = $24,600. Less: Transfer to general reserve $3,000, Interim dividend paid $6,000 = $9,000. Retained earnings at 31 August 2020 $15,600.",
+          "keywords": ["retained earnings", "statement"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Calculate the shareholders' equity at 31 August 2020.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Issued share capital $120,000 + General reserve (8,000 + 3,000) $11,000 + Retained earnings $15,600 = $146,600.",
+          "keywords": ["shareholders' equity"]
+        },
+        {
+          "id": "5b",
+          "text": "Distinguish between share capital and loan capital.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Share capital is permanent capital: loan capital must be repaid. Shareholders are paid dividends: lenders are paid interest. Shareholders have voting rights: lenders do not have voting rights. In a winding up share capital is repaid after loan capital: loan capital is repaid before share capital.",
+          "keywords": ["share capital", "loan capital"]
+        },
+        {
+          "id": "5c",
+          "text": "Distinguish between preference shares and ordinary shares.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Preference shareholders receive fixed rates of dividend: ordinary shareholders receive variable rates of dividend. Preference shareholders receive dividends before ordinary shareholders: ordinary shareholders receive dividends (if any) last. Preference shareholders do not usually have voting rights: ordinary shareholders have voting rights. In a winding up preference shareholders are repaid before ordinary shareholders: in a winding up ordinary shareholders are repaid last.",
+          "keywords": ["preference shares", "ordinary shares"]
+        },
+        {
+          "id": "5d",
+          "text": "Explain why a company may issue debentures instead of ordinary shares.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Interest payments may reduce dividends, Debenture holders are repaid before ordinary shareholders in a winding up, Debenture interest is paid before ordinary share dividends.",
+          "keywords": ["debentures", "ordinary shares"]
+        },
+        {
+          "id": "5e",
+          "text": "Suggest two ways to improve the collection of trade receivables.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Offer cash discount for early settlement/prompt payment, Charge interest on overdue accounts, Improve credit control/send invoices or statements promptly, Refuse further supplies until outstanding balance paid, Invoice discounting and factoring.",
+          "keywords": ["trade receivables", "collection"]
+        },
+        {
+          "id": "5f",
+          "text": "Suggest two ways to improve the inventory turnover ratio.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Reduce inventory levels, Increase sales activity, Change sales mix.",
+          "keywords": ["inventory turnover"]
+        },
+        {
+          "id": "5g",
+          "text": "Advise whether to take advantage of early settlement discounts offered by suppliers.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Reduces the cost of purchases/goods, Increases profit, Maintain good supplier relationships, Avoids any interest charges for late payment. Disadvantages: Reduces liquidity/cash payable immediately, Depends on cash availability, Increase in administration costs. Recommendation required.",
+          "keywords": ["early settlement discount", "advantages", "disadvantages"]
+        }
+      ]
+    }
+  ]
+}

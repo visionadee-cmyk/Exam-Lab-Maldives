@@ -1,0 +1,419 @@
+{
+  "paperId": "wbi12-jun-2019-unit2-qp",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "June 2019",
+  "title": "Unit 2: Bioenergetics, Microbiology and Respiration",
+  "totalMarks": 80,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Mineral ions are transported by xylem vessels. The photograph shows a section through part of the stem of a plant, as seen using a light microscope.",
+      "image": "/papers/wbi12-jun2019/q1-plant-stem-section.PNG",
+      "parts": [
+        {
+          "id": "1a_i",
+          "text": "Which letter identifies a xylem vessel?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "C",
+          "options": [
+            { "id": "A", "text": "W" },
+            { "id": "B", "text": "X" },
+            { "id": "C", "text": "Y" },
+            { "id": "D", "text": "Z" }
+          ]
+        },
+        {
+          "id": "1a_ii",
+          "text": "Which letter identifies a sclerenchyma fibre?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "D",
+          "options": [
+            { "id": "A", "text": "U" },
+            { "id": "B", "text": "V" },
+            { "id": "C", "text": "W" },
+            { "id": "D", "text": "Z" }
+          ]
+        },
+        {
+          "id": "1b_i",
+          "text": "The concentration of calcium ions is 0.45 mmol dm⁻³. Plot this concentration on the graph.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q1-mineral-ions-graph.PNG",
+          "answer": "Plot bar at 0.45 for calcium ions on the graph",
+          "keywords": ["0.45", "calcium", "plot", "bar"]
+        },
+        {
+          "id": "1b_ii",
+          "text": "Explain the importance of each of these ions to the plant.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Calcium: component of cell walls / pectin in middle lamella. Magnesium: component of chlorophyll / required for photosynthesis. Nitrate: source of nitrogen for amino acids / proteins / nucleic acids / chlorophyll.",
+          "keywords": ["calcium", "cell wall", "pectin", "magnesium", "chlorophyll", "nitrate", "amino acid", "protein"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Farmers sometimes spray herbicides on their fields. Herbicides kill plants that the farmer does not want to grow. The effect of the concentration of herbicide on the number of species of insects in three fields was investigated. The mean number of species for the three fields was calculated. The graph shows the results of this investigation.",
+      "image": "/papers/wbi12-jun2019/q2-herbicide-insects-graph.PNG",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "State what is meant by the term species.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "A group of organisms that can interbreed to produce fertile offspring / share common characteristics / gene pool is isolated from other species.",
+          "keywords": ["interbreed", "fertile", "offspring", "common", "characteristics", "gene pool"]
+        },
+        {
+          "id": "2b",
+          "text": "Explain the relationship between the concentration of herbicide and the mean number of species of insects in the three fields. Use the information in the graph to support your answer.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "As herbicide concentration increases, mean number of insect species decreases / negative correlation / herbicides kill plants reducing food and habitats for insects / at low concentration (0-10) number drops from 9 to about 7 / at high concentration (90-100) number is about 3 / fewer niches and less biodiversity.",
+          "keywords": ["increases", "decreases", "negative", "correlation", "habitat", "food", "niches", "biodiversity"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Meiosis and mitosis are involved in cell division.",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Meiosis produces gametes that are genetically different. Crossing over is important to increase genetic variation. The diagram shows one pair of homologous chromosomes during early meiosis. Complete the diagram below to show these chromosomes after crossing over has occurred.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q3-crossing-over.PNG",
+          "answer": "Chromatids exchange segments at chiasmata / resulting chromosomes have recombinant DNA / one chromatid from each chromosome has swapped section with the other.",
+          "keywords": ["chiasmata", "exchange", "recombinant", "swapped", "segments"]
+        },
+        {
+          "id": "3b_i",
+          "text": "The photograph shows some cells undergoing mitosis. Each labelled cell is in a different stage of mitosis. Which cell is in prophase?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi12-jun2019/q3-mitosis-photo.PNG",
+          "answer": "C",
+          "options": [
+            { "id": "A", "text": "P" },
+            { "id": "B", "text": "Q" },
+            { "id": "C", "text": "R" },
+            { "id": "D", "text": "S" }
+          ]
+        },
+        {
+          "id": "3b_ii",
+          "text": "In some embryo cells, interphase can last an average of nine hours. The diagram shows the relative proportions of time spent in each part of the cell cycle. Calculate how long cytokinesis would take in these embryo cells.",
+          "marks": 1,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q3-cell-cycle-pie.PNG",
+          "answer": "Interphase is 270° = 9 hours. Cytokinesis is 15°. Time = (15/270) × 9 = 0.5 hours / 30 minutes.",
+          "keywords": ["0.5", "30", "minutes", "hours", "proportional"]
+        },
+        {
+          "id": "3b_iii",
+          "text": "Calculate the total number of cells resulting from one cell dividing by mitosis eight times.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "2⁸ = 256 cells",
+          "keywords": ["256", "2^8"]
+        },
+        {
+          "id": "3c_i",
+          "text": "Ewing's sarcoma is a type of cancer. Resveratrol, SRT1720 and Vincristine are drugs used to kill cancer cells. An investigation was carried out to determine the most effective treatment for patients with Ewing's sarcoma. The graph shows the results of this investigation. Vincristine prevents spindle fibres from shortening during mitosis. This leads to the death of the cell. At which stage of mitosis do the spindle fibres contract?",
+          "marks": 1,
+          "type": "mcq",
+          "image": "/papers/wbi12-jun2019/q3-cancer-drugs-bar.PNG",
+          "answer": "A",
+          "options": [
+            { "id": "A", "text": "anaphase" },
+            { "id": "B", "text": "metaphase" },
+            { "id": "C", "text": "prophase" },
+            { "id": "D", "text": "telophase" }
+          ]
+        },
+        {
+          "id": "3c_ii",
+          "text": "Evaluate the effectiveness of the three drugs used in this investigation. Use the information in the graph to support your answer.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Vincristine alone kills about 50% / most effective alone. Resveratrol alone kills about 15% / least effective alone. SRT1720 alone kills about 10% / least effective alone. Resveratrol + Vincristine kills about 50% / slightly more than Vincristine alone. SRT1720 + Vincristine kills about 85% / most effective combination. All combinations with Vincristine are more effective than single drugs.",
+          "keywords": ["vincristine", "resveratrol", "SRT1720", "combination", "effective", "percentage", "graph"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "The pancreas is an organ with many functions.",
+      "parts": [
+        {
+          "id": "4a_i",
+          "text": "A student observed some cells of the pancreas using an electron microscope. The student described one organelle that was seen as 'several curved membrane-bound sacs of decreasing size'. Which organelle was seen?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "B",
+          "options": [
+            { "id": "A", "text": "centriole" },
+            { "id": "B", "text": "Golgi apparatus" },
+            { "id": "C", "text": "rough endoplasmic reticulum" },
+            { "id": "D", "text": "smooth endoplasmic reticulum" }
+          ]
+        },
+        {
+          "id": "4a_ii",
+          "text": "Explain why this organelle cannot be seen using a light microscope.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Organelle is too small / below resolution limit of light microscope (about 200 nm) / electron microscope has much higher resolution / light microscope limited by wavelength of light.",
+          "keywords": ["resolution", "small", "200 nm", "wavelength", "electron", "light"]
+        },
+        {
+          "id": "4a_iii",
+          "text": "Give two differences between an organ and a tissue.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Organ: made of several tissues / carries out specific function / larger structure. Tissue: made of one type of cell / group of similar cells / smaller unit within organ.",
+          "keywords": ["tissues", "function", "cells", "similar", "structure", "size"]
+        },
+        {
+          "id": "4b",
+          "text": "Plant cells can also be studied using an electron microscope. Name two structures present in animal cells that are not present in a plant cell.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Centrioles / lysosomes / flagella / cilia / intermediate filaments (any two).",
+          "keywords": ["centriole", "lysosome", "flagellum", "cilia"]
+        },
+        {
+          "id": "4c",
+          "text": "Cells in the pancreas use amino acids to synthesise polypeptides. These cells also secrete enzymes and glycoproteins into the small intestine. Cells from the pancreas, containing amino acids labelled with a fluorescent marker, were used in an investigation. The fluorescent marker looked green when seen with a special microscope. The percentage of green fluorescence inside and outside the cells was measured at the start and after 60 minutes. The results of this investigation are shown in the table. Explain the results of this investigation.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q4-pancreas-fluorescence-table.PNG",
+          "answer": "At start all fluorescence inside cells (100%) / amino acids inside being used for protein synthesis. After 60 minutes, 38% inside and 62% outside / polypeptides/enzymes/glycoproteins secreted by exocytosis / vesicles fuse with membrane releasing products outside cell / decrease inside due to secretion.",
+          "keywords": ["synthesis", "secreted", "exocytosis", "vesicles", "fluorescence", "outside", "decrease"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "There are more than 100 species of trees and shrubs around the world with the common name of 'ironwood'. One type of ironwood tree, Tabebuia avellanedae, is native to South America. Chemicals from these trees have antibacterial properties.",
+      "image": "/papers/wbi12-jun2019/q5-ironwood-page16.PNG",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "State the genus to which this plant belongs.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Tabebuia",
+          "keywords": ["tabebuia"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Which structure in the cells of this plant stores starch?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "A",
+          "options": [
+            { "id": "A", "text": "amyloplast" },
+            { "id": "B", "text": "middle lamella" },
+            { "id": "C", "text": "plasmodesmata" },
+            { "id": "D", "text": "tonoplast" }
+          ]
+        },
+        {
+          "id": "5b_i",
+          "text": "Plague is a disease caused by Yersinia pestis bacteria. Every year, thousands of people around the world are infected with these bacteria. These bacteria have a thick slime capsule and many pili. State the function of each of these structures.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Slime capsule: protection from host immune system / prevents phagocytosis / prevents desiccation. Pili: attachment to host cells / adhesion.",
+          "keywords": ["capsule", "protection", "phagocytosis", "attach", "adhesion", "pili"]
+        },
+        {
+          "id": "5b_ii",
+          "text": "The ironwood tree has wood containing chemical compounds called naphthoquinones. These compounds have antibacterial properties. Scientists are investigating whether these compounds could be used to develop a drug to treat people infected with Y. pestis. Describe the methods that would be used to trial a drug containing these compounds.",
+          "marks": 6,
+          "type": "short_answer",
+          "answer": "Pre-clinical testing on bacteria in vitro / test on animals to check toxicity and dosage. Clinical trials: Phase 1 small group healthy volunteers safety/dosage, Phase 2 larger group patients efficacy/side effects, Phase 3 large RCT with placebo/control / double-blind / statistical analysis. Monitor efficacy and side effects / compare with existing treatments / ethical approval.",
+          "keywords": ["clinical trial", "double blind", "placebo", "random", "dosage", "side effects", "efficacy", "in vitro", "animals"]
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "One of the aims of seed banks is to maintain genetic diversity. Seeds are stored in the Navdanya Seed Vault, one of over a hundred seed banks in India. This seed bank stores over 4000 varieties of rice.",
+      "image": "/papers/wbi12-jun2019/q6-seedbank-rice-photo.PNG",
+      "parts": [
+        {
+          "id": "6a_i",
+          "text": "Which of the following can be used to calculate genetic diversity?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "B",
+          "options": [
+            { "id": "A", "text": "Hardy–Weinberg equation" },
+            { "id": "B", "text": "heterozygosity index" },
+            { "id": "C", "text": "index of diversity" },
+            { "id": "D", "text": "mitotic index" }
+          ]
+        },
+        {
+          "id": "6a_ii",
+          "text": "Give two differences between genetic diversity and species richness.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Genetic diversity: variation of alleles/genes within a population or species. Species richness: number of different species in a habitat/community.",
+          "keywords": ["alleles", "genes", "population", "species", "number", "habitat", "community"]
+        },
+        {
+          "id": "6b",
+          "text": "Suggest two reasons why seed banks store seeds instead of growing whole plants.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Seeds take up less space / cheaper to store / easier to transport / low water content and metabolism allows long-term storage / less risk of pests/disease / can store large numbers of varieties.",
+          "keywords": ["space", "cheaper", "transport", "long", "metabolism", "pests", "disease"]
+        },
+        {
+          "id": "6c_i",
+          "text": "Bananas are a popular food and seed banks are involved in the development of disease-resistant varieties. The table shows the mass of bananas imported by three countries in 2007 and in 2011. Calculate the percentage increase in the mass of bananas imported by China.",
+          "marks": 2,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q6-banana-imports-table.PNG",
+          "answer": "((8.2 - 3.3) / 3.3) × 100 = 148.5% / approximately 149% / 148%",
+          "keywords": ["148", "149", "percent", "%", "(8.2", "3.3"]
+        },
+        {
+          "id": "6c_ii",
+          "text": "Banana plants can reproduce asexually. Most of the bananas grown by farmers around the world are clones from a single parent banana plant called 'The Cavendish'. Panama disease is caused by a fungus. It has destroyed Cavendish banana plants in the Philippines. Cavendish banana plants are not resistant to this fungus. Seed banks around the world have seeds from different varieties of banana. Scientists are trying to improve the Cavendish banana by breeding it with different varieties of banana. Explain why scientists are breeding the Cavendish banana with different varieties of banana.",
+          "marks": 4,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q6-banana-clones-diagram.PNG",
+          "answer": "Clones have identical genomes / low genetic diversity / all susceptible to same disease (Panama disease). Breeding with different varieties increases genetic diversity / introduces new alleles / may produce offspring with resistance to fungus / maintains banana production and food security.",
+          "keywords": ["genetic diversity", "clones", "disease", "resistant", "alleles", "panama", "susceptible"]
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 14,
+      "question": "A sperm cell is a specialised cell.",
+      "image": "/papers/wbi12-jun2019/q7-sperm-cell-diagram.PNG",
+      "parts": [
+        {
+          "id": "7a_i",
+          "text": "How many of the labelled structures contain DNA?",
+          "marks": 1,
+          "type": "mcq",
+          "answer": "B",
+          "options": [
+            { "id": "A", "text": "1" },
+            { "id": "B", "text": "2" },
+            { "id": "C", "text": "3" },
+            { "id": "D", "text": "4" }
+          ]
+        },
+        {
+          "id": "7a_ii",
+          "text": "Sperm cells contain mitochondria. Describe the function of mitochondria in the movement of sperm cells.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Mitochondria carry out aerobic respiration / produce ATP / provide energy for contraction of proteins in flagellum / enable swimming movement.",
+          "keywords": ["ATP", "respiration", "energy", "flagellum", "movement", "contract"]
+        },
+        {
+          "id": "7a_iii",
+          "text": "Calculate the magnification of the sperm cell shown in the diagram.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Measure image length of scale bar and divide by 60 μm / magnification = image size / actual size.",
+          "keywords": ["magnification", "image size", "actual", "60", "μm", "divide"]
+        },
+        {
+          "id": "7b",
+          "text": "The photograph shows a Chinese hamster. A female Chinese hamster mates with many males in a short period of time. The diagram shows the relative size of a Chinese hamster sperm cell compared with a human sperm cell. Suggest why the Chinese hamster sperm cell has such a long flagellum.",
+          "marks": 3,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q7-hamster-sperm-comparison.PNG",
+          "answer": "Longer flagellum produces greater propulsion / swim faster / need to outcompete sperm from other males / increased chance of fertilisation / sperm competition / reach egg first.",
+          "keywords": ["faster", "propulsion", "sperm competition", "fertilisation", "outcompete"]
+        },
+        {
+          "id": "7c",
+          "text": "Explain the role of the cortical reaction in the process of fertilisation in mammals.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "After sperm enters egg, cortical granules release enzymes / zona pellucida hardens / changes structure / prevents entry of more sperm / prevents polyspermy / ensures correct chromosome number.",
+          "keywords": ["cortical granules", "zona pellucida", "hardens", "polyspermy", "enzymes"]
+        },
+        {
+          "id": "7d",
+          "text": "After fertilisation, the egg cell divides by mitosis to form a blastocyst. During this process, totipotent cells become pluripotent. Describe how a totipotent stem cell becomes a pluripotent stem cell.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Different genes switched on or off / differential gene expression / epigenetic changes / methylation of DNA / cells specialise / lose ability to form all cell types / can only form embryo tissues not extra-embryonic membranes.",
+          "keywords": ["gene expression", "switch", "differentiate", "epigenetic", "methylation", "specialise"]
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "Beavers were hunted to extinction in Scotland in the 16th century. In mainland Europe, populations of beavers have become isolated from each other. In 2009, 11 beavers were reintroduced to Scotland from Norway. Beavers are adapted to live on land and in water. They can cut down trees. They gnaw branches from trees, which they use to build dams. The photograph shows two beavers and a pond that has been created due to a beaver dam.",
+      "image": "/papers/wbi12-jun2019/q8-beavers-photo.PNG",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Explain how the reintroduction of beavers resulted in a change in the biodiversity in Scotland.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Beavers build dams creating ponds and wetlands / new aquatic habitats / increased species richness / more niches / dead wood provides food and habitat / changes water flow creating diverse vegetation / benefits invertebrates, fish, birds, amphibians, plants.",
+          "keywords": ["dams", "wetland", "pond", "habitat", "species", "richness", "niches"]
+        },
+        {
+          "id": "8b",
+          "text": "Some scientists were concerned that the low numbers of beavers reintroduced into Scotland from Norway could affect the genetic diversity of the population in Scotland. The scientists proposed two solutions to this concern: to introduce more beavers from Norway; to introduce beavers from several different European locations. The map shows locations of European beavers before they were reintroduced to Scotland. Discuss the solutions proposed by these scientists to overcome the concern of introducing only 11 beavers into Scotland from Norway. Use the information in the map to support your answer.",
+          "marks": 6,
+          "type": "short_answer",
+          "image": "/papers/wbi12-jun2019/q8-europe-beaver-map.PNG",
+          "answer": "Introducing more from Norway: increases population size / reduces inbreeding / but limited gene pool as all from same source / may carry same genetic problems. Introducing from several European locations: map shows beavers spread across Europe / multiple isolated populations / increases genetic diversity / larger gene pool / more alleles / heterozygosity / reduces inbreeding depression / but may risk outbreeding depression / different local adaptations / disease transfer.",
+          "keywords": ["genetic diversity", "inbreeding", "gene pool", "alleles", "Norway", "Europe", "heterozygosity", "outbreeding"]
+        },
+        {
+          "id": "8c",
+          "text": "In a beaver population, the frequency of a recessive homozygous genotype is 0.09. Calculate the percentage of beavers in this population that are homozygous for the dominant allele, using the equation p² + 2pq + q² = 1.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "q² = 0.09 so q = 0.3. p = 1 − 0.3 = 0.7. p² = 0.49. Percentage = 49%.",
+          "keywords": ["0.09", "0.3", "0.7", "0.49", "49"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "paperId": "biology-0610-2021-unit3-june-ms",
+  "subjectId": "biology_cambridge_igcse",
+  "code": "0610/31",
+  "session": "May/June 2021",
+  "title": "Biology Paper 3 Practical Test - Mark Scheme",
+  "totalMarks": 40,
+  "timeMinutes": 75,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 27,
+      "question": "You are provided with a dish of seedlings that have germinated and then grown for 3–5 days. You are going to measure the heights of six seedlings and calculate their mean height.",
+      "parts": [
+        {
+          "id": "q1ai",
+          "number": "(a)(i)",
+          "totalMarks": 5,
+          "question": "In the space below, construct a table to record your results. Select six seedlings from the dish and measure the height of each stem to the nearest millimetre. Enter your results in the table. Calculate the mean height and record it in your table.",
+          "answer": "1 attempt to construct a two column / row table with ruled lines; 2 header for seedling column + 1–6; 3 header for height column / row + mm; 4 six measurements recorded; 5 correct mean height calculated + mm",
+          "marks": 5
+        },
+        {
+          "id": "q1aii",
+          "number": "(a)(ii)",
+          "totalMarks": 2,
+          "question": "State two possible sources of error in measuring the seedlings.",
+          "answer": "difficult to identify which part to measure, i.e. where to start and end; seedlings not straight / too small to measure; ruler doesn't start at zero, i.e. additional plastic / wood; parallax",
+          "marks": 2
+        },
+        {
+          "id": "q1aiii",
+          "number": "(a)(iii)",
+          "totalMarks": 2,
+          "question": "Use the apparatus provided to cut or crush some of the seedlings. Add drops of iodine solution to the cut or crushed seedlings. Record your observations and conclusion from this test.",
+          "answer": "observation: colour observed; conclusion: correct conclusion for observation e.g. blue-black, starch present",
+          "marks": 2
+        },
+        {
+          "id": "q1bi",
+          "number": "(b)(i)",
+          "totalMarks": 4,
+          "question": "On the grid construct a line graph to show the relationship between time and mean height for these seedlings. Join your points with ruled lines.",
+          "answer": "1 time on x-axis + both axes fully labelled; 2 linear scales with 2 values at origin + plots use at least half the grid on each axis; 3 all 6 points correctly plotted; 4 plots joined with ruled lines + no extrapolation to origin or beyond 23 days",
+          "marks": 4
+        },
+        {
+          "id": "q1bii",
+          "number": "(b)(ii)",
+          "totalMarks": 2,
+          "question": "Use the graph to describe the growth of these seedlings.",
+          "answer": "growth or mean height increases + time; faster at start / slower at end",
+          "marks": 2
+        },
+        {
+          "id": "q1biii",
+          "number": "(b)(iii)",
+          "totalMarks": 1,
+          "question": "Use the graph to state the time period during which the rate of growth of the seedlings was greatest.",
+          "answer": "(between) 6–10 days",
+          "marks": 1
+        },
+        {
+          "id": "q1biv",
+          "number": "(b)(iv)",
+          "totalMarks": 2,
+          "question": "Use the data and your graph to calculate the rate of growth of the seedlings for the five days from day 15 to day 20.",
+          "answer": "0.8; mm / day; A mm per day",
+          "marks": 2
+        },
+        {
+          "id": "q1bv",
+          "number": "(b)(v)",
+          "totalMarks": 3,
+          "question": "State two variables that need to be controlled whilst growing these seedlings and explain why they need to be controlled.",
+          "answer": "any 2 variables: temperature / (sun)light / water or moisture / same type of seed / number of seeds or seedlings; explanation: to ensure that time / the variable you are investigating is the only variable that changes",
+          "marks": 3
+        },
+        {
+          "id": "q1c",
+          "number": "(c)",
+          "totalMarks": 6,
+          "question": "Design an investigation to determine the effect of the pH of water on the growth (mean height) of seedlings. You should use seedlings grown in Petri dishes in a laboratory.",
+          "answer": "1 several (Petri) dishes; 2 at least 5 seeds / seedlings in each (Petri) dish; 3 water / solutions of different pHs used; 4 at least 3 × pH numbers between 1–14 used; 5 (control variables) temperature / (sun)light / same type of seed / volume of water; 6 same length of time (minimum one day); 7 height of seedlings measured; 8 sample of at least 3 seedlings + from each dish / pH; 9 means calculated",
+          "marks": 6
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "The photograph shows the surface of a mammalian organ.",
+      "parts": [
+        {
+          "id": "q2ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Identify this organ.",
+          "answer": "heart",
+          "marks": 1
+        },
+        {
+          "id": "q2aii",
+          "number": "(a)(ii)",
+          "totalMarks": 1,
+          "question": "Name the structures labelled A.",
+          "answer": "blood vessel; A artery / vein; R capillary; Ig names",
+          "marks": 1
+        },
+        {
+          "id": "q2b",
+          "number": "(b)",
+          "totalMarks": 5,
+          "question": "In the space below, make a large drawing of this organ as it appears in the photograph.",
+          "answer": "1 clear and clean outline of heart drawn with a sharp pencil + no shading; 2 heart at least 70 mm wide; 3 height greater than width + tapering on both sides to curved base; 4 surface blood vessel A from top right to bottom left of drawing; 5 left atrium completely delimited + right atrium higher than left",
+          "marks": 5
+        },
+        {
+          "id": "q2ci",
+          "number": "(c)(i)",
+          "totalMarks": 2,
+          "question": "On the photograph, draw a line between B and C. Measure and record this length.",
+          "answer": "line drawn; 40 ± 1",
+          "marks": 2
+        },
+        {
+          "id": "q2cii",
+          "number": "(c)(ii)",
+          "totalMarks": 2,
+          "question": "On your drawing, draw a line at the same location as the line B–C. Measure and record the length of this line.",
+          "answer": "horizontal line drawn at greatest width; correct measurement to nearest mm ± 1",
+          "marks": 2
+        },
+        {
+          "id": "q2ciii",
+          "number": "(c)(iii)",
+          "totalMarks": 2,
+          "question": "Use your measurements in (c)(i) and (c)(ii) to calculate the magnification of your drawing compared to the photograph. Give your answer to one decimal place.",
+          "answer": "measurement in (c)(ii) / measurement in (c)(i); correct answer rounded to 1dp",
+          "marks": 2
+        }
+      ]
+    }
+  ]
+}

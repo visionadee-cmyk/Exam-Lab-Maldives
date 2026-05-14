@@ -1,0 +1,200 @@
+{
+  "paperId": "accounting-0452-2022-unit2-november-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/22",
+  "session": "October/November 2022",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 12,
+      "question": "Prepare the income statement for BC for the year ended 31 August 2022.",
+      "answer": "Revenue $231500, Less Sales returns $3600 = $227900. Cost of sales: Opening inventory $11100, Purchases $120000, Carriage inwards $400 = $131500, Less Closing inventory $12000 = $119500. Gross profit $108400, Add Commission receivable (2200 + 800) $3000, Add Discount received $1400 = $112800. Less Expenses: Discount allowed $600, Insurance (9600 - 700) $8900, Repairs (12400 - 4000) $8400, Salaries (53900 + 4900) $58800, Rates (6000 - 300) $5700, Depreciation machinery (27600 x 20%) $5520 = $87920. Profit for the year $24880.",
+      "marks": 12
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Calculate the working capital of BC at 31 August 2022.",
+      "answer": "Current assets: Inventory $12000, Trade receivables $19200, Commission received $800, Rates prepaid $300 = $32300. Current liabilities: Trade payables $7300, Salaries owing $4900, Bank $4100 = $16300. Working capital $16000.",
+      "marks": 3
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of credit and loan options and make a recommendation.",
+      "answer": "Option 1 Credit: Only payback original amount of $6000/no interest, Credit may not be granted as already has an overdraft, Working capital/funds may be adequate provided trade receivables pay on time, Consider whether adequate funds will be available in 60 days, Working capital will be reduced. Option 2 Loan: Interest each year will have to be paid, Interest will reduce profit each year, Consider whether funds will be available to repay the loan, Loan may not be granted as already has an overdraft. Recommendation: Should choose credit option.",
+      "marks": 5
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Complete the table showing the book of prime entry for each item.",
+      "answer": "Discount received from credit suppliers - Cash book. Purchases returns - Purchase returns journal. Contra entries - General journal. Interest charged by credit suppliers - General journal.",
+      "marks": 4
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain what is meant by a contra entry.",
+      "answer": "A balance on a purchase ledger account is transferred to an account for the same business in the sales ledger. Purchase ledger account is debited, and the sales ledger is credited.",
+      "marks": 2
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Prepare the purchase ledger control account for MC for July 2022.",
+      "answer": "Purchase ledger control account: Debit side - Jul 1 Balance b/d $130, Jul 31 Purchase returns $9800, Jul 31 Bank $228200, Jul 31 Discount received $12900, Jul 31 Cash $500, Jul 31 Contra $2260, Jul 31 Balance c/d $27540 = $281330. Credit side - Jul 1 Balance b/d $21400, Jul 31 Purchases $259600, Jul 31 Interest charges $150, Jul 31 Balance c/d $180 = $281330. Aug 1 Balance b/d $180, Aug 1 Balance b/d $27540.",
+      "marks": 9
+    },
+    {
+      "id": "q2d",
+      "number": "2(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the possible effects on the business of using an overseas supplier and make a recommendation.",
+      "answer": "Advantages: Reduce cost of goods/increase gross profit/lower selling price, Reliability of new supplier/guaranteed supplier. Disadvantages: Must consider whether low price will be maintained/currency fluctuations, Must consider whether goods will be of an acceptable quality, Possible language differences/difficulty of communications, May be more difficult in case of problems/disputes, May experience delivery problems, Contract is binding for one year. Recommendation: Should use overseas supplier.",
+      "marks": 5
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare the cash book (bank columns only) for MG for August 2022.",
+      "answer": "Cash book: Debit side - Aug 31 Balance b/d $25600, Aug 31 RJ (dis cheque) $420, Aug 31 Rates (SO) $50 = $26070. Credit side - Aug 31 Insurance (DD) $110, Aug 31 Bank charges $75, Aug 31 Balance c/d $25045 = $26070. Sep 1 Balance b/d $25045.",
+      "marks": 5
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the bank reconciliation statement for MG at 31 August 2022.",
+      "answer": "Balance shown in cash book $25045, Add unpresented cheques JW $680 = $25725, Less uncredited deposits TH $910 = Balance shown on bank statement $24815.",
+      "marks": 4
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two reasons why a business should prepare a bank reconciliation statement.",
+      "answer": "Identify/correct either errors or omissions in the cash book, Identify errors on the bank statement, Update the cash book/obtain correct bank balance, Assist in discovering fraud/deter or reduce risk of fraud.",
+      "marks": 2
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two reasons why a cheque may be dishonoured.",
+      "answer": "Insufficient funds in the bank account, No/incorrect signature, No date, No amount, No payee, Words and figures disagree.",
+      "marks": 2
+    },
+    {
+      "id": "q3e",
+      "number": "3(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Distinguish between a standing order and a direct debit.",
+      "answer": "A standing order is when a person instructs their bank to pay a fixed sum at fixed intervals to another person. A direct debit is when permission is given for a named person to collect an amount from their bank. The dates and amounts can vary.",
+      "marks": 2
+    },
+    {
+      "id": "q3f",
+      "number": "3(f)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of offering a cash discount and make a recommendation.",
+      "answer": "Advantages of accepting: Sales/revenues will increase, May lead to future orders, Increase in profit for the year, Could lose order if no discount given. Disadvantages of accepting: Existing customers may request a similar discount, Reduction in profit if discount given to all existing customers, May damage relationship of existing customers, Reduction in gross margin. Recommendation: Should accept the order with cash discount.",
+      "marks": 5
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "Prepare the sales account, sales returns account, trade receivables account, irrecoverable debts account, and provision for doubtful debts account for PG for July 2022.",
+      "answer": "Sales account: Debit side - Jul 31 Income statement $377000. Credit side - Jul 31 Trade receivables $360000, Jul 31 Cash $17000 = $377000. Sales returns account: Debit side - Jul 31 Trade receivables $13300. Credit side - Jul 31 Income statement $13300. Trade receivables account: Debit side - Aug 1 2021 Balance b/d $28500, Jul 31 2022 Sales $360000, Jul 31 2022 Bank $4000 = $392500. Credit side - Jul 31 2022 Sales returns $13300, Jul 31 2022 Bank $335100, Jul 31 2022 Discount allowed $6500, Jul 31 2022 Irrecoverable debts $900, Jul 31 2022 Balance c/d $36700 = $392500. Aug 1 2022 Balance b/d $36700. Irrecoverable debts account: Debit side - Jul 31 2022 Trade receivables $900. Credit side - Jul 31 2022 Income statement $900. Provision for doubtful debts account: Debit side - Jul 31 2022 Balance c/d $1468. Credit side - Aug 1 2021 Balance b/d $1140, Jul 31 2022 Income statement $328 = $1468. Aug 1 2022 Balance b/d $1468.",
+      "marks": 13
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Prepare the extract from statement of financial position for PG at 31 July 2022 showing current assets.",
+      "answer": "Current assets: Trade receivables $36700, Less provision for doubtful debts $1468 = $35232.",
+      "marks": 2
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Suggest three methods a business could use to improve the collection of trade receivables.",
+      "answer": "Obtain (credit) references, Set credit limit, Sell for cash only / reduce credit sales, Issue invoices / statements of account promptly, Follow up with phone calls / emails etc, Improve or introduce credit control / hire a credit controller, Charge interest on late payment, Refuse further supplies until outstanding balance is paid, Increase level of cash discount, Last resort take legal action.",
+      "marks": 3
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two factors a business should consider when deciding on the amount of provision for doubtful debts.",
+      "answer": "Experience of late / non-payment, Specific knowledge of customers credit record / credit rating, Length of time debts outstanding / ageing schedule / trade receivables turnover, State of the local economy.",
+      "marks": 2
+    },
+    {
+      "id": "q5a",
+      "number": "5(a)",
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Prepare the profit and loss appropriation account for Sian and Tom for the year ended 31 March 2022.",
+      "answer": "Profit for the year $59190, Add interest on drawings: Sian $330, Tom $480 = $810 = $60000. Less interest on capital: Sian (150000 x 6%) $9000, Tom (100000 x 6%) $6000 = $15000 = $45000. Less partners salary Sian $20000 = $25000. Share of profits: Sian $15000, Tom $10000 = $25000.",
+      "marks": 8
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Prepare the statement of financial position extract for Sian and Tom at 31 March 2022.",
+      "answer": "Capital: Sian $150000, Tom $100000 = $250000. Current accounts: Sian - Balance b/d $3000, Interest on capital $9000, Salary $20000, Profit $15000 = $47000, Less Drawings $14000, Less Interest on drawings $330 = $14330, Balance c/d $32670. Tom - Balance b/d ($7000), Interest on capital $6000, Profit $10000 = $9000, Less Drawings $22000, Less Interest on drawings $480 = $22480, Balance c/d ($13480). Total capital and current accounts $269190.",
+      "marks": 8
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain what is meant by a debit balance on a partner's current account.",
+      "answer": "The amount the partner owes to the partnership, Indicates that the partner's drawings are too high, Indicates that the partner's drawings are greater than the total profit share.",
+      "marks": 2
+    },
+    {
+      "id": "q5d",
+      "number": "5(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain the going concern concept.",
+      "answer": "Assumes the business will operate for an indefinite period of time, Assumes there is no intention to close the business down / reduce the size of the business significantly, Non-current assets are valued at net book value / not expected sales value.",
+      "marks": 2
+    }
+  ]
+}
