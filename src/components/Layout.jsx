@@ -13,6 +13,7 @@ import {
 } from 'lucide-react';
 import { useState } from 'react';
 import { cn } from '../utils/cn';
+import { defaultPracticeSubjectId } from '../lib/practicePrefs';
 
 export function Layout() {
   const { user, userData, logout, isAdmin } = useAuth();
@@ -32,7 +33,12 @@ export function Layout() {
     { path: '/profile', label: 'Profile', icon: User },
   ];
 
-  const isActive = (path) => location.pathname === path;
+  const isActive = (path) => {
+    if (path === '/practice') {
+      return location.pathname === '/practice' || location.pathname.startsWith('/practice/');
+    }
+    return location.pathname === path;
+  };
 
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
@@ -64,11 +70,12 @@ export function Layout() {
         <div className="max-w-7xl mx-auto flex justify-around h-16">
           {bottomNavItems.map((item) => {
             const Icon = item.icon;
+            const to = item.path === '/practice' ? `/practice/${defaultPracticeSubjectId()}` : item.path;
             const active = isActive(item.path);
             return (
               <Link
                 key={item.path}
-                to={item.path}
+                to={to}
                 className={cn(
                   'flex flex-col items-center justify-center flex-1 py-2',
                   active ? 'text-primary-600' : 'text-gray-400'

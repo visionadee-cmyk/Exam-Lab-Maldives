@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { QuestionCard } from '../components/QuestionCard';
 import { useQuestions } from '../hooks/useQuestions';
 import { 
@@ -11,13 +11,48 @@ import {
   Trophy
 } from 'lucide-react';
 import { cn } from '../utils/cn';
+import { LAST_PRACTICE_SUBJECT_KEY, defaultPracticeSubjectId } from '../lib/practicePrefs';
 
-// Questions loaded from Firestore only - no demo data
+// Import biology paper JSON files for local fallback
+import biology06102021Unit1June from '../data/papers/biology-0610-2021-unit1-june-ms.json';
+import biology06102021Unit1November from '../data/papers/biology-0610-2021-unit1-november-ms.json';
+import biology06102021Unit2June from '../data/papers/biology-0610-2021-unit2-june-ms.json';
+import biology06102021Unit2November from '../data/papers/biology-0610-2021-unit2-november-ms.json';
+import biology06102021Unit3June from '../data/papers/biology-0610-2021-unit3-june-ms.json';
+import biology06102021Unit3November from '../data/papers/biology-0610-2021-unit3-november-ms.json';
+import biology06102021Unit6June from '../data/papers/biology-0610-2021-unit6-june-ms.json';
+import biology06102021Unit6November from '../data/papers/biology-0610-2021-unit6-november-ms.json';
+
+// Questions loaded from Firestore with local JSON fallback
 
 export function Practice() {
   const location = useLocation();
   const navigate = useNavigate();
-  const { subject, topic, mode } = location.state || {};
+  const { subjectId: subjectFromPath } = useParams();
+  const [searchParams] = useSearchParams();
+  const { topic, mode } = location.state || {};
+  const subjectFromState = location.state?.subject;
+  const subjectFromQuery = searchParams.get('subject');
+  const subjectFromStorage =
+    typeof window !== 'undefined'
+      ? window.localStorage.getItem(LAST_PRACTICE_SUBJECT_KEY)
+      : null;
+  const subject =
+    subjectFromState ??
+    subjectFromPath ??
+    subjectFromQuery ??
+    subjectFromStorage ??
+    defaultPracticeSubjectId();
+
+  useEffect(() => {
+    if (subject) {
+      try {
+        window.localStorage.setItem(LAST_PRACTICE_SUBJECT_KEY, subject);
+      } catch {
+        /* ignore quota / private mode */
+      }
+    }
+  }, [subject]);
   
   const [questions, setQuestions] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -27,14 +62,47 @@ export function Practice() {
   const { loading, fetchQuestions } = useQuestions();
 
   useEffect(() => {
-    // Load questions from Firestore
+    // Load questions from Firestore with local JSON fallback
     const loadQuestions = async () => {
       const filters = {};
       if (subject) filters.subject = subject;
       if (topic) filters.topic = topic;
       
       const data = await fetchQuestions(filters, 10);
-      setQuestions(data);
+      
+      // If no questions from Firestore, try local JSON files
+      if (data.length === 0 && subject === 'biology_igcse') {
+        const localPapers = [
+          biology06102021Unit1June,
+          biology06102021Unit1November,
+          biology06102021Unit2June,
+          biology06102021Unit2November,
+          biology06102021Unit3June,
+          biology06102021Unit3November,
+          biology06102021Unit6June,
+          biology06102021Unit6November
+        ];
+        
+        // Flatten questions from all papers
+        const allQuestions = localPapers.flatMap(paper => {
+          if (!paper.questions) return [];
+          return paper.questions.map(q => ({
+            id: q.id,
+            text: q.question,
+            question: q.question,
+            type: q.type === 'multiple_choice' ? 'mcq' : 'structured',
+            marks: q.totalMarks || 1,
+            correctAnswer: q.answer || '',
+            options: q.options || [],
+            subjectId: paper.subjectId,
+            paperId: paper.paperId
+          }));
+        });
+        
+        setQuestions(allQuestions.slice(0, 10));
+      } else {
+        setQuestions(data);
+      }
     };
     
     loadQuestions();

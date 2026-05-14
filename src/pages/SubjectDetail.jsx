@@ -202,11 +202,11 @@ export function SubjectDetail() {
   };
 
   const handleTopicPractice = (topic) => {
-    navigate('/practice', { state: { subject: subjectId, topic, mode: 'topic' } });
+    navigate(`/practice/${subjectId}`, { state: { topic, mode: 'topic' } });
   };
 
   const handleQuickPractice = () => {
-    navigate('/practice', { state: { subject: subjectId, mode: 'mixed' } });
+    navigate(`/practice/${subjectId}`, { state: { mode: 'mixed' } });
   };
 
   const handleFullExam = () => {

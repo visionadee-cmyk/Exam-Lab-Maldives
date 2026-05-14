@@ -17,6 +17,7 @@ import {
 } from 'lucide-react';
 import { SUBJECTS } from '../data/subjects';
 import { cn } from '../utils/cn';
+import { defaultPracticeSubjectId } from '../lib/practicePrefs';
 import { useState, useEffect } from 'react';
 import { SmartSearch } from '../components/SmartSearch';
 
@@ -108,7 +109,7 @@ export function Home() {
               <p className="font-medium mt-1">Question 12 of 50</p>
             </div>
             <Link 
-              to="/practice" 
+              to={`/practice/${defaultPracticeSubjectId()}`}
               className="px-4 py-2 bg-white text-primary-700 rounded-lg font-medium text-sm"
             >
               Continue
@@ -190,7 +191,7 @@ export function Home() {
             <p className="text-blue-100 text-sm mt-1">10 free questions daily</p>
           </div>
           <button 
-            onClick={() => navigate('/practice', { state: { mode: 'daily' } })}
+            onClick={() => navigate(`/practice/${defaultPracticeSubjectId()}`, { state: { mode: 'daily' } })}
             className="px-4 py-2 bg-white text-blue-600 rounded-lg font-medium text-sm"
           >
             Start Now
