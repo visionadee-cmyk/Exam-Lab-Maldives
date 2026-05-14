@@ -14,65 +14,7 @@ export const O_LEVEL_SUBJECTS = [
     icon: 'Microscope',
     description: 'Cambridge IGCSE Biology (0610)',
     topics: ['Characteristics of Living Organisms', 'Cell Structure', 'Biological Molecules', 'Enzymes', 'Plant Nutrition', 'Human Nutrition', 'Transport', 'Gas Exchange', 'Coordination', 'Reproduction', 'Inheritance', 'Organisms & Environment', 'Human Influences'],
-    color: 'bg-emerald-500',
-    papers: [
-      {
-        id: 'biology-0610-2021-unit1-june-ms',
-        title: 'Paper 1 - Mark Scheme',
-        session: 'May/June 2021',
-        code: '0610/11',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit1-november-ms',
-        title: 'Paper 1 - Mark Scheme',
-        session: 'October/November 2021',
-        code: '0610/11',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit2-june-ms',
-        title: 'Paper 2 - Mark Scheme',
-        session: 'May/June 2021',
-        code: '0610/21',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit2-november-ms',
-        title: 'Paper 2 - Mark Scheme',
-        session: 'October/November 2021',
-        code: '0610/21',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit3-june-ms',
-        title: 'Paper 3 - Mark Scheme',
-        session: 'May/June 2021',
-        code: '0610/31',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit3-november-ms',
-        title: 'Paper 3 - Mark Scheme',
-        session: 'October/November 2021',
-        code: '0610/31',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit6-june-ms',
-        title: 'Paper 6 - Mark Scheme',
-        session: 'May/June 2021',
-        code: '0610/61',
-        type: 'MS'
-      },
-      {
-        id: 'biology-0610-2021-unit6-november-ms',
-        title: 'Paper 6 - Mark Scheme',
-        session: 'October/November 2021',
-        code: '0610/61',
-        type: 'MS'
-      }
-    ]
+    color: 'bg-emerald-500'
   },
   {
     id: 'chemistry_igcse',
@@ -113,6 +55,16 @@ export const O_LEVEL_SUBJECTS = [
     description: 'Cambridge IGCSE Accounting (0452)',
     topics: ['Introduction to Accounting', 'Sources & Recording of Data', 'Verification of Accounting Records', 'Accounting Procedures', 'Preparation of Financial Statements', 'Analysis & Interpretation', 'Principles of Accounts'],
     color: 'bg-amber-500'
+  },
+  {
+    id: 'accounting_olevel',
+    code: '7707',
+    name: 'Accounting (O Level)',
+    board: EXAM_BOARDS.CAMBRIDGE_IGCSE,
+    icon: 'BookOpen',
+    description: 'Cambridge O Level Accounting (7707)',
+    topics: ['Introduction to Accounting', 'Sources & Recording of Data', 'Verification of Accounting Records', 'Accounting Procedures', 'Preparation of Financial Statements', 'Analysis & Interpretation', 'Principles of Accounts'],
+    color: 'bg-amber-600'
   },
   {
     id: 'economics_igcse',

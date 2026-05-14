@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
 import { useAuth } from '../contexts/AuthContext';
+import { GLOB_MS_INTERACTIVE_MAP, GLOB_MS_PAPER_LISTS } from '../data/interactiveMsPaperRegistry';
 import { Plus, Trash2, Edit3, Save, X } from 'lucide-react';
 import biologyWbi11Jan2019Unit1 from '../data/papers/biology-wbi11-jan2019-unit1.json';
 import biologyWbi11May2019Unit1 from '../data/papers/biology-wbi11-may2019-unit1.json';
@@ -14,14 +15,6 @@ import biologyWbi12Jan2020Unit2 from '../data/papers/biology-wbi12-jan2020-unit2
 import biologyWbi12May2020Unit2 from '../data/papers/biology-wbi12-may2020-unit2.json';
 import biologyWbi13Jun2019Unit3 from '../data/papers/biology-wbi13-jun2019-unit3.json';
 import biologyWbi13Oct2019Unit3 from '../data/papers/biology-wbi13-oct2019-unit3.json';
-import biology06102021Unit1June from '../data/papers/biology-0610-2021-unit1-june-ms.json';
-import biology06102021Unit1November from '../data/papers/biology-0610-2021-unit1-november-ms.json';
-import biology06102021Unit2June from '../data/papers/biology-0610-2021-unit2-june-ms.json';
-import biology06102021Unit2November from '../data/papers/biology-0610-2021-unit2-november-ms.json';
-import biology06102021Unit3June from '../data/papers/biology-0610-2021-unit3-june-ms.json';
-import biology06102021Unit3November from '../data/papers/biology-0610-2021-unit3-november-ms.json';
-import biology06102021Unit6June from '../data/papers/biology-0610-2021-unit6-june-ms.json';
-import biology06102021Unit6November from '../data/papers/biology-0610-2021-unit6-november-ms.json';
 import { 
   ArrowLeft, 
   BookOpen, 
@@ -79,7 +72,6 @@ export function SubjectDetail() {
   const [activeTab, setActiveTab] = useState('papers');
   
   const subject = SUBJECTS.find(s => s.id === subjectId);
-  const papers = Array.isArray(subject?.papers) ? subject.papers : [];
   
   // Get progress from localStorage
   const [progressStats, setProgressStats] = useState({
@@ -180,17 +172,18 @@ export function SubjectDetail() {
     'wbi12-may-2020-unit2-qp': biologyWbi12May2020Unit2,
     'wbi13-jun-2019-unit3-qp': biologyWbi13Jun2019Unit3,
     'wbi13-oct-2019-unit3-qp': biologyWbi13Oct2019Unit3,
-    'biology-0610-2021-unit1-june-ms': biology06102021Unit1June,
-    'biology-0610-2021-unit1-november-ms': biology06102021Unit1November,
-    'biology-0610-2021-unit2-june-ms': biology06102021Unit2June,
-    'biology-0610-2021-unit2-november-ms': biology06102021Unit2November,
-    'biology-0610-2021-unit3-june-ms': biology06102021Unit3June,
-    'biology-0610-2021-unit3-november-ms': biology06102021Unit3November,
-    'biology-0610-2021-unit6-june-ms': biology06102021Unit6June,
-    'biology-0610-2021-unit6-november-ms': biology06102021Unit6November
+    ...GLOB_MS_INTERACTIVE_MAP
   };
 
-  const interactivePapers = papers.filter(p => Boolean(interactivePaperById[p.id]));
+  const globPaperList = GLOB_MS_PAPER_LISTS[subjectId];
+  const papers =
+    globPaperList && globPaperList.length > 0
+      ? globPaperList
+      : Array.isArray(subject?.papers)
+        ? subject.papers
+        : [];
+
+  const interactivePapers = papers.filter((p) => Boolean(interactivePaperById[p.id]));
 
   const handlePaperClick = (paper) => {
     const paperData = interactivePaperById[paper.id];
