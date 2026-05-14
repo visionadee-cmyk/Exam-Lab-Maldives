@@ -1,0 +1,240 @@
+{
+  "paperId": "accounting-7707-2025-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/21",
+  "session": "May/June 2025",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Anika - Opening journal and petty cash book",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the opening journal entry on 1 March 2025.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "March 1 2025: Dr Premises $90,000, Dr Motor vehicles $14,500, Dr Inventory $3,625, Dr Trade receivables - Kofi $3,000, Dr Trade receivables - Davia $2,140, Dr Petty cash $86, Cr Bank $1,080, Cr Trade payables - Ado $1,925, Cr Trade payables - Sam $210, Cr Capital $110,136. Assets, liabilities and capital at this date.",
+          "keywords": ["journal", "opening entries"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare the petty cash book for March 2025.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Mar 1: Balance b/d $86, Bank $64. Total received $150. Mar 6: Petrol $30, Mar 10: Computer paper $12, Mar 17: Sam $48, Mar 21: Postage $6, Mar 28: Car cleaning $8. Total paid $104. Analysis: Motor expenses $38, Office expenses $18, Ledger accounts $48. Balance c/d $46. Apr 1: Balance b/d $46, Bank $104.",
+          "keywords": ["petty cash book", "balance"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare Sam's account for March 2025.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Mar 17: Petty cash $48, Mar 31: Balance c/d $219. Total $267. Mar 1: Balance b/d $210, Mar 21: Purchases $114, Mar 25: Purchases returns $57. Total $381. Apr 1: Balance b/d $219.",
+          "keywords": ["personal account", "balance"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Mo - Disposal and rental income",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Calculate the total depreciation on the delivery vehicle.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Cost $10,000. Depreciation 2021 (10,000 x 20%) $2,000, Net book value 31 Dec 2021 $8,000. Depreciation 2022 (8,000 x 20%) $1,600, Net book value 31 Dec 2022 $6,400. Depreciation 2023 (6,400 x 20%) $1,280, Net book value 31 Dec 2023 $5,120. Total depreciation = 2,000 + 1,600 + 1,280 = $4,880.",
+          "keywords": ["depreciation", "reducing balance"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare the disposal of motor vehicles account.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Mar 31: Motor vehicles $10,000. Total $10,000. Mar 31: Provision for depreciation of motor vehicles $4,880, Bank $2,900, Dec 31: Income statement $2,220. Total $10,000.",
+          "keywords": ["disposal account", "balance"]
+        },
+        {
+          "id": "2c",
+          "text": "Calculate the total cost of the new vehicle.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Cost of vehicle $12,500 + Number plates $215 = $12,715.",
+          "keywords": ["cost", "capital expenditure"]
+        },
+        {
+          "id": "2d",
+          "text": "Advise Mo whether to open a shop.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: There would be no motor expenses/no delivery costs, Can utilise his time on other aspects of the business, Might increase sales/increase customers/increase profits, He could sell his vehicle/vehicle is no longer required. Disadvantages: Cost of converting the farm building into a shop, Cost of running the shop, Customers may not be willing to travel/may prefer their goods delivered/no guarantee that customers will come/may spoil relationship with customers, New van has just been purchased. Recommendation required.",
+          "keywords": ["shop", "advantages", "disadvantages"]
+        },
+        {
+          "id": "2e",
+          "text": "Prepare the rental income account.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Jan 1: Balance b/d $160. Dec 31: Income statement (12 x $80) $960, Balance c/d $80. Total $1,120. Mar 1: Bank $320, Sep 1: Bank $720. Total $1,040. Jan 1: Balance b/d $80.",
+          "keywords": ["rental income account", "balance"]
+        },
+        {
+          "id": "2f_i",
+          "text": "Explain why Mo's gross profit margin is higher than Barry's.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "They may sell different types of produce, Mo has a higher selling price that Barry, Mo's cost of producing/cost of sales is lower than that of Barry.",
+          "keywords": ["gross profit margin"]
+        },
+        {
+          "id": "2f_ii",
+          "text": "Explain why Mo's net profit margin is higher than Barry's.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Barry has to pay rent whereas Mo does not, Mo has lower expenses/controls his expenses better, Using different accounting methods e.g. different depreciation methods.",
+          "keywords": ["net profit margin"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Nabil - Error correction",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare journal entries to correct errors 1-6.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Error 1: Dr Wages $425, Cr Purchases $425. Error 2: Dr Discount allowed $38, Cr Suspense $38. Error 3: Dr Suspense $100, Cr Sales $100. Error 4: Dr Purchases $170, Cr Bank $170. Error 5: Dr Bank $90, Cr Bank charges $90. Error 6: Dr Insurance $210, Dr Suspense $210, Cr Bank $420.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the suspense account.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Apr 30: Sales $100, Bank $210. Total $310. Apr 30: Difference on trial balance $272, Discount allowed $38. Total $310.",
+          "keywords": ["suspense account", "balance"]
+        },
+        {
+          "id": "3c",
+          "text": "Calculate the corrected cash at bank balance.",
+          "marks": 4,
+          "type": "calculation",
+          "answer": "Original cash at bank balance $935. Add Bank charges $90 = $1,025. Less Purchases $170, Insurance $420 = $590. Corrected cash at bank balance $435.",
+          "keywords": ["bank balance", "correction"]
+        },
+        {
+          "id": "3d",
+          "text": "State one purpose of preparing a bank reconciliation statement.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "To enable the customer to compare their records against those of the bank, To check the bank balance in the cash book against that shown in the bank's records, To identify the reason for any differences between the balance of bank column in the cash book and the bank statement, To discover errors/omissions in either the cash book or the bank records, To reconcile the bank statement balance with that in the cash book/help prepare bank reconciliation statement.",
+          "keywords": ["bank reconciliation"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "H Limited - Company accounts",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare the statement of changes in equity for the year ended 30 April 2025.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "On 1 May 2024: Ordinary Share capital $120,000, General reserve $20,000, Retained earnings $33,635, Total $173,635. Profit for the year $26,700. Transfer to general reserve $5,000. Dividends paid $5,340. On 30 April 2025: Ordinary Share capital $120,000, General reserve $25,000, Retained earnings $49,995, Total $194,995.",
+          "keywords": ["statement of changes in equity"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare the statement of financial position as at 30 April 2025.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "Non-current assets at book value: Fixtures and equipment $155,000, Motor vehicles $16,875, Total $171,875. Current assets: Inventory $28,120, Trade receivables $33,000 less Provision for Doubtful Debts $990 = $32,010, Total current assets $60,130. Total assets $232,005. Equity and Reserves: Ordinary share capital $120,000, General reserves $25,000, Retained earnings $49,995, Total $194,995. Non-current Liabilities: 5% Debentures $5,000. Current Liabilities: Trade payables $26,815, Bank overdraft $5,195, Total $32,010. Total Equity and Liabilities $232,005.",
+          "keywords": ["statement of financial position"]
+        },
+        {
+          "id": "4c",
+          "text": "Define equity.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "The total funds provided by the owners of a business, The difference between the assets and liabilities of a business.",
+          "keywords": ["equity"]
+        },
+        {
+          "id": "4d",
+          "text": "Calculate the return on capital employed.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "(26,700 + 250) / (194,995 + 5,000) x 100 = 26,950 / 199,995 x 100 = 13.48%. Profit adjusted for interest on debentures 250 (5% x 5,000).",
+          "keywords": ["return on capital employed"]
+        },
+        {
+          "id": "4e",
+          "text": "Advise H Limited whether to issue debentures.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Points for issuing debentures: There will be no liability once the debentures have been repaid, Issue of debentures will not reduce shareholders' stake in the company/debenture holders do not take an active part in running the company/debenture holders do not have a vote, Only have relatively low amount of loans at present, Funds may be available quickly/relatively easy to obtain. Points against issuing debentures: Interest on the debentures has to be paid/debenture interest reduces profit/fixed amount of debenture interest each year/debenture interest needs to be paid even if the company makes a loss, May be secured against the assets of the company/are repaid before shareholders if company liquidated, Debentures have to be repaid/increase liabilities, Funds must be available when repayment is due, Already have commitment to repay existing debentures. Recommendation required.",
+          "keywords": ["debentures", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Grace - Manufacturing account",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Prepare the manufacturing account for the year ended 31 March 2025.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Cost of material consumed: Opening inventory of raw material $5,345 + Purchases of raw material $72,870 + Carriage inwards of raw material $1,220 = $79,435 - Closing inventory of raw material $7,100 = $72,335. Direct wages $29,175. Prime cost $101,510. Factory overheads: Wages of factory supervisor (24,000 + 2,000) $26,000, Factory power (14,120 + 1,315) $15,435, Rent and insurance (12,000 x 65%) $7,800, Depreciation of factory equipment (180,000 - 64,800) x 20% $23,040 = $72,275. Add opening work-in-progress $13,820 = $187,605. Less closing work-in-progress $14,390. Cost of production $173,215.",
+          "keywords": ["manufacturing account", "cost of production"]
+        },
+        {
+          "id": "5b",
+          "text": "Calculate the total value of the inventory at 31 March 2025.",
+          "marks": 4,
+          "type": "calculation",
+          "answer": "255 - 3 - 15 = 237 x $14 value at cost price = $3,318. 3 x $13 value at NRV = $39. 15 cost = $14, NRV = $27 - 1.4 = $25.6 so value at cost $210. Total $3,567.",
+          "keywords": ["inventory valuation", "NRV"]
+        },
+        {
+          "id": "5c",
+          "text": "Explain the historical cost concept.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "All assets and expenses are recorded at their actual cost, Factory equipment and other costs are recorded at the amount of their actual/original cost.",
+          "keywords": ["historical cost concept"]
+        },
+        {
+          "id": "5d",
+          "text": "Advise Grace whether to produce handbags.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Points for producing handbags: Not dependent on suppliers for price/may be able to produce them more cheaply, Not dependent on suppliers for quality, Not dependent on suppliers for reliability, Possibility of higher sales/more customers/higher profit. Points against producing handbags: New equipment may be required, May be cheaper to purchase rather than make, May produce inferior quality goods/customers may be dissatisfied, May not be able to meet demand, May need additional factory space/additional storage space, Cost of production will increase/cost of raw material will increase/will need extra employees/may incur additional factory expenses. Recommendation required.",
+          "keywords": ["handbags", "advantages", "disadvantages"]
+        }
+      ]
+    }
+  ]
+}

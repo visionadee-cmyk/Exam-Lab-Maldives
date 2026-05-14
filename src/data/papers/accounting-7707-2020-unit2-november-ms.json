@@ -1,0 +1,240 @@
+{
+  "paperId": "accounting-7707-2020-unit2-november-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/22",
+  "session": "October/November 2020",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Dev - Business documents and accounts",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Complete the table to show the business document and book of prime entry for each transaction.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Transaction 2: Credit note, Sales returns journal. Transaction 3: Paying-in slip, Cash book. Transaction 4: Bank statement, Cash book.",
+          "keywords": ["business document", "book of prime entry"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare Petra's account for the month of August 2020.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Aug 1: Balance b/d $940. Aug 14: Sales returns $120. Aug 9: Sales $675. Aug 29: Bank $893. Discount allowed $47. Aug 31: Balance c/d $555. Total $1,615. Sept 1: Balance b/d $555.",
+          "keywords": ["personal account", "balance"]
+        },
+        {
+          "id": "1c",
+          "text": "State the name of the item shown in Petra's account as a current asset.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Current assets",
+          "keywords": ["current assets"]
+        },
+        {
+          "id": "1d",
+          "text": "Advise Dev whether to offer a cash discount to customers.",
+          "marks": 2,
+          "type": "essay",
+          "answer": "Advantages: Increase profit for the year, Increase cash inflow. Disadvantages: May lose customers/sales may fall, Customers may take longer to pay.",
+          "keywords": ["cash discount", "advantages", "disadvantages"]
+        },
+        {
+          "id": "1e",
+          "text": "Advise Dev whether to convert to a limited company.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Dev will have limited liability for the debts of the company, The limited company will have a separate legal identity to Dev, Dev will have access to different forms of finance/increase in capital employed. Disadvantages: The limited company will have greater regulation than Dev as a sole trader, The accounting requirements of the limited company will be more complex than for Dev as a sole trader, The financial statements of the limited company may be viewed by the public unlike those of Dev as a sole trader. Recommendation required.",
+          "keywords": ["limited company", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "BH Sports Club - Club accounts",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the subscriptions account for the year ended 31 July 2020.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Aug 1: Balance b/d $360. Jul 31: Bank $9,960. Balance c/d $720. Jul 31: Income and Expenditure $10,200. Balance c/d $120. Total $11,040. Aug 1: Balance b/d $720, Balance b/d $120.",
+          "keywords": ["subscriptions account", "balance"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare the trading account for the café for the year ended 31 July 2020.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Revenue $13,520. Cost of sales: Opening inventory $520, Purchases $8,190 = $8,710 - Closing inventory $770 = $7,940. Wages - café staff $2,770. Profit for the year $2,810.",
+          "keywords": ["trading account", "profit"]
+        },
+        {
+          "id": "2c",
+          "text": "Prepare the income and expenditure account for the year ended 31 July 2020.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "Income: Subscriptions $10,200, Profit on café $2,810 = $13,010. Expenditure: Wages - sports staff $5,220, Insurance - sports hall and sports equipment $1,390, Sports Hall expenses $3,360, Depreciation - sports hall $440, Depreciation - sports equipment $600 = $11,010. Surplus for the year $2,000.",
+          "keywords": ["income and expenditure account", "surplus"]
+        },
+        {
+          "id": "2d_i",
+          "text": "Define the term 'accumulated fund'.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "The difference between the assets and the liabilities. The accumulated surpluses earned since the club started.",
+          "keywords": ["accumulated fund"]
+        },
+        {
+          "id": "2d_ii",
+          "text": "Calculate the accumulated fund at 1 August 2019.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Increase $2,000. Accumulated fund at 1 August 2019 = Accumulated fund at 31 July 2020 - Increase = $2,000.",
+          "keywords": ["accumulated fund", "calculation"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "JP Limited - Financial statements",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Calculate the cost of sales for the year ended 30 September 2020.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Opening inventory $66,000 + Purchases $263,000 + Carriage inwards $1,500 = $330,500 - Closing inventory $59,000 = $271,500.",
+          "keywords": ["cost of sales"]
+        },
+        {
+          "id": "3b",
+          "text": "Calculate the increase in the provision for doubtful debts.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Provision at 30 September 2020 ((80,500 - 500) x 2%) = $1,600. Less Provision at 1 October 2019 $1,000. Increase in provision for doubtful debts $600.",
+          "keywords": ["provision for doubtful debts"]
+        },
+        {
+          "id": "3c",
+          "text": "Prepare the income statement for the year ended 30 September 2020.",
+          "marks": 12,
+          "type": "structured",
+          "answer": "Revenue $529,500. Less Cost of sales $271,500 = Gross profit $258,000. Less expenses: Administrative expenses (44,000 - 1,200) $42,800, Distribution costs (38,000 + 800) $38,800, Irrecoverable debts $500, Provision for doubtful debts $600, Depreciation - non-current assets $61,000 = $143,700. Profit from operations $114,300. Debenture interest (700 + 700) $1,400. Profit for the year $112,900.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "3d",
+          "text": "State the effect of each item on capital employed.",
+          "marks": 4,
+          "type": "short_answer",
+          "answer": "Issue of additional debentures: Increase. Issue of additional ordinary shares: Increase. Payment of ordinary share dividend: No effect. Proposal of ordinary share dividend: No effect. Transfer from retained earnings to general reserve: No effect.",
+          "keywords": ["capital employed", "effect"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ratio analysis and financing",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Calculate the profit for the year ended 30 September 2020.",
+          "marks": 1,
+          "type": "calculation",
+          "answer": "Profit for the year $240,000 - $169,000 - $55,000 = $16,000.",
+          "keywords": ["profit"]
+        },
+        {
+          "id": "4b",
+          "text": "Calculate the profit margin, gross margin, and return on capital employed.",
+          "marks": 6,
+          "type": "calculation",
+          "answer": "Profit margin = (16,000 / 240,000) x 100 = 6.67%. Gross margin = (240,000 - 169,000) / 240,000 x 100 = 29.58%. Return on capital employed (ROCE) = (16,000 / 62,000) x 100 = 25.81%.",
+          "keywords": ["profit margin", "gross margin", "ROCE"]
+        },
+        {
+          "id": "4c",
+          "text": "Comment on the performance of JP Limited.",
+          "marks": 6,
+          "type": "essay",
+          "answer": "Profit margin: Has worsened from 8.56% to 6.67%. Possible causes: Increase in expenses, Poor control over expenses. Gross margin: Has worsened from 34.26% to 29.58%. Possible causes: Reduction in selling price, Purchasing from more expensive suppliers/increased cost of sales. Return on capital employed: Has worsened from 32.08% to 25.81%. Possible causes: Increased capital employed, Less efficient use of its resources.",
+          "keywords": ["ratio analysis", "performance"]
+        },
+        {
+          "id": "4d",
+          "text": "Advise JP Limited whether to introduce additional capital or take a loan.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Introduce additional capital: Advantages - Does not have to be repaid, No interest cost. Disadvantages - May not have enough available funds, Greater personal risk. Loan: Advantages - Instantly available, Has two years to pay it off. Disadvantages - Annual interest is charged, Must be repaid, Security may be required. Recommendation required.",
+          "keywords": ["capital", "loan", "advantages", "disadvantages"]
+        },
+        {
+          "id": "4e",
+          "text": "Identify interested parties and their interest.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Suppliers/potential suppliers: To assess whether outstanding debts are likely to be paid. Bank: To assess the likelihood of loan/overdraft being repaid when due, To assess the ability to pay interest on a loan/overdraft, To assess the availability of security for a loan. Lenders/potential lenders: To assess the likelihood of a loan being repaid when due, To assess the ability to pay interest on a loan, To assess the availability of security for a loan. Investors/potential partners: To assess future prospects of the business, To assess profitability. Government/tax authorities: To assess the tax due from the owner of the business.",
+          "keywords": ["interested parties", "financial statements"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Razia - Errors and suspense",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Prepare the suspense account.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Sep 30: Sales returns $300, Difference on trial balance $200, Motor repairs $180, Rent receivable $310, Kamil $900, Rent payable $310. Total $1,100.",
+          "keywords": ["suspense account", "balance"]
+        },
+        {
+          "id": "5b",
+          "text": "Identify the type of error for errors 2 and 4.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Error 2: Error of omission. Error 4: Error of transposition in one account.",
+          "keywords": ["errors", "types"]
+        },
+        {
+          "id": "5c",
+          "text": "State the effect of each error on profit.",
+          "marks": 7,
+          "type": "short_answer",
+          "answer": "Error 1: Increase profit. Error 2: Decrease profit. Error 3: No effect on profit. Error 4: Decrease profit. Error 5: Increase profit. Error 6: Decrease profit. Error 7: Increase profit.",
+          "keywords": ["errors", "profit"]
+        },
+        {
+          "id": "5d",
+          "text": "Advise Razia whether to sell only for cash.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Less book-keeping, No irrecoverable debts, Cash received immediately. Disadvantages: May lose customers/sales may reduce, May adversely affect customer relationships/customer loyalty, Increased security issues. Recommendation required.",
+          "keywords": ["cash sales", "advantages", "disadvantages"]
+        }
+      ]
+    }
+  ]
+}

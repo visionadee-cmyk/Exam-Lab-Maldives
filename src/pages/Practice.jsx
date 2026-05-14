@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useState, useEffect, useLayoutEffect } from 'react';
+import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { QuestionCard } from '../components/QuestionCard';
 import { useQuestions } from '../hooks/useQuestions';
 import { 
@@ -11,33 +11,171 @@ import {
   Trophy
 } from 'lucide-react';
 import { cn } from '../utils/cn';
+import {
+  LAST_PRACTICE_SUBJECT_KEY,
+  defaultPracticeSubjectId,
+  normalizePracticeSubjectId
+} from '../lib/practicePrefs';
+import { getAllBiologyPracticeQuestions } from '../data/biologyPracticePool';
 
-// Questions loaded from Firestore only - no demo data
+// Questions: Firestore for most subjects; bundled JSON for biology IGCSE (reliable offline / empty DB).
+const PRACTICE_BUILD_ID = 'nested-exam-lab-mv';
+
+function PracticeDiagnostics({
+  location,
+  subjectFromState,
+  subjectFromPath,
+  subjectFromQuery,
+  subjectFromStorage,
+  subject,
+  topic,
+  questions,
+  usedBiologyFallback
+}) {
+  const poolSize = getAllBiologyPracticeQuestions().length;
+  const qState =
+    questions === null ? 'loading(null)' : `array(len=${questions.length})`;
+  const payload = {
+    build: PRACTICE_BUILD_ID,
+    pathname: location.pathname,
+    search: location.search,
+    subjectFromState,
+    subjectFromPath,
+    subjectFromQuery,
+    subjectFromStorage,
+    resolvedSubject: subject,
+    topic,
+    biologyPoolQuestionCount: poolSize,
+    questionsState: qState,
+    usedBiologyFallback
+  };
+  return (
+    <details className="mt-6 text-left border border-gray-200 rounded-lg p-3 bg-gray-50">
+      <summary className="cursor-pointer text-sm font-medium text-gray-700">
+        Practice diagnostics (tap to expand)
+      </summary>
+      <pre className="mt-2 text-xs overflow-x-auto whitespace-pre-wrap break-words text-gray-800">
+        {JSON.stringify(payload, null, 2)}
+      </pre>
+      <p className="mt-2 text-xs text-gray-500">
+        If <code className="bg-gray-200 px-1 rounded">build</code> shows{' '}
+        <code className="bg-gray-200 px-1 rounded">nested-exam-lab-mv</code>, Vercel is building the{' '}
+        <code className="bg-gray-200 px-1 rounded">exam-lab-mv/</code> folder — keep that copy in sync
+        with <code className="bg-gray-200 px-1 rounded">src/</code> or change the Vercel &quot;Root
+        Directory&quot; to the repo root.
+      </p>
+    </details>
+  );
+}
+
+function shuffleCopy(arr) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function pickBiologyPracticeQuestions(topic, count = 10) {
+  const all = getAllBiologyPracticeQuestions();
+  if (!all.length) return [];
+  let pool = all;
+  if (topic?.trim()) {
+    const t = topic.trim().toLowerCase();
+    const narrowed = all.filter((q) => (q.text || '').toLowerCase().includes(t));
+    if (narrowed.length) pool = narrowed;
+  }
+  return shuffleCopy(pool).slice(0, count);
+}
 
 export function Practice() {
   const location = useLocation();
   const navigate = useNavigate();
-  const { subject, topic, mode } = location.state || {};
+  const { subjectId: subjectFromPath } = useParams();
+  const [searchParams] = useSearchParams();
+  const { topic, mode } = location.state || {};
+  const subjectFromState = location.state?.subject;
+  const subjectFromQuery = searchParams.get('subject');
+  const subjectFromStorage =
+    typeof window !== 'undefined'
+      ? window.localStorage.getItem(LAST_PRACTICE_SUBJECT_KEY)
+      : null;
+  const subject =
+    normalizePracticeSubjectId(
+      subjectFromState ??
+        subjectFromPath ??
+        subjectFromQuery ??
+        subjectFromStorage
+    ) ?? defaultPracticeSubjectId();
+
+  useEffect(() => {
+    if (subject) {
+      try {
+        window.localStorage.setItem(LAST_PRACTICE_SUBJECT_KEY, subject);
+      } catch {
+        /* ignore quota / private mode */
+      }
+    }
+  }, [subject]);
   
-  const [questions, setQuestions] = useState([]);
+  /** null = still loading; [] = none; otherwise question list */
+  const [questions, setQuestions] = useState(null);
+  const [usedBiologyFallback, setUsedBiologyFallback] = useState(false);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState({});
   const [showResults, setShowResults] = useState(false);
   const [score, setScore] = useState(0);
-  const { loading, fetchQuestions } = useQuestions();
+  const { fetchQuestions } = useQuestions();
 
   useEffect(() => {
-    // Load questions from Firestore
+    setCurrentIndex(0);
+    setAnswers({});
+    setShowResults(false);
+    setScore(0);
+  }, [subject, topic]);
+
+  // Biology: synchronous pool before paint (avoids a flash of loading / empty UI).
+  useLayoutEffect(() => {
+    if (subject !== 'biology_igcse') return;
+    const local = pickBiologyPracticeQuestions(topic, 10);
+    setQuestions(local);
+    setUsedBiologyFallback(false);
+  }, [subject, topic]);
+
+  useEffect(() => {
+    if (subject === 'biology_igcse') return;
+
+    let cancelled = false;
+
     const loadQuestions = async () => {
+      setQuestions(null);
+      setUsedBiologyFallback(false);
+
       const filters = {};
       if (subject) filters.subject = subject;
       if (topic) filters.topic = topic;
-      
+
       const data = await fetchQuestions(filters, 10);
-      setQuestions(data);
+      if (cancelled) return;
+
+      if (data.length > 0) {
+        setQuestions(data);
+        setUsedBiologyFallback(false);
+        return;
+      }
+
+      const fallback = pickBiologyPracticeQuestions(topic, 10);
+      if (!cancelled) {
+        setQuestions(fallback.length > 0 ? fallback : []);
+        setUsedBiologyFallback(fallback.length > 0);
+      }
     };
-    
+
     loadQuestions();
+    return () => {
+      cancelled = true;
+    };
   }, [subject, topic, mode, fetchQuestions]);
 
   const handleAnswer = (answer) => {
@@ -73,7 +211,9 @@ export function Practice() {
         if (q.type === 'mcq') {
           isCorrect = answer === q.correctAnswer;
         } else {
-          isCorrect = answer.toLowerCase().trim() === q.correctAnswer.toLowerCase().trim();
+          const expected = String(q.correctAnswer ?? '').toLowerCase().trim();
+          const got = String(answer).toLowerCase().trim();
+          isCorrect = got === expected;
         }
         if (isCorrect) {
           correct++;
@@ -93,17 +233,67 @@ export function Practice() {
     setScore(0);
   };
 
-  const currentQuestion = questions[currentIndex];
-  const progress = ((currentIndex + 1) / questions.length) * 100;
+  const totalMarks =
+    Array.isArray(questions) && questions.length > 0
+      ? questions.reduce((sum, q) => sum + (q?.marks || 1), 0)
+      : 0;
+
+  const currentQuestion = Array.isArray(questions) ? questions[currentIndex] : undefined;
+  const progress =
+    Array.isArray(questions) && questions.length > 0
+      ? ((currentIndex + 1) / questions.length) * 100
+      : 0;
   const answeredCount = Object.keys(answers).length;
+
+  if (questions === null) {
+    return (
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <div className="flex flex-col items-center justify-center py-12 text-gray-600">
+          <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-primary-600 mb-4" />
+          <p className="text-sm">Loading questions…</p>
+        </div>
+        <PracticeDiagnostics
+          location={location}
+          subjectFromState={subjectFromState}
+          subjectFromPath={subjectFromPath}
+          subjectFromQuery={subjectFromQuery}
+          subjectFromStorage={subjectFromStorage}
+          subject={subject}
+          topic={topic}
+          questions={questions}
+          usedBiologyFallback={usedBiologyFallback}
+        />
+      </div>
+    );
+  }
 
   if (questions.length === 0) {
     return (
-      <div className="text-center py-12">
-        <p>No questions available. Please try again.</p>
-        <button onClick={() => navigate('/subjects')} className="btn-primary mt-4">
-          Back to Subjects
-        </button>
+      <div className="max-w-3xl mx-auto px-4 py-8 text-center space-y-4">
+        <p>No questions available. Try Biology practice (works offline) or pick another subject.</p>
+        <div className="flex flex-col sm:flex-row gap-3 justify-center">
+          <button
+            type="button"
+            onClick={() => navigate('/practice/biology_igcse')}
+            className="btn-primary"
+          >
+            Biology IGCSE practice
+          </button>
+          <button type="button" onClick={() => navigate('/subjects')} className="btn-secondary">
+            Back to Subjects
+          </button>
+        </div>
+        <PracticeDiagnostics
+          location={location}
+          subjectFromState={subjectFromState}
+          subjectFromPath={subjectFromPath}
+          subjectFromQuery={subjectFromQuery}
+          subjectFromStorage={subjectFromStorage}
+          subject={subject}
+          topic={topic}
+          questions={questions}
+          usedBiologyFallback={usedBiologyFallback}
+        />
       </div>
     );
   }
@@ -119,6 +309,13 @@ export function Practice() {
           <ArrowLeft className="w-4 h-4 mr-1" />
           Exit Practice
         </button>
+
+        {usedBiologyFallback && (
+          <p className="text-sm text-amber-900 bg-amber-50 border border-amber-100 rounded-lg px-3 py-2 mb-4">
+            No questions in the online bank for this subject yet. Showing sample{' '}
+            <strong>Cambridge IGCSE Biology (0610)</strong> questions from the app library.
+          </p>
+        )}
         
         <div className="flex items-center justify-between">
           <div>
@@ -201,7 +398,7 @@ export function Practice() {
           
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Practice Complete!</h2>
           <p className="text-gray-600 mb-6">
-            You scored {score} out of {questions.reduce((sum, q) => sum + (q.marks || 1), 0)} marks
+            You scored {score} out of {Math.max(1, totalMarks)} marks
           </p>
 
           <div className="grid grid-cols-3 gap-4 mb-6">
@@ -213,7 +410,7 @@ export function Practice() {
             </div>
             <div className="p-4 bg-green-50 rounded-lg">
               <div className="text-2xl font-bold text-green-600">
-                {Math.round((score / questions.reduce((sum, q) => sum + (q.marks || 1), 0)) * 100)}%
+                {Math.round((score / Math.max(1, totalMarks)) * 100)}%
               </div>
               <div className="text-sm text-green-700">Accuracy</div>
             </div>
@@ -239,6 +436,18 @@ export function Practice() {
           </div>
         </div>
       )}
+
+      <PracticeDiagnostics
+        location={location}
+        subjectFromState={subjectFromState}
+        subjectFromPath={subjectFromPath}
+        subjectFromQuery={subjectFromQuery}
+        subjectFromStorage={subjectFromStorage}
+        subject={subject}
+        topic={topic}
+        questions={questions}
+        usedBiologyFallback={usedBiologyFallback}
+      />
     </div>
   );
 }

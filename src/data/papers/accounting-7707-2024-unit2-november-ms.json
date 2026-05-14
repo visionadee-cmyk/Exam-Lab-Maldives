@@ -1,0 +1,280 @@
+{
+  "paperId": "accounting-7707-2024-unit2-november-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/22",
+  "session": "October/November 2024",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Kalima - Cash book",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the cash book for September 2024.",
+          "marks": 13,
+          "type": "structured",
+          "answer": "Sept 1: Balance b/d Cash $240, Bank $890. Sept 3: Sales Cash $478. Sept 14: Elizah Discount allowed $13, Cash $507, Bank $507. Sept 16: Cash $120, Bank $120. Sept 21: Gulnar Discount received $4, Bank $196. Sept 30: Balance c/d Cash $516, Bank $2,029. Total Cash $13,718, Bank $4,718. Oct 1: Balance b/d Cash $516, Bank $2,029.",
+          "keywords": ["cash book", "balance"]
+        },
+        {
+          "id": "1b",
+          "text": "State the type of bank balance.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Bank overdraft",
+          "keywords": ["bank overdraft"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare Elizah's account for September 2024.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Sept 1: Balance b/d $520. Sept 23: Sales $1,450. Total $1,970. Sept 14: Bank $507, Discount allowed $13, Sept 29: Sales returns $325, Balance c/d $1,125. Total $1,970. Oct 1: Balance b/d $1,125.",
+          "keywords": ["personal account", "balance"]
+        },
+        {
+          "id": "1d",
+          "text": "State one current asset.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Current Assets",
+          "keywords": ["current assets"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ben - Capital account",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Calculate the capital at 1 April 2023 and 31 March 2024.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Capital at 1 April 2023: 140,000 + 92,000 - 10,000 + 24,600 + 39,600 - 24,750 - 3,200 + 1,650 = 259,900. Capital at 31 March 2024: 140,000 + 106,000 - 36,000 + 42,000 + 43,400 - 19,700 + 13,000 + 1,200 = 289,900.",
+          "keywords": ["capital"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare the capital account for the year ended 31 March 2024.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Capital at 1 April 2023 $259,900. Added to opening capital: Capital introduced $10,000, Profit for the year $20,620. Total adjustments $30,620. Deducted from opening capital: Drawings $620. Total $30,000. Capital at 31 March 2024 $289,900.",
+          "keywords": ["capital account", "balance"]
+        },
+        {
+          "id": "2c_i",
+          "text": "Calculate the purchases for the year ended 31 March 2024.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Payments to credit suppliers $224,700 + Closing trade payables $19,700 = $244,400 - Opening trade payables $24,750 = $219,650 - Drawings $620 = $219,030.",
+          "keywords": ["purchases"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "Calculate the total sales for the year ended 31 March 2024.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Payments received from credit customers $452,000 + Closing trade receivables $43,400 = $495,400 - Opening trade receivables $39,600 = $455,800 + Cash sales $21,000 = $476,800.",
+          "keywords": ["sales"]
+        },
+        {
+          "id": "2d",
+          "text": "Advise Ben whether to employ a book-keeper.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Preparation of financial statements would be quicker/easier, Better control over business activities/able to track transactions/income and expenses, Chances of fraud reduced/errors may be reduced, Comparison with previous years/aids decision making, Information required by a bank/investor readily available, Allow Ben time to concentrate on other business activities. Disadvantages: Salary of book-keeper to pay, Profit may not be adequate to cover the cost of employing the book-keeper, Additional costs on top of salary paid, Problems of recruiting suitable/trained candidate. Recommendation required.",
+          "keywords": ["book-keeper", "advantages", "disadvantages"]
+        },
+        {
+          "id": "2e_i",
+          "text": "Name the accounting concept that relates to the provision for doubtful debts.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Prudence or Matching/accruals",
+          "keywords": ["accounting concept"]
+        },
+        {
+          "id": "2e_ii",
+          "text": "State the effect of increasing the provision for doubtful debts.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Profit for the year: Decrease. Trade receivables: Decrease. Cash at bank: No effect.",
+          "keywords": ["provision for doubtful debts", "effect"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Sports T club - Club accounts",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the cafe income statement for the year ended 31 December 2023.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Cafe sales $27,000. Cost of sales: Opening inventory $1,290 + Purchases of food & drink $8,220 = $9,510 - Closing inventory $1,340 = $8,170. Gross profit $18,830. Expenses: Wages - café assistant $14,352. Profit for the year - cafe $4,478.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the subscriptions account for the year ended 31 December 2023.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Jan 1: Balance b/d $1,520. Dec 31: Bank or Cash $162,000, Balance c/d $2,800. Total $163,280. Dec 31: Income & Expenditure Account $158,960, Balance c/d $1,280. Total $163,280. Jan 1: Balance b/d $1,280, Balance b/d $2,800.",
+          "keywords": ["subscriptions account", "balance"]
+        },
+        {
+          "id": "3c",
+          "text": "Prepare the income and expenditure account for the year ended 31 December 2023.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Income: Profit from the cafe $4,478, Subscriptions $158,960, Bank interest $720. Total $164,158. Expenditure: Wages: Sports coaches $58,220, Administration salaries $31,720, Rent (16,250 - 1,250) $15,000, Sports equipment hire $34,800, Rates & insurance $3,200, Accountancy fees $2,400. Total $145,340. Surplus for the year $18,818.",
+          "keywords": ["income and expenditure account", "surplus"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Y Limited - Company accounts",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Distinguish between a public limited company and a private limited company.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "A public limited company is allowed to offer its shares to the public whereas a private limited company cannot. Or A public limited company has to publish its financial statements whereas a private limited company does not.",
+          "keywords": ["public limited company", "private limited company"]
+        },
+        {
+          "id": "4b",
+          "text": "Distinguish between issued share capital and called up share capital.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Issued share capital is the amount of share capital issued to the shareholders. Called up share capital is the part of issued share capital for which payment has been requested from the shareholders.",
+          "keywords": ["issued share capital", "called up share capital"]
+        },
+        {
+          "id": "4c",
+          "text": "State two advantages of a limited company.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Liability for the debts of the company is limited to the amount invested by the shareholder, Separate legal identity/legal action cannot be taken against the individual shareholders of the company, Access to additional capital/easier to obtain loans, Has continuity of existence.",
+          "keywords": ["limited company", "advantages"]
+        },
+        {
+          "id": "4d",
+          "text": "Prepare the statement of changes in equity for the year ended 31 December 2023.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "On 1 January 2023: Ordinary Share Capital $800,000, General Reserve $78,000, Retained Earnings $62,000, Total $940,000. Profit for the year $118,500. Dividend paid (final) $43,000, Dividend paid (interim) $40,000, Transfer to general reserve $32,000. On 31 December 2023: Ordinary Share Capital $800,000, General Reserve $110,000, Retained Earnings $65,500, Total $975,500.",
+          "keywords": ["statement of changes in equity"]
+        },
+        {
+          "id": "4e",
+          "text": "Prepare the extract from statement of financial position at 31 December 2023.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Equity: Ordinary Shares $800,000, General reserve $110,000, Retained earnings $65,500. Total $975,500.",
+          "keywords": ["statement of financial position"]
+        },
+        {
+          "id": "4f",
+          "text": "Advise Y Limited whether to issue debentures or ordinary shares.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Issuing debentures: Annual interest is payable, Are a liability/are a loan/must be repaid, If company is wound up they are repaid before ordinary shareholders, Debenture holders are not members of the company/cannot vote, Issue of debentures will not dilute the control of the existing ordinary shareholders, Interest is a fixed amount (and so can be budgeted for), Interest must be paid irrespective of profits, May be secured on the non-current assets of the company, Issue may not raise adequate funds. Issuing ordinary shares: A dividend may be paid, Do not have to be repaid, If company is wound up they are repaid after debenture holders, Shares will carry same voting rights/rank equally as existing shares, May dilute control of existing shareholders (if some purchase a greater proportion of shares), Dividend is not fixed (and may depend on profit levels), Directors can decide on amount of dividend they will pay, May take longer to raise the funds, Issue may not raise adequate funds. Recommendation required.",
+          "keywords": ["debentures", "ordinary shares", "advantages", "disadvantages"]
+        },
+        {
+          "id": "4g",
+          "text": "Classify debentures.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Non-current liabilities/Long-term-liabilities",
+          "keywords": ["debentures", "classification"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ratio analysis",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Calculate the inventory turnover, trade receivables turnover, and trade payables turnover.",
+          "marks": 7,
+          "type": "calculation",
+          "answer": "Inventory turnover = (24,074 + 278,429 - 25,600) / ((24,074 + 25,600) / 2) = 276,903 / 24,837 = 11.15 times. Trade receivables turnover = 42,375 / 392,600 x 365 = 40 days. Trade payables turnover = 21,603 / 278,429 x 365 = 29 days.",
+          "keywords": ["inventory turnover", "trade receivables turnover", "trade payables turnover"]
+        },
+        {
+          "id": "5b",
+          "text": "Advise whether to use a debt collection company.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Reduced administration – debt collection company will manage debt collection, Owner can spend more time on other areas of the business, Money received from credit customers quicker/improved cashflow/improved liquidity/trade receivables turnover will improve, Reduced risk of irrecoverable debts, Reduced need to borrow to finance working capital. Disadvantages: Cost/fees of debt collection company, May damage relationship with customer, Credit sales may reduce, Maybe a lack of communication between the agency and the owner/may not be effective in improving debt collection. Recommendation required.",
+          "keywords": ["debt collection", "advantages", "disadvantages"]
+        },
+        {
+          "id": "5c",
+          "text": "Suggest two methods to improve the collection of trade receivables.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Improve credit control policy, Issue regular statements & invoices, Offer cash discount for prompt payment, Charge interest on overdue accounts.",
+          "keywords": ["trade receivables", "collection"]
+        },
+        {
+          "id": "5d_i",
+          "text": "Suggest one way to increase the gross profit margin.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Reduce cost of purchases, Increase selling price, Changing the proportions of types of goods sold.",
+          "keywords": ["gross profit margin"]
+        },
+        {
+          "id": "5d_ii",
+          "text": "Suggest one way to increase the net profit margin.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Improve gross profit, Control/reduce overall expenses, Increasing other income.",
+          "keywords": ["net profit margin"]
+        },
+        {
+          "id": "5e_i",
+          "text": "Prepare the journal entry to correct the error.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Dr Drawings $340, Cr Purchases $340.",
+          "keywords": ["journal", "correction"]
+        },
+        {
+          "id": "5e_ii",
+          "text": "State the effect of the correction on gross profit and closing capital.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Gross profit: increase. Closing capital: decrease.",
+          "keywords": ["correction", "effect"]
+        }
+      ]
+    }
+  ]
+}

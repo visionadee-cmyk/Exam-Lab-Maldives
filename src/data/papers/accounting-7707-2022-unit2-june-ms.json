@@ -1,0 +1,216 @@
+{
+  "paperId": "accounting-7707-2022-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/21",
+  "session": "May/June 2022",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Nakul - Purchases and returns",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the purchases journal for January 2022.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Jan 12: Nadia (350 - 70) $280. Jan 18: Nadia (400 - 80) $320. Jan 29: Sophie $60. Jan 31: Transfer to purchases account $660.",
+          "keywords": ["purchases journal", "trade discount"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare the purchases returns journal for January 2022.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Jan 14: Nadia (80 - 16) $64. Jan 30: Sophie $9. Jan 31: Transfer to purchases returns account $73.",
+          "keywords": ["purchases returns journal"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare Nadia's account for January 2022.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Jan 2: Bank $441, Discount $9, Purchases returns $64, Balance c/d $536. Total $1,050. Jan 1: Balance b/d $450, Jan 12: Purchases $280, Jan 18: Purchases $320, Feb 1: Balance b/d $536.",
+          "keywords": ["personal account", "balance"]
+        },
+        {
+          "id": "1d",
+          "text": "Classify each item as a current liability or non-current liability.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Trade payables: Current liability. Bank overdraft: Current liability.",
+          "keywords": ["current liabilities", "non-current liabilities"]
+        },
+        {
+          "id": "1e",
+          "text": "Advise Nakul whether to extend the credit period with Nadia.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Would delay the outflow of cash/will reduce bank overdraft, May reduce bank overdraft charges/interest, Overdraft charges may be higher than cash discount offered by suppliers, May currently be paying Nadia/suppliers quicker than is necessary. Disadvantages: May lose the cash discount allowed by Nadia/suppliers, Nadia/suppliers may charge interest on late payment, Nadia/suppliers may stop supplying or reduce the amount they supply/may damage relationship with suppliers, There may be better methods of improving cash flow (e.g. selling on cash terms). Recommendation required.",
+          "keywords": ["credit period", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Fatima - Sole trader",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the income statement for the year ended 31 March 2022.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Revenue $79,400 - Returns $3,970 = $75,430. Cost of sales: Opening inventory $3,000 + Purchases $36,500 - Less goods for own use $1,300 = $35,200 - Closing inventory $3,120 = $35,080. Gross profit $40,350. Add Discount received $1,095 = $41,445. Less Expenses: Rent and rates (9000 - [2/3 × 1500]) $8,000, Wages (10,100 + 800) $10,900, General expenses $1,287, Insurance $1,800, Irrecoverable debts $200, Provision for doubtful debts ([6400 - 200] × 3% = 186 - 156) $30, Depreciation of fixtures and equipment ([80,000 - 39,040] × 20%) $8,192 = $30,409. Profit for the year $11,036.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare the capital account for the year ended 31 March 2022.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "March 31: Drawings (8,580 + 1,300) $9,880, Balance c/d $60,156. Total $70,036. April 1: Balance b/d $59,000, March 31: Profit for the year $11,036. Total $70,036.",
+          "keywords": ["capital account", "balance"]
+        },
+        {
+          "id": "2c",
+          "text": "Advise Fatima whether to accept the bank loan.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "In favour of accepting bank loan: Liability to bank ends after 4 years/do not have to repay until 4 years' time, The interest would only need to be paid for four years, Repayment of interest and loan when due improves relationship with bank, Other ways of raising finance may require commitment for a longer period of time, May be the best way for sole trader with limited access to funds to obtain extra finance. Against accepting bank loan: Bank loan has to be repaid by set date in future, Bank may require security/personal assets may be at risk, May find it difficult to repay the loan in 4 years' time, Loan interest must be paid even if short of liquid funds, There may be more appropriate ways of raising the finance. Recommendation required.",
+          "keywords": ["bank loan", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Jules - Error correction",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the journal entry for the purchase of hairdressing equipment.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "April 30 2022: Dr Equipment $1,900, Cr YZH Limited $1,900. Purchase of hairdressing equipment on credit from YZH Limited.",
+          "keywords": ["journal", "equipment"]
+        },
+        {
+          "id": "3b",
+          "text": "State the effect of each item on profit.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Heat and light: Increase in profit. Depreciation: Decrease in profit. Insurance: Decrease in profit.",
+          "keywords": ["profit", "effect"]
+        },
+        {
+          "id": "3c",
+          "text": "Prepare journal entries to correct errors 1-5.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Error 1: Dr General expenses $28, Cr Suspense $28. Error 2: Dr Isaac $36, Cr Suspense $36. Error 3: Dr Wages $144, Cr Bank $144. Error 4: Dr Suspense $76, Cr Discount received $76. Error 5: Dr Commission receivable $200, Cr Rent $200.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "3d",
+          "text": "Prepare the suspense account.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "April 30 2022: Discount received $76. April 30 2022: Difference on trial balance $12, General expenses $28, Isaac $36. Total $76.",
+          "keywords": ["suspense account", "balance"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ratio analysis",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Calculate the gross margin, profit margin, rate of inventory turnover, current ratio, and liquid ratio.",
+          "marks": 11,
+          "type": "calculation",
+          "answer": "Gross margin = ((112,300 - 12,800 - 72,250 - 14,650) / 112,300) × 100 = 37.31%. Profit margin = ((41,900 - 19,820) / 112,300) × 100 = 19.66%. Rate of inventory turnover = (12,800 + 72,250 - 14,650) / ((12,800 + 14,650) / 2) = 5.13 times. Current ratio = (14,650 + 12,700) : (7,125 + 5,375) = 27,350 : 12,500 = 2.19 : 1. Liquid ratio = 12,700 : (7,125 + 5,375) = 12,700 : 12,500 = 1.02 : 1.",
+          "keywords": ["gross margin", "profit margin", "inventory turnover", "current ratio", "liquid ratio"]
+        },
+        {
+          "id": "4b",
+          "text": "Advise whether to purchase the additional inventory.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: May be able to increase sales/gain more customers by reducing selling price, May be able to increase sales/gain more customers by extra advertising, Profit may increase if sales increase, The gross margin may improve, Can respond to increase in demand, The inventory should not lose value. Disadvantages: Expenses increase/profit decreases due to the increased advertising costs, Demand for that particular type of inventory may decrease, Inventory may deteriorate over time, Goods may be of inferior quality, Already has a large amount of inventory, May increase storage costs, May require an increased bank overdraft/reduce liquidity/decrease liquid ratio, Advertising does not guarantee increase in sales. Recommendation required.",
+          "keywords": ["inventory", "advantages", "disadvantages"]
+        },
+        {
+          "id": "4c",
+          "text": "Explain the consistency concept.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Accounting methods must be used consistently from one accounting period to the next. This means that accurate comparisons can be made from year to year.",
+          "keywords": ["consistency concept"]
+        },
+        {
+          "id": "4d",
+          "text": "State two non-financial factors that may affect the future performance.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Business reputation/goodwill, Reliability of workforce/skills of workforce/staff morale/working conditions, Actions of competitors, Government decisions, Location of business.",
+          "keywords": ["non-financial factors"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Sew and Soup Club - Club accounts",
+      "parts": [
+        {
+          "id": "5a_i",
+          "text": "Prepare the subscriptions account for the two years ended 31 December 2021 and 31 December 2022.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "2021 Jan 1: Balance b/d $1,820, Dec 31: Income and expenditure account $14,710, Balance c/d $1,745. Total $18,275. 2022 Jan 1: Balance b/d $2,115, Bank $13,900, Balance c/d $2,115. Total $18,275. 2021 Jan 1: Balance b/d $2,260, 2022 Jan 1: Balance b/d $1,745.",
+          "keywords": ["subscriptions account", "balance"]
+        },
+        {
+          "id": "5a_ii",
+          "text": "Explain whether the treasurer should be pleased.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "The amount received was less that the subscriptions due for the year, Subscriptions in advance have decreased, Subscriptions in arrears have increased. The treasurer should not be pleased with this situation.",
+          "keywords": ["subscriptions", "treasurer"]
+        },
+        {
+          "id": "5b",
+          "text": "Calculate the profit on refreshments for the year ended 31 December 2022.",
+          "marks": 7,
+          "type": "calculation",
+          "answer": "Revenue $17,650. Cost of sales: Opening inventory $1,070, Purchases (1,580 + 10,435 - 1,940) $10,075 = $11,145 - Closing inventory $1,130 = $10,015. Profit on refreshments $7,635.",
+          "keywords": ["profit", "refreshments"]
+        },
+        {
+          "id": "5c",
+          "text": "Prepare the statement of financial position (extract) at 31 December 2022.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Current assets: Inventory $1,130, Other receivables (500 + 2,115) $2,615, Bank $7,743. Total $11,488.",
+          "keywords": ["statement of financial position", "current assets"]
+        }
+      ]
+    }
+  ]
+}

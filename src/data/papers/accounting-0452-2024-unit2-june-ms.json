@@ -1,0 +1,227 @@
+{
+  "paperId": "accounting-0452-2024-unit2-june-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/21",
+  "session": "May/June 2024",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the sales journal for Addo for April 2024.",
+      "answer": "Sales journal: Apr 2 Ava (150 - 9) $141, Apr 12 Nuru $165, Apr 21 Mahia (480 - 24) $456, Apr 30 Transfer to sales account $762.",
+      "marks": 3
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the journal entry to write off the amount due from Rachel as an irrecoverable debt.",
+      "answer": "Journal: Apr 30 2024, Debit Irrecoverable debts $215, Credit Rachel $215, Amount due from Rachel written off as irrecoverable.",
+      "marks": 3
+    },
+    {
+      "id": "q1ci",
+      "number": "1(c)(i)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Calculate the total amount received from credit customers in April 2024.",
+      "answer": "Total amount received = $689 + $627 + $760 = $2076.",
+      "marks": 1
+    },
+    {
+      "id": "q1cii",
+      "number": "1(c)(ii)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Calculate the total cash discount allowed in April 2024.",
+      "answer": "Total cash discount = $40 + $33 = $73.",
+      "marks": 2
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the sales ledger control account for Addo for April 2024.",
+      "answer": "Sales ledger control account: Debit side - Apr 1 2024 Balance b/d $3658, Apr 30 2024 Sales $762 = $4420. Credit side - Apr 30 2024 Sales returns $30, Bank $2076, Discount allowed $73, Irrecoverable debts $215, Balance c/d $2026 = $4420. May 1 2024 Balance b/d $2026.",
+      "marks": 6
+    },
+    {
+      "id": "q1e",
+      "number": "1(e)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of increasing the cash discount and make a recommendation.",
+      "answer": "Advantages: Increased cash discount may encourage new customers/existing customers to buy more/increase sales, More customers may pay early because of extra discount/improve liquidity, Irrecoverable debts may be reduced, Increased credit check indicates ability to pay. Disadvantages: More credit checks would take more time/cost more money, Less money coming in from sales, No guarantee that customers will pay early, Less profit on each sale/profit for the year will be reduced/expenses increased if give cash discount, No guarantee that there will not be any irrecoverable debts. Recommendation: Should increase the cash discount.",
+      "marks": 5
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Prepare journal entries to correct the errors in Paul's books.",
+      "answer": "Error 1: Debit Purchases $140, Credit Office equipment $140. Error 2: Debit Bank $18, Credit Discount received $18. Error 3: Debit Carriage inwards $82, Credit Carriage outwards $82, Credit Suspense $164. Error 4: Debit Insurance $750, Credit Bank $750. Error 5: Debit Bank $90, Credit Suspense $90.",
+      "marks": 11
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Calculate the corrected bank balance for Paul.",
+      "answer": "Original cash at bank balance per draft financial statements $3290, Error 2 $18, Error 4 ($750), Error 5 $90, Bank balance after correcting errors $2648.",
+      "marks": 4
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Calculate the corrected profit for the year for Paul.",
+      "answer": "Original profit for the year per draft financial statements $9268, Error 1 ($140), Error 2 $18, Error 3 ($82 x 2) ($164), Error 4 ($750), Profit for the year after correcting errors $8232.",
+      "marks": 5
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the income statement for Q Limited for the year ended 31 January 2024.",
+      "answer": "Revenue $78000, Less Cost of sales: Opening inventory $2950, Purchases $38200 = $41150, Less Closing inventory $4720 = $36430, Gross profit $41570. Less Rent and insurance $10600, Directors' salaries $19000, General expenses $3420, Advertising (5400 + 75) $5475, Depreciation of fittings (10% x 18000) $1800 = $40295, Profit for the year $1275.",
+      "marks": 6
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Calculate the retained earnings for Q Limited at 31 January 2024.",
+      "answer": "Opening balance $2297, Profit for the year $1275 = $3572, Less Dividend paid $2500 = Closing balance $1072.",
+      "marks": 3
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the statement of financial position for Q Limited at 31 January 2024.",
+      "answer": "Non-current assets: Fittings - Cost $18000, Accumulated depreciation $7200 = $10800. Current assets: Inventory $4720, Bank $5635 = $10355. Total assets $21155. Equity: Ordinary share capital $13000, Retained earnings $1072 = $14072. Current liabilities: Trade payables $2288, Other payables $75 = $2363. Total Equity and Liabilities $16435.",
+      "marks": 6
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of increasing advertising in May and make a recommendation.",
+      "answer": "For: increase sales/result in more customers, May help reduce the level of inventory, May benefit future years, Increase in gross profit more than the extra cost of advertising may increase profit for the year. Against: May not be able to afford the increase in advertising costs, May need to borrow money for increased advertising costs (and borrowing would incur interest), There is no guarantee that sales would increase, Profit may reduce/may result in a loss/expenses will increase because of extra advertising. Recommendation: Should increase advertising in May.",
+      "marks": 5
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare the rent receivable account for Ahmed for the year ended 31 December 2023.",
+      "answer": "Rent receivable account: Debit side - Dec 31 2023 Income statement $4800, Dec 31 2023 Balance c/d $1200 = $6000. Credit side - Apr 1 2023 Bank $3600, Sept 30 2023 Bank $2400, Jan 1 2024 Balance b/d $1200 = $7200.",
+      "marks": 3
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare the disposal of office equipment account for Ahmed.",
+      "answer": "Disposal of office equipment account: Debit side - Jan 3 2023 Office equipment $3200 = $3200. Credit side - Jan 3 2023 Provision for Depreciation (800 + 600) $1400, Jan 3 2023 Rahat $1350, Dec 31 2023 Income statement $450 = $3200.",
+      "marks": 5
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Classify the following items as capital expenditure or revenue expenditure: Painting the walls of the storage area $600, Shelving for the storage area $2115, Installation of the shelving $460, Light fittings for storage area $620, Light bulbs for storage area $105.",
+      "answer": "Capital expenditure: Shelving for the storage area $2115, Installation of the shelving $460, Light fittings for storage area $620. Revenue expenditure: Painting the walls of the storage area $600, Light bulbs for storage area $105.",
+      "marks": 3
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Calculate the rate of inventory turnover, current ratio, and liquid (acid test) ratio for Ahmed.",
+      "answer": "Rate of inventory turnover = (9000 + 97000 - 12130) / ((9000 + 12130) / 2) = 93870 / 10565 = 8.88 times. Current ratio = (12130 + 6180 + 175) : (5500 + 640) = 18485 : 6140 = 3.01:1. Liquid (acid test) ratio = (6180 + 175) : (5500 + 640) = 6355 : 6140 = 1.04:1.",
+      "marks": 7
+    },
+    {
+      "id": "q4e",
+      "number": "4(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two disadvantages of holding a high level of inventory.",
+      "answer": "The increased inventory may result in goods deteriorating or becoming obsolete, Increase in storage costs, Inefficient use of storage space, Increase in funds tied up in inventory/may result in bank overdraft/may incur interest charges.",
+      "marks": 2
+    },
+    {
+      "id": "q5a",
+      "number": "5(a)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Calculate the total purchases for Stella for the year ended 31 March 2024.",
+      "answer": "Payments to credit suppliers $34250, Add closing credit suppliers $2960 = Credit purchases $37210, Cash purchases $37210, Total purchases $74420.",
+      "marks": 3
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Prepare the income statement for Stella for the year ended 31 March 2024.",
+      "answer": "Sales $89760 (132%), Less Cost of sales: Purchases $74420 (100%), Less Closing inventory $6420 = $68000 (100%), Gross profit $21760 (32%). Less Rent and insurance ((6750 - 600) - 500) $5650, Wages (8300 + 300) $8600, Other expenses (1815 - (120/3)) $1775 = $16025, Profit for the year $5735.",
+      "marks": 8
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of allowing credit sales and make a recommendation.",
+      "answer": "For: Should increase sales/attract more customers, Should lead to higher profit/higher profit margin, Competitors may allow credit sales/may help Stella to compete, Increase monthly sales to generate growth. Against: Money would come into the business more slowly, Liquidity may be reduced, Irrecoverable debts can occur, Increased bookkeeping/a sales ledger would be required, Credit control may be required. Recommendation: Should allow credit sales.",
+      "marks": 5
+    },
+    {
+      "id": "q5di",
+      "number": "5(d)(i)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State the accounting principle that allows Stella to treat the stapler as a revenue expense.",
+      "answer": "Materiality.",
+      "marks": 1
+    },
+    {
+      "id": "q5dii",
+      "number": "5(d)(ii)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Explain why this principle is applied.",
+      "answer": "Time and cost of recording small items outweigh the benefits of treating them as non-current assets, Depreciation does not need to be calculated and charged low value non-current assets.",
+      "marks": 1
+    },
+    {
+      "id": "q5e",
+      "number": "5(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "State two advantages of maintaining full accounting records.",
+      "answer": "Full details of the assets, liabilities, revenues and expenses are available, The preparation of financial statements is more straightforward, The calculation of profit or loss for the year is likely to be more accurate, More informed decision-making is possible, A greater degree of control over the business activities can be exercised, The possibility of fraud is reduced, Comparisons with the results of previous years and with other businesses are possible, Detailed records are available for reference, Information required by a bank or other lender is readily available.",
+      "marks": 2
+    }
+  ]
+}

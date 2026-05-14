@@ -1,0 +1,216 @@
+{
+  "paperId": "accounting-7707-2023-unit2-november-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/22",
+  "session": "October/November 2023",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Seok - Sales journal and sales ledger control account",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the sales journal for August 2023.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Aug 3: Naomi (410 - 41) $369. Aug 5: Bwana $89. Aug 19: Bwana $180. Aug 22: Naomi (230 - 23) $207. Aug 31: Transfer to sales account $845.",
+          "keywords": ["sales journal", "trade discount"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare the sales returns journal for August 2023.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Aug 10: Naomi (20 - 2) $18. Aug 27: Bwana $19. Aug 31: Transfer to sales returns account $37.",
+          "keywords": ["sales returns journal"]
+        },
+        {
+          "id": "1c",
+          "text": "Prepare Naomi's account for August 2023.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Aug 1: Balance b/d $450. Aug 3: Sales $369, Aug 22: Sales $207. Total $1,026. Aug 10: Sales returns $18, Aug 11: Bank $423, Aug 31: Discount allowed $27, Balance c/d $558. Total $1,026. Sept 1: Balance b/d $558.",
+          "keywords": ["personal account", "balance"]
+        },
+        {
+          "id": "1d",
+          "text": "Prepare the sales ledger control account for August 2023.",
+          "marks": 7,
+          "type": "structured",
+          "answer": "Aug 1: Balance b/d $991. Aug 31: Sales $845. Total $1,836. Aug 31: Sales returns $37, Bank (423 + 400) $823, Discount allowed $27, Irrecoverable debts $155, Balance c/d $794. Total $1,836. Sept 1: Balance b/d $794.",
+          "keywords": ["sales ledger control account", "balance"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Sara - Manufacturing account",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare the manufacturing account for the year ended 30 September 2023.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Cost of material consumed: Opening inventory of raw material $4,875 + Purchases of raw material $56,400 = $61,275 - Closing inventory of raw material $5,110 = $56,165. Direct wages $43,300. Prime cost $99,465. Factory overheads: Wages of factory supervisor $25,000, Rates and insurance (29,600 - 6,000) / 2 $11,800, General factory expenses (9,650 + 335) $9,985, Depreciation of factory machinery (80,000 - 35,000 = 45,000 x 25%) $11,250 = $58,035. Add opening work-in-progress $8,125 = $165,625. Less closing work-in-progress $7,365. Cost of production $158,260.",
+          "keywords": ["manufacturing account", "cost of production"]
+        },
+        {
+          "id": "2b",
+          "text": "Prepare the statement of financial position (current assets section) at 30 September 2023.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Current Assets: Inventory - Raw materials $5,110, Work-in-progress $7,365, Finished goods $13,725 = $26,200. Trade receivables $27,000, Other receivables $6,000, Cash at bank $1,050 = $60,250.",
+          "keywords": ["statement of financial position", "current assets"]
+        },
+        {
+          "id": "2c",
+          "text": "Name the accounting concept that relates to the drama school offer.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Money measurement",
+          "keywords": ["accounting concept"]
+        },
+        {
+          "id": "2d",
+          "text": "Advise Sara whether to supply the drama school.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages of supplying drama school: Will increase sales/revenue, May increase profit, The extra work will provide security/continuity of workload, If successful, potential to supply other schools, theatre groups, etc. Disadvantages of supplying drama school: There would be extra administration or may incur additional costs/wages/costs of production, More manufacturing and/or storage capacity may be required, May not have capacity to supply both existing customers and drama group, Allowing 60 days credit will adversely affect liquidity. Recommendation required.",
+          "keywords": ["drama school", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Lionel - Income statement",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the income statement for the year ended 30 June 2023.",
+          "marks": 9,
+          "type": "structured",
+          "answer": "Revenue $90,000. Cost of sales: Purchases $67,175 - Purchases returns $3,000 = $64,175 - Closing inventory $4,175 = $60,000. Gross profit $30,000. Less expenses: Wages (8,060 + 2,600) $10,660, Motor expenses (4,992 x 2/3) $3,328, General expenses $1,140, Rent and insurance $5,585, Depreciation of motor vehicles/van (25% x 8,000) $2,000 = $22,713. Profit for the year $7,287.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the capital account for the year ended 30 June 2023.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "June 30: Drawings (12,000 + 1,664) $13,664, Balance c/d $8,623. Total $22,287. July 1: Bank $15,000, June 30: Profit for the year $7,287. Total $22,287. Balance b/d $8,623.",
+          "keywords": ["capital account", "balance"]
+        },
+        {
+          "id": "3c",
+          "text": "State one advantage of using a double entry system.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Full details are available about the assets, liabilities, revenues and expenses of the business, The preparation of financial statements is relatively straightforward, The profit or loss for the year is more likely to be reliable and accurate/the financial statements are more likely to be reliable and accurate, More informed decision-making is possible, A greater degree of control over business activities can be exercised, The possibility of fraud is reduced, Comparisons with the results of previous years and with other businesses are possible, Detailed records are available for reference purposes, Information required by a bank or other lender is readily available.",
+          "keywords": ["double entry", "advantages"]
+        },
+        {
+          "id": "3d",
+          "text": "Advise Lionel whether to allow trade discount or cash discount.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Allowing Trade discount: May encourage customers to purchase regularly/place repeat orders, If successful may increase revenue and gross profit OR If unsuccessful may decrease revenue and gross profit, Need to record which customers qualify for discount/record discount on invoices, One-off customers may feel they are being overcharged. Allowing Cash discount: Some credit customers will pay more quickly or encourage prompt payment, Less money will be received, Will reduce profit/net profit for the year, 3% may not be enough to encourage early payment, May reduce risk of irrecoverable debts. Recommendation required.",
+          "keywords": ["trade discount", "cash discount", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Rachel - Error correction",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare journal entries to correct errors 1-5.",
+          "marks": 9,
+          "type": "structured",
+          "answer": "Error 1: Dr Rent payable $350, Cr Wages $350. Error 2: Dr Sales $90, Cr Suspense $90. Error 3: Dr Purchases returns $110, Cr Sales returns $110. Error 4: Dr Suspense $63, Cr Office expenses $63. Error 5: Dr Cole $29, Cr Motor expenses $29.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare the suspense account.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Sep 30: Difference on trial balance $247, Office expenses $63. Total $310. Sep 30: Sales $90, Purchases returns $110, Sales returns $110. Total $310.",
+          "keywords": ["suspense account", "balance"]
+        },
+        {
+          "id": "4c",
+          "text": "Calculate the corrected profit for the year ended 30 September 2023.",
+          "marks": 5,
+          "type": "calculation",
+          "answer": "Draft profit $18,243. Add: Office expenses $63, Motor expenses $29 = $92. Total $18,335. Less: Sales $90, Purchases returns $110, Sales returns $110 = $310. Corrected profit $18,025.",
+          "keywords": ["corrected profit"]
+        },
+        {
+          "id": "4d",
+          "text": "Explain the materiality concept.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Financial statements can still be reliable if errors are present provided those errors are not material or significant.",
+          "keywords": ["materiality concept"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ratio analysis",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Calculate the gross margin, profit margin, return on capital employed, rate of inventory turnover, and liquid ratio.",
+          "marks": 11,
+          "type": "calculation",
+          "answer": "Gross margin = (98,420 - 6,175 - 78,130 - 6,265) / 98,420 x 100 = 20.71%. Profit margin = (20,380 - 11,325) / 98,420 x 100 = 9.20%. Return on capital employed = 9,055 / 125,000 x 100 = 7.24%. Rate of inventory turnover = (6,175 + 78,130 - 6,265) / ((6,175 + 6,265) / 2) = 78,040 / 6,220 = 12.55 times. Liquid ratio = 992 / 4,880 = 0.20:1.",
+          "keywords": ["gross margin", "profit margin", "return on capital employed", "inventory turnover", "liquid ratio"]
+        },
+        {
+          "id": "5b",
+          "text": "Explain the effect of the advertising campaign on the business performance.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "The gross profit margin will be lower than her competitor's, Reduction in gross profit margin may result in a lower gross profit OR increase in sales my result in a higher gross profit, The profit for the year or profit margin will reduce because of the increase in (advertising) expenses OR the profit for the year may increase because of the increase in gross profit/increase in sales from extra advertising, Selling her inventory faster does not mean her sales will be more than her competitor, Needs to sell more inventory to significantly increase profit.",
+          "keywords": ["advertising", "performance"]
+        },
+        {
+          "id": "5c",
+          "text": "Advise whether to obtain a bank loan.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "For obtaining a bank loan: If business expands profit may increase, Once the loan is paid off, there will be no further liability to the bank, 5 years before loan is due allows time for repayment. Against obtaining a bank loan: Interest will have to be paid on the loan, Loan interest will reduce profit for the year, The bank may require security, Assets may be at risk if unable to repay loan, The loan will have to be repaid, Bank may not be prepared to offer a loan. Recommendation required.",
+          "keywords": ["bank loan", "advantages", "disadvantages"]
+        },
+        {
+          "id": "5d",
+          "text": "State one factor the bank will consider before granting the loan.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Assess whether loan can be repaid, Assess whether loan interest can be paid, Assess security available for the loan.",
+          "keywords": ["bank loan", "assessment"]
+        }
+      ]
+    }
+  ]
+}

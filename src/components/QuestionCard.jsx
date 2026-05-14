@@ -91,7 +91,7 @@ export function QuestionCard({
       {/* Question Text */}
       <div className="mb-4">
         <p className="text-gray-900 font-medium leading-relaxed">
-          {question.text}
+          {question.text ?? question.question}
         </p>
       </div>
 

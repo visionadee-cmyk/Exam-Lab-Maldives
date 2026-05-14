@@ -57,6 +57,16 @@ export const O_LEVEL_SUBJECTS = [
     color: 'bg-amber-500'
   },
   {
+    id: 'accounting_olevel',
+    code: '7707',
+    name: 'Accounting (O Level)',
+    board: EXAM_BOARDS.CAMBRIDGE_IGCSE,
+    icon: 'BookOpen',
+    description: 'Cambridge O Level Accounting (7707)',
+    topics: ['Introduction to Accounting', 'Sources & Recording of Data', 'Verification of Accounting Records', 'Accounting Procedures', 'Preparation of Financial Statements', 'Analysis & Interpretation', 'Principles of Accounts'],
+    color: 'bg-amber-600'
+  },
+  {
     id: 'economics_igcse',
     code: '0455',
     name: 'Economics',

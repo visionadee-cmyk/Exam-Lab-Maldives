@@ -1,0 +1,200 @@
+{
+  "paperId": "accounting-0452-2020-unit2-june-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/21",
+  "session": "May/June 2020",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 120,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Prepare the trading account for ZED Sports Club for the year ended 29 February 2020.",
+      "answer": "Sales $10,542, Cost of sales: Opening inventory $900, Purchases $7,600, Less Closing inventory $970 = $7,530, Gross profit $3,012",
+      "marks": 10
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Prepare the receipts and payments account for ZED Sports Club for the year ended 29 February 2020.",
+      "answer": "Receipts: Balance b/d $845, Shop sales $10,542, Subscriptions $11,400, Competition fees $915. Payments: Shop purchases $7,600, Competition prizes $390, Fittings $4,000, Rent and insurance $4,575, Wages - shop assistant $2,000, Balance c/d $3,447. Total $22,857",
+      "marks": 8
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare a bank reconciliation statement for ZED Sports Club at 29 February 2020.",
+      "answer": "Balance on bank statement $7,162, Add: Amount not yet credited - competition fees $260, Bank error $25 = $7,447, Less: Cheque not yet presented - fittings $4,000 = Balance in cash book $3,447",
+      "marks": 5
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Explain the differences between a receipts and payments account and an income and expenditure account.",
+      "answer": "Receipts and payments account includes all money received and paid, no adjustment for accruals or prepayments, includes only monetary items, includes both capital and revenue items, balancing figure represents bank balance. Income and expenditure account includes income and expenses, adjustments made for accruals and prepayments, includes non-monetary items, includes only revenue receipts and expenditure, balancing figure represents surplus/deficit.",
+      "marks": 3
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Prepare the trial balance for Ame at 31 March 2020.",
+      "answer": "Debit: Capital $10,369, Drawings $4,000, Equipment at cost $15,500, Provision for depreciation of equipment $3,100, Inventory at 1 April 2019 $1,765, Trade receivables $1,290, Bank overdraft $475, Trade payables $1,600, Sales $31,250, Purchases $18,330, Purchases returns $910, Carriage inwards $640, Discount received $815, Commission receivable $1,500, Rent and Insurance $5,700, Office expenses $2,425, Suspense $369. Total Debit $50,019, Total Credit $50,019",
+      "marks": 6
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "Show the journal entries to correct the errors in Ame's books.",
+      "answer": "1. No entry for cash sales $60: Debit Cash $60, Credit Sales $60. 2. Office expenses $240 credited to wages: Debit Office expenses $240, Credit Suspense $480, Debit Wages $240. 3. Purchases journal $2165 recorded as $2651: Debit Suspense $486, Credit Purchases $486. 4. Insurance $375 no other entry: Debit Rent and insurance $375, Credit Suspense $375. 5. Equipment $800 debited to office expenses: Debit Equipment $800, Credit Office expenses $800.",
+      "marks": 9
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Prepare the suspense account for Ame.",
+      "answer": "Suspense account: Debit side - Difference on trial balance $369. Credit side - Office expenses $240, Wages $240, Purchases $486, Rent and insurance $375. Total $855 each side.",
+      "marks": 5
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Prepare the manufacturing account for Chippo for the year ended 30 April 2020.",
+      "answer": "Cost of material consumed: Opening inventory of raw material $3,120, Purchases of raw material $46,500 = $49,620, Less Closing inventory of raw material $3,000 = $46,620. Direct wages $38,250, Direct expenses - royalties $7,690. Prime cost $92,560. Factory overheads: Wages - factory supervisor $28,500, Factory general expenses $4,500, Factory fuel and power $5,325, Rent and insurance (28000 x 50%) $14,000, Depreciation of machinery (60000-21600) x 20% $7,680 = $60,005. Add opening work in progress $5,400 = $157,965, Less closing work in progress $5,590 = Cost of production $152,375.",
+      "marks": 10
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare the income statement (trading account section) for Chippo for the year ended 30 April 2020.",
+      "answer": "Revenue $254,000, Less Cost of sales: Opening inventory of finished goods $8,220, Cost of production $152,375, Purchases of finished goods $59,000 = $219,595, Less Closing inventory of finished goods $7,885 = $211,710. Gross profit $42,290.",
+      "marks": 4
+    },
+    {
+      "id": "q3c",
+      "number": "3(c)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Indicate whether each action would increase or decrease gross profit.",
+      "answer": "Increase wages of factory supervisor - Decrease gross profit, Reduce trade discount allowed to customers - Increase gross profit",
+      "marks": 2
+    },
+    {
+      "id": "q3d",
+      "number": "3(d)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Discuss the advantages and disadvantages of Chippo converting to a limited company and make a recommendation.",
+      "answer": "Advantages: Chippo would be able to raise money by issuing shares, easier to obtain finance for expansion, personal assets safer as limited liability. Disadvantages: Lender may require security over company assets, costs involved in setting up and running a limited company. Recommendation: Should convert to limited company.",
+      "marks": 4
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Calculate the total value of Rani's inventory at 30 April 2020 using the lower of cost and net realisable value rule.",
+      "answer": "Item A: NRV $18, Lower $17, Units 110, Total $1,870. Item B: NRV $18, Lower $18, Units 85, Total $1,530. Item C: NRV $14, Lower $14, Units 90, Total $1,260. Total value $4,660.",
+      "marks": 4
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain the effect on profit if Rani stops selling item D.",
+      "answer": "The net realisable value is lower than cost so item D should be recorded at its net realisable value of zero. There will be no effect on profit.",
+      "marks": 2
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of Rani stopping the sale of item D and make a recommendation.",
+      "answer": "Advantages: Obsolete inventory is a loss, wish to avoid future losses, holding inventory necessitates storage costs, funds available for other opportunities, difficulty monitoring four types. Disadvantages: Risky to stock only three lines, may be customer demand for item D in future, customers may buy other items from another supplier. Recommendation: Should stop selling item D.",
+      "marks": 5
+    },
+    {
+      "id": "q4d",
+      "number": "4(d)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Prepare the advertising income account for Rani.",
+      "answer": "Advertising income account: Debit side - Apr 1 2019 Balance b/d $300, Apr 1 2019 Balance b/d $420. Credit side - Mar 31 2020 Income statement $6,320, Mar 31 2020 Bank $6,000, Mar 31 2020 Irrecoverable debts $300, Balance c/d $400. Total $7,120 each side. Apr 1 2020 Balance b/d $400, Apr 1 2020 Balance b/d $500.",
+      "marks": 7
+    },
+    {
+      "id": "q4e",
+      "number": "4(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain why Rani should not include the sales of inventory in the advertising income account.",
+      "answer": "Sales of inventory are included in calculation of gross profit. Advertising income is included as other income after calculation of gross profit. If sales included as advertising income, gross profit will be understated.",
+      "marks": 2
+    },
+    {
+      "id": "q5a",
+      "number": "5(a)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare a statement showing the retained earnings of MPT Limited for the year ended 30 April 2020.",
+      "answer": "Retained earnings 1 May 2019 $14,000, Add Profit for the year $28,000 = $42,000, Less Transfer to general reserve $5,000, Less Dividend $4,500 = $9,500. Retained earnings 30 April 2020 $32,500.",
+      "marks": 3
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "Prepare the statement of financial position for MPT Limited at 30 April 2020.",
+      "answer": "Assets: Non-current assets - Fixtures and equipment at book value $152,000, Motor vehicles at book value $60,400 = $212,400. Current assets - Inventory $30,330, Trade receivables $31,500, Less Provision for doubtful debts $630 = $30,870. Total assets $273,600. Equity and Liabilities: Equity - Ordinary share capital $150,000, General reserve $40,000, Retained earnings $32,500 = $222,500. Non-current liabilities - 5% Debentures $20,000. Current liabilities - Trade payables $24,900, Bank $6,200 = $31,100. Total Equity and Liabilities $273,600.",
+      "marks": 7
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Explain why the general reserve may not be matched by cash balances.",
+      "answer": "General reserves may not necessarily be matched by cash balances.",
+      "marks": 1
+    },
+    {
+      "id": "q5d",
+      "number": "5(d)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Calculate the return on capital employed (ROCE) for MPT Limited for the year ended 30 April 2020.",
+      "answer": "ROCE = (Profit for the year / Capital employed) x 100. Profit $28,000 + Debenture interest $1,000 = $29,000. Capital employed = Share capital $150,000 + General reserve $40,000 + Retained earnings $32,500 + Debentures $20,000 = $242,500. ROCE = (29,000 / 242,500) x 100 = 11.96%.",
+      "marks": 4
+    },
+    {
+      "id": "q5e",
+      "number": "5(e)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Suggest ways in which MPT Limited could improve its ROCE.",
+      "answer": "Basic statements: Increase profit for the year, Reduce capital employed, Use capital employed more effectively. Ways to increase profit: Increase gross profit, Reduce expenses, Increase other income. Ways to reduce capital employed: Increase dividend, Reduce non-current liabilities. Ways to use capital more effectively: Combine lower costs with higher sales, Sell off surplus/inefficient assets.",
+      "marks": 5
+    }
+  ]
+}

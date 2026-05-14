@@ -40,6 +40,7 @@ function App() {
             <Route path="/subjects" element={<Subjects />} />
             <Route path="/subjects/:subjectId" element={<SubjectDetail />} />
             <Route path="/pdf-library" element={<PdfLibrary />} />
+            <Route path="/practice/:subjectId" element={<Practice />} />
             <Route path="/practice" element={<Practice />} />
             <Route path="/exam" element={<Exam />} />
             <Route path="/paper" element={<Paper />} />

@@ -1,0 +1,248 @@
+{
+  "paperId": "accounting-7707-2024-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/21",
+  "session": "May/June 2024",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Addo - Sales journal and sales ledger control account",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the sales journal for April 2024.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Apr 2: Ava (150 - 9) $141. Apr 12: Nuru $165. Apr 21: Mahia (480 - 24) $456. Apr 30: Transfer to sales account $762.",
+          "keywords": ["sales journal", "trade discount"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare the journal entry to write off the irrecoverable debt.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "April 30 2024: Dr Irrecoverable debts $215, Cr Rachel $215. Amount due from Rachel written off as irrecoverable.",
+          "keywords": ["journal", "irrecoverable debt"]
+        },
+        {
+          "id": "1c_i",
+          "text": "Calculate the total amount received from credit customers in April.",
+          "marks": 1,
+          "type": "calculation",
+          "answer": "Total amount received = $689 + $627 + $760 = $2,076.",
+          "keywords": ["cash received"]
+        },
+        {
+          "id": "1c_ii",
+          "text": "Calculate the total cash discount allowed in April.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "Total cash discount = $40 + $33 = $73.",
+          "keywords": ["cash discount"]
+        },
+        {
+          "id": "1d",
+          "text": "Prepare the sales ledger control account for April 2024.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "April 1: Balance b/d $3,658. April 30: Sales $762. Total $4,420. April 30: Sales returns $30, Bank $2,076, Discount allowed $73, Irrecoverable debts $215, Balance c/d $2,026. Total $4,420. May 1: Balance b/d $2,026.",
+          "keywords": ["sales ledger control account", "balance"]
+        },
+        {
+          "id": "1e",
+          "text": "Advise Addo whether to increase the cash discount and carry out credit checks.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages: Increased cash discount may encourage new customers/existing customers to buy more/increase sales, More customers may pay early because of extra discount/improve liquidity, Irrecoverable debts may be reduced, Increased credit check indicates ability to pay. Disadvantages: More credit checks would take more time/cost more money, Less money coming in from sales, No guarantee that customers will pay early, Less profit on each sale/profit for the year will be reduced/expenses increased if give cash discount, No guarantee that there will not be any irrecoverable debts. Recommendation required.",
+          "keywords": ["cash discount", "credit checks", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Paul - Error correction",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Prepare journal entries to correct errors 1-5.",
+          "marks": 11,
+          "type": "structured",
+          "answer": "Error 1: Dr Purchases $140, Cr Office equipment $140. Error 2: Dr Bank $18, Cr Discount received $18. Error 3: Dr Carriage inwards $82, Cr Carriage outwards $82, Cr Suspense $82. Error 4: Dr Insurance $750, Cr Bank $750. Error 5: Dr Bank $90, Cr Suspense $90.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "2b",
+          "text": "Calculate the corrected bank balance.",
+          "marks": 4,
+          "type": "calculation",
+          "answer": "Original cash at bank balance per draft financial statements $3,290. Error 2 $18, Error 4 ($750), Error 5 $90. Bank balance after correcting errors $2,648.",
+          "keywords": ["bank balance", "correction"]
+        },
+        {
+          "id": "2c",
+          "text": "Calculate the corrected profit for the year.",
+          "marks": 5,
+          "type": "calculation",
+          "answer": "Original profit for the year per draft financial statements $9,268. Error 1 ($140), Error 2 $18, Error 3 (82 x 2) ($164), Error 4 ($750). Profit for the year after correcting errors $8,232.",
+          "keywords": ["profit", "correction"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Q Limited - Company accounts",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare the income statement for the year ended 31 January 2024.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Revenue $78,000. Cost of sales: Opening inventory $2,950 + Purchases $38,200 = $41,150 - Closing inventory $4,720 = $36,430. Gross profit $41,570. Less expenses: Rent and insurance $10,600, Directors' salaries $19,000, General expenses $3,420, Advertising (5,400 + 75) $5,475, Depreciation of fittings (10% x 18,000) $1,800 = $40,295. Profit for the year $1,275.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "3b",
+          "text": "Calculate the retained earnings at 31 January 2024.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Opening balance $2,297 + Profit for the year $1,275 = $3,572. Less Dividend paid $2,500. Closing balance $1,072.",
+          "keywords": ["retained earnings"]
+        },
+        {
+          "id": "3c",
+          "text": "Prepare the statement of financial position at 31 January 2024.",
+          "marks": 6,
+          "type": "structured",
+          "answer": "Non-current assets: Fittings Cost $18,000, Accumulated depreciation $7,200, Net book value $10,800. Current assets: Inventory $4,720, Bank $5,635. Total current assets $16,435. Total assets $27,235. Equity: Ordinary share capital $13,000, Retained earnings $1,072. Total equity $14,072. Current liabilities: Trade payables $2,288, Other payables $75. Total current liabilities $2,363. Total Equity and Liabilities $16,435.",
+          "keywords": ["statement of financial position"]
+        },
+        {
+          "id": "3d",
+          "text": "Advise whether to increase advertising in May.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "For: May increase sales/result in more customers, May help reduce the level of inventory, May benefit future years, Increase in gross profit more than the extra cost of advertising may increase profit for the year. Against: May not be able to afford the increase in advertising costs, May need to borrow money for increased advertising costs (and borrowing would incur interest), There is no guarantee that sales would increase, Profit may reduce/may result in a loss/expenses will increase because of extra advertising. Recommendation required.",
+          "keywords": ["advertising", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Ahmed - Rent receivable and disposal",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare the rent receivable account for the year ended 31 December 2023.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Dec 31: Income statement $4,800, Balance c/d $1,200. Total $6,000. Apr 1: Bank $3,600, Sept 30: Bank $2,400, Jan 1: Balance b/d $1,200. Total $6,000.",
+          "keywords": ["rent receivable account", "balance"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare the disposal of office equipment account.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Jan 3: Office equipment $3,200. Total $3,200. Jan 3: Provision for Depreciation (800 + 600) $1,400, Rahat $1,350, Income statement $450. Total $3,200.",
+          "keywords": ["disposal account", "balance"]
+        },
+        {
+          "id": "4c",
+          "text": "Classify each item as capital expenditure or revenue expenditure.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Painting the walls of the storage area: Revenue expenditure. Shelving for the storage area: Capital expenditure. Installation of the shelving: Capital expenditure. Light fittings for storage area: Capital expenditure. Light bulbs for storage area: Revenue expenditure.",
+          "keywords": ["capital expenditure", "revenue expenditure"]
+        },
+        {
+          "id": "4d",
+          "text": "Calculate the rate of inventory turnover, current ratio, and liquid ratio.",
+          "marks": 7,
+          "type": "calculation",
+          "answer": "Rate of inventory turnover = (9,000 + 97,000 - 12,130) / ((9,000 + 12,130) / 2) = 93,870 / 10,565 = 8.88 times. Current ratio = (12,130 + 6,180 + 175) : (5,500 + 640) = 18,485 : 6,140 = 3.01:1. Liquid (acid test) ratio = (6,180 + 175) : (5,500 + 640) = 6,355 : 6,140 = 1.04:1.",
+          "keywords": ["inventory turnover", "current ratio", "liquid ratio"]
+        },
+        {
+          "id": "4e",
+          "text": "Explain the disadvantages of holding high levels of inventory.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "The increased inventory may result in goods deteriorating or becoming obsolete, Increase in storage costs, Inefficient use of storage space, Increase in funds tied up in inventory/may result in bank overdraft/may incur interest charges.",
+          "keywords": ["inventory", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Stella - Income statement and credit sales",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Calculate the total purchases for the year ended 31 March 2024.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Payments to credit suppliers $34,250 + Closing credit suppliers $2,960 = Credit purchases $37,210. Cash purchases $37,210. Total purchases $74,420.",
+          "keywords": ["total purchases"]
+        },
+        {
+          "id": "5b",
+          "text": "Prepare the income statement for the year ended 31 March 2024.",
+          "marks": 8,
+          "type": "structured",
+          "answer": "Sales $89,760 (132%). Cost of sales: Purchases $74,420 - Closing inventory $6,420 = $68,000 (100%). Gross profit $21,760 (32%). Less expenses: Rent and insurance ((6,750 - 600) - 500) $5,650, Wages (8,300 + 300) $8,600, Other expenses (1,815 - (120/3)) $1,775 = $16,025. Profit for the year $5,735.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "5c",
+          "text": "Advise Stella whether to allow credit sales.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "For: Should increase sales/attract more customers, Should lead to higher profit/higher profit margin, Competitors may allow credit sales/may help Stella to compete, Increase monthly sales to generate growth. Against: Money would come into the business more slowly, Liquidity may be reduced, Irrecoverable debts can occur, Increased bookkeeping/a sales ledger would be required, Credit control may be required. Recommendation required.",
+          "keywords": ["credit sales", "advantages", "disadvantages"]
+        },
+        {
+          "id": "5d_i",
+          "text": "Name the accounting concept that relates to treating small items as revenue expenditure.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Materiality",
+          "keywords": ["accounting concept"]
+        },
+        {
+          "id": "5d_ii",
+          "text": "Explain the materiality concept.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Time and cost of recording small items outweigh the benefits of treating them as non-current assets, Depreciation does not need to be calculated and charged low value non-current assets.",
+          "keywords": ["materiality concept"]
+        },
+        {
+          "id": "5e",
+          "text": "State two advantages of using a double entry system.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Full details of the assets, liabilities, revenues and expenses are available, The preparation of financial statements is more straightforward, The calculation of profit or loss for the year is likely to be more accurate, More informed decision-making is possible, A greater degree of control over the business activities can be exercised, The possibility of fraud is reduced, Comparisons with the results of previous years and with other businesses are possible, Detailed records are available for reference, Information required by a bank or other lender is readily available.",
+          "keywords": ["double entry", "advantages"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "paperId": "accounting-7707-2023-unit2-june-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/21",
+  "session": "May/June 2023",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Shvan - Petty cash book",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the petty cash book for the month ended 7 March 2023.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Mar 1: Balance b/d $139, Bank $124. Mar 2: Giles $55 (Travel $55). Mar 3: Taxi fare $21 (Travel $21). Mar 6: Notepads and pens $18 (Office expenses $18). Mar 6: Mitchell $101 (Ledger accounts $101). Mar 7: Office cleaning $30 (Office expenses $30). Total received $263, Total paid $225, Office expenses $48, Travel $21, Ledger accounts $101. Balance c/d $101. Mar 8: Balance b/d $101.",
+          "keywords": ["petty cash book", "balance"]
+        },
+        {
+          "id": "1b",
+          "text": "Prepare Giles's account for the month ended 31 March 2023.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Mar 2: Petty cash $55. Mar 13: Bank $110. Mar 22: Purchases $144. Mar 31: Balance c/d $144. Total $309. Apr 1: Balance b/d $144.",
+          "keywords": ["personal account", "balance"]
+        },
+        {
+          "id": "1c_i",
+          "text": "State one method of payment that does not use cash.",
+          "marks": 1,
+          "type": "short_answer",
+          "answer": "Direct debit, Internet transfer, Telephone transfer, Credit transfer, Debit/credit card.",
+          "keywords": ["payment methods"]
+        },
+        {
+          "id": "1c_ii",
+          "text": "Advise Shvan whether to stop using cash.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages of stopping using cash: Safer - no cash on premises/no transporting cash to/from bank, May reduce fraud, A petty cash book would not be required, Time saving - no cash-handling or journeys to/from bank/need to be physically present to exchange cash, Bank transactions can be quicker. Disadvantages of stopping using cash: Some customers/suppliers/service providers may prefer to use cash, May take longer to receive funds via the banking system/using cash may be quicker, It may be useful to keep some cash on the premises for emergency use/small expenses, May incur extra bank charges, Bank reconciliation may take longer/is more complex. Recommendation required.",
+          "keywords": ["cash", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Stalla - Provision for doubtful debts and motor vehicles",
+      "parts": [
+        {
+          "id": "2a_i",
+          "text": "Prepare the provision for doubtful debts account for the years ended 31 December 2021 and 2022.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "2021 Dec 31: Balance c/d $3,080. Jan 1: Balance b/d $3,000. Dec 31: Income statement $80. Total $3,080. 2022 Jan 1: Balance b/d $3,080.",
+          "keywords": ["provision for doubtful debts", "balance"]
+        },
+        {
+          "id": "2a_ii",
+          "text": "Explain the purpose of a provision for doubtful debts.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Not all trade receivables will pay the amount they owe/to anticipate irrecoverable debts, To apply the principle of prudence/to ensure the profit is not overstated/to ensure the trade receivables are not overstated, To apply the principle of matching/to ensure that the sales for which payment is not likely to be received are regarded as an expense of the year in which the sales were made.",
+          "keywords": ["provision for doubtful debts", "purpose"]
+        },
+        {
+          "id": "2b",
+          "text": "Calculate the profit or loss on the disposal of the motor vehicle.",
+          "marks": 4,
+          "type": "calculation",
+          "answer": "Proceeds $9,500. Cost $16,000 - Provision for depreciation $7,000 = $9,000. Profit on disposal $500.",
+          "keywords": ["disposal", "profit"]
+        },
+        {
+          "id": "2c_i",
+          "text": "Prepare the motor vehicles account for the year ended 31 December 2022.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Jan 1: Balance b/d $48,000. Dec 31: Disposal $16,000, Balance c/d $32,000. Total $48,000. Jan 1: Balance b/d $32,000.",
+          "keywords": ["motor vehicles account", "balance"]
+        },
+        {
+          "id": "2c_ii",
+          "text": "Prepare the provision for depreciation of motor vehicles account for the year ended 31 December 2022.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Dec 31: Disposal $7,000, Balance c/d $18,500. Jan 1: Balance b/d $21,000, Dec 31: Income statement $4,500. Total $25,500. Jan 1: Balance b/d $18,500.",
+          "keywords": ["provision for depreciation", "balance"]
+        },
+        {
+          "id": "2d",
+          "text": "Classify each item as capital expenditure or revenue expenditure.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Legal fees for obtaining permission to build the extension: Capital expenditure. Building costs for the extension: Capital expenditure. Insurance for the office: Revenue expenditure. Painting the office extension: Capital expenditure. Office calendar for 2023: Revenue expenditure. Purchase of office equipment: Capital expenditure. Installation of office equipment: Capital expenditure. Stationery for office: Revenue expenditure.",
+          "keywords": ["capital expenditure", "revenue expenditure"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Eshe - Error correction",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Prepare journal entries to correct errors 1-5.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Error 1: Dr Rent paid $300, Cr Insurance $300. Error 2: Dr Raymond $210, Cr Sales $210. Error 3: Dr Drawings $9,500, Cr Cash $9,500. Error 4: Dr Danika $36, Cr Purchases $36. Error 5: Dr Returns inwards $44, Cr Suspense $44. Error 6: Dr Suspense $100, Cr Motor expenses $100.",
+          "keywords": ["journal", "errors", "correction"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the suspense account.",
+          "marks": 3,
+          "type": "structured",
+          "answer": "Mar 31: Motor expenses $100. Mar 31: Difference on trial balance $56, Returns inwards $44. Total $100.",
+          "keywords": ["suspense account", "balance"]
+        },
+        {
+          "id": "3c",
+          "text": "Calculate the closing capital at 31 March 2023.",
+          "marks": 7,
+          "type": "calculation",
+          "answer": "Capital at 1 April 2022 $31,000 + Draft profit $15,600 = $46,600. Add Sales invoice $210 + Purchases invoice $36 + Motor expenses $100 = $346. Total $46,946. Less Returns inwards $44 = $46,902. Less Drawings $9,500. Capital at 31 March $37,402.",
+          "keywords": ["closing capital"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Salman - Manufacturing account",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare the manufacturing account for the year ended 30 April 2023.",
+          "marks": 10,
+          "type": "structured",
+          "answer": "Cost of material consumed: Opening inventory of raw material $8,190 + Purchases of raw material $78,420 = $86,610 - Closing inventory of raw material $8,000 = $78,610. Direct wages $52,396. Prime cost $131,006. Factory overheads: Wages of factory supervisor $27,500, Rates and insurance (17,528 × 3/4) $13,146, Factory electricity (11,442 + 1,048) $12,490, General expenses $8,244, Depreciation of factory equipment (90,000 - 43,920) × 20% $9,216 = $70,596. Add opening work-in-progress $15,200 = $216,802. Less closing work-in-progress $16,100. Cost of production $200,702.",
+          "keywords": ["manufacturing account", "cost of production"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare the income statement (trading section) for the year ended 30 April 2023.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Revenue $435,174. Cost of sales: Opening inventory $23,860 + Cost of production $200,702 + Purchases of finished goods $90,144 = $314,706 - Closing inventory $24,590 = $290,116. Gross profit $145,058.",
+          "keywords": ["income statement", "gross profit"]
+        },
+        {
+          "id": "4c",
+          "text": "Advise Salman whether to convert the office space.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Advantages of converting office space: Will be more profitable use of space/increase output, Manufacturing appears to be profitable, May not need to purchase finished goods, Have high bank balance which will help to pay for conversion. Disadvantages of converting office space: May not be able to sell the extra output, Conversion of office space may be costly, May have to purchase additional factory equipment, May be more appropriate/more profitable to use the funds for other things, The space is necessary for office purposes. Recommendation required.",
+          "keywords": ["office space", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Q Limited - Company accounts",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Calculate the retained earnings at 31 March 2023.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Retained earnings at 1 April 2022 $16,250 + Profit for the year $43,500 = $59,750. Less Dividend $39,000. Retained earnings at 31 March 2023 $20,750.",
+          "keywords": ["retained earnings"]
+        },
+        {
+          "id": "5b",
+          "text": "Prepare the statement of financial position at 31 March 2023.",
+          "marks": 8,
+          "type": "structured",
+          "answer": "Non-current Assets: Fittings and equipment Cost $150,000, Provision for depreciation $40,650, Net book value $109,350. Motor vehicles Cost $72,000, Provision for depreciation $31,125, Net book value $40,875. Total non-current assets $150,225. Current Assets: Inventory $51,790, Trade receivables $19,700 less Provision for doubtful debts $591 = $19,109, Bank $1,076. Total current assets $71,975. Total assets $222,200. Equity: Ordinary share capital $120,000, Retained earnings $20,750. Total equity $140,750. Non-current Liabilities: 5% Debentures $40,000, Bank Loan $10,000. Total non-current liabilities $50,000. Current Liabilities: Trade payables $31,450. Total Equity and Liabilities $222,200.",
+          "keywords": ["statement of financial position"]
+        },
+        {
+          "id": "5c",
+          "text": "Calculate the current ratio at 31 March 2023.",
+          "marks": 2,
+          "type": "calculation",
+          "answer": "(19,109 + 1,076) : 31,450 = 20,185 : 31,450 = 0.64 : 1.",
+          "keywords": ["current ratio"]
+        },
+        {
+          "id": "5d_i",
+          "text": "State two reasons for the decrease in the current ratio.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Dividends paid, Increase in level of inventory, Purchase of non-current assets, Repayment of non-current liabilities, Payment of trade payables/payment of a bank overdraft, Delay in receiving payment from trade receivables.",
+          "keywords": ["current ratio", "decrease"]
+        },
+        {
+          "id": "5d_ii",
+          "text": "Advise Q Limited whether to issue ordinary shares or obtain a bank loan.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Issue ordinary shares: No interest payable, No repayment required, No need to provide security, The directors can decide on the rate of dividend, May dilute control/ownership, Shareholders will expect a dividend, May not be able to raise amount required, Already have long-term liabilities to repay. Obtain bank loan: Repayment is required, Once loan is repaid no further liability to bank, Funds would need to be available when repayment is due, Security will be required, Interest will be charged, Bank may not be willing to lend as already have substantial long-term liabilities, Funds may be obtained more quickly than a share issue, If company is wound up loan must be repaid before shareholders. Recommendation required.",
+          "keywords": ["ordinary shares", "bank loan", "advantages", "disadvantages"]
+        }
+      ]
+    }
+  ]
+}

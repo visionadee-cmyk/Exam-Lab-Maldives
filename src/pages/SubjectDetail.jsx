@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
 import { useAuth } from '../contexts/AuthContext';
+import { GLOB_MS_INTERACTIVE_MAP, GLOB_MS_PAPER_LISTS } from '../data/interactiveMsPaperRegistry';
 import { Plus, Trash2, Edit3, Save, X } from 'lucide-react';
 import biologyWbi11Jan2019Unit1 from '../data/papers/biology-wbi11-jan2019-unit1.json';
 import biologyWbi11May2019Unit1 from '../data/papers/biology-wbi11-may2019-unit1.json';
@@ -71,7 +72,6 @@ export function SubjectDetail() {
   const [activeTab, setActiveTab] = useState('papers');
   
   const subject = SUBJECTS.find(s => s.id === subjectId);
-  const papers = Array.isArray(subject?.papers) ? subject.papers : [];
   
   // Get progress from localStorage
   const [progressStats, setProgressStats] = useState({
@@ -171,10 +171,19 @@ export function SubjectDetail() {
     'wbi12-jan-2020-unit2-qp': biologyWbi12Jan2020Unit2,
     'wbi12-may-2020-unit2-qp': biologyWbi12May2020Unit2,
     'wbi13-jun-2019-unit3-qp': biologyWbi13Jun2019Unit3,
-    'wbi13-oct-2019-unit3-qp': biologyWbi13Oct2019Unit3
+    'wbi13-oct-2019-unit3-qp': biologyWbi13Oct2019Unit3,
+    ...GLOB_MS_INTERACTIVE_MAP
   };
 
-  const interactivePapers = papers.filter(p => Boolean(interactivePaperById[p.id]));
+  const globPaperList = GLOB_MS_PAPER_LISTS[subjectId];
+  const papers =
+    globPaperList && globPaperList.length > 0
+      ? globPaperList
+      : Array.isArray(subject?.papers)
+        ? subject.papers
+        : [];
+
+  const interactivePapers = papers.filter((p) => Boolean(interactivePaperById[p.id]));
 
   const handlePaperClick = (paper) => {
     const paperData = interactivePaperById[paper.id];
@@ -186,11 +195,11 @@ export function SubjectDetail() {
   };
 
   const handleTopicPractice = (topic) => {
-    navigate('/practice', { state: { subject: subjectId, topic, mode: 'topic' } });
+    navigate(`/practice/${subjectId}`, { state: { topic, mode: 'topic' } });
   };
 
   const handleQuickPractice = () => {
-    navigate('/practice', { state: { subject: subjectId, mode: 'mixed' } });
+    navigate(`/practice/${subjectId}`, { state: { mode: 'mixed' } });
   };
 
   const handleFullExam = () => {

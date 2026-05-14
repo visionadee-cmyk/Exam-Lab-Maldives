@@ -1,0 +1,224 @@
+{
+  "paperId": "accounting-7707-2022-unit2-november-ms",
+  "subjectId": "accounting_cambridge_olevel",
+  "code": "7707/22",
+  "session": "October/November 2022",
+  "title": "Accounting Unit 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 120,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "BC - Income statement and working capital",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Prepare the income statement for the year ended 31 August 2022.",
+          "marks": 12,
+          "type": "structured",
+          "answer": "Revenue $231,500 - Sales returns $3,600 = $227,900. Cost of sales: Opening inventory $11,100 + Purchases $120,000 + Carriage inwards $400 = $131,500 - Closing inventory $12,000 = $119,500. Gross profit $108,400. Commission receivable (2,200 + 800) $3,000, Discount received $1,400 = $112,800. Less expenses: Discount allowed $600, Insurance (9,600 - 700) $8,900, Repairs (12,400 - 4,000) $8,400, Salaries (53,900 + 4,900) $58,800, Rates (6,000 - 300) $5,700, Depreciation machinery (27,600 x 20%) $5,520 = $87,920. Profit for the year $24,880.",
+          "keywords": ["income statement", "profit"]
+        },
+        {
+          "id": "1b",
+          "text": "Calculate the working capital at 31 August 2022.",
+          "marks": 3,
+          "type": "calculation",
+          "answer": "Current assets: Inventory $12,000, Trade receivables $19,200, Commission received $800, Rates prepaid $300 = $32,300. Current liabilities: Trade payables $7,300, Salaries owing $4,900, Bank $4,100 = $16,300. Working capital $16,000.",
+          "keywords": ["working capital"]
+        },
+        {
+          "id": "1c",
+          "text": "Advise BC whether to obtain credit from the supplier or a bank loan.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Option 1 Credit: Only payback the original amount of $6,000/no interest, Credit may not be granted as already has an overdraft, Working capital/funds may be adequate provided trade receivables pay on time, Consider whether adequate funds will be available in 60 days, Working capital will be reduced. Option 2 Loan: Interest each year will have to be paid, Interest will reduce profit each year, Consider whether funds will be available to repay the loan, Loan may not be granted as already has an overdraft. Recommendation required.",
+          "keywords": ["credit", "loan", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "MC - Purchase ledger control account",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Complete the table to show the book of prime entry for each item.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Discount received from credit suppliers: Cash book. Purchases returns: Purchase returns journal. Contra entries: General journal. Interest charged by credit suppliers: General journal.",
+          "keywords": ["book of prime entry"]
+        },
+        {
+          "id": "2b",
+          "text": "Explain what is meant by a contra entry.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "A balance on a purchase ledger account is transferred to an account for the same business in the sales ledger. Purchase ledger account is debited, and the sales ledger is credited.",
+          "keywords": ["contra entry"]
+        },
+        {
+          "id": "2c",
+          "text": "Prepare the purchase ledger control account for the month ended 31 July 2022.",
+          "marks": 9,
+          "type": "structured",
+          "answer": "Jul 1: Balance b/d $130, Balance b/d $21,400. Jul 31: Purchase returns $9,800, Bank $228,200, Discount received $12,900, Cash $500, Contra $2,260, Balance c/d $27,540. Total $281,330. Aug 1: Balance b/d $180, Balance b/d $27,540.",
+          "keywords": ["purchase ledger control account", "balance"]
+        },
+        {
+          "id": "2d",
+          "text": "Advise MC whether to purchase from the overseas supplier.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Reduce cost of goods/increase gross profit/lower selling price, Reliability of new supplier/guaranteed supplier, Must consider whether low price will be maintained/currency fluctuations, Must consider whether goods will be of an acceptable quality, Possible language differences/difficulty of communications, May be more difficult in case of problems/disputes, May experience delivery problems, Contract is binding for one year. Recommendation required.",
+          "keywords": ["overseas supplier", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "MG - Bank reconciliation",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Update the cash book (bank columns only) for the month ended 31 August 2022.",
+          "marks": 5,
+          "type": "structured",
+          "answer": "Aug 31: Balance b/d $25,600, Rates (SO) $50. Aug 31: RJ (dis cheque) $420, Insurance (DD) $110, Bank charges $75, Balance c/d $25,045. Total $25,650. Sep 1: Balance b/d $25,045.",
+          "keywords": ["cash book", "balance"]
+        },
+        {
+          "id": "3b",
+          "text": "Prepare the bank reconciliation statement at 31 August 2022.",
+          "marks": 4,
+          "type": "structured",
+          "answer": "Balance shown in cash book $25,045. Add unpresented cheques JW $680 = $25,725. Less uncredited deposits TH $910. Balance shown on bank statement $24,815.",
+          "keywords": ["bank reconciliation", "balance"]
+        },
+        {
+          "id": "3c",
+          "text": "State the purpose of a bank reconciliation statement.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Identify/correct either errors or omissions in the cash book, Identify errors on the bank statement, Update the cash book/obtain correct bank balance, Assist in discovering fraud/deter or reduce risk of fraud, Identify amounts not credited, Identify cheques not presented, Identify out-of-date (stale) and dishonoured cheques.",
+          "keywords": ["bank reconciliation", "purpose"]
+        },
+        {
+          "id": "3d",
+          "text": "State two reasons why a cheque may be dishonoured.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Insufficient funds in the bank account, No/incorrect signature, No date, No amount, No payee, Words and figures disagree.",
+          "keywords": ["dishonoured cheque"]
+        },
+        {
+          "id": "3e",
+          "text": "Distinguish between a standing order and a direct debit.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "A standing order is when a person instructs their bank to pay a fixed sum at fixed intervals to another person. A direct debit is when permission is given for a named person to collect an amount from their bank. The dates and amounts can vary.",
+          "keywords": ["standing order", "direct debit"]
+        },
+        {
+          "id": "3f",
+          "text": "Advise MG whether to accept the order with a cash discount.",
+          "marks": 5,
+          "type": "essay",
+          "answer": "Accept - Order: Sales/revenues will increase, May lead to future orders, Increase in profit for the year, Could lose order if no discount given. Decline - Order: Existing customers may request a similar discount, Reduction in profit if discount given to all existing customers, May damage relationship of existing customers, Reduction in gross margin. Recommendation required.",
+          "keywords": ["cash discount", "advantages", "disadvantages"]
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "PG - Trade receivables",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Prepare the sales account, sales returns account, trade receivables account, irrecoverable debts account, and provision for doubtful debts account for the year ended 31 July 2022.",
+          "marks": 13,
+          "type": "structured",
+          "answer": "Sales account: Jul 31: Income statement $377,000. Jul 31: Trade receivables $360,000, Cash $17,000. Total $377,000. Sales returns account: Jul 31: Trade receivables $13,300. Jul 31: Income statement $13,300. Trade receivables account: Aug 1 2021: Balance b/d $28,500. Jul 31 2022: Sales returns $13,300, Bank $335,100, Discount allowed $6,500, Bank $4,000, Irrecoverable debts $900, Balance c/d $36,700. Jul 31: Sales $360,000. Total $392,500. Aug 1: Balance b/d $36,700. Irrecoverable debts account: Jul 31: Trade receivables $900. Jul 31: Income statement $900. Provision for doubtful debts account: Jul 31: Balance c/d $1,468. Aug 1 2021: Balance b/d $1,140. Jul 31 2022: Income statement $328. Aug 1: Balance b/d $1,468.",
+          "keywords": ["sales account", "trade receivables", "irrecoverable debts", "provision for doubtful debts"]
+        },
+        {
+          "id": "4b",
+          "text": "Prepare an extract from the statement of financial position at 31 July 2022.",
+          "marks": 2,
+          "type": "structured",
+          "answer": "Current assets: Trade receivables $36,700 less provision for doubtful debts $1,468 = $35,232.",
+          "keywords": ["statement of financial position", "current assets"]
+        },
+        {
+          "id": "4c",
+          "text": "Suggest ways to improve the collection of trade receivables.",
+          "marks": 3,
+          "type": "short_answer",
+          "answer": "Obtain (credit) references, Set credit limit, Sell for cash only/reduce credit sales, Issue invoices/statements of account promptly, Follow up with phone calls/emails etc, Improve or introduce credit control/hire a credit controller, Charge interest on late payment, Refuse further supplies until outstanding balance is paid, Increase level of cash discount, Last resort take legal action.",
+          "keywords": ["trade receivables", "collection"]
+        },
+        {
+          "id": "4d",
+          "text": "Explain the factors that may be considered when calculating the provision for doubtful debts.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Experience of late/non-payment, Specific knowledge of customers credit record/credit rating, Length of time debts outstanding/ageing schedule/trade receivables turnover, State of the local economy.",
+          "keywords": ["provision for doubtful debts", "factors"]
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 20,
+      "question": "Sian and Tom - Partnership",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Prepare the profit and loss appropriation account for the year ended 31 March 2022.",
+          "marks": 8,
+          "type": "structured",
+          "answer": "Profit for the year $59,190. Add interest on drawings: Sian (240 + 90) $330, Tom (300 + 180) $480 = $810. Total $60,000. Less interest on capital: Sian (150,000 x 6%) $9,000, Tom (100,000 x 6%) $6,000 = $15,000. Total $45,000. Less partners salary Sian $20,000. Total $25,000. Share of profits: Sian $15,000, Tom $10,000. Total $25,000.",
+          "keywords": ["profit and loss appropriation account", "partnership"]
+        },
+        {
+          "id": "5b",
+          "text": "Prepare the statement of financial position (extract) at 31 March 2022.",
+          "marks": 8,
+          "type": "structured",
+          "answer": "Capital: Sian $150,000, Tom $100,000. Total $250,000. Current accounts: Sian - Balance b/d $3,000, Interest on capital $9,000, Salary $20,000, Profit $15,000 = $47,000. Less Drawings $14,000, Interest on drawings $330 = $14,330. Balance $32,670. Tom - Balance b/d ($7,000), Interest on capital $6,000, Profit $10,000 = $9,000. Less Drawings $22,000, Interest on drawings $480 = $22,480. Balance ($13,480). Total current accounts $19,190. Total $269,190.",
+          "keywords": ["statement of financial position", "partnership"]
+        },
+        {
+          "id": "5c",
+          "text": "Explain what a debit balance on a partner's current account means.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "The amount the partner owes to the partnership, Indicates that the partner's drawings are too high, Indicates that the partner's drawings are greater than the total profit share.",
+          "keywords": ["current account", "debit balance"]
+        },
+        {
+          "id": "5d",
+          "text": "Explain the going concern concept.",
+          "marks": 2,
+          "type": "short_answer",
+          "answer": "Assumes the business will operate for an indefinite period of time, Assumes there is no intention to close the business down/reduce the size of the business significantly, Non-current assets are valued at net book value/not expected sales value.",
+          "keywords": ["going concern concept"]
+        }
+      ]
+    }
+  ]
+}

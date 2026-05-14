@@ -1,0 +1,324 @@
+{
+  "paperId": "biology-0610-2021-unit2-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "0610/21",
+  "session": "May/June 2021",
+  "title": "Biology Paper 2 - Mark Scheme",
+  "totalMarks": 80,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 7,
+      "question": "The diagram shows a root hair cell from a lemon tree and some soil particles.",
+      "parts": [
+        {
+          "id": "q1ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "State one feature, visible in the diagram, which shows that a root hair cell is a plant cell.",
+          "answer": "cell wall or large / central / sap vacuole",
+          "marks": 1
+        },
+        {
+          "id": "q1aii",
+          "number": "(a)(ii)",
+          "totalMarks": 4,
+          "question": "Describe how mineral ions pass from the soil into the root hair cell.",
+          "answer": "dissolved in water; through the cell wall; carriers in membrane; through the cell / partially permeable membrane; by active transport / diffusion; correct reference to concentration gradient; using energy (for active transport); from (aerobic) respiration (for active transport)",
+          "marks": 4
+        },
+        {
+          "id": "q1b",
+          "number": "(b)",
+          "totalMarks": 2,
+          "question": "The lemon tree has grown in the same soil for many years so the soil now lacks magnesium. Describe and explain the effect on the lemon tree of a lack of magnesium.",
+          "answer": "yellowing / chlorosis / reduced growth / cannot photosynthesise / make glucose / starch / sugar / carbohydrate; deficiency of chlorophyll",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 18,
+      "question": "A person visits an eye doctor to have an eye test. On the wall of the doctor's room is a diagram of an eye.",
+      "parts": [
+        {
+          "id": "q2ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Name the part labelled X.",
+          "answer": "lens",
+          "marks": 1
+        },
+        {
+          "id": "q2aii",
+          "number": "(a)(ii)",
+          "totalMarks": 2,
+          "question": "Describe one way in which the structure of X is related to its function.",
+          "answer": "transparent / spherical / curved sides; allows light to pass through / to focus / refract light; or flexible / elastic / can change shape; accommodation / focus objects",
+          "marks": 2
+        },
+        {
+          "id": "q2aiii",
+          "number": "(a)(iii)",
+          "totalMarks": 1,
+          "question": "Name layer Y.",
+          "answer": "retina",
+          "marks": 1
+        },
+        {
+          "id": "q2bi",
+          "number": "(b)(i)",
+          "totalMarks": 1,
+          "question": "Name structure Z.",
+          "answer": "macula / yellow spot / fovea",
+          "marks": 1
+        },
+        {
+          "id": "q2bii",
+          "number": "(b)(ii)",
+          "totalMarks": 4,
+          "question": "Layer Y does not contain blood vessels. Explain how the blood vessels in the choroid layer are important for layer Y.",
+          "answer": "bring glucose / amino acids / minerals / vitamins; for energy / repair of cells; bring oxygen; for (aerobic) respiration; take urea / carbon dioxide away; diffusion; capillaries / veins / arteries mentioned in correct context; bring white blood cells; to fight infection",
+          "marks": 4
+        },
+        {
+          "id": "q2c",
+          "number": "(c)",
+          "totalMarks": 4,
+          "question": "When the bright light is shone into the eye there is a pupil reflex which causes the pupil to become smaller. Explain how named parts of the eye and of the nervous system are involved in this pupil reflex.",
+          "answer": "retina / rods detect extra light (intensity); impulse + to CNS / brain; via optic nerve / sensory neurone; back to eye / iris / effector / muscle + motor neurone; radial muscles relax; circular muscles contract; iris becomes bigger / elongates; reflex arc",
+          "marks": 4
+        },
+        {
+          "id": "q2di",
+          "number": "(d)(i)",
+          "totalMarks": 4,
+          "question": "Some people inherit a condition which prevents the production of the dark pigment melanin in their choroid and skin cells. The gene involved has two alleles, A (dominant) and a (recessive). Only people with two recessive alleles have this condition. Two people, each with a heterozygous genotype, have children together. Complete the genetic diagram to show the possible genotypes and phenotypes of the children.",
+          "answer": "parental genotypes = Aa + Aa; gametes a and A; offspring genotypes AA, Aa, Aa and aa; correctly linked phenotypes: AA & Aa = produce melanin, aa don't produce melanin",
+          "marks": 4
+        },
+        {
+          "id": "q2dii",
+          "number": "(d)(ii)",
+          "totalMarks": 1,
+          "question": "State the probability of these two people having a child who does not produce melanin.",
+          "answer": "25% / ¼ / 0.25 / 1 in 4",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 9,
+      "question": "A sycamore tree is a producer for many food chains in a forest ecosystem.",
+      "parts": [
+        {
+          "id": "q3ai",
+          "number": "(a)(i)",
+          "totalMarks": 1,
+          "question": "Explain what is meant by a producer.",
+          "answer": "photosynthesis / autotrophic / making own organic nutrients",
+          "marks": 1
+        },
+        {
+          "id": "q3aii",
+          "number": "(a)(ii)",
+          "totalMarks": 1,
+          "question": "Explain what is meant by a food chain.",
+          "answer": "flow / transfer + energy / food",
+          "marks": 1
+        },
+        {
+          "id": "q3b",
+          "number": "(b)",
+          "totalMarks": 4,
+          "question": "The diagrams show a pyramid of numbers and a pyramid of biomass for a sycamore tree. Explain the different shapes of the two pyramids.",
+          "answer": "biomass tree has large mass so long rectangle / correct reference to relative masses at two trophic levels; biomass declines as trophic level increases; numbers there is only one tree so a short rectangle for numbers / correct reference to relative numbers at two trophic levels; both or either after producer both pyramids in shape; energy is lost (to the environment); as heat / thermal energy; from respiration",
+          "marks": 4
+        },
+        {
+          "id": "q3c",
+          "number": "(c)",
+          "totalMarks": 2,
+          "question": "Sycamore trees produce flowers that are insect-pollinated. Suggest two features of flowers which adapt them for insect-pollination.",
+          "answer": "large / colourful + petals / sepals; nectaries / nectar; scent; anthers / stigma + inside petals; short / sticky stigma; markings / nectar guides; petals modified with insect landing site; pollen rough / sticky",
+          "marks": 2
+        },
+        {
+          "id": "q3d",
+          "number": "(d)",
+          "totalMarks": 1,
+          "question": "State the type of cell division that produces pollen grains.",
+          "answer": "meiosis",
+          "marks": 1
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "The diagram shows part of the human alimentary canal and its associated organs.",
+      "parts": [
+        {
+          "id": "q4a",
+          "number": "(a)",
+          "totalMarks": 3,
+          "question": "Complete the three labels on the diagram by naming the structures.",
+          "answer": "clockwise from top: oesophagus / gullet; duodenum / small intestine; gall bladder",
+          "marks": 3
+        },
+        {
+          "id": "q4b",
+          "number": "(b)",
+          "totalMarks": 3,
+          "question": "Describe the functions of the structure labelled F.",
+          "answer": "digestion / break down food or protein / protein to polypeptides / protein to amino acids; (mechanical) muscle / contractions / movement + make food particles smaller / chyme; (chemical) enzymes / proteases / pepsin + proteins; hydrochloric acid + optimum pH; hydrochloric acid + destroy microbes / defence against microbes; mucus + protects lining / lubrication",
+          "marks": 3
+        },
+        {
+          "id": "q4c",
+          "number": "(c)",
+          "totalMarks": 2,
+          "question": "Name structure H and describe its role in homeostasis.",
+          "answer": "pancreas; control of blood glucose concentration / level or produces / releases + insulin / glucagon",
+          "marks": 2
+        }
+      ]
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "A farmer is using a tool, called a mattock, to weed her crop.",
+      "parts": [
+        {
+          "id": "q5a",
+          "number": "(a)",
+          "totalMarks": 4,
+          "question": "Explain how the muscles and bones in her right arm help her to lift the tool.",
+          "answer": "named bone(s) + location; antagonistic muscles; biceps contract; become shorter / radius or ulna is moved towards humerus; triceps relax; hinge joint",
+          "marks": 4
+        },
+        {
+          "id": "q5b",
+          "number": "(b)",
+          "totalMarks": 4,
+          "question": "The farmer has not used any insecticides or artificial fertilisers on the crop. Explain ways in which this may help the local environment.",
+          "answer": "no leaching / run-off into water / water pollution; so insecticides not ingested by aquatic insects; no bioaccumulation; (so fertilisers) don't cause algal bloom / eutrophication; eutrophication detail e.g. decomposition of algae / lack of oxygen / increase in bacteria; pollinators / insects that eat pests can still function; increase biodiversity; greater variety of food sources for consumers; if artificial fertilisers replaced with organic then soil structure maintained",
+          "marks": 4
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Yoghurt is a milk product.",
+      "parts": [
+        {
+          "id": "q6a",
+          "number": "(a)",
+          "totalMarks": 5,
+          "question": "Outline the role of microorganisms in the process of yoghurt production.",
+          "answer": "heating / pasteurisation at start of process or after fermentation; denaturation of milk protein / kill unwanted bacteria; starter culture / bacteria; Lactobacillus (bulgaricus) / Streptococcus (thermophiles); fermentation / anaerobic respiration; warm temperature; lactose / milk sugar; lactic acid produced; decreases pH; coagulation / thickening",
+          "marks": 5
+        },
+        {
+          "id": "q6b",
+          "number": "(b)",
+          "totalMarks": 5,
+          "question": "Yoghurt can contribute to a balanced diet but adult humans cannot survive by eating only yoghurt. Explain this statement using the information on the label.",
+          "answer": "(yoghurt contributes to a balanced diet) carbohydrates for energy; proteins for growth / repair; water for chemical reactions / cytoplasm / transport; fats for energy / insulation; calcium for bones / prevent rickets; (yoghurt is not suitable on its own) no + fibre + so poor bowel health / constipation; no + iron; no + vitamin C or other named vitamin",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Excess amino acids are broken down in liver cells to form molecules of urea.",
+      "parts": [
+        {
+          "id": "q7a",
+          "number": "(a)",
+          "totalMarks": 7,
+          "question": "Describe the pathway taken by a molecule of urea, from the liver of a mammal until it reaches the soil.",
+          "answer": "transported in blood / plasma; dissolved; hepatic vein to vena cava / heart; renal artery (to kidney); to kidney; urea removed / filtered + from blood; part of urine; ureter (to bladder); bladder; (bladder to) urethra",
+          "marks": 7
+        },
+        {
+          "id": "q7b",
+          "number": "(b)",
+          "totalMarks": 3,
+          "question": "Urea is a molecule which contains nitrogen. Suggest why it is important that molecules that contain nitrogen are added to the soil.",
+          "answer": "cycling / replenishing nitrogen; used / converted by nitrifying bacteria / nitrogen fixing bacteria; form + nitrates; nitrates + taken up by plants; production of proteins / amino acids; increased soil fertility (for crops) / plants grow faster / bigger; animals / herbivores obtain protein / nitrogen from plants",
+          "marks": 3
+        }
+      ]
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Rice, maize and wheat plants are the main carbohydrate source for more than 60% of the human population.",
+      "parts": [
+        {
+          "id": "q8a",
+          "number": "(a)",
+          "totalMarks": 5,
+          "question": "Describe how plants like these produce carbohydrates using materials from the environment.",
+          "answer": "photosynthesis; in leaves / green parts of plants / in mesophyll / chloroplasts; using chlorophyll; using light energy; water + soil / irrigation / roots / root hair cells; carbon dioxide + air / through stomata; produce glucose / C6H12O6; starch; magnesium + from soil + to make chlorophyll",
+          "marks": 5
+        },
+        {
+          "id": "q8b",
+          "number": "(b)",
+          "totalMarks": 5,
+          "question": "Many scientists predict that, as the world's human population increases, there will be a shortage of food. Suggest and explain why an increase in human population is predicted to lead to a global human food shortage.",
+          "answer": "greater demand for food; not enough land available for farming; land being used for e.g. building / biofuels / deforestation; increase in greenhouse gases; (leads to) climate change; droughts / floods / salinisation; lack of nutrients in soils monoculture / overcrowding",
+          "marks": 5
+        }
+      ]
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Describe how air is breathed in, using the rib cage and diaphragm, so that it reaches the alveoli.",
+      "parts": [
+        {
+          "id": "q9a",
+          "number": "(a)",
+          "totalMarks": 5,
+          "question": "Describe how air is breathed in, using the rib cage and diaphragm, so that it reaches the alveoli.",
+          "answer": "contraction of diaphragm; diaphragm flattens / moves down; bones of rib cage pulled upwards / outwards; external intercostal muscles contract / internal relax; pressure decreases / volume increases; air passes through nose / trachea / windpipe / larynx; through bronchi / bronchioles",
+          "marks": 5
+        },
+        {
+          "id": "q9b",
+          "number": "(b)",
+          "totalMarks": 5,
+          "question": "Bronchitis is a condition that can be triggered by breathing in substances that cause the bronchi to become inflamed and produce a large amount of mucus. Suggest how this condition can affect a person and explain how a person may be able to avoid developing the condition.",
+          "answer": "(effect on person): bronchi narrowed / blocked by mucus; need to cough + remove; pain (from coughing); increase in bacteria / microorganisms; harder for oxygen to reach alveoli / reduced gaseous exchange; reduced aerobic respiration; ability to exercise reduced; feel tired / lethargic; (avoiding the condition): avoid smoking / avoid breathing in smoke; avoid particulate air pollution / use of mask; avoid places with lots of vehicles",
+          "marks": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "paperId": "accounting-0452-2021-unit2-june-ms",
+  "subjectId": "accounting_cambridge_igcse",
+  "code": "0452/21",
+  "session": "May/June 2021",
+  "title": "Accounting Paper 2 - Mark Scheme",
+  "totalMarks": 100,
+  "timeMinutes": 105,
+  "questions": [
+    {
+      "id": "q1a",
+      "number": "1(a)",
+      "type": "structured",
+      "totalMarks": 10,
+      "question": "Prepare the sales ledger control account for Sinita for the month ended 31 August 2020.",
+      "answer": "Sales ledger control account: Debit side - Aug 1 Balance b/d $38,440, Aug 31 Bank (dis. Chq.) $88, Interest $125, Sales $26,845, Balance c/d $148 = $65,646. Credit side - Aug 1 Balance b/d $105, Aug 31 Contra $315, Irrecoverable debts $460, Discount allowed $692, Bank $30,121, Returns inwards $763, Balance c/d $33,190 = $65,646. Sep 1 Balance b/d $33,190, Balance b/d $148.",
+      "marks": 10
+    },
+    {
+      "id": "q1b",
+      "number": "1(b)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "State one purpose of a sales ledger control account.",
+      "answer": "Assist in the location of errors, Provide an instant total of trade receivables, Prove the arithmetical accuracy of the sales ledger, Enable a statement of financial position to be prepared quickly, Provide a summary of transactions relating to trade receivables, Help reduce fraud.",
+      "marks": 1
+    },
+    {
+      "id": "q1c",
+      "number": "1(c)",
+      "type": "structured",
+      "totalMarks": 4,
+      "question": "Prepare a bank reconciliation statement for Sinita at 31 August 2020.",
+      "answer": "Balance in cash book $6,416, Add Cheques not yet presented $9,825 = $16,241, Less Amounts not yet credited $2,460, Bank error $250 = $2,710, Balance on bank statement $13,531.",
+      "marks": 4
+    },
+    {
+      "id": "q1d",
+      "number": "1(d)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of reconciling after 1 month and after 3 months and make a recommendation.",
+      "answer": "Advantages of 1 month: Enables errors in cash book to be identified earlier, Enables errors on bank statement to be identified earlier, Errors are easier to identify, Enables missing entries in cash book to be identified earlier, Enables out-of-date cheques to be identified earlier, Enables balance on bank account to be reviewed regularly, Acts as deterrent to fraud. Disadvantages of 1 month: May take comparatively more time, More transactions to record, May be more costly. Advantages of 3 months: May take comparatively less time, Less transactions to record, May be less costly. Disadvantages of 3 months: Errors in cash book identified later, Errors on bank statement identified later, Errors may be more difficult to identify, Missing entries in cash book identified later, Out-of-date cheques identified later, Balance on bank account reviewed less frequently, Acts less as deterrent to fraud. Recommendation: Should reconcile after 1 month.",
+      "marks": 5
+    },
+    {
+      "id": "q2a",
+      "number": "2(a)",
+      "type": "structured",
+      "totalMarks": 11,
+      "question": "Prepare the three column cash book for Huan for September 2020.",
+      "answer": "Three column cash book: Debit side - Sep 1 Balance b/d $80, Sep 3 Sales $458, Sep 4 Cash c $453, Sep 4 Bank $453, Sep 5 Alisha $1,280, Sep 5 Lucia $21, Sep 8 Balance c/d $538 = $1,733. Credit side - Sep 1 Balance b/d $630, Sep 2 Motor repairs $35, Sep 6 Cao (dis chq) $200, Sep 7 Balance c/d $50,84 = $1,733. Sep 8 Balance b/d $50,84.",
+      "marks": 11
+    },
+    {
+      "id": "q2b",
+      "number": "2(b)",
+      "type": "structured",
+      "totalMarks": 1,
+      "question": "Name the document issued by Huan to Alisha on 5 September 2020.",
+      "answer": "Debit note",
+      "marks": 1
+    },
+    {
+      "id": "q2c",
+      "number": "2(c)",
+      "type": "structured",
+      "totalMarks": 8,
+      "question": "Indicate the effect on working capital and provide a reason for each transaction.",
+      "answer": "Sell surplus non-current assets: Increase - Bank increases so current assets increase, No change to current liabilities. Obtain short-term bank loan: No effect - Bank increases so current assets increase, Current liabilities increase by same amount. Reduce credit sales and increase cash sales by same amount: No effect - Trade receivables decrease and cash increases by same amount so no change in current assets, No change to current liabilities. Create provision for doubtful debts: Decrease - Trade receivables decrease so current assets decrease, No change to current liabilities.",
+      "marks": 8
+    },
+    {
+      "id": "q3a",
+      "number": "3(a)",
+      "type": "structured",
+      "totalMarks": 14,
+      "question": "Prepare the manufacturing account for Naomi for the year ended 30 September 2020.",
+      "answer": "Cost of materials consumed: Purchases $42,100, Less Closing inventory of raw materials $11,200 = $30,900. Direct factory wages $46,700, Royalties $3,900. Prime Cost $81,500. Factory overheads: Indirect factory wages $15,940, Factory general expenses $8,620, Factory rent and rates (2/3 x $7,800) $5,200, Depreciation factory machinery (15% x $80,000) $12,000, Depreciation loose tools ($800 - $670) $130 = $41,890. Add Closing work in progress $1,680 = $123,390, Less Closing work in progress $1,680 = Cost of production $121,710.",
+      "marks": 14
+    },
+    {
+      "id": "q3b",
+      "number": "3(b)",
+      "type": "structured",
+      "totalMarks": 6,
+      "question": "Calculate the total change in profit for the year for Naomi.",
+      "answer": "Annual wages of factory workers decrease $3,000 = Increase profit $3,000. Machinery repairs decrease 60% of $1,100 = $660 = Increase profit $660. Cost of raw materials decrease 10% of $30,900 = $3,090 = Increase profit $3,090. Loan interest 4% of $100,000 = $4,000 = Decrease profit $4,000. Depreciation increase $500 = Decrease profit $500. Total change in profit $2,250 increase.",
+      "marks": 6
+    },
+    {
+      "id": "q4a",
+      "number": "4(a)",
+      "type": "structured",
+      "totalMarks": 13,
+      "question": "Prepare the income statement for Aaron and Sami for the year ended 31 August 2020.",
+      "answer": "Revenue $240,560, Less Sales returns $2,100 = $238,460. Cost of sales: Opening inventory $36,500, Purchases $129,270, Carriage inwards $1,240 = $167,010, Less Closing inventory $42,750 = $124,260. Gross profit $114,200. Less Expenses: Administrative expenses $61,040, Rent payable ($23,680 - $5,920) $17,760, Depreciation Fixtures and fittings (10% x ($86,600 - $51,200)) $3,540 = $82,340. Profit from operations $31,860, Loan interest (5% x $2,000) $100, Bank interest ($675 + $225) $900 = $1,000. Profit for the year $30,860.",
+      "marks": 13
+    },
+    {
+      "id": "q4b",
+      "number": "4(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Discuss the possible effects on the business of purchasing from a cheaper supplier.",
+      "answer": "Payments to suppliers reduced OR improve liquidity/working capital. May be more wastage/faulty goods/poor quality goods. Customers may be dissatisfied/sales may fall/may be more sales returns. Gross profit may fall because of increased wastage/reduced selling price/fall in sales. Gross profit may increase because of lower cost of sales/purchases.",
+      "marks": 2
+    },
+    {
+      "id": "q4c",
+      "number": "4(c)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of using personal funds to repay the bank loan and make a recommendation.",
+      "answer": "Advantages: Reduction in interest costs resulting in increased profits, Higher interest on capital received, May increase share of profits for partners, Reduces any claim bank may have on business assets. Disadvantages: More personal funds at risk, May not have sufficient personal funds available, May cause conflict between partners, Interest on capital may be lower than alternative investments. Recommendation: Should use personal funds to repay bank loan.",
+      "marks": 5
+    },
+    {
+      "id": "q5ai",
+      "number": "5(a)(i)",
+      "type": "structured",
+      "totalMarks": 3,
+      "question": "Prepare a statement showing the retained earnings of the company for the year ended 31 August 2020.",
+      "answer": "Retained earnings 1 September 2019 $12,000, Add Profit for the year $12,600 = $24,600, Less Transfer to general reserve $3,000, Less Interim dividend paid $6,000 = $9,000. Retained earnings at 31 August 2020 $15,600.",
+      "marks": 3
+    },
+    {
+      "id": "q5aii",
+      "number": "5(a)(ii)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Calculate the equity of the company at 31 August 2020.",
+      "answer": "Issued share capital $120,000, General reserve ($8,000 + $3,000) $11,000, Retained earnings $15,600 = $146,600.",
+      "marks": 2
+    },
+    {
+      "id": "q5b",
+      "number": "5(b)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain two differences between share capital and loan capital.",
+      "answer": "Share capital is permanent capital: loan capital must be repaid. Shareholders are paid dividends: lenders are paid interest. Shareholders have voting rights: lenders do not have voting rights. In winding up share capital repaid after loan capital: loan capital repaid before share capital.",
+      "marks": 2
+    },
+    {
+      "id": "q5c",
+      "number": "5(c)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain two differences between preference shares and ordinary shares.",
+      "answer": "Preference shareholders receive fixed rates of dividend: ordinary shareholders receive variable rates. Preference shareholders receive dividends before ordinary shareholders: ordinary shareholders receive dividends (if any) last. Preference shareholders do not usually have voting rights: ordinary shareholders have voting rights. In winding up preference shareholders repaid before ordinary shareholders: ordinary shareholders repaid last.",
+      "marks": 2
+    },
+    {
+      "id": "q5d",
+      "number": "5(d)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Explain two implications for a company of issuing debentures.",
+      "answer": "Interest payments may reduce dividends, Debenture holders are repaid before ordinary shareholders in winding up, Debenture interest is paid before ordinary share dividends.",
+      "marks": 2
+    },
+    {
+      "id": "q5e",
+      "number": "5(e)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Suggest two ways the company could improve its cash flow from trade receivables.",
+      "answer": "Offer cash discount for early settlement/prompt payment, Charge interest on overdue accounts, Improve credit control/send invoices or statements promptly, Refuse further supplies until outstanding balance paid, Invoice discounting and factoring.",
+      "marks": 2
+    },
+    {
+      "id": "q5f",
+      "number": "5(f)",
+      "type": "structured",
+      "totalMarks": 2,
+      "question": "Suggest two ways the company could improve its inventory turnover.",
+      "answer": "Reduce inventory levels, Increase sales activity, Change sales mix.",
+      "marks": 2
+    },
+    {
+      "id": "q5g",
+      "number": "5(g)",
+      "type": "structured",
+      "totalMarks": 5,
+      "question": "Discuss the advantages and disadvantages of taking advantage of early settlement discounts and make a recommendation.",
+      "answer": "Advantages: Reduces cost of purchases/goods, Increases profit, Maintain good supplier relationships, Avoids interest charges for late payment. Disadvantages: Reduces liquidity/cash payable immediately, Depends on cash availability, Increase in administration costs. Recommendation: Should take advantage of early settlement discounts.",
+      "marks": 5
+    }
+  ]
+}

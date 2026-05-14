@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { Search, X, ChevronRight, FileText, BookOpen } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { cn } from '../utils/cn';
+import { defaultPracticeSubjectId } from '../lib/practicePrefs';
 
 const TOPIC_SUGGESTIONS = [
   'Photosynthesis',
@@ -56,7 +57,7 @@ export function SmartSearch() {
     localStorage.setItem('recent_searches', JSON.stringify(updated));
     
     // Navigate to practice with topic filter
-    navigate('/practice', { state: { topic: searchTerm, mode: 'topic' } });
+    navigate(`/practice/${defaultPracticeSubjectId()}`, { state: { topic: searchTerm, mode: 'topic' } });
     setQuery('');
     setShowResults(false);
   };
