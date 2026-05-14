@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useLayoutEffect } from 'react';
 import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { QuestionCard } from '../components/QuestionCard';
 import { useQuestions } from '../hooks/useQuestions';
@@ -11,7 +11,11 @@ import {
   Trophy
 } from 'lucide-react';
 import { cn } from '../utils/cn';
-import { LAST_PRACTICE_SUBJECT_KEY, defaultPracticeSubjectId } from '../lib/practicePrefs';
+import {
+  LAST_PRACTICE_SUBJECT_KEY,
+  defaultPracticeSubjectId,
+  normalizePracticeSubjectId
+} from '../lib/practicePrefs';
 import { getAllBiologyPracticeQuestions } from '../data/biologyPracticePool';
 
 // Questions: Firestore for most subjects; bundled JSON for biology IGCSE (reliable offline / empty DB).
@@ -50,11 +54,12 @@ export function Practice() {
       ? window.localStorage.getItem(LAST_PRACTICE_SUBJECT_KEY)
       : null;
   const subject =
-    subjectFromState ??
-    subjectFromPath ??
-    subjectFromQuery ??
-    subjectFromStorage ??
-    defaultPracticeSubjectId();
+    normalizePracticeSubjectId(
+      subjectFromState ??
+        subjectFromPath ??
+        subjectFromQuery ??
+        subjectFromStorage
+    ) ?? defaultPracticeSubjectId();
 
   useEffect(() => {
     if (subject) {
@@ -76,21 +81,28 @@ export function Practice() {
   const { fetchQuestions } = useQuestions();
 
   useEffect(() => {
+    setCurrentIndex(0);
+    setAnswers({});
+    setShowResults(false);
+    setScore(0);
+  }, [subject, topic]);
+
+  // Biology: synchronous pool before paint (avoids a flash of loading / empty UI).
+  useLayoutEffect(() => {
+    if (subject !== 'biology_igcse') return;
+    const local = pickBiologyPracticeQuestions(topic, 10);
+    setQuestions(local);
+    setUsedBiologyFallback(false);
+  }, [subject, topic]);
+
+  useEffect(() => {
+    if (subject === 'biology_igcse') return;
+
     let cancelled = false;
 
     const loadQuestions = async () => {
       setQuestions(null);
       setUsedBiologyFallback(false);
-
-      // Biology IGCSE: always use bundled JSON (Firestore may be empty; avoids async race wiping questions).
-      if (subject === 'biology_igcse') {
-        const local = pickBiologyPracticeQuestions(topic, 10);
-        if (!cancelled) {
-          setQuestions(local);
-          setUsedBiologyFallback(false);
-        }
-        return;
-      }
 
       const filters = {};
       if (subject) filters.subject = subject;
@@ -105,7 +117,6 @@ export function Practice() {
         return;
       }
 
-      // Firestore empty / offline: still show practice using bundled Biology (0610) pool
       const fallback = pickBiologyPracticeQuestions(topic, 10);
       if (!cancelled) {
         setQuestions(fallback.length > 0 ? fallback : []);

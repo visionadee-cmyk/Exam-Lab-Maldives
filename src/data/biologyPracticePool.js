@@ -1,22 +1,10 @@
-import biology06102021Unit1June from './papers/biology-0610-2021-unit1-june-ms.json';
-import biology06102021Unit1November from './papers/biology-0610-2021-unit1-november-ms.json';
-import biology06102021Unit2June from './papers/biology-0610-2021-unit2-june-ms.json';
-import biology06102021Unit2November from './papers/biology-0610-2021-unit2-november-ms.json';
-import biology06102021Unit3June from './papers/biology-0610-2021-unit3-june-ms.json';
-import biology06102021Unit3November from './papers/biology-0610-2021-unit3-november-ms.json';
-import biology06102021Unit6June from './papers/biology-0610-2021-unit6-june-ms.json';
-import biology06102021Unit6November from './papers/biology-0610-2021-unit6-november-ms.json';
+/**
+ * Practice pool for Cambridge 0610 Biology — load every matching MS JSON via glob
+ * so Vite always bundles them (same pattern as interactiveMsPaperRegistry).
+ */
+const biology0610Modules = import.meta.glob('./papers/biology-0610-*-ms.json', { eager: true });
 
-const LOCAL_PAPERS = [
-  biology06102021Unit1June,
-  biology06102021Unit1November,
-  biology06102021Unit2June,
-  biology06102021Unit2November,
-  biology06102021Unit3June,
-  biology06102021Unit3November,
-  biology06102021Unit6June,
-  biology06102021Unit6November
-];
+const LOCAL_PAPERS = Object.values(biology0610Modules).map((m) => m?.default ?? m);
 
 function mapQuestion(paper, q) {
   const paperId = paper.paperId || paper.id || 'paper';
