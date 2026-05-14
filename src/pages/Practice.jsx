@@ -19,6 +19,54 @@ import {
 import { getAllBiologyPracticeQuestions } from '../data/biologyPracticePool';
 
 // Questions: Firestore for most subjects; bundled JSON for biology IGCSE (reliable offline / empty DB).
+const PRACTICE_BUILD_ID = 'workspace-root-src';
+
+function PracticeDiagnostics({
+  location,
+  subjectFromState,
+  subjectFromPath,
+  subjectFromQuery,
+  subjectFromStorage,
+  subject,
+  topic,
+  questions,
+  usedBiologyFallback
+}) {
+  const poolSize = getAllBiologyPracticeQuestions().length;
+  const qState =
+    questions === null ? 'loading(null)' : `array(len=${questions.length})`;
+  const payload = {
+    build: PRACTICE_BUILD_ID,
+    pathname: location.pathname,
+    search: location.search,
+    subjectFromState,
+    subjectFromPath,
+    subjectFromQuery,
+    subjectFromStorage,
+    resolvedSubject: subject,
+    topic,
+    biologyPoolQuestionCount: poolSize,
+    questionsState: qState,
+    usedBiologyFallback
+  };
+  return (
+    <details className="mt-6 text-left border border-gray-200 rounded-lg p-3 bg-gray-50">
+      <summary className="cursor-pointer text-sm font-medium text-gray-700">
+        Practice diagnostics (tap to expand)
+      </summary>
+      <pre className="mt-2 text-xs overflow-x-auto whitespace-pre-wrap break-words text-gray-800">
+        {JSON.stringify(payload, null, 2)}
+      </pre>
+      <p className="mt-2 text-xs text-gray-500">
+        If <code className="bg-gray-200 px-1 rounded">build</code> shows{' '}
+        <code className="bg-gray-200 px-1 rounded">nested-exam-lab-mv</code>, Vercel is building the{' '}
+        <code className="bg-gray-200 px-1 rounded">exam-lab-mv/</code> folder — keep that copy in sync
+        with <code className="bg-gray-200 px-1 rounded">src/</code> or change the Vercel &quot;Root
+        Directory&quot; to the repo root.
+      </p>
+    </details>
+  );
+}
 
 function shuffleCopy(arr) {
   const a = [...arr];
@@ -199,16 +247,29 @@ export function Practice() {
 
   if (questions === null) {
     return (
-      <div className="flex flex-col items-center justify-center py-16 text-gray-600">
-        <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-primary-600 mb-4" />
-        <p className="text-sm">Loading questions…</p>
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <div className="flex flex-col items-center justify-center py-12 text-gray-600">
+          <div className="animate-spin rounded-full h-10 w-10 border-b-2 border-primary-600 mb-4" />
+          <p className="text-sm">Loading questions…</p>
+        </div>
+        <PracticeDiagnostics
+          location={location}
+          subjectFromState={subjectFromState}
+          subjectFromPath={subjectFromPath}
+          subjectFromQuery={subjectFromQuery}
+          subjectFromStorage={subjectFromStorage}
+          subject={subject}
+          topic={topic}
+          questions={questions}
+          usedBiologyFallback={usedBiologyFallback}
+        />
       </div>
     );
   }
 
   if (questions.length === 0) {
     return (
-      <div className="text-center py-12 max-w-md mx-auto space-y-4">
+      <div className="max-w-3xl mx-auto px-4 py-8 text-center space-y-4">
         <p>No questions available. Try Biology practice (works offline) or pick another subject.</p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <button
@@ -222,6 +283,17 @@ export function Practice() {
             Back to Subjects
           </button>
         </div>
+        <PracticeDiagnostics
+          location={location}
+          subjectFromState={subjectFromState}
+          subjectFromPath={subjectFromPath}
+          subjectFromQuery={subjectFromQuery}
+          subjectFromStorage={subjectFromStorage}
+          subject={subject}
+          topic={topic}
+          questions={questions}
+          usedBiologyFallback={usedBiologyFallback}
+        />
       </div>
     );
   }
@@ -364,6 +436,18 @@ export function Practice() {
           </div>
         </div>
       )}
+
+      <PracticeDiagnostics
+        location={location}
+        subjectFromState={subjectFromState}
+        subjectFromPath={subjectFromPath}
+        subjectFromQuery={subjectFromQuery}
+        subjectFromStorage={subjectFromStorage}
+        subject={subject}
+        topic={topic}
+        questions={questions}
+        usedBiologyFallback={usedBiologyFallback}
+      />
     </div>
   );
 }
