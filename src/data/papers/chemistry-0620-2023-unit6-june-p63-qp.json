@@ -1,0 +1,127 @@
+{
+  "paperId": "chemistry-0620-2023-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all masses of sodium carbonate and citric acid correct (5.0, 5.0, 5.0, 5.0, 5.0 and 1.0, 2.0, 4.0, 5.0, 6.0) M2 and M3 all temperatures correct (25.0; 11.5; 5.0; 0.5; – 1.0; – 2.0) M4 all values shown to 1 dp",
+          "image": "/papers/chemistry-0620-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 y -axis scale in linear and points extend over halfway up scale above zero M2 and M3 all points plotted correctly M4 curved line of best-fit and because the temperature decreased 0620/63 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 working shown on graph at 3.5 g M2 correct value from their graph",
+          "image": "/papers/chemistry-0620-2023/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from:  so that the sodium carbonate mix together  so they react  so the temperature is the same throughout the mixture",
+          "image": "/papers/chemistry-0620-2023/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 insulation M2 reduces heat being gained from the surroundings / keeps temperature lower / stops temperature going up OR M1 prevents heat loss / prevents heat gain / prevents energy exchange with surroundings M2 stops temperature going up / reduces increase in temperature (after reaction has ended) / contains wate r",
+          "image": "/papers/chemistry-0620-2023/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not a sulfite",
+          "image": "/papers/chemistry-0620-2023/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 aluminium / A l 3+ M2 zinc / Zn 2+",
+          "image": "/papers/chemistry-0620-2023/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 potassium / K + M2 sulfate / SO 2–",
+          "image": "/papers/chemistry-0620-2023/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 effervescence / bubbles / fizzing M2 lime water turns milky 0620/63 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 blue precipitate M2 does not dissolve in excess 0620/63 May/June 2023 any 6 from: add excess solute, find mass not dissolved MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add known / stated / measured mass of oxalic acid / solid to the solvent MP5 shake / mix / stir MP6 filter and find mass of solid left MP7 smallest mass of solid is solvent in which it is the most soluble OR add solute gradually, stop when no more dissolves MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add stated / known mass / measure of ethanedioic acid MP5 shake / mix / stir MP6 if all dissolved, add more MP7 largest mass / most measures added is solvent in which it is the most soluble OR add excess solute, find mass that dissolves MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add known / stated / measured mass of ethanedioic acid / solid to the solvent MP5 shake / mix / stir MP6 filter and heat solution to evaporate all solvent and weigh solid left MP7 smallest mass of solid is solvent in which it is the most soluble max 6",
+          "image": "/papers/chemistry-0620-2023/q3-3f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit6-2023-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

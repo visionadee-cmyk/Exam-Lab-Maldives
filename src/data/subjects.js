@@ -58,6 +58,7 @@ export const O_LEVEL_SUBJECTS = [
   },
   {
     id: 'accounting_olevel',
+    aliases: ['accounting_cambridge_olevel'],
     code: '7707',
     name: 'Accounting (O Level)',
     board: EXAM_BOARDS.CAMBRIDGE_IGCSE,

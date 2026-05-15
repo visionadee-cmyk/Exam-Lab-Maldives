@@ -1,0 +1,51 @@
+{
+  "paperId": "wbs11-jan-2023-unit4-qp",
+  "pairedMarkSchemeId": "wbs11-jan-2023-unit4-ms",
+  "subjectId": "business_ial_pearson",
+  "code": "WBS14/01",
+  "session": "January 2023",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Using Extract A, calculate to two decimal places the GDP per capita of Senegal in 2021. (4) .................................................................................................................................................................................................................................................................................... .......................",
+      "text": "1 (a) Using Extract A, calculate to two decimal places the GDP per capita of Senegal in 2021. (4) .................................................................................................................................................................................................................................................................................... .......................",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Knowledge, Application, Analysis, Evaluation – indicative content • GDP measures the output of goods and services in an economy over a period of time • Increases in GDP can represent an increase in output showing increases in national income • This can show an increase in living standards for the population • A change in growth rates as measured by GDP can indicate the need for a change in economic policy • One country can compare its growth rate to other countries • However, inflation can distort GDP figures, a 3% increase in GDP with a 2% inflation rate is only a 1% growth rate in real terms • An increase in GDP may not represent an increase in income for many people if wealth distribution is inequitable • Economic activity may be unrecorded making GDP inaccurate • It does not measure qualitative aspects of life Level Mark Descriptor 0 No rewardable material. Level 1 1–2 Isolated elements of knowledge and understanding – recall based. Weak or no relevant application to business examples. Generic assertions may be presented. Level 2 3–5 Accurate knowledge and understanding. Applied accurately to the business and its context. Chains of reasoning are presented, showing cause(s) and/or effect(s) but may be assertions or incomplete. An attempt at an assessment is presented that is unbalanced and unlikely to show the significance of competing arguments. Level 3 6–8 Accurate and thorough knowledge and understanding, supported throughout by relevant and effective use of the business behaviour/context. Logical chains of reasoning, showing cause(s) and/or effect(s). Assessment is balanced, well contextualised, using quantitative and/or qualitative informa",
+          "image": "/papers/wbs11-jan-2023/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Knowledge, Application, Analysis, Evaluation – indicative content • Political stability is important because it means that the business is less likely to be disturbed by political events beyond its control • Economic policy is less likely to suddenly change • Political instability can be very disruptive to business activity such as civil unrest • The ‘gilets jaunes’ in France have caused delays and problems for some businesses • In extreme form, political instability such as armed insurrection or even war can be a catastrophic problem • Political stability means that corruption is likely to be lower which reduces the costs and problems for a business • Politically stable countries such as Senegal may be more attractive to investors than its close neighbours such as Guinea and Mali that have had coups and terrorist attacks • However, other factors may be more important such as the cost and availability of labour, - JLR’s decision to increase production in Slovakia and Europe • Access to raw materials - Senegal may be a stable country but its reserves of gas and oil are the main reasons for its recent increase in FDI • Infrastructure may be an important factor – such as Nissan’s need for a deep water port at Sunderland • These may outweigh or override political stability as a deciding factor • Being able to manufacture from within a trade bloc such as the EU may be more important • Much depends on the nature of the business and its needs Level Mark Descriptor 0 A completely inaccurate response. Level 1 1–2 Isolated elements of knowledge and understanding – recall based. Weak or no relevant application to business examples. Generic assertions may be ",
+          "image": "/papers/wbs11-jan-2023/q1-1d.png"
+        }
+      ],
+      "image": "/papers/wbs11-jan-2023/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbs11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Business-WBS11/Business-WBS11-2023-unit4-2023-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

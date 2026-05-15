@@ -1,0 +1,71 @@
+{
+  "paperId": "wch11-jan-2020-unit4-qp",
+  "pairedMarkSchemeId": "wch11-jan-2020-unit4-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH14/01",
+  "session": "January 2020",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is C (flasks 1 and 4 only) A is incorrect as flask 4 also contains only substances from the right-hand side of the equilibrium (HCl(aq) includes some water) B is incorrect as flask 1 also contains only substances from the right-hand side of the equilibrium D is incorrect as flasks 2 and 3 do not contain any ester Number Answer Mark B is incorrect as rapid hydrolysis would affect the position of the equilibrium C is incorrect as the acid is neutralised D is incorrect as although a buffer may form it does not affect the position of the ester equilibrium Number Answer Mark 14 The only correct answer is C A is incorrect as it shows a 0 order reaction B is incorrect as it shows a 0 order reaction D is incorrect as the concentration of Q remains constant Number Answer Mark oxygen quadruples, the rate increases by a factor of 8) A is not an incorrect statement as the overall order is 3 B is not an incorrect statement as the rate can be measured in units of mol dm -3 s -1 C is not an incorrect statement as increasing the pressure does increase the rate of the reaction Number Answer Mark",
+          "image": "/papers/wch11-jan-2020/q13-13a.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2020/q13.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is D (dm mol -2 s -1 ) A is incorrect as these are the units for a fourth overall order rate equation B is incorrect as the exponent values are incorrect C is incorrect as the signs on the exponent values for mol and dm are incorrect. Number Answer Mark",
+          "image": "/papers/wch11-jan-2020/q15-15b.png"
+        },
+        {
+          "id": "15c",
+          "text": "Part 15c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is A (1.31 x 10 −2 ) B is incorrect as it is the value for [NO] C is incorrect as the values for [O ] and rate are the wrong way round in the calculation, and the square root of the calculated value has not been determined D is incorrect as the values for [O ] and rate are the wrong way round in the calculation (Total for Section A = 20 marks) Section B Number Answer Additional Guidance Mark (2) All 4 peaks correctly matched scores both marks 2 or 3 peaks correctly matched scores 1 mark 0 or 1 peak correctly matched scores 0 marks NOTE Allow labels to/near to carbon of correct group Number Answer Additional Guidance Mark 4.2 ppm quartet due to 3 hydrogen (atoms) on adjacent carbon (1) Allow ‘due to adjacent CH ’ 1.3 ppm triplet due to 2 hydrogen (atoms) on adjacent carbon (1) Allow ‘due to adjacent CH ’ If neither mark awarded can score 1 for correct reference to n+1 rule If no reference to splitting patterns then allow 1 for correctly identifying both sets of adjacent hydrogens Number Additional Guidance Mark C(CH ) COCOOH Allow skeletal or displayed formulae If more than 1 structure type given, both must be correct. Number Answer Additional Guidance Mark Origin/start line shown above bottom of paper (1) Ignore omission of initial spot, but if shown must be on baseline Straight line for solvent front added and labelled (1) Allow ‘distance travelled by solvent’ Do not award wavy lines Do not award the top of the paper as the solvent front Spot due to ethyl-3-oxobutanoate in position consistent with R f between 0.4 and 0.5 (1) Number Answer Additional Guidance Mark M1 As only London forces form between them (so spot moves a shorter distance) / ethyl-3-oxobutanoate is polar, hexane is non-polar / (1) Allow reverse arguments Do not award M1 if reference to hydrogen bonds M2 Weaker interaction between hexane and ethyl-3- oxobutanoate / ethyl-3-oxobutanoate is less soluble in hexane (1) Allow solvent / mobile phase for hexane Allow ethyl-3-oxobuta",
+          "image": "/papers/wch11-jan-2020/q15-15c.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2020/q15.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2020-unit4-2020-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

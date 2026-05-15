@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2015-unit2-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit2-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/21",
+  "session": "May/June 2015",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "atoms with same number of protons but different number of neutrons / atoms with same atomic number but different number of neutrons / atoms with same number of protons but different mass number; A nucleon number for mass number A elements with same number of protons but different number of neutrons / atoms of same elements with different numbers of neutrons I atoms / elements with different (relative) atomic masses I same elements with different numbers of neutrons I reference to molecules I different neutrons (no number) Page 6 Mark Scheme Syllabus Paper (gas) tube leading from closed apparatus to flask or from inverted measuring cylinder with mouth underwater to flask; COND workable apparatus and apparatus airtight / no gaps in apparatus; A burette / graduated test-tube drawn and labelled test- tube R if tube goes to surface of water or under water in reaction flask (seconds); (cm ); ends up at same final volume; A straight line instead of curved line A line not reached final volume but still going up and likely to reach final volume A final horizontal line two small squares below the 25 ºC line R if a single straight line is drawn from 0–0 to point 49–140 / faster (rate) / quicker; 1I reference to time unless it contradicts increased rate hydrogen atoms do not have to be labelled H 1I single bond magnesium oxide / magnesium hydroxide / magnesium carbonate; A correct formulae R magnesium Page 7 Mark Scheme Syllabus Paper / increases rate (of reaction); 1A lowers the activation energy / allows the reaction to occur by more favourable mechanism / toxic / death; 1A harmful / makes breathing difficult / respiratory problems A combines with haemoglobin / reduces the amount of oxygen in the blood / stops you breathing / asphyxiation / suffocates you I lung cancer / lung damage / loss of oxygen / decrease in oxidation number; 1A gain of hydrogen 1A C / blend skins / crush skins; (grape skins) in water / in solvent / in named solvent; filter (off the solid / grape skins);",
+          "image": "/papers/chemistry-0620-2015/q3-3f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q3.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "7 (a) A student took two identical syringes. He fi lled one with water and the other with helium gas and sealed the end of both syringes. He then pushed the syringe plungers with equal force. The diagram shows what happened. syringe syringe plunger waterhelium Describe and explain these results using ideas about particles in liquids and gases. .......................................",
+      "text": "7 (a) A student took two identical syringes. He fi lled one with water and the other with helium gas and sealed the end of both syringes. He then pushed the syringe plungers with equal force. The diagram shows what happened. syringe syringe plunger waterhelium Describe and explain these results using ideas about particles in liquids and gases. .......................................",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) A student took two identical syringes. He fi lled one with water and the other with helium gas and sealed the end of both syringes. He then pushed the syringe plungers with equal force. The diagram shows what happened. syringe syringe plunger waterhelium Describe and explain these results using ideas about particles in liquids and gases. .......................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• liquids / water have particles close together / touching; • gases / helium have particles far apart / room between gas particles / more space between gas particles; • volume of liquid does not decrease / liquid not compressed / liquid not squeezed / plunger does not move; • volume of gas decreases / gas compressed / plunger moves; A no spaces between particles A syringe is not reduced A syringe is reduced I there is room / not room (reference to space between particles) / gets larger; 1A becomes heavier 1A 2 in the first shell and 8 in the second Ar: number of electrons = 18; symbol for neon is Ne;",
+          "image": "/papers/chemistry-0620-2015/q7-7a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit2-2015-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

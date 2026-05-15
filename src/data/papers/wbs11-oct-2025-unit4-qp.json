@@ -1,0 +1,43 @@
+{
+  "paperId": "wbs11-oct-2025-unit4-qp",
+  "pairedMarkSchemeId": "wbs11-oct-2025-unit4-ms",
+  "subjectId": "business_ial_pearson",
+  "code": "WBS14/01",
+  "session": "October 2025",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Using Extract A, calculate to two decimal places, the percentage increase in export revenue between December 2023 and January 2024. (4) .................................................................................................................................................................................................................................................................",
+      "text": "1 (a) Using Extract A, calculate to two decimal places, the percentage increase in export revenue between December 2023 and January 2024. (4) .................................................................................................................................................................................................................................................................",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Knowledge, Application, Analysis, Evaluation – indicative content • International trade allows a country to obtain goods and services it may not be able to produce by itself • It allows a country to obtain goods and services that can be bought more cheaply overseas • This increases consumer choice and welfare • A country such as Ireland can specialise in what it does best and sell the surplus. It earned €18.1bn in January 2024 from the sale of its exports • International trade creates opportunities for businesses to grow and increase profits • It stimulates growth for the whole economy and therefore benefits the population of a country by providing jobs and increasing incomes • Government can tax successful businesses and rising incomes to invest in future growth and provide important services such as education and healthcare • However, international trade allows more competition which may mean some domestic businesses may not be able to compete and will close down • This would increase unemployment and reduce some consumers’ incomes • International trade attracts criticism because some say that it favours the more-developed economies • Whilst Ireland is a successful economy and benefits greatly, other less-developed economies, particularly those that rely on basic commodities may not do as well Level Mark Descriptor 0 No rewardable material. Level 1 1–2 Isolated elements of knowledge and understanding – recall based. Weak or no relevant application to business examples. Generic assertions may be presented. Level 2 3–5 Accurate knowledge and understanding. Applied accurately to the business and its context. Chains of reasoning are presented, showi",
+          "image": "/papers/wbs11-oct-2025/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wbs11-oct-2025/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbs11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Business-WBS11/Business-WBS11-2025-unit4-2025-10-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

@@ -1,0 +1,143 @@
+{
+  "paperId": "wph11-jan-2022-unit3-qp",
+  "pairedMarkSchemeId": "wph11-jan-2022-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "January 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Measure length of card Or use a card of known length  Velocity = length of card / time taken (1) (1)  Mean v = 1.98 (m s −1 )  Use of half range Or use of maximum difference from the mean  %U = 7 % rounded to 1 or 2 s.f. Example Calculation Mean v = (2.07 + 1.84 + 1.91 + 2.10) / 4 = 1.98 m s −1 U = (2.10 − 1.84) / 2 = 0.13 m s −1 %U = (0.13 / 1.98) × 100 = 6.6 % (1) (1) (1)  Use of v = u + 2as  a = 1.31 (m s −2 ) Allow ecf for v from (b)(i) Example Calculation 1.98 = 0 + (2 × a × 1.50) a = 1.98 / (2 × 1.50) a = 1.31 m s -2 (1) (1)  The second student carried out the same experiment (1) 1 Total for question 1 8 Number Answer Mark",
+          "image": "/papers/wph11-jan-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Circuit with a means of varying the p.d. across the bulb (e.g., variable resistor, variable power supply)  Ammeter connected in series and voltmeter connect in parallel with the bulb (1) (1)",
+          "image": "/papers/wph11-jan-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Calculate power using P = VI  Repeat experiment and calculate mean  Vary p.d. to obtain at least five sets of data  Describes method to control background light Or describes controlling distance from LDR to light source (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Resistance is negligible (compared to resistance of LDR) (1) Total for question 2 7 Number Answer Mark",
+          "image": "/papers/wph11-jan-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Measure two of sides AB, BC or AC  Calculate θ using: θ = sin –1 (BC / AB) Or θ = cos –1 (AC / AB) Or θ = tan –1 (BC / AC) (1) (1)",
+          "image": "/papers/wph11-jan-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Measure the distance to the floor in two places using the metre rule Or place a spirit level along the bracket Or place a set square between the wall and the bracket Or place a protractor along the wall at the hinge Or correct description of applying Pythagoras theorem to the 3 measured lengths (1)",
+          "image": "/papers/wph11-jan-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Original/repeat measurements are not recorded  Inconsistent significant figures for F  x only recorded to nearest cm (1) (1) (1)  Intercept value between 0.7 and 0.9 N  Use of y-axis intercept = ௐ ଶ௦௜௡ఏ  W value between 0.9 and 1.2 N Example Calculation 0.8 N= 푊 2푠푖푛42 ̊ W = 1.1 N (1) (1) (1)  Percentage difference = 1.7%  Percentage difference is small, so method is accurate [MP2 dependent on MP1] Example Calculation Percentage difference = (ଽ.଼ଵ – ଽ.଺ସ) ଽ.଼ଵ ×100% Percentage difference = 1.7 % (1) (1) Total for question 3 11 Number Answer Mark  Correct 1/w values rounded to 2 s.f.  Labels axes with quantities and units  Sensible scales  Plotting  Line of best fit w / mm R / MΩ 1/w / m –1 14 33.6 71 18 26.1 56 26 17.2 38 37 13.3 27 53 8.7 19 (1) (1) (1) (2) (1)  Calculates gradient using large triangle  Use of gradient = ρl/t  t value between 0.81 mm – 0.87 mm Example Calculation gradient = 28.5 × 10 Ω / 60 m –1 = 4.75 × 10 Ω m t = (4.0 x 10 Ω m × 0.1 m) / 4.75 × 10 Ω m = 8.42 × 10 −4 m (1) (1) (1)  Micrometer has high resolution so low uncertainty Or Micrometer has a resolution of 0.01 mm so low uncertainty  Percentage uncertainty is reduced by measuring several thicknesses together Or The uncertainty of the measurement is divided by the number of slices, so percentage uncertainty is reduced (1) (1)  Calculates upper limit of 2% uncertainty for stated value of t  t determined from graph is above upper limit, so results not consistent Allow ecf for t from (a)(ii), Accept calculation and comparison with the lower limit (0.78) if t < 0.80 mm Example Calculation Upper limit = 0.80 ×1.02 = 0.82 mm 0.85 mm > 0.82 mm (1) (1) Total for question 4 13 y = 0.4713x -0.1106 0 10 20 30 40 50 60 70 80 R /MΩ 1/w/ m –1 Number Answer Mark  Number N of divisions between 7.1 and 7.3  Use of t = N × time per division  Use of s = ut  u value between 342 and 352 (m s −1 ) Do not accept use of v = f for MP3 & MP4 Example of Calculation t = 7.2 × 0.5 × 10 −3 s = ",
+          "image": "/papers/wph11-jan-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2022/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Peaks would be wider  It would be more difficult to judge the position/time of the peaks, so time between peaks would be less accurate (1) (1)",
+          "image": "/papers/wph11-jan-2022/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Percentage uncertainty of E = 4%  So, the Young modulus is the more significant source of uncertainty (allow a conclusion consistent with comparison using incorrectly calculated %U E ) Example of Calculation %U E = (0.5 GPa / 11.2 GPa) × 100 = 4.46% 4% > 3% (1) (1) Total for question 5 11 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2022/q5-5c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2022/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit3-2022-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

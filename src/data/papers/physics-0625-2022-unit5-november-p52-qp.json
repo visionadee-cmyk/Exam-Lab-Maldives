@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2022-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Use the thermometer to measure room temperature θ R . θ R = ...................................°C [1] (b) • Pour 100 cm 3 of cold water into beaker A. • Record the temperature θ C of the cold water. θ C = .......................................°C • Pour 100 cm 3 of the hot water provided into beak",
+      "text": "1 (a) Use the thermometer to measure room temperature θ R . θ R = ...................................°C [1] (b) • Pour 100 cm 3 of cold water into beaker A. • Record the temperature θ C of the cold water. θ C = .......................................°C • Pour 100 cm 3 of the hot water provided into beak",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Use the thermometer to measure room temperature θ R . θ R = ...................................°C [1] (b) • Pour 100 cm 3 of cold water into beaker A. • Record the temperature θ C of the cold water. θ C = .......................................°C • Pour 100 cm 3 of the hot water provided into beak",
+          "marks": 1,
+          "type": "structured",
+          "answer": "realistic room temperature value  R",
+          "image": "/papers/physics-0625-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "realistic values of  C and  H  H >  M >  C Δ and  correct  A >  M explanation of idea of beyond limits of experimental accuracy (e.g., values not close (enough) / too far apart / > 10% difference perpendicular viewing of scale / view at eye level / eye level with the surface of the water take the reading at the bottom of the meniscus place the measuring cylinder on a (horizontal) flat surface / ensure that measuring cylinder is vertical October/November 2022 Question Answer Marks",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line AB 7.0  0.2 cm long at 30° to the normal ( 2°) P distance at least 5.0 cm 1 P and P in correct area and straight line drawn through them 1",
+          "image": "/papers/physics-0625-2022/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "angle  correct to  2°",
+          "image": "/papers/physics-0625-2022/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct values of ( + ) all recorded values less than 90° 1 October/November 2022 Question Answer Marks",
+          "image": "/papers/physics-0625-2022/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "S in range 50.0  2.0 (cm) recorded to the nearest mm a values all to the nearest mm 1 a values all > 45.0 cm 1 suitable scales with a axis starting from 30 1 all plots correct to ½ small square 1 good line judgement, thin, continuous line 1 value correct to  ½ small square October/November 2022 Question Answer Marks 4 MP1 circuit diagram voltmeter correctly positioned with correct circuit symbol MP2 method attach a load, record / note / check V and I (and the value of the load) MP3 calculate / measure / record the resistance of the wire 1 MP4 repeat with at least two other loads 1 MP5 control variable distance / length of wire between crocodile clips MP6 table columns for load / tension / mass / number of loads, V, I and R with units at the head of each column MP7 conclusion compare load with resistance to see if there is an effect / plot graph of load against resistance. October/November 2022 Additional graph notes: NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only mark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

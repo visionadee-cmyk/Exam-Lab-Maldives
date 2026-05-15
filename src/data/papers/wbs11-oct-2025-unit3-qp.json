@@ -1,0 +1,43 @@
+{
+  "paperId": "wbs11-oct-2025-unit3-qp",
+  "pairedMarkSchemeId": "wbs11-oct-2025-unit3-ms",
+  "subjectId": "business_ial_pearson",
+  "code": "WBS13/01",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Using the data in Extracts A and B, calculate to two decimal places the labour productivity for Tesla in 2023. You are advised to show your working. (4) ................................................................................................................................................................................................................................................",
+      "text": "1 (a) Using the data in Extracts A and B, calculate to two decimal places the labour productivity for Tesla in 2023. You are advised to show your working. (4) ................................................................................................................................................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Knowledge 1, Application 2, Analysis 1 Quantitative skills assessed: QS3: construct and interpret a range of standard graphical forms. Knowledge 1 mark for correctly constructing a supply and demand diagram with correctly labelled axes as ‘Price’ and ‘Quantity’ (1) Application Up to 2 marks for: Showing supply and demand curves with original equilibrium price and quantity correctly labelled (1) Shifting the supply curve to the left (1) Analysis 1 mark for showing the new equilibrium and its effect on price (increasing) and quantity supplied (decreasing) (1) (4) Discuss the benefits for Tesla of implementing a Total Quality Management (TQM) system for the Cybertruck. Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. QS8: Use and interpret quantitative and non-quantitative information in order to make decisions QS9: Interpret, apply and analyse information in written, graphical and numerical forms Knowledge, Application, Analysis, Evaluation – indicative content • TQM involves all Tesla employees in improving Cybertruck quality, helping to address issues like technical defects and service delays • Focusing on customer feedback through TQM can fix problems like the accelerator pedal fault and leaks, boosting customer trust • TQM can reduce costs from recalls and repairs by improving quality and efficiency in production and service processes • TQM promotes ongoing improvements which can help Tesla refine the Cybertruck’s design and performance to better meet customer expectations • The continuous assessment and refinement promoted by TQM can lead to a more reliable and higher-quality Cybertruck, potentially reducing the frequency of issues and recalls • However, implementing TQM requires significant upfront costs for training a",
+          "image": "/papers/wbs11-oct-2025/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wbs11-oct-2025/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbs11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Business-WBS11/Business-WBS11-2025-unit3-2025-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

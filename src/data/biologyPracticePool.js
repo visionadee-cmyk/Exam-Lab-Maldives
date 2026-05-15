@@ -1,19 +1,37 @@
 /**
- * Practice pool for Cambridge 0610 Biology — load every matching MS JSON via glob
- * so Vite always bundles them (same pattern as interactiveMsPaperRegistry).
+ * Practice pool: prefer QP JSON (stem + options + MS answers), fall back to MS-only JSON.
  */
-const biology0610Modules = import.meta.glob('./papers/biology-0610-*-ms.json', { eager: true });
+const qpModules = import.meta.glob('./papers/biology-0610-*-qp.json', { eager: true });
+const msModules = import.meta.glob('./papers/biology-0610-*-ms.json', { eager: true });
 
-const LOCAL_PAPERS = Object.values(biology0610Modules).map((m) => m?.default ?? m);
+function paperBaseId(paperId) {
+  return String(paperId).replace(/-(qp|ms)$/, '');
+}
+
+function pickPapers() {
+  const byBase = new Map();
+  for (const mod of Object.values(msModules)) {
+    const paper = mod?.default ?? mod;
+    if (paper?.paperId) byBase.set(paperBaseId(paper.paperId), paper);
+  }
+  for (const mod of Object.values(qpModules)) {
+    const paper = mod?.default ?? mod;
+    if (paper?.paperId) byBase.set(paperBaseId(paper.paperId), paper);
+  }
+  return [...byBase.values()];
+}
+
+const LOCAL_PAPERS = pickPapers();
 
 function mapQuestion(paper, q) {
   const paperId = paper.paperId || paper.id || 'paper';
   const hasOptions = Array.isArray(q.options) && q.options.length > 0;
   const isMcq = q.type === 'multiple_choice';
+  const stem = q.text || q.question || '';
   return {
-    id: `${paperId}_${q.id}`,
-    text: q.question,
-    question: q.question,
+    id: `${paperBaseId(paperId)}_${q.id}`,
+    text: stem,
+    question: stem,
     type: isMcq && hasOptions ? 'mcq' : isMcq ? 'short_answer' : 'structured',
     marks: q.marks ?? q.totalMarks ?? 1,
     correctAnswer: q.answer ?? '',
@@ -23,7 +41,6 @@ function mapQuestion(paper, q) {
   };
 }
 
-/** All normalized questions from bundled 0610 mark-scheme JSON used as the local practice pool. */
 export function getAllBiologyPracticeQuestions() {
   return LOCAL_PAPERS.flatMap((paper) => {
     if (!paper?.questions?.length) return [];

@@ -1,0 +1,217 @@
+{
+  "paperId": "wma11-jan-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma11-jan-2023-unit1-v01-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WMA11/01",
+  "session": "January 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) 3, 7 , 9,11 PQ − and ( ) 12, 2 R Way 1 grad PQ = 11 7 − = −− , grad QR = 11 2 9 12 − =− − M1 A1 − = − so angle PQR =  A1 (3) Way 2 ( ) ( ) 11 7 PQ = −− + − = ( ) ( ) 12 9 2 11 QR = − + − = ( ) ( ) 2 7 PR = −− + − = M1 A1 PQ QR PR += (or e.g. 90 + 160 = 250) so angle PQR =  or e.g. 160 90 250 cos 2 160 90  +− = =  =  A1 (3) Way 3 12 9 , 11 7 2 11 PQ QR − − −         = = = =         − − −         M1A1 36 36 0 PQ QR     = = − =     −     so angle PQR = 90 A1 (3) General Guidance for part (a) M1: Requires some correct work depending on the method A1: Correct work for the chosen method A1: Depends on both previous marks and requires an explanation and a conclusion. The conclusion must refer to angle PQR being 90° or equivalent e.g. “PQ and QR are perpendicular”, “Q is 90”, “Q is a right angle” etc. but condone e.g. “A = 90” or e.g. “θ = 90” if the solution is otherwise correct. This may occur in a preamble e.g. If grad PQ x Grad QR = −1 then PQR = 90, 11 7 1 11 2 , 3, 3 9 12 −− = = − − = − −− − hence proven. Scores full marks. (a) Way 1 M1: Attempts both gradients with an attempt at difference in difference in y x seen at least once. A1: Achieves both correct gradients which may be left unsimplified e.g. grad PQ = and grad QR = − A1: e.g. PQR − = −  =  or e.g. is the negative reciprocal of – 3 so Q = 90. Do not allow ambiguous statements e.g. is the opposite inverse of – 3 for the explanation. NB: 11 7 1 11 2 , 3, 3 9 12 PQR = −− = = − − = −  −− − would be a minimum for M1A1A1 (a) Way 2 M1: Attempts all three lengths with an attempt at “the difference between the coordinates” and “squaring” seen at least twice. Note that the “differences” may be implied by their answers or their lengths. A1: All three lengths or lengths correct as single exact terms or as decimals – allow one d.p. Lengths are 160, 90, 250 or 4 10, 3 10, 5 10 or e.g. 12.6, 9.5 (or 9.4 truncated), 15.8 A1: via Pythagoras or cosine rule e.g. PQ QR P",
+          "image": "/papers/wma11-jan-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-05.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 x p = , x p + = or x p − = B1 3 9 1 3 x x x p pp +−  + = +  +  = + M1 3 0 pp + − = via p pp + = + * A1* (3) (b) ( ) ( ) 3 0 p p p p + − =  − + = M1 x = A1 M1 in EPEN x =− A1 (3) (6 marks) (a) Mark (a) and (b) together. B1: Uses an index law and states or implies any of x p = , x p + = or x p − = or equivalent forms e.g. , 3 , 3 x x x p p p p + − − =  =  =  If awarding for the first term, then it must be from correct work so 3 9 3 3 x x x p  =   = is fine but 3 9 3 3 xx p  =   = or 3 9 3 3 3 xx p  =   = is not, but do check the other terms. M1: Look for 3 931 331 xxx p pkp +−  + = +   =  oe obtained from correct work, with k = 6 or 9 So if e.g. 3p is obtained from 3 93 333 xx p =   = or 3 9 3 3 3 xx p  =   = then score M0. A1*: Proceeds to the given answer of 9263 0pp+ − = with no errors or omissions. An intermediate line of p pp + = + o.e. must be seen. Note that the following is common in part (a) and scores no marks: 3 9 1 3 3 3 x x x p p p + − −  + = +   + = + (b) M1: Valid non-calculator attempt at solving 9263 0pp+ − = − see General Guidance. It must be clear they are solving the given quadratic not their incorrect one. Answers just written down scores M0 A1(M1 in EPEN): For x = seen. It must be clear that it is a value for x and not a value for p or x. May be implied by e.g. px =  = − . You can ignore e.g. x =− for this mark. A1: 2x=− only Number Scheme Marks",
+          "image": "/papers/wma11-jan-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-11.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 2.4 ... A r r r =   =   =  M1 5.77 (m) 2.4 rr =  = A1 (2) (b) States or uses that angle AOB = awrt 0.37 B1 (1) (c) ( ) ''5.77 '' 6.25 sin'' 0.37 '' 6.5377...    = M1 Full method for area of stage = 40 2 5.77 6.25 sin 0.37 +     dM1 = 53.1 m A1 (3) (d) ( ) ''5.77''× 2.4 = 13.848 r θ= M1 ( ) 6.25 ''5.77 '' 2 6.25 ''5.77 '' cos'' 0.37 '' 2.26 xx = + −   = M1 Full method for perimeter of stage = 12.5 2 \"2.26\" ''5.77''× 2.4 +  + ddM1 = 30.9 m A1 (4) (10 marks) Allow equivalent correct work in degrees but part (b) must be in radians. (a) M1: Attempts to use Ar =  with A = 40 and  = 2.4 to find a value for r A1: Achieves awrt 5.77 (m). Apply isw if necessary e.g. if they subsequently write 5.77 as 5.8. (b) B1: Angle AOB = awrt 0.37. Allow this to score anywhere in their answer. (c) M1: Attempts area of triangle AOB (or triangle DOC) '' '' 6.25 sin'' '' ab    (May be seen ''doubled'') NB: “doubled” is 13.075... dM1: Attempts area of stage 40 2\" \" 6.25 sin\" \" ab+     or e.g. \"5.77\" 2.4 2\" \" 6.25 sin\" \" ab +     A1: Awrt 53.1 (m ). Condone awrt 53.0 but not just 53 unless awrt 53.1 or awrt 53.0 is seen earlier. (d) M1: Attempts '' ''× 2.4 r θ= a M1: Attempts to use the cosine rule to find length AB or AB (or CD/CD ) (Allow anywhere in their solution) e.g. 6.25 \" \" 2 6.25 \" \"cos\" \" x a a b = + −   ddM1: Full method to find perimeter of stage 12.5 2 '' ''× 2.4 AB a +  + It must be clear they are using AB not AB Depends on both previous M marks. A1: Awrt 30.9 (m) Beware in (d): ( ) 6.25sin 0.37 2.26... AB == erroneously and will lead to the correct answer 30.9 Generally, this will score M1M0ddM0A0 if the arc length calculation is correct. Number Scheme Marks",
+          "image": "/papers/wma11-jan-2023/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct Shape in quadrant 1 or 3 M1 Fully correct shape and position A1 (2) (b) E.g. Translate 2 (units) to the right (parallel to the x-axis) B1, B1 (2) (c) When x =− ... kx k k x  = +  = − +  = −− M1 k = A1 (2) (d) '' 2 '' 6 2 x x x x = +  = + − − M1 ( ) ( ) 0 2 x x x x = + −  − + = dM1 ,12 Q  =   A1, A1 (4) (10 marks) (a) M1: For a monotonically decreasing function in quadrant 1 or 3 with no incorrect asymptotes in that quadrant. It must not cross either axis but be tolerant of functions that don't go up or down as far as the x-axis and as far left or right as the y-axis. The “ends” should not come back away from the axes significantly but be tolerant of “wobbles”. A1: Correct shape and position with no incorrect asymptotes. Remember to check both diagrams and score the best single attempt if both are used. (b) B1: Partial description that implies at least one of the two components but is not fully correct E.g. ''Translates 2 units left'', ''Shifts/moves 2 units right'' B1: Requires (1): Translate/translation and (2):    or “2 (units to the) right” or e.g. “+2 in the x direction” A minimum could be e.g.: “Translate +2 on x” (c) M1: Substitutes 4x= into kx x =+ − and solves for k. Allow equivalent work e.g. () 41147...xykk= −  = −  − = − +  = Note that some will rearrange before substitution which is fine. E.g. ( ) ( ) ( ) 7 2 14, 6 24 ... kx x kx kx k x k k x = +  = − + = + − − = −  = − A1: k = oe e.g. k = (d) M1: Equates x − with kx + 7 using their value for k, cross multiplies to obtain a quadratic equation in x with terms not necessarily collected. Note that the rearrangement may have already been done in part (c). dM1: Solves 3TQ by any acceptable method including via a calculator. A1: . x = Condone Q = A1: ,12 Q  =   . Must be as coordinates or x = ..., y = ... Number Scheme Marks",
+          "image": "/papers/wma11-jan-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 '' '' y x c =+ or '' '' 12 ' y m x =− M1 312yx=− A1 (2) (b) k = B1 (1) (c) E.g. ( 4)( 10) y A x x = − − or ( 7) y C x = − − M1 E.g. (7 4)(7 10) ... AA − = − −  = Or (4 7) ... CC = − −  = dM1 2( 4)( 10) y x x = − − , 2( 7) yx = − − o.e. A1 (3) (d) Two of yx − , 2( 4)( 10) y x x  − − , 0x , 4x M1 E.g. 2( 4)( 10), 0 x y x x x −   − −   A1 (2) (8 marks) (a) M1: Attempts form y mx c =+ with m or c correct. May be implied by e.g. m = 3 (or ) or c = −12 A1: yx =− . A full correct equation is required including “y =”. Condone for 3. (b) B1: 10. k = Condone x = 10 and condone (10, 0) (c) M1: Attempts an equation of the form ( ) ( 4)( \"10\") y A x x = − − or ( ) ( 7) y C x = − − Condone with A, C =1 or any other constant. It is possible they could try with an attempt to use all three coordinates. The “y =” is not needed unless the equation is attempted as e.g. 18(7)yC x+ = − dM1: Full attempt at equation with an attempt at finding A or C. Depends on the first mark. E.g. (4)(\"10\")yA xx= − − and uses x = 7, y = −18 to find A or (7)18yC x= − − and uses x = 4 or x = “10” when y = 0 to find C A1: () 2(4)(10)yxx= − − , ( ) 2( 7) yx = − − o.e. e.g. ( ) 2( 7) yx = − − The “y =” is not required here, just look for a correct expression. (d) M1: Two of yx − , 2( 4)( 10) y x x  − − , 0x , 4x Accept with  and  Follow through their answers to part (a) and part (c) provided (a) is linear and (c) is quadratic. Do not allow e.g. Rx − , 2(4)(10)Rxx − − etc. but allow f(x) for y. A1: Fully defines region correctly (not ft here). E.g. ( ) 2( 4)( 10), 0 4 or 0, x y x x x x x −   − −     Or e.g. yx − , 2( 4)( 10) y x x  − − , x  , x  The right hand side of the inequality x  may be larger. Accept xp  as long as p Allow consistent use of  for all of their inequalities. Number Scheme Marks",
+          "image": "/papers/wma11-jan-2023/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-21.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " B1 (1) (b)(i) 3 B1 (1) (ii) 5 B1 (1) (iii) 201 B1 (1) (4 marks) (a) B1: Period is  (radians) but condone  or just 180 (b)(i) B1: 3 (ii) B1: 5 (iii) B1: 201 Number Scheme Marks",
+          "image": "/papers/wma11-jan-2023/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-25.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One of 6, xx −   −  M1 Both 6, xx −   −  A1 (2) (b) ()()()() ( ) 3206 23320 2918xxxxxx++− = ++ − = M1 x x x = + + − A1 A1 (3) (c) d d y xx x = + +  Gradient at x = is 126 M1 Equation of l is yx =− A1ft l cuts C again when 360 126 x x x x + + − = − dM1 ( ) x x x x + =  + = ddM1 x =− A1 (5) (10 marks) (a) M1: One of 6, xx −   −  . Condone with  for this mark and allow equivalent notation e.g. ,6 ,,,,6 ,,      − − − −          Allow the first inequality to be written separately as e.g. ,6 xx − − , and xx  −  − Condone incorrect notation e.g. ()() f6, f xx−  − or e.g. 6, yy −   −  A1: Both 6, xx−   − . Allow the first inequality to be written separately as e.g. ,6 xx  −  − and allow equivalent notation e.g. ,6 ,,    − −      but not e.g. ()() f6, f xx−  − (b) Allow (b) marks to score anywhere in their solution. M1: Attempts to multiply two brackets to create a quadratic before multiplying by the third to form a cubic A1: x x x  + +  where α and β are not both zero. A1: 360. x x x + + − Condone a spurious “= 0” e.g. 360 0 x x x + + − = but do not isw e.g. xxx++ − is A0 but see note below. (c) M1: Attempts the gradient of l by differentiating and substituting 0x= For the differentiation look for one of ... ... , ... ... , x x x x kx k → → → A1ft: Equation of l is yx =− . Follow through on their y ax bx cx d y cx d = + + +  = + Allow equivalent correct equations e.g. () 360 1260yx+ =− dM1: Sets the equation of their l to their answer for (b). Depends on the first M mark. ddM1: Attempts to solve cubic of the form ax bx += by taking out a factor of x or e.g. by division by x leading to a value for x. Depends on both previous M marks. May be implied by e.g. b ax bx x a + =  = − A1: x =− and no other solutions apart from x = 0 which can be ignored. Ignore any attempts to find y. Note that just an incorrect x coefficient in the expansion in (b) will result in x=− in (c) if the subsequent work is correct.",
+          "image": "/papers/wma11-jan-2023/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-29.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or implies that the gradient of the normal is − M1 Correct equation of normal e.g. ( ) yx − = − − A1 (2) (b) f ( ) 4 f ( ) 2 x x x x x x c −   = +  = + + M1 4, f ( ) 3 xx  = =  ( ) 3 32 4 ... 33 cc = + +  = − dM1 f ( ) 2 x x x  = + − A1 f ( ) 2 f ( ) x x x x x x x d  = + −  = + − + dM1 4, f ( ) 16 xx = =  ( ) f ( ) x x x x = + − + ddM1A1 (6) (8 marks) (a) M1: States or implies that the gradient of the normal is − A1: Finds the equation of the normal ( ) yx − = − − o.e. e.g. , 3 52 0 y x y x = − + + − = But not y x − =− − . Requires a full correct equation. Apply isw once a correct equation is seen. (b) Award marks if work in (b) is seen in (a). M1: Attempts to integrate f ( ) x  once with one index correct. E.g. 4...xx→ or ... x x → dM1: Applies f (4) 3  = and solves to find a constant of integration. Depends on first M1. A1: ( ) f ( ) x x x  = + − or obtains ( ) f ( ) x x x c  = + + with c correctly calculated as −33 Ignore labelling of the function e.g. they may call it f (x) dM1: Dependent upon first M1 only. For an attempt to integrate f ( )x  twice and achieve a form ( ) f ( ) ... x ax bx = + + where ... could be 0. Ignore labelling of the function e.g. they may call it f(x) dddM1: Dependent upon all previous M's. It is for using f (4) 16 = (may be implied) to find the constant of integration. A1: () f ( )33 xxxx=+ − + or exact equivalent. Apply isw once a correct expression is seen. The “ f ( ) x = ” is not required and ignore any label they may have given it. Also allow ( ) f ( ) x x x x c = + − + with c correctly calculated as . Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wma11-jan-2023/q11-11a.png"
+        }
+      ],
+      "image": "/papers/wma11-jan-2023/page-11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2023-unit1-2023-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma11-jan-2023/page-01.png",
+      "/papers/wma11-jan-2023/page-02.png",
+      "/papers/wma11-jan-2023/page-03.png",
+      "/papers/wma11-jan-2023/page-04.png",
+      "/papers/wma11-jan-2023/page-05.png",
+      "/papers/wma11-jan-2023/page-06.png",
+      "/papers/wma11-jan-2023/page-07.png",
+      "/papers/wma11-jan-2023/page-08.png",
+      "/papers/wma11-jan-2023/page-09.png",
+      "/papers/wma11-jan-2023/page-10.png",
+      "/papers/wma11-jan-2023/page-11.png",
+      "/papers/wma11-jan-2023/page-12.png",
+      "/papers/wma11-jan-2023/page-13.png",
+      "/papers/wma11-jan-2023/page-14.png",
+      "/papers/wma11-jan-2023/page-15.png",
+      "/papers/wma11-jan-2023/page-16.png",
+      "/papers/wma11-jan-2023/page-17.png",
+      "/papers/wma11-jan-2023/page-18.png",
+      "/papers/wma11-jan-2023/page-19.png",
+      "/papers/wma11-jan-2023/page-20.png",
+      "/papers/wma11-jan-2023/page-21.png",
+      "/papers/wma11-jan-2023/page-22.png",
+      "/papers/wma11-jan-2023/page-23.png",
+      "/papers/wma11-jan-2023/page-24.png",
+      "/papers/wma11-jan-2023/page-25.png",
+      "/papers/wma11-jan-2023/page-26.png",
+      "/papers/wma11-jan-2023/page-27.png",
+      "/papers/wma11-jan-2023/page-28.png",
+      "/papers/wma11-jan-2023/page-29.png",
+      "/papers/wma11-jan-2023/page-30.png",
+      "/papers/wma11-jan-2023/page-31.png",
+      "/papers/wma11-jan-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

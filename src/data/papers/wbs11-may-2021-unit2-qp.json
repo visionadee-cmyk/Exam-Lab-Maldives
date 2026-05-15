@@ -1,0 +1,43 @@
+{
+  "paperId": "wbs11-may-2021-unit2-qp",
+  "pairedMarkSchemeId": "wbs11-may-2021-unit2-ms",
+  "subjectId": "business_ial_pearson",
+  "code": "WBS12/01",
+  "session": "May 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Define the term ‘partnership’. (Extract A, line 1) (2) .................................................................................................................................................................................................................................................................................... .............................................................",
+      "text": "1 (a) Define the term ‘partnership’. (Extract A, line 1) (2) .................................................................................................................................................................................................................................................................................... .............................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Knowledge 1, Application 2, Analysis 1 Knowledge 1 mark for identifying a way, e.g. • The business would need to offer low prices (1) Application Up to 2 marks for contextualised answers, e.g. • There are over 10,000 qualified solicitors in British Columbia in competition with BDVP (1) • BDVP has solicitors dealing in many aspects of law, such as business, contract and commercial law (1) Analysis 1 mark for developing the way, e.g. • Consumers are more likely to choose a legal business that offers competitive prices because there are over 10,000 solicitors to choose from (1) (4) Number Answer Mark Knowledge Up to 2 marks for defining employee protection legislation, e.g. • Laws and procedures a business must follow (1) in the treatment of its workers (1) OR For giving two ways, e.g. • It must keep up to date with changes to the legislation (1) • It might reduce the flexibility of existing employees (1) Application Up to 2 marks for answers contextualised to BDVP, e.g. • The change from five days unpaid family responsibility leave to seven days (1) • Employees could refuse to work overtime if they have significant family commitments (1) Analysis Up to 2 marks for reasons/causes/consequences for BDVP, e.g. • The business must follow changes in the legislation to avoid facing potentially expensive legal action (1) • When BDVP is busy it may not have enough employees available to complete the workload (1) (6) Number Indicative content Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Knowledge, Application, Analysis, Evaluation – indicative content • Factoring is a way a business can improve its cash flow by selling invoices to a third party • Liquidity is how easily/quickly assets can be converted into cash • BDVP allows clien",
+          "image": "/papers/wbs11-may-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wbs11-may-2021/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbs11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Business-WBS11/Business-WBS11-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

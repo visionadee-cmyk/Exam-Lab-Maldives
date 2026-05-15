@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Give an example of a conditional statement using pseudocode. ................................................................................................................................................... ................................................................................................................................................... ..........................",
+      "text": "3 (a) Give an example of a conditional statement using pseudocode. ................................................................................................................................................... ................................................................................................................................................... ..........................",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• To allow different routes through a program • dependent on meeting certain criteria Question Answer Marks • The entered number (Value)is being checked to see that it is not < 0 or not > 100 • If it is, it is rejected and the user has to enter another number / an error message is displayed • Otherwise the number is accepted, the word ‘Accepted’ is output along with the Value May/June 2019 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Value OUTPUT Input a value between 0 and 100 inclusive Invalid value, try again Invalid value, try again –1 Invalid value, try again Accepted: 50 1 mark – Value column 1 mark – OUTPUT column first line 1 mark – OUTPUT column lines two to five May/June 2019 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "START PRINT \"Input a value between 0 and 100 inclusive\" IS Value < 0 OR IS Value > 100 ? INPUT Value PRINT \"Invalid value, try again\" PRINT \"Accepted: \", Value END Yes No 1 mark – Input prompt and input value 1 mark – Correct decision box labelled sufficiently (Yes/No) – allow 2 decision boxes 1 mark – Remaining outputs correct 1 mark – All connecting lines and arrows to be complete and correct 1 mark – Standard flowchart symbols used May/June 2019 Question Answer Marks Bev01 Cola 1 mark for each correct content 1 mark for each correct format 1 mark for correct order",
+          "image": "/papers/computer_science-0478-2019/q4-4d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: BevNo BevName Calories Table: BEVERAGES BEVERAGES BEVERAGES Sort: Ascending Show:; ;    Criteria: >45 or: 1 mark for correct Field row 1 mark for Table and Sort rows 1 mark for correct Show row 1 mark for correct Criteria rows",
+          "image": "/papers/computer_science-0478-2019/q5-5d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

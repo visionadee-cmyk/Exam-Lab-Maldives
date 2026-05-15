@@ -1,0 +1,117 @@
+{
+  "paperId": "wma11-oct-2021-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma11-oct-2021-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA11/01",
+  "session": "October 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3230yx−=⇒ m= B1 (24),36, 2372, y yxyxyx x − =− − =− + +==− − M1 A1ft Full method to find one co-ordinate of P E.g. Solves () xx+=− − M1 Coordinates of P () 12,18 A1 (5) (b) 0, 3230... yyxx = − = ⇒= M1 (B1 on EPEN) Area BPA = ( ) 24 ''15 ''''18 '' 351 ×+ × = dM1 A1 cso (3) (8 marks) (24, 0) (12, 18) (−15, 0) (b) M1(B1 on EPEN): Uses y = 0 in l in an attempt to find the x coordinate of B. Checking any working for this mark but it may be implied by x = ±15 dM1 Correct attempt at area BPA using their 15− and 18. This requires ( ) 24 ''15 ''''18 '' ×+ × or equivalent correct work with their values e.g. ()( ) 24 121812 1518 × −+× ++ Or e.g. “shoelace method” 15 24 1215 0 24 18 0 0 0 15 18 −− = + × +−−+ × Depends on the first mark and depends on their B being a point on the x-axis. The working for the area takes precedence over any diagrams they have drawn so if the working is correct but e.g. their diagram has points in the wrong positions, award the marks. There may be other methods e.g. Hero’s formula or use of trigonometry – if you are unsure if such attempts deserve credit , use review. A1 351 cso Common errors seen in marking: With a correct triangle area method such attempts will often score (a) B0M1A1ftM1A0 (b) M1M1A0 Triangle for reference: yx−=⇒ () 3236 18420 ::24,,, 0 2313 133 lml yxPB    =→ =− −→−       yx−=⇒ ()() ::24,,15, 0 lml yxPB −  =−→ = − →   Number Scheme Marks 6.(a) Positive cubic shape anywhere with 1 maximum and 1 minimum M1 Positive cubic shape that at least reaches the x-axis at x = −1 and with a minimum on the x-axis at x = 3 A1 y intercept at 18. Must correspond with their sketch B1 For the intercepts allow as numbers as above or allow as coordinates e.g. (18, 0), (0, −1), (0, 3) as long as they are marked in the correct place. (3) (b) E.g. (22)(69) ...x xx+ −+= M1 = 210618x xx− ++ A1 A1 (3) (c) () f ( )6206xx x ′ = −+ B1ft 11 1 f6206 33 3    ′ =−+       M1 f0  ′ =   A1 y= A1 (4) (10 marks) (a) M1 Correct",
+          "image": "/papers/wma11-oct-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2021/page-11.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One correct sketch drawn and labelled correctly M1 One correct sketch drawn and labelled and with correct point A1 Completely correct sketches with both points A1 (3) (b) Sets 32xx+= B1 () x= − M1 () () () () 3 21 x + =×=+ −+ * A1* (3) (c) () () 32 192 1...xx= +⇒= + = M1 () 93 2 2x⇒= + , 32 6y= + A1, B1 (3) (9 marks) (a) Check all 3 diagrams and score the best single diagram unless the candidate clearly indicates which one they want marked by e.g. crossing out the other(s). M1 One correct curve drawn and labelled correctly: For f (2x) the curve should start at O and be above and remain above f (x) and not head back towards it significantly i.e. at least maintain the same gap. For f (x) + 3 the curve should start on the positive y-axis and be approximately the same shape as f (x) A1 One correct curve drawn as above and labelled and with correct point for that curve. The point does not have to be in the correct relative position – just look for values. A1 Completely correct sketches with both points correct and at least one correctly labelled – you can assume the other is the other. Allow f(2x) to cross f(x) + 3 as long as it is beyond (9, 6) but with no other intersections for x > 0 The coordinates for the transformed P must be indicated on the sketch or if they are away from the sketch it must be clear which curve they relate to. For examples see below. If you are in any doubt use review. () 4.5, 3 f( ) 3yx= + f (2 )yx= ( ) 9, 3 P ( ) 9, 6 (b) B1 Correct equation xx+= M1 Writes 2x as 2x and proceeds to collect terms in x Note that this may be achieved via e.g. 323212xxxx x += ⇒ += ⇒+ = Or e.g. 11 2 xxxx x += ⇒ += ⇒+ = A1* Proceeds to the given answer showing at least the steps () () () ( ) 3 21 x + =×=+ −+ or e.g. () ()()() 3213 2121 21xxx= − ⇒ += + − = Attempts using e.g. x x+= score no marks in part (b) Alternative: B1 Correct equation 32xx+= M1 3 2692690 xx x xxx x+= ⇒+ += ⇒− −= 636 36 xxx ±+ − −=⇒ = Squares both sides and collects terms to obtain a 3TQ in x and ",
+          "image": "/papers/wma11-oct-2021/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2021/page-27.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "12 f()12f()4xax xxa x − ′′′ =−⇒ =− B1 Sets f (27) 0 ′′ = a⇒ =−× a⇒= M1 A1 (3) (b) ( ) f()12f()9 xaxxxaxxc ′ =− ⇒ = −+ M1 A1ft Substitutes 1, f ( )8...xxc= =−⇒ = dM1 () f( )9 x xx= −+ A1 (4) (7 marks) Mark (a) and (b) together Do not be too concerned with notation e.g. in (a) when they differentiate they may call it f′(x) or e.g. d d y x (a) B1 States or uses f()4 xa x − ′′ = − which may be unsimplified M1 Sets their f (27) 0 ′′ = and proceeds to a value for a. It is dependent upon one correct term in f()x ′′ e.g. a or 4x − − (oe) A1 a= (b) M1 Integrates 12axx− with one term correct e.g. or x ax− with the indices processed. A1ft () f()12f()9 xaxxxaxxc ′ =− ⇒ = −+ follow through on a or a numerical a or a “made up” a but must include + c Allow simplified or unsimplified so allow e.g. x x c−+ dM1 Substitutes 1 and f ( )8xx== − to obtain a value for c. Must have numerical a now. Depends on the first M mark. A1 () f( )9. x xx= −+ Allow equivalent correct fractions for , or recurring decimals e.g. 0. 2, 0.7 .. with clear dots over the 2 and 7. Allow e.g. for xx Look for a correct expression so no need to see f(x) = ... and isw if necessary. Note that a fairly common error is to obtain a= − in part (a) leading to c= in part (b) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wma11-oct-2021/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2021/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wma11-oct-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2021-unit1-2021-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma11-oct-2021/page-01.png",
+      "/papers/wma11-oct-2021/page-02.png",
+      "/papers/wma11-oct-2021/page-03.png",
+      "/papers/wma11-oct-2021/page-04.png",
+      "/papers/wma11-oct-2021/page-05.png",
+      "/papers/wma11-oct-2021/page-06.png",
+      "/papers/wma11-oct-2021/page-07.png",
+      "/papers/wma11-oct-2021/page-08.png",
+      "/papers/wma11-oct-2021/page-09.png",
+      "/papers/wma11-oct-2021/page-10.png",
+      "/papers/wma11-oct-2021/page-11.png",
+      "/papers/wma11-oct-2021/page-12.png",
+      "/papers/wma11-oct-2021/page-13.png",
+      "/papers/wma11-oct-2021/page-14.png",
+      "/papers/wma11-oct-2021/page-15.png",
+      "/papers/wma11-oct-2021/page-16.png",
+      "/papers/wma11-oct-2021/page-17.png",
+      "/papers/wma11-oct-2021/page-18.png",
+      "/papers/wma11-oct-2021/page-19.png",
+      "/papers/wma11-oct-2021/page-20.png",
+      "/papers/wma11-oct-2021/page-21.png",
+      "/papers/wma11-oct-2021/page-22.png",
+      "/papers/wma11-oct-2021/page-23.png",
+      "/papers/wma11-oct-2021/page-24.png",
+      "/papers/wma11-oct-2021/page-25.png",
+      "/papers/wma11-oct-2021/page-26.png",
+      "/papers/wma11-oct-2021/page-27.png",
+      "/papers/wma11-oct-2021/page-28.png",
+      "/papers/wma11-oct-2021/page-29.png",
+      "/papers/wma11-oct-2021/page-30.png",
+      "/papers/wma11-oct-2021/page-31.png",
+      "/papers/wma11-oct-2021/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

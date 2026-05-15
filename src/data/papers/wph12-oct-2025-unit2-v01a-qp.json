@@ -1,0 +1,217 @@
+{
+  "paperId": "wph12-oct-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wph12-oct-2025-unit2-v01a-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01A",
+  "session": "October 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 13,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "12 (a) (1) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "text": "12 (a) (1) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "12 (a) (1) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Enable pulse to return before next is emitted Or to distinguish which reflected pulse corresponds to which emitted pulse (1) 1",
+          "image": "/papers/wph12-oct-2025/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푣푣= 푠푠 푡푡 Correct factor of 2 (either s or their t multiplied by 2) 푡푡= 5.9 ×10 −4 s (1) (1) (1) Example of calculation 푡푡= 0.1 m ×2 340 ms −1 = 5.88 × 10 −4 s Ultrasound is reflected away from car/sensor Or Ultrasound does not reflect (straight) back (to car) (1) Little/no reflection (detected) Or Pulse does not hit the post Or Post is not wide enough to reflect (enough of the ultrasound) (1) Total for question 12 6 Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph12-oct-2025/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph12-oct-2025/page-09.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "13 (a) (5) .................................................................................................................................................................................................................................................. ..........................................................................................................................................",
+      "text": "13 (a) (5) .................................................................................................................................................................................................................................................. ..........................................................................................................................................",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "13 (a) (5) .................................................................................................................................................................................................................................................. ..........................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of n sinθ = n sinθ r for violet light = 31.9(°) Or r for red light = 32.3(°) Use of trigonometry to calculate horizontal distances whilst in block Violet distance = 3.98 (cm) Or Red distance = 4.05 (cm) Distance between points = 0.070 cm (1) (1) (1) (1) (1) Example of calculation n sinθ = n sinθ . In air, n = 1.000 and θ = 54.00° so, for violet light, sinr = sin (54.00°) 1.532 , so r = 31.9° For red light, sinr = sin (54.0°) 1.513 , so r = 32.3° For violet light, tan (31.9°) = 푉푉 6.40 cm , so x = 3.98 cm For red light, tan (32.3°) = 푉푉 6.40 cm , so x = 4.05 cm Distance between points = 4.05 cm − 3.98 cm = 0.070 cm Accept answers in mm or metres e.g. 0.70mm Answers can vary according to number of significant figures used in interim calculations – correct answers can be between 0.06cm and 0.07cm",
+          "image": "/papers/wph12-oct-2025/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Use of sin C = 1/n Critical angle violet = 40.7(°) Or critical angle red = 41.4(°) Red light refracts out of the glass as i < C Or Angle of refraction for red light is 83(°) Violet light undergoes total internal reflection as i > C OR Use of n sinθ = n sinθ Calculates (n) sinθ as 0.99 for red Or 1.01 for violet (1) (1) (1) (1) (1) (1) Example of calculation sin C = 1.532 , C = 40.7° (violet), sin C = 1.513 , C = 41.4° (red) Allow MP3 & 4 for comparison of numbers e.g. red light refracts out of the glass as 41°< 41.4°, violet light undergoes total internal reflection as 41°>40.7° Example of calculation nsinθ for violet light = 1.532 sin (41.00°) = 1.01. nsinθ for red light = 1.513 sin (41.00°) = 0.99. Red light refracts out of the glass as (n)sinθ < 1 Or Angle of refraction for red light is 83(°) Violet light undergoes total internal reflection as (n) sinθ > 1 (1) (1) For MP3, ignore references to the fact that red light partially reflects as well as refracts Total for question 13 9 Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph12-oct-2025/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph12-oct-2025/page-11.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "14 (a) (4) .................................................................................................................................................................................................................................................. ...........................................................................................................................................",
+      "text": "14 (a) (4) .................................................................................................................................................................................................................................................. ...........................................................................................................................................",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "14 (a) (4) .................................................................................................................................................................................................................................................. ...........................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses R = V/I for resistor Or uses potential divider uses R = V/I for thermistor Or calculates whole circuit resistance and subtracts 11.5(Ω) R for thermistor = 19 (Ω) Temperature = 33-35°C (1) (1) (1) (1) Example of calculation R = V/I, I = V/R (for resistor), I = 3.42 V 11.5 Ω = 0.297 A R = V/I (for thermistor) = 9.00 − 3.42 V 0.297 A / = 18.8 Ω",
+          "image": "/papers/wph12-oct-2025/q14-14a.png"
+        },
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Increased e.m.f. leads to greater current (Increased current leads) to greater temperature Resistance of thermistor would decrease (The proportion of the total p.d. across thermistor would decrease so) voltmeter reading would more than double so student is incorrect (1) (1) (1) (1) Total for question 14 Number Acceptable Answer Additional Guidance Mark *15 This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully sustained reasoning. Indicative content IC1 Electrons/atoms have fixed/discrete energy levels IC2 (For an) electron to move to a higher energy level IC3 Photon has to have a certain frequency/energy Or Photon energy = hf IC4 Each photon only interacts with one electron IC5 When the electron drops back down, photon/light is released IC6 Violet has the correct energy to raise an electron (according to the photon model) Or Violet has an energy equal to the difference in energy levels (in the atom, according to the photon model) Or wave model would allow energy to build up so red/green would cause light to be emitted (which does not happen) Or wave model would not cause an immediate release of light Allow converse for red/green light Allow “wave model would allow energy to build up so any colour/frequency would work” Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph12-oct-2025/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph12-oct-2025/page-14.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "16 (a) (2) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+      "text": "16 (a) (2) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "16 (a) (2) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of sum of e.m.f. = sum of p.d. Or Total resistance of circuit = R + r Correct rearrangement/substitution leading to given equation (1) (1) Example of rearrangment ℰ =퐼퐼 ( 푅푅+푟푟 ) , so 푅푅= ℰ 퐼퐼 =푅푅+푟푟, so 푅푅= ℰ 퐼퐼 −푟푟",
+          "image": "/papers/wph12-oct-2025/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Gradient calculation (to calculate ε) ε = 1.5 V r = 2 Ω OR r = 2 Ω (read from y-intercept) Use of co-ordinates from the graph with the formula Or gradient calculation (to calculate ε) ε = 1.5 V (1) (1) (1) (1) (1) (1) Do not award MP3 if r is negative. Do not award MP1 if r is negative. Allow variations in the values of ε and r based on correct gradient calculations.",
+          "image": "/papers/wph12-oct-2025/q16-16b.png"
+        },
+        {
+          "id": "16c",
+          "text": "Part 16c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(As R increases,) circuit resistance increases So current decreases As 푃푃= 퐼퐼 r, the power decreases (MP3 dependent on MP2) OR Greater share of resistance / p.d. for variable resistor So p.d. across r decreases As 푃푃= 푉푉 푟푟 , the power decreases (MP3 dependent on MP2) OR Current decreases p.d. across r decreases As P = VI, the power decreases (MP3 dependent on MP2) (1) (1) (1) (1) (1) (1) (1) (1) (1) MP1 requires idea of share/proportion/ratio",
+          "image": "/papers/wph12-oct-2025/q16-16c.png"
+        },
+        {
+          "id": "16d",
+          "text": "Part 16d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Graph is clearly steeper than initial graph and is a straight line Exactly 2 × original gradient y-intercept at −4 Ω (1) (1) (1) Total for question 16 11 Number Acceptable Answer Additional Guidance Mark The (reflected) waves interfere / superpose A node forms where there is destructive interference Or An antinode forms where there is constructive interference (1) (1) (1) For “end” allow “road” or “main cable” 3 At point X the displacement varies (between maximum and zero) At point Y the cable always has zero displacement Or At point Y the cable is stationary (1) (1) (1) μ = 24.1 (kg m −1 ) (1) (1) Example calculation 휇휇= 2.10×10 kg 87.0 m μ = 24.14 kg m −1 Use of 푊푊=푚푚푚푚 Use of 푣푣= � 푇푇 휇휇 Use of 푣푣=푓푓푓푓 with λ = 320 m or λ = 7 m Or Use of 푣푣=푓푓푓푓 with 푓푓=280 Hz Lowest frequency produced by standing wave on longest cable = 1.1 Hz Or Lowest frequency produced by standing wave on shortest cable = 48 Hz (1) (1) (1) (1) (1) Example calculation 푊푊=140×10 kg× 9.81 N kg −1 = 1.37 ×10 N 푇푇 = 1.37×10 N = 2.74×10 N 푣푣= � 2.74 × 10 N 24 kg m −1 =338 m s −1 푓푓= 338 m s −1 = 1.06 Hz or 푓푓= 338 m s −1 =48.3 Hz Lowest frequency waves produced < 280 Hz so humming is not produced by standing waves on the suspending cables Or Length of cable needed to give lowest frequency of 280 Hz = 0.60 m Calculated frequency compared to 280Hz with consistent conclusion Or Calculated length of cable compared to 3.5m or 160m with consistent conclusion (1) Total for question 17 14 Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph12-oct-2025/q16-16d.png"
+        }
+      ],
+      "image": "/papers/wph12-oct-2025/page-21.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "18 (a) (6) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+      "text": "18 (a) (6) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "18 (a) (6) .................................................................................................................................................................................................................................................. .....................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of resistors in parallel formula Resistance of parallel section of circuit calculated as 1.33(Ω) Total circuit resistance = 2Ω + their parallel resistance Or Use of ratio of resistance: p.d. Use of I = V/R to calculate total circuit current (3A) Or Use of I = V/R to calculate p.d. across resistor A (6V) Use of P = VI, P = V /R or P = I R A = 18W, B = 2W, C = 2W, D = 8W (1) (1) (1) (1) (1) (1) Example of calculation 푅푅 푝푝 = 푅푅 + 푅푅 (for parallel combination) 푅푅푅푅 = + R p = 1.33 Ω Total resistance in circuit = (1.33 + 2.00) = 3.33 Ω I = V/R (for whole circuit ) = 10.0 V 3.33 Ω = 3.00 A For resistor A, P = I R = (3.00 A) × 2.00 Ω = 18 W Current through D = (3.00 A) = 2.00 A For D, P = I R = (2.00 A) × 2.00 Ω = 8 W For B and C, P = I R = (1.00 A) × 2.00 Ω = 2 W",
+          "image": "/papers/wph12-oct-2025/q18-18a.png"
+        },
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(With resistor D removed there is:) Greater circuit resistance Or Lower circuit current Or Lower p.d. across A As P = VI, the power in A would be less (MP2 dependent on MP1) (1) (1) Do not award MP1 if any of the three statements are quoted incorrectly Allow reference to P = V /R or P = I R",
+          "image": "/papers/wph12-oct-2025/q18-18b.png"
+        },
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(As p.d increases,) current increases (Increase of current linked to) increase in temperature The lattice vibrations increase Increased rate of collisions between electrons and atoms/ions/lattice (1) (1) (1) (1) Accept “filament heats up” Accept “ions”, “atoms” for “lattice” Accept “frequency” for “rate” Total for question 18 12",
+          "image": "/papers/wph12-oct-2025/q18-18c.png"
+        }
+      ],
+      "image": "/papers/wph12-oct-2025/page-25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 13,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/wph12-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit2-2025-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph12-oct-2025/page-01.png",
+      "/papers/wph12-oct-2025/page-02.png",
+      "/papers/wph12-oct-2025/page-03.png",
+      "/papers/wph12-oct-2025/page-04.png",
+      "/papers/wph12-oct-2025/page-05.png",
+      "/papers/wph12-oct-2025/page-06.png",
+      "/papers/wph12-oct-2025/page-07.png",
+      "/papers/wph12-oct-2025/page-08.png",
+      "/papers/wph12-oct-2025/page-09.png",
+      "/papers/wph12-oct-2025/page-10.png",
+      "/papers/wph12-oct-2025/page-11.png",
+      "/papers/wph12-oct-2025/page-12.png",
+      "/papers/wph12-oct-2025/page-13.png",
+      "/papers/wph12-oct-2025/page-14.png",
+      "/papers/wph12-oct-2025/page-15.png",
+      "/papers/wph12-oct-2025/page-16.png",
+      "/papers/wph12-oct-2025/page-17.png",
+      "/papers/wph12-oct-2025/page-18.png",
+      "/papers/wph12-oct-2025/page-19.png",
+      "/papers/wph12-oct-2025/page-20.png",
+      "/papers/wph12-oct-2025/page-21.png",
+      "/papers/wph12-oct-2025/page-22.png",
+      "/papers/wph12-oct-2025/page-23.png",
+      "/papers/wph12-oct-2025/page-24.png",
+      "/papers/wph12-oct-2025/page-25.png",
+      "/papers/wph12-oct-2025/page-26.png",
+      "/papers/wph12-oct-2025/page-27.png",
+      "/papers/wph12-oct-2025/page-28.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

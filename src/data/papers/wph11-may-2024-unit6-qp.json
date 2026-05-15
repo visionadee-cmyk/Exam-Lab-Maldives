@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-may-2024-unit6-qp",
+  "pairedMarkSchemeId": "wph11-may-2024-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "May 2024",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Clamp metre rule in position and use a set square to ensure metre rule is vertical accept spirit level Ensure the metre rule is close to the mass View the ruler perpendicularly Or Use a set square to read off the ruler (1) (1) (1) Example of calculation Mean value of h = ( 0.246 + 0.239 + 0.243 + 0.241 ) m = 0.2423 m = 0.242 m (1) 1 Correct percentage uncertainty given to 1 or 2 sig figs (e.c.f. 1(c)(i)) Example of calculation Half range = ( 0.246 − 0.239 ) m = 3.5 × 10 −3 (m) Percentage uncertainty = 3.5 × 10 −3 m 0.242m × 100 = 1.4% Allow rounding or use of furthest from the mean to give half range of 4mm, so %U=1.7% (1) (1) and E = mgh Use of efficiency = useful energy output total energy input Efficiency = 0.56 Allow 56% e.c.f. 1(c)(i) Example of calculation E = ½CV = 0.5 × (4700 × 10 −6 )C × (6V) = 0.0846 J E = mgh = (20 × 10 −3 )kg × 9.81ms × 0.242m = 0.0475 J Efficiency = 0.0475J 0.0846J = 0.56 (1) (1) (1) Total for question 1 11 Number Answer Mark Clear working leading to units of N s m −2 Example of working 휂= π휌푃푟 푡 8퐿푀 = (kg m −3 )( N m −2 )(m )(s) (m)(kg) =N s m −6 m =N s m −2 (1) (1) 2. Repeat the measurement (of diameter) at different orientations and calculate the mean 3. Ensure pipe is horizontal using a spirit level Or (Turn on the tap and wait until) pressure difference is constant Or Keep stopwatch close to the mass balance 4. Measure M and corresponding value of t 5. Record at least 5 sets of values. 6. Plot a graph of M against t and calculate the gradient to determine  Accept valid alternative graphs with M and t as variables Accept a stated gradient if correct (1) (1) (1) (1) (1) (1) The data logger has a high sampling rate (1) (1) Total for question 2 10 Number Answer Mark Use a marker at the centre of the oscillation Or use a marker on the mass Repeat the measurement of T and calculate a mean Or Allow the oscillations to settle before timing (1) (1) (1) log T = log a +b log M Compares with y = c + mx where b is the gradient (which is consta",
+          "image": "/papers/wph11-may-2024/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit6-2024-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

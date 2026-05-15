@@ -1,0 +1,258 @@
+{
+  "paperId": "wme01-may-2022-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-may-2022-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "May 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 19,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Find the direction in which Q is travelling, giving your answer as a bearing. (2) The boats are modelled as particles. At time t = 0 , P is at the origin O and Q is at the point with position vector 200j m. At time t seconds, the position vector of P is p m and the position vector of Q is q m. (b) Show that PQ → = [5ti + (200 – 20t)j] m (5) (c) Find the bearing of P from Q when t =",
+      "text": "1 (a) Find the direction in which Q is travelling, giving your answer as a bearing. (2) The boats are modelled as particles. At time t = 0 , P is at the origin O and Q is at the point with position vector 200j m. At time t seconds, the position vector of P is p m and the position vector of Q is q m. (b) Show that PQ → = [5ti + (200 – 20t)j] m (5) (c) Find the bearing of P from Q when t =",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Find the direction in which Q is travelling, giving your answer as a bearing. (2) The boats are modelled as particles. At time t = 0 , P is at the origin O and Q is at the point with position vector 200j m. At time t seconds, the position vector of P is p m and the position vector of Q is q m. (b) Show that PQ → = [5ti + (200 – 20t)j] m (5) (c) Find the bearing of P from Q when t =",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 impulse-momentum equation, dimensionally correct, correct no. of terms, condone sign errors but must be attempting a difference of momenta. Allow if they use m instead of 3m. A1 Correct equation (v may be replaced by v − ) A1 cao (must be positive)",
+          "image": "/papers/wme01-may-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "DB1 Dependent on obtaining either or uu− for v in (a). Number Scheme Marks",
+          "image": "/papers/wme01-may-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find an equation in a only (note that u = 16) N.B. Allow 220 (28 10) a =  +  ( s ut at =+ for ‘reverse’ motion) leading to a = -1.2 M1A0A0 but if they then change a to 1.2, then it becomes M1A1A1 retrospectively) M0 if they assume u = 0 A1 Correct equation A1 cao",
+          "image": "/papers/wme01-may-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find the speed at t = 4 or 5 OR a distance at t = 4 or 5 M0 if they assume u = 0 A1ft A correct speed or distance, follow through on their a and u but only if u has been used to find a in part (a). M1 Complete method to find the required distance A1 cao Number Scheme Marks",
+          "image": "/papers/wme01-may-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct no. of terms, condone sign errors (use mass to determine which equation is being attempted) A1 Correct equation M1 Correct no. of terms, condone sign errors A1 Correct equation DM1 Solve for R, dependent on both M marks A1 cao",
+          "image": "/papers/wme01-may-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Any equivalent statement e.g ‘both have the same acceleration’ but not just ‘same acceleration’. Need to say ‘both’ or mention the tractor and the block. Allow ‘they have the same acceleration’. Allow ‘same acceleration throughout the system’ and ‘both particles have the same acceleration’. N.B. B0 if extra wrong answers are included. Number Scheme Marks",
+          "image": "/papers/wme01-may-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()  14si n o Rg =− M1 A1 R = 42 (N) A1 (Max Friction =)  = 18 (N) (18 only, with no working can score this M mark) M1 Horiz cpt of P = 14 cos o = 12.124... and 12 < 18 (their max friction) They must be comparing with a maximum friction i.e. the word ‘maximum’ oe must have been clearly stated somewhere. N.B. M0 if they state or imply that the friction acting on the block is 18 N. M1 Friction = 12 or better (N) and block doesn’t move A1 (6)",
+          "image": "/papers/wme01-may-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "30( ) sin5 o PSg+ = M1A1 ( ) cos o PS →= (Allow M1A0 if they use the max friction from (a) or wrong value for S  ) (allow M1A0 for cos o PF = ) M1A1 Solve for P DM1 P = 19 or 19.4 (N) A1 (6) (12) Notes for question 4 A1 Correct equation in R only. A1 Correct value (seen or implied) M1 Use of FR= with their R substituted. M1 Condone sin/cos confusion A1 cao and any equivalent correct statement and justification A1 Correct equation M1 Correct no. of terms, condone sin/cos confusion and sign errors A1 Correct equation DM1 Dependent on both M marks; must be solving two equations in P and one other unknown A1 cao Number Scheme Marks 5. R C R D C D B A 1m 1.5m G 0.5m 2m 10g 5g Mg",
+          "image": "/papers/wme01-may-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to give an equation in C R and M only, correct number of terms, condone sign errors, dim correct M0 if they assume that the reactions are equal. A1 Correct equation(s) A1 Correct expression (g’s must be collected)",
+          "image": "/papers/wme01-may-2022/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to give an equation in D R and M only, correct number of terms, condone sign errors, dim correct M0 if they assume that the reactions are equal. A1 Correct equation(s) A1 Correct expression (g’s must be collected) A1ft Critical value of C R OR Critical value of D R but must be POSITIVE. A1 cao Allow 0.625kg kg 16.25kg M  Number Scheme Marks 6. (5 8 ) ( 4 ) 3 − = − + + i j i j a M1A1 ( 4 ) 2.5(2 4 ) = − + + − v i j i j M1 (4 6 ) =− v i j A1 Speed = ( 6) +− = 527.2 (m s ) or better − = M1A1 (6) OR:     (4 3.5) ( 4 ) =(3.5 1) (5 8 ) − − − + − − − v i j i j v oe M2A1 (4 6 ) =− v i j A1 Speed = ( 6) +− = 7.2 (m s ) or better − = M1A1 (6) Notes for question 6 M1 For use of t=+v u a , with t = 3 oe, to give an equation in a only Allow u and v reversed A1 Correct unsimplified equation in a only M1 For an equation in v only using their a and t = 2.5 oe (e.g. they may find u (= ( 3 8 ) −+ ij ), the velocity at t = 0, then use t = 3.5) M0 if they assume u = 0 A1 (4 6 ) − ij M1 Use of Pythagoras, including square root, to find magnitude of their v A1 cao OR: Ratio method M2 for an equation in v only, with the correct structure A1 Correct unsimplified ratio equation A1 (4 6 ) − ij M1 Use of Pythagoras, including square root, to find magnitude of their v A1 cao Number Scheme Marks",
+          "image": "/papers/wme01-may-2022/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of when 0 or CD RR  Allow equality or > 0 N.B. They may take moments about D or C again, with respectively 0 or CD RR == M1 M  16.25 OR M  0.625 Allow equality N.B. Allow 2SF or better. A1ft 0.625 16.25 M  N.B. Allow 2SF or better. If either critical value appears, without working or from working done in parts (a) and/or (b), they can score M1A1ft and also potentially, the final A1. A1 (3) (9) Notes for question 5 N.B. Only penalise over accuracy, after use of g = 9.8, ONCE in this question.",
+          "image": "/papers/wme01-may-2022/q5-5c.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "speed 4 A B 0 time 0 T t B1 for A B1 for B B1 4 & T Allow their numerical value of T (3)",
+          "image": "/papers/wme01-may-2022/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 5 (s) 0.8 = B1 ( 5) tt +− = OR 5 4 4( 5) t =   + − M1A1ft t = 27.5 (s) A1 (4)",
+          "image": "/papers/wme01-may-2022/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Attempt at equation in T only, with correct structure, i.e. trapezium or (rectangle + triangle) or (rectangle – triangle) oe based on total area (OR distance using 2 or more suvat formulae) being 100 M0 for a single suvat equation for the whole motion. A1ft Correct equation in T only, ft on their 27.5 A1 Correct 3 term quadratic A1 cao",
+          "image": "/papers/wme01-may-2022/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 for T − . (Allow T − ) A1 ft follow through on their T value provided it’s < 4. Must be correct to at least 2 SF. Number Scheme Marks Allow column vectors throughout except for the answer to (b).",
+          "image": "/papers/wme01-may-2022/q7-7d.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use trig to get an equation in a relevant angle e.g tan  = 1 or uses isosceles triangle. M0 if not using the velocity of Q M1 o A1 (2)",
+          "image": "/papers/wme01-may-2022/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(15 ) t = pi M1 A1 A1 ( ) t =+ − i j j q oe ( ) (15 ) PQ t t = = + − − − ij q p j i (M0 if they put p = q) Need to see at least this line of working. M1 (200 20 ) PQ t t = + − ij (m) * A1* (5)",
+          "image": "/papers/wme01-may-2022/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Clear attempt to find PQ at t = 10 or p and q at t = 10 A1 cao A1 cao M1 Substituting their t value into their PQ M1 Finding the magnitude, with square root A1 cao",
+          "image": "/papers/wme01-may-2022/q8-8c.png"
+        },
+        {
+          "id": "8e",
+          "text": "Part 8e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use of Pythagoras – allow with square root – to obtain an equation in t. A1 Correct unsimplified 2 term quadratic in t. A1 For both answers Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-may-2022/q8-8e.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2022/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 19,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-may-2022"
+  },
+  "unit": "Unit 2"
+}

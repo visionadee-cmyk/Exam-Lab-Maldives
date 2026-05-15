@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2025-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " decreasing AND to at least 1 °C x3  x2  x1 e.g. ‘cooling rate falls steadily as time goes on’ AND reference to cooling rate values to show this  F near or equal to  R (e.g.) x2 lower than x1 and second 90 s has lower starting temperature 1 • volume of water • size / material of beaker • room temperature / other valid environmental factor May/June 2025 Question Answer Marks V  3.0 V and I  1.00 A I all decreasing RA RB and RC within 10% of each other 1 within limits of experimental accuracy owtte AND supported by values from table 1 May/June 2025 Question Answer Marks 4 MP1 apparatus: protractor ruler MP2 method: shine ray from ray-lamp into the block trace ray emerging from block measure angle of refracted ray MP3 repeat for new concentration 1 MP4 control variable: angle of ray from ray lamp MP5 table: columns, with units, for concentration and dependent variable any variable mentioned must have correct units MP6 analysis: compare readings in the table to see if change in concentration produces change in dependent variable plot line graph (with axes specified) MP7 additional point: any one from: • at least 5 sets of data taken • repeat for each value of independent variable AND take average",
+          "image": "/papers/physics-0625-2025/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,107 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per bullet point MP1 Use of validation check, e.g. range check, type c heck, presence check, length check, format check MP2 Use of conditional statement to check if the validation fails ... MP3 ... a re-entry is requested MP4 Use of loop to repeat the process until an acceptable answer is input MP5 More than one appropriate validation check used / described. six from: MP1 Conditional statement to check departure time against 10:00 MP2 ... calculate 40% discount // calculate 60% of the original price MP3 ... calculate discounted total price MP4 Output the discounted total price MP5 Output the booking details with suitable messages MP6 Input with prompt for passenger confirmation ... MP7 ... attempt at action following the confirmation input MP8 Repeating booking data entry if incorrect MP9 Re-checking journey details f or correctness 0478/22 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Example answer // Tasks 1 and 2 completed IF CollectedTime[Index] > 10:00 THEN JourneyCost[Index] ← JouneyCost[Index] * 0.6 ENDIF PRINT \"Your journey cost is: \", JourneyCost[Index] PRINT \"Your journey details are: \", PassengerID[Index], JourneyTime[Index], JourneyCodes[Index], JourneyID[Index] PRINT \"Are these details correct? (Y or N)\" INPUT Correct IF Correct = \"N\" THEN WHILE Correct = \"N\" PRINT \"Re-enter your journey details\" PRINT \"Correct passenger ID \" INPUT PassengerID[Index] PRINT \"Correct journey time \" INPUT JourneyTime[Index] PRINT \"Correct journey codes \" INPUT JourneyCodes[Index] PRINT \"Your revised journey details are: \", PassengerID[Index], JourneyTime[Index], JourneyCodes[Index] PRINT \"Are these details correct? (Y or N)\" INPUT Correct ENDWHILE ENDIF //Program continues",
+          "image": "/papers/computer_science-0478-2021/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Explanation of how each of the following could be done Any four from: MP1 Declaring/using a counter to store the number of bookings for each passenger MP2 Updating the counter for the number of bookings made by each passenger MP3 Attempt to check the number of bookings ... MP4 ... for the correct condition e.g. if the number of bookings is more than 10 / equal to 10 MP5 A pply the extra discount to the total price of future journeys 0478/22 October/November 2021 Section B One mark for two correct rows Two marks for three correct rows Three marks for four correct rows. Statement Validation (  ) Verification (  ) Neither (  ) a check where data is re-entered to make sure no errors have been introduced during data entry  an automatic check to make sure the data entered has the correct number of characters  a check to make sure the data entered is sensible  a check to make sure the data entered is correct  One mark per bullet point Normal test data • Test data e.g. 50 (allow any number between 1 and 100 inclusive) • Reason Data that is within range and should be accepted Extreme test data • Test data 100 / 1 • Reason Data at the maximum / minimum end of the range and should be accepted Erroneous test data • Test data e.g. 300 (allow anything that isn’t between 1 and 100 inclusive, including other data types) • Reason Data outside the range that should be rejected 0478/22 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Corrected algorithm example 2 1 Continue ← 2 REPEAT 3 OUTPUT \"Enter 1 for +, 2 for -, 3 for * or 4 for /\" 4 INPUT Operator 5 OUTPUT \"Enter the first value\" 6 INPUT Value1 7 OUTPUT \"Enter the second value\" 8 INPUT Value2 9 CASE OF Operator 10 1: Answer ← Value1 + Value2 11 2: Answer ← Value1 - Value2 12 3: Answer ← Value1 * Value2 13 4: Answer ← Value1 / Value2 14 ENDCASE 15 OUTPUT \"The answer is \", Answer 16 OUTPUT \"Do you wish to enter more values (Yes or No)?\" 17 INPUT MoreValues 18 IF MoreValues = \"No\" 19 THEN 20 Continue ← 21 ENDIF 22 UNTIL Continue = 0 0478/22 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per bullet MP1 Appropriate loop (begin and end) / otherwise selection MP2 Testing both ends of condition MP3 Suitable message MP4 Input/re-input WHILE Operator < 1 OR Operator > 4 (DO) OUTPUT \"Enter 1, 2, 3 or 4\" INPUT Operator ENDWHILE Alternative answer REPEAT IF Operator < 1 OR Operator > 4 THEN OUTPUT \"Enter 1, 2, 3 or 4\" INPUT Operator ENDIF UNTIL Operator >= 1 AND Operator <= 4 One mark A fter line 4 / between lines 2 and 5 0478/22 October/November 2021 One mark for each correct column List Value List1 List2 OUTPUT 0 0 77 77 16 93 35 35 -7 86 0478/22 October/November 2021 List Value List1 List2 OUTPUT Input Erro r -1 List 1 = 58 List 2 = 106 List 2 is greatest 0478/22 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct fieldnames One mark for correct table names and show fields One mark for correct sort One mark for correct search criteria in all columns Field: ProductID ProductName A nimal InStock Table: STOCK STOCK STOCK STOCK Sort: A scending Show:      Criteria: =“cat” =Yes or:",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

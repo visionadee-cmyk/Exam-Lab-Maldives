@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I < 1 A to at least 2 decimal places with unit V values increasing 1 R values correct 1 All R given to either 2 or either 3 significant figures 1 suitable scales 1 all plots correct to ½ small square 1 good line judgement, thin, continuous line 1 triangle using at least ½ of candidate’s line between extreme plots. 1 October/November 2023 Question Answer Marks temperatures decreasing 1  correct  S correct correct values and  T <  S justification matches statement with numbers correctly quoted 1 for at least another 180s/until the temperature is close to room temperature or stops decreasing 1 October/November 2023 Question Answer Marks 4 MP1 labelled diagram diagram with lens between object and screen, and filter anywhere between the illuminated object and the lens or between the source of illumination and the object, with a least 1 label MP2 method move object / lens / screen to obtain focused / sharp / clear image MP3 measure / record / find / calculate / note u and v 1 MP4 calculate / determine / find the focal length 1 MP5 repeat with different colours / filters 1 MP6 table table with clear columns for (filter) colour, u and v AND with appropriate units MP7 how to reach conclusion plot bar chart of focal length and colour OR compare results to see if / how the change of colour affects the focal length OR compare results to determine the effect of a change in colour on the focal length Additional graph notes: NOTE: – The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled) So maximum 1. If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

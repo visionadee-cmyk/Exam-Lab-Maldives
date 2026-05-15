@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-oct-2024-unit4-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2024-unit4-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI14/01",
+  "session": "October 2024",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (a series of) changes in the (types of) species (within a habitat) with time (1) (1) number Answer Mark A is incorrect because it describes a community of organisms C is incorrect because it describes a population D is incorrect because an organism’s niche is its role (1) number Mark *5(c) Early changes: • bare rock needs breaking down • by pioneer species / presence of alder and spruce • soil conditions improve when organisms die Increase in numbers of plants: • alder / spruce one of first plants to appear • because early soil is suitable / early stages of succession have to take place • because seeds brought in • numbers of alder / spruce rise • because the plants reproduce • alder reproduces faster than spruce • because there is little competition from other plants • hemlock last of the three plants to appear • because seeds brought in later • because early soil is not suitable for this plant • numbers of hemlock increase • because of reproduction Numbers of hemlock become stable: • because only this number can be supported by the environment • because still too many spruce trees present Decrease in number of plants: • numbers of alder / spruce fall • due to competition for {water / light / mineral ions / space} • due to disease • number of alder fall / drop to zero • because spruce out competes alder for {water / light / mineral ions / space} • because spruce is taller / grows faster • affected more by the appearance of hemlock • spruce numbers do not fall to zero • numbers of hemlock are not high enough to completely out compete the species • climax community not yet reached Numbers of alder remain at zero: • because they are {extinct / (completely) eaten by animals / disease has wiped them out} (6) Additional guidance Level 0 0 No awardable content Level 1 1-2 An explanation may be attempted but with limited interpretation or analysis of the scientific information and with a focus on mainly just one piece of scientific information. The explanation will conta",
+          "image": "/papers/wbi11-oct-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2024/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (radius calculated) 37 / 25 (1) • (radius converted into mm) 0.037 / 0.025 (1) • (mm ) expressed to max of 3 sig figures (1) ECF if 62 is used ACCEPT standard form ECF for wrong conversion Correct bald answer = 3 marks, but with wrong order of magnitude = 2 marks or too many sig figs = 2 marks, or both order of magnitude and too many sig figs = 1 mark Correct bald answer for d = 62 = 2 marks, but with wrong order of magnitude = 1 mark or too many sig figs = 1 mark (3) number Answer Additional guidance Mark 15 / 15.0 DO NOT ACCEPT any other values (1) number Answer Additional guidance Mark • credit for appropriate {sample to be used / details of method} (1) • {stain / dye} {plates / (plates and) cells} (1) • credit what is being compared that would work (1) e.g. cells and shed plates / two groups of cells / one large group of cells / put together in a tank of sea water / use a microscope ACCEPT marker / fluorescent tag IGNORE genetic profiling / gel electrophoresis / carbon dating NB if using unstained plates and unstained (naked) E. huxley this mark would be awarded for use of microscope and something else would be credited in mp 1 e.g. coloured plates attached to cells / cells different colour to plates ECF DNA profiling / gel electrophoresis : different bands on plates and cells ECF carbon dating : differences in (3) year plates produced number Answer Mark *8(b)(iii) Effect of healthy E. huxleyi: • carbon dioxide absorbed from the oceans to make plates • carbon dioxide absorbed for photosynthesis Effect of marine snow : • {decomposers / increase in animals feeding on snow} respire • {releasing carbon dioxide / increasing carbon dioxide} levels in {water / air} • so more carbon dioxide will be released from water into air • plates sunk to the bottom of the ocean will act like a carbon sink • therefore carbon dioxide levels {will not increase / fall} in {water / air} • as {no / less} carbon dioxide will dissolve in the water from the air • {plates / E. huxleyi} st",
+          "image": "/papers/wbi11-oct-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2024-unit4-2024-10-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

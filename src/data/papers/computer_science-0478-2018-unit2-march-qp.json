@@ -1,0 +1,107 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) All identifiers should have meaningful names. (i) State the name and data structure that you have used to record student names in Task 1. Name ................................................................................................................................. Data structure ............................................................................................",
+      "text": "1 (a) All identifiers should have meaningful names. (i) State the name and data structure that you have used to record student names in Task 1. Name ................................................................................................................................. Data structure ............................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for changing the value of a variable/constant/ counter, 1 mark for change to the program e.g. Value: Change the value of the variable/constant maxGroupSize in Task 2 to 25 Program change: Oversubscribed test will be changed to test for over 50 // second group starts at 26 0478/22 March 2018 five from Initialise subject counts Loop through students Input and store student name « « and input and store two subject choices for that student Update subject counts // update subject lists of student names Error message if subject not found Output total subject counts Prompts for all inputs and messages with all outputs Sample answer for Task 1 physics \u0004 0; chemistry \u0004 0; history \u0004 0; geography \u0004 0; compSci \u0004 0; FOR counter \u0004 1 TO 60 INPUT name, subject(1), subject(2) studentName(counter) \u0004 name studentCounter1(counter) \u0004 subject(1) studentCounter2(counter) \u0004 subject(2) FOR sCount \u0004 1 TO 2 CASE subject(sCount) OF ˈ Physics ˈ : physics \u0004 physics + 1 ˈ Chemistry ˈ : chemistry \u0004 chemistry + 1 ˈ History ˈ : history \u0004 history + 1 ˈ Geography ˈ : geography \u0004 geography + 1 ˈ Computer Science ˈ : compSci \u0004 compSci + 1 OTHERWISE: PRINT ˈ Error subject not found ˈ ENDCASE NEXT NEXT PRINT ˈ Group Number of Students ˈ PRINT ˈ Physics ˈ ,physics PRINT ˈ Chemistry ˈ ,chemistry PRINT ˈ History ˈ ,history PRINT ˈ Geography ˈ ,geography PRINT ˈ Computer Science ˈ ,compSci 0478/22 March 2018 five from Explanation for calculation of total number of spare places Check the number of students who have chosen each subject If less than 10 no places available (Otherwise)If less than 20 « « Calculate number of spare places (20 – number) If more than 20 and less than 40 « « Calculate number of spare places (40 – number) Keep a running total of the total number of spare places 0478/22 March 2018 Section B",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each error identified + suggested correction NUMBERS should be Number IF Number > 100 should be IF Number >= 100 INPUT Number is missing from inside the loop insert INPUT Number after the IF statement The final PRINT Number is not needed remove it",
+          "image": "/papers/computer_science-0478-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for both ends of the range and correct inequality symbols and one mark for the AND. The test should be IF Number >= 100 AND Number <= 200 Weight totalWeight totalNumber OUTPUT 50 50 70 120 65 185 100 285 95 380 50 430 55 485 85 570 Lift overload, step out One mark for each correct column. 0478/22 March 2018 1 mark for value and 1 mark for appropriate reason e.g. Value 1 (1) boundary should be accepted as weight OK (1) Value 2 two (1) erroneous/abnormal should be rejected (1) 2 marks for appropriate explanation, 1 mark example programming statements showing sequence, 1 mark example programming statement(s) showing selection e.g. Sequence is the concept of one statement being executed after another(1) whereas selection decides which statement(s) are to be executed depending upon the result of a question (1) sequence example (1) PRINT X PRINT Y Selection example (1) IF X > Y THEN PRINT X ELSE PRINT Y",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for appropriate field name and appropriate data type, then 1 mark for appropriate explanation. e.g. Metal, type text(1) a single character/word that can be input accurately/quickly(1) Item, type text (1) a single character/word that can be input accurately/quickly(1) Number in Stock, type number (1) can be used for calculations (1) Price, type currency (1) properly formatt ed and can be used for calculations (1)",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "All fields could contain duplicate values 0478/22 March 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Metal Item Number in Stock Price Table: JEWEL JEWEL JEWEL JEWEL Sort: Show:  ; ; Criteria: =”silver” =”bracelet” or: One mark for columns 1 + 2, one mark for columns 3 + 4 One mark for accuracy of syntax and spelling",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

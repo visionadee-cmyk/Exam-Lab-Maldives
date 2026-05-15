@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2021-unit5-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "February/March 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Ensure that the metre rule is horizontal. You may need to adjust the height of one of the clamps slightly. Briefly describe how you check that the metre rule is horizontal. You may draw a diagram or add to Fig. 1.1 if it helps to explain your answer. ...............................................................................................",
+      "text": "1 (a) Ensure that the metre rule is horizontal. You may need to adjust the height of one of the clamps slightly. Briefly describe how you check that the metre rule is horizontal. You may draw a diagram or add to Fig. 1.1 if it helps to explain your answer. ...............................................................................................",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculations of 1 / T • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well- j udged line and thin line",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "G present and triangle method seen on graph (timing) errors have less effect / smaller % uncertainty repeat each reading and calculate average value θ for cup A decreasing θ for cup B decreasing and recorded to at least 1 °C decreasing more slowly than θ for cup A",
+          "image": "/papers/physics-0625-2021/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "s, °C, °C 0625/52 March 2021",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180 s, matching statement correct calculation of x A unit °C / s A ) experiment without a lid calculate cooling rate and subtract x A same volume of water, same initial temperature, same dimension of cup, same thickness of material same room temp/named appropriate environmental condition I all decreasing and < 1.00 A V R all decreasing and < 1.0 V I all to 2dp at least and V R all to 1dp at least",
+          "image": "/papers/physics-0625-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculations of R L and R R R L decreasing and R R within 10% of each othe r R L and R R all consistent 2 or consistent 3 significant figures 0625/52 March 2021",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results within limits of experimental accuracy / owtte and supported by relevant values from table",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "obtain more values and plot a graph of R L vs V L extend line to R L axis and read intercept",
+          "image": "/papers/physics-0625-2021/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct variable resistor symbol (rectangle with strike-through arrow only) in completed series circuit 0625/52 March 2021 4 MP1 factor: named factor MP2 method: measure time for motion of ball and means of doing so (stopwatch / timer) over measured distance and means of measuring (probably metre rule / tape measure) / mention of between fixed points MP3 repeat for new value of the independent variable MP4 control: any variable appropriate to independent variable e.g. mass of ball if diameter is facto r MP5 table: columns, with units, at least for independent variable, time MP6 analysis: compare readings in the table to see if change in factor produces change in speed, plot line graph (with axes specified) MP7 additional point (one from) : at least 5 sets of data taken, repeat each measurement and take average, repeat (whole) experiment for same factor but a new condition use of fiducial aid (e.g. mark fixed points to time between) release ball without pushing suitable means of release",
+          "image": "/papers/physics-0625-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

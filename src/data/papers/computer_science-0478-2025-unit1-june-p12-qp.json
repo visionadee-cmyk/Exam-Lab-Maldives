@@ -1,0 +1,65 @@
+{
+  "paperId": "computer_science-0478-2025-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 10011 • 11100110",
+          "image": "/papers/computer_science-0478-2025/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 0011 0101 • 1000 1010 1101 One mark for a correct method of working e.g. showing carries. 1 1 + 01110000 • The result is greater than 255 // The result is too large. • Cannot be stored in 8 bits // Cannot be stored in the number of bits available for the register One mark for correct answer May/June 2025 Question Answer Marks (approx. 4.3 billion) different colours can be used/are available for the image • The size of the image file increases. • ... as the number of bits used to represent/store a colour has increased • The size of the file is reduced without permanently removing any data. • A compression algorithm is used. • ... such as Run length encoding/RLE. • Repeating pixels are grouped/identified ... // Patterns are identified ... • ... and stored with the number of times they are repeated. • ... and indexed May/June 2025 Question Answer Marks • It is easier to debug. • Less likely to make errors. • The program is machine independent/portable • whole code • executing • all • line by line • error A compiler translates the whole code at once before executing it. A compiler produces an error report that displays all errors. An interpreter translates and executes the code line by line. An interpreter stops execution when an error is found and continues once it is corrected. May/June 2025 Question Answer Marks Examples: • Code editor • Allows the programmer to write/change the program. • Run-time environment • Allows the user to run the code and see the output. • Error diagnostics • Features that can be used to find errors in the code • Auto-completion • A programmer starts to type a command word, and the IDE suggests option for completing it. • Auto-correction • If a programmer misspells a command word it is changed to the correct spelling • Prettyprint • The command words/identifiers are given different colours • Inkjet • Laser May/June 2025 Question Answer Marks • Serial • Parallel One mark from: • Half-duplex • Full-duplex • Simplex Any four from (for descrip",
+          "image": "/papers/computer_science-0478-2025/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/page-01.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit1-2025-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2025/page-01.png",
+      "/papers/computer_science-0478-2025/page-02.png",
+      "/papers/computer_science-0478-2025/page-03.png",
+      "/papers/computer_science-0478-2025/page-04.png",
+      "/papers/computer_science-0478-2025/page-05.png",
+      "/papers/computer_science-0478-2025/page-06.png",
+      "/papers/computer_science-0478-2025/page-07.png",
+      "/papers/computer_science-0478-2025/page-08.png",
+      "/papers/computer_science-0478-2025/page-09.png",
+      "/papers/computer_science-0478-2025/page-10.png",
+      "/papers/computer_science-0478-2025/page-11.png",
+      "/papers/computer_science-0478-2025/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "accounting-0452-2025-unit2-june-qp",
+  "pairedMarkSchemeId": "accounting-0452-2025-unit2-june-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/21",
+  "session": "May/June 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error Entries required to correct the error Debit Credit Account $ Account $ A payment for wages, $425, had been debited to the purchases account. Wages 425 Purchases 425 Discount allowed, $19, had been credited to the discount allowed account. Discount allowed 38 (1) Suspense 38 (1) The total of the sales journal for April 2025 was undercast by $100. Suspense 100 (1) Sales 100 (1) A bank payment for purchases, $170, had not been recorded in the books of account. Purchases 170 (1) Bank 170 (1) Bank charges, $15, had been recorded as $105. Bank 90 (1) Bank charges 90 (1) A bank payment for insurance, $210, was debited to the bank account. No other entries were made. Insurance Suspense (1) (1) Bank 420 (1) May/June 2025 Question Answer Marks Suspense account Date Details $ Date Details $ 2025 2025 Apr 30 Sales (1) 100 Apr 30 Difference on trial Bank (1) 210 balance (1) 272 Discount allowed (1) 38 310 310 Original cash at bank balance 935 Add Bank charges 90 (1) 1 025 Less Purchases 170 (1) Insurance 420 (1) 590 Corrected cash at bank balance 435 (1)OF To check the bank balance in the cash book against that shown in the bank’s records (1) To identify the reason for any differences between the balance of bank column in the cash book and the bank statement (1) To discover errors/omissions in either the cash book or the bank records (1) To reconcile the bank statement balance with that in the cash book/help prepare bank reconciliation statement (1) Max (1) May/June 2025 Question Answer Marks Statement of Changes in Equity for the year ended 30 April 2025 Details Ordinary Share capital $ General reserve $ Retained earnings $ Total $ On 1 May 2024 120 000 20 000 33 635 173 635 Profit for the year ............... ............... 26 700 26 700 (1) row Transfer to general reserve ............... 5 000 (5 000) – (1) row Dividends paid ............... ............... (5 340) (5 340) (1) row On 30 April 2025 120 000 25 000 49 995 194 995 (1)OF row May/June 2025 Question Answer Ma",
+          "image": "/papers/accounting-0452-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/accounting-0452-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "26 700 250 *26 950100 194 995 5 000199 9951 + = + (1) (1)OF OF = 13.48% (1)OF Alternative calculation 26 700 250 *26 950100 171875 60 130 32 010199 9951 + = +− (1) (1)OF OF = 13.48% (1)OF *Profit adjusted for interest on debentures 250 (5%  5 000)] There will be no liability once the debentures have been repaid (1) Issue of debentures will not reduce shareholders’ stake in the company/ debenture holders do not take an active part in running the company/debenture holders do not have a vote (1) Only have relatively low amount of loans at present (1) Funds may be available quickly/relatively easy to obtain (1) Accept other valid points Max (2) Points against issuing debentures Interest on the debentures has to be paid/ debenture interest reduces profit/ fixed amount of debenture interest each year/ debenture interest needs to be paid even if the company makes a loss (1) May be secured against the assets of the company/are repaid before shareholders if company liquidated (1) Debentures have to be repaid/increase liabilities (1) Funds must be available when repayment is due (1) Already have commitment to repay existing debentures (1) Accept other valid points Max (2) Overall For and Against: Max (4) Recommendation (1) May/June 2025 Question Answer Marks Manufacturing Account for the year ended 31 March 2025 $ $ Cost of material consumed Opening inventory of raw material 5 345 Purchases of raw material 72 870 Carriage inwards of raw material 1 220 79 435 Less Closing inventory of raw material 7 100 72 335 (1) Direct wages 29 175 (1) Prime cost 101 510 (1)OF Factory overheads Wages of factory supervisor (24 000 + 2 000) 26 000 (1) Factory power (14 120 + 1 315) 15 435 (1) Rent and insurance (12 000  65%) 7 800 (1) Depreciation of factory equipment (180 000 – 64 800)  20% 23 040 (1) 72 275 173 785 (1)OF Add opening work-in-progress 13 820 * 187 605 Less closing work-in-progress 14 390 * (1) for both inventories Cost of production 173 215 (1)OF 255 – 3 – 15 = 237  $14 ",
+          "image": "/papers/accounting-0452-2025/q4-4d.png"
+        }
+      ],
+      "image": "/papers/accounting-0452-2025/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

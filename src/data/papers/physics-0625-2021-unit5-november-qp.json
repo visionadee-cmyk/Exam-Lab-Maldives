@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2021-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The metre rule is clamped in position near to the spring. Do not change the position of the metre rule. (i) Write down the scale readings in mm from the metre rule at the top and bottom of the spring. top reading = ................................................... mm bottom reading = ................................................... mm",
+      "text": "1 (a) The metre rule is clamped in position near to the spring. Do not change the position of the metre rule. (i) Write down the scale readings in mm from the metre rule at the top and bottom of the spring. top reading = ................................................... mm bottom reading = ................................................... mm",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l values increasing’ all l > l e values correct all l and e in mm A xes correctly labelled with quantity and unit and right way round Suitable scales A ll plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2021/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l and l clear and correct e clear and correct 0625/51 October/November 2021 X to at least 1 decimal place and < 3 V I X to at least 2 decimal places and < 1 A R X correct V XY > V X , I XY present R XY present with units A, V and Ω seen correctly used and not contradicted Resistors Z and X in parallel Voltmeter and ammeter in correct circuit, all symbols correct. V XZ < V X , I XZ present R XZ = R X / 2 + 10%",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A t least 4 additional values suggested Values from 1 Ω to 20 Ω 0625/51 October/November 2021",
+          "image": "/papers/physics-0625-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Normal at 90 ° , in centre of MR Correct lines at 40 ° ± 2° and 70 ° ± 2° P distance at least 5.0 cm P and P labelled and in correct positions",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "α correct to ± °",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Second reflected ray closer to MR than first reflected ray.",
+          "image": "/papers/physics-0625-2021/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "β correct to ± ° and α and β with unit ° α = 70 ° ± 2° and β = 80 ° ± 2°",
+          "image": "/papers/physics-0625-2021/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A t least 3 extra angles suggested Range of at least 30° Difficulty in lining up pins Thickness of mirror Thickness of pins / size of pin holes 0625/51 October/November 2021 MP1 A pparatus: (stop)watch / clock / time r MP2 Method: Heat water in a container to a specified temperature or to boiling point MP3 Method: Repeat for at least two additional containers MP4 Constant Variable: Volume of wate r MP5 Constant Variable: Starting temperature (of water) OR room temperature OR power of heate r MP6 Table with columns to match their method. If MP2 correc t, this needs type of container and time with unit (s) MP7 Compare times / durations (for the various containers) OR see which takes longer. Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only m ark available in this case is the first (axes right way round and labelled) So maximum 1. If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2021/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

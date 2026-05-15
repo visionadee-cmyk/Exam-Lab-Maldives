@@ -13,7 +13,7 @@
       "type": "structured",
       "totalMarks": 5,
       "question": "The graph shows the relative risk of developing cardiovascular disease (CVD) for non-smokers and for smokers.",
-      "image": "/papers/wbi11-oct2019/q1-cvd-risk-graph.PNG",
+      "image": "/papers/wbi11-oct-2019/page-03.png",
       "parts": [
         {
           "id": "1a_i",
@@ -21,7 +21,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Risk increases with age for both groups / smokers have higher risk than non-smokers in every age group / e.g. 25–34 smokers ~3.5 vs non-smokers ~1.5 and 45+ smokers ~7 vs non-smokers ~4.5",
-          "keywords": ["age", "smokers", "higher", "risk", "graph", "25", "45"]
+          "keywords": [
+            "age",
+            "smokers",
+            "higher",
+            "risk",
+            "graph",
+            "25",
+            "45"
+          ],
+          "image": "/papers/wbi11-oct-2019/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -29,7 +38,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Bars for smokers likely lower than before due to reduced smoking rates / better healthcare reduces CVD risk / difference between smokers and non-smokers may be smaller / overall lower risk values",
-          "keywords": ["lower", "smoking", "healthcare", "smaller difference", "overall"]
+          "keywords": [
+            "lower",
+            "smoking",
+            "healthcare",
+            "smaller difference",
+            "overall"
+          ],
+          "image": "/papers/wbi11-oct-2019/q1-1a_ii.png"
         },
         {
           "id": "1b",
@@ -37,13 +53,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "0.571 × 10^6" },
-            { "id": "B", "text": "5.71 × 10^6" },
-            { "id": "C", "text": "57.1 × 10^6" },
-            { "id": "D", "text": "571.00 × 10^6" }
+            {
+              "id": "A",
+              "text": "0.571 × 10^6"
+            },
+            {
+              "id": "B",
+              "text": "5.71 × 10^6"
+            },
+            {
+              "id": "C",
+              "text": "57.1 × 10^6"
+            },
+            {
+              "id": "D",
+              "text": "571.00 × 10^6"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "57.1", "10^6"]
+          "keywords": [
+            "C",
+            "57.1",
+            "10^6"
+          ],
+          "image": "/papers/wbi11-oct-2019/q1-1b.png"
         }
       ]
     },
@@ -60,7 +93,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Bb × Bb / gametes B and b from each parent / offspring genotypes: BB, Bb, Bb, bb / phenotypes: 3 brown : 1 white",
-          "keywords": ["Bb", "BB", "bb", "3", "1", "brown", "white", "Punnett"]
+          "keywords": [
+            "Bb",
+            "BB",
+            "bb",
+            "3",
+            "1",
+            "brown",
+            "white",
+            "Punnett"
+          ],
+          "image": "/papers/wbi11-oct-2019/q2-2a.png"
         },
         {
           "id": "2b",
@@ -68,9 +111,19 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Genotype ratio from Bb × Bb is 1 BB : 2 Bb : 1 bb / expected numbers: BB = 284 × 1/4 = 71 / Bb = 284 × 1/2 = 142 / bb = 284 × 1/4 = 71",
-          "keywords": ["71", "142", "1:2:1", "BB", "Bb", "bb", "284"]
+          "keywords": [
+            "71",
+            "142",
+            "1:2:1",
+            "BB",
+            "Bb",
+            "bb",
+            "284"
+          ],
+          "image": "/papers/wbi11-oct-2019/q2-2b.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-oct-2019/page-04.png"
     },
     {
       "id": "q3",
@@ -78,7 +131,7 @@
       "type": "structured",
       "totalMarks": 9,
       "question": "Haemophilia A is an inherited genetic disorder. Haemophilia A results in the blood not being able to clot.",
-      "image": "/papers/wbi11-oct2019/q3-haemophilia-table.PNG",
+      "image": "/papers/wbi11-oct-2019/page-06.png",
       "parts": [
         {
           "id": "3a",
@@ -86,7 +139,17 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "thromboplastin: released from damaged tissue / initiates clotting cascade / converts prothrombin to thrombin; thrombin: catalyses conversion of fibrinogen to fibrin / soluble; fibrin: forms insoluble mesh / traps cells / forms clot",
-          "keywords": ["thrombin", "thromboplastin", "prothrombin", "fibrinogen", "fibrin", "insoluble", "mesh", "soluble"]
+          "keywords": [
+            "thrombin",
+            "thromboplastin",
+            "prothrombin",
+            "fibrinogen",
+            "fibrin",
+            "insoluble",
+            "mesh",
+            "soluble"
+          ],
+          "image": "/papers/wbi11-oct-2019/q3-3a.png"
         },
         {
           "id": "3b",
@@ -94,7 +157,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Sex-linked on X chromosome / males are XY so one recessive allele on X is expressed / females are XX so need two recessive alleles / heterozygous females are carriers",
-          "keywords": ["X", "sex-linked", "XY", "XX", "recessive", "carrier", "males"]
+          "keywords": [
+            "X",
+            "sex-linked",
+            "XY",
+            "XX",
+            "recessive",
+            "carrier",
+            "males"
+          ],
+          "image": "/papers/wbi11-oct-2019/q3-3b.png"
         }
       ]
     },
@@ -104,7 +176,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "Carbohydrates are important molecules in living organisms.",
-      "image": "/papers/wbi11-oct2019/q4-sweetness-graph.PNG",
+      "image": "/papers/wbi11-oct-2019/page-09.png",
       "parts": [
         {
           "id": "4a_i",
@@ -112,13 +184,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "1 monosaccharide and 4 disaccharides" },
-            { "id": "B", "text": "2 monosaccharides and 3 disaccharides" },
-            { "id": "C", "text": "3 monosaccharides and 2 disaccharides" },
-            { "id": "D", "text": "4 monosaccharides and 1 disaccharide" }
+            {
+              "id": "A",
+              "text": "1 monosaccharide and 4 disaccharides"
+            },
+            {
+              "id": "B",
+              "text": "2 monosaccharides and 3 disaccharides"
+            },
+            {
+              "id": "C",
+              "text": "3 monosaccharides and 2 disaccharides"
+            },
+            {
+              "id": "D",
+              "text": "4 monosaccharides and 1 disaccharide"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "3", "2"]
+          "keywords": [
+            "C",
+            "3",
+            "2"
+          ],
+          "image": "/papers/wbi11-oct-2019/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
@@ -126,13 +215,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "ester" },
-            { "id": "B", "text": "glycosidic" },
-            { "id": "C", "text": "hydrogen" },
-            { "id": "D", "text": "phosphodiester" }
+            {
+              "id": "A",
+              "text": "ester"
+            },
+            {
+              "id": "B",
+              "text": "glycosidic"
+            },
+            {
+              "id": "C",
+              "text": "hydrogen"
+            },
+            {
+              "id": "D",
+              "text": "phosphodiester"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "glycosidic"]
+          "keywords": [
+            "B",
+            "glycosidic"
+          ],
+          "image": "/papers/wbi11-oct-2019/q4-4a_ii.png"
         },
         {
           "id": "4a_iii",
@@ -140,7 +245,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Fructose is sweetest / lactose is least sweet / monosaccharides (glucose, sucrose? actually sucrose is disaccharide) vary / fructose (mono) sweeter than disaccharides lactose and maltose / sucrose sweeter than glucose",
-          "keywords": ["fructose", "lactose", "maltose", "sucrose", "glucose", "sweet"]
+          "keywords": [
+            "fructose",
+            "lactose",
+            "maltose",
+            "sucrose",
+            "glucose",
+            "sweet"
+          ],
+          "image": "/papers/wbi11-oct-2019/q4-4a_iii.png"
         },
         {
           "id": "4a_iv",
@@ -148,7 +261,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Prepare equal concentration solutions of each sugar / control volume and temperature / taste test with multiple volunteers using blind samples / rinse between tests / rank sweetness / repeat and calculate mean rankings",
-          "keywords": ["equal concentration", "control", "blind", "repeat", "mean", "rank"]
+          "keywords": [
+            "equal concentration",
+            "control",
+            "blind",
+            "repeat",
+            "mean",
+            "rank"
+          ],
+          "image": "/papers/wbi11-oct-2019/q4-4a_iv.png"
         },
         {
           "id": "4b",
@@ -156,7 +277,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Both are polymers of α-glucose / amylose is unbranched with α-1,4 glycosidic bonds / amylopectin is branched with α-1,4 and α-1,6 glycosidic bonds",
-          "keywords": ["alpha glucose", "unbranched", "branched", "1,4", "1,6", "glycosidic"]
+          "keywords": [
+            "alpha glucose",
+            "unbranched",
+            "branched",
+            "1,4",
+            "1,6",
+            "glycosidic"
+          ],
+          "image": "/papers/wbi11-oct-2019/q4-4b.png"
         }
       ]
     },
@@ -166,7 +295,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "An amoeba is a single-celled organism that lives in water. The photograph shows an amoeba, as seen using a light microscope.",
-      "image": "/papers/wbi11-oct2019/q5-amoeba-transport-table.PNG",
+      "image": "/papers/wbi11-oct-2019/page-12.png",
       "parts": [
         {
           "id": "5a",
@@ -174,7 +303,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "passive process = facilitated diffusion only / membrane proteins involved = both / transport up concentration gradient = active transport only",
-          "keywords": ["passive", "facilitated", "membrane proteins", "both", "up", "gradient", "active"]
+          "keywords": [
+            "passive",
+            "facilitated",
+            "membrane proteins",
+            "both",
+            "up",
+            "gradient",
+            "active"
+          ],
+          "image": "/papers/wbi11-oct-2019/q5-5a.png"
         },
         {
           "id": "5b_i",
@@ -182,16 +320,28 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "K increases linearly with no plateau (simple diffusion) / L increases then plateaus due to carrier proteins saturating (facilitated diffusion/active transport)",
-          "keywords": ["plateau", "saturation", "carriers", "linear", "diffusion"]
+          "keywords": [
+            "plateau",
+            "saturation",
+            "carriers",
+            "linear",
+            "diffusion"
+          ],
+          "image": "/papers/wbi11-oct-2019/q5-5b_i.png"
         },
         {
           "id": "5b_ii",
           "text": "On the graph, draw a line to show the uptake of substance L at 10°C.",
-          "image": "/papers/wbi11-oct2019/q5-uptake-graph.PNG",
+          "image": "/papers/wbi11-oct-2019/q5-5b_ii.png",
           "marks": 2,
           "type": "short_answer",
           "answer": "Curve below the 18°C line with lower gradient / reaches a lower plateau (reduced rate at lower temperature)",
-          "keywords": ["below", "lower", "plateau", "temperature"]
+          "keywords": [
+            "below",
+            "lower",
+            "plateau",
+            "temperature"
+          ]
         },
         {
           "id": "5c_i",
@@ -199,7 +349,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Phospholipid bilayer is fluid / phospholipids move laterally / flexible membrane / not rigid",
-          "keywords": ["fluid", "phospholipid", "bilayer", "flexible"]
+          "keywords": [
+            "fluid",
+            "phospholipid",
+            "bilayer",
+            "flexible"
+          ],
+          "image": "/papers/wbi11-oct-2019/q5-5c_i.png"
         },
         {
           "id": "5c_ii",
@@ -207,7 +363,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Increased surface area for diffusion / faster uptake of substances / more membrane area",
-          "keywords": ["surface area", "diffusion", "faster", "uptake"]
+          "keywords": [
+            "surface area",
+            "diffusion",
+            "faster",
+            "uptake"
+          ],
+          "image": "/papers/wbi11-oct-2019/q5-5c_ii.png"
         }
       ]
     },
@@ -217,7 +379,7 @@
       "type": "structured",
       "totalMarks": 9,
       "question": "Errors in DNA replication can give rise to mutations. The diagram shows the bases in a length of DNA. The table shows the genetic code for the amino acids.",
-      "image": "/papers/wbi11-oct2019/q6-genetic-code-table.PNG",
+      "image": "/papers/wbi11-oct-2019/page-15.png",
       "parts": [
         {
           "id": "6a",
@@ -225,7 +387,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Depends on transcription/translation reading frame; use codons from the given sequence and table",
-          "keywords": ["codon", "amino acid", "sequence"]
+          "keywords": [
+            "codon",
+            "amino acid",
+            "sequence"
+          ],
+          "image": "/papers/wbi11-oct-2019/q6-6a.png"
         },
         {
           "id": "6b_i",
@@ -233,7 +400,12 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Substitution / deletion / insertion",
-          "keywords": ["substitution", "deletion", "insertion"]
+          "keywords": [
+            "substitution",
+            "deletion",
+            "insertion"
+          ],
+          "image": "/papers/wbi11-oct-2019/q6-6b_i.png"
         },
         {
           "id": "6b_ii",
@@ -241,7 +413,15 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Substitution may change one codon so one amino acid changes or may be silent / insertion or deletion causes a frameshift changing many codons and amino acids / may create a stop codon and shorten the polypeptide",
-          "keywords": ["frameshift", "codon", "stop", "shorten", "silent", "amino acid"]
+          "keywords": [
+            "frameshift",
+            "codon",
+            "stop",
+            "shorten",
+            "silent",
+            "amino acid"
+          ],
+          "image": "/papers/wbi11-oct-2019/q6-6b_ii.png"
         }
       ]
     },
@@ -251,7 +431,7 @@
       "type": "structured",
       "totalMarks": 15,
       "question": "Blood flow and blood pressure are affected by a number of factors.",
-      "image": "/papers/wbi11-oct2019/q7-blood-pressure-graph.PNG",
+      "image": "/papers/wbi11-oct-2019/page-20.png",
       "parts": [
         {
           "id": "7a_i",
@@ -259,7 +439,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Calculate pulse pressure and compare with 25% of systolic; conclude healthy/not healthy based on values from the arrow point",
-          "keywords": ["pulse", "25%", "systolic", "diastolic", "healthy"]
+          "keywords": [
+            "pulse",
+            "25%",
+            "systolic",
+            "diastolic",
+            "healthy"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7a_i.png"
         },
         {
           "id": "7a_ii",
@@ -267,7 +454,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Use MAP = diastolic + (systolic - diastolic)/3 with estimated values from graph",
-          "keywords": ["MAP", "diastolic", "systolic", "/3"]
+          "keywords": [
+            "MAP",
+            "diastolic",
+            "systolic",
+            "/3"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7a_ii.png"
         },
         {
           "id": "7a_iii",
@@ -275,22 +468,49 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Reduced blood flow to tissues / less oxygen and glucose delivery / dizziness/fainting / organ failure if severe",
-          "keywords": ["reduced", "blood flow", "oxygen", "tissues", "faint"]
+          "keywords": [
+            "reduced",
+            "blood flow",
+            "oxygen",
+            "tissues",
+            "faint"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7a_iii.png"
         },
         {
           "id": "7b_i",
           "text": "Which formula can be used to calculate resistance?",
-          "image": "/papers/wbi11-oct2019/q7-blood-flow-formula.PNG",
+          "image": "/papers/wbi11-oct-2019/q7-7b_i.png",
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "8ηl / πΔPr^4" },
-            { "id": "B", "text": "πΔPr^4 / 8ηl" },
-            { "id": "C", "text": "πr^4 / 8ηl" },
-            { "id": "D", "text": "8ηl / πr^4" }
+            {
+              "id": "A",
+              "text": "8ηl / πΔPr^4"
+            },
+            {
+              "id": "B",
+              "text": "πΔPr^4 / 8ηl"
+            },
+            {
+              "id": "C",
+              "text": "πr^4 / 8ηl"
+            },
+            {
+              "id": "D",
+              "text": "8ηl / πr^4"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "8", "η", "l", "π", "ΔP", "r^4"]
+          "keywords": [
+            "A",
+            "8",
+            "η",
+            "l",
+            "π",
+            "ΔP",
+            "r^4"
+          ]
         },
         {
           "id": "7b_ii",
@@ -298,13 +518,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "blood pressure" },
-            { "id": "B", "text": "length of the blood vessel" },
-            { "id": "C", "text": "radius of the blood vessel lumen" },
-            { "id": "D", "text": "thickness of the blood vessel wall" }
+            {
+              "id": "A",
+              "text": "blood pressure"
+            },
+            {
+              "id": "B",
+              "text": "length of the blood vessel"
+            },
+            {
+              "id": "C",
+              "text": "radius of the blood vessel lumen"
+            },
+            {
+              "id": "D",
+              "text": "thickness of the blood vessel wall"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "radius", "r^4"]
+          "keywords": [
+            "C",
+            "radius",
+            "r^4"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7b_ii.png"
         },
         {
           "id": "7b_iii",
@@ -312,7 +549,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Large lumen radius reduces resistance (r^4) / smooth endothelium reduces friction / elastic walls maintain flow",
-          "keywords": ["lumen", "radius", "smooth", "endothelium", "elastic", "resistance"]
+          "keywords": [
+            "lumen",
+            "radius",
+            "smooth",
+            "endothelium",
+            "elastic",
+            "resistance"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7b_iii.png"
         },
         {
           "id": "7c_i",
@@ -320,7 +565,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Elastic fibres allow stretch and recoil / smooth muscle adjusts diameter / reduces pressure surges",
-          "keywords": ["elastic", "recoil", "stretch", "smooth muscle"]
+          "keywords": [
+            "elastic",
+            "recoil",
+            "stretch",
+            "smooth muscle"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7c_i.png"
         },
         {
           "id": "7c_ii",
@@ -328,7 +579,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Less elastic arteries increase blood pressure / damage endothelium / promotes atherosclerosis / increases workload on heart",
-          "keywords": ["blood pressure", "elastic", "atherosclerosis", "heart", "damage"]
+          "keywords": [
+            "blood pressure",
+            "elastic",
+            "atherosclerosis",
+            "heart",
+            "damage"
+          ],
+          "image": "/papers/wbi11-oct-2019/q7-7c_ii.png"
         }
       ]
     },
@@ -338,7 +596,7 @@
       "type": "structured",
       "totalMarks": 15,
       "question": "The amino acid aspartate is converted into the amino acid arginine in the urea cycle. The urea cycle involves several enzymes and takes place in the liver.",
-      "image": "/papers/wbi11-oct2019/q8-urea-cycle-diagram.PNG",
+      "image": "/papers/wbi11-oct-2019/page-25.png",
       "parts": [
         {
           "id": "8a",
@@ -346,7 +604,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Correct amino acid structure with NH2, COOH, H and R group on central carbon (aspartate R = CH2COO−)",
-          "keywords": ["NH2", "COOH", "CH2", "COO", "aspartate"]
+          "keywords": [
+            "NH2",
+            "COOH",
+            "CH2",
+            "COO",
+            "aspartate"
+          ],
+          "image": "/papers/wbi11-oct-2019/q8-8a.png"
         },
         {
           "id": "8b",
@@ -354,7 +619,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Each step is a different reaction needing a specific enzyme / enzymes are specific to substrates / lowers activation energy for each step / allows control of pathway",
-          "keywords": ["specific", "activation energy", "steps", "substrate", "control"]
+          "keywords": [
+            "specific",
+            "activation energy",
+            "steps",
+            "substrate",
+            "control"
+          ],
+          "image": "/papers/wbi11-oct-2019/q8-8b.png"
         },
         {
           "id": "8c_i",
@@ -362,18 +634,70 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Measure ammonia concentration in blood (high) / test OTC enzyme activity / genetic test for mutation in OTC gene",
-          "keywords": ["ammonia", "blood", "OTC", "enzyme", "genetic test", "mutation"]
+          "keywords": [
+            "ammonia",
+            "blood",
+            "OTC",
+            "enzyme",
+            "genetic test",
+            "mutation"
+          ],
+          "image": "/papers/wbi11-oct-2019/q8-8c_i.png"
         },
         {
           "id": "8c_ii",
           "text": "Targeted mRNA therapy is being developed to treat OTC deficiency in mice. Targeted mRNA therapy involves injecting mice with phospholipid particles containing OTC mRNA. Explain how this treatment works. Use the information in the diagram of the urea cycle, the diagram of the particle and the table of results to support your answer.",
-          "image": "/papers/wbi11-oct2019/q8-mrna-particle-table.PNG",
+          "image": "/papers/wbi11-oct-2019/q8-8c_ii.png",
           "marks": 6,
           "type": "short_answer",
           "answer": "Particles deliver OTC mRNA into liver cells / mRNA translated to make functional OTC enzyme / restores urea cycle conversion of ammonia to urea / lowers blood ammonia (supported by table: treated OTC-deficient mice have much lower ammonia)",
-          "keywords": ["mRNA", "translate", "OTC", "enzyme", "liver", "urea", "ammonia", "lower"]
+          "keywords": [
+            "mRNA",
+            "translate",
+            "OTC",
+            "enzyme",
+            "liver",
+            "urea",
+            "ammonia",
+            "lower"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit1-2019-10-qp.pdf",
+    "pageImages": [
+      "/papers/wbi11-oct-2019/page-01.png",
+      "/papers/wbi11-oct-2019/page-02.png",
+      "/papers/wbi11-oct-2019/page-03.png",
+      "/papers/wbi11-oct-2019/page-04.png",
+      "/papers/wbi11-oct-2019/page-05.png",
+      "/papers/wbi11-oct-2019/page-06.png",
+      "/papers/wbi11-oct-2019/page-07.png",
+      "/papers/wbi11-oct-2019/page-08.png",
+      "/papers/wbi11-oct-2019/page-09.png",
+      "/papers/wbi11-oct-2019/page-10.png",
+      "/papers/wbi11-oct-2019/page-11.png",
+      "/papers/wbi11-oct-2019/page-12.png",
+      "/papers/wbi11-oct-2019/page-13.png",
+      "/papers/wbi11-oct-2019/page-14.png",
+      "/papers/wbi11-oct-2019/page-15.png",
+      "/papers/wbi11-oct-2019/page-16.png",
+      "/papers/wbi11-oct-2019/page-17.png",
+      "/papers/wbi11-oct-2019/page-18.png",
+      "/papers/wbi11-oct-2019/page-19.png",
+      "/papers/wbi11-oct-2019/page-20.png",
+      "/papers/wbi11-oct-2019/page-21.png",
+      "/papers/wbi11-oct-2019/page-22.png",
+      "/papers/wbi11-oct-2019/page-23.png",
+      "/papers/wbi11-oct-2019/page-24.png",
+      "/papers/wbi11-oct-2019/page-25.png",
+      "/papers/wbi11-oct-2019/page-26.png",
+      "/papers/wbi11-oct-2019/page-27.png",
+      "/papers/wbi11-oct-2019/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
 }

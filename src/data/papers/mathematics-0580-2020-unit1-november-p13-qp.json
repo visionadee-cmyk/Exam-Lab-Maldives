@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2020-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit1-november-p13-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/13",
+  "session": "October/November 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Write 97.4236 correct to 3 decimal places. ................................................. [1] (b) Write down the reciprocal of 2. ................................................. [1] 4 Write down the order of rotational symmetry of each shape. .................................................. [2] 5 The mean of seven numbers is 16. Six of t",
+      "text": "3 (a) Write 97.4236 correct to 3 decimal places. ................................................. [1] (b) Write down the reciprocal of 2. ................................................. [1] 4 Write down the order of rotational symmetry of each shape. .................................................. [2] 5 The mean of seven numbers is 16. Six of t",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 or 0.5 4 4 2 2 B1 for each 5 17 2 M1 for 7 × 16 6 Accurate triangle with correct construction arcs 2 B1 for accurate triangle with no/incorrect arcs or SC1 for accurate triangle with arcs with sides interchanged 8 80 1 9 396 1 10 6899.2[0] final answer 3 M2 for 6400 2.6 3 ×× + or M1 for 6400 2.6 3 ××",
+          "image": "/papers/mathematics-0580-2020/q3-3b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q3.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( − oe, 0) 2 M1 for 5x + 12 = 0 places or B1 for 1 or 2 correct rectangles in correct places M1 for 5 × 4 × 3 13 8 3 M2 for × (7 + 11) × x = 12 × 6 or better or M1 for 12 × 6 or × (7 + 11) × x October/November 2020 Question Answer Marks Partial Marks 14 18.25, 18.35 2 B1 for each or SC1 for both values correct but reversed 40 10 30 20 × + M1 Allow M1 for 3 out of 4 values correctly rounded or for all correct but with any trailing zeros 8 A1 Dep on 40 10 30 20 × + 16 50 2 M1 for 752++ [× 140] or 752++ [×5] 17 3m + 22 final answer 2 B1 for 8m + 12 or –5m + 10 or jm + 22 or 3m + k as final answe r 18 4.47 or 4.472 to 4.473 3 M2 for ÷ oe or B2 for figs 4472[7...] or 4473 or M1 for figs 246 ÷ their time or B1 for 2.46 or 0.55 seen 19 18 1 and oe improper fractions M1 oe improper fractions A1 cao final answer A1 Dep on first A1 If M0 scored, SC1 for or oe improper fractions adding to 19 22 8.97 or 8.967... 3 M2 for 11.5 – 7.2 or better or M1 for PQ + 7.2 = 11.5 or better 23 Correctly eliminates one variable M1 [x =] 6 [y =] –0.5 oe A2 A1 for either correct If M0 scored, SC1 for 2 values satisfying one of the original equations",
+          "image": "/papers/mathematics-0580-2020/q11-11b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit1-2020-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

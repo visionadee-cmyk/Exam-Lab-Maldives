@@ -1,0 +1,151 @@
+{
+  "paperId": "wph11-jan-2024-unit5-qp",
+  "pairedMarkSchemeId": "wph11-jan-2024-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "January 2024",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆퐸=푚푐∆휃 Use of ∆퐸=푚퐿 푚=0.23 kg, which is less that 0.5 kg so the teacher’s estimate was inaccurate Or 9.9 × 10 J > 4.5 × 10 J so the teacher’s estimate was inaccurate Example of calculation ∆퐸=0.118 kg×1.76×10 J kg −1 K −1 × ( 292−77.4 ) K=4.46×10 J 푚= 4.46×10 J 1.98×10 J kg −1 =0.225 kg (1) (1) (1) Total for question 15 5 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q15-15b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculates surface area of Sun [using 퐴=4π푟 ] Use of 퐿=휎퐴푇 Use of 퐼= 퐿 4π푑 퐼=0.89 W m −2 Example of calculation 퐴=4π× ( 6.96×10 m ) =6.09×10 m 퐿=5.67×10 −8 W m −2 K −4 ×6.09×10 m × ( 5800 K ) =3.91×10 W 퐼= 3.91×10 W 4π× ( 5.91×10 m ) =0.891 W m −2 (1) (1) (1) (1) Equates 퐹= 퐺푀푚 푟 with 퐹=푚휔 푟 Use of 휔= 2π 푇 Conversion of T to years 푇=250 (years) OR Use of 퐹= 퐺푀푚 푟 with 퐹= 푚푣 푟 Use of 푣= 2π푟 푇 Conversion of T to years 푇=250 (years) Example of calculation 퐺푀푚 푟 =푚휔 푟 휔= √ 퐺푀 푟 = √ 6.67×10 −11 N m kg −1 ×1.99 ×10 kg ( 5.91 × 10 m ) ∴ω=8.02×10 −10 rad 푠 −1 푇= 2π 휔 = 2π rad 8.02×10 −10 rad s −1 =7.84×10 s= 7.84×10 s 3.15 × 10 s year −1 =249 year (1) (1) (1) (1) (1) (1) (1) (1) Total for question 16 8 Number Answer Mark Or The weight of the astronaut acts as a centripetal force Or The astronauts are in free fall as they orbit the Earth They do not experience (normal) contact forces (1) (1)",
+          "image": "/papers/wph11-jan-2024/q16-16a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆퐹=−푘∆푥 Use of 푇=2π √ 푚 푘 to calculate mass of chair Use of 푇=2π √ 푚 푘 to calculate mass of chair plus astronaut Mass difference calculated Mass of astronaut = 67 kg Example of calculation 푘= 175 N 0.289 m =606 N m −1 푚= 푘푇 4π = 606 N m −1 × ( 0.858 s ) 4π =11.3 kg 푚= 606 N m −1 × ( 2.26 s ) 4π =78.3 kg mass of astronaut= ( 78.3−11.3 ) kg=67.0 kg (1) (1) (1) (1) (1) Total for question 17 7 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Use of 휆 max 푇=2.898×10 −3 m K 푇 A 푇 B =1.76 Comparison of their ratio with 2 and conclusion OR Use of 휆 max 푇=2.898×10 −3 m K T A = 3410 K and T B = 1932 K Comparison of their value of T A with 2T B and conclusion Example of calculation 푇 A 푇 B = 휆 max,B 휆 max,A = 1500×10 −9 m 850×10 −9 m =1.76 (1) (1) (1) (1) (1) (1) Locate a standard candle in the galaxy Measure the intensity of the standard candle (on Earth) Use the inverse square law to calculate the distance to the standard candle Or Use 퐼= 퐿 4π푑 [I and L must be defined] (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q18-18a.png"
+        },
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푣=퐻 푑 Use of 푡= 퐻 Conversion from s to year 푡=1.37×10 year Example of calculation 퐻 = 2.02×10 m s −1 8.70×10 m =2.32×10 −18 s −1 푡= 2.32×10 −18 s −1 =4.31×10 s 푡= 4.31×10 s 3.15×10 s year −1 =1.37×10 year (1) (1) (1) (1) Total for question 18 11 Number Answer Mark The binding energy increases, (so energy is released) [Accept binding energy per nucleon increases] Or There is a decrease in (total) mass, (so energy is released) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q18-18c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Binding energy per nucleon read from graph for before and after fission Binding energy before and after fission calculated Or Binding energy increase calculated Energy released ≈ 240 (MeV) Example of calculation Increase in binding energy per nucleon = (8.5 – 7.5) MeV = 1.0 MeV Increase in binding energy ≈ 238 × 1.0 MeV Energy released ≈ 240 MeV (1) (1) (1) Bottom line correct Example of completed equation Sr→Y +β − −1 +ν̅ e (1) (1) Conversion between eV and J P = 110 (W) Example of calculation 푃=1295×10 s −1 ×0.546 ×10 eV×1.6×10 −19 J eV −1 =113 W (1) (1) (1) Use of 휆= ln2 푡 ½ Use of 퐴=퐴 푒 −휆푡 t = 44 (years) ≠ 50 (years), so claim inaccurate Or (After 50 years), A = 1.1 × 10 15 ( Bq) ≠ 1.295 × 10 15 ( Bq) so claim inaccurate Or (If A 1.295 × 10 Bq ), 퐴 =4.3×10 (Bq) ≠ 3.7 × 10 (Bq) so claim inaccurate Example of calculation 휆= ln2 28.8 =0.0241 years −1 1295 TBq=3700 TBq×e −0.0241 years −1 × 푡 푡= ln( 1295 TBq 3700 TBq ⁄) −0.0241 years −1 =43.6 years (1) (1) (1) Total for question 19 13 Number Answer Mark No change in count rate when paper placed (between source and GM tube), so there can’t be any alpha radiation There can’t be any gamma radiation, as gamma radiation would pass through the aluminium sheet Or There can’t be any gamma radiation, as count rate decreases to background with aluminium sheet. It must be beta radiation as beta radiation would not pass through the aluminium sheet. (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20b",
+          "text": "Part 20b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Gradient of 1 st graph calculated Gradient = (−) μ μ = 60 (cm −1 ) Photon energy read from 2 nd graph Photon energy = 70 (keV) which is closest to 80 (keV) so source is Xe OR Gradient of 1 st graph calculated Gradient = (−) μ μ = 60 (cm −1 ) μ read from 2 nd graph for at least one source in table μ for Xe = 50 (cm −1 ), which is closest to 60 (cm −1 ) so source is Xe Example of calculation Gradient= ( 60−540 ) 8 cm =−60 cm −1 Photon energy = 70 keV (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Total for question 20 9 Number Answer Mark *21(a) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for structure and lines of reasoning. Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured 0 Total marks awarded is the sum of marks for indicative content and the marks for structure and lines of reasoning IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Indicative content IC1 There must be a (very) high temperature (in the core) IC2 To give nuclei/protons large/enough kinetic energy [accept K.E. or E k ] IC3 So that nuclei/protons get close enough to fuse IC4 Because there is an electrostatic repulsion between nuclei/protons IC5 There must be a (very) high density IC6 To give a high collision rate to maintain fusion Or To give a high collision rate to maintain high temperature Energy in MeV Conversion from (M)eV to J B.E./nucleon = 1.12 × 10 −12 (J) Example of calculation Mass difference = 3727",
+          "image": "/papers/wph11-jan-2024/q20-20b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q20.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit5-2024-01-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

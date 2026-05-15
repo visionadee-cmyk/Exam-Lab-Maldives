@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2025-unit4-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit4-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "February/March 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6.02  10 Question Answer Marks M2 ions have opposite charges M2 6 crosses and 2 dots in third shell of S M3 ‘+’ charge on each K ion on correct answer line and ‘2–‘ charge on S ion on correct answer line M2 all ions correct 2Br – → Br2 + 2e – M1 any negative Br species losing electron(s) M2 correct ionic half equation February/March 2025 Question Answer Marks M2 bubbles M3 oxygen M4 water M5 bubbles Question Answer Marks Cl 2 + 2I – → 2Cl – + I2 M1 Cl – M2 correct ionic equation M1 I – loses e – M2 Cl2 gains e – M2 solid February/March 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(The value of H is) negative increases increases no change = 1075 + 240 = (+) 1315 M2 Bond energy of COCl2 = 1315 – (–105) = 1420 M3 C=O = 1420 – 2  C–Cl = 1420 – (2  340) = (+) 740 M2 double C=O bond dot and cross pairs are correct M3 Complete diagram is correct February/March 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q4-4c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "55 Mn Ca 2+ protons 25 20 neutrons 30 22 electrons 25 18 Each row ✔ M1 ‘a substance’ reduces another substance M2 is itself oxidised 3Mn3O4 + 8Al → 4Al2O3 + 9Mn M1 Al2O3 M2 correct equation M1 50  0.200÷1000 = 0.01(00) M2 0.01÷4 = 0.0025(0) / 2.5(0)  10 –3 M3 = 0.0025  24000 = 60(.0) and is bleached / goes white February/March 2025 Question Answer Marks M2 frequency of collisions between particles decreases M3 lower percentage / proportion / fraction of collisions / particles have energy greater than / equal to activation energy OR Fewer of the collisions / particles have energy greater than / equal to activation energy Question Answer Marks M2 (have a) C=C functional group",
+          "image": "/papers/chemistry-0620-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2C3H6 + 9O2 → 6CO2 + 6H2O M1 CO2 + H2O as only products M2 correct equation February/March 2025 Question Answer Marks CH3CH=CHCH3 + 2O2 → 2CH3COOH",
+          "image": "/papers/chemistry-0620-2025/q6-6c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit4-2025-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

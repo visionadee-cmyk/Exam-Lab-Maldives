@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2024-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2024",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Record the room temperature θ R shown on the thermometer in Fig. 2.1. θ R = ......................................................... [1] (b) The student pours a volume of 200 cm 3 of hot water into the beaker and records the temperature θ of the water at time t = 0. She records the temperature of the water in the beaker every 30 s.",
+      "text": "1 (a) Record the room temperature θ R shown on the thermometer in Fig. 2.1. θ R = ......................................................... [1] (b) The student pours a volume of 200 cm 3 of hot water into the beaker and records the temperature θ of the water at time t = 0. She records the temperature of the water in the beaker every 30 s.",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficult to measure irregular dimensions / owtte repeat in several places (for each dimension) and take averages",
+          "image": "/papers/physics-0625-2024/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "m A = 80.4 (g) and  A = 1.8 unit g / cm",
+          "image": "/papers/physics-0625-2024/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W B = 0.35 (N) V = 56 (cm ) line of sight perpendicula r / at eye level / at right angles V present and  B = 1.9(4) (g / cm ) suggestion supported by valid reason e.g.:   B as volume is measured directly   A as measuring cylinder is less precise 0625/63 May/June 2024",
+          "image": "/papers/physics-0625-2024/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " R = 18 (°C) two suitable precautions e.g:  view scale reading perpendicularly  wait until readings stops rising  avoid thermometer touching beake r s, °C both correct",
+          "image": "/papers/physics-0625-2024/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180 s, matching statement x = 0.12 and x = 0.089 unit °C / s explanation matching values of x and x two from:  volume(s) of water  same / size / material / surface area of beaker  room temperature 0625/63 May/June 2024",
+          "image": "/papers/physics-0625-2024/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "move screen slowly / back and forth h O = 2(.0) and h I = 3.2 both to nearest mm W = 0.63  axes labelled with quantity and unit  appropriate scales (plots occupying at least ½ grid between plotted points)  plots all correct to ½ small square and precise plots  well- j udged line and thin line G present and triangle method seen on graph f in range 14.0 (cm) to 17.5 (cm) and to 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2024/q3-3a.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "values of h I become very small / difficult to measure or greater % uncertainty 0625/63 May/June 2024 4 MP1 apparatus: ammeter and voltmeter MP2 circuit diagram: correct circuit symbols shown in correct connection MP3 method: record diameter measure p.d and current repeat for new diameter MP4 control variable: any one from:  length of wire  material of wire  temperature of wire MP5 table: columns, with units, for diameter, p.d., current, (resistance) any variable mentioned must have correct units MP6 analysis: compare readings in the table to see if change in diameter produces change in resistance plot line graph (with axes specified) MP7 additional point any one from:  at least 5 sets of data taken  repeat for each value of independent variable and take average  2nd appropriate control variable stated",
+          "image": "/papers/physics-0625-2024/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit6-2024-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

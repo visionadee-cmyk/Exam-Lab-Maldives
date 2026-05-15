@@ -20,7 +20,10 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "peptide",
-          "keywords": ["peptide"]
+          "keywords": [
+            "peptide"
+          ],
+          "image": "/papers/wbi11-oct-2020/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -28,7 +31,12 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "carboxyl / amino / condensation",
-          "keywords": ["carboxyl", "amino", "condensation"]
+          "keywords": [
+            "carboxyl",
+            "amino",
+            "condensation"
+          ],
+          "image": "/papers/wbi11-oct-2020/q1-1a_ii.png"
         },
         {
           "id": "1a_iii",
@@ -36,7 +44,10 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "translation",
-          "keywords": ["translation"]
+          "keywords": [
+            "translation"
+          ],
+          "image": "/papers/wbi11-oct-2020/q1-1a_iii.png"
         },
         {
           "id": "1b_i",
@@ -44,13 +55,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Hydrogen bonds only" },
-            { "id": "B", "text": "Ionic bonds only" },
-            { "id": "C", "text": "Both hydrogen and ionic bonds" },
-            { "id": "D", "text": "Neither of these bonds" }
+            {
+              "id": "A",
+              "text": "Hydrogen bonds only"
+            },
+            {
+              "id": "B",
+              "text": "Ionic bonds only"
+            },
+            {
+              "id": "C",
+              "text": "Both hydrogen and ionic bonds"
+            },
+            {
+              "id": "D",
+              "text": "Neither of these bonds"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "hydrogen"]
+          "keywords": [
+            "A",
+            "hydrogen"
+          ],
+          "image": "/papers/wbi11-oct-2020/q1-1b_i.png"
         },
         {
           "id": "1b_ii",
@@ -58,15 +85,34 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Hydrogen bonds only" },
-            { "id": "B", "text": "Ionic bonds only" },
-            { "id": "C", "text": "Both hydrogen and ionic bonds" },
-            { "id": "D", "text": "Neither of these bonds" }
+            {
+              "id": "A",
+              "text": "Hydrogen bonds only"
+            },
+            {
+              "id": "B",
+              "text": "Ionic bonds only"
+            },
+            {
+              "id": "C",
+              "text": "Both hydrogen and ionic bonds"
+            },
+            {
+              "id": "D",
+              "text": "Neither of these bonds"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "both", "hydrogen", "ionic"]
+          "keywords": [
+            "C",
+            "both",
+            "hydrogen",
+            "ionic"
+          ],
+          "image": "/papers/wbi11-oct-2020/q1-1b_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-oct-2020/page-03.png"
     },
     {
       "id": "q2",
@@ -74,7 +120,7 @@
       "type": "structured",
       "totalMarks": 6,
       "question": "Most Bengal tigers are orange with black stripes but there is a very small number of Bengal tigers that are white with black stripes.",
-      "image": "/papers/wbi11-oct2020/q2_white_tiger_photo.png",
+      "image": "/papers/wbi11-oct-2020/page-05.png",
       "parts": [
         {
           "id": "2a",
@@ -82,7 +128,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "The genetic constitution / alleles present in an organism",
-          "keywords": ["genetic", "alleles", "genes"]
+          "keywords": [
+            "genetic",
+            "alleles",
+            "genes"
+          ],
+          "image": "/papers/wbi11-oct-2020/q2-2a.png"
         },
         {
           "id": "2b",
@@ -90,16 +141,30 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "1/2 / 0.5 / 50%",
-          "keywords": ["1/2", "0.5", "50", "half"]
+          "keywords": [
+            "1/2",
+            "0.5",
+            "50",
+            "half"
+          ],
+          "image": "/papers/wbi11-oct-2020/q2-2b.png"
         },
         {
           "id": "2c",
           "text": "Determine the expected phenotypic ratio of orange tigers to white tigers born to the parents shown in this pedigree diagram. Use a genetic diagram to support your answer.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q2_pedigree.png",
+          "image": "/papers/wbi11-oct-2020/q2-2c.png",
           "answer": "Parents are both carriers (heterozygous); genetic diagram shows Aa x Aa; offspring ratio 3 orange : 1 white",
-          "keywords": ["3:1", "Aa", "carrier", "heterozygous", "orange", "white", "genetic diagram"]
+          "keywords": [
+            "3:1",
+            "Aa",
+            "carrier",
+            "heterozygous",
+            "orange",
+            "white",
+            "genetic diagram"
+          ]
         },
         {
           "id": "2d",
@@ -107,7 +172,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "1 in 30 / 1/30 / 0.033 / 3.3%",
-          "keywords": ["30", "0.033", "3.3"]
+          "keywords": [
+            "30",
+            "0.033",
+            "3.3"
+          ],
+          "image": "/papers/wbi11-oct-2020/q2-2d.png"
         }
       ]
     },
@@ -117,7 +187,7 @@
       "type": "structured",
       "totalMarks": 9,
       "question": "The cardiac cycle is the sequence of events that occurs when the heart beats. A typical cardiac cycle takes 0.86 seconds.",
-      "image": "/papers/wbi11-oct2020/q3_cardiac_cycle_pie.png",
+      "image": "/papers/wbi11-oct-2020/page-07.png",
       "parts": [
         {
           "id": "3a_i",
@@ -125,13 +195,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Atria: contracted; Ventricles: contracted" },
-            { "id": "B", "text": "Atria: contracted; Ventricles: relaxed" },
-            { "id": "C", "text": "Atria: relaxed; Ventricles: contracted" },
-            { "id": "D", "text": "Atria: relaxed; Ventricles: relaxed" }
+            {
+              "id": "A",
+              "text": "Atria: contracted; Ventricles: contracted"
+            },
+            {
+              "id": "B",
+              "text": "Atria: contracted; Ventricles: relaxed"
+            },
+            {
+              "id": "C",
+              "text": "Atria: relaxed; Ventricles: contracted"
+            },
+            {
+              "id": "D",
+              "text": "Atria: relaxed; Ventricles: relaxed"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "contracted", "relaxed"]
+          "keywords": [
+            "B",
+            "contracted",
+            "relaxed"
+          ],
+          "image": "/papers/wbi11-oct-2020/q3-3a_i.png"
         },
         {
           "id": "3a_ii",
@@ -139,7 +226,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Allows atria to empty / blood to flow into ventricles; prevents simultaneous contraction of atria and ventricles; due to AV node delay",
-          "keywords": ["empty", "AV node", "delay", "blood flow", "ventricles", "simultaneous"]
+          "keywords": [
+            "empty",
+            "AV node",
+            "delay",
+            "blood flow",
+            "ventricles",
+            "simultaneous"
+          ],
+          "image": "/papers/wbi11-oct-2020/q3-3a_ii.png"
         },
         {
           "id": "3a_iii",
@@ -147,7 +242,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Approximately 3.0 × 10² ms (accept 2.5–3.5 × 10² ms depending on diagram interpretation)",
-          "keywords": ["300", "3", "standard form", "10²", "× 10²"]
+          "keywords": [
+            "300",
+            "3",
+            "standard form",
+            "10²",
+            "× 10²"
+          ],
+          "image": "/papers/wbi11-oct-2020/q3-3a_iii.png"
         },
         {
           "id": "3a_iv",
@@ -155,7 +257,14 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Approximately 0.5 / 1/2 / 50% / 0.53 (accept values around 0.5)",
-          "keywords": ["0.5", "half", "50", "1/2", "0.53"]
+          "keywords": [
+            "0.5",
+            "half",
+            "50",
+            "1/2",
+            "0.53"
+          ],
+          "image": "/papers/wbi11-oct-2020/q3-3a_iv.png"
         },
         {
           "id": "3b",
@@ -163,7 +272,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Normal HR = 60 ÷ 0.86 = 69.8 bpm; New cycle = 0.86 – 0.4 = 0.46 s; New HR = 60 ÷ 0.46 = 130.4 bpm; Increase = 130.4 – 69.8 = 60.6 ≈ 61 bpm",
-          "keywords": ["61", "60.6", "69.8", "130.4", "0.46", "beats per minute"]
+          "keywords": [
+            "61",
+            "60.6",
+            "69.8",
+            "130.4",
+            "0.46",
+            "beats per minute"
+          ],
+          "image": "/papers/wbi11-oct-2020/q3-3b.png"
         }
       ]
     },
@@ -173,7 +290,7 @@
       "type": "structured",
       "totalMarks": 9,
       "question": "The polynucleotide DNA is composed of mononucleotides linked together. Two polynucleotides form a DNA molecule.",
-      "image": "/papers/wbi11-oct2020/q4_dna_molecule.png",
+      "image": "/papers/wbi11-oct-2020/page-12.png",
       "parts": [
         {
           "id": "4a_i",
@@ -181,7 +298,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Circle should enclose one phosphate, one pentose sugar and one base (R)",
-          "keywords": ["phosphate", "sugar", "base", "circle"]
+          "keywords": [
+            "phosphate",
+            "sugar",
+            "base",
+            "circle"
+          ],
+          "image": "/papers/wbi11-oct-2020/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
@@ -189,13 +312,31 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "S: hydrogen; T: phosphodiester; U: covalent" },
-            { "id": "B", "text": "S: hydrogen; T: covalent; U: phosphodiester" },
-            { "id": "C", "text": "S: phosphodiester; T: hydrogen; U: covalent" },
-            { "id": "D", "text": "S: phosphodiester; T: covalent; U: hydrogen" }
+            {
+              "id": "A",
+              "text": "S: hydrogen; T: phosphodiester; U: covalent"
+            },
+            {
+              "id": "B",
+              "text": "S: hydrogen; T: covalent; U: phosphodiester"
+            },
+            {
+              "id": "C",
+              "text": "S: phosphodiester; T: hydrogen; U: covalent"
+            },
+            {
+              "id": "D",
+              "text": "S: phosphodiester; T: covalent; U: hydrogen"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "phosphodiester", "covalent", "hydrogen"]
+          "keywords": [
+            "D",
+            "phosphodiester",
+            "covalent",
+            "hydrogen"
+          ],
+          "image": "/papers/wbi11-oct-2020/q4-4a_ii.png"
         },
         {
           "id": "4a_iii",
@@ -203,37 +344,77 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "cytosine" },
-            { "id": "B", "text": "guanine" },
-            { "id": "C", "text": "thymine" },
-            { "id": "D", "text": "uracil" }
+            {
+              "id": "A",
+              "text": "cytosine"
+            },
+            {
+              "id": "B",
+              "text": "guanine"
+            },
+            {
+              "id": "C",
+              "text": "thymine"
+            },
+            {
+              "id": "D",
+              "text": "uracil"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "thymine"]
+          "keywords": [
+            "C",
+            "thymine"
+          ],
+          "image": "/papers/wbi11-oct-2020/q4-4a_iii.png"
         },
         {
           "id": "4b_i",
           "text": "Meselson and Stahl carried out experiments that provided evidence for the semi-conservative replication of DNA. Heavy nitrogen (N¹⁵) and light nitrogen (N¹⁴) were used in these experiments. Complete the diagram to show the results of this experiment. Use the dotted lines to help you to position the bands on the diagram. The first one has been done for you.",
           "marks": 5,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q4b_meselson_stahl_bands.png",
+          "image": "/papers/wbi11-oct-2020/q4-4b_i.png",
           "answer": "Stage 2: one band at intermediate position; Stage 3: two bands (one light, one intermediate); Stage 4: one light band, one intermediate band with light band more intense",
-          "keywords": ["stage 2", "stage 3", "stage 4", "intermediate", "light", "heavy", "band"]
+          "keywords": [
+            "stage 2",
+            "stage 3",
+            "stage 4",
+            "intermediate",
+            "light",
+            "heavy",
+            "band"
+          ]
         },
         {
           "id": "4b_ii",
           "text": "The experiments of Meselson and Stahl disproved the dispersive theory of DNA replication. The diagram shows the expected results if the dispersive theory was correct. Which diagram would show the bands of DNA molecules on the density gradient at stage 2, if the dispersive theory was correct?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi11-oct2020/q4b_dispersive_theory.png",
+          "image": "/papers/wbi11-oct-2020/q4-4b_ii.png",
           "options": [
-            { "id": "A", "text": "Diagram A" },
-            { "id": "B", "text": "Diagram B" },
-            { "id": "C", "text": "Diagram C" },
-            { "id": "D", "text": "Diagram D" }
+            {
+              "id": "A",
+              "text": "Diagram A"
+            },
+            {
+              "id": "B",
+              "text": "Diagram B"
+            },
+            {
+              "id": "C",
+              "text": "Diagram C"
+            },
+            {
+              "id": "D",
+              "text": "Diagram D"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "intermediate", "single band"]
+          "keywords": [
+            "D",
+            "intermediate",
+            "single band"
+          ]
         }
       ]
     },
@@ -250,7 +431,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "BMI / waist-to-hip ratio / waist circumference / body fat percentage",
-          "keywords": ["BMI", "waist", "body fat", "obesity indicators"]
+          "keywords": [
+            "BMI",
+            "waist",
+            "body fat",
+            "obesity indicators"
+          ],
+          "image": "/papers/wbi11-oct-2020/q5-5a.png"
         },
         {
           "id": "5b_i",
@@ -258,22 +445,46 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "1-4 only" },
-            { "id": "B", "text": "1-6 only" },
-            { "id": "C", "text": "both 1-4 and 1-6" },
-            { "id": "D", "text": "neither 1-4 nor 1-6" }
+            {
+              "id": "A",
+              "text": "1-4 only"
+            },
+            {
+              "id": "B",
+              "text": "1-6 only"
+            },
+            {
+              "id": "C",
+              "text": "both 1-4 and 1-6"
+            },
+            {
+              "id": "D",
+              "text": "neither 1-4 nor 1-6"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "1-4", "1-6", "both"]
+          "keywords": [
+            "C",
+            "1-4",
+            "1-6",
+            "both"
+          ],
+          "image": "/papers/wbi11-oct-2020/q5-5b_i.png"
         },
         {
           "id": "5b_ii",
           "text": "In the presence of water, glucomannan swells to form a semi-solid gel. The diagram shows a stomach with glucomannan present and a stomach without glucomannan. Suggest how glucomannan aids weight loss.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q5b_stomach_diagrams.png",
+          "image": "/papers/wbi11-oct-2020/q5-5b_ii.png",
           "answer": "It fills the stomach / creates a feeling of fullness / satiety; reduces appetite / food intake",
-          "keywords": ["fullness", "satiety", "appetite", "food intake", "stomach"]
+          "keywords": [
+            "fullness",
+            "satiety",
+            "appetite",
+            "food intake",
+            "stomach"
+          ]
         },
         {
           "id": "5b_iii",
@@ -281,16 +492,31 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "It is a polysaccharide / carbohydrate; digestion would release glucose / monosaccharides; glucose can be used in respiration / converted to glycogen or fat for storage",
-          "keywords": ["carbohydrate", "glucose", "respiration", "fat", "glycogen", "storage"]
+          "keywords": [
+            "carbohydrate",
+            "glucose",
+            "respiration",
+            "fat",
+            "glycogen",
+            "storage"
+          ],
+          "image": "/papers/wbi11-oct-2020/q5-5b_iii.png"
         },
         {
           "id": "5c_i",
           "text": "A study compared weight loss in two groups of women. One group had a low-fat diet and the other had a very low-carbohydrate diet. The table shows the results. Many studies claim that a low-carbohydrate diet can result in two to three times as much weight loss as a low-fat diet. Determine the extent to which this study supports this claim.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q5c_weight_loss_table.png",
+          "image": "/papers/wbi11-oct-2020/q5-5c_i.png",
           "answer": "Low-fat group lost 92.5 – 88.2 = 4.3 kg; Low-carb group lost 91.1 – 83.0 = 8.1 kg; Ratio = 8.1 / 4.3 ≈ 1.9; This is close to but slightly less than the claimed 2–3 times; supports claim to some extent",
-          "keywords": ["4.3", "8.1", "ratio", "1.9", "supports", "close to"]
+          "keywords": [
+            "4.3",
+            "8.1",
+            "ratio",
+            "1.9",
+            "supports",
+            "close to"
+          ]
         },
         {
           "id": "5c_ii",
@@ -298,9 +524,18 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Blood pressure / cholesterol levels / blood glucose / lipid profile / heart rate / BMI",
-          "keywords": ["blood pressure", "cholesterol", "glucose", "lipid", "BMI", "heart rate"]
+          "keywords": [
+            "blood pressure",
+            "cholesterol",
+            "glucose",
+            "lipid",
+            "BMI",
+            "heart rate"
+          ],
+          "image": "/papers/wbi11-oct-2020/q5-5c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-oct-2020/page-16.png"
     },
     {
       "id": "q6",
@@ -308,7 +543,7 @@
       "type": "structured",
       "totalMarks": 12,
       "question": "A gene contains the genetic code for the sequence of amino acids in a polypeptide chain. The table shows the genetic codes found in DNA.",
-      "image": "/papers/wbi11-oct2020/q6_genetic_code_table.png",
+      "image": "/papers/wbi11-oct-2020/page-20.png",
       "parts": [
         {
           "id": "6a",
@@ -316,16 +551,31 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Triplet / three bases code for one amino acid; degenerate / more than one codon for most amino acids (e.g. 6 codons for Leucine); non-overlapping / each base is part of only one codon; universal / same code in all organisms; start codon (ATG = Methionine); stop codons (TAA, TAG, TGA) do not code for amino acids",
-          "keywords": ["triplet", "degenerate", "non-overlapping", "universal", "start", "stop", "codon"]
+          "keywords": [
+            "triplet",
+            "degenerate",
+            "non-overlapping",
+            "universal",
+            "start",
+            "stop",
+            "codon"
+          ],
+          "image": "/papers/wbi11-oct-2020/q6-6a.png"
         },
         {
           "id": "6b_i",
           "text": "The diagram shows the sequence of nucleotide bases in part of a DNA template (antisense) strand. Give the sequence of amino acids that is coded for by these bases.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q6b_dna_template.png",
+          "image": "/papers/wbi11-oct-2020/q6-6b_i.png",
           "answer": "Tyrosine-Arginine-Threonine-Glycine-Leucine-Glycine",
-          "keywords": ["tyrosine", "arginine", "threonine", "glycine", "leucine"]
+          "keywords": [
+            "tyrosine",
+            "arginine",
+            "threonine",
+            "glycine",
+            "leucine"
+          ]
         },
         {
           "id": "6b_ii",
@@ -333,7 +583,16 @@
           "marks": 5,
           "type": "short_answer",
           "answer": "The 9th base is in the third position of the ACG codon (Threonine); due to the degenerate nature of the code, a substitution may still code for Threonine (silent mutation); some substitutions could change the amino acid (missense mutation); could create a stop codon (nonsense mutation); may alter protein structure / function / folding",
-          "keywords": ["silent", "missense", "nonsense", "degenerate", "threonine", "protein structure", "stop codon"]
+          "keywords": [
+            "silent",
+            "missense",
+            "nonsense",
+            "degenerate",
+            "threonine",
+            "protein structure",
+            "stop codon"
+          ],
+          "image": "/papers/wbi11-oct-2020/q6-6b_ii.png"
         }
       ]
     },
@@ -350,7 +609,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Prothrombin is converted to thrombin; thrombin catalyses the conversion of fibrinogen to fibrin; fibrin forms a mesh / network that traps blood cells / platelets to form a clot",
-          "keywords": ["thrombin", "fibrinogen", "fibrin", "mesh", "clot", "network"]
+          "keywords": [
+            "thrombin",
+            "fibrinogen",
+            "fibrin",
+            "mesh",
+            "clot",
+            "network"
+          ],
+          "image": "/papers/wbi11-oct-2020/q7-7a.png"
         },
         {
           "id": "7b",
@@ -358,22 +625,44 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "anticoagulant" },
-            { "id": "B", "text": "antihypertensive" },
-            { "id": "C", "text": "platelet inhibitor" },
-            { "id": "D", "text": "statin" }
+            {
+              "id": "A",
+              "text": "anticoagulant"
+            },
+            {
+              "id": "B",
+              "text": "antihypertensive"
+            },
+            {
+              "id": "C",
+              "text": "platelet inhibitor"
+            },
+            {
+              "id": "D",
+              "text": "statin"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "anticoagulant"]
+          "keywords": [
+            "A",
+            "anticoagulant"
+          ],
+          "image": "/papers/wbi11-oct-2020/q7-7b.png"
         },
         {
           "id": "7c_i",
           "text": "Reduced vitamin K is needed for the synthesis of prothrombin. An enzyme, vitamin K epoxide reductase (VKOR), converts vitamin K to reduced vitamin K. The diagrams show the structures of warfarin and vitamin K. Using the information in the diagrams, suggest why warfarin inhibits the synthesis of prothrombin.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q7c_structures.png",
+          "image": "/papers/wbi11-oct-2020/q7-7c_i.png",
           "answer": "Warfarin has a similar structure to vitamin K / competitive inhibitor; warfarin binds to VKOR / competes with vitamin K for the active site; less reduced vitamin K is produced; less prothrombin can be synthesised",
-          "keywords": ["similar structure", "competitive", "VKOR", "active site", "reduced vitamin K"]
+          "keywords": [
+            "similar structure",
+            "competitive",
+            "VKOR",
+            "active site",
+            "reduced vitamin K"
+          ]
         },
         {
           "id": "7c_ii",
@@ -381,18 +670,34 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "High vitamin K would outcompete warfarin / reduce effectiveness of warfarin; more reduced vitamin K would be produced; more prothrombin would be synthesised; increased risk of blood clotting",
-          "keywords": ["outcompete", "effectiveness", "reduced vitamin K", "prothrombin", "blood clotting"]
+          "keywords": [
+            "outcompete",
+            "effectiveness",
+            "reduced vitamin K",
+            "prothrombin",
+            "blood clotting"
+          ],
+          "image": "/papers/wbi11-oct-2020/q7-7c_ii.png"
         },
         {
           "id": "7d",
           "text": "Other drugs are available that work in a similar way to warfarin. The diagram shows one study to compare the effect of warfarin with drug X. Explain how this study should be designed so that the effectiveness of these two drugs can be compared.",
           "marks": 4,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q7d_study_design.png",
+          "image": "/papers/wbi11-oct-2020/q7-7d.png",
           "answer": "Use large sample size / random allocation to groups; control variables such as age, gender, diet, dose; use placebo / blind trial to avoid bias; measure prothrombin levels over time / same duration; standardise vitamin K intake; repeat measurements",
-          "keywords": ["large sample", "random", "control", "placebo", "blind", "prothrombin", "standardise"]
+          "keywords": [
+            "large sample",
+            "random",
+            "control",
+            "placebo",
+            "blind",
+            "prothrombin",
+            "standardise"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi11-oct-2020/page-25.png"
     },
     {
       "id": "q8",
@@ -400,7 +705,7 @@
       "type": "structured",
       "totalMarks": 15,
       "question": "Low-density lipoproteins (LDLs) transport lipids around the body in the blood. Low-density lipoproteins can result in the development of atherosclerosis. They can be absorbed into the endothelial cells lining arteries and broken down by free radicals. The diagram shows a low-density lipoprotein containing cholesterol.",
-      "image": "/papers/wbi11-oct2020/q8_ldl_diagram.png",
+      "image": "/papers/wbi11-oct-2020/page-29.png",
       "parts": [
         {
           "id": "8a",
@@ -408,7 +713,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Both contain glycerol and fatty acids / ester bonds; triglyceride has three fatty acids, phospholipid has two fatty acids and one phosphate group; triglyceride is non-polar / hydrophobic, phospholipid has polar / hydrophilic phosphate head and non-polar fatty acid tails",
-          "keywords": ["glycerol", "fatty acids", "three", "two", "phosphate", "hydrophobic", "hydrophilic"]
+          "keywords": [
+            "glycerol",
+            "fatty acids",
+            "three",
+            "two",
+            "phosphate",
+            "hydrophobic",
+            "hydrophilic"
+          ],
+          "image": "/papers/wbi11-oct-2020/q8-8a.png"
         },
         {
           "id": "8b",
@@ -416,27 +730,90 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "LDLs are soluble in water / blood; hydrophilic phospholipid heads and protein face outward; hydrophobic cholesterol and triglycerides are enclosed inside; proteins on surface allow recognition by target cells",
-          "keywords": ["soluble", "hydrophilic", "hydrophobic", "enclosed", "proteins", "recognition"]
+          "keywords": [
+            "soluble",
+            "hydrophilic",
+            "hydrophobic",
+            "enclosed",
+            "proteins",
+            "recognition"
+          ],
+          "image": "/papers/wbi11-oct-2020/q8-8b.png"
         },
         {
           "id": "8c_i",
           "text": "The diameters of LDLs range from 19 nm to 24 nm. The table shows some information about LDLs. Complete the table by calculating the volume of LDL and the ratio of LDL volume to cholesterol volume. Use the formula v = 4/3 πr³.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q8c_table.png",
+          "image": "/papers/wbi11-oct-2020/q8-8c_i.png",
           "answer": "For diameter 24 nm, radius = 12 nm; Volume = 4/3 × π × 12³ = 7238 nm³; Ratio = 7238 / 523 = 13.8 ≈ 14:1",
-          "keywords": ["7238", "14", "13.8", "radius", "12", "volume"]
+          "keywords": [
+            "7238",
+            "14",
+            "13.8",
+            "radius",
+            "12",
+            "volume"
+          ]
         },
         {
           "id": "8c_ii",
           "text": "The graph shows the relationship between LDLs, high-density lipoproteins (HDLs) and the risk of CVD. Explain why measuring only the level of LDL in the blood is not a reliable predictor of CVD. Use the graph, all the information in this question and your own knowledge to support your answer.",
           "marks": 6,
           "type": "short_answer",
-          "image": "/papers/wbi11-oct2020/q8c_ii_graph.png",
+          "image": "/papers/wbi11-oct-2020/q8-8c_ii.png",
           "answer": "At same LDL level, risk varies depending on HDL level; high HDL reduces risk / protective effect; HDLs transport cholesterol to liver for excretion; other factors affect CVD risk (smoking, blood pressure, genetics, age, gender, exercise, diet); LDL size matters (small dense LDLs more atherogenic); oxidation of LDLs by free radicals; need to measure total cholesterol / HDL ratio / LDL:HDL ratio for better prediction",
-          "keywords": ["HDL", "protective", "liver", "excretion", "other factors", "ratio", "oxidation", "free radicals"]
+          "keywords": [
+            "HDL",
+            "protective",
+            "liver",
+            "excretion",
+            "other factors",
+            "ratio",
+            "oxidation",
+            "free radicals"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2020-unit1-2020-10-qp.pdf",
+    "pageImages": [
+      "/papers/wbi11-oct-2020/page-01.png",
+      "/papers/wbi11-oct-2020/page-02.png",
+      "/papers/wbi11-oct-2020/page-03.png",
+      "/papers/wbi11-oct-2020/page-04.png",
+      "/papers/wbi11-oct-2020/page-05.png",
+      "/papers/wbi11-oct-2020/page-06.png",
+      "/papers/wbi11-oct-2020/page-07.png",
+      "/papers/wbi11-oct-2020/page-08.png",
+      "/papers/wbi11-oct-2020/page-09.png",
+      "/papers/wbi11-oct-2020/page-10.png",
+      "/papers/wbi11-oct-2020/page-11.png",
+      "/papers/wbi11-oct-2020/page-12.png",
+      "/papers/wbi11-oct-2020/page-13.png",
+      "/papers/wbi11-oct-2020/page-14.png",
+      "/papers/wbi11-oct-2020/page-15.png",
+      "/papers/wbi11-oct-2020/page-16.png",
+      "/papers/wbi11-oct-2020/page-17.png",
+      "/papers/wbi11-oct-2020/page-18.png",
+      "/papers/wbi11-oct-2020/page-19.png",
+      "/papers/wbi11-oct-2020/page-20.png",
+      "/papers/wbi11-oct-2020/page-21.png",
+      "/papers/wbi11-oct-2020/page-22.png",
+      "/papers/wbi11-oct-2020/page-23.png",
+      "/papers/wbi11-oct-2020/page-24.png",
+      "/papers/wbi11-oct-2020/page-25.png",
+      "/papers/wbi11-oct-2020/page-26.png",
+      "/papers/wbi11-oct-2020/page-27.png",
+      "/papers/wbi11-oct-2020/page-28.png",
+      "/papers/wbi11-oct-2020/page-29.png",
+      "/papers/wbi11-oct-2020/page-30.png",
+      "/papers/wbi11-oct-2020/page-31.png",
+      "/papers/wbi11-oct-2020/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
 }

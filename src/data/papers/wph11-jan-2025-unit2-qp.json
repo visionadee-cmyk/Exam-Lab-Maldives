@@ -1,0 +1,63 @@
+{
+  "paperId": "wph11-jan-2025-unit2-qp",
+  "pairedMarkSchemeId": "wph11-jan-2025-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "January 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푅푅= 푉푉 퐼퐼 to determine current Use of 푃푃=푉푉퐼퐼 퐎퐎퐎퐎 푃푃= 푉푉 푅푅 퐎퐎퐎퐎 푃푃= 퐼퐼 R P = 3.2 W [allow e.c.f. from 15(a)] Or Use of ratio of p.d. = ratio of resistance to find resistance across variable resistor Use of 푃푃=푉푉퐼퐼 퐎퐎퐎퐎 푃푃= 푉푉 푅푅 퐎퐎퐎퐎 푃푃= 퐼퐼 R P = 3.2 W [allow e.c.f. from 15(a)] Example calculation 퐼퐼= 3.6 V 5.08 Ω = 0.709 A 푃푃= 4.5 V × 0.709 A = 3.19 W (show that value gives 3.24 W) 푅푅 푣푣푣푣푣푣푣푣푣푣푣푣휌휌푣푣 = 5.07 Ω × 0.9 V 3.6V = 1.27 Ω 푃푃= 4.5 6.34 Ω = 3.2 W (1) (1) (1) Total for question 15 7 Number Answer Mark Or Work done (supplied) to/per unit charge Or The work done moving unit charge around the whole circuit (1) *16(b) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content IC1 Increasing the intensity of light increases the number of photons (per second) incident on the LDR IC2 This causes the number of (conduction) electrons in the LDR to increase IC3 The resistance of the LDR decreases IC4 The internal resistance (of the cell) is constant IC5 (As the current increases) the potential difference across the internal resistance increases IC6 The terminal p.d. decreases so the voltmeter reading decrease Or p.d across LDR decreases so the voltmeter reading decrease IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points",
+          "image": "/papers/wph11-jan-2025/q15-15b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q15.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19c",
+          "text": "Part 19c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푐푐=푓푓휆휆 with with c = 3 x 10 ms -1 Use of E = hf Use of ℎ푓푓 =휑휑+퐸퐸 k max Converts from J to eV or Use of 푉푉= 푊푊 푄푄 퐸퐸 k max = 0.66 (e)V < 1.5 (e)V so no current is detected Or 퐸퐸 푘푘 푚푚푣푣푚푚 = 1.1 ×10 −19 J < 2.4 ×10 −19 J so no current is detected O r photon energy required = 9.30 x 10 -19 J > 7.96 x 10 -19 J so no current is detected Example calculation 푓푓= 3.00×10 m s −1 250×10 −9 m = 1.2 ×10 Hz 6.63×10 −34 J s × 1.2 ×10 Hz= 6.9 ×10 −19 J +퐸퐸 k max 퐸퐸 k max = 7.96×10 −19 J−6.9 ×10 −19 J = 1.06×10 −19 J 퐸퐸 k max = 1.06×10 −19 J 1.6 ×10 −19 J eV −1 = 0.663 eV 0.663 eV < 1.5 eV so no current is detected (1) (1) (1) (1) (1) Total for question 19 13 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2025/q19-19c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q19.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit2-2025-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "February/March 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Open (air hole / collar) / bubbles / green gas Chlorine / C l",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Iron reacts (with chlorine) / iron is reactive / not inert / effervescence / fizzing Hydrogen (is below zinc in the reactivity series) Bleached / turns white / goggles",
+          "image": "/papers/chemistry-0620-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for Experiment 1 Initial and final volumes completed correctly 1.1, 16.1 Difference 15.0",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for Experiment 2 Initial, final volumes and difference completed correctly 1.9, 31.9, 30.0 All readings to 1 dp in (a) and (b) 0620/62 March 2019 Smaller volume / less (of potassium manganate used) / solution A × (times) as concentrated × (times) value from table for Experiment 2, 60 cm Double volume (of C) used Volume of potassium manganate solution added > 50 cm Use more than one burette / refill burette",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Advantage easy to use / quick Disadvantage not as accurate owtte II ) (ions) / Fe 2+ Reference to oxidation / (iron( II )) → iron( III ) / Fe 3+ Tests on solution D / fizz / effervescence Lighted splint / flame ‘Pops’ 0620/62 March 2019 / no change / no precipitate Tests on solid E Carbonate 4 6 from: • Weighed amount / x gram of magnesium • Add known volume of dilute hydrochloric acid • gas syringe / measuring cylinder over water • Use of stop-clock / timer • Measure volume of hydrogen at fixed time or time for a fixed volume to be made • Repeat using different temperatures • Compare results / conclusion",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

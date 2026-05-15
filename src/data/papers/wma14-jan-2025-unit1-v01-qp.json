@@ -1,0 +1,173 @@
+{
+  "paperId": "wma14-jan-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-jan-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "January 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) find the values of the constants A, B and C. (5) (b) State the range of values of x for which this expansion is valid. (1) For the expansion, (c) find the coefficient of the term in x 3 (2) _____________________________________________________________________________________ _____________________________________________________________________________________ ____________________________",
+      "text": "2 (a) find the values of the constants A, B and C. (5) (b) State the range of values of x for which this expansion is valid. (1) For the expansion, (c) find the coefficient of the term in x 3 (2) _____________________________________________________________________________________ _____________________________________________________________________________________ ____________________________",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) find the values of the constants A, B and C. (5) (b) State the range of values of x for which this expansion is valid. (1) For the expansion, (c) find the coefficient of the term in x 3 (2) _____________________________________________________________________________________ _____________________________________________________________________________________ ____________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 l22n xx → B1 d ... d y yy x → M1 d 4...... d y x yxxy x →+ M1 dd 3 10 48 10 2 dd ln x yy yxxy xx + + +=× A1 ( ) d 10 4 1 ln 2 3028 d x y yxxy x −=−+× d ... d y x ⇒= M1 ln 2d310 28 d 10 4 x yxy x yx × = + −− A1 (6) B1: Correct differentiation 2 l22n xx → M1: For d ... d y yy x → where ... is a non-zero constant. M1: For d 4...... d y x yxxy x →+ where ... are non-zero constants. A1: Correct differentiation e.g. dd 3 10 48 10 2 dd ln x yy yxxy xx + + +=× or e.g. dd 3 10 48 1ln 2 02 dd x yy yxxy xx ++ + ×=− Condone a spurious d \"\" d y x = e.g. ddd 3 10 48 10 2 ddd ln x yyy yxxy xxx =+ + +=× M1: A valid attempt to make d d y x the subject by factorising d d y x from exactly two different terms in d d y x which have come from differentiating 5and 4yxy and then dividing by the terms in the bracket. Note that here, 2 different terms means terms such as d d y y x and d d y x x and not e.g. d d y y x and d 3. d y y x Look for () dd ... ......... dd yy xx ± =⇒= which may be implied. d d y x must be non-zero and in terms of x and y. Condone slips provided the intention is clear and the above conditions are satisfied. For those candidates who had a spurious d ... d y x = at the start, they may incorporate this in their rearrangement in which case they will have 3 terms in d d y x and so score M0. A1: ln 2d310 28 d 10 4 x yxy x yx × = + −− or any equivalent correct expression e.g. ln 2 0.3 0.28 0.4 x xy yx+ −− Note than some candidates may divide though by 10 initially e.g. ( ) 35410 2350.30.50.423.5 xx x yxyxyxy+ + = +⇒ + + =+ and full marks are available for equivalent work in (a) and (b). Note that x may appear correctly as ln 2 e x .",
+          "image": "/papers/wma14-jan-2025/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "At x = 0 5453yy= ⇒= d10 28 0 310 ln 2 3 0,3 d30 10 3 4 l n2 3y xy x ×××− ==⇒= − = − ×+ × M1 A1 (2) Notes: M1: Full method of finding the gradient. Requires: • substituting x = 0 into the equation for C and finding a non-zero value for y. Do not be concerned about the processing as long as they are using x = 0 in the equation for C and finding a non-zero value for y • substituting x = 0 and their non-zero y at x = 0 into their d d y x to find a numerical value This may be implied by their value. Condone slips in copying their d d y x from part (a) if the intention is clear. If they have a “ln x” term on the rhs then condone “ln 0” appearing as part of their substitution but if no substitution is shown in such cases, score M0 A1: 10 ln 2 3 − oe e.g. 11ln 23 ln1024 3 ln 2,, −− − from correct work. Apply isw once a correct answer is seen. There must be no other answers e.g. some candidates use 3y= ± to give 2 gradients. There are many different incorrect expressions for d d y x that will give the correct answer here so this must follow a correct d d y x in part (a). (8 marks) Number Scheme Marks",
+          "image": "/papers/wma14-jan-2025/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2025/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 643B − =×= B1 A A    ×−=− ⇒ =       M1 A1 ( ) ( ) A CC − −−  =×⇒=   M1 A1 (5) Notes: (a) B1: For B = 3 which may be implied by their expansion e.g. 3 ...± M1: Attempts to find A condoning the omission of their “3”. Look for Ax x m  −× =−   o.e. where m could be 1 leading to a value for A. Must be consistent with their ... 1 A x m −  +   but condone the omission of the “3”. Note the omission of the “3” (if correct) leads to A = 2. A1: A = or an exact equivalent or e.g. 0.6 • Allow if seen embedded in () 64Ax − + M1: Attempt to find C condoning the omission of their “3”. Look for ... A m  − ×−    ×=   or ... Ax m  − ×−    ×=   oe with their numerical value of A leading to a value for C Must be consistent with their ... 1 A x m −  +   where m could be 1 Note the omission of the “3” (if correct) with a correct A leads to C = . A1: C= oe e.g. 0.03125 Allow if seen embedded in their expansion.",
+          "image": "/papers/wma14-jan-2025/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "66x−<„ B1ft (1) (c) coefficient of x is ( )( )( ) 3... 3!4 A −−−  ×=   M1 − A1 (2) Notes: (b) B1ft: 66x−<„ but follow through on their A so allow for x AA −<„ Condone strict or non-strict inequalities for either end e.g. condone 6x< or e.g. −6 < x < 6 but follow through on their A e.g. condone '' '' x A „ Accept alternative notation e.g. 6x>− and () ( ] 6,6, 6 ,6, 6x−−„ etc. (c) M1: Attempt to find the coefficient of x or the term in x to obtain a value condoning the omission of their “3”. Look for an attempt at ... 3! A m  − ×− ×−    ×=   with their numerical value of A. Must be consistent with their ... 1 A x m −  +   from part (a) where m could be 1 Note the omission of the “3” with a correct A leads to coefficient of − . A1: − . Condone x− which may be seen embedded in an expansion. Correct answer only with correct work in (a) scores both marks. Expansions for reference () 6 46 413 1... AAAA Axxxxx − − −   + =× + =−+ − +     3... AAA xx x=−+ − + or e.g. (direct expansion) ()( ) ( )() ( ) ( )()() ( ) 6 46 4444 ... 223! AxAxAxAx −−−− −  − −−− −− −−  + = +−+++     ( )( )( ) 6...3... 2 16256204881281024 AAA AxAxAxxxx  = − +−+=− + − +   Number Scheme Marks",
+          "image": "/papers/wma14-jan-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4i",
+          "text": "Part 4i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d d V t = π B1 d d V r r = π B1 d ddd d ddd V Vrr t rtt = × ⇒ = ×× ππ or e.g. dd d d1 d dd d rVr r t tV t π π = × ⇒= × × M1 d 0.7 d r t  =   (cm s –1 ) oe e.g. A1 (4) Alternative: 70Vπt= B1 rπt π= B1 4dd 3dd rr rπt πr π tt π=⇒ =⇒= or rπtr tr tπ  = ⇒ = ⇒=   rπt t tπ  = ⇒ = ⇒=   d1 1051 10550 d 323221 r t t − −   ⇒==     M1 d 0.7 d r t  =   (cm s –1 ) oe e.g. A1 Notes: B1: States or uses d d V t π= oe e.g. d1 d70 t V π = B1: States or uses d d V r r π= oe e.g. d1 d r V r π = which may be seen as d d V r π = or d1 d100 r Vπ = if r = 5 has been substituted. M1: Attempts to use d dd d dd V Vr t rt = × or equivalent with r = 5 and their d d V r and d d V t correctly placed e.g. d d r t ππ= ×× or e.g. ( ) ddd70 d dd rVr t tV π π =×= A1: d 0.7 d r t  =   oe (Units are not required but if any are given they must be correct) (i) Alternative: B1: States or uses 70Vπt= B1: States or uses rπt π = M1: For either: • Differentiating rπt π = to obtain d ...... d r r t = and substituting r = 5 or • Making r the subject from rπt π = to obtain ...rt= and then differentiating to obtain d ... d r t t − = and then substituting t obtained from ( ) πt π= A1: d 0.7 d r t = oe (Units are not required but if any are given they must be correct) (ii) d1 dd d4 hk hhk thkt c th =⇒ = ⇒=+ ∫∫ M1A1 0,4th= = ⇒ cc× =+⇒= M1 5,6th= = ⇒ 65 64(52) kk× =×+ ⇒ = dM1 ( ) 10105264... hTT= ⇒= + ⇒= dddM1 46.8 (hours) or exact e.g. 609 9744 , A1 (6) (10 marks) Notes: M1: Separates variables and integrates both sides to obtain ( ) ...hktc= + or equivalent. There is no need for a constant of integration for this mark. A1: ( ) hktc= + or equivalent, with or without a constant of integration. M1: Requires a constant of integration and using 0,4th= = to find their c. Condone poor integration and poor attempts to rearrange their equation for this mark. dM1: Uses 5,6th= = to find k. It is dependent upon the previous mark and having two correctly placed constants. Condone poo",
+          "image": "/papers/wma14-jan-2025/q4-4i.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2025/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5i",
+          "text": "Part 5i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "24244 edeed x xx x xxxx=− ∫∫ M1 A1 11 1 eeed 48 8 xx x xxx= −+ ∫ dM1 1 11 eee xx x xxc = −++ A1 (4) Notes: (i) M1: Attempts to integrate by parts once the correct way around. The minus must be present (not +) Look for ee d, ,0 xx axbxxa b−> ∫ . Condone the omission of the “dx”. A1: eed xx xxx− ∫ oe e.g. eed xx xxx − ∫ dM1: Integrates ...e d x xx ∫ by parts the correct way around again. The second sign can be + or − This may be seen in isolation so award for ...e d... e... e d xxx x xxx =− ∫∫ Condone the omission of the “dx”. A1: ( ) 1 11 eee xx x xxc−+ + with or without a constant of integration. Allow equivalent simplified expressions e.g. ( ) 1 11 e x xxc  −+ +   and apply isw once a correct simplified answer is seen. Watch for “D and I” method: D I x e x 2x e x e x e x In these cases score M1dM1 for obtaining: eee , ,, 0 x xx pxqxrp q r±±> and then A1 for the correct first 2 terms ee xx xx− and then A1 as in the main scheme. Note that for this approach M1A1dM0 is not possible. (ii) ()()()() ...,... 21221 2 xAB AB xxxx + ≡+ ⇒= = +− + − M1 ()() 21 2xx =+ +− A1 () ( ) d2 ln 21 3 ln 2 2 12 x xxx xx + =+− − +− ∫ dM1 A1ft () () ( ) () d2 ln15 3 ln 52 ln 9 3 ln 2 2 12 x x xx + = −−− +− ∫ ddM1 ln = A1 (6) (10 marks) Notes: (ii) M1: Attempts partial fractions. Condone slips but should be of the correct form () () 21 2 AB xx + +− A1: Correct fractions () () 21 2xx + +− seen. It is not for correct “A” and “B” unless the correct fractions are seen or implied by later work. dM1: Integrates to a correct form e.g. ...ln 21 ...ln 2xx++ − where ... are non-zero constants. Moduli are not required, brackets will suffice but condone missing brackets for this mark e.g. ()() d2 ln 21 3 ln 2 2 12 x xxx xx + =+− − +− ∫ A1ft: Correct integration but follow through on their A and B. Moduli are not required, brackets will suffice but must be present now or implied by subsequent work e.g. when they substitute limits. Allow unsimplified e.g. ()() ln 213 ln 2 xx+− − ddM1: Applies the li",
+          "image": "/papers/wma14-jan-2025/q5-5i.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2025/page-13.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or implies that a = −3 or b = 10 B1 States or implies that a = −3 and b = 10 B1 (2) (b) Attempts = ''10 ''2 3'' 3 ''... −       −− =          either way around M1 AB    =   −   or 1263+−i jk A1 (2) (c) Attempts 42 6 7'' 3 ''10 24 6 AC −         = −− =         −−      M1 Attempts .AC AB=  10672 60 18       • =++       −−    dM1 Attempts .cos150172189 cos...AC ABAC AB=⇒ = ×⇒=  θθθ () 1722 43,1893 21NB== ddM1 awrt 33.7=°θ A1 (c) Alternative using the cosine rule: 42 6 7'' 3 ''10 24 6 AC −         = −− =         −−      M1 42 6 7'' 3 ''10 24 6 AC −         = −− =         −−      and 4\"10 \"6 73 4 21 3 BC −     =−=     −−    2 2 222 2 222 2 2 2 1263 ,643 ,6106ABBCAC⇒ = ++=++=+ + dM1 2cosBCABACAB ACθ=+−× 61 189 172 2 189 172 coscos...θθ=+−⇒ = ddM1 awrt 33.7=°θ A1 (4) (a) B1: States or implies that a = −3 or b = 10 (Note that a comes from 1λ= − and b from λ= ) B1: States or implies that a = −3 and b = 10 (Note that a comes from 1λ= − and b from 2λ= ) In the rest of the question, you can condone slips in writing down vectors as long as the intention is clear. (b) M1: Attempts to subtract their vectors OA  and OB  either way round. If no method is shown, it can be implied by at least 2 correct components for their vectors. A1: Correct vector using correct notation. Do not allow as coordinates and do not allow     −  i j k but apply isw once a correct vector is seen. (c) M1: Attempts to subtract OC  and their vector OA  either way around dM1: Attempts to find the scalar product of AC±  and their vector AB±  This may be implied by their value so you may need to check. If the value is incorrect and no method is shown score M0 ddM1: Full attempt to find angle CAB using the scalar product of AC±  and their vector AB±  A1: awrt 33.",
+          "image": "/papers/wma14-jan-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2025/page-25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/wma14-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-jan-2025/page-01.png",
+      "/papers/wma14-jan-2025/page-02.png",
+      "/papers/wma14-jan-2025/page-03.png",
+      "/papers/wma14-jan-2025/page-04.png",
+      "/papers/wma14-jan-2025/page-05.png",
+      "/papers/wma14-jan-2025/page-06.png",
+      "/papers/wma14-jan-2025/page-07.png",
+      "/papers/wma14-jan-2025/page-08.png",
+      "/papers/wma14-jan-2025/page-09.png",
+      "/papers/wma14-jan-2025/page-10.png",
+      "/papers/wma14-jan-2025/page-11.png",
+      "/papers/wma14-jan-2025/page-12.png",
+      "/papers/wma14-jan-2025/page-13.png",
+      "/papers/wma14-jan-2025/page-14.png",
+      "/papers/wma14-jan-2025/page-15.png",
+      "/papers/wma14-jan-2025/page-16.png",
+      "/papers/wma14-jan-2025/page-17.png",
+      "/papers/wma14-jan-2025/page-18.png",
+      "/papers/wma14-jan-2025/page-19.png",
+      "/papers/wma14-jan-2025/page-20.png",
+      "/papers/wma14-jan-2025/page-21.png",
+      "/papers/wma14-jan-2025/page-22.png",
+      "/papers/wma14-jan-2025/page-23.png",
+      "/papers/wma14-jan-2025/page-24.png",
+      "/papers/wma14-jan-2025/page-25.png",
+      "/papers/wma14-jan-2025/page-26.png",
+      "/papers/wma14-jan-2025/page-27.png",
+      "/papers/wma14-jan-2025/page-28.png",
+      "/papers/wma14-jan-2025/page-29.png",
+      "/papers/wma14-jan-2025/page-30.png",
+      "/papers/wma14-jan-2025/page-31.png",
+      "/papers/wma14-jan-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

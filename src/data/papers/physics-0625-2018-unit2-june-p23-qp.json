@@ -1,0 +1,657 @@
+{
+  "paperId": "physics-0625-2018-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit2-june-p23-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/23",
+  "session": "May/June 2018",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A length of cotton is measured between two points on a ruler. 1cm2345678910111213141516 cotton When the length of cotton is wound closely around a pen, it goes round six times. pen six turns of cotton What is the distance once round the pen? A 2.2 cm B    2.6 cm C    13.2 cm D    15.6 cm",
+      "text": "A length of cotton is measured between two points on a ruler. 1cm2345678910111213141516 cotton When the length of cotton is wound closely around a pen, it goes round six times. pen six turns of cotton What is the distance once round the pen? A 2.2 cm B    2.6 cm C    13.2 cm D    15.6 cm",
+      "options": [
+        "A 2.2 cm B    2.6 cm C    13.2 cm D    15.6 cm"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When does an object falling vertically through the air reach terminal velocity? A when the acceleration of the object becomes negative, B when the acceleration of the object is equal to g, C when the air resistance equals the weight of the object, D when the air resistance is greater than the weight of the object",
+      "text": "When does an object falling vertically through the air reach terminal velocity? A when the acceleration of the object becomes negative, B when the acceleration of the object is equal to g, C when the air resistance equals the weight of the object, D when the air resistance is greater than the weight of the object",
+      "options": [
+        "A when the acceleration of the object becomes negative",
+        "B when the acceleration of the object is equal to g",
+        "C when the air resistance equals the weight of the object",
+        "D when the air resistance is greater than the weight of the object"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sprinter runs a 100 m race in a straight line. The table shows how his speed changes with time for the first 5.0 s of the race. s/m speed 0       1.7     4.1     5.7     6.5     6.8 time / s     0       1.0     2.0     3.0     4.0     5.0 What is the average acceleration of the sprinter between time 2.0 s and time 3.0 s? A 1.6 m / s 2, B 1.9 m / s 2, C 4.1 m / s 2, D 5.7 m / s 2 3",
+      "text": "A sprinter runs a 100 m race in a straight line. The table shows how his speed changes with time for the first 5.0 s of the race. s/m speed 0       1.7     4.1     5.7     6.5     6.8 time / s     0       1.0     2.0     3.0     4.0     5.0 What is the average acceleration of the sprinter between time 2.0 s and time 3.0 s? A 1.6 m / s 2, B 1.9 m / s 2, C 4.1 m / s 2, D 5.7 m / s 2 3",
+      "options": [
+        "A 1.6 m / s 2",
+        "B 1.9 m / s 2",
+        "C 4.1 m / s 2",
+        "D 5.7 m / s 2 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A person steps onto a bathroom scales. The bathroom scales records both mass and weight. Which row shows the readings on the scales? mass            weight A 60 N             600 kg, B 60 kg             600 N, C 600 kg             60 N, D 600 N             60 kg",
+      "text": "A person steps onto a bathroom scales. The bathroom scales records both mass and weight. Which row shows the readings on the scales? mass            weight A 60 N             600 kg, B 60 kg             600 N, C 600 kg             60 N, D 600 N             60 kg",
+      "options": [
+        "A 60 N             600 kg",
+        "B 60 kg             600 N",
+        "C 600 kg             60 N",
+        "D 600 N             60 kg"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object has a weight of 7600 N in a gravitational field of strength 100 N / kg. What is the mass of the object? A 76 kg B    760 N C    7600 g D    76 000 N",
+      "text": "An object has a weight of 7600 N in a gravitational field of strength 100 N / kg. What is the mass of the object? A 76 kg B    760 N C    7600 g D    76 000 N",
+      "options": [
+        "A 76 kg B    760 N C    7600 g D    76 000 N"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A load is hung from a steel wire. The load is increased. The length of the wire increases until the limit of proportionality is reached. The load is now increased slightly. What happens? A The extension of the wire increases and the wire no longer obeys Hooke’s law., B The extension of the wire decreases and the wire no longer obeys Hooke’s law., C The extension of the wire increases and it obeys Hooke’s law., D The extension of the wire decreases and it obeys Hooke’s law.",
+      "text": "A load is hung from a steel wire. The load is increased. The length of the wire increases until the limit of proportionality is reached. The load is now increased slightly. What happens? A The extension of the wire increases and the wire no longer obeys Hooke’s law., B The extension of the wire decreases and the wire no longer obeys Hooke’s law., C The extension of the wire increases and it obeys Hooke’s law., D The extension of the wire decreases and it obeys Hooke’s law.",
+      "options": [
+        "A The extension of the wire increases and the wire no longer obeys Hooke’s law.",
+        "B The extension of the wire decreases and the wire no longer obeys Hooke’s law.",
+        "C The extension of the wire increases and it obeys Hooke’s law.",
+        "D The extension of the wire decreases and it obeys Hooke’s law."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a uniform metre rule pivoted at the 30 cm mark. 6.0 N 30 cm0 cm100 cm70 cm 2.0 N metre rule pivot The rule balances when a weight of 6.0 N is hanging from the zero mark and a weight of 2.0 N is hanging from the 70 cm mark. What is the weight of the rule? A 2.0 N B    5.0 N C    6.0 N D    13.0 N 4",
+      "text": "The diagram shows a uniform metre rule pivoted at the 30 cm mark. 6.0 N 30 cm0 cm100 cm70 cm 2.0 N metre rule pivot The rule balances when a weight of 6.0 N is hanging from the zero mark and a weight of 2.0 N is hanging from the 70 cm mark. What is the weight of the rule? A 2.0 N B    5.0 N C    6.0 N D    13.0 N 4",
+      "options": [
+        "A 2.0 N B    5.0 N C    6.0 N D    13.0 N 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An astronaut orbits the Earth in a space station. Which is a vector quantity? A the mass of the astronaut, B the speed of the satellite, C the temperature inside the satellite, D the weight of the astronaut",
+      "text": "An astronaut orbits the Earth in a space station. Which is a vector quantity? A the mass of the astronaut, B the speed of the satellite, C the temperature inside the satellite, D the weight of the astronaut",
+      "options": [
+        "A the mass of the astronaut",
+        "B the speed of the satellite",
+        "C the temperature inside the satellite",
+        "D the weight of the astronaut"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  visitor  to  a  fairground  throws  a  soft  object  of  mass  0.12 kg  at  a  coconut  of  mass  0.48 kg.  The soft  object  stops  moving  when  it  hits  the  coconut.  In  order  to  dislodge  the  coconut,  it  must  be made to move at 0.10 m/s. What is the minimum speed with which the visitor should throw the soft object in order to dislodge the coconut? A 0.20 m/s, B 0.40 m/s, C 2.0 m/s, D 4.0 m/s",
+      "text": "A  visitor  to  a  fairground  throws  a  soft  object  of  mass  0.12 kg  at  a  coconut  of  mass  0.48 kg.  The soft  object  stops  moving  when  it  hits  the  coconut.  In  order  to  dislodge  the  coconut,  it  must  be made to move at 0.10 m/s. What is the minimum speed with which the visitor should throw the soft object in order to dislodge the coconut? A 0.20 m/s, B 0.40 m/s, C 2.0 m/s, D 4.0 m/s",
+      "options": [
+        "A 0.20 m/s",
+        "B 0.40 m/s",
+        "C 2.0 m/s",
+        "D 4.0 m/s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An aircraft with a mass of 300 000 kg is flying at an altitude of 2000 m with a speed of 100 m / s. What is the kinetic energy of the aircraft? A 1.5 × 10 4 kJ B 1.5 × 10 6 kJ C 3.0 × 10 6 kJ D 6.0 × 10 6 kJ",
+      "text": "An aircraft with a mass of 300 000 kg is flying at an altitude of 2000 m with a speed of 100 m / s. What is the kinetic energy of the aircraft? A 1.5 × 10 4 kJ B 1.5 × 10 6 kJ C 3.0 × 10 6 kJ D 6.0 × 10 6 kJ",
+      "options": [
+        "A 1.5 × 10 4 kJ B 1.5 × 10 6 kJ C 3.0 × 10 6 kJ D 6.0 × 10 6 kJ"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which method of drying clothes has the least impact on the environment? A Evaporate the water in them in an electrically heated tumble dryer., B Hang them on a washing line in direct sunlight., C Remove the water from them in an electric spin dryer., D Suspend them close to a coal fire. 5",
+      "text": "Which method of drying clothes has the least impact on the environment? A Evaporate the water in them in an electrically heated tumble dryer., B Hang them on a washing line in direct sunlight., C Remove the water from them in an electric spin dryer., D Suspend them close to a coal fire. 5",
+      "options": [
+        "A Evaporate the water in them in an electrically heated tumble dryer.",
+        "B Hang them on a washing line in direct sunlight.",
+        "C Remove the water from them in an electric spin dryer.",
+        "D Suspend them close to a coal fire. 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  vertical  displacement  of  a  mass  of  0.20 kg  changes  with  time.  The  graph  shows  how  this displacement changes. 3 2 1 0 –1 –2 –3 0 0.20.40.60.81.01.21.4 time / s displacement / cm At which rate does it gain gravitational potential energy as it moves upwards? A 0.025 W B 0.050 W C 0.20 W D 0.40 W",
+      "text": "The  vertical  displacement  of  a  mass  of  0.20 kg  changes  with  time.  The  graph  shows  how  this displacement changes. 3 2 1 0 –1 –2 –3 0 0.20.40.60.81.01.21.4 time / s displacement / cm At which rate does it gain gravitational potential energy as it moves upwards? A 0.025 W B 0.050 W C 0.20 W D 0.40 W",
+      "options": [
+        "A 0.025 W B 0.050 W C 0.20 W D 0.40 W"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A simple barometer includes a column of mercury. Which  property  of  this  column  of  mercury  is  used  to  give  a  measurement  of  atmospheric pressure? A its cross-sectional area, B its height, C its temperature, D its thermal capacity",
+      "text": "A simple barometer includes a column of mercury. Which  property  of  this  column  of  mercury  is  used  to  give  a  measurement  of  atmospheric pressure? A its cross-sectional area, B its height, C its temperature, D its thermal capacity",
+      "options": [
+        "A its cross-sectional area",
+        "B its height",
+        "C its temperature",
+        "D its thermal capacity"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An oil tank has a base of area 2.5 m 2 and is filled with oil to a depth of 1.2 m. The density of the oil is 800 kg / m 3 . What is the force exerted on the base of the tank due to the oil? A 960 N B 2400 N C 9600 N D 24 000 N 6",
+      "text": "An oil tank has a base of area 2.5 m 2 and is filled with oil to a depth of 1.2 m. The density of the oil is 800 kg / m 3 . What is the force exerted on the base of the tank due to the oil? A 960 N B 2400 N C 9600 N D 24 000 N 6",
+      "options": [
+        "A 960 N B 2400 N C 9600 N D 24 000 N 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When molecules of a gas rebound from a wall of a container, the wall experiences a pressure. What is the cause of this pressure? A the change in energy of the molecules, B the change in momentum of the molecules, C the change in power of the molecules, D the change in speed of the molecules",
+      "text": "When molecules of a gas rebound from a wall of a container, the wall experiences a pressure. What is the cause of this pressure? A the change in energy of the molecules, B the change in momentum of the molecules, C the change in power of the molecules, D the change in speed of the molecules",
+      "options": [
+        "A the change in energy of the molecules",
+        "B the change in momentum of the molecules",
+        "C the change in power of the molecules",
+        "D the change in speed of the molecules"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two  liquid-in-glass  thermometers  P  and  Q  contain  the  same  volume  of  mercury  and  have capillary tubes of the same length. Thermometer P has a capillary tube with a smaller diameter than thermometer Q. Which thermometer has the greater range and which has the greater sensitivity? greater range greater sensitivity A P                    P, B P                    Q, C Q                    P, D Q                   Q",
+      "text": "Two  liquid-in-glass  thermometers  P  and  Q  contain  the  same  volume  of  mercury  and  have capillary tubes of the same length. Thermometer P has a capillary tube with a smaller diameter than thermometer Q. Which thermometer has the greater range and which has the greater sensitivity? greater range greater sensitivity A P                    P, B P                    Q, C Q                    P, D Q                   Q",
+      "options": [
+        "A P                    P",
+        "B P                    Q",
+        "C Q                    P",
+        "D Q                   Q"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student wishes to calibrate a mercury-in-glass thermometer with a °C scale. Which values should she use for the lower fixed point and for the upper fixed point? lower fixed point upper fixed point A melting point of ice boiling point of mercury, B melting point of ice boiling point of water, C melting point of mercury boiling point of mercury, D melting point of mercury boiling point of water 7",
+      "text": "A student wishes to calibrate a mercury-in-glass thermometer with a °C scale. Which values should she use for the lower fixed point and for the upper fixed point? lower fixed point upper fixed point A melting point of ice boiling point of mercury, B melting point of ice boiling point of water, C melting point of mercury boiling point of mercury, D melting point of mercury boiling point of water 7",
+      "options": [
+        "A melting point of ice boiling point of mercury",
+        "B melting point of ice boiling point of water",
+        "C melting point of mercury boiling point of mercury",
+        "D melting point of mercury boiling point of water 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a pan used for cooking food. base of pan handle of pan Which row is correct for the materials used to make the base and the handle of the pan? base of pan handle of pan A good thermal conductor good thermal conductor, B good thermal conductor poor thermal conductor, C poor thermal conductor good thermal conductor, D poor thermal conductor poor thermal conductor",
+      "text": "The diagram shows a pan used for cooking food. base of pan handle of pan Which row is correct for the materials used to make the base and the handle of the pan? base of pan handle of pan A good thermal conductor good thermal conductor, B good thermal conductor poor thermal conductor, C poor thermal conductor good thermal conductor, D poor thermal conductor poor thermal conductor",
+      "options": [
+        "A good thermal conductor good thermal conductor",
+        "B good thermal conductor poor thermal conductor",
+        "C poor thermal conductor good thermal conductor",
+        "D poor thermal conductor poor thermal conductor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a wave. 2.0 1.0 0 –1.0 –2.0 displacement / cm distance / cm 04.08.012.016.020.024.028.0 Which row is correct? amplitude of the wave / cm wavelength of the wave / cm A 1.0                         4.0, B 1.0                         8.0, C 2.0                         4.0, D 2.0                         8.0 8",
+      "text": "The diagram shows a wave. 2.0 1.0 0 –1.0 –2.0 displacement / cm distance / cm 04.08.012.016.020.024.028.0 Which row is correct? amplitude of the wave / cm wavelength of the wave / cm A 1.0                         4.0, B 1.0                         8.0, C 2.0                         4.0, D 2.0                         8.0 8",
+      "options": [
+        "A 1.0                         4.0",
+        "B 1.0                         8.0",
+        "C 2.0                         4.0",
+        "D 2.0                         8.0 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light travels at a speed of  2.0 × 10 8 m / s in a glass block. In the glass, the wavelength of the light is 4.0 × 10 –7 m. What is the frequency of the light? A 2.0    × 10 –15 Hz, B 1.3    × 10 –2 Hz, C 80 Hz, D 5.0    × 10 14 Hz",
+      "text": "Light travels at a speed of  2.0 × 10 8 m / s in a glass block. In the glass, the wavelength of the light is 4.0 × 10 –7 m. What is the frequency of the light? A 2.0    × 10 –15 Hz, B 1.3    × 10 –2 Hz, C 80 Hz, D 5.0    × 10 14 Hz",
+      "options": [
+        "A 2.0    × 10 –15 Hz",
+        "B 1.3    × 10 –2 Hz",
+        "C 80 Hz",
+        "D 5.0    × 10 14 Hz"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Scout P signals to scout Q on the other side of a valley by using a mirror to reflect the Sun’s light. mirror scout P Sun’s light scout Q Which mirror position allows the Sun’s light to be reflected to scout Q? Sun’s light Sun’s light Sun’s light Sun’s light mirror A BCD 9",
+      "text": "Scout P signals to scout Q on the other side of a valley by using a mirror to reflect the Sun’s light. mirror scout P Sun’s light scout Q Which mirror position allows the Sun’s light to be reflected to scout Q? Sun’s light Sun’s light Sun’s light Sun’s light mirror A BCD 9",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Images formed by lenses and mirrors can either be described as real or as virtual. Which row describes real and virtual images of a point object? real images virtual images A formed where light rays meet an image in a plane mirror is an example of a virtual image B formed where light rays meet can be projected onto a screen C formed from where light rays appear to diverge an image in a plane mirror is an example of a virtual image D formed from where light rays appear to diverge can be projected onto a screen",
+      "text": "Images formed by lenses and mirrors can either be described as real or as virtual. Which row describes real and virtual images of a point object? real images virtual images A formed where light rays meet an image in a plane mirror is an example of a virtual image B formed where light rays meet can be projected onto a screen C formed from where light rays appear to diverge an image in a plane mirror is an example of a virtual image D formed from where light rays appear to diverge can be projected onto a screen",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the air molecules in part of a sound wave at a particular moment in time. X Which statement is not correct? A Earlier, there was compression at X., B Later, there will be a rarefaction at X., C This part of the wave is travelling horizontally across the page., D This part of the wave is travelling towards the top of the page. 10",
+      "text": "The diagram shows the air molecules in part of a sound wave at a particular moment in time. X Which statement is not correct? A Earlier, there was compression at X., B Later, there will be a rarefaction at X., C This part of the wave is travelling horizontally across the page., D This part of the wave is travelling towards the top of the page. 10",
+      "options": [
+        "A Earlier, there was compression at X.",
+        "B Later, there will be a rarefaction at X.",
+        "C This part of the wave is travelling horizontally across the page.",
+        "D This part of the wave is travelling towards the top of the page. 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the ranges of human hearing and of ultrasound waves. 010 1 2 × 10 1 2 × 10 4 10 2 10 3 10 4 10 5 10 6 range of human hearing ultrasound To which characteristic of sound waves do the numbers on the diagram refer? A amplitude in cm, B frequency in Hz, C speed in metres / second, D wavelength in metres",
+      "text": "The diagram shows the ranges of human hearing and of ultrasound waves. 010 1 2 × 10 1 2 × 10 4 10 2 10 3 10 4 10 5 10 6 range of human hearing ultrasound To which characteristic of sound waves do the numbers on the diagram refer? A amplitude in cm, B frequency in Hz, C speed in metres / second, D wavelength in metres",
+      "options": [
+        "A amplitude in cm",
+        "B frequency in Hz",
+        "C speed in metres / second",
+        "D wavelength in metres"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A permanent magnet is placed close to a bar of soft iron. SNPQ permanent magnet soft iron bar What are the polarities of end P and of end Q? end P end Q A N               N, B N               S, C S               N, D S               S",
+      "text": "A permanent magnet is placed close to a bar of soft iron. SNPQ permanent magnet soft iron bar What are the polarities of end P and of end Q? end P end Q A N               N, B N               S, C S               N, D S               S",
+      "options": [
+        "A N               N",
+        "B N               S",
+        "C S               N",
+        "D S               S"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which method is used to demagnetise a magnet? A cool it in a freezer, B drop it into a beaker of water, C place it inside a coil carrying a direct current, D strike it with a hammer 11",
+      "text": "Which method is used to demagnetise a magnet? A cool it in a freezer, B drop it into a beaker of water, C place it inside a coil carrying a direct current, D strike it with a hammer 11",
+      "options": [
+        "A cool it in a freezer",
+        "B drop it into a beaker of water",
+        "C place it inside a coil carrying a direct current",
+        "D strike it with a hammer 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two  power  supplies  are  connected  in  separate  circuits.  Both  power  supplies  provide  the  same magnitude current. Power supply P has an electromotive force (e.m.f.) of 1.5 V and power supply Q has an e.m.f. of 3.0 V. Which statements are correct? 1     Source Q supplies twice the charge per unit time. 2     Source Q supplies twice the energy per unit charge. 3     Source Q supplies twice the energy per unit time. A 1, 2 and 3 B    1 and 2 only C    1 and 3 only D    2 and 3 only",
+      "text": "Two  power  supplies  are  connected  in  separate  circuits.  Both  power  supplies  provide  the  same magnitude current. Power supply P has an electromotive force (e.m.f.) of 1.5 V and power supply Q has an e.m.f. of 3.0 V. Which statements are correct? 1     Source Q supplies twice the charge per unit time. 2     Source Q supplies twice the energy per unit charge. 3     Source Q supplies twice the energy per unit time. A 1, 2 and 3 B    1 and 2 only C    1 and 3 only D    2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B    1 and 2 only C    1 and 3 only D    2 and 3 only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student measures the potential difference across a device and the current in the device. Which calculation gives the resistance of the device? A current  +  potential difference, B current        ÷  potential difference, C potential difference  ÷  current, D potential difference  ×  current",
+      "text": "A student measures the potential difference across a device and the current in the device. Which calculation gives the resistance of the device? A current  +  potential difference, B current        ÷  potential difference, C potential difference  ÷  current, D potential difference  ×  current",
+      "options": [
+        "A current  +  potential difference",
+        "B current        ÷  potential difference",
+        "C potential difference  ÷  current",
+        "D potential difference  ×  current"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An  electricity  meter  records  that  200 MJ  of  electrical  energy  are  drawn  from  the  240 V  mains supply in a 24 hour period. What is the average rate of electrical charge passing through the meter? A 9.6, C / h B    580 C / h C 35 kC / h D    0.83 MC / h",
+      "text": "An  electricity  meter  records  that  200 MJ  of  electrical  energy  are  drawn  from  the  240 V  mains supply in a 24 hour period. What is the average rate of electrical charge passing through the meter? A 9.6, C / h B    580 C / h C 35 kC / h D    0.83 MC / h",
+      "options": [
+        "A 9.6",
+        "C / h B    580 C / h C 35 kC / h D    0.83 MC / h"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A   3.0 Ω resistor is connected in parallel with a 4.0 Ω resistor. 4.0 Ω 3.0 Ω What is the resistance of this combination? A 0.14 Ω B    0.58 Ω C    1.7 Ω D    7.0 Ω 12",
+      "text": "A   3.0 Ω resistor is connected in parallel with a 4.0 Ω resistor. 4.0 Ω 3.0 Ω What is the resistance of this combination? A 0.14 Ω B    0.58 Ω C    1.7 Ω D    7.0 Ω 12",
+      "options": [
+        "A 0.14 Ω B    0.58 Ω C    1.7 Ω D    7.0 Ω 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student sets up this circuit. What is the purpose of the circuit? A to allow a lamp to be made dimmer or brighter as required, B to amplify the sound of a voice, C to light a lamp in the dark, D to sound a bell when the temperature rises",
+      "text": "A student sets up this circuit. What is the purpose of the circuit? A to allow a lamp to be made dimmer or brighter as required, B to amplify the sound of a voice, C to light a lamp in the dark, D to sound a bell when the temperature rises",
+      "options": [
+        "A to allow a lamp to be made dimmer or brighter as required",
+        "B to amplify the sound of a voice",
+        "C to light a lamp in the dark",
+        "D to sound a bell when the temperature rises"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows two voltmeters P and Q connected to a potential divider. X V V voltmeter P voltmeter Q The sliding connection at point X is moved towards the top of the diagram. What happens to the reading on P and to the reading on Q? reading on P reading on Q A decreases                 decreases, B decreases                 increases, C increases                 decreases, D increases                  increases 13",
+      "text": "The diagram shows two voltmeters P and Q connected to a potential divider. X V V voltmeter P voltmeter Q The sliding connection at point X is moved towards the top of the diagram. What happens to the reading on P and to the reading on Q? reading on P reading on Q A decreases                 decreases, B decreases                 increases, C increases                 decreases, D increases                  increases 13",
+      "options": [
+        "A decreases                 decreases",
+        "B decreases                 increases",
+        "C increases                 decreases",
+        "D increases                  increases 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a logic circuit with inputs X and Y. Q X Y The output is Q. Which truth table is correct? A B X            Y            Q                          X            Y            Q 0            0            0                          0            0            1 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            0                          1            1            1, C D X            Y            Q                          X            Y            Q 0            0            1                          0            0            0 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            1                          1            1            0",
+      "text": "The diagram shows a logic circuit with inputs X and Y. Q X Y The output is Q. Which truth table is correct? A B X            Y            Q                          X            Y            Q 0            0            0                          0            0            1 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            0                          1            1            1, C D X            Y            Q                          X            Y            Q 0            0            1                          0            0            0 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            1                          1            1            0",
+      "options": [
+        "A B X            Y            Q                          X            Y            Q 0            0            0                          0            0            1 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            0                          1            1            1",
+        "C D X            Y            Q                          X            Y            Q 0            0            1                          0            0            0 0            1            1                          0            1            0 1            0            1                          1            0            0 1            1            1                          1            1            0"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A wire connected to a resistor is moved in a magnetic field. A current is induced in the direction shown. In which direction is the wire moved? NS D A B C B R wire induced current 14",
+      "text": "A wire connected to a resistor is moved in a magnetic field. A current is induced in the direction shown. In which direction is the wire moved? NS D A B C B R wire induced current 14",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a transformer. primary coil secondary coil core Which materials are the most suitable for the core and for the coils? core material coil material A copper                   copper, B copper                      iron, C iron                      copper, D iron                        iron",
+      "text": "The diagram shows a transformer. primary coil secondary coil core Which materials are the most suitable for the core and for the coils? core material coil material A copper                   copper, B copper                      iron, C iron                      copper, D iron                        iron",
+      "options": [
+        "A copper                   copper",
+        "B copper                      iron",
+        "C iron                      copper",
+        "D iron                        iron"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A solenoid is connected to a battery. solenoid axis of solenoid Which statement about the magnetic field at the centre of the solenoid is correct? A The magnetic field along the axis is zero., B The direction of the magnetic field is at an angle of 45° to the axis., C The direction of the magnetic field is parallel to the axis., D The direction of the magnetic field is perpendicular to the axis. 15",
+      "text": "A solenoid is connected to a battery. solenoid axis of solenoid Which statement about the magnetic field at the centre of the solenoid is correct? A The magnetic field along the axis is zero., B The direction of the magnetic field is at an angle of 45° to the axis., C The direction of the magnetic field is parallel to the axis., D The direction of the magnetic field is perpendicular to the axis. 15",
+      "options": [
+        "A The magnetic field along the axis is zero.",
+        "B The direction of the magnetic field is at an angle of 45° to the axis.",
+        "C The direction of the magnetic field is parallel to the axis.",
+        "D The direction of the magnetic field is perpendicular to the axis. 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the atomic model, an atom consists of a central mass, orbited by much smaller particles. central mass orbiting particle What is the name of the central mass and of the orbiting particles? central mass orbiting particles A neutron α-particles, B neutron                  electrons, C nucleus α-particles, D nucleus                  electrons",
+      "text": "In the atomic model, an atom consists of a central mass, orbited by much smaller particles. central mass orbiting particle What is the name of the central mass and of the orbiting particles? central mass orbiting particles A neutron α-particles, B neutron                  electrons, C nucleus α-particles, D nucleus                  electrons",
+      "options": [
+        "A neutron α-particles",
+        "B neutron                  electrons",
+        "C nucleus α-particles",
+        "D nucleus                  electrons"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  radiation  from  a  radioactive  source  passes  between  two  metal  plates,  and  is  deflected  as shown in the diagram. Between the plates there is a magnetic field directed into the plane of the paper, as indicated by the crosses. ×   ×   ×   ×   ×   ×   ×   ×   ×   × ×   ×   ×   ×   ×   ×   ×   ×   ×   × Only one type of radiation is present. Which situation is possible? A The source emits alpha particles and there is an upwards electric field between the plates., B The source emits alpha particles and there is no electric field between the plates., C The source emits beta particles and there is an upwards electric field between the plates., D The  source  emits  gamma  radiation  and  there  is  a  downwards  electric  field  between  the plates. 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International  Examinations  Copyright  Acknowledgements  Booklet.  This  is  produced  for  each  series  of  examinations  and  is  freely  available  to  download  at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "The  radiation  from  a  radioactive  source  passes  between  two  metal  plates,  and  is  deflected  as shown in the diagram. Between the plates there is a magnetic field directed into the plane of the paper, as indicated by the crosses. ×   ×   ×   ×   ×   ×   ×   ×   ×   × ×   ×   ×   ×   ×   ×   ×   ×   ×   × Only one type of radiation is present. Which situation is possible? A The source emits alpha particles and there is an upwards electric field between the plates., B The source emits alpha particles and there is no electric field between the plates., C The source emits beta particles and there is an upwards electric field between the plates., D The  source  emits  gamma  radiation  and  there  is  a  downwards  electric  field  between  the plates. 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International  Examinations  Copyright  Acknowledgements  Booklet.  This  is  produced  for  each  series  of  examinations  and  is  freely  available  to  download  at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A The source emits alpha particles and there is an upwards electric field between the plates.",
+        "B The source emits alpha particles and there is no electric field between the plates.",
+        "C The source emits beta particles and there is an upwards electric field between the plates.",
+        "D The  source  emits  gamma  radiation  and  there  is  a  downwards  electric  field  between  the plates. 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International  Examinations  Copyright  Acknowledgements  Booklet.  This  is  produced  for  each  series  of  examinations  and  is  freely  available  to  download  at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  nucleus  of  an  isotope  of  nitrogen  (N)  absorbs  a  neutron.  It  then  decays  into  an  isotope  of carbon (C) and emits x. n 1 0 +  N 14 7 →  C 14 6 +  x What is x? A α-particle, B β-particle, C γ-radiation, D proton",
+      "text": "The  nucleus  of  an  isotope  of  nitrogen  (N)  absorbs  a  neutron.  It  then  decays  into  an  isotope  of carbon (C) and emits x. n 1 0 +  N 14 7 →  C 14 6 +  x What is x? A α-particle, B β-particle, C γ-radiation, D proton",
+      "options": [
+        "A α-particle",
+        "B β-particle",
+        "C γ-radiation",
+        "D proton"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  graph  shows  how  the  count  rate  registered  by  a  counter  near  to  a  sample  of  a  radioactive isotope changes over a period of a few days. The background count rate is 5 counts per minute. 50 40 30 20 10 0 count rate counts / minute time / days 012345678 What is the half-life of the isotope? A 2.0 days B 2.5 days C 3.0 days D 4.0 days",
+      "text": "The  graph  shows  how  the  count  rate  registered  by  a  counter  near  to  a  sample  of  a  radioactive isotope changes over a period of a few days. The background count rate is 5 counts per minute. 50 40 30 20 10 0 count rate counts / minute time / days 012345678 What is the half-life of the isotope? A 2.0 days B 2.5 days C 3.0 days D 4.0 days",
+      "options": [
+        "A 2.0 days B 2.5 days C 3.0 days D 4.0 days"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit2-2018-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

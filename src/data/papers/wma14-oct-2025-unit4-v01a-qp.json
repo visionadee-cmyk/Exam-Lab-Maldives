@@ -1,0 +1,121 @@
+{
+  "paperId": "wma14-oct-2025-unit4-v01a-qp",
+  "pairedMarkSchemeId": "wma14-oct-2025-unit4-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01A",
+  "session": "October 2025",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 (4-x)(2-x) = A (4-x) + B (2-x) (2 ) (4 ) ... or ... AxBxAB   − + −  = = M1 A = - , B = giving - ( - x ) + ( - x ) A1 [2] (b) dd (4 )(2 ) xkt xx = −−  ln(4-x)- ln(2-x)=kt+c () M1, A1   0, tx = =  l n - l n = + c Þ c = l n ì í î ü ý þ M1 l n ( - x ) - l n( - x ) = k t + l n ln2 x kt x −  =  −  - x - x = e k t M1 4e 2 e 4e 2 e ktktktkt xxxx − = −  − = − 4e 4e (1 2e ) (*) 2e kt ktkt kt xx −  − = −  = − dM1, A1* [6] (c) 0.2 0.2 0.2 4e 2e 2e t t t − =  = − M1 0.2 ln t = awrt 2.03 t = A1 [2] 10 marks (a) M1: For forming a correct identity leading to one value of A or B. For example, º A ( - x ) + B ( - x ) from ( - x ) ( - x ) = A ( - x ) + B ( - x ) and finds at least one of A = ... or B = .... This would be implied using cover up rule and reaching one correct fraction A1: - (4-x) + (2-x) or any equivalent form. It is not scored for just the values ISW after sight of a correct answer. It may be awarded in part (b) (b) M1: Integrates to the form ± l l n ( - x ) ± m l n( - x ) , 0,0 Note that versions such as ln (8 2 )ln(4 2 ) ,xx− −0,0 ARE correct A1: Fully correct integration of both left and right-hand side condoning a missing constant of integration. Look for l n ( - x ) - l n( - x ) = k t o.e. such as ( ) ln (4 ) ln(2 ) xxt k − − − = Note that you may see (4 ) x − − being integrated to ( ) ln 8 2 x − Similarly, (2 ) x − being integrated to ( ) ln 4 2 x −− . These are both correct M1: Using both t = and x = in an integrated equation containing a constant of integration and finds the value of c. If the k is ‘moved’ to the LHS, c will be found in terms of k. It is dependent upon having integrated to a form equivalent to ln (4 ) ln(2 ) f ( ) xxtc  −  − = +  o.e. M1: Starting from an equation of the form ln (4 ) ln(2 ) xxktc  −  − =  +  , , , , kc   o.e. and applies a fully correct method to eliminate their logarithms. To score this • the lns must be correctly combined • all exponential work must be correct at the point when t",
+          "image": "/papers/wma14-oct-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2025/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ALT Uses answer x = 15: ttt + =  = (-5) M1 Substitutes t = in 27 27 ytt = − = − = ✓ B (15, 0) A1* (3, 0) A = B1 (3) (b) d d d d d d y yt t x xt t − == + Substitutes t = into d39 d22 yt xt − = + d d y x = M1 A1 Uses their with (15, 0) to produce tangent equation 135 0 xy − − = dM1 A1 (4) (c) Substitutes 2 , 9 , xttytt = + = − into their 94135 0xy− − = 9( 2 ) 4( 9 ) 135 0 tttt  + − − − = M1 135 0 ttt  − − + = ( 9)(4 15) 0 ttt  − + + = dM1 t =− A1 Coordinates of X are ,  −   dM1A1 (5) (12 marks) (a) M1: States 90 o.e.tt−= such as y = 3t= (a) No working needs to be seen for solving the equation and other values may be present including 0 and − A1*: Substitutes 3t= in xtt =+ to show that the x coordinate of B is 15 (and the y coordinate is 0) This can be stated e.g. sub 3t= in 215xttx= +  = or else you need see some working such as 9 + 6, 32 3+ o.e It is a given answer so you must see evidence followed by a statement B = (15, 0) o.e. such as B 15, xy == So just stating t = followed by x = and B = (15, 0) will score M1, A0* B1: States (3, 0) A = (need not see working) Alt (a) S.C. M1: Sets ttt + =  = A1*: Substitutes t = in 27 27 ytt = − = − = and makes a comment that B is on the x-axis B1: States (3, 0)A= (need not see working) (b) M1: Attempts to find the value of d d y x at 3t= or t = − 5. d d y x must be attempted via d Quadratic function d d Linear function d y t x t = A1: Achieves d d y x = 9/4 following M1 dM1: Uses (15,0) with the value of their gradient found using a correct method to find an equation of the tangent. It is dependent upon the previous M mark A1: Achieves xy − − = or any integer multiple of this (c) M1: Substitutes 2 , xttytt = + = − into their 135 0 xy − − = to form a simplified cubic equation in just t dM1: This is dependent upon the previous M mark. It is for an attempt at using a non-calculator method to solve a cubic equation using the fact that t = is a root. So, look for an attempt to divide their simplified cubic equation by",
+          "image": "/papers/wma14-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2025/page-05.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(1, , 5) , ( , 1, 3) AaBb − , : (2 ) l  = − − + + + − r i j k i j k Either :1 A  = or :3 B  = M1 leading to 3, ab = − = A1, A1 (3) (b) ( ) ('5 ' 3 ) ( ' 3 ' 5 ); AB = =  − + − − + = + − i j k i j k i j k  M1, A1 (2) (c) or ACOCOACA −                 = − = − − − = =                 −          M1 ˆ cos (4) (2) ( 2) . (3) (0) ( 3) CAB         •         −−     = + + − + + − dM1 0 6 ˆˆ cos 24 . 18 CABCAB  ++ = =  = A1 (3) (d) Area 24 18 sin 30; 3 3 CAB  == M1, A1 (2) (e) For one of OD −             = − + =             −        or OD −−             = − − = −             −        M1, A1 For both of OD −             = − + =             −        and OD −−             = − − = −             −        M1, A1 (4) (14 marks) (a) M1: Finds the value of  at A or B but is implied by a correct value for a or b A1: At least one of a or b correct A1: Both a and b correct (b) M1: Attempts to subtract the components either way around. If no method is shown it is implied by two correct coordinates/components (±) for their A and B A1: Correct vector and with correct notation. Allow column vector approach, so     −  is fine but     −  i j k is not. (c) M1: Attempts vector AC or CA by subtracting   −    and their a      either way around. Condone the coordinate form here, so ( ) 3, 0, 3 − for vector AC. If the method is not explicitly seen then award for two correct components (f.t. on their a) dM1: Uses the scalar product of AB   and AC   to find the value of ˆ cos CAB To score this mark • Both vectors, AB and AC must have been attempted via subtraction • The scalar product must have been attempted correctly • The magnitudes of the vectors must have initially been attempted via a correct method Alternatively, the cosin",
+          "image": "/papers/wma14-oct-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2025/page-09.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wma14-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2025-unit4-2025-10-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-oct-2025/page-01.png",
+      "/papers/wma14-oct-2025/page-02.png",
+      "/papers/wma14-oct-2025/page-03.png",
+      "/papers/wma14-oct-2025/page-04.png",
+      "/papers/wma14-oct-2025/page-05.png",
+      "/papers/wma14-oct-2025/page-06.png",
+      "/papers/wma14-oct-2025/page-07.png",
+      "/papers/wma14-oct-2025/page-08.png",
+      "/papers/wma14-oct-2025/page-09.png",
+      "/papers/wma14-oct-2025/page-10.png",
+      "/papers/wma14-oct-2025/page-11.png",
+      "/papers/wma14-oct-2025/page-12.png",
+      "/papers/wma14-oct-2025/page-13.png",
+      "/papers/wma14-oct-2025/page-14.png",
+      "/papers/wma14-oct-2025/page-15.png",
+      "/papers/wma14-oct-2025/page-16.png",
+      "/papers/wma14-oct-2025/page-17.png",
+      "/papers/wma14-oct-2025/page-18.png",
+      "/papers/wma14-oct-2025/page-19.png",
+      "/papers/wma14-oct-2025/page-20.png",
+      "/papers/wma14-oct-2025/page-21.png",
+      "/papers/wma14-oct-2025/page-22.png",
+      "/papers/wma14-oct-2025/page-23.png",
+      "/papers/wma14-oct-2025/page-24.png",
+      "/papers/wma14-oct-2025/page-25.png",
+      "/papers/wma14-oct-2025/page-26.png",
+      "/papers/wma14-oct-2025/page-27.png",
+      "/papers/wma14-oct-2025/page-28.png",
+      "/papers/wma14-oct-2025/page-29.png",
+      "/papers/wma14-oct-2025/page-30.png",
+      "/papers/wma14-oct-2025/page-31.png",
+      "/papers/wma14-oct-2025/page-32.png",
+      "/papers/wma14-oct-2025/page-33.png",
+      "/papers/wma14-oct-2025/page-34.png",
+      "/papers/wma14-oct-2025/page-35.png",
+      "/papers/wma14-oct-2025/page-36.png"
+    ]
+  },
+  "unit": "Unit 4"
+}

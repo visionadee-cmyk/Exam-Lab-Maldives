@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2017-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit2-november-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "October/November 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Flag Count Name[1] Name[2] Name[3] Name[4] Temp Jamal Amir Eve Tara 0 1 Amir Jamal Eve Tara Jamal 1 2 Amir Jamal Eve Tara Jamal 1 3 Amir Eve Jamal Tara Jamal 1 4 Amir Eve Jamal Tara Jamal 0 1 Amir Eve Jamal Tara Jamal 0 2 Amir Eve Jamal Tara Jamal 0 3 Amir Eve Jamal Tara Jamal 0 4 Amir Eve Jamal Tara Jamal (1 Mark) (1 Mark) (--------1 Mark--------) (--------1 Mark--------) (1 Mark) • Sorting the names • Ascending order / A to Z / lowest to highest / Alphabetic order Question Answer Marks 1 mark for data type, purpose + example data Example 1: Field Name: SPECIESID Data Type: Alphanumeric Purpose: Primary key Example Data: SP06583 Example 2: Field name: NUMBER Data Type: Integer Purpose: To record how many of that species there are at the park Example Data: 30 October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2017/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Species Classification Diet Legs Table: LIVESTOCK LIVESTOCK LIVESTOCK LIVESTOCK Sort: Ascending/ Descending Show:;     Criteria: “Mammal” “Herbivore” 4 or: (1 Mark) (1 Mark) (1 Mark) (1 Mark) 1 mark per completely correct column.",
+          "image": "/papers/computer_science-0478-2017/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit2-2017-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

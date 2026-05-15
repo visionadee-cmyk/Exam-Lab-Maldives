@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2025-unit4-november-p42-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit4-november-p42-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/42",
+  "session": "October/November 2025",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3(a) in the evidence document. [3] (b) The procedure AddNode(): • takes an integer to store in the binary tree as a parameter • stores the parameter in the next free node in the array • finds the position to store the data in th",
+      "text": "3(a) in the evidence document. [3] (b) The procedure AddNode(): • takes an integer to store in the binary tree as a parameter • stores the parameter in the next free node in the array • finds the position to store the data in th",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "3(b) in the evidence document. [7] 11 9618/42/O/N/25© UCLES 2025[Turn over (c) The text file TreeData.txt stores 50 integers. Each integer is on a new line in the file. The main program reads each integer from the",
+          "marks": 1,
+          "type": "structured",
+          "answer": "if TreeArray[CurrentNode][0] == -1: TreeArray[CurrentNode][0] = FreeNode Placed = True else: CurrentNode = TreeArray[CurrentNode][0] else: if TreeArray[CurrentNode][2] == -1: TreeArray[CurrentNode][2] = FreeNode Placed = True else: CurrentNode = TreeArray[CurrentNode][2] FreeNode = FreeNode + 1 else: print(\"The tree is full\") October/November 2025 Question Answer Marks • Opening the file to read and closing the file in an appropriate place • Looping 50 times/through file/through each line/until EOF ... • ... reading in each line ... • ... calling AddNode() with each value read in • Exception handling try, catch, except with appropriate message Example program code Java Integer Line; String ReadData; try{ FileReader f = new FileReader(\"TreeData.txt\"); try{ BufferedReader Reader = new BufferedReader(f); ReadData = Reader.readLine(); while (ReadData != null){ Line = Integer.parseInt(ReadData); AddNode(Line); ReadData = Reader.readLine(); } Reader.close(); }catch(IOException ex){ } }catch(FileNotFoundException e){ System.out.println(\"File not found\"); } October/November 2025 Question Answer Marks Try Dim FileReader As New System.IO.StreamReader(\"TreeData.txt\") While Not FileReader.EndOfStream AddNode(FileReader.ReadLine()) End While FileReader.Close() Catch ex As Exception Console.WriteLine(\"Cannot open file\") End Try Python try: File= open(\"TreeData.txt\") for Line in File: AddNode(int(Line.strip())) File.close() except: print(\"Error cannot open file\") October/November 2025 Question Answer Marks • Procedure header (and end) and with exception handling for writing to file: try, catch, except with appropriate message • Opening the file (Tree.txt) to write and closing the file in appropriate place • Looping through each element in array ... • ... creating correct string • ... writing each string to the file Example program code Java public static void WriteAllToFile(){ File TheFile = new File(\"Tree.txt\"); String Line; try{ FileWriter FW = new FileWriter(TheFile, true); for",
+          "image": "/papers/computer_science-9618-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit4-2025-11-41-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

@@ -1,0 +1,174 @@
+{
+  "paperId": "wme01-jan-2024-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-jan-2024-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "January 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5(1 3) I =  − or 2.5(1.5 2.5) I =  −− ( (1.5 ) I x x =  −− ) M1A1 (Ns) I = A1 (3) (6) Notes for question 2 (a) M1 Forms CLM equation OR equates impulses, condone sign errors and extra g’s and any correct cancellation, to give an equation in x only. A1 Correct unsimplified equation A1 Correct answer. If – 4 is seen, it must be rejected. (ignore units) (b) M1 Impulse-momentum equation, dimensionally correct, correct no. of terms for A or B. Condone sign errors but must be attempting a difference of momenta e.g. allow if they first state () I m v u =  − but then make a sign error and end up with a sum. If they clearly add the momenta, and there is no formula stated, M0. x does not need to be substituted. M0 if g is included. A1 Correct numerical expression. A1 cao must be positive. Ignore missing or wrong units. A0 if both 10 and another answer are given. NUMBER SCHEME MARKS uv st +  =   : u +  =   Other possible equations: ua =+ 400 20 ua = +  2 400 ua = +  400 (28 20) a =  −  M1 u = * A1* cso (2) e.g. v u at =+ 28 12 20 a =+ (leads to 0.8 a = ) M1 A1 A to midpoint: 200 12 0.8 tt =+ OR: find v and use it to find t e.g. (2 0.8 200) v = +   => v = and then one of : 464 12 0.8 t =+ t  + =    0.8 tt = −  M1 A1 12 ( ) or better ts = (11.9258..), 5 29 15 − A1 (5)",
+          "image": "/papers/wme01-jan-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "260 1200(0.8)D−= M1A1ft D=1220 (N) A1 (3) (10) Notes for question 3 (a) M1 Complete method to find the value of u. (they may use two equations, eliminate a and solve for u) A1* Correctly reaches the given answer. N.B. If they use 2 equations, we need to see a eliminated and u found correctly for this A mark. N.B. No marks if they use u =12 in (b) to find a and then use it in (a) to show that u = 12. (b) M1 Relevant suvat equation to find acceleration. This could be found in (a) or in (c) to earn these marks, but not necessarily used in (b). A1 Correct equation(s). M1 Complete method to find an equation in t only. (they may find v (21.54065..) first). Must use their calculated acceleration and 12. A1 Correct unsimplified equation in t only. A1 Correct answer, t = 12 or better, 11.9258... t = If seen, the negative value for t ( − 41.9258..) must be rejected. (c) M1 Use of F=ma. Correct no. of terms, dimensionally correct, a does not need to be substituted, condone sign errors. M0 if they use a = g. A1ft Correct unsimplified equation, ft on their a. A1 Accept 1200 (N) NUMBER SCHEME MARKS N.B. They may do (ii) first using the OR method to find  (and possibly  ) and then use either angle to do (i), using the Sine Rule or Cosine Rule.   o X OR X 30 o   • Using correct vector triangle with cosine rule: ( ) 5 3 5 3 cos 30 XX = + −  • Using correct vector triangle with sine rule to find  : 5 3 sin 30 sin  = 22.4109.. o  = => 22.4109.. 127.589.. o o o o  = − − = Then sine rule: 5 3 sin sin 30 sin X  == or cosine rule: (5 3) 129 2 129 cos XX  = + − or (5 3) 129 2 5 3 129 cos X  = + −   to find X. • Using components with magnitude: ( ) ( ) cos 30 5 3 sin 30 XX = − + M1 A1 Solves their equation (if quadratic, must include an X term) to find an X value. M1 X = 18 A1 NUMBER SCHEME MARKS 4(ii) EITHER Finds an equation in  only using their X: e.g. sinsin 30 = or (5 3) 129 2 5 3 9 cos  = + −   or cos  = R.Q | R || Q | whereis the resultantR () =128 o to neares",
+          "image": "/papers/wme01-jan-2024/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 CD RR = M1 Vert: CD R R g g + = + ( ) 686 245 x g g  − = + Relevant moments equations: M(C): 30 (1.1) (2.2) D gx g R += M(A): (0.4) (2.6) 55 ( 0.4) 30 (1.5) CD R R g x g + = + + M(P): 30 (1.1 ) (2.2 ) CD R x g x R x + − = − M(G): (1.1) 55 (1.1 ) (1.1) CD R g x R = − + M(B): (0.4) (2.6) 30 (1.5) 55 (2.6 ) DC R R g g x + = + − M1A1 0.08 x = A1 (4) (0.4) 30 (1.1)Mgg= M1 A1 M = 83 or 82.5 or oe A1 Other possible equations with D S= Vert: M( ) : (0.4) 30 (1.5) M( ) : (1.1) (1.5) M( ) : (2.2) 30 (1.1) (2.6) M( ) : (2.6) 30 (1.5) (3) C C C C C S Mg g A S g G S Mg D S g Mg B S g Mg =+ = = =+ =+ from which C S would need to be eliminated to give an equation in M only. (3) (10) Notes for question 5 (a) M1 Forms an equation in R C and x only. Dimensionally correct and the correct no. of terms. Either a moments equation about D or two other equations combined to eliminate R D . A1 Correct unsimplified equation A1* Correctly reaches the given answer with at least one line of intermediate working. (b) M1 Use of CD RR = M1 Complete method to form an equation in x only. Dimensionally correct and the correct no. of terms. Either vertical resolution or a moments equation(s) with C R and D R eliminated. C R must be replaced with the given expression in (a). D R replaced with C R but condone C R for the method mark. A1 Correct unsimplified equation in x only. A1 Correct answer (c) M1 Use D S = and forms an equation in M only. Dimensionally correct and the correct no. of terms. M0 if D S  . A1 Correct unsimplified equation A1 Correct answer, 83 or 82.5 o.e. NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2024/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A to B: 2( )( 2.5) Vg = + − − M1 A1 OR: e.g. 0 242 and 2 (2.5)ghVg h= −=+ oe V = A1 (3) gt = − + (25 ( 24)) 2.5 t +− = 2.5 t gt = − + 2.5 25 t gt =− Or they may find and UP DOWN tt gg             AND add M1 A1 5 ( ) ts = A1 (3)",
+          "image": "/papers/wme01-jan-2024/q6-6a.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "From A to C: 10 24() tg t= + − M1 A1 Complete method to find the required time: e.g. solving the above quadratic and finding the positive difference in the roots N.B. Allow this mark if they solve their quadratic, and give the answer as a range of values: t t t M1 4, 4.0 or 3.98 (s) A1 ALT 1: From A to C: 2 10 Wg = −  M1A1 () gt W − = M1 4.0 or 3.98 (s) A1 ALT 2: From A to C: 2 10 Wg = −  M1A1 () Wt gt +− = M1 4.0 or 3.98 (s) A1 (4)",
+          "image": "/papers/wme01-jan-2024/q6-6c.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 shape B1 ft labels (2) (12) Notes for question 6 (a) M1 Complete method to find an equation in V only. Condone sign errors. A1 Correct equation in V only using g. Note the sign of 2.5 and g should be the same. A1 cao (b) M1 Complete method to find an equation in t only. Condone sign errors. A1 Correct equation in t only using g. A1 cao (c) M1 Forming an equation or equations which could lead to a relevant time. Condone sign errors. A1 Correct equation(s) M1 Complete method to find the required time. A1 cao (d) B1 Correct shape. It should appear symmetrical with regards to gradients but the end point should be higher than the start point. Vertex on horizontal axis. B1ft Correct labels (24, 25 and 5), ft on their answers to (a) and (b), provided they are positive. N.B. ignore an incorrect time when v = 0. Neither mark available if using a velocity-time graph. NUMBER SCHEME MARKS N.B. Column vectors acceptable throughout apart from the answer to (b).",
+          "image": "/papers/wme01-jan-2024/q6-6d.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 += ( km h − ) M1 A1 (2)",
+          "image": "/papers/wme01-jan-2024/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(19 22 ) (12 16 ) t + + − i j i j M1 A1 (2)",
+          "image": "/papers/wme01-jan-2024/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(i) Path of : 22(19) Syx − − =− M1 Normal through : 15(26) Lyx− =− A1 Solve for either x OR y M1 x = 24.88 OR y = 14.16 A1 24.88 = 12t +19 OR 14.16 = 22 – 16t => t = 0.49 A1 (ii) (26 24.88) (15 14.16) 1.4 − + − = M1 1.4 1.3  so it is safe for S to continue its course. A1 cso (7) Alternative for (c)(i): )Path of : (1922 )(1216 St+ + −ijij e(2N6ormal5 through : 1 )(16 ) o12kL+ ++ijij M1 A1 Solve for t M1 t = 0.49 A2 (5) (11) Notes for question 7 (a) M1 Use of Pythagoras to find the speed. Since this is a 3,4,5 triangle the correct answer may appear without working. A1 cao (b) M1 Correct structure A1 Correct answer o.e. with i’s and j’s (c) (i) M1 Subtraction used to find the displacement vector or LS SL A1 Correct components for or LS SL with i’s and j’s collected, seen or implied. M1 Use of Pythagoras with their components, which must have come from attempt at subtracting or adding s and l, to form a 3TQ for distance or distance squared. A1 Correct 3TQ, seen or implied, e.g allow 392 96.31 tt −+ A1 cao Note: The correct value t = 0.49 may appear without working as a result of the quadratic solver on a calculator. Other methods may include completing the square or differentiation. N.B. Correct 3TQ = 1.3 oe can score max M1A1M1A1 (ii) M1 Use of their t value, which must have come from an attempt to minimise the distance LS, to find the shortest distance between S and L. Note: The correct value 1.4 may appear without working since the quadratic solver on a calculator will give a min value for d as 1.96. A1cso Correct conclusion by comparing 1.4 and 1.3. N.B. Accept e.g. ‘1.4 therefore it is safe’. NUMBER SCHEME MARKS cos R mg a = M1A1 P: sinTmgF=+ Q: 0.5 T mg = N.B. sin 0.5 mg F mg  += scores M1A1 (LHS) B1 RHS) M1 A1 B1 Use of FR  = B1 0.5 mg mg mg  =+ dM1  = A1 (8)",
+          "image": "/papers/wme01-jan-2024/q7-7c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sin mg F ma  −= (ms ) g a −  =   M1 A1 0.8 g V  =+   M1 V = 2.1 or 2.05 A1 (4) (12) Notes for question 8 (a) M1 Resolve perpendicular to find an expression for R in terms of m, condone sin/cos confusion and sign errors. A1 Correct unsimplified equation. M1 Form an equilibrium equation for P. Correct no. of terms, dimensionally correct. If F=ma is used then a must be zero. A1 Correct unsimplified equation. B1 Correct equation B1 Use of FR  = , seen or implied, in an equation. dM1 Dependent on previous M mark, replace trig and form an equation in  only. A1 Correct answer. Accept 0.125, 0.13 (b) M1 Use of F=ma for P. Correct no. of terms, dimensionally correct, ignore sin/cos confusion. A1 Correct equation, trig and F do not need to be substituted. M1 Use their calculated acceleration to form an equation in V. M0 if they use g. A1 Correct answer 2/3sf Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-jan-2024/q8-8b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wme01-jan-2024"
+  },
+  "unit": "Unit 2"
+}

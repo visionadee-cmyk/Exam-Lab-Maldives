@@ -1,0 +1,151 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All arrays, variables, constants and other identifiers should have meaningful names. (i) State the name, data type and use of two arrays you created for Task 1. Array 1 name ...................................................................................................................... Data type ...............................................................",
+      "text": "1 (a) All arrays, variables, constants and other identifiers should have meaningful names. (i) State the name, data type and use of two arrays you created for Task 1. Array 1 name ...................................................................................................................... Data type ...............................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "INPUT Item_Quantity[Order_Item] Order_Item ← Order_Item + 1 ELSE Order_Complete ← TRUE Order_Number ← Order_Number + 1 ENDIF UNTIL Order_Complete = TRUE OUTPUT \"Order Number \", Order_Number Counter ← WHILE Item_Code[Counter] <> \"X\" DO Menu_Count ← Menu_Place[Counter] OUTPUT Item_Code[Counter], \" \", Menu_Item{Menu_Count], \" \", Price[Menu_Count], \" \",Item_Quantity[Counter] Counter ← Counter + 1 ENDWHILE OUTPUT \"Total cost of order = \", Total_Cost Daily_Order_Code[Daily_Order_Counter] ← Order_Number Daily_Total_Cost_of_Order[Daily_Order_Counter] ← Total_Cost four from: • Explanation of using an input prompt and statement to enter the percent of the takings that are profit • Explanation of how the total takings are calculated • Explanation of how the percentage profits are calculated (from the input value) • Explanation of how the output is done // Explanation showing correct output statement with the daily takings, profit and percent value used in the calculation 0478/21 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct test data item and related reason for Task 3 which requires a percentage to be input (Answers MUST relate to pre-release task) e.g. Test data: -10 Reason: To check that negative values of percentage are rejected (or can identify a loss) Test data: 7.5 Reason: To check that normal data is accepted Test data: 7Percent Reason: To check that incorrect data / data types are rejected 0478/21 October/November 2018 Section B 1 mark for each correct line, maximum 5 marks Term Description Top-down design Structure diagram Flowchart Pseudocode Library routine Trace table Breaks down a system into successively smaller pieces. Shows the hierarchy of the different components which make up a system. Shows the steps representing an algorithm using various shapes of boxes. Describes a program using a simplified high-level notation. Pre-written code to include in your own program to carry out a common task. Shows the values of variables as you manually test your program. 0478/21 October/November 2018 1 mark for description 1 mark for example, e.g. To test if the value input falls between a given upper bound and a given lower bound « If a month has to be input using an integer, it must be between 1 and 12 inclusive. 1 mark for description 1 mark for example, e.g. To test if the data input is over/under a certain number of characters « An international telephone number can be no longer than 15 digits. 1 mark for description 1 mark for example, e.g. To test if the input is of the correct data type « If the input is expecting integer(s) to be entered, it will not permit a string to be entered.",
+          "image": "/papers/computer_science-0478-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each point: • Expects 50 numbers to be input • Totals the numbers as they are entered / carries out a running total • Outputs the result after the numbers have all been entered",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Total ← Count ← REPEAT INPUT Num Total ← Total + Num Count ← Count + 1 UNTIL Count = 50 OUTPUT Total",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct point in description, e.g. • Use a variable for the counter upper limit « • « that is input by the user. or • loop using a condition control « • « until condition is met Accept alternative correct ranges e.g. Count ← UNTIL Count > 50 0478/21 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Flag TestNum Num OUTPUT True 7 5 4 3 2 1 7 <------------------- 1 Mark ----------------------> <- 1 Mark - > 0478/21 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Flag TestNum Num OUTPUT True 6 4 3 False <---------------- 1 Mark -------------> Å ---------1 Mark ------------------- >",
+          "image": "/papers/computer_science-0478-2018/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct purpose e.g. Works out if the number entered is a prime number. [1] 0478/21 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field Data type PCID Text ScreenSize Number Type Text Price Currency 2 marks for 4 correct data types 1 mark for 2 or 3 correct data types",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark correct Fields included 1 mark correct Table and Show on all fields used 1 mark for correct sort, must be descending on Price 1 mark for correct criteria for the fields Field: PCID ScreenSize RAM Type HDD(Gb) Price Table: PCSTOCK PCSTOCK PCSTOCK PCSTOCK PCSTOCK PCSTOCK Sort: DescendingShow:; ; ; ; ; ; Criteria: =”DT” >1000 or:",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

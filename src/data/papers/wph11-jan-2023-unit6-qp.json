@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-jan-2023-unit6-qp",
+  "pairedMarkSchemeId": "wph11-jan-2023-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "January 2023",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The screw will get hot Or Risk of burns (So) use tongs whilst heating (1) (1) No repeats recorded Or Not enough sets of data Do not accept reference to range Inconsistent number of significant figures Or Inconsistent number of decimal places Or Not all values recorded to resolution of instrument No units for temperature (increase) Actual temperatures (of water) not recorded (1) (1) (1) (1) Time for heating the screw Position of screw in flame Flame setting Do not accept mass or volume (1) (1) (1) Use of E = mc using pair of values from table of results Use of energy lost by screw in cooling down = energy gained by water in heating up Correct value of  to 3 sig figs Example of calculation For water E = mc = 9.9  10 3  4180  62 = 2570 J For screw  = ∆ா ௠௖ = ଶହ଻଴ ସ.ଵଵ×ଵ଴ షయ ×ସଶ଴ = 1490 (  C) nd data line:  = 1510 (  C) 3 rd data line  = 1500 (  C) Reverse working can score 2 marks (1) (1) (1) Total for question 1 Number Answer Mark Substitution using 푇= ଶ஠ ఠ Clear algebra leading to relationship Example of derivation 푇= 2π 휔 ⟹휔= 2π 푇 ⟹휔 ଶ = 4π ଶ 푇 ଶ 푀푔=푚푥휔 ଶ =푚푥 4π ଶ 푇 ଶ ∴푇 ଶ = 4π ଶ 푚푥 푀푔 (1) (1) 2 Start timing after a few rotations 3 Time a number of rotations and divide by the number of rotations Or Repeat the measurement of T and calculate a mean 4 (Vary M to) obtain at least 5 sets of measurements 5 Keep x constant (for each value of M) 6 Plot a graph of T against ଵ ெ to check it is a straight line Or Plot a graph of T against ଵ ெ to check the gradient is constant Accept alternative graphs: T against ට ଵ ெ or log T against log M or variations with correct use of constants (1) (1) (1) (1) (1) (1) The video recording will help to judge when a rotation is complete The video recording can be used to view the motion more slowly The time for a rotation will be long so any improvement will be small (1) (1) (1) Total for question 2 Number Answer Mark ln  = ln   n Is in the form y = c + mx where is the gradient Or ln  =  n + ln  Is in the for",
+          "image": "/papers/wph11-jan-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit6-2023-01-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

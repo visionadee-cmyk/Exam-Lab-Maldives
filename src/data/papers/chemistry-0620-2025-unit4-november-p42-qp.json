@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2025-unit4-november-p42-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit4-november-p42-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "October/November 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) On Fig. 6.1, draw a circle around all the atoms which make up the ester linkage. [1] (b) Name compound E. ............................................................................................................................................. [1] (c) Deduce the empirical formula of compound E. ...................................................................................",
+      "text": "1 (a) On Fig. 6.1, draw a circle around all the atoms which make up the ester linkage. [1] (b) Name compound E. ............................................................................................................................................. [1] (c) Deduce the empirical formula of compound E. ...................................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) On Fig. 6.1, draw a circle around all the atoms which make up the ester linkage. [1] (b) Name compound E. ............................................................................................................................................. [1] (c) Deduce the empirical formula of compound E. ...................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "particle separation particle arrangement particle motion solid uniform vibrate liquid touching random random gas apart M2 condensing / condensation M3 dissolving M2 respiratory problems carbon dioxide Question Answer Marks October/November 2025 Question Answer Marks M1 species M2 correct equation M2 CaO + SiO2 → CaSiO3 M2 but different numbers of neutrons n = 28 and 32 e = 24 and 23 M2 green ppt. (insoluble in excess, ppt. turns brown near surface on standing) M1 ‘a substance’ oxidises another substance M2 is itself reduced October/November 2025 Question Answer Marks M1 2NaCl (only) M2 (s) and (aq) M2 208  0.1 = 20.8",
+          "image": "/papers/chemistry-0620-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.100  1.25 ( 1000) = 80 (cm ) M2 (mass was greater) because (dry) residue contains solid sodium chloride / NaCl adds to the mass (of residue) M2 named soluble sulfate salt other than sodium sulphate e.g. potassium (sulfate) / ammonium (sulfate) M3 named insoluble barium salt other than barium sulfate e.g. (barium) carbonate Question Answer Marks + M2 partial (dissociation) October/November 2025 Question Answer Marks 2– M2 CH3COO – M2 oxygen M1 use of –18 or (9  –2) or (3  3  –2) M2 +5 Question Answer Marks M2 differ from one member to the next by a –CH2– unit October/November 2025 Question Answer Marks M2 change as chain length increases M1 CH3CH2CH2Cl M3 1-chloropropane M2 CH3CHClCH3 M4 2-chloropropane Question Answer Marks M2 ethanol October/November 2025",
+          "image": "/papers/chemistry-0620-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit4-2025-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

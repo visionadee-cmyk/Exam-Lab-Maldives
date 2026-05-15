@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2017-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Rewrite the following pseudocode algorithm using a WHILE ... DO ... ENDWHILE loop. INPUT Num FOR Counter ← 1 TO 12 Num ← Num * Counter A[Counter] ← Num NEXT ................................................................................................................................................... ............................................................................",
+      "text": "5 (a) Rewrite the following pseudocode algorithm using a WHILE ... DO ... ENDWHILE loop. INPUT Num FOR Counter ← 1 TO 12 Num ← Num * Counter A[Counter] ← Num NEXT ................................................................................................................................................... ............................................................................",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– WHILE has criteria check at start / pre-test – may never run – REPEAT UNTIL has criteria check at end / post-test – will always run at least once • Correct data • Correct order",
+          "image": "/papers/computer_science-0478-2017/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Device ID Device Type Purchase Date Purchase Price ($) Table: DEVICE DEVICE DEVICE DEVICE Sort: Show:; ;   Criteria: Like ‘Desktop’ <#31/12/2016# or: <1000 1 mark for each correct column",
+          "image": "/papers/computer_science-0478-2017/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit2-2017-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,127 @@
+{
+  "paperId": "chemistry-0620-2023-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all burette readings recorded correctly with final reading > initial reading in both tables M2 both titres calculated correctly M3 all values to 1dp M4 titre for experiment 1 is 1.5 the titre for experiment 2",
+          "image": "/papers/chemistry-0620-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to make solid easier to see / so colour ( change ) easier to see / remove solution A to remove water (from the burette) M1 more solution B needed M2 as more (than 25 cm of) aqueous ammonia in flask and as a smaller volume (of solution B/copper( II ) sulfate) was needed / smaller titre correct evaluation of ‘bigger titre  smaller titre’",
+          "image": "/papers/chemistry-0620-2023/q1-1b.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat experiment and compare",
+          "image": "/papers/chemistry-0620-2023/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 correct evaluation of titre 1  2.5 M2 cm disadvantage: slowe r / takes longe r 0620/51 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 dissolves / forms a solution M2 steam given of f / condensation on tube / contains wate r",
+          "image": "/papers/chemistry-0620-2023/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 red-brown precipitate M2 remains / does not dissolve in excess / red-brown precipitate",
+          "image": "/papers/chemistry-0620-2023/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (red) litmus turns blue M2 ammonia / NH",
+          "image": "/papers/chemistry-0620-2023/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (solution) turns red/black/purple M2 becomes yellow / pale r / lighter on standing / no reaction",
+          "image": "/papers/chemistry-0620-2023/q2-2e.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 brown M2 (blue)-black (when starch added)",
+          "image": "/papers/chemistry-0620-2023/q2-2i.png"
+        },
+        {
+          "id": "2k",
+          "text": "Part 2k",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 ammonium / NH + M2 iron( III ) / Fe 3+ M3 sulfate / SO 2– 0620/51 May/June 2023 any 6 from MP1 adds cobalt( II ) oxide to (dilute) sulfuric acid in a suitable container MP2 cobalt( II ) oxide is in excess MP3 the mixture is stirred / mixed MP4 the acid/mixture is heated/warmed MP5 filter (to remove (excess) cobalt( II ) oxide) MP6 heat filtrate/solution / leave to evaporate (reject heat to dryness) MP7 filter out crystals / description of drying crystals max 6",
+          "image": "/papers/chemistry-0620-2023/q2-2k.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit5-2023-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

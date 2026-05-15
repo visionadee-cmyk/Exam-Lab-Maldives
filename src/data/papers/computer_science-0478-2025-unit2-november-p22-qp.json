@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "CodeStore[] Code Store Count [1] [2] [3] [4] [5] [6] OUTPUT 3 Code used before Speed Length must be 4 432U FALSE 1 TRUE 6 432U 7 CodeStore full October/November 2025 Question Answer Marks MP1 Checks that the length of the code input is 4 characters. MP2 Checks the code against the array contents to see if it has been used before (in the last 6 codes) MP3 If the code passes the tests, it is stored in the array MP4 Stores the code in the lowest available index MP5 Checks that the code store isn’t full before storing a new code // Outputs a code store is full message if appropriate // Algorithm continues until the code store is full. MP1 Declaration of array using correct name and data type MP2 Declaration of loop counter MP3 Use of appropriate loop for six iterations (allow any type of loop) MP4 Assignment of all array elements to null string (using loop counter as array index) Example: DECLARE CodeStore : ARRAY[1:6] OF STRING DECLARE Index : INTEGER FOR Index  1 TO 6 CodeStore[Index]  \"\" NEXT Index October/November 2025 Question Answer Marks J K L X October/November 2025 Question Answer Marks Three marks for six or seven correct outputs Two marks for four or five correct outputs One mark for two or three correct outputs J K L X 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 1 1 1 October/November 2025 Question Answer Marks One mark for two or three fields correctly identified Data type Field Boolean CoastalHabitat Integer Lifespan Real Length // Wingspan Text Species // Family MP1 Correct data – spelt correctly MP2 Correct layout – three columns, with no additional punctuation MP3 Correct order (vertical and horizontal) Correct output: Bewick’s swan 120.2 190.5 Whooper swan 150.0 230.0 Mute swan 150.0 220.2 SELECT Species, Family, Lifespan FROM WATERFOWL WHERE Lifespan >= 10 ORDER BY Species; October/November 2025 Question Answer Marks 8 Use the tables for AO2 and AO3 below to award a mark in a suitable band using a best fit approach, then add up the tot",
+          "image": "/papers/computer_science-0478-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit2-2025-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

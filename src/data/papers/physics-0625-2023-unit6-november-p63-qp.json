@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2023-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit6-november-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "October/November 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = 18(°C) view scale reading perpendicularly, wait until readings stops rising (at start), avoid thermometer touching beaker comparison of temperature changes over 180 s, matching statement, need to see both 16.5 and 10 1 unit °C/s volume of water, initial temperature material of beaker / thickness of beaker / surface area of beaker  not constant / higher than  at the end value of R reduced / decreases / low(er) / small(er) 1 use of constant temperature water bath October/November 2023 Question Answer Marks backwards and forwards 1",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "u / v = 0.33 • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well-judged line and thin line in range 13 to 18(cm) 1 triangle method seen on graph 1 clamp rule to bench/ lens and screen upright/ darkened room October/November 2023 Question Answer Marks 4 MP1 apparatus: correct variable resistor symbol in series MP2 method: measure current OR measure AMPS measure light intensity MP3 repeat for different current OR different resistance 1 MP4 control variable (one from): ambient light level OWTTE distance from lamp to light meter MP5 table: columns for current (with unit) and light intensity MP6 analysis: compare readings in a table to see if change in current produces change in light intensity/ plot line graph with axes specified or draw labelled axes MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, 2nd control variable stated, Additional graph notes: NOTE: – The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled) So maximum 1. If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit6-2023-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

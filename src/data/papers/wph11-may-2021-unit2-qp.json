@@ -1,0 +1,255 @@
+{
+  "paperId": "wph11-may-2021-unit2-qp",
+  "pairedMarkSchemeId": "wph11-may-2021-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "May 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 17,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "To limit the current (in the circuit) Or To avoid overheating/melting (in the circuit) (1)",
+          "image": "/papers/wph11-may-2021/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "11 (b) White light is incident on a boundary between glass and air, as shown. 41.00° air glass Explain what happens to the red light and the violet light when meeting the boundary. Your answer should include calculations. (4) ......................................................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "퐼 W 퐼 Z = 1 as current is the same around a series circuit. 푣 W 푣 Z = 0.25 (or 1:4) as the (cross-sectional) area / A is 4 times less for Z Or as the (cross-sectional) area / A is 4 times greater for W (for MP3, allow an answer “<1” ) (Do not award MP2 if value for MP1 is incorrect) (Do not award MP4 if value for MP3 is incorrect) (1) (1) (1) (1) Total for question 11 5 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Potential difference is the energy transfer per unit charge Energy is dissipated in the battery Energy transferred to circuit is less than energy transferred in battery OR Potential difference is the energy transfer per unit charge Voltage is dropped across the internal resistance Less voltage is dropped across the rest of the circuit (MP3 via either method is conditional upon awarding MP2) (Allow “lost volts in the internal resistance” for MP2 via 2 nd method) (Allow “terminal p.d. is lower” for MP3 via 2 nd method) (1)(1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐼= 푉 푅 for the whole circuit Use of 푉=퐼푅 for one of the resistors V = 8.5 V (voltmeter reading) (Award 1 mark for candidates using V = IR with any values given in the question) OR See ratio of p.d.s compared to ratio of resistances With correct values substituted V = 8.5 V (voltmeter reading) (Award 1 mark for candidates using potential divider formula with any values given in the question). Example of calculation 퐼= 9.0 V ( 270+15 ) Ω =0.0316 A 푉=0.0316 A ×270 Ω=8.53 V (1) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q12-12b.png"
+        },
+        {
+          "id": "12c",
+          "text": "Part 12c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉= 푊 푄 W = 110 J (Can award MP1 if candidate multiplies any value of V (of 9.0V or less) by the given charge) Example of calculation 푊=9.0 V×12 C=108 J (1) (1) Total for Question 12 8 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q12-12c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of n sinθ = n sinθ r for violet light = 31.9° or r for red light = 32.3° Use of trigonometry to calculate horizontal distances whilst in block For violet, distance = 3.98 cm or for red, distance = 4.05 cm Distance between points = 0.070 cm / 0.70 mm (If working is only shown to 2 significant figures, the distances will come out to be the same. This can score MP1-4 only if all the working is clearly shown) (For MP1, allow use of n = sin i / sin r) (If candidate has the n values the wrong way round, MP1 can still be awarded if equation used correctly otherwise) Example of calculation n sinθ = n sinθ . In air, n = 1.000 and θ = 54.00° so, for violet light, sinr = sin (54.00°) / 1.532, so r = 31.88° For red light, sinr = sin (54.0°) / 1.513, so r = 32.32° For violet light, tan (31.88°) = x / 6.400 cm, so x = 3.981 cm For red light, tan (32.32°) = x / 6.40 cm, so x = 4.049 cm Distance between points = 4.049 cm − 3.981 cm = 0.068 cm (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "13 (b) The student suggests that if the e.m.f. of the battery is doubled, the reading on the voltmeter will double. Assess whether the student’s suggestion is correct. (4) ............................................................................................................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of n sinθ = n sinθ Calculates nsinθ as 0.99 for red Or 1.01 for violet Red light refracts out of the glass as nsinθ < 1 Violet light undergoes total internal reflection as nsinθ > 1 (If candidate has the n values the wrong way round, MP1 can still be awarded if equation used correctly otherwise) OR Use of sin C = 1/n Critical angle for violet = 40.7° Or critical angle for red = 41.4° Red light refracts out of the glass as C > i Violet light undergoes total internal reflection as C < i Example of calculation nsinθ for violet light = 1.532 sin (41.00°) = 1.005. nsinθ for red light = 1.513 sin (41.00°) = 0.993. (1) (1) (1) (1) (1) (1) (1) (1) Total for question 13 9 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses R = V/I for resistor Or uses potential divider Uses R = V/I for thermistor R for thermistor = 19 Ω Temperature = 32 - 36°C Example of calculation R = V/I, I = V/R (for resistor), I = (3.42 V) / (11.5 Ω) = 0.297 A R = V/I (for thermistor) = (9.00 – 3.42 V) / (0.297 A) = 18.8 Ω (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q14-14a.png"
+        },
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Increased e.m.f. leads to greater current (Increased current leads to) greater temperature Resistance of thermistor would decrease (The proportion of the total p.d. across thermistor would decrease so) voltmeter reading would more than double so student incorrect (For MP4 there needs to be a clear conclusion that the student is incorrect) (1) (1) (1) (1) Total for question 14 8 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of v = fλ using v = 3.00 × 10 (ms −1 ) Use of E = hf Converts from J to eV Photon energy of source B = 4.43 (eV) (Can achieve MP1 and MP2 together if correctly using E = hc/λ) (Units are in brackets, as this is a “show that” question, where the units have already been given in the question) (For a “show that” question, the answer needs to be given to at least one more significant figure than that given in the question, so an answer of 4.4eV would not score MP4 unless it is shown to a greater number of significant figures beforehand) (A fully correct reverse calculation, showing that with a 4.4eV energy, the radiation would have a wavelength of 283nm can score a maximum of 3 marks) Example of calculation v = fλ so f = (3.00 × 10 ms −1 ) / (280 ×10 −9 m) = 1.07 × 10 Hz E = hf , so E = (6.63 ×10 −34 Js) × (1.07 × 10 Hz) = 7.09 × 10 -19 J in eV, this is (7.09 × 10 −19 J) / (1.60 × 10 −19 J eV −1 ) = 4.43 eV (1) (1) (1) (1) *15(b) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content • Frequency of source A is less than the threshold frequency for either metal. Or frequency of source B is less than the threshold frequency for copper but is greater than the threshold frequency for zinc. • (Photon) energy of source A is less than the work function for either metal • (Photon) energy of source B is less than the work function for copper but is greater than the work function for zinc. • Work function of zinc must be between 2.0 eV and 4.4 eV Or work function of copper must be greater than 4.4 eV • Intensity is (linked to) the number of photons per second • Each photon releases one electron",
+          "image": "/papers/wph11-may-2021/q15-15a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Unpolarised light vibrates/oscillates in all planes Plane polarised light vibrates/oscillates in one plane Including the direction of wave travel OR Unpolarised light vibrates/oscillates in all directions Plane polarised light vibrates/oscillates in one direction Perpendicular to the direction of wave travel (1) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Number(s) added to both axes Single maximum at 0° and single minimum at 90° Intensity at 0° ≤ 0.5 W m −2 (but not 0) (MP3 cannot be awarded if the graph has a positive gradient) Examples of graphs (These appear at the end of the mark scheme) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q16-16b.png"
+        },
+        {
+          "id": "16c",
+          "text": "Part 16c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(Polarising) filters at 90° to each other do not allow light to pass through Rotation of plane of polarisation (due to stress) allows light to pass Darker areas represent less stress Or brighter areas represent greater stress (1) (1) (1) Total for question 16 9 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q16-16c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Measure the position of the microphone Or measure the distance of the microphone from the speaker Move microphone gradually until crest on the lower trace lines up with the trough of the top trace and measure the position Or move microphone until traces are next in antiphase (Calculate the) distance moved by the microphone (which) is the wavelength A method to determine the time period T from the oscilloscope [e.g. time period is approx. 5 x the timebase of the oscilloscope] Multiply wavelength by 1/T (Do not award MP5 for “use v = fλ”) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q17-17a.png"
+        },
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Amplitude of the upper trace has increased Or trough of one trace is (again) aligned to top of the other trace. Photograph 3 had the microphone closer to the loudspeaker Or Microphone has been moved a whole number of wavelengths. (Sound) intensity varies with distance from loudspeaker (For “amplitude”, allow “height” or “vertical displacement” but not “size” or “displacement”) (To award both MP1 and MP2, the statements need to be linked i.e. first alternative in MP1 linked to first alternative in MP2) (MP2 via second alternative can be awarded if candidate states that the microphone has been moved one wavelength) (1) (1) (1) Total for question 17 8 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of A = πr Use of R = ρl / A R = 23.5 (Ω) (Units are in brackets, as this is a “show that” question, where the units have already been given in the question) (For a “show that” question, the answer needs to be given to at least one more significant figure than that given in the question, so an answer of 24 Ω would not score MP3 unless it is shown to a greater number of significant figures beforehand) (If a candidate uses diameter instead of radius, MP2 can still be awarded if the substituted value for A is dimensionally-correct) Example of calculation A = πr = π × (0.0905 × 10 −3 m) = 2.57 × 10 −8 m R = ρl / A = (1.10 × 10 −6 Ωm) × (0.550 m) / (2.57 × 10 −8 m ) = 23.5 Ω (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q18-18a.png"
+        },
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Maximum power when total resistance of circuit is the lowest Calculation of total resistance when X and Y are closed Use of P = V /R Maximum power = 9W, which is less than 12 W, so student incorrect (allow full e.c.f. from (a), including situations where power is calculated to be more than 12W so student is correct) (MP1 and MP2 can be awarded if candidate clearly calculates the power when switches X and Y are closed with no explanation). (MP3 can be awarded when candidate has only switch X or switch Y closed) (For MP4 there needs to be a clear conclusion of whether the student is correct or incorrect) (Some students might calculate the power of each individual resistor when both switches X and Y are closed – this is an acceptable method that can gain full credit – look for 6W, 1.5W and 1.5W added to give 9W) Example of calculation When X is closed, R tot = 23.5 Ω + 23.5 Ω = 47 Ω When Y is closed, Rt ot = 23.5 Ω When X and Y are closed, R tot = ( 47 Ω + 23.5 Ω ) −1 = 15.7 Ω P = V / R, so greatest power when resistance is lowest, = (12.0 V) / (15.7 Ω) = 9.2 W (If using the “show that” value from (a), power = 9W) (1) (1) (1) (1) Use of R = V / I to calculate I Use of I = Q / t and number of electrons = Q / e Number of electrons = 3.2 × 10 (no units) (allow full e.c.f. from (a)) Example of calculation I = V / R = 12.0 V / 23.5 Ω = 0.511 A. Q = It (for 1 second) = 0.511A × 1.0 s = 0.511 C Number of electrons = 0.511 C / (1.60 × 10 -19 C) = 3.2 × 10 electrons (if using the “show that” value from (a), answer = 3.1 × 10 ) (1) (1) (1) Temperature of resistor increases Resistance of resistor increases Use of P = V / R to explain that power output falls (For MP3, allow use of P = VI as long as it is clear that I decreases) (1) (1) (1) Total for question 18 13 Example graphs for Q16b Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2021/q18-18b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q18.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 17,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

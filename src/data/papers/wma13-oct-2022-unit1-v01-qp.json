@@ -1,0 +1,217 @@
+{
+  "paperId": "wma13-oct-2022-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-oct-2022-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "October 2022",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "32 . 15 ( ) ( . ( 4) ) . x x Ax B x x C A x − − = +  + = + + + or 2 ... 4 2 ... x x x x x x x + + + − − + M1 A = A1 6, BC = − = A1A1 (4) (b) ( ) f \" \" \" \"l n ( ) \" \" d Bx x xx Cx A x + + + = +  M1 A1ft ( ) f d ( n ) 6l x xx x x x = − + + +  ( ) ( ) ( ) ( ) . f5 n . ( ) d 5 3ln 5 3 3l 3 4 xx = − + − −  +  +  +  + +=  dM1 5 3 ln 44 9 3 ln 22 4 3 ln  = − + + − = +   M1 4 ln 8 =+ A1 (5) (9 marks) Notes: (a) M1: A correct method leading to at least one of the constants. May attempt long division getting the term A, or multiply through and compare coefficients or substitute values. Note that achieving A = 2 implies this mark. A1: 2A= May be seen in the long division or in the expression. A1: Either 6B=− or C = Stated or as part of the expression A1: Both B =− and C = Stated or as part of the expression (b) Note: use of letters A, B and C can score max 3 marks M1A1ftdM0M1A0. M1: Attempts to integrate their answer to (a), look for 1nn xx + → at least once and 4) ( n l kx x x xx + ++ + → + Allow with letters used if values have not been found. A1ft: Correct integration following through their A, B and C (or with letters). dM1: Applies the limits to their integral and subtracts. Must have numerical values for this mark.. M1: Uses correct log laws to combine the log terms into a single log term. (Need not have used the power law at this stage, unless earlier error leads to mismatch of coefficients.) Allow if letters used, so 3Cln(44/22) can score this mark. A1cao: Correct answer in the form specified. Question Scheme Marks",
+          "image": "/papers/wma13-oct-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Either f ( ) 5 x  or f ( ) x ... M1 f ( ) x  „ A1 (2) (b) (i) ... y y x x xy x =− − +  =  = +  = +− M1 ( ) f ( ) x x −  =−  −  oe such as 15 3 x − − or 15 3 x x − − A1 (ii) Domain is 35x„ B1ft (3) (c) ( ) ( ) fg f 4 sin f 4 sin f 2 ...             − = − + = − = =                 M1 6 2 = − = + A1 (2) (7 marks) Notes: (a) M1: One correct end of range, though allow with or < „ and ... or > (in correct direction) at the respective ends, and accept with y instead of f(x), or even with x for the M1. A1: Correct range, allow with y instead of f(x) or with other correct set notation (but use of x is A0 unless in formal set notation). Accept as two separate inequalities. (b)(i) M1: Attempts to make x or a swapped y the subject of the equation. Allow sign slips, but there should be a correct order of operations. A1: Correct rule, must be in terms of x, accept equivalents and isw after a correct answer is seen. Do not be concerned with the lhs (accept y = ... and even condone f(x) =...) (b)(ii) B1ft: Follow through on their answer to (a). Accept intervals or set notation answers. Do not accept e.g. 5f(3)x − „ or with y (c) M1: Attempts to evaluate g at  − and substitutes into f. (Allow even if a negative value is found.) Evaluation of g()− must be attempted, not just substitution into the expression. They may find the expression for fg(x) first and substituted, in which case the trigonometric expression must be evaluated before the mark is awarded. A1: Correct answer. Accept as decimal. Dot not isw if they try to change to degrees. Question Scheme Marks",
+          "image": "/papers/wma13-oct-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f ( ) 2( 2) e e xx x x x  = −   +− M1 A1 ( ) ( ) ( ) . 2 2 3 f ( ) 0e .. x x xx x  = = + = −− M1 x = A1 e y = so is , e A          A1 (5) (b) k  or their e k „ or with ... or < respectively. M1 the ir e k  „ A1ft (2) (7 marks) Notes: (a) M1: Differentiates using the product rule reaching the form ( ) ( 2) e e xx x x  − −   + A1: Correct derivative, need not be simplified. M1: Sets their derivative equal to zero and attempts to cancel or factorise out the exponential term and the ( 2) x − term (or multiple thereof) and solve for x. Alternatively, they may expand to a 3 term quadratic () 1083xx−+ and attempt to solve this via correct method. Allow recovery on slips in the exponent for this mark (and the A’s if a correct quadratic expression is solved). A1: Correct x value. A1: Correct simplified y value. Allow if seen in part (b). Isw, after a correct answer, but the follow through in (b) will not apply on an incorrectly simplified answer if this mark has been awarded. (b) M1: Identifies one correct boundary for k (the direction of inequality must be correct). Accept in terms of y or f(x) for this mark. A1ft: Correct range for k following their positive y coordinate in (a). Must have correct inequalities. Accept awrt 24.3 for the upper bound. Allow as separate inequalities, or set or interval notation. Question Scheme Marks",
+          "image": "/papers/wma13-oct-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-09.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "10 ... log (2 1) y y x xx = + = = +  M1 y x = −  A1 (2) (b) d1 10 ln10 d2 y x y  =   M1 d d1 d d 10 ln10 y y x y x == M1 ( ) d2 d 1 ln10 y xx = + A1 (3) (5 marks) Notes: (a) M1: Correctly undoes the logarithm and attempts to rearrange to make x the subject. A1: Correct expression for x. Apply isw after a correct answer. (b) M1: Attempts to differentiate y . Accept ln1 yy  → (ignore any extra terms). Do not be concerned about the lhs for this mark. M1: Applies reciprocal d d d d y x y x = . Variables must be consistent. A1: Correct answer. Accept equivalents in terms of x, e.g. with log( 2 1) x + isw after a correct answer. Alt for (b): Allow use of change of base formula. M1: () ln 21 ln10 x y + = (effectively a B mark via this method) M1: . d1 . d . ln1021 y xx    +   =  Attempts to differentiate using the chain rule. A1: Correct answer. Note: Candidates who write d d .. d . or . .. d y y x x y x  =   =   +  with no ln 10 term can score M0M1A0 under the Alt. Alt 2: Implicit Differentiation M1: As main scheme, attempts to differentiate as part of their work, so d 1010ln10 d yy y x → M1: Makes d d y x the subject. A1: Correct answer. Question Scheme Marks",
+          "image": "/papers/wma13-oct-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 4 1 32 (1)ln(0.828...) P −  =+= −   M1 (1) 0.828... P =− (which is negative so a loss of £0.828 million,) so approximately £830 000 loss. A1* (2) (b) P(6) = −0.08799... and P(7) = 0.1975... M1 There is a sign change and hence as P is continuous on [6,7], so the root for t lies in [6,7]. A1 (2) (c) ( ) ln ... tt Pt t  −+ =  = −    +  =  M1 ( ) ( ) ( ) ln ln 1 15 ln * 4 1 t t t t t t t t −  + −    + +      +    +   +  = +   +    +   == A1* (2) (d) ( ) 1 15 ln ... 6.219978... t  + = =   =  M1 awrt 6.220 t = A1 6.314 t = A1 (3) (e) \"6.3...\" 12 ...= months, or repeated iteration to root 6.31487 gives 75.7785... or allow \"0.314...\" 12 \"3.768...\" = M1 So it will take 76 months. (Accept 75 or awrt 76 months) A1 (2) (11 marks) Notes: (a) M1: Attempts to substitute t = 1 into the given formula. Allow if there is a slip but an attempt at substitution is seen, or allow for sight of awrt 0.828...− A1*: Correct value for P(1) seen to at least 2.s.f. if substitution has been shown, or at least 3 s.f. if no substitution was shown, followed by suitable conclusion that it is a loss of approximately £830 000, though accept awrt £830 000. Must mention “loss” and include units (£ or pounds). Negative value given is A0. (b) M1: Attempts both P(6) and P(7) with at least one correct to 1 s.f. rounded or truncated. A tighter interval could be used but must contain the root (6.31487) A1: Both correct to1 s.f. rounded or truncated with suitable conclusion made. Must mention sign change and continuity as well as conclusion about root in the interval. (c) M1: Attempts to isolate αt from the t − after setting equal to zero. A1*: Correct work to reach the given answer with no incorrect work seen and at least one intermediate step with either ... t  = reached or with the power law applied on the ln term (need not see the power explicitly used, but must have been applied correctly). (d) M1: Attempts to use the formula with t =6. Accept wi",
+          "image": "/papers/wma13-oct-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-13.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(i) ,5    B1 (ii) ( ) 0, 17 − B1 (2) (b) . 5 (3 22) 0 .. x x −− = = and . 5 (3 22) 0 .. x x +− = = M1 x = and x = A1 (2) (c) Correct U shape symmetric about y-axis with vertex on negative y-axis. B1 Graphs meet () 9, 0 with ( ) 9, 0 − also shown. B1 Intercept at (0, 9) − stated or labelled. B1 (3) (d) Intersect at (9, 0) B1 Or when 5 3229 xx+ − = − M1 ( ) ( ) ... x x x  − − =  = dM1 Need smaller root .. . y x = = dM1 ( ) 3, 8 − A1 (5) (12 marks) Notes: (a) Mark (a) and (b) as a whole (i) B1: Correct coordinates. May be listed as separate coordinates, x = ..., y =... (ii) B1: Correct y intercept (and no other). Accept as coordinates, or stated as y = ... (allow without the x = 0) or seen on graph as the y intercept. However just −17 on its own is B0. (b) M1: Attempts to solve both equations, though allow sign slips when expanding the brackets. A1: Both values correct. (c) B1: Correct U shape symmetric about y-axis with vertex on negative y-axis. Allow a little tolerance with shape, but the curve must not clearly bend back on itself, and the minimum should be clearly intended as on the y-axis. B1: Graphs meet at ( ) 9, 0 both x intercepts labelled or clearly stated (and no others). Shape need not be correct for this mark e.g. inverted parabola may be shown). Must pass through the same point as the modulus graph at (9,0). B1: States or labels the y intercept at ( ) 0, 9 − and intercept must be on the negative y-axis. (d) B1: Deduces one point of intersection is (9,0). Must be seen in (d), or clearly stated as the answer if parts are not labelled, do not accept just this marked on the diagram. M1: Sets up equation for the intersection of the quadratic with the positive gradient line segment, accept x x  + =− dM1: Solves their equation, any valid means. After the equation is seen you may see just the correct root, or 24, which implies the M. Alternatively, expanding and solving the quadratic by usual rules. dM1: Depends on first M mark. Selects the correct (s",
+          "image": "/papers/wma13-oct-2022/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-21.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "17 R = B1 tan  = M1 1.081  = A1 (3) (b) (i) Min f(x) \" 41 2 \"17 +  = M1 = A1 (ii) Occurs when ( ) . s in .0 1 .1 .. xx x   − =  = −= M1 awrt 2.65 x = A1 (4) (c) − (or −4.6) B1ft (1) (d) Awrt 1.33 B1ft (1) (9 marks) Notes: (a) B1: For 17 only. M1: Attempts an equation in α. Accept tn a  = or tn a  = . If using R accept cos \"17\"  = or sin \"17\"  = . Implied by a correct value for α A1: Awrt 1.081. Must be in radians. (b)(i) M1: Attempts to apply the result from (a) to find the minimum. Allow for 2 \" their \" R  A1: cao. (ii) M1: Attempts to solve \"\"x  = A1: cao (c) B1ft: Correct answer or follow through their5  −   and no other solutions. (d) B1ft: For awrt 1.33 or follow through their 2.650.5 and no other solutions. Question Scheme Marks",
+          "image": "/papers/wma13-oct-2022/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-25.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Alt3 By cross multiplying ( ) ( ) ( ) ( ) ( ) ( ) s cos 1 sin cos 2 i sin 3 4 sin cos 4 s n 1 sin cos 2 sin 3 cos 4 sin in cos 2 sin 2 cos cos 2 s 1 2 sin 1 2 sin 1 2 s n in i                     + + = − −  −− − = + − − − − = − M1 ( ) ( ) ( ) ( ) cos 4 sin 1 sin 1 2 sin 2 sin cos 1 2 sin si 1 2 si n n          − = + − − − − − M1 s2 sisncoco − 4 sincos1 2 sin2 sin cos  −= −− sin− 2 sin+sin+ 2 sin− () 2 sincossin2 sin cos2 sincos1 3sin2 sin1 cos     −−+ −= −+− M1 cos 2 sin cos    − 1 3sin 2 sin 2 sin cos     = − + − cos 1 sin   = − which is true, hence given result is true.* A1* (4) Notes: (a) M1: Applies the compound angle formula to sin 3  at some stage in the working. Accept sin cos 2 sin 2 cos      Allow for students who apply n s i in 3 3si 4 s n    =− directly. May be seen anywhere (e.g. in separate working). M1: Uses correct double angle formula for cos2θ and sin2θ (or sin3θ) to achieve all terms in single angle. (May be before or after cross multiplying.) M1: Cross multiplies and uses Pythagorean identity somewhere in the working in an attempt to achieve a true statement by reaching the same expression on both sides, or reducing to a known true trigonometric identity (as shown in scheme). Award at the stage the identity is applied to an appropriate term in an expression where the angles have been reduced to just θ. A1: Reaches a correct true statement with no errors seen and makes conclusion that the original result is true. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wma13-oct-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2022/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma13-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2022-unit1-2022-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-oct-2022/page-01.png",
+      "/papers/wma13-oct-2022/page-02.png",
+      "/papers/wma13-oct-2022/page-03.png",
+      "/papers/wma13-oct-2022/page-04.png",
+      "/papers/wma13-oct-2022/page-05.png",
+      "/papers/wma13-oct-2022/page-06.png",
+      "/papers/wma13-oct-2022/page-07.png",
+      "/papers/wma13-oct-2022/page-08.png",
+      "/papers/wma13-oct-2022/page-09.png",
+      "/papers/wma13-oct-2022/page-10.png",
+      "/papers/wma13-oct-2022/page-11.png",
+      "/papers/wma13-oct-2022/page-12.png",
+      "/papers/wma13-oct-2022/page-13.png",
+      "/papers/wma13-oct-2022/page-14.png",
+      "/papers/wma13-oct-2022/page-15.png",
+      "/papers/wma13-oct-2022/page-16.png",
+      "/papers/wma13-oct-2022/page-17.png",
+      "/papers/wma13-oct-2022/page-18.png",
+      "/papers/wma13-oct-2022/page-19.png",
+      "/papers/wma13-oct-2022/page-20.png",
+      "/papers/wma13-oct-2022/page-21.png",
+      "/papers/wma13-oct-2022/page-22.png",
+      "/papers/wma13-oct-2022/page-23.png",
+      "/papers/wma13-oct-2022/page-24.png",
+      "/papers/wma13-oct-2022/page-25.png",
+      "/papers/wma13-oct-2022/page-26.png",
+      "/papers/wma13-oct-2022/page-27.png",
+      "/papers/wma13-oct-2022/page-28.png",
+      "/papers/wma13-oct-2022/page-29.png",
+      "/papers/wma13-oct-2022/page-30.png",
+      "/papers/wma13-oct-2022/page-31.png",
+      "/papers/wma13-oct-2022/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

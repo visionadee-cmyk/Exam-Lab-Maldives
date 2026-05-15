@@ -1,0 +1,119 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "the reaction is (fast) at room temperature solid is left behind heat / evaporate to crystallising point / glass rod test / until saturation point",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings completed correctly: 4.1, 38.3 difference completed correctly: 34.2",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings completed correctly: 3.7, 20.8 difference completed correctly: 17.1 C is more concentrated a greater volume of thiosulfate was needed × as concentrated 0620/61 May/June 2017",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.5 × value from table in (b) for Experiment 2 unit: cm 2 sources of error, e.g.: • using a measuring cylinder to measure solution C / solution D • only carrying out the experiments once • going past the end-point 2 meaningful improvements related to (e)(i) : • use a pipette / burette • repeat the experiment • improvement linked to going past the end-point",
+          "image": "/papers/chemistry-0620-2017/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solid spits out of the tube / the tube might crack / Cu 2+ carbonate / CO – / change precipitate 0620/61 May/June 2017 • blue / roaring / hot flame • use of a splint / wire to introduce the solid into the flame • use of (concentrated) hydrochloric acid",
+          "image": "/papers/chemistry-0620-2017/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(red) litmus turns blue / boil the mixture condense the vapour / decant wash residue (with water) dry",
+          "image": "/papers/chemistry-0620-2017/q4-4a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2022-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit4-november-p43-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/43",
+  "session": "October/November 2022",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 relative charge M2 relative mass 0 1 +1 1 1 mark for each correct column M2 17 (1) M3 17 (1) M4 32 and 16 (1) M5 S (1) M6 2 - / - 2 / - - (1) Question Answer Marks M2 conducts electricity when solid (1) October/November 2022 Question Answer Marks M2 high melting point (1) M3 non-conductor of electricity when solid and liquid (1)",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 I (1) M2 conducts electricity when liquid but not when solid / ONLY conducts when liquid (1) Question Answer Marks",
+          "image": "/papers/chemistry-0620-2022/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 breakdown by (the passage of) electricity (1) M2 of an ionic compound in molten or aqueous (state) (1) M2 lower operating temperature (1) Al 3+ + 3e – → Al M1 only Al 3+ + (3) e – on the left (1) M2 equation fully correct (1) M2 form carbon dioxide (1) October/November 2022 Question Answer Marks 2NaOH + Al O → 2NaAlO + H O M1 NaAlO on the right hand side (1) M2 equation fully correct (1)",
+          "image": "/papers/chemistry-0620-2022/q3-3b.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 GaCl (1) M2 Ga (SO ) (1) Question Answer Marks M1 increases (1) M2 decreases (1) M3 increases (1) M4 increases (1) M2 All lone pairs correct. All octets should be complete AND dots and crosses should be different on P and all Cl (1)",
+          "image": "/papers/chemistry-0620-2022/q3-3f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P O + 6PCl → 10POCl M1 all formula correct and on the correct sides of the arrow (1) M2 equation fully correct (1) October/November 2022 Question Answer Marks P 37.80 / 31 O 58.54 / 16 OR H = 3.66 P = 1.22 O = 3.66 OR H:P:O 3:1:3 (1) M2 H PO (1) PO (1) 1 Question Answer Marks M2 1-2 (1) M3 vanadium (V) oxide (1) + H SO → H S O M1 2.5  10 –3 / 0.0025 (1) M2 1.25  10 -3 / 0.00125 (1) M3 20 (1) October/November 2022 Question Answer Marks • solid disappears • blue solution • bubbles / effervescence / fizzing 2+ (aq) + SO 2- (aq) → BaSO (s) M1 BaSO on the right (1) M2 ONLY Ba 2+ and SO 2- on the left (1) M3 state symbols (1) Question Answer Marks M2 2610 (1) M3 (+) 60 (1) OR endothermic AND overall energy change has a positive sign October/November 2022 Question Answer Marks M2 C=C (both C atoms should have 4 bonds) (1) M3 Displayed formula of but-1-ene (1) M2 enzymes (1) M2 locating agent (1) M3 R f (1) M2 amine (1)",
+          "image": "/papers/chemistry-0620-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit4-2022-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

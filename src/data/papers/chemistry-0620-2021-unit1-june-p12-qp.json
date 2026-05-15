@@ -1,0 +1,689 @@
+{
+  "paperId": "chemistry-0620-2021-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit1-june-p12-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/12",
+  "session": "May/June 2021",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Iodine changes directly from a grey solid to a purple gas when it is heated. What is the name of this process? A condensation, B evaporation, C separation, D sublimation",
+      "text": "Iodine changes directly from a grey solid to a purple gas when it is heated. What is the name of this process? A condensation, B evaporation, C separation, D sublimation",
+      "options": [
+        "A condensation",
+        "B evaporation",
+        "C separation",
+        "D sublimation"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some sugar is contaminated with glass. How is a sample of solid sugar obtained from the mixture? A dissolve in water and then evaporate, B dissolve in water, then filter and then dry the solid residue, C dissolve in water, then filter and evaporate the filtrate, D dissolve in water and then distil",
+      "text": "Some sugar is contaminated with glass. How is a sample of solid sugar obtained from the mixture? A dissolve in water and then evaporate, B dissolve in water, then filter and then dry the solid residue, C dissolve in water, then filter and evaporate the filtrate, D dissolve in water and then distil",
+      "options": [
+        "A dissolve in water and then evaporate",
+        "B dissolve in water, then filter and then dry the solid residue",
+        "C dissolve in water, then filter and evaporate the filtrate",
+        "D dissolve in water and then distil"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about paper chromatography is correct? A A solvent is needed to dissolve the paper., B Paper chromatography separates mixtures of solvents., C The solvent should cover the baseline., D The baseline should be drawn in pencil.",
+      "text": "Which statement about paper chromatography is correct? A A solvent is needed to dissolve the paper., B Paper chromatography separates mixtures of solvents., C The solvent should cover the baseline., D The baseline should be drawn in pencil.",
+      "options": [
+        "A A solvent is needed to dissolve the paper.",
+        "B Paper chromatography separates mixtures of solvents.",
+        "C The solvent should cover the baseline.",
+        "D The baseline should be drawn in pencil."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Element X has 7 protons. Element Y has 8 more protons than X. Which statement about element Y is correct? A Y has more electron shells than X., B Y has more electrons in its outer shell than X., C Y is in a different group of the Periodic Table from X., D Y is in the same period of the Periodic Table as X. 3",
+      "text": "Element X has 7 protons. Element Y has 8 more protons than X. Which statement about element Y is correct? A Y has more electron shells than X., B Y has more electrons in its outer shell than X., C Y is in a different group of the Periodic Table from X., D Y is in the same period of the Periodic Table as X. 3",
+      "options": [
+        "A Y has more electron shells than X.",
+        "B Y has more electrons in its outer shell than X.",
+        "C Y is in a different group of the Periodic Table from X.",
+        "D Y is in the same period of the Periodic Table as X. 3"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-04.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A covalent molecule Q contains only six shared electrons. What is Q? A ammonia, NH 3, B chlorine, Cl 2, C methane, CH 4, D water, H 2 O",
+      "text": "A covalent molecule Q contains only six shared electrons. What is Q? A ammonia, NH 3, B chlorine, Cl 2, C methane, CH 4, D water, H 2 O",
+      "options": [
+        "A ammonia, NH 3",
+        "B chlorine, Cl 2",
+        "C methane, CH 4",
+        "D water, H 2 O"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-05.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the formula of the product of burning sodium in chlorine gas? A NaCl B Na 2 Cl C NaCl 2, D Na 2 Cl 2",
+      "text": "What is the formula of the product of burning sodium in chlorine gas? A NaCl B Na 2 Cl C NaCl 2, D Na 2 Cl 2",
+      "options": [
+        "A NaCl B Na 2 Cl C NaCl 2",
+        "D Na 2 Cl 2"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-06.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Chemical compounds formed from a Group I element and a Group VII element contain ionic bonds. How are the ionic bonds formed? A Electrons are transferred from Group VII atoms to Group I atoms., B Electrons are shared between Group I atoms and Group VII atoms., C Electrons are lost by Group I atoms and Group VII atoms., D Electrons are transferred from Group I atoms to Group VII atoms.",
+      "text": "Chemical compounds formed from a Group I element and a Group VII element contain ionic bonds. How are the ionic bonds formed? A Electrons are transferred from Group VII atoms to Group I atoms., B Electrons are shared between Group I atoms and Group VII atoms., C Electrons are lost by Group I atoms and Group VII atoms., D Electrons are transferred from Group I atoms to Group VII atoms.",
+      "options": [
+        "A Electrons are transferred from Group VII atoms to Group I atoms.",
+        "B Electrons are shared between Group I atoms and Group VII atoms.",
+        "C Electrons are lost by Group I atoms and Group VII atoms.",
+        "D Electrons are transferred from Group I atoms to Group VII atoms."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some information about particles P, Q, R and S is shown. nucleon number number of neutrons number of electrons P 12 6 6 Q 24 12 10 R 16 8 10 S 14 8 6 Which two particles are isotopes of the same element? A P and Q B  P and S C  Q and R D  R and S",
+      "text": "Some information about particles P, Q, R and S is shown. nucleon number number of neutrons number of electrons P 12 6 6 Q 24 12 10 R 16 8 10 S 14 8 6 Which two particles are isotopes of the same element? A P and Q B  P and S C  Q and R D  R and S",
+      "options": [
+        "A P and Q B  P and S C  Q and R D  R and S"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-08.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the relative formula mass of magnesium nitrate, Mg(NO 3 ) 2 ? A 74 B 86 C 134 D 148 4",
+      "text": "What is the relative formula mass of magnesium nitrate, Mg(NO 3 ) 2 ? A 74 B 86 C 134 D 148 4",
+      "options": [
+        "A 74 B 86 C 134 D 148 4"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-09.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In separate experiments, electricity was passed through concentrated aqueous sodium chloride and molten lead( II) bromide. What would happen in both experiments? A A halogen would be formed at the anode., B A metal would be formed at the cathode., C Hydrogen would be formed at the anode., D Hydrogen would be formed at the cathode.",
+      "text": "In separate experiments, electricity was passed through concentrated aqueous sodium chloride and molten lead( II) bromide. What would happen in both experiments? A A halogen would be formed at the anode., B A metal would be formed at the cathode., C Hydrogen would be formed at the anode., D Hydrogen would be formed at the cathode.",
+      "options": [
+        "A A halogen would be formed at the anode.",
+        "B A metal would be formed at the cathode.",
+        "C Hydrogen would be formed at the anode.",
+        "D Hydrogen would be formed at the cathode."
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A reaction involving aluminium is shown. xAl  +  yO 2 +  6H 2 O    xAl (OH) 3 Which values of x and y balance the equation? x  y A 2 3, B 3 2, C 3 4, D 4 3 5",
+      "text": "A reaction involving aluminium is shown. xAl  +  yO 2 +  6H 2 O    xAl (OH) 3 Which values of x and y balance the equation? x  y A 2 3, B 3 2, C 3 4, D 4 3 5",
+      "options": [
+        "A 2 3",
+        "B 3 2",
+        "C 3 4",
+        "D 4 3 5"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four different fuels are used to heat a beaker of water, for the same amount of time, using the apparatus shown. stirrer spirit burner fuel screen to reduce draughts thermometer 200 g of water The initial temperature of the water and the temperature after heating by the fuel are recorded. Which fuel releases the most heat energy? initial temperature / C temperature after heating / C A 17 46, B 24 52, C 26 61, D 30 62",
+      "text": "Four different fuels are used to heat a beaker of water, for the same amount of time, using the apparatus shown. stirrer spirit burner fuel screen to reduce draughts thermometer 200 g of water The initial temperature of the water and the temperature after heating by the fuel are recorded. Which fuel releases the most heat energy? initial temperature / C temperature after heating / C A 17 46, B 24 52, C 26 61, D 30 62",
+      "options": [
+        "A 17 46",
+        "B 24 52",
+        "C 26 61",
+        "D 30 62"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance is not used as a fuel? A ethanol, B hydrogen, C methane, D oxygen 6",
+      "text": "Which substance is not used as a fuel? A ethanol, B hydrogen, C methane, D oxygen 6",
+      "options": [
+        "A ethanol",
+        "B hydrogen",
+        "C methane",
+        "D oxygen 6"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When sulfur is heated it undergoes a ......1...... change as it melts. Further heating causes the sulfur to undergo a ......2...... change and form sulfur dioxide. Which words complete gaps 1 and 2? 1   2 A chemical    chemical, B chemical     physical, C physical     chemical, D physical     physical",
+      "text": "When sulfur is heated it undergoes a ......1...... change as it melts. Further heating causes the sulfur to undergo a ......2...... change and form sulfur dioxide. Which words complete gaps 1 and 2? 1   2 A chemical    chemical, B chemical     physical, C physical     chemical, D physical     physical",
+      "options": [
+        "A chemical    chemical",
+        "B chemical     physical",
+        "C physical     chemical",
+        "D physical     physical"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An  excess  of  calcium  carbonate  reacts  with  dilute  hydrochloric acid.  The  volume  of carbon dioxide  produced  is  measured  at  regular  time  intervals. The  results  are  shown  as experiment 1. The experiment is repeated with only one change to the reaction conditions. The results are shown as experiment 2. volume of CO 2 time experiment 2 experiment 1 Which change is made in experiment 2? A The concentration of the acid is increased., B The volume of acid is increased., C The mass of calcium carbonate is increased., D The calcium carbonate is powdered. 7",
+      "text": "An  excess  of  calcium  carbonate  reacts  with  dilute  hydrochloric acid.  The  volume  of carbon dioxide  produced  is  measured  at  regular  time  intervals. The  results  are  shown  as experiment 1. The experiment is repeated with only one change to the reaction conditions. The results are shown as experiment 2. volume of CO 2 time experiment 2 experiment 1 Which change is made in experiment 2? A The concentration of the acid is increased., B The volume of acid is increased., C The mass of calcium carbonate is increased., D The calcium carbonate is powdered. 7",
+      "options": [
+        "A The concentration of the acid is increased.",
+        "B The volume of acid is increased.",
+        "C The mass of calcium carbonate is increased.",
+        "D The calcium carbonate is powdered. 7"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation represents a reaction that can be reversed by changing the conditions. anhydrous cobalt( II) chloride  +  water    hydrated cobalt(II) chloride blue pink Which statement is correct? A When anhydrous cobalt( II) chloride is heated, water vapour is produced., B Blue cobalt( II) chloride paper turns pink when placed in water vapour., C Anhydrous cobalt( II) chloride paper is pink and turns blue when placed in water., D The colour changes from blue to pink when hydrated cobalt( II) chloride is heated.",
+      "text": "The equation represents a reaction that can be reversed by changing the conditions. anhydrous cobalt( II) chloride  +  water    hydrated cobalt(II) chloride blue pink Which statement is correct? A When anhydrous cobalt( II) chloride is heated, water vapour is produced., B Blue cobalt( II) chloride paper turns pink when placed in water vapour., C Anhydrous cobalt( II) chloride paper is pink and turns blue when placed in water., D The colour changes from blue to pink when hydrated cobalt( II) chloride is heated.",
+      "options": [
+        "A When anhydrous cobalt( II) chloride is heated, water vapour is produced.",
+        "B Blue cobalt( II) chloride paper turns pink when placed in water vapour.",
+        "C Anhydrous cobalt( II) chloride paper is pink and turns blue when placed in water.",
+        "D The colour changes from blue to pink when hydrated cobalt( II) chloride is heated."
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about acids are correct? 1   They react with carbonates to form carbon dioxide. 2   They react with metals to form hydrogen. 3   They react with ammonium salts to form ammonia. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "text": "Which statements about acids are correct? 1   They react with carbonates to form carbon dioxide. 2   They react with metals to form hydrogen. 3   They react with ammonium salts to form ammonia. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Element X forms an oxide, XO, that neutralises sulfuric acid. Which row describes X and XO? element X nature of oxide, XO A metal acidic, B metal basic, C non-metal acidic, D non-metal basic",
+      "text": "Element X forms an oxide, XO, that neutralises sulfuric acid. Which row describes X and XO? element X nature of oxide, XO A metal acidic, B metal basic, C non-metal acidic, D non-metal basic",
+      "options": [
+        "A metal acidic",
+        "B metal basic",
+        "C non-metal acidic",
+        "D non-metal basic"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which test for the named gas is correct? A Oxygen extinguishes a lighted splint., B Hydrogen relights a glowing splint., C Ammonia turns blue litmus red., D Carbon dioxide turns limewater milky. 8",
+      "text": "Which test for the named gas is correct? A Oxygen extinguishes a lighted splint., B Hydrogen relights a glowing splint., C Ammonia turns blue litmus red., D Carbon dioxide turns limewater milky. 8",
+      "options": [
+        "A Oxygen extinguishes a lighted splint.",
+        "B Hydrogen relights a glowing splint.",
+        "C Ammonia turns blue litmus red.",
+        "D Carbon dioxide turns limewater milky. 8"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three tests are done to identify the ions present in aqueous solution X. test test result dilute nitric acid, followed by aqueous silver nitrate cream precipitate aqueous sodium hydroxide white precipitate, soluble in excess aqueous ammonia white precipitate, soluble in excess Which ions are present in X? A Al 3+ and Br –, B Al 3+ and I –, C Zn 2+ and Br –, D Zn 2+ and I –",
+      "text": "Three tests are done to identify the ions present in aqueous solution X. test test result dilute nitric acid, followed by aqueous silver nitrate cream precipitate aqueous sodium hydroxide white precipitate, soluble in excess aqueous ammonia white precipitate, soluble in excess Which ions are present in X? A Al 3+ and Br –, B Al 3+ and I –, C Zn 2+ and Br –, D Zn 2+ and I –",
+      "options": [
+        "A Al 3+ and Br –",
+        "B Al 3+ and I –",
+        "C Zn 2+ and Br –",
+        "D Zn 2+ and I –"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Part of the Periodic Table is shown. Which element is a non-metal with the lowest melting point? AD B C",
+      "text": "Part of the Periodic Table is shown. Which element is a non-metal with the lowest melting point? AD B C",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Period 3 of the Periodic Table contains the elements sodium to argon. Which statement about the elements is correct? A Na and Mg are poor conductors of electricity., B Na and Mg react with acids to make hydrogen., C S and Cl are malleable and ductile., D S and Cl have the highest melting and boiling points. 9",
+      "text": "Period 3 of the Periodic Table contains the elements sodium to argon. Which statement about the elements is correct? A Na and Mg are poor conductors of electricity., B Na and Mg react with acids to make hydrogen., C S and Cl are malleable and ductile., D S and Cl have the highest melting and boiling points. 9",
+      "options": [
+        "A Na and Mg are poor conductors of electricity.",
+        "B Na and Mg react with acids to make hydrogen.",
+        "C S and Cl are malleable and ductile.",
+        "D S and Cl have the highest melting and boiling points. 9"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the positions of elements E, F, G and H in the Periodic Table. E F G H Which statements about elements E, F, G and H are correct? 1   E has a higher density than F. 2   E has a higher melting point than F. 3   G has a darker colour than H. 4   G has a lower melting point than H. A 1 and 3 B  1 and 4 C  2 and 3 D  2 and 4",
+      "text": "The diagram shows the positions of elements E, F, G and H in the Periodic Table. E F G H Which statements about elements E, F, G and H are correct? 1   E has a higher density than F. 2   E has a higher melting point than F. 3   G has a darker colour than H. 4   G has a lower melting point than H. A 1 and 3 B  1 and 4 C  2 and 3 D  2 and 4",
+      "options": [
+        "A 1 and 3 B  1 and 4 C  2 and 3 D  2 and 4"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An element melts at 1455 C, has a density of 8.90 g / cm 3 and forms a green chloride. Where in the Periodic Table is this element found? C B D A",
+      "text": "An element melts at 1455 C, has a density of 8.90 g / cm 3 and forms a green chloride. Where in the Periodic Table is this element found? C B D A",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The noble gases are placed in Group VIII of the Periodic Table. Which statement explains why they are unreactive? A They have eight electrons in their outer shell., B They have a full outer shell of electrons., C They have even numbers of neutrons., D They have even numbers of protons. 10",
+      "text": "The noble gases are placed in Group VIII of the Periodic Table. Which statement explains why they are unreactive? A They have eight electrons in their outer shell., B They have a full outer shell of electrons., C They have even numbers of neutrons., D They have even numbers of protons. 10",
+      "options": [
+        "A They have eight electrons in their outer shell.",
+        "B They have a full outer shell of electrons.",
+        "C They have even numbers of neutrons.",
+        "D They have even numbers of protons. 10"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Iron from a blast furnace is treated with oxygen and with calcium oxide to make steel. Which substances in the iron are removed? oxygen removes calcium oxide removes A carbon acidic oxides, B carbon basic oxides, C iron acidic oxides, D iron basic oxides",
+      "text": "Iron from a blast furnace is treated with oxygen and with calcium oxide to make steel. Which substances in the iron are removed? oxygen removes calcium oxide removes A carbon acidic oxides, B carbon basic oxides, C iron acidic oxides, D iron basic oxides",
+      "options": [
+        "A carbon acidic oxides",
+        "B carbon basic oxides",
+        "C iron acidic oxides",
+        "D iron basic oxides"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Cobalt, manganese and chromium are all metals. ●  Cobalt( II) oxide reacts with carbon to form cobalt metal. ●  Manganese( II) oxide does not react with carbon. ●  Chromium( II) oxide does not react with carbon. ●  Chromium does not react with water. ●  Manganese reacts with water. What is the order of reactivity of these metals? least reactive most reactive A cobalt chromium     manganese, B cobalt manganese     chromium, C chromium     manganese cobalt, D manganese     chromium cobalt",
+      "text": "Cobalt, manganese and chromium are all metals. ●  Cobalt( II) oxide reacts with carbon to form cobalt metal. ●  Manganese( II) oxide does not react with carbon. ●  Chromium( II) oxide does not react with carbon. ●  Chromium does not react with water. ●  Manganese reacts with water. What is the order of reactivity of these metals? least reactive most reactive A cobalt chromium     manganese, B cobalt manganese     chromium, C chromium     manganese cobalt, D manganese     chromium cobalt",
+      "options": [
+        "A cobalt chromium     manganese",
+        "B cobalt manganese     chromium",
+        "C chromium     manganese cobalt",
+        "D manganese     chromium cobalt"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Iron is extracted from hematite. Aluminium is extracted from bauxite. Which statements about the extraction processes are correct? 1   Both involve reduction. 2   Both take place at high temperature. 3   Both involve electrolysis. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only 11",
+      "text": "Iron is extracted from hematite. Aluminium is extracted from bauxite. Which statements about the extraction processes are correct? 1   Both involve reduction. 2   Both take place at high temperature. 3   Both involve electrolysis. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only 11",
+      "options": [
+        "A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only 11"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which property of aluminium makes it useful for food containers? A It conducts heat., B It has low density., C It is strong., D It resists corrosion.",
+      "text": "Which property of aluminium makes it useful for food containers? A It conducts heat., B It has low density., C It is strong., D It resists corrosion.",
+      "options": [
+        "A It conducts heat.",
+        "B It has low density.",
+        "C It is strong.",
+        "D It resists corrosion."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance is essential for iron nails to rust? A carbon dioxide, B hydrogen, C nitrogen, D oxygen",
+      "text": "Which substance is essential for iron nails to rust? A carbon dioxide, B hydrogen, C nitrogen, D oxygen",
+      "options": [
+        "A carbon dioxide",
+        "B hydrogen",
+        "C nitrogen",
+        "D oxygen"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the uses of sulfur and sulfur dioxide? sulfur sulfur dioxide A extraction of aluminium food preservative, B extraction of aluminium manufacture of cement, C manufacture of sulfuric acid food preservative, D manufacture of sulfuric acid     manufacture of cement",
+      "text": "Which row describes the uses of sulfur and sulfur dioxide? sulfur sulfur dioxide A extraction of aluminium food preservative, B extraction of aluminium manufacture of cement, C manufacture of sulfuric acid food preservative, D manufacture of sulfuric acid     manufacture of cement",
+      "options": [
+        "A extraction of aluminium food preservative",
+        "B extraction of aluminium manufacture of cement",
+        "C manufacture of sulfuric acid food preservative",
+        "D manufacture of sulfuric acid     manufacture of cement"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance is a diatomic covalent molecule found in pure dry air? A argon, B carbon dioxide, C nitrogen, D hydrogen 12",
+      "text": "Which substance is a diatomic covalent molecule found in pure dry air? A argon, B carbon dioxide, C nitrogen, D hydrogen 12",
+      "options": [
+        "A argon",
+        "B carbon dioxide",
+        "C nitrogen",
+        "D hydrogen 12"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equations represent two reactions, P and Q, of lime (calcium oxide). P  CaO  +  SiO 2   CaSiO 3 Q  CaO  +  SO 2   CaSO 3 In which processes do the reactions occur? P Q A extraction of iron extraction of iron, B extraction of iron flue gas desulfurisation, C flue gas desulfurisation extraction of iron, D flue gas desulfurisation    flue gas desulfurisation",
+      "text": "The equations represent two reactions, P and Q, of lime (calcium oxide). P  CaO  +  SiO 2   CaSiO 3 Q  CaO  +  SO 2   CaSO 3 In which processes do the reactions occur? P Q A extraction of iron extraction of iron, B extraction of iron flue gas desulfurisation, C flue gas desulfurisation extraction of iron, D flue gas desulfurisation    flue gas desulfurisation",
+      "options": [
+        "A extraction of iron extraction of iron",
+        "B extraction of iron flue gas desulfurisation",
+        "C flue gas desulfurisation extraction of iron",
+        "D flue gas desulfurisation    flue gas desulfurisation"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which gas is the main constituent of natural gas? A ethane, B ethene, C methane, D propane",
+      "text": "Which gas is the main constituent of natural gas? A ethane, B ethene, C methane, D propane",
+      "options": [
+        "A ethane",
+        "B ethene",
+        "C methane",
+        "D propane"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which compounds belong to the same homologous series? A ethane and propane, B ethanoic acid and ethanol, C methane and ethene, D propene and ethanoic acid",
+      "text": "Which compounds belong to the same homologous series? A ethane and propane, B ethanoic acid and ethanol, C methane and ethene, D propene and ethanoic acid",
+      "options": [
+        "A ethane and propane",
+        "B ethanoic acid and ethanol",
+        "C methane and ethene",
+        "D propene and ethanoic acid"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about alkanes is correct? A They burn in oxygen., B They contain carbon, hydrogen and oxygen atoms., C They contain double bonds., D They contain ionic bonds. 13",
+      "text": "Which statement about alkanes is correct? A They burn in oxygen., B They contain carbon, hydrogen and oxygen atoms., C They contain double bonds., D They contain ionic bonds. 13",
+      "options": [
+        "A They burn in oxygen.",
+        "B They contain carbon, hydrogen and oxygen atoms.",
+        "C They contain double bonds.",
+        "D They contain ionic bonds. 13"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which compound decolourises aqueous bromine? B H H CHC H H H C A CHCH H H H H C CHCOH H H H H D CHCCH H H H H H H",
+      "text": "Which compound decolourises aqueous bromine? B H H CHC H H H C A CHCH H H H H C CHCOH H H H H D CHCCH H H H H H H",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the chemical equation for the process of fermentation? A C 6 H 12 O 6 +  6O 2   6CO 2 +  6H 2 O, B C 6 H 12 O 6   2C 2 H 5 OH  +  2CO 2, C C 6 H 12 O 6 +  3H 2 O    3C 2 H 5 OH  +  3O 2, D C 6 H 12 O 6 +  3O 2   6CO  +  6H 2 O",
+      "text": "What is the chemical equation for the process of fermentation? A C 6 H 12 O 6 +  6O 2   6CO 2 +  6H 2 O, B C 6 H 12 O 6   2C 2 H 5 OH  +  2CO 2, C C 6 H 12 O 6 +  3H 2 O    3C 2 H 5 OH  +  3O 2, D C 6 H 12 O 6 +  3O 2   6CO  +  6H 2 O",
+      "options": [
+        "A C 6 H 12 O 6 +  6O 2   6CO 2 +  6H 2 O",
+        "B C 6 H 12 O 6   2C 2 H 5 OH  +  2CO 2",
+        "C C 6 H 12 O 6 +  3H 2 O    3C 2 H 5 OH  +  3O 2",
+        "D C 6 H 12 O 6 +  3O 2   6CO  +  6H 2 O"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The flow chart shows how petroleum may be turned into a plastic. petroleumplastic saturated hydrocarbon unsaturated hydrocarbon process 1 process 2 process 3 What are processes 1, 2 and 3? process 1 process 2 process 3 A cracking fractional distillation polymerisation, B cracking polymerisation fractional distillation, C fractional distillation cracking polymerisation, D fractional distillation polymerisation cracking",
+      "text": "The flow chart shows how petroleum may be turned into a plastic. petroleumplastic saturated hydrocarbon unsaturated hydrocarbon process 1 process 2 process 3 What are processes 1, 2 and 3? process 1 process 2 process 3 A cracking fractional distillation polymerisation, B cracking polymerisation fractional distillation, C fractional distillation cracking polymerisation, D fractional distillation polymerisation cracking",
+      "options": [
+        "A cracking fractional distillation polymerisation",
+        "B cracking polymerisation fractional distillation",
+        "C fractional distillation cracking polymerisation",
+        "D fractional distillation polymerisation cracking"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance is a natural polymer? A ethene, B Terylene, C nylon, D protein 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "text": "Which substance is a natural polymer? A ethene, B Terylene, C nylon, D protein 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "options": [
+        "A ethene",
+        "B Terylene",
+        "C nylon",
+        "D protein 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2021/page-16.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit1-2021-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/chemistry-0620-2021/page-01.png",
+      "/papers/chemistry-0620-2021/page-02.png",
+      "/papers/chemistry-0620-2021/page-03.png",
+      "/papers/chemistry-0620-2021/page-04.png",
+      "/papers/chemistry-0620-2021/page-05.png",
+      "/papers/chemistry-0620-2021/page-06.png",
+      "/papers/chemistry-0620-2021/page-07.png",
+      "/papers/chemistry-0620-2021/page-08.png",
+      "/papers/chemistry-0620-2021/page-09.png",
+      "/papers/chemistry-0620-2021/page-10.png",
+      "/papers/chemistry-0620-2021/page-11.png",
+      "/papers/chemistry-0620-2021/page-12.png",
+      "/papers/chemistry-0620-2021/page-13.png",
+      "/papers/chemistry-0620-2021/page-14.png",
+      "/papers/chemistry-0620-2021/page-15.png",
+      "/papers/chemistry-0620-2021/page-16.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

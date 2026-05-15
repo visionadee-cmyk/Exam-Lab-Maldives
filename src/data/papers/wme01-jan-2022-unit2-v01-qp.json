@@ -1,0 +1,218 @@
+{
+  "paperId": "wme01-jan-2022-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-jan-2022-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "January 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "o 5 cos 30F = oe (Resolving perp to string or from triangle of forces or Lami’s Theorem: oo sin120sin 90 F = ) OR o oo o sin 30 cos 60cos 305 sin 60 F F+= M1 A1 F= 4.3 or better A1 N.B. oo sin 30sin 60FT= (3)",
+          "image": "/papers/wme01-jan-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "o 5 sin 30T = oe (Resolving along string or from triangle of forces or Lami’s Theorem: oo sin150sin 90 T = ) OR o oo o sin 60 cos 60cos 305 sin 30 T T+= M1 A1 T= (N) A1 N.B. oo sin 30sin 60 FT= (3) (6) Notes for question 1 condone sign errors and sin/cos confusion (If they resolve horizontally and vertically, they will need to eliminate T to obtain this M mark, with the usual rules applying to each equation they use) N.B. If they do (b) first and find an incorrect value for T and then use that value in (a), using an equation that would earn M1, with usual rules, to find F, give M1A0A0 in (a). M0 if using wrong angles e.g. 45 o A1 Correct equation A1 cao (4.3301..) condone sign errors and sin/cos confusion (If they resolve horizontally and vertically, they will need to eliminate F to obtain this M mark, with the usual rules applying to each equation they use) N.B. If they find an incorrect value for F in (a) and then use that value in (b), using an equation that would earn M1, with usual rules, to find T, give M1A0A0 in (b). M0 if using wrong angles e.g. 45 o A1 Correct equation A1 cao Number Scheme Marks P (km) Q (m) u u CLM: kmu mukmu mu× − =− × +× M1 A1 A1 k = A1 (4)",
+          "image": "/papers/wme01-jan-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) find the value of p and the value of q. (5) (b) Find the size of the angle between the direction of the acceleration and the vector j. (2) At time t = 0, the velocity of P is (3i − 4j) m s −1 At t = T seconds, P is moving in the direction of the vector (11i − 13j). (c) Find the value of T. (5) ___________________________________________________________________________ _______",
+      "text": "2 (a) find the value of p and the value of q. (5) (b) Find the size of the angle between the direction of the acceleration and the vector j. (2) At time t = 0, the velocity of P is (3i − 4j) m s −1 At t = T seconds, P is moving in the direction of the vector (11i − 13j). (c) Find the value of T. (5) ___________________________________________________________________________ _______",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 Im u u  =−−   OR I mu u  =−−   M1 A1 Imu= must be positive A1 (3) (7) Notes for question 2 be correct – allow consistently cancelled m’s or extra g’s A1 Correct equation with one error A1 Correct equation A1 Allow 0.33 or better and must be attempting a difference of momenta. Allow M1 if k is not substituted. M0 if g included A1 Allow mu u  ±−−   OR mu u  ±−−   (no ft on k) A1 cao Allow them to change a negative expression into a positve one N.B. If they do (b) first, and obtain an impulse of magnitude I, then they do (a) : (3) u Ikmu=−− , apply CLM scheme to their equation. Number Scheme Marks",
+          "image": "/papers/wme01-jan-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M(D), 1.2 300.8mgg ×= × M1 A1 Other possible equations: ( ) 30 M( ) 2.5304.5 3.7 M( ) 302 1.2 M( ) 2 0.8 M( ) 2.5300.5 1.3 Rmgg AmggR GgR C mgR BmggR ↑=+ + ×= ×= ×= + ×= m = 20 (kg) A1 N.B. Allow an inequality if they state m = 20 (kg) at the end (3)",
+          "image": "/papers/wme01-jan-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M(D), 3.7 201.2 301.3Xggg×+ ×= × N.B. Allow inequality ≥ ...the correct way round for M1A1ft M1A1ft Other possible equations: ( ) 30 M( ) 2.5305 3.7 M( ) 302.5 1.22.5 M( ) 2.55 1.3 SmggXg AmggS GgSXg BmgXgS ↑=+ + + ×= ×= +× + ×= where m is their answer from (a). X = , 4.1 or better (4.05405...) A1 (3) N.B. Must mention either mass or weight and ‘acting at a point’ or ‘concentrated at a point’. (1) (7) Notes for question 3 Allow M1 if they use weight instead of mg N.B. If they don’t use M(D), e.g. (  ) and M(A), they will need to eliminate the reaction at D to obtain the M mark. Each equation used must have the correct no. of terms and be dimensionally correct. M0 if they don’t have the reaction acting at D. A1 Correct equation A1 cao Allow M1 if they use weight instead of Xg N.B. If they don’t use M(D), e.g. (  ) and M(A), they will need to eliminate the reaction at D to obtain the M mark. Each equation used must have the correct no. of terms and be dimensionally correct. M0 if they don’t have the reaction acting at D. A1ft Correct equation. Follow through on their 20 A1 cao Number Scheme Marks",
+          "image": "/papers/wme01-jan-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Attempt at a relevant suvat equation which uses 19.6 (or 19.6) s =− , with correct no. of terms but condone sign errors. A1 A correct equation (g does not need to be substituted) M1 Attempt at another relevant suvat equation which uses 24.5 or 44.1 e.g. finding time from B to the ground, with correct no. of terms but condone sign errors, A1 A correct equation (neither u nor g need to be substituted) DM1 dependent on both M marks , for finding an equation in T only and solving for T i.e. for a complete method to find T N.B. This mark cannot be awarded if their equation has NO solutions. A1 T = 5 N.B. If g = 9.8 has not been used, A0",
+          "image": "/papers/wme01-jan-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 A V-shape (and nothing else) starting on the speed axis, with point on the t-axis DB1 Dependent on the first B1, for approximately equal angles between the 2 lines and the t-axis, second line longer than the first, T or their T marked correctly. B0 if clearly unequal angles. N.B. If graph reflected, B0 DB0. Number Scheme Marks 5. Resolve perp to the plane: cosRmgα= M1A1 Resolve parallel to the plane: M1 sin2mgFPα+= A1 sinmgFP α −= A1 Use of FRμ = M1 Substitute correctly for trig, eliminate P and F and solve for μ M1 0.25 μ= A1 N.B. If they consistently omit g and obtain the correct answer, max marks are: M1A0M1A0A0M1M1A1 (8) (8) Notes for question 5 M1 First resolution, correct no. of terms, condone sign errors and sin/cos confusion N.B. If they use cos (4/5) etc, treat as an A error but allow recovery. A1 Correct equation M1 Second (or third) resolution, correct no. of terms, condone sign errors and sin/cos confusion N.B. M0 if they don’t substitute for X, but full marks is possible if they use X and 2X oe. If they use sin (3/5) etc, treat as an A error but allow recovery. A1 Correct equation (A0 if they use different R’s or F’s) A1 Correct equation (A0 if they use different R’s or F’s) M1 Use of FRμ= M1 Substitute for trig, eliminate P and F and solve for μ A1 cao Other possible equations: ( )2 cossincos (1)P RF ααα →=+ ( ) cossincos (2)P RFααα →=− ( )2 sincossin (3)mgPRF α αα↑− = − ( )sin cossin (4)mg PRFα αα↑− = + SC: (Only needs 2 equations) Equation (1): M1A1 Equation (2): M1A1 (1) + (2): 3 cos2 sinPRαα= ( ) ( ) cos12c2 s: oPFαα −= Divide cot F R α= . A1 Use of FRμ= M1 Substitute for trig and solve for μ M1 0.25μ= A1 Number Scheme Marks − j) (allow 2g) M1 Equating coefficients of i or j M1 p + 2q = 2 A1 q + p = − 2 A1 p = − 6; q = 4 A1 (5)",
+          "image": "/papers/wme01-jan-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "tan1α= ±; e.g. 45 o or π M1 Angle is 135° or ° or π or π A1 (2) − 4j) + T(i − j) M1 T T + = −− − M1A1 Solve for T DM1 T = 2.5 A1 (5) (12) Notes for question 6",
+          "image": "/papers/wme01-jan-2022/q6-6b.png"
+        },
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use of F = ma with m = 2. Correct no. of terms and must be attempting to add the two forces. M1 Must have an equation in p and q only (no vectors) This mark is available if m has been omitted. M0 if they use a ratio i.e. p q qp++ = − but never equate coefficients. A1 A correct equation in any form A1 Two correct equations in any form A1 cao A1 cao accept radians or degrees M1 Use of ratios using their v (must be a velocity) to produce an equation in T (allow t) only Condone sign error but must be the correct way up. A1 Correct equation DM1 Dependent on previous M mark for solving for T A1 cao Number Scheme Marks",
+          "image": "/papers/wme01-jan-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Tma= (allow -a) B1 (1)",
+          "image": "/papers/wme01-jan-2022/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Equation of motion for P parallel to the plane, correct no. of terms, condone sign errors and sin/cos confusion A1 Correct equation B1 FR = seen – could just be on the diagram M1 Resolve perpendicular to the plane for P, correct no. of terms, condone sign errors and sin/cos confusion A1 Correct equation DM1 Dependent on both M marks, for solving for T – must be in terms of mg only (must be of form kmg ) A1 cao 7© M1 If using resolving, condone cos/sin confusion and sign errors but must have correct angle A1 Any correct unsimplified expression in terms of T and α M1 For substituting in their T (must be of form kmg) and correct values for their trig A1 cao",
+          "image": "/papers/wme01-jan-2022/q7-7b.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 B0 for ‘tension is the same throughout the string’ B0 if incorrect extras Number Scheme Marks − 10j) M1 A1 (2) − 5j) + t(15i + 14j) M1 A1 AB=  s − r M1 = (1210)(2410)ABtt=−+−ij  km * A1 * (4)",
+          "image": "/papers/wme01-jan-2022/q7-7d.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "222 (1210)(2410)ABtt=−+− ( 720720200tt−+ ) M1 Differentiate and equate to 0 OR Complete square OR use b t a − = M1 1440t − 720 = 0 oe 720()20t−+ A1 Solve for t Use ( )0t−≥ 2 720 t= × DM1 Substitute their value of t into their AB expression M1 oe (km) 4.5 or better A1 OR for last 5 marks: Complete method M1 720720200 i.e. 7207202000tt Dtt D−+=−+−= A1 (For real t, 7204 720(200)D≥×− DM1 Solve for D, ( 20D≥ ) M1 oe (km) 4.5 or better A1 (6)",
+          "image": "/papers/wme01-jan-2022/q8-8c.png"
+        },
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Using their t value to obtain AB  and a relevant angle A1 cao Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-jan-2022/q8-8d.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2022/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-jan-2022"
+  },
+  "unit": "Unit 2"
+}

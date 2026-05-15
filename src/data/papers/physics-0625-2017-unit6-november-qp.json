@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2017-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2017-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "1 (a) The student measures the potential difference V 1 across the resistor R A and the current I 1 in the circuit. Figs. 1.2 and 1.3 show the voltmeter and ammeter scales. 5 V 6 7 8 9 10 4 3 2 1 0 A 0.6 0.8 1.0 0.4 0.2 0 Fig. 1.2 Fig. 1.3 (i) Write down the readings shown on the scales in Fi",
+      "text": "1 (a) The student measures the potential difference V 1 across the resistor R A and the current I 1 in the circuit. Figs. 1.2 and 1.3 show the voltmeter and ammeter scales. 5 V 6 7 8 9 10 4 3 2 1 0 A 0.6 0.8 1.0 0.4 0.2 0 Fig. 1.2 Fig. 1.3 (i) Write down the readings shown on the scales in Fi",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R = 9.47 OR 9.5 ( or 3 significant figures required)",
+          "image": "/papers/physics-0625-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Pointer at 0.13",
+          "image": "/papers/physics-0625-2017/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement YES or NO (owtte) Justification to include the idea of within (or beyond, ecf) the limits of experimental accuracy, matching the statement",
+          "image": "/papers/physics-0625-2017/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Determine each resistance in turn",
+          "image": "/papers/physics-0625-2017/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three resistors in parallel, ONE voltmeter in parallel with resistors and correct symbols for voltmeter and resistors Variable resistor in series with the supply, correct symbol in a correct circuit",
+          "image": "/papers/physics-0625-2017/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Repeat with different currents OR to obtain a range of readings 0625/61 October/Novembe r v = 6.(0) AND d = 8.(0) or v = 60 AND d = 80 correct matching unit V = 60 cm (or 10 × candidate’s v ) and D = 80 cm (or 10 × candidate’s d ) UV 1200 (ecf)",
+          "image": "/papers/physics-0625-2017/q1-1g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: Different size Different brightness Sharpness / clearness / coloured edges f values 15(.0) and 14.9 (14.87) f A correct method 2 or 3 significant figures two from: Difficulty deciding exact position of sharpest image Difficulty measuring to centre of lens Product uv increases problem Image edges blurred / not clear Insufficient sets of results Difference of at least 40 cm with a range 15–100 0625/61 October/Novembe r MP1 Stopwatch (or equivalent) AND (metre) rule / ruler MP2 Measure time for 5 ( + ) oscillations MP3 Divide by number of oscillations to find period ( T ) MP4 Repeat for each bob MP5 Variable; one from: Initial amplitude / starting position Length of pendulum / thread Number of oscillations MP6 Table with column headings for t , or period ( T ), or both AND d , with correct units MP7 Conclusion: Plot graph(s) of d against period ( T ) or t (or vice versa) OR compare period ( T ) or t values for different diameters 0625/61 October/Novembe r / Q values 1.(0), 0.5(0), 0.33(3), 0.25, 0.2(0) Axes correctly labelled and right way round Suitable scales All 5 plots correct to ½ small square Good line judgement, thin, continuous line At least half line used for triangle method Clearly shown on graph P = 1.8 – 2.2 (N)",
+          "image": "/papers/physics-0625-2017/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4e",
+          "text": "Part 4e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: Difficulty in obtaining balance Difficulty in judging centre of loads Loads may slip / slide Forcemeter not sensitive Forcemeter zero error",
+          "image": "/papers/physics-0625-2017/q4-4e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2017-unit6-2017-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

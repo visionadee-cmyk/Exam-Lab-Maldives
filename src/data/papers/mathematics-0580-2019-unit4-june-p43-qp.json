@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2019-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2019-unit4-june-p43-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/43",
+  "session": "May/June 2019",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Tangent ruled at x = −2 B1 for correct tangent –4.5 to –2.5 Dep on B1 for tangent or close attempt at tangent at x = –2 M1 for rise/run also dep on tangent drawn or close attempt at correct tangent Must see correct or implied calculation from a drawn tangent B1 for each B2FT for 6 or 7 correct plots or B1FT for 4 or 5 correct plots M1 for 25, 32.5, 37.5, 50, 80 soi M1 for Σft M1 dep for their Σft ÷ 120 B1 for each correct bar If 0 scored, SC1 for frequency densities of 5.4, 4.2, 0.8 and 0.45 seen B2 for answer [y =] 4x + c oe (c can be numeric or algebraic) OR M2 for 99(3) 11(2) −−− = −−− y x oe OR M1 for −− −− oe or for M1 for correct substitution of (–2, –3) or (1, 9) into y = (their m)x + c oe M1 for tan[ ] = 4 oe May/June 2019 Question Answer Marks Partial Marks [y =] −+x oe B2FT for [y =] gradient from −+xc their(a) oe (c can be numeric or algebraic) OR M2 for 3.5 gradient from − =− − y xtheir(a) oe OR M1 for gradient from − their(a) soi M1 for correct substitution of (3.5, 2) into y = (their m)x + c oe B1 for each value or for −    seen − + x x B1 for either numerator or denominator correct 3+ x x × − + x x = B1 FT their (a)(i) = 15x(x – 1) = 7(x + 3)(x + 2) M1 Removes all algebraic fractions FT their equation if in comparable form 15x – 15x = 7x + 21x + 14x + 42 M1 Correctly expands all brackets FT their equation if in comparable form [8x – 50x – 42 = 0] 4x – 25x – 21 = 0 A1 With no errors or omissions seen and one further stage seen after final M1 M2 M1 for 4x(x – 7) + 3(x – 7) or x (4x + 3) – 7(4x + 3) or for (4x + a)(x + b) where either ab = –21 or 4b + a = –25 If 0 scored, SC1 for 4x + 3 and x – 7 seen but not in factorised form 7 and − B1 FT their positive solution May/June 2019 Question Answer Marks Partial Marks",
+          "image": "/papers/mathematics-0580-2019/q5-5c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2019/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) Angelo has a bag containing 3 white counters and x black counters. He takes two counters at random from the bag, without replacement. (i) Complete the following statement. The probability that Angelo takes two black counters is x .# x3+",
+      "text": "8 (a) Angelo has a bag containing 3 white counters and x black counters. He takes two counters at random from the bag, without replacement. (i) Complete the following statement. The probability that Angelo takes two black counters is x .# x3+",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 oe M3 for ××+×× or M2 for or ×××× or M1 for ,, seenor ,, seen If 0 scored, SC1 for + oe ∠ ACD = 46 soi or ∠CDE = 44 soi B2 B1 for angle ADC = 108 or angle DCB = 18 58sin108 sin46their M2 M1 for sin108sin46 = their x oe 76.68... nfww A1 B2 for [AB =] 68.9 or 68.91 to 68.94 or M2 for a correct explicit statement for AB or BD or M1 for 76.7 AB = cos26 oe M3 for sin 40 oe or M2 for x × sin 40 = 70 oe or M1 for x × 2x × sin 40 = 70 B1 for each M1 for k – 4n or 23 – jn (j ≠ 0) M1 for their (a)(ii) = –65 B1 for 37 or 60",
+          "image": "/papers/mathematics-0580-2019/q8-8b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2019/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2019-unit4-2019-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

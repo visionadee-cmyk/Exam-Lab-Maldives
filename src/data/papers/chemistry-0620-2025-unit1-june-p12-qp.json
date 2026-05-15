@@ -1,0 +1,666 @@
+{
+  "paperId": "chemistry-0620-2025-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit1-june-p12-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/12",
+  "session": "May/June 2025",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Substance L melts at –7 °C and is a brown liquid at room temperature. What is the boiling point of pure L? A –77 °C, B –7 °C to +7 °C, C 59 °C, D 107 °C to 117 °C",
+      "text": "Substance L melts at –7 °C and is a brown liquid at room temperature. What is the boiling point of pure L? A –77 °C, B –7 °C to +7 °C, C 59 °C, D 107 °C to 117 °C",
+      "options": [
+        "A –77 °C",
+        "B –7 °C to +7 °C",
+        "C 59 °C",
+        "D 107 °C to 117 °C"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes how the volume of a gas changes when its temperature is increased at constant pressure and when its pressure is increased at constant temperature? temperature is increased at constant pressure pressure is increased at constant temperature A volume decreases volume decreases, B volume decreases volume increases, C volume increases volume decreases, D volume increases volume increases",
+      "text": "Which row describes how the volume of a gas changes when its temperature is increased at constant pressure and when its pressure is increased at constant temperature? temperature is increased at constant pressure pressure is increased at constant temperature A volume decreases volume decreases, B volume decreases volume increases, C volume increases volume decreases, D volume increases volume increases",
+      "options": [
+        "A volume decreases volume decreases",
+        "B volume decreases volume increases",
+        "C volume increases volume decreases",
+        "D volume increases volume increases"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Nitrogen dioxide is a red-brown gas which is more dense than air. The  diagram  shows  the  arrangement  of  two  gas  jars  which  contain  nitrogen  dioxide  and  air separated with a glass plate. colourless air glass plate red-brown nitrogen dioxide The glass plate is removed, and the gas jars are left for 24 hours. Which diagram shows the gas jars after 24 hours? ABDC 3",
+      "text": "Nitrogen dioxide is a red-brown gas which is more dense than air. The  diagram  shows  the  arrangement  of  two  gas  jars  which  contain  nitrogen  dioxide  and  air separated with a glass plate. colourless air glass plate red-brown nitrogen dioxide The glass plate is removed, and the gas jars are left for 24 hours. Which diagram shows the gas jars after 24 hours? ABDC 3",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance is a mixture of one element and one compound? A aqueous glucose, B clean, dry air, C oxygen dissolved in distilled water, D stainless steel",
+      "text": "Which substance is a mixture of one element and one compound? A aqueous glucose, B clean, dry air, C oxygen dissolved in distilled water, D stainless steel",
+      "options": [
+        "A aqueous glucose",
+        "B clean, dry air",
+        "C oxygen dissolved in distilled water",
+        "D stainless steel"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-04.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement defines the atomic number of an element? A the group number of the element, B the mass of one atom of the element, C the number of particles in the nucleus of one atom of the element, D the number of protons in the nucleus of one atom of the element",
+      "text": "Which statement defines the atomic number of an element? A the group number of the element, B the mass of one atom of the element, C the number of particles in the nucleus of one atom of the element, D the number of protons in the nucleus of one atom of the element",
+      "options": [
+        "A the group number of the element",
+        "B the mass of one atom of the element",
+        "C the number of particles in the nucleus of one atom of the element",
+        "D the number of protons in the nucleus of one atom of the element"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-05.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is different for isotopes of the same element? A nucleon number, B number of electron shells, C number of electrons in the outer electron shell, D proton number",
+      "text": "What is different for isotopes of the same element? A nucleon number, B number of electron shells, C number of electrons in the outer electron shell, D proton number",
+      "options": [
+        "A nucleon number",
+        "B number of electron shells",
+        "C number of electrons in the outer electron shell",
+        "D proton number"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-06.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When sodium chloride is formed from its elements, each chlorine atom ......1...... one ......2...... . Which words correctly complete gaps 1 and 2? 1   2 A gains    electron, B gains    proton, C loses    electron, D loses    proton",
+      "text": "When sodium chloride is formed from its elements, each chlorine atom ......1...... one ......2...... . Which words correctly complete gaps 1 and 2? 1   2 A gains    electron, B gains    proton, C loses    electron, D loses    proton",
+      "options": [
+        "A gains    electron",
+        "B gains    proton",
+        "C loses    electron",
+        "D loses    proton"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the molecules CH 4 , HCl and H 2 O, which atoms use all of their outer shell electrons in bonding? A C and Cl B C and H C Cl and H D H and O 4",
+      "text": "In the molecules CH 4 , HCl and H 2 O, which atoms use all of their outer shell electrons in bonding? A C and Cl B C and H C Cl and H D H and O 4",
+      "options": [
+        "A C and Cl B C and H C Cl and H D H and O 4"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-08.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance has a giant covalent structure? A sodium chloride, B ammonia, C magnesium chloride, D graphite",
+      "text": "Which substance has a giant covalent structure? A sodium chloride, B ammonia, C magnesium chloride, D graphite",
+      "options": [
+        "A sodium chloride",
+        "B ammonia",
+        "C magnesium chloride",
+        "D graphite"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-09.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show the structures of four molecules. CH H H H C H HC HH CCH H H O H HC H C CC O H HH H HH CCC H H HH O HH C Which statement about these molecules is correct? A All four molecules have different molecular formulae., B All four molecules have the same molecular formula., C Only two molecules have the same molecular formula., D Only three molecules have the same molecular formula.",
+      "text": "The diagrams show the structures of four molecules. CH H H H C H HC HH CCH H H O H HC H C CC O H HH H HH CCC H H HH O HH C Which statement about these molecules is correct? A All four molecules have different molecular formulae., B All four molecules have the same molecular formula., C Only two molecules have the same molecular formula., D Only three molecules have the same molecular formula.",
+      "options": [
+        "A All four molecules have different molecular formulae.",
+        "B All four molecules have the same molecular formula.",
+        "C Only two molecules have the same molecular formula.",
+        "D Only three molecules have the same molecular formula."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the reaction of magnesium with oxygen is shown. 2Mg  +  O 2   2MgO Which mass of oxygen reacts exactly with 6 g of magnesium? A 2 g B 4 g C 8 g D 16 g 5",
+      "text": "The equation for the reaction of magnesium with oxygen is shown. 2Mg  +  O 2   2MgO Which mass of oxygen reacts exactly with 6 g of magnesium? A 2 g B 4 g C 8 g D 16 g 5",
+      "options": [
+        "A 2 g B 4 g C 8 g D 16 g 5"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a simple electrolytic cell for an electrolysis experiment. +– XY Z Three parts of the electrolytic cell are labelled X, Y and Z. Which row shows the correct labels to replace X, Y and Z in the diagram? X   Y    Z A anode    cathode    aqueous salt, B anode    cathode     solid salt, C cathode    anode    aqueous salt, D cathode    anode solid salt",
+      "text": "The diagram shows a simple electrolytic cell for an electrolysis experiment. +– XY Z Three parts of the electrolytic cell are labelled X, Y and Z. Which row shows the correct labels to replace X, Y and Z in the diagram? X   Y    Z A anode    cathode    aqueous salt, B anode    cathode     solid salt, C cathode    anode    aqueous salt, D cathode    anode solid salt",
+      "options": [
+        "A anode    cathode    aqueous salt",
+        "B anode    cathode     solid salt",
+        "C cathode    anode    aqueous salt",
+        "D cathode    anode solid salt"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which equation represents the overall reaction that produces electricity in a hydrogen–oxygen fuel cell? A H 2 +  O 2   H 2 O 2, B 2H 2 O    2H 2 +  O 2, C 2H 2 +  O 2   2H 2 O, D 2H 2 O 2   2H 2 O  +  O 2 6",
+      "text": "Which equation represents the overall reaction that produces electricity in a hydrogen–oxygen fuel cell? A H 2 +  O 2   H 2 O 2, B 2H 2 O    2H 2 +  O 2, C 2H 2 +  O 2   2H 2 O, D 2H 2 O 2   2H 2 O  +  O 2 6",
+      "options": [
+        "A H 2 +  O 2   H 2 O 2",
+        "B 2H 2 O    2H 2 +  O 2",
+        "C 2H 2 +  O 2   2H 2 O",
+        "D 2H 2 O 2   2H 2 O  +  O 2 6"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  reaction  pathway  diagram  shows  the  largest  increase  in  the  temperature  of  the surroundings? (The scale on the y-axis is the same in each diagram.) reactants products reactants products energy progress of reaction A reactants products reactants products energy progress of reaction B energy progress of reaction C energy progress of reaction D",
+      "text": "Which  reaction  pathway  diagram  shows  the  largest  increase  in  the  temperature  of  the surroundings? (The scale on the y-axis is the same in each diagram.) reactants products reactants products energy progress of reaction A reactants products reactants products energy progress of reaction B energy progress of reaction C energy progress of reaction D",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which process involves a chemical change? A dissolving copper( II) sulfate, B distilling ethanol, C freezing water, D neutralising copper( II) oxide 7",
+      "text": "Which process involves a chemical change? A dissolving copper( II) sulfate, B distilling ethanol, C freezing water, D neutralising copper( II) oxide 7",
+      "options": [
+        "A dissolving copper( II) sulfate",
+        "B distilling ethanol",
+        "C freezing water",
+        "D neutralising copper( II) oxide 7"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The total volume of gas produced in two different experiments is measured against time. A graph of the results of the two experiments is shown. Which point shows the fastest rate of reaction? total volume of gas time 0 0 experiment 1 experiment 2 A C D B",
+      "text": "The total volume of gas produced in two different experiments is measured against time. A graph of the results of the two experiments is shown. Which point shows the fastest rate of reaction? total volume of gas time 0 0 experiment 1 experiment 2 A C D B",
+      "options": [
+        "A graph of the results of the two experiments is shown. Which point shows the fastest rate of reaction? total volume of gas time 0 0 experiment 1 experiment 2 A C D B"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the reaction of sulfur dioxide with oxygen is shown. 2SO 2 +  O 2 2SO 3 What is meant by the symbol ? A redox reaction, B reversible reaction, C displacement reaction, D thermal decomposition reaction",
+      "text": "The equation for the reaction of sulfur dioxide with oxygen is shown. 2SO 2 +  O 2 2SO 3 What is meant by the symbol ? A redox reaction, B reversible reaction, C displacement reaction, D thermal decomposition reaction",
+      "options": [
+        "A redox reaction",
+        "B reversible reaction",
+        "C displacement reaction",
+        "D thermal decomposition reaction"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which reactions are redox reactions? 1   the incomplete combustion of propane 2   the rusting of iron 3   the reaction of aqueous chloride ions with acidified aqueous silver nitrate 4   the thermal decomposition of calcium carbonate A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4",
+      "text": "Which reactions are redox reactions? 1   the incomplete combustion of propane 2   the rusting of iron 3   the reaction of aqueous chloride ions with acidified aqueous silver nitrate 4   the thermal decomposition of calcium carbonate A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4",
+      "options": [
+        "A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes an aqueous solution for the pH shown? pH description A 1 has a very high alkalinity, B 5 is neutral, C 9     turns universal indicator yellow, D 14 contains OH – ions 8",
+      "text": "Which row describes an aqueous solution for the pH shown? pH description A 1 has a very high alkalinity, B 5 is neutral, C 9     turns universal indicator yellow, D 14 contains OH – ions 8",
+      "options": [
+        "A 1 has a very high alkalinity",
+        "B 5 is neutral",
+        "C 9     turns universal indicator yellow",
+        "D 14 contains OH – ions 8"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which parts of the Periodic Table contain elements that only form basic oxides? A Group I and Period 3, B Group I only, C Group VIII and Period 3, D Group VIII only",
+      "text": "Which parts of the Periodic Table contain elements that only form basic oxides? A Group I and Period 3, B Group I only, C Group VIII and Period 3, D Group VIII only",
+      "options": [
+        "A Group I and Period 3",
+        "B Group I only",
+        "C Group VIII and Period 3",
+        "D Group VIII only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about elements in the Periodic Table is correct? A Elements in the same group of the Periodic Table have the same electronic configuration., B The atoms of the elements in Group VII form ions with a charge equal to the number of outer shell electrons minus 8., C The metallic character of the elements increases from left to right across a period., D The Periodic Table is an arrangement of elements in order of increasing nucleon number.",
+      "text": "Which statement about elements in the Periodic Table is correct? A Elements in the same group of the Periodic Table have the same electronic configuration., B The atoms of the elements in Group VII form ions with a charge equal to the number of outer shell electrons minus 8., C The metallic character of the elements increases from left to right across a period., D The Periodic Table is an arrangement of elements in order of increasing nucleon number.",
+      "options": [
+        "A Elements in the same group of the Periodic Table have the same electronic configuration.",
+        "B The atoms of the elements in Group VII form ions with a charge equal to the number of outer shell electrons minus 8.",
+        "C The metallic character of the elements increases from left to right across a period.",
+        "D The Periodic Table is an arrangement of elements in order of increasing nucleon number."
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row identifies the trends in properties of the elements lithium to sodium to potassium? melting point density reactivity A decreasing increasing increasing, B increasing increasing decreasing, C increasing decreasing increasing, D decreasing decreasing increasing",
+      "text": "Which row identifies the trends in properties of the elements lithium to sodium to potassium? melting point density reactivity A decreasing increasing increasing, B increasing increasing decreasing, C increasing decreasing increasing, D decreasing decreasing increasing",
+      "options": [
+        "A decreasing increasing increasing",
+        "B increasing increasing decreasing",
+        "C increasing decreasing increasing",
+        "D decreasing decreasing increasing"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about the halogens are correct? 1   They are all diatomic molecules. 2   They are all gases at room temperature and pressure. 3   The density of the elements increases down the group. 4   The reactivity of the elements increases down the group. A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4",
+      "text": "Which statements about the halogens are correct? 1   They are all diatomic molecules. 2   They are all gases at room temperature and pressure. 3   The density of the elements increases down the group. 4   The reactivity of the elements increases down the group. A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4",
+      "options": [
+        "A 1 and 2 B  1 and 3 C  2 and 4 D  3 and 4"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Zirconium is a transition element. What is a property of zirconium? A high density, B does not conduct heat, C forms white compounds only, D low melting point 9",
+      "text": "Zirconium is a transition element. What is a property of zirconium? A high density, B does not conduct heat, C forms white compounds only, D low melting point 9",
+      "options": [
+        "A high density",
+        "B does not conduct heat",
+        "C forms white compounds only",
+        "D low melting point 9"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some gases exist as single atoms, are unreactive and have eight electrons in their outer electron shell. Which gases fit this description? 1   helium 2   argon 3   oxygen 4   krypton A 1, 2 and 4 B  1 and 3 C  2 and 4 only D 3 only",
+      "text": "Some gases exist as single atoms, are unreactive and have eight electrons in their outer electron shell. Which gases fit this description? 1   helium 2   argon 3   oxygen 4   krypton A 1, 2 and 4 B  1 and 3 C  2 and 4 only D 3 only",
+      "options": [
+        "A 1, 2 and 4 B  1 and 3 C  2 and 4 only D 3 only"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about metals are correct? 1   Calcium reacts faster than magnesium with cold water. 2   Aluminium is more easily extracted than iron from its ore. 3   Copper reacts faster than iron with dilute hydrochloric acid. 4   Potassium and silver are both good conductors of electricity. A 1 and 2 B  1 and 4 C  2 and 3 D 3 and 4",
+      "text": "Which statements about metals are correct? 1   Calcium reacts faster than magnesium with cold water. 2   Aluminium is more easily extracted than iron from its ore. 3   Copper reacts faster than iron with dilute hydrochloric acid. 4   Potassium and silver are both good conductors of electricity. A 1 and 2 B  1 and 4 C  2 and 3 D 3 and 4",
+      "options": [
+        "A 1 and 2 B  1 and 4 C  2 and 3 D 3 and 4"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four metals, P, Q, R and S, are separately reacted with dilute hydrochloric acid. The table shows the observation for each metal. metal observation P lots of bubbles produced Q few bubbles produced R no bubbles produced S very few bubbles produced What is the order of reactivity of these four metals, from most reactive to least reactive? A R  S  Q  P, B P  S  Q  R, C P  Q  S  R, D Q  R  P  S 10",
+      "text": "Four metals, P, Q, R and S, are separately reacted with dilute hydrochloric acid. The table shows the observation for each metal. metal observation P lots of bubbles produced Q few bubbles produced R no bubbles produced S very few bubbles produced What is the order of reactivity of these four metals, from most reactive to least reactive? A R  S  Q  P, B P  S  Q  R, C P  Q  S  R, D Q  R  P  S 10",
+      "options": [
+        "A R  S  Q  P",
+        "B P  S  Q  R",
+        "C P  Q  S  R",
+        "D Q  R  P  S 10"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  iron  nails  which  are  left  for  one  week  in  separate  test-tubes  with  the conditions shown. 1 iron nail water 2 iron nail clean, dry air 3 iron nail oil boiled water rubber stopper Which test-tubes show evidence of rusting after one week? A 1 and 3 B 1 only C  2 and 3 D 2 only",
+      "text": "The  diagram  shows  iron  nails  which  are  left  for  one  week  in  separate  test-tubes  with  the conditions shown. 1 iron nail water 2 iron nail clean, dry air 3 iron nail oil boiled water rubber stopper Which test-tubes show evidence of rusting after one week? A 1 and 3 B 1 only C  2 and 3 D 2 only",
+      "options": [
+        "A 1 and 3 B 1 only C  2 and 3 D 2 only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Pure metals can be combined to make alloys. Why are the alloys sometimes used rather than the metals they are made from? A Alloys are easier to extract and cheaper., B Alloys are easier to hammer into different shapes., C Alloys are harder and keep their shape better., D Alloys contain only atoms of the same size but pure metals do not.",
+      "text": "Pure metals can be combined to make alloys. Why are the alloys sometimes used rather than the metals they are made from? A Alloys are easier to extract and cheaper., B Alloys are easier to hammer into different shapes., C Alloys are harder and keep their shape better., D Alloys contain only atoms of the same size but pure metals do not.",
+      "options": [
+        "A Alloys are easier to extract and cheaper.",
+        "B Alloys are easier to hammer into different shapes.",
+        "C Alloys are harder and keep their shape better.",
+        "D Alloys contain only atoms of the same size but pure metals do not."
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the experiment shown, 100 cm 3 of clean, dry air is passed backwards and forwards through a tube containing heated copper until there is no further decrease in the volume of the air. heat gas syringe air copper All of the gas is pushed into one syringe. What is the final reading on this gas syringe? A 0 cm 3, B 21 cm 3, C 79 cm 3, D 100 cm 3 11",
+      "text": "In the experiment shown, 100 cm 3 of clean, dry air is passed backwards and forwards through a tube containing heated copper until there is no further decrease in the volume of the air. heat gas syringe air copper All of the gas is pushed into one syringe. What is the final reading on this gas syringe? A 0 cm 3, B 21 cm 3, C 79 cm 3, D 100 cm 3 11",
+      "options": [
+        "A 0 cm 3",
+        "B 21 cm 3",
+        "C 79 cm 3",
+        "D 100 cm 3 11"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Sulfur dioxide, carbon monoxide and oxides of nitrogen are gaseous pollutants found in the air. Which pollutants contribute to acid rain? A carbon monoxide and sulfur dioxide, B oxides of nitrogen and sulfur dioxide, C oxides of nitrogen only, D sulfur dioxide only",
+      "text": "Sulfur dioxide, carbon monoxide and oxides of nitrogen are gaseous pollutants found in the air. Which pollutants contribute to acid rain? A carbon monoxide and sulfur dioxide, B oxides of nitrogen and sulfur dioxide, C oxides of nitrogen only, D sulfur dioxide only",
+      "options": [
+        "A carbon monoxide and sulfur dioxide",
+        "B oxides of nitrogen and sulfur dioxide",
+        "C oxides of nitrogen only",
+        "D sulfur dioxide only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The formulae for three organic compounds are listed. 1   C 2 H 4 2   C 4 H 8 3   C 4 H 10 Which compounds belong to the same homologous series? A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "text": "The formulae for three organic compounds are listed. 1   C 2 H 4 2   C 4 H 8 3   C 4 H 10 Which compounds belong to the same homologous series? A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which fuel could be gasoline? Is it obtained from petroleum? Is it used as fuel for cars? Is it used as fuel for cars? noyes noyes ABCD noyes 12",
+      "text": "Which fuel could be gasoline? Is it obtained from petroleum? Is it used as fuel for cars? Is it used as fuel for cars? noyes noyes ABCD noyes 12",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three hydrocarbons are separately mixed with aqueous bromine. Which row gives the correct observation for each hydrocarbon? HC H H H HC H H C H H H CC H H H H A colour changes from orange to colourless colour stays unchanged colour changes from orange to colourless B colour changes from orange to colourless colour changes from orange to colourless colour stays unchanged C colour stays unchanged colour stays unchanged colour changes from orange to colourless D colour stays unchanged colour changes from orange to colourless colour stays unchanged",
+      "text": "Three hydrocarbons are separately mixed with aqueous bromine. Which row gives the correct observation for each hydrocarbon? HC H H H HC H H C H H H CC H H H H A colour changes from orange to colourless colour stays unchanged colour changes from orange to colourless B colour changes from orange to colourless colour changes from orange to colourless colour stays unchanged C colour stays unchanged colour stays unchanged colour changes from orange to colourless D colour stays unchanged colour changes from orange to colourless colour stays unchanged",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which compound is formed when ethene reacts with steam? A ethane, B ethanoic acid, C ethanol, D poly(ethene)",
+      "text": "Which compound is formed when ethene reacts with steam? A ethane, B ethanoic acid, C ethanol, D poly(ethene)",
+      "options": [
+        "A ethane",
+        "B ethanoic acid",
+        "C ethanol",
+        "D poly(ethene)"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about ethanoic acid are correct? 1   Its aqueous solution has a pH value of 10. 2   It reacts with metal carbonates to produce carbon dioxide gas. 3   It reacts with magnesium metal to produce hydrogen gas. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "text": "Which statements about ethanoic acid are correct? 1   Its aqueous solution has a pH value of 10. 2   It reacts with metal carbonates to produce carbon dioxide gas. 3   It reacts with magnesium metal to produce hydrogen gas. A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement explains why plastic bags made from poly(ethene) accumulate in oceans? A Poly(ethene) is a saturated molecule., B Poly(ethene) is made from hydrocarbon monomers., C Poly(ethene) reacts with water., D Poly(ethene) does not decompose in water. 13",
+      "text": "Which statement explains why plastic bags made from poly(ethene) accumulate in oceans? A Poly(ethene) is a saturated molecule., B Poly(ethene) is made from hydrocarbon monomers., C Poly(ethene) reacts with water., D Poly(ethene) does not decompose in water. 13",
+      "options": [
+        "A Poly(ethene) is a saturated molecule.",
+        "B Poly(ethene) is made from hydrocarbon monomers.",
+        "C Poly(ethene) reacts with water.",
+        "D Poly(ethene) does not decompose in water. 13"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows the correct level of solvent at the start of a chromatography experiment? B spot of sample level of solvent A spot of sample level of solvent D spot of sample level of solvent C spot of sample level of solvent",
+      "text": "Which diagram shows the correct level of solvent at the start of a chromatography experiment? B spot of sample level of solvent A spot of sample level of solvent D spot of sample level of solvent C spot of sample level of solvent",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which process is used to separate a mixture of liquids with different boiling points? A dissolving, B crystallisation, C filtration, D fractional distillation",
+      "text": "Which process is used to separate a mixture of liquids with different boiling points? A dissolving, B crystallisation, C filtration, D fractional distillation",
+      "options": [
+        "A dissolving",
+        "B crystallisation",
+        "C filtration",
+        "D fractional distillation"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four different colourless solutions are each tested separately with aqueous sodium hydroxide and with acidified aqueous silver nitrate. Which row shows the results for sodium chloride? aqueous sodium hydroxide acidified aqueous silver nitrate A no visible reaction white precipitate, B no visible reaction no visible reaction, C white precipitate no visible reaction, D white precipitate white precipitate 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "text": "Four different colourless solutions are each tested separately with aqueous sodium hydroxide and with acidified aqueous silver nitrate. Which row shows the results for sodium chloride? aqueous sodium hydroxide acidified aqueous silver nitrate A no visible reaction white precipitate, B no visible reaction no visible reaction, C white precipitate no visible reaction, D white precipitate white precipitate 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "options": [
+        "A no visible reaction white precipitate",
+        "B no visible reaction no visible reaction",
+        "C white precipitate no visible reaction",
+        "D white precipitate white precipitate 14 15 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2025/page-16.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit1-2025-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/chemistry-0620-2025/page-01.png",
+      "/papers/chemistry-0620-2025/page-02.png",
+      "/papers/chemistry-0620-2025/page-03.png",
+      "/papers/chemistry-0620-2025/page-04.png",
+      "/papers/chemistry-0620-2025/page-05.png",
+      "/papers/chemistry-0620-2025/page-06.png",
+      "/papers/chemistry-0620-2025/page-07.png",
+      "/papers/chemistry-0620-2025/page-08.png",
+      "/papers/chemistry-0620-2025/page-09.png",
+      "/papers/chemistry-0620-2025/page-10.png",
+      "/papers/chemistry-0620-2025/page-11.png",
+      "/papers/chemistry-0620-2025/page-12.png",
+      "/papers/chemistry-0620-2025/page-13.png",
+      "/papers/chemistry-0620-2025/page-14.png",
+      "/papers/chemistry-0620-2025/page-15.png",
+      "/papers/chemistry-0620-2025/page-16.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

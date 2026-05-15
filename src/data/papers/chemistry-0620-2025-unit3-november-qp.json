@@ -1,0 +1,91 @@
+{
+  "paperId": "chemistry-0620-2025-unit3-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit3-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/31",
+  "session": "October/November 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "number of protons 18 number of neutrons 22",
+          "image": "/papers/chemistry-0620-2025/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change effect on the volume of argon temperature is increased increases pressure is increased decreases October/November 2025 Question Answer Marks 2– yellow precipitate (1) 3– AND NH4 + OR PO4 3– AND NO3 – phosphate (1) Question Answer Marks October/November 2025 Question Answer Marks any value –55 to –89 (C) inclusive C2H4 formula (1) A correct displayed formula and showing C=C (1) • fills landfill • accumulates in oceans • forms toxic / acidic gases on burning Question Answer Marks gas (1) October/November 2025 Question Answer Marks (temperature) is above the boiling point (of iodine) (1) • moves • floats / (moves) on the surface • melts / turns into sphere/ball • effervescence/fizzing/bubbles • pops / explodes • (lilac) flame • solid gets smaller / disappears • temperature increases / heat produced observations: pops → 2K2O 2 12 circled 1",
+          "image": "/papers/chemistry-0620-2025/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q2.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5h",
+          "text": "Part 5h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "K + ion correct (1) Cl – ion correct (1) both charges correct (1) October/November 2025 Question Answer Marks to produce carbon dioxide (1) calcium oxide combines with silicon(IV) oxide to form slag (1) chromium / Cr (1) hydrogen (1) Question Answer Marks by the passage of an electric current October/November 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q5-5h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7f",
+          "text": "Part 7f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "aqueous CuSO4 solid CuSO4 chemically combined with water hydrated CuSO4 CuSO4 dissolved in water anhydrous CuSO4 solid CuSO4 containing no water Question Answer Marks energy level of products below that of reactants (1)",
+          "image": "/papers/chemistry-0620-2025/q7-7f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit3-2025-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

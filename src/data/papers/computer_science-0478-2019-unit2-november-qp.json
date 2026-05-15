@@ -1,0 +1,99 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Inputs a series of values • Finds the total • Prints out the average • Use of loop structure • Allow input to define the limit of the loop / use sentinel value • Keeping a count of the number of values • It could use a totalling process to keep a running total • Initialise Total • Enter limit • Suitable loop structure • Correct input • Correct totalling • Correct output e.g. Total ← 0 INPUT CounterLimit FOR LoopCounter ← 1 To CounterLimit INPUT Number Total ← Total + Number NEXT LoopCounter OUTPUT ′′The average equals ′′, Total / CounterLimit October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q3-3a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Complete the trace table for this algorithm using the given input data. Index 0 FOR Count 0 TO 7 INPUT Value IF Value > 50 THEN PassMarks[Index] Value Index Index + 1 ENDIF NEXT Count PRINT \"Number passed \", Index Input data: 58, 40, 67, 85, 12, 13, 75, 82 IndexCountValue PassMarks OUTP",
+      "text": "4 (a) Complete the trace table for this algorithm using the given input data. Index 0 FOR Count 0 TO 7 INPUT Value IF Value > 50 THEN PassMarks[Index] Value Index Index + 1 ENDIF NEXT Count PRINT \"Number passed \", Index Input data: 58, 40, 67, 85, 12, 13, 75, 82 IndexCountValue PassMarks OUTP",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Complete the trace table for this algorithm using the given input data. Index 0 FOR Count 0 TO 7 INPUT Value IF Value > 50 THEN PassMarks[Index] Value Index Index + 1 ENDIF NEXT Count PRINT \"Number passed \", Index Input data: 58, 40, 67, 85, 12, 13, 75, 82 IndexCountValue PassMarks OUTP",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Index Count Value PassMarks OUTPUT [0] [1][2][3][4][5][6][7] 0 0 58 58 1 1 40 1 2 67 67 2 3 85 85 3 4 12 3 5 13 3 6 75 75 4 7 82 82 5 Number passed 5 mark mark mark mark mark mark • Stores numbers greater than 50 in an array • Outputs number of times pass mark has been met • Find the number of pass marks October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field name Example of data CarID ID07 Model Pegasus // Apollo // Cupid BodyStyle estate //saloon // hatchback Doors 1 // 2 // 3 // 4 // 5 FuelType batteries // petrol // diesel One mark – 1 or 2 suitable names and corresponding examples of data // 5 suitable field names but all data incorrect Two marks – 3 or 4 suitable names and corresponding examples of data Three marks – 5 suitable names and corresponding examples of data Notes: CarID can be anything that could be used as a unique identifier. e.g. Number Plate Number of doors can be any number of sensible doors for a car – 1, 2, 3, 4, 5. Other data must come from the given text. Allow codes for model and body style.",
+          "image": "/papers/computer_science-0478-2019/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• CarID • Which contains unique values to identify each record",
+          "image": "/papers/computer_science-0478-2019/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Model FuelType Doors Table: CAR_RANGE CAR_RANGE CAR_RANGE Sort: Ascending Show:; ;   Criteria: =\"Petrol\" or: 1 mark for each completely correct column (maximum three marks)",
+          "image": "/papers/computer_science-0478-2019/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

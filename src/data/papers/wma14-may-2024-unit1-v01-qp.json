@@ -1,0 +1,177 @@
+{
+  "paperId": "wma14-may-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-may-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "May 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) sin A  − = ( ) 1 co d s d A    =  M1 ( ) d d cos A   = − A1 (2) (b) d 0.1 d t  = B1 d d d d d d AA tt    = (oe) B1 d25 1 cos d . A t   =−     M1 = (cm per second) A1 (4) (6 marks) (a) M1: Attempts formula for area of segment with r = 5 and differentiates with respect to θ. Look for ( ) sin −    ( ) 1 cos d d A     =  Allow with either  = or 1 You may see 5 sin A − =     c d o d s A =      again with  = or 1 A1: Reaches correct result with no errors seen. Allow with 12.5. Must follow M1 (the form is given). It cannot just appear without sight of some correct working (b) B1: States or uses d 0.1 d t  = This may be seen anywhere in the question, even in part (a) or next to the Figure B1: States or uses a correct version of the chain rule for the given problem. May be seen in (a) or in the question itself. E.g d d d d d d AA tt    = or d d d d d d A A t t  = are two correct versions This may be implied by an equation involving their d d A  or ( ) d d cos A K − =   and their d d t  M1: Attempts the chain rule with their (a), a correct d 0.1 d t  = and   = to find a value for d d A t If they don’t attempt (a), or use a made up K, condone d 0.1 ' ' ' ' d A KK t =  = , but d d A  must be of the form ( ) 1 cos K −  via this route. A1: CSO. units not required. Decimal answer is 0.625. Cannot be scored following an incorrect part (a) but allow if they have (a) left as ( ) d os d c Ar   − = followed by (b) d 1 cos d 0.1 A t   =−   =  which scores 00 1111. Question Scheme Marks",
+          "image": "/papers/wma14-may-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 2 3 ... (3 ) y tt tt t −  = − = ==  M1 ()() ( ) 321201,2ttttab− + = −=− == A1 (2) (b) \"2\" \"1\" d2 Area under curve d d (2 2) d d (3 ) t t x y x y t t t t t t = = = = =  + −    M1 A1 3, t x t x = = =  = B1 So area of R = ( ) ) 8 3 (2 2) d (3 tt tt  − −  + −  M1 4d (3 ) t t tt = + − −  A1 (5) (c)(i) (ii) (3 ) t A B t t t t + =+ −− M1 (3 ) t A t Bt  + = − + E.g. 1 3; 4 3 t A A t B B  =  = =  = = =  M1 (3 ) 3(3 ) t t t t t + =+ −− A1 () d dlnln (3)333(3) t t ttt ttt t + =+ −− =−−  M1 Area () 4lnln 35 4ln 2ln1ln1ln 2 tt  −−− = −−−+    = 5 4ln 2ln 2  = −+   dM1 5ln 2 =− A1 (6) (13 marks) (a) M1: Sets the y equation equal to 1 (condoning slips) and then attempts to solve the resulting quadratic equation (usual rules). May be implied by correct values if a calculator is used. A1: Correct values. That is 1a= and 2b= . Condone (t =) 1 and 2 due to the demand of the question. Correct answers with no (incorrect) working scores both marks but must be seen in part (a). If they do state 3a= and 8b= following 1t= and 2t= score A0 (b) M1: Attempts d d x t and multiplies by y condoning slips (e.g. missing brackets). No requirement to see any integral. A1: Correct unsimplified expression for the area under the curve '' 2 '' ''1'' (2 2) d (3 ) tt tt + −  Allow with their a and b or even with a and b (as letters). May be seen within an expression. Condone the omission of the dt for this mark. Allow missing brackets to be recovered. B1: Sight of correct (x) values 3 and 8 at the ends of the given curve. May be awarded from work done in (a). Award for sight of 5 as the width of the rectangle or for −  as their attempt at the area of R M1: Full attempt at finding the area of region R. Be aware that the form is given. Look for the area of the rectangle subtract the area under the curve. dt’s not required here It is dependent upon Use of the correct a x and b x or use of their t values from (a) to find a x and b x which may be implied by the width of",
+          "image": "/papers/wma14-may-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-13.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) 1 8 5 4 OA    = + + − + + M1 ( ) ( ) ( ) 1 8 5 4 5 10 OA    + + − + + = = M1 * 4 16 25 250         + + + + + =  + − + = + − A1* (3) (b) ( ) ( ) 220 0 ... 2,       − =  − + =  = −  +  \" their \" \" thei r\" \" their \" OA     +  −    =  +  M1 E.g OA             − − =             − = −       *; or OA    =  +             −=             +         A1*; A1 (3) (c) . c 4 . .. os      −     −         −     = ++ = ++  M1 ( ) 0.9557... − =  = or e.g. awrt 0.299 ( ) / 17.1 rad =  A1 Area 5 10 4 10 sin ... OAB  =  = M1 = awrt 29.4 A1 (4) (10 marks) (a) M1: Attempts to find the distance, or distance squared, from O to a general point on the line, or to A. Condone slips. It is acceptable to use a different variable rather than . M1: Attempts to use 5 10OA= to set up a quadratic equation in λ, need not be expanded for this mark. Condone slips on the 250 for OA on this mark. Allow it to appear as 5 10 50= A1*: Expands and reaches the correct equation from correct work. An intermediate line equivalent to 6414 1625 25016440   + ++++=−++ must be written out before the final given answer is seen. (b) M1: Correct attempt at solving the quadratic equation, (allow a calculator), and substitutes at least one of their values for λ into the equation for the line to find a possible position vector. The ( ) 15, 4, 3 −− is given so they cannot just write λ = −2, A = ( ) 15, 4, 3 −− without some evidence. However, sight of a correct second coordinate , , 81 818    would imply M1 A1*: Correct value λ = −2 found, and substituted to reach the given position vector. Scored for sight of 2 ( ) OA     +     − − =          − − = − +  −  o.e. Also allow the coordinate ( ) 15, 4, 3 −− but not an incorrect hybrid version. E.g. ( ) 15 , 4 , 3 −− i j k A1: Correct second possible position vector but condone in coordinate form",
+          "image": "/papers/wma14-may-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d d x kx t =−  d d xt t x kx − =  oe M1 ( ) ln x t k x t    − − =    M1 A1 () ln3ln kxkt−− += M1 ( ) . l n ln ln e e e .. t t t kk t k k x k x k x k k x t x − − =  =  =  =  = − −− M1 ( ) e t k x − =− A1 Mark as one complete question. For example, it is possible to get (b) without doing (a) (a) M1: Separates the variables correctly, with or without the integration signs shown. The dx and dt must be shown in the correct positions M1: Attempts the integration of the LHS with () n3 lakx kx → − − A missing bracket should be penalised unless recovered later in the solution A1: Fully correct integration, with or without the + c for this mark. A missing bracket should be penalised unless recovered later in the solution M1: Attempts to find the constant of integration following any attempt at integration to an equation involving a constant. This involves . 0, .. t c x = == where c is non zero. For a definite integral we would require the x = 0 to be clearly substituted to obtain a constant term. M1: Correct log work to make x the subject. May be scored before the previous M if the constant is found later. Allow if the constant is zero, or is missing. Condone slips on signs. You may see versions of the following showing correct exponential work: ( ) ( ) 1e ln ln e e t t d t kA k x t c k x t d k x k x A x − − + − − − − = +  − = − +  − =  − =  = A1: Correct answer or exact equivalent. E.g. ( ) e e t t k x − = . (b) M1: Correctly identifies e0 t − → (which may be implied) and deduces the long-term limit for their expression and sets their long-term limit to 7 and solves for k. The equation must be of the form e t x p q − =− with p in terms of k and q > 0. Alternatively, if they have an equation of the form ( ) e e t t k x − =   they would need to solve k =  to find the value of k. Condone work on equations of the same form where they have lost the 3 and used another positive value, usually 1. So, score for equations () o e e0 e r t t t k xp qx     ",
+          "image": "/papers/wma14-may-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 (8 3 ) 16 1 xx  − = −   but condone 16(1 ) , kx k − M1 ''Correct'' term 3 or term 4 in 4 1 3 3 (1 ) ( ) ( ) ... kx kx k k x x    − +    − =   +  + M1 Two terms correct of 16 8 ... xx x − + + + following M1, M1 and k = A1 16 8... xx x= − + + + A1 (4) (b) Assume the curves meet so 8 ''16 8 '' x x x xx − + = − + + (for some x) M1 ( ) ( ) ... ... .. .. 0 8 0 8 x x x xx x x  − + + + − + =  =  + + +− M1 ( ) x x −+ = A1 Requires • Argument that ( ) x x − +  . E.g. ( ) x − and x  (for x  ) so ( ) x x − +  • Minimal statement (contradiction) and conclusion A1 (4) (8 marks) (a) M1: Attempts to takes out a factor of 16 or . Look for (8 3 ) x −= 16(1 ) , kx k − or (8 3 ) x −= 8 (1 ) , kx k − Condone incorrect values of k other than 3 M1: Attempts the binomial expansion on () 1kx− achieves at least a ''correct'' term 3 or term 4 (which may be unsimplified) for their k. Even allow with k =1 Look for either () kx   or 4 12 3 33 () kx    −    with the correct binomial coefficient and the correct power of x. Condone missing brackets on the () kx terms. If they expand x  −   without showing the unsimplified terms it is implied by x  A1: For two correct and simplified terms of 16 8... xx x− + + + following M1, M1 and k= A1: Correct expansion from correct work. Terms may be as a list for both accuracy marks Alt (a) by direct expansion. ( ) 4 1 3 3 (8 3 ) ( 3 ) ( 3 ) ... x x x x −−    −           = +  +  +  +             M1: For or 16 oe seen as the constant term E.g. 16 ... ... x =  + M1: For the correct term 3 or term 4 of the expansion. Condone missing brackets on the ( 3 ) x  , ( 3 ) x  terms A1: For two correct and simplified terms of 16 8 ... xx x − + + + Allow as a list A1: Correct expansion from correct work. Allow as a list (b) M1: Sets up the contradiction hypothesis using the result of their (a) and setting equal to the quadratic equation. There must be some words so look for a minimum of A",
+          "image": "/papers/wma14-may-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Volume, V () ( ) dd arct1an x yxx xx  − = + =        B1 d1 tan d sec u uu x x x − ==  oe M1 A1 ( ) () () )d( )d arc n t a (sec ta 1n Vxu u u x u xx −   + ==    +        dM1 sec u u  = sec u d d uu u  =  A1 arctan 3 2d arctan xu Vu u xu       =  = =   =   =  = =    B1 (6) (b) (2 ) V u     =−   M1 ( ) / 3 / 6      − − −     = Or (2 arctan ) x   =−    (2 arctan1 arctan )       =−− −       dM1   =  − + =   A1 (3) (9 marks) B1: For a fully correct integral in x or u with  , dx or du , correct limits and bracketing. May be implied by a fully correct (simplified or un simplified) integral in u May be seen at any stage in the working following correct work. The limits must be correct for the variable they are working in. So for an integral in u the limits must be in radians Look for () ( ) d arctan1 V xx x x −   +   =     OR ( ) arctan d x x x x V − +      =     If the correct integral in x is not seen score for ( ) sec 1 tan d V u uu u = +     o.e. M1: Attempts the differentiation of the given substitution achieving the correct form with suitable placement for du and dx. Examples; • td se nd c a u u u x x x − =  =  • d tan ... tan sec d x x u u u u  == • d1 arctan ... d1 u u x x x x − =  = + A1: Correct differentiation, any form. Score when first seen, don’t penalise an incorrect rearrangement. Examples • s tan ec dd uu x u x x − =  = • d tan 2 tan sec d x x u u u u =  = • d arctan d u u x x x x −   == + dM1: Makes a complete substitution for x into d y x  . No need for the  or limits for this mark. It is dependent upon the previous M Look for the form ( ) ) s( d ec 1 tan k c u u u u +  (which may be un-simplified) where 1 or 2 k = Condone a missing du. It can be implied if the substitution for dx has been attempted. Condone missing brackets if the intention is clear. A1: Correct simplified integral in terms of u includ",
+          "image": "/papers/wma14-may-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2024/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wma14-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2024-unit1-2024-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-may-2024/page-01.png",
+      "/papers/wma14-may-2024/page-02.png",
+      "/papers/wma14-may-2024/page-03.png",
+      "/papers/wma14-may-2024/page-04.png",
+      "/papers/wma14-may-2024/page-05.png",
+      "/papers/wma14-may-2024/page-06.png",
+      "/papers/wma14-may-2024/page-07.png",
+      "/papers/wma14-may-2024/page-08.png",
+      "/papers/wma14-may-2024/page-09.png",
+      "/papers/wma14-may-2024/page-10.png",
+      "/papers/wma14-may-2024/page-11.png",
+      "/papers/wma14-may-2024/page-12.png",
+      "/papers/wma14-may-2024/page-13.png",
+      "/papers/wma14-may-2024/page-14.png",
+      "/papers/wma14-may-2024/page-15.png",
+      "/papers/wma14-may-2024/page-16.png",
+      "/papers/wma14-may-2024/page-17.png",
+      "/papers/wma14-may-2024/page-18.png",
+      "/papers/wma14-may-2024/page-19.png",
+      "/papers/wma14-may-2024/page-20.png",
+      "/papers/wma14-may-2024/page-21.png",
+      "/papers/wma14-may-2024/page-22.png",
+      "/papers/wma14-may-2024/page-23.png",
+      "/papers/wma14-may-2024/page-24.png",
+      "/papers/wma14-may-2024/page-25.png",
+      "/papers/wma14-may-2024/page-26.png",
+      "/papers/wma14-may-2024/page-27.png",
+      "/papers/wma14-may-2024/page-28.png",
+      "/papers/wma14-may-2024/page-29.png",
+      "/papers/wma14-may-2024/page-30.png",
+      "/papers/wma14-may-2024/page-31.png",
+      "/papers/wma14-may-2024/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

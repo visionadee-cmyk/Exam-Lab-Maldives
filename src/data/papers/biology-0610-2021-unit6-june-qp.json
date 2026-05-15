@@ -1,0 +1,71 @@
+{
+  "paperId": "biology-0610-2021-unit6-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit6-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/61",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "both axes fully labelled: mean number of woodlice / correct conditions with labels central to bars; linear scale + value at origin on mean number axis + at least half of each axis used in both directions; 4 plots correct; bars of equal width with ruled lines; damp and dark; placed in the centre / random; to avoid bias AW; ; leave longer than 20 minutes / give time to detect surroundings; more woodlice / only use each woodlouse once / use different woodlice; same type / species of woodlouse; advantage: provide air / oxygen / able to add more woodlice; disadvantage: affects moisture or humidity / dries out / woodlice can escape; 5090/61 May/June 2021; 1 Ig left or right;",
+          "image": "/papers/biology-0610-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 clear and clean outlines of lung drawn with a sharp pencil + no shading; 2 trachea present + joins lung about 1/3 from top + extends beyond top of lung; 3 detail on trachea + ridged sides; 4 minimum size; 5 height greater than width + shape detail; ; ±; line in matching place; correct measurement; (c)(ii) / measurement in (c)(i); correct answer rounded to 1dp;",
+          "image": "/papers/biology-0610-2021/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "smoker non-smoker large / many alveoli few or no / small blood vessels small / few alveoli; more / larger blood vessels; ; ; ; 5090/61 May/June 2021 /; ; fitness rating = very good; for fit student: 1 lower pulse rate throughout / overall; 2 lower resting pulse rate / pulse rate at start or 0–2 minutes or 52 (fit) v 76 (unfit); 3 pulse rate increases more slowly during exercise; 4 at peak / at 6 minutes, pulse rate is lower or 104 (fit) v 140 (unfit); 5 pulse rate returns to (near) resting / stable more quickly; max 3 3 ORA throughout two correct values for unfit (112 ± 1) and fit student (66 ± 1); correct calculation with units (beats per minute or bpm);",
+          "image": "/papers/biology-0610-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit6-2021-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

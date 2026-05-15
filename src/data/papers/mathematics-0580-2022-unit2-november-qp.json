@@ -1,0 +1,71 @@
+{
+  "paperId": "mathematics-0580-2022-unit2-november-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2022-unit2-november-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/21",
+  "session": "October/November 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() 11+−xy final answer B1 for () 11+ − +xyx or 1 – y + x(1 – y)",
+          "image": "/papers/mathematics-0580-2022/q20-20a.png"
+        },
+        {
+          "id": "20b",
+          "text": "Part 20b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() 233+−x xy xy final answer B2 for () 29−x xy or correctly factorising into two brackets e.g. () () () () 263 ,326+−−+xxy xyxxyxy or B1 for () 29−xxy or () 218−xxy or for ()() 33+−xy xy October/November 2022 Question Answer Marks Partial Marks 21 Correct sketch with maximum at origin and minimum in fourth quadrant 2 B1 for any cubic with exactly 2 distinct turning points Correct sketch to go through (0, 1), (360, 1) and (180, –1) 2 To go through (0, 1) and close to (360, 1) and reasonably close to (180, –1) B1 for correct cosine curve shape through (0, 1) w oe M2 for y = k w oe or M1 for =x cw or for = j y x oe 24 4 nfww 2 M1 for 39 + 0.5 or 36 – 0.5 or better seen 39 – 0.5 or 36 + 0.5 oe FT 60  their (a)(i) correctly evaluated",
+          "image": "/papers/mathematics-0580-2022/q20-20b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2022/q20.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 25",
+      "text": "Question 25",
+      "parts": [
+        {
+          "id": "25b",
+          "text": "Part 25b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "47 oe M3 for 1 – 12 11 12 11 12 11   +  +    oe or M2 for 12 11 12 11 12 11   +  +    oe or 12 11 12 11 12 11   +  +    oe or M1 for or or 12 1112 1112 11  or 12 11  oe If 0 scored, SC1 for oe 86420-2 -1 -2 -3 -4 -5 -6 86420-2 -1 -2 -3 -4 -5 -6 86420-2 -1 -2 -3 -4 -5 -6 86420-2 -1 -2 -3 -4 -5 -6 400350300250200150100500-50 1.5 0.5 -0.5 -1 -1.5 400350300250200150100500-50 1.5 0.5 -0.5 -1 -1.5 400350300250200150100500-50 1.5 0.5 -0.5 -1 -1.5 400350300250200150100500-50 1.5 0.5 -0.5 -1 -1.5 October/November 2022 Question Answer Marks Partial Marks of which is not green",
+          "image": "/papers/mathematics-0580-2022/q25-25b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2022/q25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2022-unit2-2022-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

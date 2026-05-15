@@ -1,0 +1,51 @@
+{
+  "paperId": "biology-0610-2023-unit3-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2023-unit3-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/31",
+  "session": "May/June 2023",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "clear and clean, continuous outline drawn with a sharp pencil + no shading; minimum vertical size (  90mm) including petiole + vertical orientation + correct shape – widest point approximately halfway down + approximately symmetrically flat base; suitable detail shown – midrib drawn to apex with double line + minimum 9 veins drawn with at least 4 on each side + all touching midrib + indication of branching from side veins; – (mm); line drawn in correct position; measurement + unit; (magnification =) length of drawing  length of Fig. 2.1; correct magnification to 1 decimal place; 5090/31 May/June 2023",
+          "image": "/papers/biology-0610-2023/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difference; feature potato Fig. 2.1 sweet potato Fig. 2.2 petiole / stalk short (er) long (er) apex less pointed more pointed veins staggered / alternate / asymmetrical. more small veins / more prominent symmetrical fewer small veins / less prominent leaf edge smoothe r has points shape oval max width in middle longer than wide heart-shaped / triangular max width at base similar width and length bottom of leaf not smooth / points flat at bottom smooth curved at bottom similarity; pointed (at apex / top) both have (branching) veins both have smooth margins",
+          "image": "/papers/biology-0610-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2023-unit3-2023-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

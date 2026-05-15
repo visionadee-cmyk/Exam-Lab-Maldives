@@ -1,0 +1,43 @@
+{
+  "paperId": "wma12-may-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wma12-may-2025-unit2-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01A",
+  "session": "May 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 (1) (b) ( ) ... x a y  + = M1 ( ) x a y a  + = A1 Uses ( ) 5, 6 in ( ) x a y a  + = to form and solve an equation in a dM1 E.g. () 53610616.1aaaa− + =  =  = ( ) 6.1 6.1 xy − + = A1 (4) (5 marks) (a) B1: A circle lying in quadrants 1 and 4 only which • passes through (0, 0) • is symmetrical about the x-axis Condone slips of the pen. Mark this positively. Ignore any reference to the point ( ) 5, 6 Ignore any reference to the coordinates of the centre (b) Way One: Candidates start from an appropriate equation involving x and y then use (5, 6) The following equations are mostly written with a constant a. Any suitable constant may be used. The sign of the constant is also not important so accept ( ) ... x a y + + = . or () ...x ay− + = as well as () ...a xy− + = M1: Allowable left-hand side for the equation of C For example ( ) ... x a y  + = or () ...a xy− + = This must involve a constant and not be ( ) ... xy − + = for example A1: Correct form for the equation involving a single constant. Examples of correct equations are ( ) x a y a − + = , () x kyk+ + = and 2xypx+ =  If they write () x ayr− + = and ra= this can be implied dM1: Uses ( ) 5, 6 in ( ) x a y a  + = o.e. to form and solve an equation in a. E.g. () 5361061...aaaa− + =   =  = 5610...pp+ =   = A1: () 6.16.1xy−+ = o.e. such as 12.2xyx+= .............................................................................................................................. Way Two: Candidates use Pythagoras' theorem to set up an equation in single variable M1: Applies Pythagoras’s theorem leading to the equation ( ) rr − + = or ( ) rr − + = This may be awarded for any variable A1: Solves the above equation to find correct value 6.1 r = dM1: Uses a correct equation of circle ( ) ' 6.1' ' 6.1' xy − + = following through on their 6.1. This is dependent on the 6.1 being a solution of a correct equation (previous M1) A1: ( ) 6.1 6.1 xy − + = o.e. Way Three: Bisector of chord method M1: Attempts to find where th",
+          "image": "/papers/wma12-may-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2025/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma12-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit2-2025-06-01A-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2018-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volumes of sodium thiosulfate, 50, 40, 35, 30, 10 AND volumes of water 0, 10, 15, 20, 40 completed correctly times completed in seconds comparable to supervisor’s",
+          "image": "/papers/chemistry-0620-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ( ± half a small square) smooth line graph",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "pale yellow (precipitate) / cloudy indication ÷ time in (d)(i) more particles of thiosulfate present (in a given volume) more (chance of) collisions / burette",
+          "image": "/papers/chemistry-0620-2018/q1-1c.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "times would be shorter idea of depth of solution",
+          "image": "/papers/chemistry-0620-2018/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sketch above original curve 0620/51 May/June 2018 / fizz / bubbles / magnesium disappears white on standing milky / cloudy / white ppt. / dissolves / colourless / soluble / dissolves / colourless / soluble / fizz / effervescence pH > / indicator paper turns blue acid carbonate 0620/51 May/June 2018 3 any from one method: evaporation • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C / heat to > ° C • add KC l until no more dissolves / add excess KC l • stir • filter mixture (if heated to > ° C then need to cool and filter) • evaporate filtrate to dryness • weigh solid mass not used • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C • add KC l until no more dissolves • stir • weigh KC l not added • weigh KC l before adding any to water – only awarded if weighed mass not used after • difference in mass of KC l is mass dissolved mass undissolved • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C • stir • filter • weigh residue (do not award if residue washed) • add weighed (excess) KC l to water – only awarded if mass of residue measured • mass KC l dissolved = initial mass – final mass max 6",
+          "image": "/papers/chemistry-0620-2018/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit5-2018-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

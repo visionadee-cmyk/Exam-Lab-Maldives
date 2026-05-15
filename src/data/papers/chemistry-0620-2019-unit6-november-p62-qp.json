@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial burette reading final burette reading",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "values should be same moles / amount of sodium hydroxide added still same",
+          "image": "/papers/chemistry-0620-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 1 temperature boxes completed correctly 22, 24, 25, 26, 27, 27, 26",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 2 temperature boxes completed correctly 21, 15, 12, 11, 10, 10, 11 0620/62 October/November 2019",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly two smooth line graphs both labelled initial temperature minus 3 °C, 18 °C value from graph with clear indication graph for Experiment 1 extended downwards correct temperature value",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "endothermic, temperature decreases",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "two sources of error: e.g. heat losses / use of a measuring cylinder / imprecise thermometer / temperature not accurate / experiment only done once / readings taken every 30 s two improvements: e.g. use a lid / lag the apparatus / use a pipette / burette / use more accurate / precise thermometer / repeat and average / compare / take readings at shorter intervals to get smoother graph 0620/62 October/November 2019 / royal blue solution / dissolves / soluble / pH paper turns blue / pH > bromide any six from: • add dilute nitric acid to the mixture • in named container • stir • until reaction stops / fizzing stops / excess acid • filter • wash residue with water • dry residue between pressed filter papers / drier max 6",
+          "image": "/papers/chemistry-0620-2019/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

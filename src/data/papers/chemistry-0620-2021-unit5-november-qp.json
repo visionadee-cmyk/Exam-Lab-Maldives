@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2021-unit5-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit5-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "October/November 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperatures increase (and then decrease) all temperature changes calculated correctly maximum temperature change comparable to superviso r",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperatures increase (and then decrease) all temperature changes calculated correctly and all temperatures and changes recorded to same precision maximum temperature change less than in Experiment 1",
+          "image": "/papers/chemistry-0620-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "suitable scale for y-axis plotting – all 16 correct scores 2, 14 or 15 correct scores 1 best fit curves for both experiments correct labels",
+          "image": "/papers/chemistry-0620-2021/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct working shown value read correctly from graph / stated value of start temperature of Experiment 2 reaction ove r r temperature changes lowe r / temperatures lowe r 0620/51 October/November 2021",
+          "image": "/papers/chemistry-0620-2021/q1-1d.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a pipette / burette explanation: more accurate than a measuring cylinder OR change: use a lid explanation: reduces heat loss Tests on solid S / bubbles / fizzing limewater turns milky remains / does not dissolve / no further change / insoluble / Ca 2+ carbonate / CO 2- Tests on solid T - brown precipitate remains / does not dissolve / insoluble fizzing / bubbles / effervescence 0620/51 October/November 2021 / bubbles / effervescence magnesium becomes dark / black white precipitate",
+          "image": "/papers/chemistry-0620-2021/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iron( III ) / Fe 3+ chloride / C l – any 6 from: • weigh copper( II ) oxide / stated mass copper oxide • add to known volume of hydrogen peroxide / stated volume of hydrogen peroxide • measure volume of gas made in set time • filter off copper( II ) oxide • dry and weigh • repeat experiment with no copper oxide added OR compare gas volume to with no copper oxide added • bigger volume AND catalyst mass the same means it is a catalyst max 6",
+          "image": "/papers/chemistry-0620-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit5-2021-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

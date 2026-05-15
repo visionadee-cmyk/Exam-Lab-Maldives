@@ -1,0 +1,119 @@
+{
+  "paperId": "computer_science-0478-2017-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2017",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Register 1 – odd • Register 2 – even • checksum • ARQ (Automatic Repeat request) Question Answer Marks",
+          "image": "/papers/computer_science-0478-2017/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• a v m v e q n d i z m h (2 marks, 1 for each correct word)",
+          "image": "/papers/computer_science-0478-2017/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "v w x y z a b c d e f g h i j k l m n o p q r s t u 2 marks • shift right • all characters shifted five places",
+          "image": "/papers/computer_science-0478-2017/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• the first cypher • cannot deduce rest of cypher having identified some characters/more random substitution Question Answer Marks 5 HTML – HyperText Markup Language / language used to create web pages http – hypertext transfer protocol / protocol used by web browsers https – hypertext transfer protocol secure / secure protocol used by web browsers March 2017 Question Answer Marks 6 1 mark for each correctly drawn line from a function to its description to a maximum of 4 Function Description Interrupt Many processes appear to run simultaneously Utility Data are temporarily held in a buffer waiting for an output device to access it Memory management A signal that causes the operating system to take a specified action Spooling A program that performs a specific task required for the operation of a computer system Multitasking A process of assigning blocks of memory to programs running in a computer Question Answer Marks 7 High definition video – lossy (algorithm) – images may contain less detail without noticeable degradation in quality Text – lossless (algorithm) – so that the original and the decompressed text will be exactly the same March 2017 Question Answer Marks Hexadecimal – 37 Denary – 57 Hexadecimal – 39",
+          "image": "/papers/computer_science-0478-2017/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q4.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0/1 0/1 0 0 0/1 1 1 1 Question Answer Marks 9 Any four from, must include at least one difference: Text based password • (a minimum number of) characters that can be typed at a keyboard • set / can be changed by the user Biometric password • a stored physical measurement e.g. fingerprint • that is compared to a previously scanned human measurement Difference • text based passwords are easier to hack than biometric passwords • biometric passwords are unique to that person/cannot be shared Question Answer Marks 10 Any three from: • barcode 1D and QR code 2D • barcodes contain vertical lines and QR codes contain ‘squares’ • QR code can hold more data than a barcode • QR code can be read from any angle, some barcode readers have to be lined up with the barcode // QR codes are more error tolerant / faster to scan than barcodes • barcodes are frequently used at checkouts / libraries // QR codes are used for advertising // QR codes are frequently used by mobile phones to obtain information March 2017 Question Answer Marks 11 Alice • Assembler • translates low level language into machine code / only option for low-level language programs Akbar • Interpreter • easy to identify where an error is / to debug a program Alex • Compiler • once translated a stand-alone program file is created / no need for the compiler when running the program Question Answer Marks • HTML colours • e.g. blue 0000FF • Display machine code/programs/memory dump • e.g. 5F 3A 09 F1 • Display (MAC) addresses • e.g. 01-23-45-67-89-AB-CD • Display ASCII/Unicode values • e.g. %41 for A • Display error codes • e.g. error #404 page not found • easier for programmers to read and understand • easier to find errors • conversion to binary easier than denary to binary • more can be displayed on a screen for addresses etc. // smaller display screens can be used • faster than binary for entering numbers March 2017 Question Answer Marks Example – ROM / RAM Secondary storage – non-volatile/persistant memory that is ac",
+          "image": "/papers/computer_science-0478-2017/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q8.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "13 (a) Explain what is meant by primary, secondary and off-line storage. Give an example of each. Primary storage ........................................................................................................................ ................................................................................................................................................... ..........",
+      "text": "13 (a) Explain what is meant by primary, secondary and off-line storage. Give an example of each. Primary storage ........................................................................................................................ ................................................................................................................................................... ..........",
+      "parts": [
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 125 megabytes • CD / low capacity flash memory • good for mailing / inexpensive to buy March 2017 Question Answer Marks This is one example, many others exist. Alternative example A B C X A B C XXXX March 2017 Question Answer Marks 3 marks for 6 correct bits 2 marks for 4 correct bits 1 mark for 2 correct bits A B C X 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 1 1 1 0",
+          "image": "/papers/computer_science-0478-2017/q13-13b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q13.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit1-2017-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

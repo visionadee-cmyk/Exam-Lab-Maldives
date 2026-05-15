@@ -1,0 +1,171 @@
+{
+  "paperId": "computer_science-0478-2023-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point ( max three ).  range check with acceptable values is (greater than) zero and less than 1000  presence check to ensure the program will not continue until a value has been entered  type/character check to ensure that a number is entered  length check to ensure there are no more than 3 digits entered To verify the data / for verification / as a verification check // to make sure that no changes are made to the data on entry One mark for each point ( max three ).  use of iteration  use of two inputs  to check that the two inputs are the same / different  use of the given variable Measurement For example REPEAT OUTPUT \"Please enter measurement \" INPUT Measurement OUTPUT \"Please re-enter measurement \" INPUT MeasurementCheck UNTIL Measurement = MeasurementCheck Due to an issue with Question 5, the question has been removed from the question paper. 0478/22 May/June 2023 One mark for each feature and one mark for corresponding example ( max six )  ensuring that all identifiers have meaningful names ...  ... example using Total to store a running total  using comments to explain how the program works ...  ... example // all values are zeroed before the next calculation  using procedures and functions for the tasks within a program ...  ... example CalculateInterest(Deposit, Rate)",
+          "image": "/papers/computer_science-0478-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q4.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "  04/12 or 16/18  02/20",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each error identified and correction  Line 07 Total  Total + Number * Counter should be Total  Total + Number[Counter] * Counter  Line 08 IF Number[Counter] = 0 should be IF Number[Counter] = -1 // should be IF Number[Counter] < 0  Line 16 FOR Counter  0 TO 5 should be FOR Counter  1 TO 5 0478/22 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for place in algorithm ( max one )  around lines and  line  (immediately) after the input of the number Three marks pseudocode One mark for each point ( max three )  Use of REPEAT ... UNTIL // any working loop structure  check for >0 // >=0  check for <10 // >9  check for whole number  check for -1  check for length of digit <> 1 Example REPEAT OUTPUT \"Enter a digit \" INPUT Number[Counter] UNTIL Number[Counter] = Round(Number[Counter],0) AND ((Number[Counter] = -1) OR (Number[Counter] > 0 AND Number[Counter] < 10)) 0478/22 May/June 2023 4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C X 0 0 1 0 0 0 1 0 0 0 1 1 0 0 1 0 0478/22 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each column F , C and T Two marks for columns X[1] to X[5] all entries correct or One mark for columns X[1] to X[5] with one error F C X[1] X[2] X[3] X[4] X[5] T 0 1 10 1 2 1 10 10 1 3 5 10 10 1 4 7 10 0 1 2 3 4 5",
+          "image": "/papers/computer_science-0478-2023/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point  (bubble) sort data in array  in ascending orde r 0478/22 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "SongNumber",
+          "image": "/papers/computer_science-0478-2023/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for every two correct data types Field Data Type SongNumber Text/Alphanumeric Title Text/Alphanumeric Recorded Date/time Minutes Real",
+          "image": "/papers/computer_science-0478-2023/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point  to find the total number of minutes of music  to find the total number of songs  available for the genre rock",
+          "image": "/papers/computer_science-0478-2023/q10-10c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "11(a). ................................................................................................................................................... ............................................................................................................................................. [1] 12 0478/22/M/J/23© UCLES 2023 12 A two-dimensional (2D) array Account[] contains account holder",
+      "text": "11(a). ................................................................................................................................................... ............................................................................................................................................. [1] 12 0478/22/M/J/23© UCLES 2023 12 A two-dimensional (2D) array Account[] contains account holder",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "11(a). ................................................................................................................................................... ............................................................................................................................................. [1] 12 0478/22/M/J/23© UCLES 2023 12 A two-dimensional (2D) array Account[] contains account holder",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for any two correct lines DECLARE P : STRING P  \"The world\" DECLARE Q : CHAR Q  'W' 0478/22 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point ( max four )  converting P to upper case  finding the length of P  using a loop to check for position of Q  using the string operation substring  storing the loop counter in Position if the value is found For example: P  UCASE(P) Counter  Position  REPEAT IF SUBSTRING(P, Counter, 1) = Q THEN Position  Counter ENDIF Counter  Counter + 1 UNTIL Position <> 0 OR Counter = LENGTH(P) 0478/22 May/June 2023 Read the whole answer: Check if each requirement listed below has been met. Requirements may be met using a suitable built-in function from the programming language used (Python, VB.NET or Java) Mark SEEN on script if requirement met, cross if no attempt seen, NE if partially met (see marked scripts). Use the tables for A02 and A03 below to award a mark in a suitable band using a best fit approach Then add up the total. Marks are available for:  AO2 (maximum 9 marks)  AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario Arrays or lists Account , AccDetails Variable Size, AccountNumber Requirements (techniques) R1 Check account number and password (iteration and validation, selection, input, output) R2 Display menu and make a selection (output, input and selection) R3 Perform actions selected (use of arrays and procedures with parameters) Example 15 mark answer in pseudocode // Procedures to be called PROCEDURE CheckDetails(AccID : INTEGER) DECLARE Name, Password : STRING // local variables Valid  FALSE IF AccID <0 OR AccID > Size THEN OUTPUT \"Invalid Account Number\" ELSE OUTPUT \"Please Enter Name \" INPUT Name OUTPUT \"Please Enter Password \" INPUT Password IF Name <> Account[AccID,1] OR Password <> Account[AccID,2] THEN OUTPUT \"Invalid name or password\" ELSE 0478/22 May/June 2023 Valid  True ENDIF ENDIF ENDPROCEDURE PROCEDURE Balance(AccID : INTEGER) OUTPUT \"Your balance is \", AccDetails[AccID,1] ENDPROCEDURE PROCEDURE WithDrawal(AccID : INTEGER) DECLARE Amount : REAL // local var",
+          "image": "/papers/computer_science-0478-2023/q11-11b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit2-2023-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

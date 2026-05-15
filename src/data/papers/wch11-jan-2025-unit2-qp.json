@@ -1,0 +1,79 @@
+{
+  "paperId": "wch11-jan-2025-unit2-qp",
+  "pairedMarkSchemeId": "wch11-jan-2025-unit2-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH12/01",
+  "session": "January 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 2-chloro-3-methylbutane Allow 2-chloromethyl-3-butane Ignore additional/omitted brackets, hyphens and commas Ignore 3-methyl-2-chlorobutane (1) Number Answer Additional Guidance Mark • elimination Do not award addition-elimination (1) Number Answer Additional Guidance Mark An answer that makes reference to the following points: • structure of 3-methylbut-1-ene • structure of 2-methylbut-2-ene (1) (1) Allow any type of structure, including mixed C C C C CH H H H H H H H C C C C CH H H H H H H H If multiple structures are given both must be correct Allow isomers in any order Ignore connectivity of CH Ignore names even if incorrect Penalise missing hydrogen atoms once only (2) Number Answer Additional Guidance Mark • lone pair on oxygen of OH – • dipole on C‒Cl • curly arrow from oxygen (lone pair) to carbon in C−Cl bond • curly arrow from C‒Cl bond to Cl or just beyond • 3-methylbutan-2-ol and Cl ‒ Allow KCl as a product if K + is a reactant Ignore OH–C connectivity for P5 All 5 points score 3 marks, 3 or 4 points scores 2 marks, 2 points scores 1 mark Allow S N 1 mechanism for full marks Penalise single headed arrows once only Ignore transition state (3) Number Answer Additional Guidance Mark • (the rate will be) faster • the C–I bond is weaker (1) (1) Accept converse answers M1 dependent on some attempt at M2 (even if incorrect) Allow bond enthalpy is lower for C–I Allow C−I bond needs less energy to break Ignore C – I bond breaks more easily Ignore breaks faster Ignore the C – I bond is longer Ignore reasoning for bond weakness even if incorrect Ignore comments on polarisation (2) Number Answer Additional Guidance Mark • role in (b) : base • role in (c) : nucleophile (1) (1) Allow proton acceptor Ignore alkali Ignore prefixes/suffixes Allow nucleophilic (2) (Total for Question 19 = 11 marks) Number Answer Additional Guidance Mark *20 This question assesses the student’s ability to show a coherent and logically structured answer with linkages and fully sustained r",
+          "image": "/papers/wch11-jan-2025/q19-19a.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/q19.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 21",
+      "text": "Question 21",
+      "parts": [
+        {
+          "id": "21a",
+          "text": "Part 21a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of the enthalpy of the broken bonds • calculation of enthalpy of the formed bonds • calculation of the enthalpy change per mole (1) (1) (1) Example of a calculation: (8 × 413) + 498 = 3802 (6 × 413) + (2 × 336) + (2 × 464) = 4078 (3802-4078) ÷ 2 = –276 ÷ 2 = –138(kJ mol –1 ) TE on M1 and M2 if used correctly Ignore incorrect units Correct answer with some working scores 3 marks (3) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-jan-2025/q21-21a.png"
+        },
+        {
+          "id": "21b",
+          "text": "Part 21b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • (it is an) element in its standard state Allow no change to element in state or bonding e.g. O (g) → O (g) Ignore references to ground/natural state (1) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-jan-2025/q21-21b.png"
+        },
+        {
+          "id": "21c",
+          "text": "Part 21c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that makes reference to the following points: • part (a) uses mean bond enthalpies (rather than for specific compounds) • bond enthalpies refer to the gaseous state (1) (1) Allow average for mean Allow methanol is not a gas / methanol is a liquid Do not award incorrect states (2) Number Answer Additional Guidance Mark An answer that makes reference to the following points: • oxidation (1) Number Answer Additional Guidance Mark An answer that makes reference to the following points: • sulfuric acid / H SO • potassium dichromate(VI) / K Cr O • distillation • orange → green (1) (1) (1) (1) If name and formula are given both must be correct Ignore concentration Ignore acidified / H + Do not award HCl acid Accept sodium dichromate(VI) / Na Cr O Allow dichromate with no oxidation number Ignore methanol as an extra reagent Ignore heat Do not award reflux Allow orange → blue Do not penalise order of responses (4) Number Answer Additional Guidance Mark An answer that makes reference to two of the following points: • (a catalyst) may reduce the operating temperature • a lower pressure may be used which is safer / requires less expensive/specialised equipment • the reaction may not proceed via toxic gas / greenhouse gases • the reaction may go to completion (rather than being in equilibrium) • only one reaction vessel required • may produce fewer by-products produced • may take less time • may require less energy if a lower pressure is used Allow definitive answers i.e. “it will” rather than “it may” for all marking points Ignore cost/transport Allow equipment may have thinner walls etc. Ignore pollutants Ignore use less resources Allow less separation steps may be required Allow may increase atom economy Allow reference to faster rate (2) Number Answer Additional Guidance Mark An explanation that makes reference to two of the following points: • (all contain) d-block elements • (all are) heterogeneous (catalysts) • (all) are solids Accept (all contain) transiti",
+          "image": "/papers/wch11-jan-2025/q21-21c.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/q21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit2-2025-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,175 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Byte 3 / 10110100",
+          "image": "/papers/computer_science-0478-2018/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Odd parity used Counted / added the number 1’s // Most Bytes have an odd number of 1’s Byte 3 has an even number of 1’s // Byte 3 didn’t follow odd parity 4 Any six from: Sensor(s) send data/signals to the microprocessor Analogue signal/data from sensor is converted to digital (using ADC) Microprocessor compares data value against set boundaries / pre-set data If value between 21 and 24 « « no action taken If value > 24 °C / signal is sent from microprocessor « « to turn conditioning unit ON//Set to cold If value is < 21 °C signal is sent from microprocessor « « to turn conditioning unit ON//Set to warm Process is repeated for a continuous operation 0478/ March 2018",
+          "image": "/papers/computer_science-0478-2018/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct Hexadecimal value C4 10 FE 09 two from: Easier / simpler to remember / write down // quicker to transcribe Less likely to make error Less digits to use 1 mark for suitable example and 1 mark for suitable associated use. Primary RAM « « stores OS when running / data currently in use / instructions currently in use ROM « « stores boot instructions / BIOS Cache « « stores frequently used instructions Secondary HDD / SSD « « stores files / applications (by example) Offline CD/DVD/Blu-ray/Flash Memory/USB stick/Removable HDD/Removable SSD « « stores files / applications (by example) 0478/ March 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "7 (a) For this logic circuit: A B X C Complete the truth table. ABC Working space X 000 001 010 011 100 101 110 111 [4] 7 0478/12/F/M/18© UCLES 2018[Turn over (b) For this logic statement: X = 1 if (B is 1 OR C is NOT 1) AND ((A is NOT 1) AND (B is 1 OR C is 1)) Draw a logic circuit. A B C X [6] (c) Complete the truth table for the log",
+      "text": "7 (a) For this logic circuit: A B X C Complete the truth table. ABC Working space X 000 001 010 011 100 101 110 111 [4] 7 0478/12/F/M/18© UCLES 2018[Turn over (b) For this logic statement: X = 1 if (B is 1 OR C is NOT 1) AND ((A is NOT 1) AND (B is 1 OR C is 1)) Draw a logic circuit. A B C X [6] (c) Complete the truth table for the log",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) For this logic circuit: A B X C Complete the truth table. ABC Working space X 000 001 010 011 100 101 110 111 [4] 7 0478/12/F/M/18© UCLES 2018[Turn over (b) For this logic statement: X = 1 if (B is 1 OR C is NOT 1) AND ((A is NOT 1) AND (B is 1 OR C is 1)) Draw a logic circuit. A B C X [6] (c) Complete the truth table for the log",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 correct outputs 2 marks for 4 correct outputs 1 mark for 2 correct outputs A B C X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2018/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per gate in correct location 0478/ March 2018",
+          "image": "/papers/computer_science-0478-2018/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 correct outputs 2 marks for 4 correct outputs 1 mark for 2 correct outputs A B C X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2018/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "8 (a) Three descriptions and two methods of data transmission are given. Tick () the correct box to show the Method of data transmission for each description. DescriptionMethod SerialParallel Multiple bits are sent and received at the same time. Bits are sent one at a time in a single direction. Bits are sent using a single wire. Data can be sent or received, but not",
+      "text": "8 (a) Three descriptions and two methods of data transmission are given. Tick () the correct box to show the Method of data transmission for each description. DescriptionMethod SerialParallel Multiple bits are sent and received at the same time. Bits are sent one at a time in a single direction. Bits are sent using a single wire. Data can be sent or received, but not",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "8 (a) Three descriptions and two methods of data transmission are given. Tick () the correct box to show the Method of data transmission for each description. DescriptionMethod SerialParallel Multiple bits are sent and received at the same time. Bits are sent one at a time in a single direction. Bits are sent using a single wire. Data can be sent or received, but not",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Descriptions Method Serial Parallel Multiple bits are sent and received at the same time. [1] Bits are sent one at a time in a single direction. [1] Bits are sent using a single wire. Data can be sent or received, but not at the same time. [1] 0478/ March 2018",
+          "image": "/papers/computer_science-0478-2018/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Descriptions Type Simplex Half-duplex Duplex Multiple bits are sent and received at the same time. [1] Bits are sent one at a time in a single direction. [1] Bits are sent using a single wire. Data can be sent or received, but not at the same time. [1] Max 3 – 1 mark for correct answer and 2 marks for correct calculations. Any two from: × 512000 / 1024 Or 16000 × × 4096000 / 8 512000 / 1024 Correct answer: 500 kB 0478/ March 2018 four from: The program is stored on a secondary storage device Data and instructions are moved to memory / RAM Data and instructions are stored in the same memory / RAM Data and instructions are moved to registers to be executed Instructions are fetched one at a time",
+          "image": "/papers/computer_science-0478-2018/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q8.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Smaller file size reduces download / display time // reduces upload time four from: A compression algorithm is used Permanently deleting some data // file cannot be restored to original Colour depth / palette can be reduced Resolution can be reduced // number of pixels can be reduced Less bits will be required for each pixel / colour",
+          "image": "/papers/computer_science-0478-2018/q11-11a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Quicker to scan « « rather than type into a system Fewer errors « « no human input 0478/ March 2018 four from: Uses a barcode reader / scanner Reader shines light / red laser at barcode White lines reflect (more) light Sensors / photoelectric cells detect light reflected back Different reflections / bars will convert to different binary values 13 Any four from • (Provides an) interface • Loads / opens / installs / closes software • Manages the hardware // manages peripherals // spooling • Manages the transfer of programs into and out of memory • Divides processing time // processor management • Manages file handling • Manages error handling / interrupts • Manages security software • Manages utility software • Manages user accounts • Multitasking // Multiprocessing // Multiprogramming // Time slicing • Batch processing // real time processing",
+          "image": "/papers/computer_science-0478-2018/q12-12a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,83 @@
+{
+  "paperId": "wma12-oct-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wma12-oct-2025-unit2-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01A",
+  "session": "October 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) and u k u k k kk k = − = − −  −− =  −  oe M1A1 (2) (b) uk k =  − − = kk  − + = M1 ()() () 4100... or 14144 1 40 kkk k −− =  = −   =  dM1 ( ) 4, 10 k = A1 (3) (5 marks) Mark (a) and (b) together (a) M1: Uses the given relation correctly at least once so score for sight of k − o.e. or condone a correct follow through expression for u from an incorrect u The expression does not need to be simplified. A1: Both expressions correct which may be unsimplified or equivalent e.g. k− and k k − − scores M1A1. Isw. Condone slips in the notation used for these terms or may not be seen at all. (b) M1: Sets their third term equal to 6 and proceeds to a 3TQ in k. You do not need to be concerned by the mechanics of the rearrangement dM1:Solves their 3TQ in k via factorisation, the formula or completing the square (usual rules apply). They are not allowed to just state the roots (dM0A0) and if solved by factorisation then the factorised version of the quadratic must match the quadratic on the previous line. Dependent on the previous method mark. A1: Correct values and no others Number Scheme Marks 2. 222 .2 .... xxx       − = +− +− +             M1 64 96 ... xx = − + + B1A1A1 (4) (4 marks) Note that a correct expression scores 4/4 M1: An attempt at the binomial expansion to get the second and/or third term – needs the correct binomial coefficient combined with the correct power of x. Accept any notation for C and C , e.g.    and    (unsimplified) or 6 and 15 from Pascal’s triangle. May be implied by either term correct (which may be unsimplified). Alternatively 2 1 or 2 2! x x x x          − = −   −  −                 (You only need to look for the correct binomial coefficient combined with the correct power of x.) In either approach condone bracket errors/invisible brackets for this mark. B1: 64 ( writing just is B0 ). A1: One of x − or x Condone x − Must be simplified. A1: 96x− and 60x (can fo",
+          "image": "/papers/wma12-oct-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2025/q1.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() (3)7... ...xy +   = M1 Centre = ( ) 3, 7 A1 (2) (b) Attempts ( ) ( )  +   M1 Radius = 3 10 A1 (2) (c) Uses radius < 3 9 49 k  + −  or uses radius > 0 9 49 k  + −  M1 k > 49 or k  A1 Uses radius < 3 9 49 k  + −  and uses radius > 0 9 49 k  + −  dM1 k  oe (see notes) A1 (4) (8 marks) (a) M1: Attempts to complete the square. Accept ( ) ( 3) ... ... xy  +   = as evidence. Also score for ( ) 3, 7  A1: ( ) 3, 7 which may be given separately 3, xy == Condone missing brackets provided the intention is clear. (b) M1: Attempts to find r or r . Look for ( ) ( )  +   or ( ) ( )  +   . Ignore labelling. May be implied by sight of  or e.g. 58 32  A1: Radius = 3 10 or exact equivalent such as Isw. Decimal answers only score A0. Do not accept  (c) Condone use of strict or inclusive inequalities for any of the marks in this part M1: Uses the fact that the radius must be less than 3 (or „ ) or uses the fact that the radius is > 0 or 0... to form a correct inequality. Do not allow sign slips. A1: Either k > 49 or k < 58 (ignore the other part of the inequality if written as e.g. k  . Allow use of inclusive inequality. dM1: Uses the fact that the radius must be less than 3 (or 3„ ) and uses the fact that the radius is > 0 (or 0... ) to form two correct inequalities (or may be combined). Do not allow sign slips. It is dependent on the previous method mark. A1: k  but condone k  „ or k  „< or k „„ oe Must be in terms of k e.g. may be written in alternative forms such as (49, 58) , (49, 58] , [49, 58] , [49, 58) or e.g. kk    or k  or 49, kk  „ but do not allow e.g. “ 49 or kk  ” Number Scheme Marks 7 (i) ( ) arctan   =   M1A1 ( ) awrt 17.8 ,107.8 =    dM1A1 (4) (ii) 24 tan5 cos24 sin5 cosxxxx== oe M1 () 24 sin5 1 sinxx= − dM1 5sin 24 sin 5 0 xx  + − = A1 sinx= ddM1 () awrt 0.201, 2.940x= A1 (5) (9 marks) In either part condone poor notation, mixed variables or omission of variables in their working provided the intention is ",
+          "image": "/papers/wma12-oct-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2025/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) ( 2) 4 4 4 y x x x x x = + − = + + − ( ) 16 12 xx = + − M1 Area ( 4) ( 2) x x x −  = + −   dM1A1ft  64 96 6432 24 4108= + − − − + − = ddM1A1 (5) (b) Attempts 4.5 ( ) 486 a = B1ft Gives a valid reason why the area is 4.5 times greater B1 (2) (7 marks) (a) Note that if no integration is seen then maximum score is M1dM0A0ftddM0A0. Attempts at integration by parts send to review. M1: Attempts to multiply out to achieve a cubic. Look for: eg ( ) ( ) ( ) ( 2) 4 ... 4 4 .... y x x x x = + − = + + − = or ( ) ( ) ( ) ( 2) 2 4 ( 2) 8..... .... y x x x x x = + + − = + − = FYI: 16 12 y x x = + − which may be unsimplified. dM1: Raises the power by one in at least two terms. Indices do not need to be processed for this mark. It is dependent on the first method mark. A1ft: x x x +− follow through on their cubic which may be unsimplified. Indices must be processed – may be implied by further work. ddM1:Uses the limits − and 4 and subtracts either way around. The expression with the limits substituted in (or may be partially evaluated) is sufficient to score (condone slips) or x x x −  + − =   can score both final marks. It is dependent on both previous method marks. May be implied by 108 but if no method is shown and just a value stated that is not 108 then ddM0A0. May split the area into separate regions and add together. A1: 108 provided all previous marks have been scored. (b) Note they must be using their answer to part (a) in part (b). Condone any reference to incorrect limits which may be seen on their integral expression in (b) which follow through from part (a) B1ft: 4.5 ( ) 486 a = or follow through on their part (a). If just a value is stated then B0ft. B1: Gives a valid reason why the area is 4.5 times greater than their part (a). This can done by • manipulating the expression by taking out factors e.g. ( ) ( ) ( ) ( ) (3 6) y x x x x x x   = + − = +  − =  + −     oe we would need to see working leading to e.g. both 9 and oe e.",
+          "image": "/papers/wma12-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2025/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wma12-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit2-2025-10-01A-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

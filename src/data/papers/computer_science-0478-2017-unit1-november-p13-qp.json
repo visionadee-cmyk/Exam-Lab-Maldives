@@ -1,0 +1,155 @@
+{
+  "paperId": "computer_science-0478-2017-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2017",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct conversion E 0 4 1 1 1 0 0 0 0 0 0 1 0 0 one from: – Hexadecimal codes can fit in a smaller display rather than a full text based message – Smaller amount of memory needed to store the hex error messages than text based",
+          "image": "/papers/computer_science-0478-2017/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct sensor, 1 mark for corresponding use Possible examples could include: – Temperature (sensor) – To monitor the temperature of the water – Pressure (sensor) – To monitor the level of water in the washing machine – Motion (sensor) – To monitor whether the drum is still in motion – pH (sensor) – To monitor the level of water hardness/detergent present in the water 0478/13 October/Novembe r 1 mark for each correct file format e.g. File type File format Pictures .JPEG Text .doc, .txt, .rtf, .docx, .odt .pdf Sound .mp3, .wav, .aif, .flac, .mid Video .mp4, .flv, .wmv",
+          "image": "/papers/computer_science-0478-2017/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) An example of a Uniform Resource Locator (URL) is: http://www.cie.org.uk/index.htm Part 1Part 2Part 3 Identify the three parts that make up this URL. Part 1 ........................................................................................................................................ Part 2 .....................................................................",
+      "text": "3 (a) An example of a Uniform Resource Locator (URL) is: http://www.cie.org.uk/index.htm Part 1Part 2Part 3 Identify the three parts that make up this URL. Part 1 ........................................................................................................................................ Part 2 .....................................................................",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) An example of a Uniform Resource Locator (URL) is: http://www.cie.org.uk/index.htm Part 1Part 2Part 3 Identify the three parts that make up this URL. Part 1 ........................................................................................................................................ Part 2 .....................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– Part 1 (access) protocol – Part 2 domain (name) – Part 3 filename",
+          "image": "/papers/computer_science-0478-2017/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: – IP address is used to identify a device (on the Internet / network) – IP address is allocated by the network/ ISP – Can be used in place of URL – IP addresses can be IPv4 or IPv6 – IP address can be static « – ... meaning it doesn’t change each time it is connected to the Internet – IP address can be dynamic « . – « meaning that it can change each time a device is connected to the Internet – Any valid example (e.g. xxx.xxx.xxx.xxx or xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx) 0478/13 October/Novembe r 1 mark for each correct line up to a total of 5 marks 0478/13 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "5 (a) Draw a logic circuit for the logic statement: X = 1 if ((A is 1 AND B is 1) OR (A is NOT 1 AND C is 1)) A B X C [4] 6 0478/13/O/N/17© UCLES 2017 (b) Draw the symbol for an XOR gate and explain the fun",
+      "text": "5 (a) Draw a logic circuit for the logic statement: X = 1 if ((A is 1 AND B is 1) OR (A is NOT 1 AND C is 1)) A B X C [4] 6 0478/13/O/N/17© UCLES 2017 (b) Draw the symbol for an XOR gate and explain the fun",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Draw a logic circuit for the logic statement: X = 1 if ((A is 1 AND B is 1) OR (A is NOT 1 AND C is 1)) A B X C [4] 6 0478/13/O/N/17© UCLES 2017 (b) Draw the symbol for an XOR gate and explain the fun",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct logic gate 0478/13 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct logic gate symbol: Any four from: – similar to an OR gate – It has (at least) two inputs – Output will be high/1 if both inputs are different – Output will be high/1 if either input is high – Output will be low/0 if both inputs are high – Output will be low/0 if both inputs are low 6 Any six from: 2D – (Scanner) shines a light onto the surface of a document // Light moves across document – Reflected light is captured – Uses mirrors and lenses – Captured image is converted into a digital file – Produces a 2D digital image 3D – Scanners shines a laser (or light) over the surface of a 3D object – Records measurements of the geometry/dimensions of the object – Measurements are converted to digital file – Produces a 3D digital model 0478/13 October/Novembe r 1 mark for each correct tick Statement true ( ) false ( ) Firewalls can monitor incoming and outgoing traffic. Firewalls operate by checking traffic against a set of rules. Firewalls cannot block access to a certain website. Firewalls can be software and hardware. Firewalls can act as intermediary servers. Firewalls can block unauthorised traffic. three from: – Human error (e.g. deleting/overwriting data) – Physical damage – Power failure/surge – Hardware failure – Software crashing three from: – Online shopping // Online payment systems // Online booking – Email – Cloud based storage – Intranet/extranet – VPN – VoIP // video conferencing – Instant messaging (IM) // social networking // online gaming 0478/13 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) Data is valuable. It needs to be kept secure and it can easily be damaged. Give three different ways that data can be accidentally damaged. 1 ................................................................................................................................................ ...................................................................................",
+      "text": "8 (a) Data is valuable. It needs to be kept secure and it can easily be damaged. Give three different ways that data can be accidentally damaged. 1 ................................................................................................................................................ ...................................................................................",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for identifying, 1 mark for description – Strong password – To make it difficult to hack an account – Biometric device – To use data that is difficult to fake as a password – TLS // Encryption – To make data meaningless if intercepted – To encrypt data that is exchanged (TLS only) – More secure than SSL (TLS only) – Anti-spyware (software) – To find and remove any spyware that is installed on a computer – To help stop key loggers recording key presses – Firewall – To help prevent unauthorised access to an account – Blocks any requests that do not meet/match the criteria – Authentication (card reader at home)/mobile security code app/two-step verification – To add another level of identification of the user – Use of drop-down boxes (or equivalent) – So key loggers cannot record the key presses – Proxy server – To divert an attack away from the main system 0478/13 October/Novembe r four from: – (Red) laser is used – (Laser beams) shines onto surface of the disk – It is rotated (at a constant speed) to be read – Surface is covered in a track (that spirals from the centre) – Data is represented on the surface using pits and lands – Pits and lands represent binary values – Pits reflect light back differently (to the area in between/land) – Optical device can determine the binary value from the light reflection",
+          "image": "/papers/computer_science-0478-2017/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "9 (a) Optical storage media can be used to store data. Describe how the data is read from a Compact Disc (CD). ................................................................................................................................................... .....................................................................................................................",
+      "text": "9 (a) Optical storage media can be used to store data. Describe how the data is read from a Compact Disc (CD). ................................................................................................................................................... .....................................................................................................................",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for calculation, 1 mark for correct answer: – 1000 × – 16000/8 – Answer is bytes",
+          "image": "/papers/computer_science-0478-2017/q9-9b.png"
+        },
+        {
+          "id": "9c",
+          "text": "Part 9c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: (Max 2 for either primary or secondary) – Primary RAM and ROM – Secondary HDD and SSD – Primary is directly accessible by CPU – Secondary is not directly accessible by CPU – Primary is internal to computer – Secondary can be internal or external to the computer – Primary stores boot up instructions and can hold data whilst being processed – Secondary stores files/software – Primary has faster access speed – Secondary has a slower access speed – Primary has both volatile and non-volatile – Secondary is non-volatile 0478/13 October/Novembe r 1 mark for each correct tick Statement true ( ) false ( ) Assembly language uses mnemonic codes. Assembly language programs do not need a translator to be executed. Assembly language is a low-level programming language. Assembly language is specific to the computer hardware. Assembly language is machine code. Assembly language is often used to create drivers for hardware.",
+          "image": "/papers/computer_science-0478-2017/q9-9c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit1-2017-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

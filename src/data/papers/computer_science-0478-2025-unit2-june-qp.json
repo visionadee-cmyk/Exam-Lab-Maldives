@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C X 0 0 0 1 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 0 1 1 1 0 May/June 2025 Question Answer Marks One mark for one/two correct BC02 The Fountain 9:10 BC08 Sunset Quay 12:01 BC27 The University 16:45 SELECT Destination FROM BUS WHERE Return = Yes; May/June 2025 Question Answer Marks DECLARE A: INTEGER DECLARE B: STRING One mark for naming the function Odds. One mark for defining the parameter correctly. One mark for determining if odd/even using MOD/DIV/ROUND using parameter. One mark for correctly returning ‘Odd’ and ‘Even’. One mark for correct function call Example: FUNCTION Odds(X: INTEGER) RETURNS STRING IF MOD(X, 2) = 0 THEN RETURN \"Even\" ELSE RETURN \"Odd\" ENDIF ENDFUNCTION B ← Odds(A) May/June 2025 Question Answer Marks Score Grade OUTPUT 21 D You achieved a D 46 C You achieved a C 63 C You achieved a C 91 C You achieved a C 12 D You achieved a D Candidates can be awarded all three marks if they have provided only the correct first row. • Change the decision in the first decision box to IS Score >= 80 ? • Change the decision in the last decision box to IS Score >= 40 ? • Change process box from Grade  \"C\" to Grade  \"A\" • Change process box from Grade  \"A\" to Grade  \"C\" • Add output box instructing users to input score or input −1 before the input box // initialising a counter // incrementing counter. • Add decision box for loop with exit condition. • Correct arrows to show looping May/June 2025 Question Answer Marks 11 Marks are available for: • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario Arrays or lists CompetitorName, CompetitorScore, Points Requirements (techniques) R1 inputs and validates the points for each event for each competitor (nested iteration, iteration, input, output) R2 finds and outputs the name of the competitors with th",
+          "image": "/papers/computer_science-0478-2025/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,205 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from e.g.: − Keyboard − Mouse − Microphone − 2D scanner − 3D scanner − Touchscreen − Webcam // digital camera − Joystick − Trackpad − Sensor − Interactive whiteboard",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from e.g.: − Monitor // touchscreen − Inkjet printer − Laser printer − 3D printer − Speaker − Headphones − LED Projector − DLP − 2D cutter − 3D cutter − Actuator 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: − It is non-volatile − Can be easily disconnected from the computer − It is not directly accessed by the CPU − Suitable example e.g. CD, DVD, USB flash memory One from: − ROM − RAM Two from: − HDD − SSD − Flash memory 1 mark for each correct term, in the correct place: − Data/instructions − Instructions/data (must be the alternative to MP1) − Fetched − RAM − Decoded − Executed 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-02.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Marley wants to store a video he has created for his school project. He considers using a DVD or a Blu-ray to store the video. Explain two differences between a DVD and a Blu-ray. 1 ................................................................................................................................................ .............................",
+      "text": "4 (a) Marley wants to store a video he has created for his school project. He considers using a DVD or a Blu-ray to store the video. Explain two differences between a DVD and a Blu-ray. 1 ................................................................................................................................................ .............................",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Marley wants to store a video he has created for his school project. He considers using a DVD or a Blu-ray to store the video. Explain two differences between a DVD and a Blu-ray. 1 ................................................................................................................................................ .............................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from e.g.: − DVD uses red laser /light whereas blu-ray uses blue /violet laser/light − DVD has a smaller (storage) capacity // Blu-ray has a larger (storage) capacity − DVD has two layers (of polycarbonate) whereas Blu-ray disks have a single layer (of polycarbonate) − DVD has a slower transfer rate (of approximately 10 mbps) // Blu-ray has a faster transfer rate (of approximately 36 mbps) 2 marks for any two correct stages of working, 1 mark for correct answer. − 500 * 300 * 10 // 150 000 *10 − * 8 then ÷ 8 (anywhere in the process) − ÷ ÷ 1024 // 000 ÷ 1 − = 1.43 MB Four from: − Rollers are used to move the paper through the printer − Nozzles spray/drop/jet ink onto the paper − Ink jets/print head/nozzles are moved across the paper (to distribute the ink) − Different colour inks are mixed to create required colours − Technology could be piezoelectric − Technology could be thermal bubble − Ink is heated − « and expands/evaporates into a bubble − Bubble is pushed through the nozzle on to the paper − « then the bubble collapses − Electrical current is applied to a crystal − « which makes it vibrate − « which forces a droplet of ink through the nozzle 0478/12 May/June 2019 − Password protection − Password is released on the release date − Encryption − Encryption key is released on the release date",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-04.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Structure − This is the layout of the web page − e.g. placing an image alongside some text // example of tag, such as <div> Presentation − This is the formatting/style of the web page − e.g. the colour that is applied to some text // example of tag, such as <font-color>",
+          "image": "/papers/computer_science-0478-2019/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per each correct row. Statement True ( ) False ( ) Cookies can be used to store a customer’s credit card details Cookies can be used to track the items a customer has viewed on a website Cookies will corrupt the data on a customer’s computer Cookies are downloaded onto a customer’s computer Cookies can be deleted from a customer’s computer 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Several/multiple bits are transmitted at a time/simultaneously − Several/multiple wires are used − Data is transmitted in both directions « − « at the same time/simultaneously",
+          "image": "/papers/computer_science-0478-2019/q6-6c.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: − Uniform resource locator − The website’s address − User friendly version of the IP address Four from: − Designed to deny people access to a website − A large number/numerous requests are sent (to a server) « − « all at the same time − The server is unable to respond/struggles to respond to all the requests − The server fails/times out as a result One from: − Proxy server − Firewall 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-06.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) An office has an automated lighting system. When movement is detected in the office the lights are switched on. If movement is not detected for a period of 2 minutes the lights are switched off. The system uses a sensor and a microprocessor. Describe how the automated lighting system uses a sensor and a microprocessor. ...............",
+      "text": "7 (a) An office has an automated lighting system. When movement is detected in the office the lights are switched on. If movement is not detected for a period of 2 minutes the lights are switched off. The system uses a sensor and a microprocessor. Describe how the automated lighting system uses a sensor and a microprocessor. ...............",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) An office has an automated lighting system. When movement is detected in the office the lights are switched on. If movement is not detected for a period of 2 minutes the lights are switched off. The system uses a sensor and a microprocessor. Describe how the automated lighting system uses a sensor and a microprocessor. ...............",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from: − Motion sensor is used − Sensor sends data/signal to microprocessor − Data/Signal is converted from analogue data to digital data (using ADC) − Value to compared to stored value(s) // − If value is outside range/matches « − « microprocessor sends signal to switch lights on − « actuator used to switch light on/off − « timer is set for 2 minutes − Every time movement is detected the timer is reset − When timer reaches 0/120/times out microprocessor sends signal to switch lights off − Process is continuous",
+          "image": "/papers/computer_science-0478-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: − Read only memory − Non-volatile memory // Contents of memory are retained when power is turned off//permanent storage − Primary storage // directly accessed by the CPU − Holds firmware/boot-up instructions/start-up instructions/BIOS − Cannot be written to 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per each correct logic gate, with correct input(s) 0478/12 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/12 May/June 2019 1 mark per each correct parity bit: Parity bit Register A 0 1 0 0 1 0 1 Register B 1 0 0 0 0 0 1 Register C 1 0 0 0 0 1 1 Four from: − Electrical field/charge is spread across the screen − Sensors are located around the screen // sensors are used to read the electric field − When finger touches screen, the charge/ is transferred to the user − « as it is affected by the conductivity of another object − Coordinates of touch determined/calculated/measured",
+          "image": "/papers/computer_science-0478-2019/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/page-08.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2019/page-01.png",
+      "/papers/computer_science-0478-2019/page-02.png",
+      "/papers/computer_science-0478-2019/page-03.png",
+      "/papers/computer_science-0478-2019/page-04.png",
+      "/papers/computer_science-0478-2019/page-05.png",
+      "/papers/computer_science-0478-2019/page-06.png",
+      "/papers/computer_science-0478-2019/page-07.png",
+      "/papers/computer_science-0478-2019/page-08.png",
+      "/papers/computer_science-0478-2019/page-09.png",
+      "/papers/computer_science-0478-2019/page-10.png",
+      "/papers/computer_science-0478-2019/page-11.png",
+      "/papers/computer_science-0478-2019/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

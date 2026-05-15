@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2021-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A glass / stirring rod B (conical) flask",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "step 4: wash / rinse (with water) to remove sodium sulfate / sodium chloride step 5: dry wate r",
+          "image": "/papers/chemistry-0620-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all volumes of dilute hydrochloric acid correct (16, 14, 12, 10, 6) all volumes recorded correctly, 4 correct scores 1 (56, 49, 44, 37, 26) y -axis plotting – all 5 correct scores 2, 4 correct scores 1 line drawn is a straight line of best fit correct reading from graph (usually 29 cm ) working shown on graph answer to (c)(i) ÷ gas escapes before bung is replaced /so that gas does not escape 0620/62 May/June 2021 • place one reagent in tube inside boiling tube / flask • tip / shake tube to start reaction OR • use a divided flask • tip flask to start reaction",
+          "image": "/papers/chemistry-0620-2021/q2-2a.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line drawn is below plotted line volumes are half of the values of plotted line Tests on solid G / O / Ca 2+ iodide / I – Tests on solid H",
+          "image": "/papers/chemistry-0620-2021/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: • white fumes given off • condensation at mouth of tube • solid (changes from blue and) becomes white 0620/62 May/June 2021",
+          "image": "/papers/chemistry-0620-2021/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(light) blue precipitate dissolves / forms a solution / soluble (in excess) which is a darke r / deep blue any 6 from: • weighed sample / stated mass (e.g. 5 g) / known mass of epsomite • in a crucible • heated (strongly using a Bunsen burner / spirit burner) • reweigh • heat again, reweigh, continue until mass stops changing • calculate mass of water lost by original mass – final mass • calculate percentage water by 100 × mass water / original mass",
+          "image": "/papers/chemistry-0620-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit6-2021-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,217 @@
+{
+  "paperId": "wma12-jan-2022-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-jan-2022-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "January 2022",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.5h= Correct strip width B1 () {} 6.792 5.113 2 6.298 5.858 5.466 A≈× ++ ++ Correct application of the trapezium rule with their h M1 = 11.79 Cao A1 (3) (b)(i) 2 \"11.79\"A≈× Multiplies their answer to (a) by M1 = 23.58 Correct answer or correct ft A1ft (b)(ii) \"11.79\" 6 A ≈+ Adds 6 to their answer to (a) M1 = 17.79 Correct answer or correct ft A1ft (4) Total 7 Number Scheme Notes",
+          "image": "/papers/wma12-jan-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 2720yxx= −− d273 d2 2 y xx x −  ⇒= −   1nn xx − → M1 Correct simplified derivative A1 (2) (b) 0... xxx − − =⇒= Sets their derivative = 0 attempts to solve for x dM1 9x= Correct x value A1 9... xy =⇒= Uses their x value to find a value for y M1 34y= Correct y value A1 (4) (c) d d y AxBx x −− ± =± ( ) ( ) d2731 d44 2 x y x −− =   =−−=−     Attempts second derivative and substitutes their x or considers the sign (for x >0) M1 d273 d 44 y xx x −− =−− d d y x < for x > 0 / when x = 9 so maximum Correct second derivative and conclusion with correct reason A1 (2) Total 8 Notes (a) M1: Power decreased by 1 in at least one term in x A1: Correct, simplified derivative. Accept as shown or x x − or with decimal equivalents for coefficients. No need to see the d d y x , score for a correct expression. (b) Note: Answer only with no initial equation set up scores no marks. dM1: Depends on the M in (a). Sets their derivative equal to 0 and reaches a value x. The “=0” may be implied by a clear attempt to solve it. Do not be concerned about the method for solving as long as a value of x is reached. If substituting ax= (or similar) must return to x for the method. A1: Correct value for x from correct work. Ignore references to x = 0 or any negative values but A0 if extra positive values. M1: Substitutes their positive x value into the curve equation to find a value for y. May need to check if no substitution is shown. A1: Correct y value. Ignore reference to any point at x = 0 or negative values but A0 if other coordinates with positive x are given. (c) Ignore work relating to x = 0 in (c) M1: Attempts the second derivative achieving the form AxBx −− ±± and attempts to use it to classify the stationary point. Look for an attempt at substituting their value or a consideration of the sign. A1: Correct second derivative and conclusion drawn with supporting evidence from which it is reasonable to deduce the nature. Accept “concave down” for maximum, but not just “conca",
+          "image": "/papers/wma12-jan-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "823 88 8 22222... 12 3 444 4 kxkxkxkx      − =+ −+ − + − +           Or 88 8 11... 12 3 888 8 kxkxkxkx       −=+−+−+−+             M1 256 25611228...kxkxkx=−+ − + 256 256kx− B1 112k x or −28k x (unsimplified) A1 112k x and −28k x (simplified) A1 (4) (b) ( ) ()() () f5 325 3256 25611228... kx xxxkxkxkx  =− −=− − + − +   Coefficient of x is 5 ́–256k – 3 ́256 M1 ( ) 5 256 31280768...kk× = − − ⇒= Sets 5 ́their constant term from (a) = 3 ́their coefficient of x from f(x) and solves for k M1 k = − Correct value. A1 (3) Total 7 Notes (a) M1: Attempts the binomial expansion on kx   ±   or kx β   ±   up to at least the third (x ) term with an acceptable structure. Look for the correct binomial coefficient (accept alternative notation n r C ) combined with the correct power of x but allow if powers of 2 are incorrect and if brackets are missing. M0 for descending powers. B1: for 256 256kx − , may be listed, must be simplified. Allow for () 256 1...kx −+ if the 2 is taken out first. A1: Correct third or fourth term, may be listed. Need not be simplified but the binomial coefficients must be numerical. Allow for one term from 256 ...( )( ) ... kxkx  +−   if the 2 is taken out first. May have powers as () n kx for this mark. Allow for the correct x term if the sign was incorrect in their bracket. A1: Correct simplified third and fourth terms as shown in scheme, may be listed. Must have nn kx terms. Note: isw after correct terms are seen if they try to divide through. (b) M1: Correct strategy for the coefficient of x or the x term. E.g. 5 ́their –256k – 3 ́their 256 or may be part of a full expansion – look for (5 ́their –256k – 3 ́their 256)x but terms must have been combined. M1: Sets 5 ́their constant term from (a) = 3 ́their coefficient of x from f(x) and solves for k. Should be an equation in k only, but allow recovery if they initially include the x but later cross it",
+          "image": "/papers/wma12-jan-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-07.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( )( )( ) 3 11110ABk+ + −= or ( )( )( ) ABk −+−+−−=− Attempts f ( 1)k±= or f ( 1)1 0k ±=− M1 7,1310 ABkABk +−= −− =− 10107013ABAB⇒− − + = − − Uses f ( 1) k±= and f ( 1)1 0k= − to eliminate k and obtains an equation in A and B only M1 11983*AB⇒ += Correct proof with no errors A1* (3) (b) 310 0 AB    + + −=       Attempts f0  =   M1 11983AB+= , 1218246AB += ...,...AB ⇒= = Solves 11983AB+= simultaneously with their equation in A and B M1 A = – 8, B = 19 Correct values A1 (3) (c) ( ) () ( ) f32......xxxx = − ++ Uses any appropriate method e.g. long division/inspection to obtain x + px + q where p and q are non-zero. M1 ( ) 25gxxx =−+ Correct expression A1 (2) Total 8 Notes (a) M1: Attempts to apply the remainder theorem for either term – so substitutes ± into f and equates to k or 10k− . The powers of ±1 need not be seen. For attempts via long division look for reaching a quotient .33)(..xxA+±+ and remainder BAα±±− before setting equal to the remainder. M1: Must have attempted remainder theorem on both terms with opposite sign (ie both f(1) and f(−1) attempted, but may be set to the wrong remainders). Uses their two equations to eliminate the k and form an equation in A and B only. Note: finding a value for k (incorrectly) and substituting is M0. A1*: Correct equation reached from fully correct work. (b) M1: Applies the factor theorem with f0  =   . Must be correct sign here, but no need to evaluate powers for the method mark. Allow if all that is wrong is a slip in one term. The “=0” may be implied by working. For attempts via long division look for quotient ) (... 2xxA++± and then their remainder (in A and B) set to zero. M1: Solves their equation and the one from (a) simultaneously. Not dependent so may be scored from an attempt at f0  −=   . Must have produced a second equation in A and B. Look for an attempt to match coefficients and add/subtract, or an attempt to substitute for a variable, reaching values for A and B. If no met",
+          "image": "/papers/wma12-jan-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-13.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7i",
+          "text": "Part 7i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() 3sin 215cos 215xx −°= −° () tan 215 x⇒− °= Uses sin tan cos θ θ θ ≡ and reaches () tan 215...x− °= M1 tan15 x −  ±°   ⇒= Correct strategy for finding x M1 16.7 ,73.3x= °− ° One of awrt 16.7 or −73.3 A1 Awrt 16.7 and awrt −73.3 and no extras in range A1 (4) (ii) 4sin8cos3θθ += () 4 1 cos8 cos3θθ ⇒− + = 4 cos8 cos1 0 θθ⇒−−= Applies sin1 cosθθ= − and collects terms to obtain a 3TQ in cos θ M1 864 4 4 cos θ ± +× = × cos1... θ −  ⇒=− =    Solves their 3TQ and takes inverse cos to obtain at least one value for θ M1 1.69, 4.59θ= Awrt 1.69 or 4.59 A1 Awrt 1.69 and awrt 4.59 and no extras in range A1 (4) Total 8 M1: Solves their 3TQ and takes inverse cos to obtain at least one value for θ (may be implied by answers to 1d.p.). Usual rules for solving. Answers in degrees can score this method mark for find one angle. A1: One correct answer, awrt 1.69 or awrt 4.59. Must be in radians. A1: Both correct, awrt 1.69 and awrt 4.59, and no other solutions in the range. Number Scheme Notes Marks",
+          "image": "/papers/wma12-jan-2022/q7-7i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-21.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 100 19262 *u= + −= Correct method shown B1* (1) (b) ( )( ) {} 20 2 100 192... S=× +−= or ( ){} 20 100 62... S=+= Applies a correct AP sum formula with n = 20, a = 100 and d = −2 or n = 20, a =100 and l = 62 M1 1620= (mm) Correct value A1 (2) (c) 6260... rr×= ⇒= Correct strategy to find r M1 rr= ⇒= = 0.983738... r = awrt 0.984 A1 (2) (d) Total distance from GS hits = ( ) 62 0.983... 1 0.983... 1 0.983... n ×− − M1 ( ) 62 0.983... 1 0.983... 1 0.983... n ×− +> − Correct equation set up with their r and suitable a M1 () log 0.63207... 0.983...0.63207... log(0.983...) n n<⇒= Fully correct processing to find n from an equation of suitable form, M1 27.98...20 28 48 nN = ⇒=+= N = 48 only A1cso (4) (d) Alternative taking 20 th hit as first term of GP Total distance from GS hits = () 62 1 0.983... 1 0.983... n − − M1 ( ) 62 1 0.983... 1620 623000 1 0.983... n − −+> − Correct equation set up with their r and suitable a M1 ( ) log 0.62179... 0.983...0.62179... log(0.983...) n n <⇒= Fully correct processing to find n from an equation of suitable form, M1 28.98...19 29 48nN= ⇒=+= N = 48 only A1cso Total 9 Notes (a) B1*: Correct method shown, identifies the common difference and attempts the 20 th term. Accept as minimum seeing ( ) 100 19262+ −= . Alternatively, allow for setting up an equation 62 100 (1)( 2)n= +−− and solving to find n = If listing, there must be the correct 20 terms with final term 62. (b) M1: Applies a correct AP sum formula with n = 20, a = 100 and d = −2 or with n = 20, a =100 and l = 62. Alternatively, by listing look for 20 terms listed with attempt to sum, or implied by answer. A1: Correct value, units not needed. (c) M1: Correct strategy, attempts to set up and solve the equation 6260r×= A1: r = awrt 0.984. Accept the exact answer (simplified to this) (d) This is now being marked as MMMA (on ePen it isMMAA). M1: Applies a correct GS summation with their r, a = 62 or h6tr2eir× and n or n − 1 or n – 19 or n – 20 as part of their solution in (d). Specia",
+          "image": "/papers/wma12-jan-2022/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-25.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 1...m x xxxmx ⇒ = ⇒== − − Or ... yy ymy mm my=−=−⇒⇒= Attempts to eliminate either x or y and factors out or cancels x/y to get a linear equation and solve. M1 1xm = − and () 1ymm= − Both correct A1 (2) (b) () d xxx xxmxxm  −− =− −   ∫ nn xx + → in at least one term M1 ( ) {} \"1\" Area ofd m Rxxmxx − = −− ∫ ( ) () ( ) mmm m  −− −  =−− −    Uses the limits “1 − m” and 0 in their integrated expression and subtracts (condone the omission of the “− 0”) M1 Correct expression in m with/without the area under line subtracted. A1 {} \"1\" Area ofd m Rxxmxx − =−− ∫ () () () ( ) mm m −− =−−− Correct strategy for the area (may be scored for finding separate areas and subtracting) dM1 () * m− = Correct expression A1* (5) (c) () () Area ofd... xx RRxxx  += − =− =   ∫  =   Correct method for finding the area of R + R Alternatively, a correct method for finding the area of R M1 Alt: () () Area ofd\"1\" 11(1)(1)1 (1). . .(1) () m m Rxxxm xxmm mm m m m m − − = − +−  −− =− +−==− + +−    ×−  ∫ () ... m RRm − = ⇒= ⇒= Sets up a correct equation using the answer to part (b) and solves for m dM1 Alt: () . 1(1)(1)1 (1) 6 6232 .. m mm mmm − −− −⇒==+ +− m= − Correct exact value in any form A1 (3) Total 10 Notes (a) M1: Attempts to eliminate either x or y and factors our or cancels x/y to get a linear equation and solves the resulting equation. May be implied by one correct coordinate of the two. A1: Both coordinates correct. Accept ymm = − (b) M1: Attempts to integrate equation for curve C to find the area, may be part of integrating a difference of curve and line, or may be done separately. M1: Applies the limits of 0 (may be implied) and their x from (a) (which must be in terms of m) to the integral (which must a changed function), and subtracts the correct way round. Again, may or may not be including the line at this point. A1: Correct expression in m for the area under C between 0 and 1 – m. If the line equation has been subtracted a",
+          "image": "/papers/wma12-jan-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-29.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10i",
+          "text": "Part 10i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "E.g.721 15pp= ⇒ += Which is not a prime number (so the statement is not true) Identifies a counter example and makes a conclusion/shows it is not prime. B1 (1) (ii) odd21nnk⇒= + ( ) 512 5 2121 12nnkk ⇒ + + = + + ++ or even2nnk⇒= ( ) 512 5 2212nnkk⇒ ++ =+ + Starts the proof by considering n odd or n even and substituting into the expression (see notes for logical approach) M1 odd21nnk⇒= + () 512 5 2121 12 nnkk ⇒ + + = + + ++ and even2nnk⇒= ( ) 512 5 2212nnkk⇒ ++ =+ + Considers n odd and n even (as above) M1 odd : 202218nkk++ which is even and even : 20212nkk ++ which is even Attempts both with at least one correct expression that is stated to be even A1 () odd : 2 10119nkk ++ and () even : 2 106nkk++ These are both even so 512nn++ must be even for all integers n Fully correct proof that considers both n odd and n even, shows the resulting expressions are even and makes a suitable conclusion A1 (4) Total 5 (51) 1 2nn++ would require reasoning such as if n is odd 5n + 1 is even so n(5 n + 1) is even.) M1: Attempts logic reasoning for both odd and even cases, same criteria as for the first M. A1: Attempts both cases with a full reasoning of each terms that includes proofs of all relevant properties that odd × odd = odd, even + even = even and so on. A1: Full reasoning for both cases given with conclusion drawn. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wma12-jan-2022/q10-10i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2022/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma12-jan-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2022-unit1-2022-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-jan-2022/page-01.png",
+      "/papers/wma12-jan-2022/page-02.png",
+      "/papers/wma12-jan-2022/page-03.png",
+      "/papers/wma12-jan-2022/page-04.png",
+      "/papers/wma12-jan-2022/page-05.png",
+      "/papers/wma12-jan-2022/page-06.png",
+      "/papers/wma12-jan-2022/page-07.png",
+      "/papers/wma12-jan-2022/page-08.png",
+      "/papers/wma12-jan-2022/page-09.png",
+      "/papers/wma12-jan-2022/page-10.png",
+      "/papers/wma12-jan-2022/page-11.png",
+      "/papers/wma12-jan-2022/page-12.png",
+      "/papers/wma12-jan-2022/page-13.png",
+      "/papers/wma12-jan-2022/page-14.png",
+      "/papers/wma12-jan-2022/page-15.png",
+      "/papers/wma12-jan-2022/page-16.png",
+      "/papers/wma12-jan-2022/page-17.png",
+      "/papers/wma12-jan-2022/page-18.png",
+      "/papers/wma12-jan-2022/page-19.png",
+      "/papers/wma12-jan-2022/page-20.png",
+      "/papers/wma12-jan-2022/page-21.png",
+      "/papers/wma12-jan-2022/page-22.png",
+      "/papers/wma12-jan-2022/page-23.png",
+      "/papers/wma12-jan-2022/page-24.png",
+      "/papers/wma12-jan-2022/page-25.png",
+      "/papers/wma12-jan-2022/page-26.png",
+      "/papers/wma12-jan-2022/page-27.png",
+      "/papers/wma12-jan-2022/page-28.png",
+      "/papers/wma12-jan-2022/page-29.png",
+      "/papers/wma12-jan-2022/page-30.png",
+      "/papers/wma12-jan-2022/page-31.png",
+      "/papers/wma12-jan-2022/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,73 @@
+{
+  "paperId": "wch11-may-2024-unit1-qp",
+  "pairedMarkSchemeId": "wch11-may-2024-unit1-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH11/01",
+  "session": "May 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is A (Na + > Mg 2+ > Al 3+ ) B is not correct because the ions are in a random order C is not correct because the ions are in a random order D is not correct because the ions are in reverse order (1) Computer Number Answer Mark − < O 2− < N 3− ) B is not correct because the ions are in a random order C is not correct because the ions are in a random order D is not correct because the ions are in reverse order (1) Computer Number Answer Mark 12 The only correct answer is C (Ba(OH) 2( aq) and HCl(aq)) A is not correct as AgCl(s) is formed B is not correct as CaCO (s) is formed D is not correct as PbI (s) is formed (1) Computer Number Answer Mark 13 The only correct answer is C (green solution and effervescence) A is not correct because the solution is not colourless and effervescence is not included B is not correct because a colourless solution is not formed D is not correct because effervescence is not included (1) Computer Number Answer Mark The only correct answer is C (H + (aq) + OH − (aq) → H O(l)) A is not correct because it does not show the lowest whole numbers ratio B is not correct because it shows water as aqueous D is not correct because it shows an oxide ion instead of a hydroxide ion (1) Computer TOTAL FOR SECTION A = 20 MARKS Section B Number Answer Additional Guidance Mark • correctly balanced equation • state symbols (1) (1) 2AgCl(s) → 2Ag(s) + Cl (g) M2 dependent on M1 or near miss e.g. AgCl or correct formulae but unbalanced equation (2) Number Answer Additional Guidance Mark • (colourless to) blue (solution) • silver / grey solid (1) (1) Do not award just solution changes colour Accept silver / Ag (layer on the copper) Allow silver / grey / black precipitate Ignore white Ignore powder or solid disappears, temperature change (2) Number Answer Additional Guidance Mark • correctly balanced equation • state symbols correct (1) (1) Cu(s) + 2AgNO (aq) → Cu(NO ) (aq) + 2Ag(s) Allow correct ionic equation. Cu(s) + 2Ag + (aq) → Cu 2",
+          "image": "/papers/wch11-may-2024/q11-11a.png"
+        }
+      ],
+      "image": "/papers/wch11-may-2024/page-11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2024-unit1-2024-06-qp.pdf",
+    "pageImages": [
+      "/papers/wch11-may-2024/page-01.png",
+      "/papers/wch11-may-2024/page-02.png",
+      "/papers/wch11-may-2024/page-03.png",
+      "/papers/wch11-may-2024/page-04.png",
+      "/papers/wch11-may-2024/page-05.png",
+      "/papers/wch11-may-2024/page-06.png",
+      "/papers/wch11-may-2024/page-07.png",
+      "/papers/wch11-may-2024/page-08.png",
+      "/papers/wch11-may-2024/page-09.png",
+      "/papers/wch11-may-2024/page-10.png",
+      "/papers/wch11-may-2024/page-11.png",
+      "/papers/wch11-may-2024/page-12.png",
+      "/papers/wch11-may-2024/page-13.png",
+      "/papers/wch11-may-2024/page-14.png",
+      "/papers/wch11-may-2024/page-15.png",
+      "/papers/wch11-may-2024/page-16.png",
+      "/papers/wch11-may-2024/page-17.png",
+      "/papers/wch11-may-2024/page-18.png",
+      "/papers/wch11-may-2024/page-19.png",
+      "/papers/wch11-may-2024/page-20.png",
+      "/papers/wch11-may-2024/page-21.png",
+      "/papers/wch11-may-2024/page-22.png",
+      "/papers/wch11-may-2024/page-23.png",
+      "/papers/wch11-may-2024/page-24.png",
+      "/papers/wch11-may-2024/page-25.png",
+      "/papers/wch11-may-2024/page-26.png",
+      "/papers/wch11-may-2024/page-27.png",
+      "/papers/wch11-may-2024/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

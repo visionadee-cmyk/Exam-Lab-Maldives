@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit3-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit3-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "October/November 2023",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 B1 B1 Helium (answers maybe in either order) B1 visible (light) and B1 Ultraviolet (answers maybe in either order) B1 Sun Mercury Mars ......Moon.......... .........Earth......... ...Venus.......",
+          "image": "/papers/physics-0625-2023/q11-11a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit3-2023-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

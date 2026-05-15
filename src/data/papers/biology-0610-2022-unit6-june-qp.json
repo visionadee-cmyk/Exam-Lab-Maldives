@@ -1,0 +1,71 @@
+{
+  "paperId": "biology-0610-2022-unit6-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2022-unit6-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/61",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "rate increases with temperature; up to 50 °C; then levels off / rate of increase slows / slower between 30–50 °C AW; then decreases / decreases between 50 – °C; ; miscount the bubbles AW; precise / accurate (volume) ORA; r / (gas) syringe / graduated test-tube; 5090/61 May/June 2022 range of at least three different masses; same species / type of pondweed; same volume of water; light source / lamp at same distance / same light intensity; same temperature; regular time intervals (for observation) / same total time; count / compare number of bubbles for each mass; ;",
+          "image": "/papers/biology-0610-2022/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "reference to removing chlorophyll / decolourise leaf; add iodine (solution); blue-black;",
+          "image": "/papers/biology-0610-2022/q1-1f.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines drawn clear, clean and continuous + no shading; roughly circular shape with two outer layers; diameter at least 6 cm; 4 structures shown in lower half + correct position + contents indicated in at least 2 of these; correct label for W (line ends on outer layer or between 2 outer layers); 5090/61 May/June 2022 A more rounded + B oval, egg shaped; cell contents in A + no cell contents in B; cell wall thinner in A + thicker in B; mm; line drawn; measurement in (c)(i) ÷ 150; correct answer to 2 decimal places; unit (mm);",
+          "image": "/papers/biology-0610-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2022-unit6-2022-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

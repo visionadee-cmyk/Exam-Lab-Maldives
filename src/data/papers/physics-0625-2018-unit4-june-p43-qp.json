@@ -1,0 +1,179 @@
+{
+  "paperId": "physics-0625-2018-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit4-june-p43-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "May/June 2018",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Determine the acceleration of the space probe at time = 0. acceleration = ...........................................................[3] (b) Between time = 0 and time = 150 s, the acceleration of the space probe changes. (i) Without calculation, state how the graph shows this. ...................................................................",
+      "text": "1 (a) Determine the acceleration of the space probe at time = 0. acceleration = ...........................................................[3] (b) Between time = 0 and time = 150 s, the acceleration of the space probe changes. (i) Without calculation, state how the graph shows this. ...................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Determine the acceleration of the space probe at time = 0. acceleration = ...........................................................[3] (b) Between time = 0 and time = 150 s, the acceleration of the space probe changes. (i) Without calculation, state how the graph shows this. ...................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "tangent on graph OR gradient OR ( a =) ∆ v ÷ ∆ t or ( v – u ) ÷ t C1 accept gradient increases; not gradient decreases C1 values from tangent or line 13 to 14 m / s A1 OR graph is curved B1 mass of space rocket decreases OR gravitational field strength decreases B1",
+          "image": "/papers/physics-0625-2018/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "area under graph OR (distance =) average speed × time C1 × OR (4100 + 5000) ÷ × C1 4.5/4.55/4.6 × m A1 (KE =) ½ × m × v C1 ½ × 0.020 × 350 C1 J A1 ( ∆ h =) KE ÷ mg OR ÷ (0.020 × 10) OR ÷ (0.020 × 10) C1 6000/6100 m A1 (force of) air resistance acts downwards M1 adds to gravitational force/resultant force increases/deceleration increases/deceleration > g A1 (kinetic energy) to gravitational potential energy B1 (kinetic energy) to thermal/internal energy B1 0625/43 May/June 2018 ( p =) h × ρ × g or 5.0 × × C1 (Pa) C1 (total pressure = + 1.0 × =) 1.5 × Pa A1 1.5 × Pa B1",
+          "image": "/papers/physics-0625-2018/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(rises because) density of gas is less than density of OR resultant upward force on bubble B1 (as bubble rises) pressure (of gas in bubble) decreases B1 (volume of bubble increases because) p × V = constant OR V ∝ ÷ p B1",
+          "image": "/papers/physics-0625-2018/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "more energetic molecules escape/evaporate B1 less energetic molecules remain B1 average kinetic energy of molecules decreases OR temperature depends on kinetic energy B1 B1 surface/colder water more dense OR contracts B1 (cold water) sinks OR warmer water rises B1 difference between the maximum temperature and minimum temperature it can measure B1 distance moved by the thread per °C OR per unit temperature change B1 and less expansion/increase in volume (of mercury per unit temperature rise) B1 0625/43 May/June 2018 path shows three or more straight line sections B1 with sudden changes of direction and at least two different lengths B1 air molecules travelling in random (directions) B1 collide with the smoke particle B1",
+          "image": "/papers/physics-0625-2018/q4-4a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) A microscope that produces a very high magnification is used to observe the Brownian motion of smoke particles in air. Fig. 5.1(a) shows the apparatus used with the microscope. Fig. 5.1(b) represents the view through the microscope and shows one of the smoke particles being observed. light microscope air molecules and smoke particles smoke particle",
+      "text": "5 (a) A microscope that produces a very high magnification is used to observe the Brownian motion of smoke particles in air. Fig. 5.1(a) shows the apparatus used with the microscope. Fig. 5.1(b) represents the view through the microscope and shows one of the smoke particles being observed. light microscope air molecules and smoke particles smoke particle",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(average) speed of the molecules decreases B1 molecules collide less often (on the piston and the walls of the cylinder) B1 smaller momentum change molecules (on collision) B1 piston now has a greater force on its right-hand side OR pressure less than atmospheric B1",
+          "image": "/papers/physics-0625-2018/q5-5b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "attempt at compressions and rarefactions B1 at least one compression labelled and at least one rarefaction labelled B1 wavelength and labelled λ B1 (it/frequency remains) constant B1 (it/wavelength) decreases B1 to m / s B1 0625/43 May/June 2018",
+          "image": "/papers/physics-0625-2018/q6-6a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) A ray of light travelling in air strikes a glass block at an angle of 30° to the normal. The light slows down as it enters the glass block. State and explain, in terms of wavefronts, what happens to the light. ................................................................................................................................................... ...........",
+      "text": "7 (a) A ray of light travelling in air strikes a glass block at an angle of 30° to the normal. The light slows down as it enters the glass block. State and explain, in terms of wavefronts, what happens to the light. ................................................................................................................................................... ...........",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) A ray of light travelling in air strikes a glass block at an angle of 30° to the normal. The light slows down as it enters the glass block. State and explain, in terms of wavefronts, what happens to the light. ................................................................................................................................................... ...........",
+          "marks": 1,
+          "type": "structured",
+          "answer": "one side of wave(front) slows down before the other side B1 wave(front) slews around OR bends at boundary B1 bends towards the normal OR bends towards the side that slows first B1",
+          "image": "/papers/physics-0625-2018/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( n =) c ÷ v OR (3.0 × ) ÷ (1.9 × ) C1 1.6 A1 straight line from tip of O to tip of I B1 dotted line/lens marked at 3.0 cm from O B1 one of: paraxial ray from tip of O refracting at lens to tip of I paraxial ray to I from lens and ray from O to meet it at lens B1 (focal length) in range 2.2 cm to 2.6 cm B1 and light pass through it/projected on to screen/rays converge B1",
+          "image": "/papers/physics-0625-2018/q7-7b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) A thin converging lens is used to produce an image I of object O. Fig. 8.1 shows O, I and the screen on which the image is produced. O principal axis I 1.0 cm 1.0 cm screen Fig. 8.1 (i) On Fig. 8.1, draw a straight line to represent a ray from the tip of the arrowhead of O to the tip of the arrowhead of I. Draw a vertical dotted line t",
+      "text": "8 (a) A thin converging lens is used to produce an image I of object O. Fig. 8.1 shows O, I and the screen on which the image is produced. O principal axis I 1.0 cm 1.0 cm screen Fig. 8.1 (i) On Fig. 8.1, draw a straight line to represent a ray from the tip of the arrowhead of O to the tip of the arrowhead of I. Draw a vertical dotted line t",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(focused rays) set fire to curtain B1 0625/43 May/June 2018 R =) V ÷ I OR ÷ 0.15 C1 Ω A1 B1 (voltmeter reading) decreases OR less p.d. across variable resistor B1 more p.d. across 20 Ω /fixed resistor B1 J of (electrical) energy supplied in driving charge around the circuit B1 energy per unit charge OR per coulomb B1 B1 there is a reading OR shows I / V /p.d. M1 then returns to zero/centre A1 S/south-pole at the right-hand end which attracts the magnet B1 opposes the change (causing the deflection) B1 N P ÷ N S =) V P ÷ V S OR ÷ C1 OR 20 ÷ OR 20:1 A1 diode underlined B1 0625/43 May/June 2018 β (-particles) B1 α (-particles) B1 γ (-rays) B1 B1 OR ÷ C1 ÷ OR 9.0 × (Rn) atoms remain C1 (7.2 × – 9.0 × =) 6.3 × ( α -particles emitted) A1",
+          "image": "/papers/physics-0625-2018/q8-8b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit4-2018-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

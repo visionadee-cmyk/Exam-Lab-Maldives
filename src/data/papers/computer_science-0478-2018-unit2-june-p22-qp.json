@@ -1,0 +1,71 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Number1 Number2 SignAnswer OUTPUT 5 7 + 12 12 6 2 - 4 4 4 3 * 12 12 7 8 ? 0 0 0 / (0) Å 1 mark ÆÅ 1 mark ÆÅ 1 mark Æ",
+          "image": "/papers/computer_science-0478-2018/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "CASE Sign OF « ENDCASE (1) List +, -, *, / with correct assignments (1) OTHERWISE Answer ← 0 (1) Example CASE Sign OF ꞌ+ꞌ : Answer ← Number1 + Number2 ꞌ-ꞌ : Answer ← Number1 - Number2 ꞌ*ꞌ : Answer ← Number1 * Number2 ꞌ/ꞌ : Answer ← Number1 / Number2 OTHERWISE Answer ← 0 ENDCASE Question Answer Marks Any 3 from: • To ensure no changes are made on input / accuracy of transcription • Because the details do not have fixed, values or lengths to validate • Because there is no clear set of rules that can be used for validation Any 3 from: • The programmer could ask the contributor to type in each detail twice « • « and then check that both values are equal • « If they are not equal then the input should be rejected • The programmer could ask the contributor to check the details on the screen « • « and confirm that they are correct / same as the original • « or change them Email – check for @ / format check / no spaces /valid characters // presence check // length check (not more than 254 characters) // uniqueness check Password – length check / numbers and letters etc. // uniqueness check not been used before // presence check May/June 2018 Question Answer Marks 5 One mark per value and reason, max 3 Example 1.00 – boundary rejected//rejected (underweight) // out of range(1) 1.02 – normal // valid // accepted weight in range (1) 1.10 – abnormal // erroneous // invalid // rejected (overweight) (1) Question Answer Marks One mark for example matching candidate’s description Example Use a new character instead of N TT345",
+          "image": "/papers/computer_science-0478-2018/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q3.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: At Risk Age in Years Type Map Position Table: TREES TREES TREES TREES Sort: Show:  ; ; Criteria: True >100 or: One mark per correct column",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

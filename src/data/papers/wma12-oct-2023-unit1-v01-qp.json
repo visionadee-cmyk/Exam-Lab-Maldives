@@ -1,0 +1,77 @@
+{
+  "paperId": "wma12-oct-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-oct-2023-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "October 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or implies that gradient XN = − B1 Uses () 4, 3− with a gradient of  to form equation of XN () yx+ = − − M1 51528257 0yxxy+ = − +  + + = * A1* (3) (b) (i) Solves 257 0xy+ + = and ...,... yxxy= −  = = M1 () 9, 5N=− A1 (ii) Attempts ()() ''9 '' 4'' 5 '' 3− + − + M1 Correct form of equation E.g. ()()()() 43''9 '' 4'' 5 '' 3xy− + + = − + − + M1 ()() 4329xy− + + = A1 (5) (8 marks) (b)(ii) M1: Attempts radius or radius . Condone slips on lhs, for example ()() ''9 '' 4'' 5 '' 3r or d= − + − + You must see an attempt to take the difference for both components before each are squared. M1: Correct form of equation E.g. ()() 43'' ''xyr− + + = Look for ()()()() 43''9 '' 4'' 5 '' 3xy− + + = − + − + Condone for this mark a slip on one of the components when finding their r A1: ()() 4329xy− + + = or exact equivalent. The constant terms must be collected and not 25 4+ ISW after a correct answer. Alt (b)(ii) Note that an alternative version is 864 0xyxy+ − + − = . It is possible to proceed using this alternative version of the formula for a circle M1: States equation of circle is 860xyxy c+ − + + = M1: Substitutes their () 9, 5N=− into 860xyxy c+ − + + = o.e. and finds ''c'' A1: 864 0xyxy+ − + − = o.e. Number Scheme Marks 8. (a) Uses  36029 4360 Sa=  +  = M1 236 7218aa + =  = A1 (2) (b) Uses ()  21462 ''18 ''142146 n n Sn=  + −  = M1  16 22146nn+ = 81073 0nn + − = * A1* (c) (2) (i) States 29 B1 (ii) Attempts ''18 '' ('' 29 '' 1) 4 130+−  = M1, A1 (3) (7 marks) (a) M1: Uses 360S= with a correct formula to set up a linear equation in ''a''. E.g.  29 4360 a +  = Alternatively uses the sum of all 10 terms ()()()()()()()()() 4812162024283236360aaaaaaaaaa+ + + + + + + + + + + + + + + + + + = A1: 18a= following a correct equation (b) M1: Attempts to use ()  21462 ''18 ''142146 n n Sn=  + −  = following through on their value of ''a'' A1*: Proceeds to 81073 0nn+ − = showing sufficient working, which in most circumstances should be regarded as one correct ",
+          "image": "/papers/wma12-oct-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2023/page-17.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma12-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2023-unit1-2023-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-oct-2023/page-01.png",
+      "/papers/wma12-oct-2023/page-02.png",
+      "/papers/wma12-oct-2023/page-03.png",
+      "/papers/wma12-oct-2023/page-04.png",
+      "/papers/wma12-oct-2023/page-05.png",
+      "/papers/wma12-oct-2023/page-06.png",
+      "/papers/wma12-oct-2023/page-07.png",
+      "/papers/wma12-oct-2023/page-08.png",
+      "/papers/wma12-oct-2023/page-09.png",
+      "/papers/wma12-oct-2023/page-10.png",
+      "/papers/wma12-oct-2023/page-11.png",
+      "/papers/wma12-oct-2023/page-12.png",
+      "/papers/wma12-oct-2023/page-13.png",
+      "/papers/wma12-oct-2023/page-14.png",
+      "/papers/wma12-oct-2023/page-15.png",
+      "/papers/wma12-oct-2023/page-16.png",
+      "/papers/wma12-oct-2023/page-17.png",
+      "/papers/wma12-oct-2023/page-18.png",
+      "/papers/wma12-oct-2023/page-19.png",
+      "/papers/wma12-oct-2023/page-20.png",
+      "/papers/wma12-oct-2023/page-21.png",
+      "/papers/wma12-oct-2023/page-22.png",
+      "/papers/wma12-oct-2023/page-23.png",
+      "/papers/wma12-oct-2023/page-24.png",
+      "/papers/wma12-oct-2023/page-25.png",
+      "/papers/wma12-oct-2023/page-26.png",
+      "/papers/wma12-oct-2023/page-27.png",
+      "/papers/wma12-oct-2023/page-28.png",
+      "/papers/wma12-oct-2023/page-29.png",
+      "/papers/wma12-oct-2023/page-30.png",
+      "/papers/wma12-oct-2023/page-31.png",
+      "/papers/wma12-oct-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

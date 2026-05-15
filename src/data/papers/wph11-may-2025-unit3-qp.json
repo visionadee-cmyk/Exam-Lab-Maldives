@@ -1,0 +1,107 @@
+{
+  "paperId": "wph11-may-2025-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2025-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Max THREE from Clamp the metre rule in position Or ensure the metre rule is close to the track Ensure the metre rule is horizontal using a spirit level Or ensure the metre rule is horizontal using a set square against the vertical stand Ensure the zero on the metre rule is at the rest/start position Use set square (at rest/start positions) to read the scale on the metre rule Or use plumb line ( at rest/start positions) to read the scale on the metre rule (1) (1) (1) (1) MP2 Ignore reference to “ensure metre rule is vertical using a set square”. If plumb lines are used, accept the metre rule on the bench as an alternate description MP4 Ignore reference to “measure by looking perpendicular to the metre rule scale”. Ignore reference to “drawing marks on the track” Accept alternative to plumb lines (e.g. additional vertical stands lined up with the rest and start positions) Calculation of mean Mean t = 5.45 s and rounded to 3 sf (1) (1) Example of calculation Mean value of n = ( 5.23 + 5.89 + 5.66 + 5.01 ) s = 5.45 s Calculates half range for uncertainty Percentage uncertainty = 8 (%) [accept 8.1 (%)] (1) (1) Accept uncertainty = difference between the mean and the furthest value from the mean Allow e.c.f. form 2(b)(i) Example of calculation Uncertainty = half range = ( 5.89 − 5.01 ) s = 0.44 s Percentage uncertainty = 0.44 s 5.45 s ×100 = 8.07%",
+          "image": "/papers/wph11-may-2025/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Inconsistent decimal places (for d) Or i nconsistent significant figures (for mean t) There are not enough points to draw a reliable graph Or repeat measurements for time not shown (for all values of d) Final value of t at 17 cm should be 8.2 s (1) (1) (1) MP2 – accept alternative wording (e.g. “only 4 sets of data”, “not enough data”) Accept “no repeats shown”. Do not accept “No evidence of repeats” as there is evidence seen in 2(b) Number Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A video recording could be slowed down to see when the sphere stops moving So, the time will be more accurate Or avoiding error due to reaction time MP2 dependent on MP1 (1) (1) Accept idea of viewing footage “frame by frame” (Total for Question 2 = 12 marks) Number Answer Additional Guidance Mark This ensures the current will be at the minimum/smallest To prevent the risk of overheating Or to prevent a short circuit Or to avoid damaging the components (1) (1) “Smaller”, “less” or “lower” current is too vague, the question states maximum resistance and “limits current” is insufficient For components allow ammeter, power supply or variable resistor Ignore “damages the circuit”. Accept reverse argument (e.g. minimum resistance would give the largest/maximum current, which would damage the ammeter) EITHER There will be little/no variation in the current and potential difference for repeat readings (at same resistance) Or random error would be small/negligible So repeat readings are not appropriate MP2 dependent on MP1 OR Changes in temperature will vary the (resistance/current/p.d.) readings Or changes in temperature will cause random errors Or (analogue) ammeter/voltmeter may cause a parallax error Or repeat readings can be used to identify anomalous data So repeat readings are appropriate MP2 dependent on MP1 (1) (1) (1) (1) Ignore references to the ohmmeter Ignore systematic error Do not accept answers including a systematic error for this version Number Answer Additional Guidance Mark Value between 1.5 Ω and 1.6 Ω (1) 1 Use of P = 푉푉 푅푅 Potential difference = 3 V (1) (1) Accept substitution of a power value from the graph (2 to 6W) and their resistance from 3(b)(i) for MP1 Accept use of 푃푃=퐼퐼 푅푅 and 푉푉=퐼퐼푅푅 for MP1 Allow e.c.f. from 3(b)(i) with P = 5.6 Wfor MP2 Example of calculation P = 푉푉 푅푅 푉푉= √ 푃푃푅푅 = √ 5.6 W×1.6 Ω = 2.99 V",
+          "image": "/papers/wph11-may-2025/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Advantage (Maximum power) would produce the maximum signal strength Or (Maximum power) would produce signals which can travel further Disadvantage (50% of the) energy will be dissipated from the circuit, so more input power is needed Or (50% of the) energy will be dissipated from the circuit, so the circuit/transmitter/surroundings would heat up (1) (1) Accept “maximum intensity” for maximum signal strength Ignore “transmits over a larger area” if not linked to larger distance Idea that something is “heating up” is sufficient for MP2, but “energy is wasted” is insufficient. (Total for Question 3 = 9 marks) Number Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Use a set square between the cylinder and metre rule to read off the scale Or take readings perpendicular to the metre rule Or move the metre rule close to the cylinder (To reduce) parallax error in reading L MP2 dependent on MP1 OR Use a set square to ensure metre rule is perpendicular to the table (To reduce) systematic error in L MP2 dependent on MP1 (1) (1) (1) (1) Accept “take readings horizontally” or “take readings at eye-level” Reducing “random error” is insufficient Accept other valid methods to ensure metre rule is vertical (e.g. spirit level, plumb line) Do not accept “parallax error” in this version",
+          "image": "/papers/wph11-may-2025/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Slowly increase and decrease the frequency, and record the frequency (of the loudest sound heard) in both directions Calculate the mean of these frequencies OR Use a microphone and a CRO (The standing wave will be produced) at maximum amplitude on the CRO OR Use a sound level meter (The standing wave will be produced) at maximum value on the screen (1) (1) (1) (1) (1) (1) “Increase frequency slowly” is not sufficient, as this is given in the question. MP2 must be linked to a relevant technique for measuring frequency MP2 must be linked to a relevant technique for viewing amplitude MP2 must be linked to a relevant technique for measuring sound level. Ignore “loudest” “strongest” sound, as this is given in the question. We are looking for some description of a measurement. 푓푓=� 푣푣 2퐿퐿 �푙푙+푘푘 compares to y = mx + c So 푣푣= 2퐿퐿 × 푙푙 푔푔 푎푎 푔푔푔푔 푙푙 푙푙푙푙 (1) (1) There must be some link between m and the gradient Accept 푣푣 2퐿퐿 is the gradient Number Answer Additional Guidance Mark y-axis labelled as f / Hz and x-axis labelled as n with no unit Sensible scales Plotting Line of best fit (1) (1) (2) (1) MP1 – labels in standard format “quantity / unit” If axes are reversed, MP2 to 4 can still be awarded MP2 – Scale increments in powers of 10 of “1, 2, 5” on the 2 cm (and 2 mm) lines and plots cover at least half of the paper. MP3 – Plots accurate to ½ square (1 mm) on a sensible scale – all correct = 2 marks, only 1 error = 1 mark, 2+ errors = 0 marks MP4 – a single straight line that follows the trend and is balanced Calculates gradient using large triangle Uses gradient = 푣푣 2퐿퐿 v between 338 and 354 v given to 2 or 3 s.f, with unit (1) (1) (1) (1) Over half the range of plots used in gradient calculation Data used should come from the line of best fit If table data used, check those points are on the line of best fit Example of calculation Gradient = 1360 − 140 5.2 − 1.0 = 4.2 = 290.5 v = gradient × 2L = 291 × 2 × 0.595 = 346 m s −1 EITHER Correct y-intercept read fro",
+          "image": "/papers/wph11-may-2025/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit3-2025-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,103 @@
+{
+  "paperId": "wph11-oct-2022-unit5-qp",
+  "pairedMarkSchemeId": "wph11-oct-2022-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "October 2022",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Period of the tide matches natural period of oscillation of water in the bay [accept references to frequency] Efficient/maximum transfer of energy (into water in the bay) Or Resonance occurs Amplitude (of tide) increases Or There is a maximum amplitude (1) (1) (1) Total for question 14 6 Alternative for IC1, IC2 and IC3: IC1 Identify/observe a (Cepheid) variable star IC2 Measure the period/frequency of intensity variation IC3 Use a known relationship between period and luminosity to calculate the luminosity of the star Total for question 13 6 Number Answer Mark",
+          "image": "/papers/wph11-oct-2022/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푧= ∆휆 휆 λ o = 1.60 × 10 − m Example of calculation 푧= ∆휆 휆 = (휆 o −134×10 −9 m) 134×10 −9 m =10.96 ∴휆 o = ( 10.96×134×10 −9 m ) +134×10 −9 m=1.60×10 −6 m (1) (1) ly) Use of 푠=푢푡 s = 1.3 × 10 (m) [Accept answers in range 1.2 × 10  1.3 × 10 ] Example of calculation d = 13.4 × 10 ly 1 ly = 3.0 × 10 m s − × 3.15 × 10 s = 9.45 × 10 m s = 9.45 × 10 m × 13.4 × 10 = 1.26 × 10 m (1) (1) (1) So their light has become infrared when it arrives (at the telescope) [MP2: Do not credit statements that light is emitted in IR region of spectrum] (1) (1) Total for question 15 7 Number Answer Mark max read from graph Use of 푐=푓휆 Use of 휆 푚푎푥 푇=2.898×10 −3 m K T = 3100 (K) Example of calculation f max = 3.2 × 10 Hz 휆 max = 3.0×10 m s −1 3.2×10 Hz =9.38×10 −7 m 푇= 2.898×10 −3 m K 9.38×10 −7 m =3090 K (1) (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q15-15a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐴=4π푟 Use of 퐿=휎퐴푇 L = 4.52 × 10 W [ecf from (a)] Or T = 5300 K [ecf from (a)] Conclusion made from comparison of calculated L with 10% of luminosity of the Sun [3.83 × 10 W] Or conclusion made from comparison of T for a star with 10% of luminosity of the Sun with T calculated in (a) Example of calculation 퐿=4π ( 2.62×10 m ) ×5.67 × 10 −8 W m −2 K −4 ( 3100 K ) 퐿=4.52×10 푊 퐿 퐿 푆푢푛 ×100%= 4.52×10 푊 3.83×10 푊 ×100%=1.18% Luminosity of Gliese-876 is less than 10% of Sun’s luminosity. so claim is correct. Temperature of Gliese-876 is less than surface temperature of a star with 10% of the Sun’s luminosity, so claim is correct. (1) (1) (1) (1) Total for question 16 8 Number Answer Mark Use of 퐹= 퐺푀푚 푟 퐹=7.3×10 (N) Example of calculation 퐹= 6.67×10 −11 N m kg −2 ×1.99×10 kg×9.38×10 kg ( 4.14×10 m ) ∴퐹=7.26×10 N (1) (1) Use of 퐹=푚휔 푟 Use of 휔= 2π 푇 Conversion to years T = 4.6 year [ecf from (i)] Or Use of 퐹= 푚푣 푟 Use of 푣= 2π푟 푇 Conversion to years T = 4.6 year [ecf from (i)] Example of calculation 휔= √ 퐹 푚푟 = √ 7.26×10 N 9.38×10 kg×4.14×10 m =4.32×10 −8 rad s −1 푇= 2π 휔 = 2π rad 4.32×10 −8 rad s −1 =1.45×10 s ∴푇= 1.45×10 s 3.15×10 s year −1 =4.61 year (1) (1) (1) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푔= 퐺푀 푟 to calculate g for Ceres Ratio of field strengths calculated Or 5% of g for Mercury calculated g c is 7.7% of g m so claim is inaccurate Or 푔 푐 =0.283 N kg −1 and 5% of g m = 0.185 N kg − , so claim is inaccurate Example of calculation 푔 퐶 = 6.67×10 −11 N m kg −2 ×9.38×10 kg ( 4.7×10 m ) =0.283 N kg −1 ∴ 푔 푐 푔 푚 = 0.283 N kg −1 3.7 N kg −1 =0.0765 (1) (1) (1) Total for question 17 9 Number Answer Mark Energy in (G)eV calculated from mass difference Conversion of energy in eV to J Energy released = 8.0 × 10 − (J) Example of calculation Δm = (25.1333 + 3.7274) GeV/c − (27.9206 + 0.9396) GeV/c = 5.00 × 10 − GeV/c ΔE = 5.00 × 10 − GeV ∆퐸=5.00×10 −4 ×10 eV×1.6×10 −19 J eV −1 =8.0×10 −14 J (1) (1) (1) (1) Gamma radiation can penetrate the body Half life is long enough to allow the procedure to be performed Half life is short enough to avoid unnecessarily large radiation dose (1) (1) (1) (1) Total for question 18 9 Number Answer Mark there is a (resultant) force that is proportional to the displacement from the equilibrium position and (always) acting towards the equilibrium position [Accept force is in the opposite direction to displacement] (Accept ‘acceleration’ for ‘force’) (For equilibrium position accept: undisplaced point/position or fixed point/position or central point/position, do not accept mean position) (1) (1) T = 0.22 s [can be seen on graph] Use of 휔=2π푓 Or Use of 휔= 2π 푇 Use of 푣=퐴휔sin휔푡 v = 1.1 m s − [can be seen on graph] At least 1 cycle of a sinusoidal graph with calculated values of v and T on axes Example of calculation 푓= 270 min −1 60 s min −1 =4.5 Hz 휔=2π rad×4.5 s −1 =28.3 rad s −1 푣=( 8.0×10 −2 m )×28.3 s −1 =1.13 m s −1 (1) (1) (1) (1) (1) (1) Use of 푎=−휔 푥 a = 32 m s − [ecf from (i)] Example of calculation 푎=− ( 28.3 s −1 ) ×4.0×10 −2 m=32.0 m s −2 (1) (1) The particles are free to move inside the can Or Not all the particles will move with simple harmonic motion Or Amplitude/frequency/period of oscillation of particles is diffe",
+          "image": "/papers/wph11-oct-2022/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q17.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit5-2022-10-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

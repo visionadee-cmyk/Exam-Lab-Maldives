@@ -1,0 +1,51 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 All 8 for 4 marks 6 or 7 for 3 marks 4 or 5 for 2 marks 2 or 3 for 1 mark 0478/13 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "X 1 mark per gate with correct inputs 0478/13 May/June 2018 Statement Assembler ( ) Compiler ( ) Interpreter ( ) Translates high-level language into machine code Provides error diagnostics Translates whole program to object code in one operation Translates and executes one line of code at a time 1 mark for each correct column 10 Any six from: – Program counter (PC) holds address / location of the instruction – The address held in PC is sent to MAR – Address is sent using address bus – PC is incremented – The instruction is sent from address in memory to MDR – Instruction is transferred using the data bus – Instruction sent to CIR 0478/13 May/June 2018 11 Any three from: – Optical media – Non-volatile – Offline – Single (continuous spiral) track – Data stored using lands / pits – Read using (red) lasers – Can be read only (R) or read write (RW) × 200 = 51 × 51 200 16 = 102 400 102 400 =100 Answer 100 kB One mark for correct answer and two marks for correct calculations. 0478/13 May/June 2018 13 Any six from e.g.: – Provide access to the internet / dial up / broadband – Usually charge a monthly fee – Monitor usage – Give users an IP address – Determine bandwidth – Supports domain names – Provide security services – Provide web hosting facilities – Provide access to Email / Mailbox – Provides online data storage",
+          "image": "/papers/computer_science-0478-2018/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

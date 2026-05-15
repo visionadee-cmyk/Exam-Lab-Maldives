@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-9618-2025-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit2-june-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "May/June 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Mark as follows: 1 mark per row Variable Data type MemberCount INTEGER TotalTakings REAL BookingConfirmed BOOLEAN MemberDOB DATE Question Answer Marks MP1 400 MP2 6 Stack Memory location Value 408 'Y' TopOfStack 407 'Z' 406 ‘C’ 405 ‘F’ 404 ‘K’ 403 ‘B’ 402 ‘S’ 401 ‘R’ 400 ‘D’ MP1 TopOfStack pointing to 'Y' and value 'Y' in location 408 MP2 Values 'C' and 'Z' in 406 and 407 MP3 Values 'D' to 'F' unchanged in 400 to 405 and 409 is empty May/June 2025 Question Answer Marks Index Data Pointer 0 \"Neptune\" 2 MP3 1 \"Jupiter\" 4 2 \"Saturn\" 5 3 \"Earth\" 1 MP1 4 \"Mercury\" 0 5 \"Uranus\" -1 MP2 MP1 Earth pointer 1 MP2 Uranus pointer -1 MP3 Other four correct pointers MP2 Two pointers needed to indicate the start and end of the queue MP3 May behave as a circular queue MP4 Manipulated using enqueue()/ dequeue() operations // by description Max 2 May/June 2025 Question Answer Marks 3 Example solution: FUNCTION RollDice(NoOfTimes : INTEGER) RETURNS REAL DECLARE RollValue : INTEGER DECLARE Average : REAL DECLARE Count : INTEGER DECLARE Sum : INTEGER Sum  0 FOR Count  1 TO NoOfTimes RollValue  INT(RAND(6)) + 1 OUTPUT RollValue Sum  Sum + RollValue NEXT Count Average  Sum / NoOfTimes RETURN Average ENDFUNCTION MP1 Declare all variables used and initialise Sum to 0 MP2 Loop for ‘number of times’ parameter MP3 Use RAND() function with Integer parameter in a loop MP4 Use INT() function in a loop MP5 Generate a random integer between 1 and 6 in a loop MP6 Output each value generated in a loop MP7 Calculate Sum and if Average used check declared as REAL and return Average and check function header returns REAL Question Answer Marks",
+          "image": "/papers/computer_science-9618-2025/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Open the file (Sales.txt) in read mode and subsequently close MP2 Read a line (from the text file) MP3 Convert the line read (string) to a number MP4 If the number is greater than 500 and then output week number MP5 Increment week number (must have been Initialised ...) MP6 Repeat from step 2 for 52 times // Repeat from step 2 until end of file Max 5 May/June 2025 Question Answer Marks // doing a dry run // single-stepping (at run-time with an IDE) // Peer testing/review is carried out MP2 Creating a trace table MP3 Draw up test data // draw up list of inputs with expected output // boundary, normal, abnormal data is used MP4 Errors will be indicated when a variable / output gives an unexpected value MP5 Faults in the logic of the program can be detected // Errors may be indicated by an unexpected path through the program Max 3 Question Answer Marks 5 Example solution: FUNCTION Parity(BitString : STRING) RETURNS STRING DECLARE Index, Count: INTEGER Count  0 FOR Index  1 TO LENGTH(BitString) IF MID(BitString, Index, 1) = '1' THEN Count  Count + 1 ENDIF NEXT Index IF Count MOD 2 = 1 THEN BitString  BitString & '1' ELSE BitString  BitString & '0' ENDIF RETURN BitString ENDFUNCTION MP1 Function heading and ending and parameter (STRING) and return type STRING MP2 Loop for length of BitString MP3 Extract current character in a loop MP4 Compare current character to '1' or '0' in a loop MP5 Increment count and was Initialised earlier in a loop MP6 Check if even/odd number of 1s MP7 Append '1' or '0' as appropriate MP8 Return amended BitString May/June 2025 Question Answer Marks MP2 A procedure can pass parameters by ByRef Max 1 PROCEDURE Sub_Part1A(R: INTEGER) 1 Mark Sub_Part2A: FUNCTION Sub_Part2A(T : REAL) RETURNS BOOLEAN 2 Marks Sub_Part3A: PROCEDURE Sub_Part3A(V: INTEGER, W: BOOLEAN, BYREF U : STRING) 2 Marks",
+          "image": "/papers/computer_science-9618-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Symbol Explanation The module Main calls either Sub_A or Sub_B (which one is called is determined at run time) The module Sub_A will repeatedly call Sub_Part1A followed by Sub_Part2A then by Sub_Part3A MP1 Shape1: reference to selection MP2 Shape2: reference to repetition // iteration MP3 Descption (2) including correct use of all module names in both parts May/June 2025 Question Answer Marks PROCEDURE UpdateVisit(BYREF LastVisitDate : DATE,__ BYREF LoyaltyPoints : INTEGER) IF MONTH(TODAY()) = MONTH(LastVisitDate) THEN LoyaltyPoints  LoyaltyPoints + 4 ELSE LoyaltyPoints  LoyaltyPoints + 1 ENDIF LastVisitDate  TODAY() ENDPROCEDURE MP1 Procedure heading and ending and two parameters of correct type MP2 ... both passed BYREF MP3 Use of TODAY() function to obtain current date MP4 Use MONTH function (2) and one parameter is the header parameter and 2nd parameter is TODAY() / assigned variable MP5 If visit is same month, increase LoyaltyPoints by 4 otherwise increase by 1 MP6 LastVisitDate set to TODAY() / ‘current date’ variable (assigned or unassigned) Max 5 DAYINDEX(LastVisitDate) = DAYINDEX(TODAY()) May/June 2025 Question Answer Marks FUNCTION (MondayCheck(CustomerID : STRING) RETURNS INTEGER DECLARE LoyaltyPoints : INTEGER DECLARE LoyaltyPointsString : STRING DECLARE Line : STRING Line  FindCustomer(CustomerID) LoyaltyPointsString  MID(Line, 8, LENGTH(Line) – 16)) LoyaltyPoints  STR_TO_NUM(LoyaltyPointsString) IF DAYINDEX(TODAY()) = 2 THEN LoyaltyPoints  LoyaltyPoints + 10 ENDIF RETURN LoyaltyPoints ENDFUNCTION MP1 Value is returned from FindCustomer(CustomerID) and stored MP2 Function MID used MP3 Attempt to extract LoyaltyPoints from the string returned by FindCustomer() MP4 Correct extraction of LoyaltyPoints from the string returned by FindCustomer() MP5 Conversion of LoyaltyPoints extracted to an integer MP6 Check - is today’s date a Monday using TODAY() MP7 ... increase LoyaltyPoints by 10 MP8 Return LoyaltyPoints May/June 2025 Question Answer Marks Us",
+          "image": "/papers/computer_science-9618-2025/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit2-2025-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

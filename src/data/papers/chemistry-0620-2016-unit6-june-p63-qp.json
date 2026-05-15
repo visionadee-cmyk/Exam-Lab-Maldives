@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "orange / red / brown / pink; to black; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume of oxygen = 10 cm; % oxygen = 10/50 × 100 = 20%; 1 1 Page 4 Mark Scheme Syllabus Paper 0620 63",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial temperature boxes completed correctly: 22, 21, 24; maximum temperature boxes completed correctly: 25, 23, 61; temperature differences completed correctly: 3, 2, 37; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperature boxes completed correctly: 21, 46 and 24, 29; differences completed correctly: 25, 5; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y -axis scale linear and highest temperature change over half way up y -axis; all 5 bars at the correct height; bars clearly labelled; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper formed; iron is more reactive / displacement reaction; 1 1 / dangerous; / easy to use;",
+          "image": "/papers/chemistry-0620-2016/q2-2f.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "insulate / lag tube / use a lid; to reduce heat losses; OR use a pipette / burette; instead of measuring cylinder / more accurate; 1 1 1 1 Page 5 Mark Scheme Syllabus Paper 0620 63 white; precipitate; dissolves; 1 1 white precipitate; dissolves; 1 1 / change / precipitate; effervescence / fizz / bubbles; red litmus / pH paper; blue / pH > 7; pungent smell;",
+          "image": "/papers/chemistry-0620-2016/q2-2i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lithium; carbonate; 1 1 method heat the salt; condenser shown on diagram; drops of water / condensation; colour change / blue solid becomes paler; test pure water boiling point; 100 °C;",
+          "image": "/papers/chemistry-0620-2016/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

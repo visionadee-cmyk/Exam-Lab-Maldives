@@ -1,0 +1,163 @@
+{
+  "paperId": "wma13-oct-2025-unit3-v01a-qp",
+  "pairedMarkSchemeId": "wma13-oct-2025-unit3-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01A",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d (2 3) tan 4 tan (2 3) sec d y y x x x x x x x         = −  = + −                  M1A1A1 4 tan (2 3) sec x          =  + −  =         sin (2 3) cos cos        + −  =             M1 8 sin cos (2 3) 0         + − =         4 sin(23) 0  + − = dM1 3 4 sin    − + = * A1* (6) Notes Brackets around the x are not required. M1: Attempts the product rule on ( ) (2 3) tan y x x =− or on ( ) 2 tan y x x = if they multiply out. It is for either ( ) ( ) ( ) (2 3) tan tan (2 3) sec , , x x Ax x B x x A B − → + −  or for ( ) ( ) ( ) 2 tan tan sec , , x x Ax x Bx x A B → +  A1: One term correct: of ( ) ( ) 4 tan or (2 3) sec x x x x − or ( ) (2 ) sec xx  A1: e.g. ( ) ( ) d 4 tan (2 3) sec d y x x x x x  = + −    . A fully correct unsimplified or simplified derivative. d d y x = is not required. M1: They need to have a derivative with both ( ) tan x and ( ) sec . x It is for using () () () sin tan cos x x x = and ( ) ( ) ( ) ( ) ( ) ( ) sin sec or sec 1 tan cos cos x x x x xx = = + = + and setting d d y x = which may be implied. This mark is for converting to an equation in ( ) sin x and () cosx only using the correct identities which may be implied by their work. dM1: Uses the correct identity ()() 2sincossin .xxx= This may be implied by their work but if the identity ()() sincossinxxx= is suggested, score dM0. Depends on the previous method mark. A1*: 3 4 sin    − + = (Allow 4 sin 3 0    + − = ) . This is a printed answer so must follow all previous marks. There must have been no errors, including bracketing errors. May work in x or α (or a) or a mixture of both but must be α or a for final A1 (b) ( ) 2 0.7 4 sin 0.7 x = + M1 0.7544, 0.7062 xx == A1 (2) Notes (b) M1: For substituting 0.7, x = into the given iterative formula to find a value for x . It may be implied by the sight of ( ) ... 2 0.7 4 sin 0.7 x == + or awrt 0.75 x = and also (if degrees were used) awrt 2.1",
+          "image": "/papers/wma13-oct-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Calculate the number of bees in the colony at the start of the study. (2) (b) Find d d P t (3) The population of bees initially decreases, reaching a minimum value after T years, as shown in Figure 3 (c) Using your answer to part (b), calculate the value of T to 2 decimal places. (Solutions relying entirely on calculator technology are not acceptable.) (4) (Total for Question 7 is 9",
+      "text": "3 (a) Calculate the number of bees in the colony at the start of the study. (2) (b) Find d d P t (3) The population of bees initially decreases, reaching a minimum value after T years, as shown in Figure 3 (c) Using your answer to part (b), calculate the value of T to 2 decimal places. (Solutions relying entirely on calculator technology are not acceptable.) (4) (Total for Question 7 is 9",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Calculate the number of bees in the colony at the start of the study. (2) (b) Find d d P t (3) The population of bees initially decreases, reaching a minimum value after T years, as shown in Figure 3 (c) Using your answer to part (b), calculate the value of T to 2 decimal places. (Solutions relying entirely on calculator technology are not acceptable.) (4) (Total for Question 7 is 9",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 x x x x x x x x x x xx xx x + + − + − + − +− +− +− + M1A1 3( 4) ( 4)( 3) x x x x x x xx xx + − + − +  + + +− +− M1 ( 3) x x  + + − A1 (4) Notes M1: Divides 7848xxxx+ − + − by 12xx+− to obtain a quadratic quotient and a linear remainder x  + with  and  non-zero. A1: Correct quotient x + and correct remainder x + . M1: Writes their answer as Their Remainder Their Quotient (4)(3) xxxx xx xx + − + − =+ +− +− This may be implied by a correct expression following a correct quotient and remainder or by correct values for A and B as long as there is no incorrect work. A1: Correct expression ( 3) x x ++ − or states A = 5, B = 3 If they obtain ( 4) x x ++ + this scores A0, even if they subsequently state A = 5, B = 3 (a) Alternative 1 comparing coefficients/substitution 48 ( )( 12) ( 4) x x x x x A x x B x + − + −  + + − + + or ( 12) ( 12) ( 4) x x x x x x x A x x B x + − + −  + − + + − + + M1 2 correct equations from comparing coefficients or substituting values: e.g. :127,:8, const: 12448xAx A BAB− = −+ =− + = − or e.g. 21 7 , x B x A B =  = =  − = − + A1 ... A = or ... B = M1 5,3AB== A1 Notes M1: Multiplies up by xx +− or e.g. ()() 34xx−+ to obtain a correct lhs and one of ( )( 12) x A x x + + − or (4)Bx+ on the rhs. If ( )( 12) x A x x + + − is expanded must see both ( 12) x x x +− and (12)A xx+− A1: Compares 2 coefficients (or may substitute 2 values) and obtains 2 correct equations. M1: Solves to obtain one of A or B. A1: Both values correct. (a) Alternative 2 repeated division I ( ) ( ) 23, x x x x x Q x x x R + − + −  − → = + + + = then ( ) ( ) 5, x x x x Q x R + + +  + → = + = M1A1 ( ) ( ) ( ) ( ) ( ) x x x x x x x x x x + − + −  + − = + + + + − + M1 ()() () ()()() 21 393 x x xxx xxxxx + +− = + += + += + + +−+−− A1 Notes M1: Divides by (x – 3) first to give a cubic quotient Q and constant remainder R . Then divides Q by (x + 4) to give a quadratic quotient Q and constant remainder R . A1: For 23, 21, Q x x x R = + + + = 5,3QxR= += M1: Writes g(x) as (",
+          "image": "/papers/wma13-oct-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d 2 sin 2 ln(1 cos 2 ) d 1 cos 2 yx yx xx  = −  =  −  M1A1 ( ) d 4 sin cos d 1 2 sin y x x x x  =   −− M1 4 sin cos 2 cot 2 sin xx x x == A1 (4) Notes Note that d \"\" d y x = is not required apart from in alternative 3 below. M1: For differentiating ln(1 cos 2 ) x − to obtain sin 2 1 cos 2 Ax x  − A1: d2 sin 2 d1 cos 2 yx xx  =  −  oe M1: Uses the correct double angle identities sin 2 2sin cos x x x = and cos 2 1 2 sin xx =− The identity for cos 2 x may be implied by poor bracketing in the denominator e.g. 1 1 2 sin x −− A1: Simplifies to obtain d 2 cot d y x x  =   following M1A1M1 previously. There must be at least one intermediate correct line between ( ) 4 sin cos 1 2 sin xx x −− and 2cot x which will usually be 4 sin cos 2 sin xx x or e.g. 2 cos sin x x (a) Alternative 1 ( ) d 4 sin cos ln(1 cos 2 ) ln 2 sin d 2 sin y x x y x x x x  = − =  =   M1A1 4 sin cos 2 cot 2 sin xx x x = M1A1 Notes M1: Writes ln(1 cos 2 ) x − as ln(2 sin)x and differentiates to obtain sin cos sin Axx x  A1: d4 sin cos d 2 sin yxx x x  =   oe M1: Obtains d sin cos d sin y A x x x x   =   and simplifies to obtain cotkx A1: Obtains d 2 cot d y x x  =   following M1A1M1 previously. (a) Alternative 2 ( ) d 2 cos ln(1 cos 2 ) ln 2 sin ln 2 2 ln sin d sin yx y x x x xx  = − = = +  = +   M1A1 2 cos 2 cot sin x x x = M1A1 Notes M1: Writes ln(1 cos 2 ) x − as ln(2 sin ) x then ln 2 2ln sin x + and differentiates to obtain cos sin Ax x  A1: d 2 cos d sin yx xx  =   oe M1: Obtains d cos d sin y A x xx   =   and simplifies to obtain cot kx A1: Obtains d 2 cot d y x x  =   following M1A1M1 previously. (a) Alternative 3 d ln(1 cos 2 ) e 1 cos 2 e 2 sin 2 d yy y y x x x x = −  = −  = M1A1 ( ) d 2 sin 2 2 sin 2 4 sin cos d 1 cos 2 e 1 2 sin y y x x x x xx x  = = = − −− M1 4 sin cos 2 cot 2 sin xx x x = A1 Notes M1: Writes ln(1 cos 2 ) yx =− as e 1 cos 2 y x =− and differentiates to obtain d e sin 2 d y y Ax x = A1: d e 2 ",
+          "image": "/papers/wma13-oct-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 2cosec2 sin 2 A A = B1 cos cot sin2 2 sin cos sin A A A A A A − = − M1 2 2 cos 2 sin cos A AA − = M1 2sin sin tan 2sin cos cos AA A A A A = = = * A1* (4) Notes Condone use of a different variable e.g.  or x for A. Condone the use of mixed variables for the B and M marks as long as the intention is clear. B1: Writes cosec2 A as sin 2 A M1: Uses sin 2 2sin cos A A A = or e.g. sin 2 sin cos cos sin A A A A A =+ and cos cot sin A A A = to write the lhs in terms of sin A and cos A only. M1: For writing the lhs as a single fraction in terms of sin A and cos A only. It is for writing cos sin cos sin aA b A A A − as a single fraction with a correct common denominator (which may not be the lowest) and 2 terms in the numerator, one of which must have been “modified”. e.g. cos 2 sin 2 sin cos 2 sin cos sin 2 sin cos A A A A A A A A A − −= is acceptable without a lowest common denominator e.g. cos sin 2 cos 2 sin cos sin 2 sin cos A A A A A A A A − −= is acceptable with a correct denominator and 2 terms in the numerator of which at least 1 has been modified A1*: Completes the proof with no errors. The 2’s must be cancelled at some point but it is ok for them to just “disappear”. The 1 cos A − in the numerator must be replaced with sin A and the expression sin cos A A must be seen before being replaced with tan A but allow this appear in the form of cancelling e.g. sin A sinAcosA . For this mark condone minor notational errors (e.g. a missing A) but not consistent poor notation throughout such as mixed variables or writing cosA as cosA . For the final 2 marks, allow a “meet in the middle” approach e.g. sets cos sin 2 sin cos sin cos AA A A A A −= 2 sin cos2 2 cos2 sin2 sin2 sinAAAAAA→ −== Hence proven. Score the first B1M1 as in the main scheme and then M1 for e.g. multiplying through by 2sin cosAA and A1* for a fully correct proof with a (minimal) conclusion. (b)(i) 2cosec4 cot 2 tan 2 ...     − =  =  = M1 arctan 3    = = or awrt 0.524 A1 M1: Uses part (a) to writ",
+          "image": "/papers/wma13-oct-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "fg(1) f (2) 7 == M1A1 (2) (b) Either g(0) = 3 or g( ) 0.5 x →  → M1 0.5 g( ) x  „ A1 (2) (c) (2 3) x y y x x x + =  + = + + (2 1) 9 3 y x y y x y −  − = −  = − M1 g ( ), 0.53 x xx x − − =  − A1, B1ft (3) (d) Attempts to find f(0) = 2×3+5=11 OR f(3) = 5 M1 k  A1 A1 (3) (10 marks) Notes (a) M1: Full method for substituting their g(1) into f. Can also be scored for seeing x = 1 substituted into 2 3 x x + −+ + A1: 7. Sight of 7 can achieve both marks if no incorrect work is seen. Do not accept multiple answers. (b) M1: Achieves the correct value for either end of the range. Sight of 0.5 or 3 or e.g. is sufficient. A1: Correct range and correct notation. Accept 0.5 y  or e.g. 0.5 g 3  or e.g. (  0.5, 3 (c) M1: Full attempt to change the subject for x y x + = + or y x y + = + They must cross multiply and collect terms to get ay b x cy d + = + or ax b y cx d + = + oe where a, b, c and d are non-zero. A1: g ( ) x x x − − = − . Accept y or g − for g ( ) x − B1ft: Correct domain or follow through on their answer for (b) but it must be appropriate notation in terms of x. E.g. 0.5 x  „ or (  0.5, 3 Do not follow through on (d) M1: Attempts f(0) or f(3). Evidence could be seeing 2 3 0 5−+ or 2 3 3 5−+ or the sight of 5 or 11 It may be seen as one of the limits on k. A1: Achieves correct limits of 5 and 11 which may be seen embedded e.g. 511k>> A1: Fully correct 511k oe e.g. (  5, 11 Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 190 000 15 1 tP =  = − =  + M1A1 (2) (b) ee kt kt a → M1 0.8 0.6 0.6 0.8 0.8 d (15 e ) 96e 160e 0.8e d (15 e ) t t t t t P t +  −   =−  +  M1A1 (3) Notes (a) M1: Sets t = 0 and uses e1 = . It is for attempting 15 1 − + but not 200 160 15 1 − + This can be awarded for a correct answer. A1: Correct answer only. Accept 190 000 or 190 thousand or (P =) 190 (bees). The answer is an integer so do not allow awrt 190 or 190 000 i.e. no decimals. (b) M1: For evidence of ee kt kt a → where a is a constant. This may be embedded within the quotient (or product) rule or their attempt to differentiate. M1: For applying the quotient rule to obtain 0.8 0.6 0.8 0.6 0.8 d (15 e ) e e e d (15 e ) t t t t t P p q t +  −   =  +  or the product rule to obtain 0.6 0.8 0.6 0.8 0.8 d e (15 e ) e (15 e ) e d t t t t t P A B C t −−   =  + + +     Condone invisible brackets for this mark but not for the A mark below. A1: A correct unsimplified or simplified derivative. e.g. 0.8 0.6 0.6 0.8 0.8 d (15 e ) 96e 160e 0.8e d (15 e ) t t t t t P t +  −   =−  +  oe or e.g. 0.6 0.8 1.4 0.8 d 160 0.6e (15 e ) +160 0.8e (15 e ) d t t t t P t −−  = −  +  +   oe d \"\" d P t = is not required so just look for a correct expression. Apply isw once a correct derivative is seen. (c) Sets 0.8 0.6 0.6 0.8 0.8 (15 e ) 96 e 160e 0.8e (15 e ) t t t t t +  −  = + 0.8 0.6 0.6 0.8 (15 e ) 96 e 160e 0.8e t t t t  +  −  = 0.6 1.4 1440e 32e tt = or e.g. 0.8 e t = oe or 0.60.820.80.810.6 160e(15 e)0.8e(15 e)128e0 ttttt−− −++ += 0.61.4 1440e32e tt = or e.g. 0.8 e45 t = oe M1A1 ln 45 4.76 0.8  = = T dM1A1 (4) (9 marks) Notes Allow recovery here if signs are reversed in their derivative. May work in T and/or t. M1: Sets the numerator of their quotient rule attempt = 0 or sets their product rule attempt = 0 and obtains 0.8 e t pq = or 0.6 1.4 ee tt AB = or equivalent. The denominator of their quotient rule (correct or incorrect) can be ignored in part (c). A1: 0.6 1.4",
+          "image": "/papers/wma13-oct-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "109R= B1 tan awrt16.70  =  =  M1A1 (3) (b)(i) Max height = 12+ ‘ ’= awrt 22.44 (m) B1ft (ii) Occurs when '16.70' 180 5.44 tt + =  = M1A1 (3) Notes (a) B1: 109. R = Apply isw after this is seen e.g. if they convert to a decimal. Do not allow 109. R = M1: Attempts to find  . Look for tan ...  =   = but condone tan ...  =   = or if R is used allow sin ... R  =   = or cos ... R  =   = A1: awrt16.70  = but condone 16.7  = It is not for awrt 16.7 e.g. 16.67 scores A0 An answer of awrt 0.29  = radians scores A0 (b)(i) B1ft: For awrt 22.44 (m) or + following a correct value for R but ft on their R value so allow for 12 + their R in exact form or for 12 + their R as awrt 2dp (you may need to check). Units are not required but if any are present they should be correct. (b)(ii) M1: Attempts to solve 30'16.70' 180t+= to obtain a value for t. If radians were used in part (a) then allow an attempt to solve '0.29' t  += (which leads to t = 0.095...) but do not allow mixing of degrees and radians e.g. '0.29' 180 ... tt + =  = Allow methods that use e.g. '16.70' 180 x t x =  + = etc. provided they subsequently replace x with 30t and find t. May be implied by their value for t. A1: awrt 5.44 only. If multiple solutions are found then awrt 5.44 must clearly be identified as their chosen solution. (c) 18 12 109 cos(30 16.70) cos(30 16.70) ( 0.57..) tt = − +  + = − − M1A1 ( ) 16.70 arc cos 125.078... .. tt   + = − =   =   dM1 awrt 3.61 t = (2dp) A1 (4) Notes M1: Uses H = 18 in their answer to part (a) and proceeds to cos(30 '16.70 ') tk += where 1k Allow this mark for 18 12 \" 109 \"cos(30\"16.70\")t= −+ leading to cos(30'16.70 ')tk+= where k  A1: cos(30 '16.70 ') or awrt 0.57... t + = − − following through on their  May be implied by '16.70 ' awrt 125 t + =  or awrt 2.2 radians. dM1: Correct order of operations to find a positive value for t from their negative value for k. The order of operations must be correct from their ( ) cos(30 '16.70') t",
+          "image": "/papers/wma13-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wma13-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA13-2025-unit3-2025-10-01A-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

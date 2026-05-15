@@ -1,0 +1,51 @@
+{
+  "paperId": "english_first-0500-2019-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "english_first-0500-2019-unit2-june-p23-ms",
+  "subjectId": "english_first_igcse",
+  "code": "0500/23",
+  "session": "May/June 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "the city and people in paragraph 12 The general effect is that people have been reduced to mere shadows of themselves, approaching a weird form of dried-up death. torpid: having or showing very little energy or movement, unsettling, eerie as if its unlubricated gears and belts had seized up: (image) nothing is moving, like an engine that is not oiled and has come to a stop, parts fused and useless, not functioning (people seemed to be) crumbling, turning to dust and salt : (image) disintegrating, breaking into pieces, weak, fragile a ghostly, powdery rabble: (image) almost transparent, barely human/alive, dried; disordered group, unnatural and unpredictable a strong wind could scatter them into clouds of dead skin: (image) exaggerated suggestion that they are so lifeless they would blow away in the wind, frail desiccated, dehydrated adults: thoroughly dried out, all moisture removed, dull and lifeless too tired to toil or trade: no energy for physical work/struggle or for usual business sluggish: lacking alertness, vigour, or energy, inert, unnatural for children",
+          "image": "/papers/english_first-0500-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Aljafar, the cellar and its contents in paragraph 30 The general effect is to illustrate the villainous greed of Aljafar and convey the value and beauty of water. fumbling theatrically: (image) pretending to be struggling with the catch, making noise for effect, ridiculous and unconvincing attempt to deceive prised open: forced open, as if with a crowbar shoving: roughly pushing him to one side, not concerned about level of force used, dismissive of him, focused on water cavernous cellar: huge space opening up over and around them, treasure trove stocked ceiling-high with precious casks: have been ordered and organised to get as many in as possible, valuable resource, abundance of supply, reminiscent of (pirate) treasure releasing a translucent torrent: (image) gushing water, light passes through it but water is not transparent, pouring out with force suggesting large volume of water in the cask, freshness, contrasts with darkness of cellar crystal-clear water: valuable, as if precious gem, pure attached ourselves to lips-first like ticks to a sheep: (image) drinking greedily to quench their thirst, as if parasite sucking blood, desperate, disgusting image, dehumanising, fighting for survival hoarding: has been hiding it, keeping it privately and secretly for his own use, suggests greed May/June 2019 Marking Criteria for Question 2 Table A, Reading: Language analysis: Use the following table to give a mark out of 10 for Reading. Band 6: 9–10 • Wide ranging discussion of judiciously selected language with some high quality comments that add meaning and associations to words/phrases in both parts of the question, and demonstrate the writer's reasons for using them. • Tackles imagery with some precision and imagination. • There is clear evidence that the candidate understands how language works. Band 5: 7–8 • Explanations are given of carefully selected words and phrases. • Explanations of meanings within the context of the passage are secure and effects are identified",
+          "image": "/papers/english_first-0500-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/english_first-0500-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/english_first-0500-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/EnglishFirstLanguage-0500/EnglishFirstLanguage-0500-2019-unit2-2019-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

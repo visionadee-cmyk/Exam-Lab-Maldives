@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-november-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "October/November 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 1 temperature boxes completed correctly results comparable to supervisor’s 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 2 temperature boxes completed correctly results comparable to supervisor’s 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted ± half a small square smooth line graphs labelled 2 1 1 value from graph – 60 s 1 1 value from graph shown clearly 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "room temperature or initial temperature from results table reaction has finished / stopped 1 1 / points / data smoother curve / better or more accurate graph 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1e.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "polystyrene is an insulator / copper is a (good) conductor reduced heat losses 1 1 Page 3 Mark Scheme Syllabus Paper 0620 53 Mark / bubbles / fizzes lighted splint ‘pops’ 1 1 / bubbles / fizzes limewater turns milky 1 1 insoluble / no change 1 1 precipitate 1 1 acid 1 1 hydroxide 1 1 Page 4 Mark Scheme Syllabus Paper 0620 53 Mark silica filter (the cleaner) wash the residue dry the residue water heat (the filtrate / cleaner) condense the vapour sodium carbonate heat to dryness / no liquid left (then solid) sodium carbonate is left OR heat until saturated then cool to crystallise / leave to crystallise",
+          "image": "/papers/chemistry-0620-2016/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

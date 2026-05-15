@@ -1,0 +1,103 @@
+{
+  "paperId": "physics-0625-2025-unit3-november-p31-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit3-november-p31-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "October/November 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Fig. 6.1 represents the main regions of the electromagnetic spectrum in order of increasing frequency. Some of the regions have been named. radio wavesmicrowavesinfraredvisible lightregion 1region 2gamma rays Fig. 6.1 (i) State the name of region 1 and the name of region 2. region 1 .......................................................................................................",
+      "text": "6 (a) Fig. 6.1 represents the main regions of the electromagnetic spectrum in order of increasing frequency. Some of the regions have been named. radio wavesmicrowavesinfraredvisible lightregion 1region 2gamma rays Fig. 6.1 (i) State the name of region 1 and the name of region 2. region 1 .......................................................................................................",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(λ = ) 1.4  10 (m) A3 (λ = ) 2.8 ( 10 ) ÷ 2.0 ( 10 ) (C2) v = f × λ OR (λ = ) v ÷ f (C1) Question Answer Marks (pair 2) attractive force (pair 3) no force B2 OR region/area in which a magnetic material experiences a force B1 name of an electrically insulating material B1 (that) can move (from ion to ion OR freely in conducting materials) A1 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q6-6b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3000 () 72 / 0.024 V = I R OR (R = )V / I A3 (C2) (C1) October/November 2025 Question Answer Marks Vs / 120 = 70 / 560 OR (Vs =) (70 / 560)  120 (C2) Vs / Vp = Ns / Np in any form (C1) (power = ) 2.2  10 -3  64 (C3) (power = ) I  V (C1) 2.2 (mA) = 0. 0022 (A) OR 2.2 x 10 -3 (A) (C1) (cost = ) 0.14  6(.0)  36 OR 0.84  36 OR 0.14  216 OR 5.04  6 (C2) (cost = ) (energy in) kW h  (number of) hours  cost (of one unit) (C1) Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "16 () A2 (combined resistance =) R1 + R2 OR 8(.0) + 8(.0) (C1) symbol for cell seen B1 symbols connected to give series circuit B1 October/November 2025 Question Answer Marks B1",
+          "image": "/papers/physics-0625-2025/q9-9b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(3  11 =) 33 (days) A3 (change in mass takes place over / decay takes) 3 half-lives (C2) 32 16 8(.0) 4(.0) OR 32  ½  ½  ½ OR 32  1/8 (C1) Question Answer Marks (2) Saturn (3) Uranus (4) Neptune B3 1.3  (10 ) ÷ 3(.0)  (10 ) (C2) speed = distance ÷ time OR (t = ) d ÷ s (C1) Ra",
+          "image": "/papers/physics-0625-2025/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit3-2025-11-31-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,79 @@
+{
+  "paperId": "physics-0625-2025-unit3-june-p33-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit3-june-p33-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/33",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) Place ticks (✓) in Table 7.1 to show the properties of sound waves and of microwaves. Table 7.1 propertysound wavesmicrowaves longitudinal transverse electromagnetic travel in a vacuum [2] (b) Scientists have placed reflectors on the Moon. Scientists use the reflectors to measure the distance between the Earth and the Moon. reflector on the Moon observatory ray of red lightray of red ligh",
+      "text": "7 (a) Place ticks (✓) in Table 7.1 to show the properties of sound waves and of microwaves. Table 7.1 propertysound wavesmicrowaves longitudinal transverse electromagnetic travel in a vacuum [2] (b) Scientists have placed reflectors on the Moon. Scientists use the reflectors to measure the distance between the Earth and the Moon. reflector on the Moon observatory ray of red lightray of red ligh",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) Place ticks (✓) in Table 7.1 to show the properties of sound waves and of microwaves. Table 7.1 propertysound wavesmicrowaves longitudinal transverse electromagnetic travel in a vacuum [2] (b) Scientists have placed reflectors on the Moon. Scientists use the reflectors to measure the distance between the Earth and the Moon. reflector on the Moon observatory ray of red lightray of red ligh",
+          "marks": 1,
+          "type": "structured",
+          "answer": "property sound waves microwaves longitudinal ✓ transverse ✓ electromagnetic ✓ travel in a vacuum ✓ 4 correct – 2 marks 2 or 3 correct – 1 mark B2",
+          "image": "/papers/physics-0625-2025/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3.8  10 (m) A3 3(.0)  10  1.25 OR 3(.0)  10  (2.5 ÷ 2) OR 7.5  10 C2 (distance =) speed  time C1 May/June 2025 Question Answer Marks symbol Y: motor B1 2000 ÷ 230 C2 power = current  voltage OR (current =) power ÷ voltage C1 May/June 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q7-7b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "60 () B1 0.2(0)  20 C2 (V =) I  R C1 candidate’s meter connected in parallel with the 20  resistor B1",
+          "image": "/papers/physics-0625-2025/q9-9a.png"
+        },
+        {
+          "id": "9c",
+          "text": "Part 9c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0  value  20 () e.g. 11 OR 19.5 OR 0.075 OR 13.3 etc. B1 May/June 2025 Question Answer Marks 11.5 ÷ 3 C2 3 half-lives C1 • rocks • buildings • food • drink • cosmic (rays) B2 May/June 2025 Question Answer Marks Mars Jupiter all 3 in correct position – 2 marks 1 or 2 in correct position OR all 3 named – 1 mark B2 helium B1 gravity B1 disc B1",
+          "image": "/papers/physics-0625-2025/q9-9c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit3-2025-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

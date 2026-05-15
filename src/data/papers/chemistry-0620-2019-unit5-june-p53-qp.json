@@ -1,0 +1,127 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 8,
+      "marks": 8,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all temperature boxes completed and all to 0 dp or all to 1 dp M2 temperatures start to increase after 60 seconds",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all temperature boxes completed and show an increase after 60 seconds M2 maximum temperature is greater than in (a)",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all temperature boxes completed and max. temperature is less than in (a)",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all points plotted correctly M2 3 best fit smooth line graphs M3 labels",
+          "image": "/papers/chemistry-0620-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 working shown clearly on graph for experiment 2 at 75 seconds M2 reading from graph M1 Experiment 2 M2 temperature change is greatest M1 Experiment 1 is faster (than Experiment 3) M2 because surface area greater / more (frequent) collisions",
+          "image": "/papers/chemistry-0620-2019/q1-1e.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 initial temperature from table / room temperature M2 reaction finished",
+          "image": "/papers/chemistry-0620-2019/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 more readings / points M2 better / smoother graph",
+          "image": "/papers/chemistry-0620-2019/q1-1h.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper is a (good) conductor (of heat) / copper will lose heat (energy) (to the surroundings) 0620/53 May/June 2019 tests on solid M",
+          "image": "/papers/chemistry-0620-2019/q1-1i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any four from: M1 solid turns into liquid M2 condensation / drops on side of tube M3 steam M4 cobalt( II ) chloride initial colour given as blue M5 cobalt( II ) chloride paper turns pink M1 white M2 precipitate / clears / soluble / no change",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 white M2 precipitate sulfate 0620/53 May/June 2019 any six from: either: M1 measured volume (dilute) hydrochloric acid M2 add named indicator M3 add measured mass / weight of calcium compound M4 stir / mix (acid and calcium compound) M5 continue additions until colour changes M6 repeat with other calcium compounds M7 conclusion e.g.: The calcium compound that needs the smallest mass / weight / amount to neutralise the acid is most effective OR M1 measured mass / weight of calcium compound M2 add named indicator M3 add (dilute) hydrochloric acid (gradually) M4 stir / mix (acid and calcium compound) M5 continue additions until colour changes M6 repeat with other calcium compounds M7 conclusion e.g.: The calcium compound that neutralises the largest volume / amount of (dilute) hydrochloric acid is the most effective",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

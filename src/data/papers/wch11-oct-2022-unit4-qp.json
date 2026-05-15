@@ -1,0 +1,71 @@
+{
+  "paperId": "wch11-oct-2022-unit4-qp",
+  "pairedMarkSchemeId": "wch11-oct-2022-unit4-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH14/01",
+  "session": "October 2022",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is D () A is not correct because the reaction is not zero order with respect to H B is not correct because the reaction is not zero order with respect to H C is not correct because the concentration of NO decreases with time Number Answer Mark A is not correct because hydrogen is involved in the rate-determining step C is not correct because only 1 mol of hydrogen appears in the rate-determining step D is not correct because enough information has been provided Number Answer Mark",
+          "image": "/papers/wch11-oct-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is C (the second ionisation energy of strontium is +1614 kJ mol − ) A is not correct because lattice energies are always exothermic B is not correct because –590 is twice the first electron affinity of iodine D is not correct because the standard enthalpy change of atomisation of strontium is +164 kJ mol −1 Number Answer Mark A is not correct because the sign of the enthalpy change of atomisation of strontium has not been reversed and the answer has not been divided by two B is not correct because the sign of the enthalpy change of atomisation of strontium has not been reversed C is not correct because +214 is the enthalpy change in producing 2 mol of I(g) Number Answer Mark",
+          "image": "/papers/wch11-oct-2022/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is B (−1937) A is not correct because this is the standard enthalpy change of formation of strontium iodide C is not correct because this is the experimental lattice energy D is not correct because the theoretical lattice energy is less exothermic than the experimental value Number Answer Mark 4 The only correct answer is A (the enthalpy change of hydration of an ion is always negative) B is not correct because the enthalpy change of solution of an ionic compound can be positive C is not correct because some ionic compounds with an endothermic enthalpy change of solution are soluble D is not correct because enthalpy change of hydration and the entropy change of solution also determine the solubility of an ionic compound Number Answer Mark 5 The only correct answer is C (Os(s) < Hg(l) < He(g) < O (g)) A is not correct because solids and liquids have lower entropy than gases B is not correct because these elements are arranged by decreasing standard entropy D is not correct because oxygen has greater entropy than helium Number Answer Mark A is not correct because the forward reaction is exothermic and there are more moles of gas on the product side B is not correct because the forward reaction is exothermic C is not correct because there are more moles of gas on the product side Number Answer Mark A is not correct because catalysts do not affect the position of equilibrium B is not correct because the reaction needs to provide energy to maintain the temperature C is not correct because the energy requirements do not depend on the thermodynamic feasibility Number Answer Mark A is not correct because this is for the reverse reaction C is not correct because this is for K c for the reverse reaction D is not correct because this is for K c Number Answer Mark The only correct answer is C (NH + H O → NH + + OH − ) A is not correct because H O is acting as a Brønsted-Lowry base B is not correct because H O is acting as a Brønsted-Lowry base D is not c",
+          "image": "/papers/wch11-oct-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2022-unit4-2022-10-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

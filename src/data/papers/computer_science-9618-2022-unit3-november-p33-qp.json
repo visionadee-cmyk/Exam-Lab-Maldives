@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2022-unit3-november-p33-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2022-unit3-november-p33-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/33",
+  "session": "October/November 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Write the infix expression in Reverse Polish Notation (RPN). a * b + b - d + 15 ................................................................................................................................................... .......................................................................................................................................",
+      "text": "5 (a) Write the infix expression in Reverse Polish Notation (RPN). a * b + b - d + 15 ................................................................................................................................................... .......................................................................................................................................",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Write the infix expression in Reverse Polish Notation (RPN). a * b + b - d + 15 ................................................................................................................................................... .......................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a b * b + d - 15 + (a - b) * (c + d) / a –39 October/November 2022 Question Answer Marks • It has a matching public key • It is used to decrypt data that was encrypted with its matching public key. • The message to be sent is encrypted using the recipient’s public key. // The message to be sent is encrypted using the sender’s private key. • The message is decrypted using the recipient’s private key. // The message is decrypted using the sender’s public key. • The message together with the digital signature is decrypted using the receiver’s private key • The digital signature received is decrypted with the sender’s public key to recover the message digest sent • The decrypted message received is hashed with the agreed hashing algorithm to reproduce the message digest of the message received • The two message digests are compared • ... if both digests are the same the message has not been altered // if they are different the message has been altered. October/November 2022 Question Answer Marks One mark if one error present AB CD 00 01 11 10 00 0 1 1 1 01 0 1 1 1 11 0 0 0 0 10 0 0 0 0 October/November 2022 Question Answer Marks • Any correct Boolean term • Boolean terms and operator correct and no other terms present _ _ (Z =) BC + AC One mark for simplest form _ (Z =) C (A + B) Question Answer Marks • Disk / secondary storage is used to extend the RAM / memory available • ... so the CPU appears to be able to access more memory space than the available RAM • Only the data in use needs to be in main memory so data can be swapped between RAM and virtual memory as necessary • Virtual memory is created temporarily. • Paging allows the memory to be divided into fixed size blocks and Segmentation divides the memory into variable sized blocks. • The operating system divides the memory into pages, the compiler is responsible for calculating the segment size. • Access times for paging is faster than for segmentation. October/November 2022 Question Answer Marks • Uses artificial",
+          "image": "/papers/computer_science-9618-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2022/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2022-unit3-2022-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

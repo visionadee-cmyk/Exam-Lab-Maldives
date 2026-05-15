@@ -1,0 +1,303 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 23,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Printer Statement Can print in colour Inkjet printer Uses a charged drum to create the printed item Laser printer Uses powdered toner Creates output line by line using a print head One mark for correct lines from inkjet One mark for correct lines from laser",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Laser",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Design is created on the computer / software / CAD • Material is loaded to cutter • Different types of material can be used • Uses lasers to cut material « • « that use infra-red • « that produces extreme heat • « that is focussed using a special lens • Can work on both the x , y and z axis 0478/11 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct denary value Binary Denary 0001001110 78 0110110111 439 1000000001 513",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Uses fewer characters // shorter • Easier to read / write / understand • Less likely to make mistakes // less error prone • Easier to debug",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct hexadecimal value in correct order B 0478/11 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Malicious software // type of malware • Tracks / records keypresses // keylogger • Sends data to third party • Collected data is analysed to obtain data",
+          "image": "/papers/computer_science-0478-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for identified method, one mark for how it prevents spyware: Drop-down boxes // onscreen / virtual keyboard • Means key logger cannot collect data Only requires part of the password • Hacker doesn’t get the full password Two-step verification // Two-factor authentication • Extra data is sent to device making it more difficult for hacker to obtain it • Data has to be entered into the same system // if attempted from a remote location, it will not be accepted Use a biometric device • The person's biological data (e.g. their fingerprint) is also required",
+          "image": "/papers/computer_science-0478-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • Monitors traffic coming into and out of the computer system • Checks that the traffic meets any criteria / rules set • Blocks any traffic that does not meet the criteria / rules set • Allows a set blacklist / whitelist // can block certain IP addresses • Can close certain ports",
+          "image": "/papers/computer_science-0478-2019/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Passwords // biometrics • Levels of access • Proxy servers • Physical security methods – e.g. PC’s in locked rooms, etc. 0478/11 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q3-3d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • Touch screen • Keyboard • Microphone • Mouse",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • Headphones • Speakers • Printer • Light / LED",
+          "image": "/papers/computer_science-0478-2019/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • HDD • SSD • USB drive",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • QR code is scanned using a camera on a mobile device « • « and read / decoded using an application / software • Illuminator shone on code • Squares reflect light differently • Corners of code are used for orientation • Opens document with information // Directs to website with information • QR code can be saved for future reference 0478/11 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q4-4d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Data is sent down a single wire « • « one bit at a time • Data is sent in both directions « • « but only one direction at a time",
+          "image": "/papers/computer_science-0478-2019/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct byte (Byte) 2 // 01010100 Three from: • Added up / counted the 1s / 0s • Even parity used // 3 bytes are even • Byte 2 uses odd parity // 1 byte is odd 0478/11 October/November 2019 One from: • Code will run without the need of an interpreter • (Object) Code is platform independent • Source code not available / cannot be modified One from: • Source code not available / cannot be modified • Comments, etc. not visible • Future changes will require code to be recompiled One from: • Protocol is HTTPS • Padlock icon is locked • Can view website certificate Five from: • Browser / client sends request to webserver to request identification • Web server sends its digital / security certificate • Browser authenticates certificate « • « if authentic connection, is established • Any data sent is encrypted « • « using public and private keys",
+          "image": "/papers/computer_science-0478-2019/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • A type of software licence • Free of charge • Normally distributed without the source code • Can legally share / copy • Cannot legally modify code • Cannot resell 0478/11 October/November 2019 Two from: • File size is reduced « • « so it uses less storage space • « so faster transmission • « so quicker to download • Lossless 0478/11 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Input A Input B Output 0 0 0 1 1 0 1 1",
+          "image": "/papers/computer_science-0478-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Exclusive OR / XOR / EOR",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct logic gate with correct inputs",
+          "image": "/papers/computer_science-0478-2019/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Can work continuously • Avoids human error • It could be a dangerous environment and will avoid human risk • Detect errors instantly • Maintain consistent and correct conditions 0478/11 October/November 2019 Six from: • PC holds address of the instruction • The address held in PC is sent to MAR « • « using address bus • MAR goes to location in memory where instruction is stored • Instruction sent to MDR « • « using data bus • Instruction sent to CIR • Control unit sends signals to manage the process « • « using the control bus",
+          "image": "/papers/computer_science-0478-2019/q7-7d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Layout of the webpage • e.g. where a paragraph is placed • Defined using tags",
+          "image": "/papers/computer_science-0478-2019/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct term in the correct order: • browser • IP address • web server • HTML",
+          "image": "/papers/computer_science-0478-2019/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 23,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

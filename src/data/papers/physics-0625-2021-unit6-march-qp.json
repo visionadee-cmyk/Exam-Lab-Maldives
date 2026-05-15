@@ -1,0 +1,139 @@
+{
+  "paperId": "physics-0625-2021-unit6-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit6-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/62",
+  "session": "February/March 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The student ensures that the metre rule is horizontal. Briefly describe how to check that the metre rule is horizontal. You may draw a diagram or draw on Fig. 1.1 if it helps to explain your answer. ................................................................................................................................................... .................",
+      "text": "1 (a) The student ensures that the metre rule is horizontal. Briefly describe how to check that the metre rule is horizontal. You may draw a diagram or draw on Fig. 1.1 if it helps to explain your answer. ................................................................................................................................................... .................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d = 96.0 (cm)",
+          "image": "/papers/physics-0625-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suggestion with reference to checking if t measurable / checking if d value appropriate / establishing a range of d and t values / T = 0.28 (1 / s) • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well- j udged line and thin line",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "G present and triangle method seen on graph timing errors have less effect / smaller % uncertainty repeat each reading and calculate average value 0625/62 March 2021 θ R = 23 (°C) suitable precaution e.g.: line of sight perpendicular to scale wait until reading stops rising (at start) stir before reading",
+          "image": "/papers/physics-0625-2021/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "s, °C, °C",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "clear statement that cup B is more effective comparison of temperature changes over 180 s, matching statement x A = 0.058 unit °C / s repeat cup A experiment without a lid calculate cooling rate and subtract x A",
+          "image": "/papers/physics-0625-2021/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 suitable control: same volume of water, same initial temperature, same diameter / height of cup, same room temp / named appropriate environmental condition 0625/62 March 2021",
+          "image": "/papers/physics-0625-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I = 0.18 (A) V R = 3.7 (V)",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R L and R R calculated correctly R L and R R all consistent 2 or consistent 3 significant figures R L decreases (as V L decreases) statement matching results within limits of experimental accuracy / owtte and supported by values from table",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "obtain more values and plot a graph of R L vs V L extend line to R L axis and read intercept",
+          "image": "/papers/physics-0625-2021/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct variable resistor symbol (rectangle with strike-through arrow only) in completed series circuit and correct voltmeter symbol connected in parallel with resisto r 0625/62 March 2021 MP1 factor: named factor MP2 method: measure time for motion of ball and means of doing so (stopwatch / timer) over measured distance and means of measuring (probably metre rule / tape measure) / mention of between fixed points MP3 repeat for new value of the independent variable MP4 control: any variable appropriate to independent variable e.g. mass of ball if diameter is facto r MP5 table: columns, with units, at least for independent variable, time MP6 analysis: compare readings in the table to see if change in factor produces change in speed, plot line graph (with axes specified) MP7 additional point (one from) : at least 5 sets of data taken, repeat each measurement and take average, repeat (whole) experiment for same factor but a new condition use of fiducial aid (e.g. mark fixed points to time between) release ball without pushing suitable means of release",
+          "image": "/papers/physics-0625-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit6-2021-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

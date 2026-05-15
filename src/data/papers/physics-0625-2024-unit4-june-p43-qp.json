@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2024-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit4-june-p43-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "May/June 2024",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Child B moves 0.050 m further away from the pivot. (i) Explain why the seesaw rotates clockwise. ........................................................................................................................................... ..........................................................................................................................",
+      "text": "1 (a) Child B moves 0.050 m further away from the pivot. (i) Explain why the seesaw rotates clockwise. ........................................................................................................................................... ..........................................................................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Child B moves 0.050 m further away from the pivot. (i) Explain why the seesaw rotates clockwise. ........................................................................................................................................... ..........................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(deceleration is) decrease in velocity per unit time OR rate of decrease in velocity OR negative rate of change of velocity OR –  v /  t A2 negative acceleration OR change in velocity per unit time OR rate of change of velocity C1",
+          "image": "/papers/physics-0625-2024/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a =  v / (  ) t AND (  t = ) 14 / 9.8 OR (  t =) ∆ v / a = 14 / 9.8 B1 m A3 (initial) E k of ball = (maximum) E p gained OR ½ mv = mgh C1 ( h =) E p / mg OR ( h =) ½ v / g OR ( h =) 12.74 / (0.13  9.8) (= 10 m) OR ( h =) (½  196) / 9.8 C1 three from:  (ball) accelerates  (accelerates) at 9.8 m / s initially OR (accelerates) due to force of gravity  air resistance / resistive force increases (with speed / velocity)  resultant force (downwards) decreases  acceleration decreases  terminal velocity is reached when acceleration is zero OR terminal velocity is reached when resultant force is zero B3 0625/43 May/June 2024 B1",
+          "image": "/papers/physics-0625-2024/q1-1b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "if one lamp breaks, the other one will remain lit B1 the useful energy / power output from the solar panel is 22% of the total energy / power input owtte B1 W A2 (%) efficiency = {useful power output} / {total power input} (  100%) OR / 0.22 C1 two from:  no need for cables (to connect to mains) / good for locations remote from mains supply  less power loss than mains (electricity) that must be transmitted  not affected by mains power cuts B2 clockwise moment has increased (and no change to anti-clockwise moment) B1 (mass of backpack =) 45 / (1.6  9.8)) 2.9 (kg) A3 (at balance) sum of clockwise moments = sum of anti-clockwise moments OR (900  0.85) = 1.6  (450 + W ) C1 (clockwise moment =) 765 (N m) OR (moment due to backpack =) 45 (N m) OR ( W =) [{900  0.85} – {450  1.6}] / 1.6 C1 (impulse is the) force × time (for which the force acts) OR I = F × t OR (impulse =) change in momentum OR ∆ { mv} B1 three from:  change in momentum/impulse is the same (on both floors)  (change in momentum/Impulse) is over longer time  force = rate of change of momentum OR F =  { mv } /  t  less force on child (so less injury) B3 0625/43 May/June 2024",
+          "image": "/papers/physics-0625-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(average) KE of particles increases / particles move faste r B1  = m / v OR ( m =)  v M1 cm = 1  –6 m OR cm = 2.5  –4 m OR  2.5  –4 (= 0.25 kg) A1 J A3 (   =) 65 – 20 °C OR (   =) 45 °C C1 E = mc   OR ( E =) mc   OR ( E =) 0.25   C1 thermal energy also transferred to the pan / surroundings OR thermal energy escapes from the water (as it is being heated) B1 two from:  (aluminium saucepan) takes longer to heat the water  more (thermal) energy is needed (with aluminium pan for the same increase in temperature)  (because aluminium) has a higher specific heat capacity B2 three from:  (metals contain) delocalised / free / mobile electrons  (delocalised electrons) gain energy (from lattice vibrations of the atoms nearest to the hot water)  (delocalised) electrons move through the metal (lattice)  collisions between the (delocalised) electrons and (remote) ions / atoms (transfers thermal energy to all parts of the metal container) B3 / free electrons B1 r / far apart B1 fewer particle collisions (to transfer energy) OR no lattice vibrations (to transfer energy) B1 0625/43 May/June 2024",
+          "image": "/papers/physics-0625-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "where rays of light parallel (to the principal axis) converge after passing through lens B1 (focal length is) the distance between (centre of) the lens and principal focus B1 two from:  ray from top of object to lens, parallel to principal axis, refracted to F  ray from top of object through centre of lens, undeviated  r ay from F , through top of object and on to lens, then parallel to principal axis M2 r ays extrapolated back to converge to the left of F A1 image drawn from principal axis to intersection with arrow (to show orientation) A1 evenly spaced straight vertical lines from one plate to the othe r B1 arrows on lines pointing towards negatively charged plate B1 (negatively charged particle has) force / attraction towards positively charged / positive (plate) B1 C A2 I = Q / t OR (Q =) I t OR  0.0012 C1 (p.d. =) 3.6 MV OR 3.6  V A2 E = I tV OR ( V =) E / I t OR ( V =) E / Q OR ( V =) 1.2  / C1 0625/43 May/June 2024 (ultrasound is) sound with a frequency higher than 20 kHz B1 (sound travels) faster (in a liquid than in air) / OR A B1 3.0  m / s B1 three from:  X-rays and ultrasound show internal body parts (without the need to cut open the body)  X-rays and ultrasound both travel through (some parts of) the body  images are formed by ultrasound (partially) reflecting (from boundaries between body matter)  images are formed by X-rays which (travel in straight lines and) pass through soft tissue and are absorbed by bone  X-rays show parts of the skeleton / X-rays show bones OR ultrasound shows image of soft tissues  an X-ray detector forms image from X-rays that travel through patient OR ultrasound detector forms image from sound waves reflected back (from body parts)  X-rays expose you to radiation (which can be harmful to humans) B3 / a.c. in primary coil / plate produces) changing magnetic field (in primary coil) B1 secondary / phone coil cuts (this) magnetic field OR secondary / phone coil is in this / changing magnetic field B1 (changing magn",
+          "image": "/papers/physics-0625-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q6.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "beta OR gamma B1 alpha would be stopped by soil and not reach detector OR beta has sufficient range to be detected above ground OR alpha and beta stopped by soil before reaching detector B1 gamma would pass through intact pipe as well cracked pipe so no difference detected OR beta stopped by intact pipe so variation between piped water and escaped water can be detected OR gamma is only radiation that will reach detector through soil OR less gamma reaches detector through solid pipe B1 (very short half-life) doesn’t allow time for detection before activity has dropped to too low a level OR doesn’t allow for sufficient build up at the leak to detect difference in rate (very long hal f -life) contaminates water supply 0625/43 May/June 2024 B1 ( H =) 2.2  –18 per second B1 2.6  m / s A2 H = v / d OR ( v =) H d OR ( v =) 1.2   2.2  –18 C1 two from:  more distant galaxies are moving away faster  universe is expanding  (if galaxies are moving away from each other now, then) in the past galaxies were closer togethe r B2",
+          "image": "/papers/physics-0625-2024/q10-10b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit4-2024-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

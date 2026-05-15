@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculations of u / v • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well-judged line and thin line in range 13 to 17 (cm) 1 f within 10% of u - with units 1 October/November 2023 Question Answer Marks 4 MP1 apparatus: correct variable resistor symbol in series MP2 method: measure current OR measure AMPS measure light intensity MP3 repeat for different current OR different resistance 1 MP4 control variable (one from): ambient light level OWTTE distance from lamp to light meter MP5 table: columns for current (with unit) and light intensity MP6 analysis: compare readings in a table to see if change in current produces change in light intensity / plot line graph with axes specified or draw labelled axes MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, 2nd control variable stated,",
+          "image": "/papers/physics-0625-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

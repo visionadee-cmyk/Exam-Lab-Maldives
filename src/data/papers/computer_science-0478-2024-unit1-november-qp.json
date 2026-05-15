@@ -1,0 +1,51 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• data • address • control",
+          "image": "/papers/computer_science-0478-2024/q5-5d.png"
+        },
+        {
+          "id": "5e",
+          "text": "Part 5e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It can now execute more instructions/FDE per second • ... this will increase the performance of the CPU Question Answer Marks • Computer system that is designed to a perform dedicated/single function • Computer system that contains a microprocessor (and)/dedicated hardware • Computer system that is built into a larger system October/November 2024 Question Answer Marks • Convert to hexadecimal • Convert to denary • A character set can be used • More control over manipulating the hardware • Faster execution for testing than a high-level language • They can use machine specific instructions Code editor ... ... that allows the user to enter and amend code in their program Run-time environment ... that allows a program to be run and see the outputs of their program Error-diagnostic ... to show the programmer where there are errors in the program Auto-completion ... to give the user options/suggestions of key commands to select Auto-correction ... to correct a command that has a minor misspelling Prettyprint ... changes the colour of key commands do they are easy to identify October/November 2024 Question Answer Marks For example: • Memory management • ... managing what gets allocated where in memory • Managing peripherals and drivers • ... managing the communication between any input and output devices that are connected to the computer • Multitasking • ... managing the process of switching between tasks that are being carrying out • Platform for running applications • ... allowing communication between the applications software and the hardware • System security • ... proving features such as username and password • User accounts • ... allowing multiple user accounts to be created on a computer • Firmware • Bootloader • BIOS • Bootstrap October/November 2024 Question Answer Marks 8 One mark for each correct part. The diagram shows: • Digital ledger is used • Device encrypting data • Device sending data to digital ledger • Payment being recorded on digital ledger • ...",
+          "image": "/papers/computer_science-0478-2024/q5-5e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

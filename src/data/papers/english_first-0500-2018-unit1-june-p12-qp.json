@@ -1,0 +1,97 @@
+{
+  "paperId": "english_first-0500-2018-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "english_first-0500-2018-unit1-june-p12-ms",
+  "subjectId": "english_first_igcse",
+  "code": "0500/",
+  "session": "May/June 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Using your own words, explain why the narrator was relieved that the man had disappeared (lines 17–20). • he thought the man was bringing bad news • he stopped worrying/relieved about his father / he thought his father was/ would be safe 1 mark for each reason, up to a maximum of 2.",
+          "image": "/papers/english_first-0500-2018/q1-1e.png"
+        },
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Using your own words, explain the effects of the snow on the man on the pathway (paragraph 2, ‘It was in ...’). • snow covered / blew around him • it looked like you could see through him / it looked like bits of him had disappeared 1 mark for each reason, up to a maximum of 2.",
+          "image": "/papers/english_first-0500-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Using your own words, what caused the man to notice the narrator (paragraph 3, ‘I laughed some ... ’)? • the narrator laughed",
+          "image": "/papers/english_first-0500-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Using your own words, explain the contrast the narrator describes in the final sentence of paragraph 3 (lines 12–13). • his clothes (wool) felt/smelt wet / cold • his mother’s skin felt smooth, warm / smelt pleasant (sweet) Note: If the response merely states there is a difference between the above two without explanation, award 1 mark only. 1 mark for each, up to a maximum of 2.",
+          "image": "/papers/english_first-0500-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "What caused the narrator to think that everything around him had disappeared (lines 17–18)? • the wind blew the snow which covered everything (accept partial lift)",
+          "image": "/papers/english_first-0500-2018/q1-1d.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "In line 23 the man has difficulty with the father’s name. Using your own words, explain as fully as you can: how the mother responds to this? • she corrects the pronunciation / helps him pronounce it • she gives both his actual and pet names • she repeats herself 1 mark for each, up to a maximum of 2. what this suggests about the mother’s state of mind? • she is flustered /worried/upset May/June 2018 Question Answer Marks Re-read paragraphs 4 (‘The street was ...’) and 9 (‘“Sorry”, she said ...’). Using your own words, explain what the writer means by the words underlined in each of the following quotations: 1 ‘The hill was white all the way to where it disappeared. Black sticks stuck out, here and there: trees; a skeletal fence; telephone poles.’ (lines 14–15) • like a skeleton / gaunt / thin 2 ‘The tram tracks were black lines along the way, then they glazed over white, then vanished.’ (lines 15–16) • became covered with a shiny surface / polished / iced-over 3 ‘The bell clanged, sounding very close in the woolly snow and the silence. The tram disappeared towards town, its wheels growling against the tracks.’ (lines 34–36) • snarling / rumbling / moaning / grinding / low throaty sound 1 mark for each explanation, up to a maximum of 3. Note: the definitions above contain the essence of an answer. Be careful not to credit a word actually used in the quotation. However, accept that candidates may respond in different ways, e.g. at greater length. Explain how the language in each of the three underlined words in Question1(g)(i) helps to convey the effects of the snow on the surroundings. You should refer to the whole quotation in your answer and not just the words underlined. 1 ‘The hill was white all the way to where it disappeared. Black sticks stuck out, here and there: trees; a skeletal fence; telephone poles.’ (lines 14–15). 2 ‘The tram tracks were black lines along the way, then they glazed over white, then vanished.’ (lines 15–16) 3 ‘The bell clanged, sounding ",
+          "image": "/papers/english_first-0500-2018/q1-1f.png"
+        }
+      ],
+      "image": "/papers/english_first-0500-2018/page-02.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/english_first-0500-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/EnglishFirstLanguage-0500/EnglishFirstLanguage-0500-2018-unit1-2018-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/english_first-0500-2018/page-01.png",
+      "/papers/english_first-0500-2018/page-02.png",
+      "/papers/english_first-0500-2018/page-03.png",
+      "/papers/english_first-0500-2018/page-04.png",
+      "/papers/english_first-0500-2018/page-05.png",
+      "/papers/english_first-0500-2018/page-06.png",
+      "/papers/english_first-0500-2018/page-07.png",
+      "/papers/english_first-0500-2018/page-08.png",
+      "/papers/english_first-0500-2018/page-09.png",
+      "/papers/english_first-0500-2018/page-10.png",
+      "/papers/english_first-0500-2018/page-11.png",
+      "/papers/english_first-0500-2018/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

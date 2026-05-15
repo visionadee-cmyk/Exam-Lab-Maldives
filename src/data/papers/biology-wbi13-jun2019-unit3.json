@@ -19,7 +19,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Concentration of sucrose solution (g dm⁻³).",
-          "keywords": ["sucrose", "concentration", "solution"]
+          "keywords": [
+            "sucrose",
+            "concentration",
+            "solution"
+          ],
+          "image": "/papers/wbi13-jun-2019/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -27,7 +32,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Temperature (kept constant).",
-          "keywords": ["temperature", "constant", "control"]
+          "keywords": [
+            "temperature",
+            "constant",
+            "control"
+          ],
+          "image": "/papers/wbi13-jun-2019/q1-1a_ii.png"
         },
         {
           "id": "1a_iii",
@@ -35,7 +45,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Temperature affects enzyme-controlled reactions / metabolism in pollen grains and pollen tube growth. If temperature varies, rate of germination could change, so differences in germination might be due to temperature rather than sucrose concentration. Extreme temperatures could denature enzymes or slow reactions, changing percentage germination.",
-          "keywords": ["temperature", "enzymes", "rate", "germination", "denature", "metabolism"]
+          "keywords": [
+            "temperature",
+            "enzymes",
+            "rate",
+            "germination",
+            "denature",
+            "metabolism"
+          ],
+          "image": "/papers/wbi13-jun-2019/q1-1a_iii.png"
         },
         {
           "id": "1b_i",
@@ -44,7 +62,15 @@
           "type": "short_answer",
           "image": "/papers/wbi13-jun2019/q1b-results-table.PNG",
           "answer": "Graph of percentage germination (%) (y-axis) against sucrose concentration (g dm⁻³) (x-axis), suitable scale, correctly plotted points, and points joined with straight lines.",
-          "keywords": ["graph", "percentage", "germination", "sucrose concentration", "axes", "scale", "straight lines"]
+          "keywords": [
+            "graph",
+            "percentage",
+            "germination",
+            "sucrose concentration",
+            "axes",
+            "scale",
+            "straight lines"
+          ]
         },
         {
           "id": "1b_ii",
@@ -52,7 +78,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Test a wider range of sucrose concentrations with smaller intervals around 40 g dm⁻³ (e.g., 30, 35, 40, 45, 50). Repeat each concentration several times and calculate a mean percentage germination to identify the true optimum.",
-          "keywords": ["smaller intervals", "around 40", "more concentrations", "repeat", "mean", "optimum"]
+          "keywords": [
+            "smaller intervals",
+            "around 40",
+            "more concentrations",
+            "repeat",
+            "mean",
+            "optimum"
+          ],
+          "image": "/papers/wbi13-jun-2019/q1-1b_ii.png"
         },
         {
           "id": "1c_i",
@@ -61,7 +95,13 @@
           "type": "short_answer",
           "image": "/papers/wbi13-jun2019/q1c-boric-acid-table.PNG",
           "answer": "Percentage increase = ((166 − 78) / 78) × 100 = 112.8% (≈ 113%).",
-          "keywords": ["percentage increase", "calculation", "166", "78", "113"]
+          "keywords": [
+            "percentage increase",
+            "calculation",
+            "166",
+            "78",
+            "113"
+          ]
         },
         {
           "id": "1c_ii",
@@ -69,9 +109,22 @@
           "marks": 5,
           "type": "short_answer",
           "answer": "Prepare a series of sucrose concentrations by diluting the 500 g dm⁻³ stock with distilled water (e.g., serial dilutions) and include a control concentration. Add equal volumes of each sucrose concentration to separate cavity slides. Add the same amount of pollen grains (from the same flower) to each slide, start a timer, and incubate under controlled conditions (constant temperature, pH, time). Use a microscope with an eyepiece graticule / calibrated scale to measure pollen tube length at set time intervals (or measure length after a fixed time and calculate rate = length ÷ time). Repeat for each concentration with replicates and calculate mean rates; plot mean rate of pollen tube growth against sucrose concentration.",
-          "keywords": ["dilution", "stock", "cavity slide", "replicates", "control variables", "measure length", "time intervals", "rate", "mean", "plot"]
+          "keywords": [
+            "dilution",
+            "stock",
+            "cavity slide",
+            "replicates",
+            "control variables",
+            "measure length",
+            "time intervals",
+            "rate",
+            "mean",
+            "plot"
+          ],
+          "image": "/papers/wbi13-jun-2019/q1-1c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi13-jun-2019/q1.png"
     },
     {
       "id": "q2",
@@ -86,7 +139,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Add Benedict's solution to the food extract and heat in a hot water bath (near boiling) for a few minutes. A positive result is a colour change from blue to green/yellow/orange/brick red precipitate, depending on concentration.",
-          "keywords": ["Benedict", "water bath", "heat", "blue", "precipitate", "brick red", "reducing sugar"]
+          "keywords": [
+            "Benedict",
+            "water bath",
+            "heat",
+            "blue",
+            "precipitate",
+            "brick red",
+            "reducing sugar"
+          ],
+          "image": "/papers/wbi13-jun-2019/q2-2a_i.png"
         },
         {
           "id": "2a_ii",
@@ -94,7 +156,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Use the same volumes of food extract and Benedict's solution for each test and heat for the same time at the same temperature. After heating, compare the colour of the precipitate with a standard colour chart under the same lighting conditions. Repeat tests and use a mean / most frequent colour match to estimate relative concentration.",
-          "keywords": ["same volume", "same temperature", "same time", "colour chart", "standard", "repeat", "mean"]
+          "keywords": [
+            "same volume",
+            "same temperature",
+            "same time",
+            "colour chart",
+            "standard",
+            "repeat",
+            "mean"
+          ],
+          "image": "/papers/wbi13-jun-2019/q2-2a_ii.png"
         },
         {
           "id": "2a_iii",
@@ -102,7 +173,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "After filtering, repeat the extraction on the remaining solid residue using fresh distilled water (or extract multiple times) and test each additional extract with Benedict's reagent. If later extracts give no precipitate / remain blue, the first extract contained (almost) all the reducing sugar.",
-          "keywords": ["repeat extraction", "residue", "fresh water", "Benedict", "no precipitate", "remain blue"]
+          "keywords": [
+            "repeat extraction",
+            "residue",
+            "fresh water",
+            "Benedict",
+            "no precipitate",
+            "remain blue"
+          ],
+          "image": "/papers/wbi13-jun-2019/q2-2a_iii.png"
         },
         {
           "id": "2b",
@@ -111,7 +190,15 @@
           "type": "short_answer",
           "image": "/papers/wbi13-jun2019/q2b-food-precipitate-table.PNG",
           "answer": "Apple (brick red) → sweet potato (orange) → potato (yellow) → bread (green) → cashew nut (no precipitate).",
-          "keywords": ["brick red", "orange", "yellow", "green", "no precipitate", "highest", "lowest"]
+          "keywords": [
+            "brick red",
+            "orange",
+            "yellow",
+            "green",
+            "no precipitate",
+            "highest",
+            "lowest"
+          ]
         },
         {
           "id": "2c_i",
@@ -119,7 +206,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Apple extract would leave the least blue solution because it gave a brick red precipitate, indicating the highest concentration of reducing sugars. More reducing sugar reduces more Cu²⁺ ions to form more insoluble precipitate, removing more copper ions from solution. Therefore, the remaining solution is least blue.",
-          "keywords": ["apple", "brick red", "highest", "Cu2+", "copper ions", "precipitate", "least blue"]
+          "keywords": [
+            "apple",
+            "brick red",
+            "highest",
+            "Cu2+",
+            "copper ions",
+            "precipitate",
+            "least blue"
+          ],
+          "image": "/papers/wbi13-jun-2019/q2-2c_i.png"
         },
         {
           "id": "2c_ii",
@@ -127,9 +223,20 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Prepare a sweet potato extract by weighing a known mass of sweet potato, grinding with a known volume of distilled water, then filtering. Prepare a calibration curve using known concentrations of a reducing sugar (e.g., glucose) treated with Benedict's reagent under the same conditions (same volumes, temperature, and heating time). Measure colour intensity using a colorimeter (or compare to standards) after removing precipitate / using supernatant, then use the calibration curve to determine the concentration in the sweet potato extract. Account for dilution to calculate concentration in the original sweet potato sample.",
-          "keywords": ["known mass", "known volume", "filter", "calibration curve", "glucose", "colorimeter", "standards", "dilution"]
+          "keywords": [
+            "known mass",
+            "known volume",
+            "filter",
+            "calibration curve",
+            "glucose",
+            "colorimeter",
+            "standards",
+            "dilution"
+          ],
+          "image": "/papers/wbi13-jun-2019/q2-2c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi13-jun-2019/q2.png"
     },
     {
       "id": "q3",
@@ -144,7 +251,17 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Keeping both solutions at 40°C ensures they are at the same temperature before mixing so the reaction starts immediately at 40°C. Temperature affects enzyme activity, so using a water bath controls temperature as a constant variable across different pH values. Maintaining 40°C after mixing keeps the enzyme at the optimum/controlled temperature during the reaction so changes in ammonia produced are due to pH, not temperature. It also helps ensure fair comparison between trials and improves reliability.",
-          "keywords": ["temperature", "constant", "enzyme activity", "controlled variable", "fair test", "pH", "water bath", "rate"]
+          "keywords": [
+            "temperature",
+            "constant",
+            "enzyme activity",
+            "controlled variable",
+            "fair test",
+            "pH",
+            "water bath",
+            "rate"
+          ],
+          "image": "/papers/wbi13-jun-2019/q3-3a_i.png"
         },
         {
           "id": "3a_ii",
@@ -152,7 +269,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Carry out preliminary trials using a range of urea and/or urease concentrations. Choose concentrations that give a measurable change in ammonia concentration within the time period (not too small to measure and not so fast that the reaction is complete before 15 minutes). Use the same measurement method and keep temperature constant.",
-          "keywords": ["preliminary", "range", "concentration", "measurable", "not too fast", "ammonia"]
+          "keywords": [
+            "preliminary",
+            "range",
+            "concentration",
+            "measurable",
+            "not too fast",
+            "ammonia"
+          ],
+          "image": "/papers/wbi13-jun-2019/q3-3a_ii.png"
         },
         {
           "id": "3b_i",
@@ -161,7 +286,15 @@
           "type": "short_answer",
           "image": "/papers/wbi13-jun2019/q3b-ph-graph.PNG",
           "answer": "A correct table with headings including units, e.g. pH and concentration of ammonia (a.u.) at 60 minutes. Include the pH values (3.0, 4.0, 6.5, 6.8, 7.3, 8.0, 9.0) and the corresponding plotted values read from the 60-minute line on the graph.",
-          "keywords": ["table", "headings", "units", "pH", "60 minutes", "ammonia", "a.u."]
+          "keywords": [
+            "table",
+            "headings",
+            "units",
+            "pH",
+            "60 minutes",
+            "ammonia",
+            "a.u."
+          ]
         },
         {
           "id": "3b_ii",
@@ -169,7 +302,17 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Rate = change in ammonia concentration ÷ time. From the graph at pH 7.3 after 15 minutes, concentration ≈ 60 a.u. Rate ≈ 60 ÷ 15 = 4.0 a.u. min⁻¹.",
-          "keywords": ["rate", "change", "time", "60", "15", "4.0", "a.u.", "min-1"]
+          "keywords": [
+            "rate",
+            "change",
+            "time",
+            "60",
+            "15",
+            "4.0",
+            "a.u.",
+            "min-1"
+          ],
+          "image": "/papers/wbi13-jun-2019/q3-3b_ii.png"
         },
         {
           "id": "3b_iii",
@@ -177,7 +320,16 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "At both 15 and 60 minutes, ammonia concentration increases with pH up to an optimum around pH 7.3, then decreases at higher pH values. Values at 60 minutes are higher than at 15 minutes at each pH. At both times, very low pH (around 3–4) gives low ammonia, and the highest value occurs at about pH 7.3. The differences between pH values are more pronounced at 60 minutes.",
-          "keywords": ["optimum", "7.3", "higher at 60", "same trend", "increase", "decrease", "pH"]
+          "keywords": [
+            "optimum",
+            "7.3",
+            "higher at 60",
+            "same trend",
+            "increase",
+            "decrease",
+            "pH"
+          ],
+          "image": "/papers/wbi13-jun-2019/q3-3b_iii.png"
         },
         {
           "id": "3c",
@@ -186,9 +338,20 @@
           "type": "short_answer",
           "image": "/papers/wbi13-jun2019/q3c-time-graph.PNG",
           "answer": "Initial rate = gradient at start. Using first interval: (1.8 a.u. − 0) ÷ (5 min − 0) = 0.36 a.u. min⁻¹ (≈ 0.4 a.u. min⁻¹).",
-          "keywords": ["initial rate", "gradient", "0.36", "a.u.", "min-1"]
+          "keywords": [
+            "initial rate",
+            "gradient",
+            "0.36",
+            "a.u.",
+            "min-1"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi13-jun-2019/q3.png"
     }
-  ]
+  ],
+  "paperId": "wbi13-may-2019-unit3-qp",
+  "assets": {
+    "basePath": "/papers/wbi13-may-2019"
+  }
 }

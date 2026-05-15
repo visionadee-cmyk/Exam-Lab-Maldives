@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2025-unit4-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit4-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/42",
+  "session": "February/March 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Calculate the spring constant k of the spring. k = ......................................................... [2] (b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it. State how the graph shows that this statement is true. ...............................................................................................",
+      "text": "1 (a) Calculate the spring constant k of the spring. k = ......................................................... [2] (b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it. State how the graph shows that this statement is true. ...............................................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Calculate the spring constant k of the spring. k = ......................................................... [2] (b) A student states that the spring has not reached the limit of proportionality when a force of 4500 N is applied to it. State how the graph shows that this statement is true. ...............................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "50 000 N / m OR 5.0  10 N / m A2 (k =) F  x OR k is (determined from) the gradient (of the line in Fig. 1.1) C1 • The graph is a straight line (through the origin) • The slope / gradient is constant • The graph / line does not curve B1 any negative number OR indication that force is in opposite direction B1 Question Answer Marks (explanation) momentum is mass  velocity OR the velocity (of B) is zero B1 Conservation of momentum OR momentum after (collision) = momentum before (collision) OR {0.75  0.44} = {0.75 + m}  0.18 C1 momentum before collision = 0.75 × 0.44 (+ m 0 = 0.33) OR momentum after collision = (0.75 + m)  0.18 C1 (F =) ∆p  (∆)t OR (0.75 + 1.1)  0.18  2.6 OR (F =) 0.33  2.6 () 0.750.18 2.6F=+2(b) C1 February/March 2025 Question Answer Marks AND use of F(∆)t = ∆{mv} OR F 1 / (∆)t OR same momentum change required B1 Question Answer Marks Any one from: • it is a good reflector • it reflects radiation C1 • prevents (electric) shock (if live wire touches the metal casing) owtte • if live wire touches the metal casing the current goes to earth B1 R = V / I OR (I=) V/R OR (I=) 230 / 89 C1 P = IV B1 (I =) 5.2 (A) OR (P =) 2  power of one element OR B1 E = Pt OR (E =) Pt OR (E =) 1200  60 C1 efficiency = useful energy out / total energy (in) OR 95 100E  (power output of heater =) 95%  1200 C1 February/March 2025 Question Answer Marks (acceleration is) change in velocity per unit time OR (acceleration is) change in velocity per second B1 200 km = 200 000 m OR  1000 seen B1 division by {60  60} seen OR division by 3600 seen B1 (t =) ∆v / a OR 56 / 0.7(0) C1 310 000 N OR 3.1 1 0 N A2 F = ma OR () 440 000 0.7 0 C1 AND (explanation:) resultant/net force decreases B1 Question Answer Marks Straight line / smooth curve with negative gradient B1 Correct symbol drawn to complete circuit. B1 February/March 2025 Question Answer Marks when RLDR is high VLDR is a bigger proportion of e.m.f. OR when VLDR is high VLDR is a bigger proportion of e.m.f. A2 ",
+          "image": "/papers/physics-0625-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.5  10 m A3 v = 2r/T OR (r =) vT/(2) OR () 3.0 1 0 365 24 60 60 / 2r=      C1 (T =) 365  24  60  60 OR (T =) 31 536 000 OR (r =) 3.0  10  T / (2) OR correct rearrangement of and substitution into formula using candidate’s value of T C1 • minor planets • asteroids OR meteoroids • moons (that orbit planets) • comets • natural satellites B1",
+          "image": "/papers/physics-0625-2025/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit4-2025-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

@@ -1,0 +1,201 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct character in the correct order:     D  one from:  The value becomes incorrect/inaccurate as the right most bits are lost  It is divided by 8 two from:  Easier/quicker to understand/read/write  Easier/quicker to debug  Less likely to make a mistake  Shorter representation // Takes up less screen space",
+          "image": "/papers/computer_science-0478-2023/q2-2a.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for two correct characters, two marks for three correct characters in the correct order:    D 0478/12 May/June 2023 three from:  A character set is used  ... such as Unicode/ASCII  Each character has a unique binary value  It reduces the file size four from:  A compression algorithm is used  ... such as RLE/run length encoding  Repeating words/characters/phrases are identified // Patterns are identified  ... and indexed  ... with number of occurrences  ... with their position two from: e.g.  To save storage space  To make it quicker to transmit  To make it small enough to attach to an email  To reduce the bandwidth needed to transmit Two from:  Data is sent one bit at a time  A single wire is used two from:  Data won’t be skewed  Less chance of interference/crosstalk/corruption/error  Transmission speed is adequate  The data may be transmitted quicker 0478/12 May/June 2023  Route r two from:  A collection of servers  ... that store data in a remote location // that allows data to be accessed remotely  ... that are (normally) accessed using an internet connection one from: e.g.  May be less secure // by example  May lose access to them if internet connection lost/not available  Reliant on a third party maintaining the hardware // by example  Could incur an extra/ongoing fee/cost",
+          "image": "/papers/computer_science-0478-2023/q2-2d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-02.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " C three from:  It translates the (high-level language) to low-level language/object code/machine code  It translates all the code before it is executed  It creates an executable file two from:  It creates an error report after trying to compile  ... displaying all errors in the code  ... that require correction before execution can take place 0478/12 May/June 2023 three from: e.g.  Code editors  Run-time environment  Built-in interpreter  Error diagnostics  Auto-completion  Auto-correction  Prettyprint",
+          "image": "/papers/computer_science-0478-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-05.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Complete the statements about cookies. Use the terms from the list. Some of the terms in the list will not be used. Some terms may be used more than once. compression executable hypertext markup language (HTML) hypertext transfer protocol (HTTP)",
+      "text": "6 (a) Complete the statements about cookies. Use the terms from the list. Some of the terms in the list will not be used. Some terms may be used more than once. compression executable hypertext markup language (HTML) hypertext transfer protocol (HTTP)",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "6 (a) Complete the statements about cookies. Use the terms from the list. Some of the terms in the list will not be used. Some terms may be used more than once. compression executable hypertext markup language (HTML) hypertext transfer protocol (HTTP)",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct term.  Text  Web browser // web server  Web server // web browser  Session  Session  Persistent three from: e.g.  Saving personal details  Storing login details  Tracking user preferences  Holding items in an online shopping cart 0478/12 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-06.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each part of the diagram (MAX six). The diagram demonstrates:  Malware downloaded to several computers  ... turning it into a bot/zombie  ... creating a network of bots/zombies  Third party/hacker initiating the attack  Bots send requests to a web server at the same time  The web server fails due to the requests  Legitimate requests cannot reach the web server BOT BOT BOT Botnet Malware downloaded to computers turning them into bots Web server Computer Third party Initiates attack Re q uests web server fails due to too many requests Cannot connect to web server X 0478/12 May/June 2023 two from: e.g.  Revenge  To affect a company’s reputation  Entertainment value  To demand a ransom to stop it  To test a system’s resilience two from:  Proxy server  Firewall  Users scanning their computers with anti-malware",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " C",
+          "image": "/papers/computer_science-0478-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks from: Any FOUR from:  It is denary based  ... with numbers between 0 and 255  It is 32 bits  4 sets/groups of numbers  ... separated by dots Any TWO from:  It is a unique address  It can be static or dynamic  It can be public or private  It contains the network prefix  ... and the host numbe r 0478/12 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-08.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from:  Rule base  Knowledge base  Interface two from:  It makes decisions  ... by applying the rules/logic to the facts/knowledge ...  ... to provide a result/diagnosis",
+          "image": "/papers/computer_science-0478-2023/q9-9a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-09.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from:  System software provides services that the computer requires  ... whereas application software provides services that the user requires One from (system software):  Utility software // by example e.g. defragmentation software, antivirus, firewall  Operating system One from (application software):  A ny suitable example of an application e.g. word processor, web browser, video-editing software",
+          "image": "/papers/computer_science-0478-2023/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Secondary storage // HDD // SSD",
+          "image": "/papers/computer_science-0478-2023/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/page-10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2023/page-01.png",
+      "/papers/computer_science-0478-2023/page-02.png",
+      "/papers/computer_science-0478-2023/page-03.png",
+      "/papers/computer_science-0478-2023/page-04.png",
+      "/papers/computer_science-0478-2023/page-05.png",
+      "/papers/computer_science-0478-2023/page-06.png",
+      "/papers/computer_science-0478-2023/page-07.png",
+      "/papers/computer_science-0478-2023/page-08.png",
+      "/papers/computer_science-0478-2023/page-09.png",
+      "/papers/computer_science-0478-2023/page-10.png",
+      "/papers/computer_science-0478-2023/page-11.png",
+      "/papers/computer_science-0478-2023/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

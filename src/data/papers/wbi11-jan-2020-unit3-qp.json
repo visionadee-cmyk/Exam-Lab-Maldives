@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-jan-2020-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2020-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "January 2020",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that includes two of the following points: • there is a correlation (between vitamin C in the diet and CVD) (1) • effect of vitamin C on an aspect of CVD ACCEPT idea of correlation describe and in either direction. E.g. If vit C is high risk of CVD is low/high e.g. affects plaque formation/LDLs/ cholesterol / damage to endothelium/ atherosclerosis (2) Number Answer Additional Guidance Mark An explanation that includes the following points: • colour change from blue to colourless (1) • because DCPIP is reduced (1) ACCEPT DCPIP gains electrons or gains hydrogen (2) Number Answer Additional Guidance Mark A calculation showing the following steps: • equivalence of DCPIP calculated (1) • concentration of vitamin C calculated and quoted to 1 d.p. (1) • = 1.5 x 10 OR 15 OR ÷26.1 • 15 ÷ 26.1 = 0.6 (mg cm -3 ) Correct answer with no working shown gains both marks (2) Number Answer Additional Guidance Mark A calculation showing the following steps. • correct figures from table manipulated appropriately (1) • percentage calculated and quoted to maximum of 2 d.p (1) • 0.4 ÷ 9.4 • × 100 = 4.26 / 4.3 (%) Correct answer with no working shown gains both marks (2) Number Answer Additional Guidance Mark A graph showing the following features: • axes correctly labelled with units (1) • both standard deviations (SDs) correctly plotted (1) each juice named x 6 and mean concentration of vitamin C (in fruit juice) / mg cm -3 (2) Number Answer Additional Guidance Mark An answer that includes the following. • carton juice has less vitamin C (in all cases) (1) • biggest difference is with lime juice / smallest difference is with orange juice (1) • carton juice content is less variable than fresh / SD of carton juice is smaller than SD of fresh juice (1) • the difference between fresh juice and carton juice is significant / standard deviation of fresh juice and carton juice do not overlap (1) ACCEPT converse ACCEPT converse (3) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A description that includes the following points. • how fibre fixed (1) • how force applied (1) • one variable which should remain constant stated (1) • replicate (the experiment/measurements) (1) • (and) calculate the mean/SD (1) ‘attached to a retort stand / hanging from a clamp’ e.g. gradual addition of masses / increase tension of a newton metre gradually e.g. Relative humidity / temperature / length of fibre (4) Number Answer Additional Guidance Mark An answer that includes the following points: • a (transverse) section/layer/slice of the fibre is cut (1) • ensure section is flat (1) • graticule calibrated (with stage micrometer) (1) • diameter measured/found • and converted to measurement with calibration data (1) • area calculated using πr (1) ACCEPT place on slide with a coverslip ACCEPT a description (5) Number Answer Additional Guidance Mark A drawing showing: • suitable table (1) • headings identified as tensile strength with units (MPa) and species (1) • data correctly entered (1) Fibre Tensile Strength / MPa Curaua 540 Jute 250 Coir 90 Piasava 130 Sisal 490 (3) Number Answer Additional Guidance Mark A calculation showing the following steps: • tensile strength for jute read from the graph (1) • substituted into the formula (1) • formula rearranged and cross sectional area calculated (1) 250 = 1.08 ÷ area Area =1.08 ÷ 250 area = 0.0043/0.00432/0.004/4.32 x 10 -3 (mm ) Correct answer with no working shown gains three marks (3) Number Answer Additional Guidance Mark • concentration of detergent (1) Number Answer Additional Guidance Mark An answer that includes two of following: • temperature (1) • pH (1) • volume of detergent solution (1) (2) Number Answer Additional Guidance Mark temperature: • thermostatically controlled water bath / incubator/ac room/environmental chamber (1) volume of detergent solution: • appropriate measuring device (1) pH: • use of buffer (1) ACCEPT answers from 3(a)(ii) (1) Number Answer Additional Guidance Mark An explanation that",
+          "image": "/papers/wbi11-jan-2020/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2020-unit3-2020-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

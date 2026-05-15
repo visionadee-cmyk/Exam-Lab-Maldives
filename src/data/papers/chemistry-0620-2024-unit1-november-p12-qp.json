@@ -1,0 +1,673 @@
+{
+  "paperId": "chemistry-0620-2024-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit1-november-p12-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/12",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows some information about the three states of matter. particle separation particle arrangement type of motion 1 touching with some particles having spaces between them random slide past each other at low speed 2 particles are far apart random rapid motion in straight lines 3 touching with very little space between the particles regular vibration only Which row is correct? 1   2   3 A gas liquid solid, B liquid solid gas, C liquid gas solid, D solid gas liquid",
+      "text": "The table shows some information about the three states of matter. particle separation particle arrangement type of motion 1 touching with some particles having spaces between them random slide past each other at low speed 2 particles are far apart random rapid motion in straight lines 3 touching with very little space between the particles regular vibration only Which row is correct? 1   2   3 A gas liquid solid, B liquid solid gas, C liquid gas solid, D solid gas liquid",
+      "options": [
+        "A gas liquid solid",
+        "B liquid solid gas",
+        "C liquid gas solid",
+        "D solid gas liquid"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which arrow represents evaporation? solid A C liquid B D gas",
+      "text": "Which arrow represents evaporation? solid A C liquid B D gas",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In which states of matter does diffusion occur readily? A gases and liquids, B gases only, C liquids and solids, D solids only 3",
+      "text": "In which states of matter does diffusion occur readily? A gases and liquids, B gases only, C liquids and solids, D solids only 3",
+      "options": [
+        "A gases and liquids",
+        "B gases only",
+        "C liquids and solids",
+        "D solids only 3"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the boxes P, Q and R is correct? PQR A Box P contains two compounds, and box R contains two elements., B Box P contains two elements, and box Q contains a mixture., C Box P contains two elements, and box Q contains one compound., D Box Q contains two compounds, and box R contains a mixture.",
+      "text": "Which statement about the boxes P, Q and R is correct? PQR A Box P contains two compounds, and box R contains two elements., B Box P contains two elements, and box Q contains a mixture., C Box P contains two elements, and box Q contains one compound., D Box Q contains two compounds, and box R contains a mixture.",
+      "options": [
+        "A Box P contains two compounds, and box R contains two elements.",
+        "B Box P contains two elements, and box Q contains a mixture.",
+        "C Box P contains two elements, and box Q contains one compound.",
+        "D Box Q contains two compounds, and box R contains a mixture."
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which information about an element is given by its atomic number? A the number of protons in the nucleus of an atom of an element, B the number of particles in the nucleus of an atom of an element, C the relative mass of one atom of an element, D the total number of particles in one atom of an element",
+      "text": "Which information about an element is given by its atomic number? A the number of protons in the nucleus of an atom of an element, B the number of particles in the nucleus of an atom of an element, C the relative mass of one atom of an element, D the total number of particles in one atom of an element",
+      "options": [
+        "A the number of protons in the nucleus of an atom of an element",
+        "B the number of particles in the nucleus of an atom of an element",
+        "C the relative mass of one atom of an element",
+        "D the total number of particles in one atom of an element"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The symbols represent four atoms. The letters used are not the usual atomic symbols. W 40 20 X 40 19 Y 46 20 Z 46 22 Which atoms are isotopes of the same element? A W and X B W and Y C  X and Y D   Y and Z",
+      "text": "The symbols represent four atoms. The letters used are not the usual atomic symbols. W 40 20 X 40 19 Y 46 20 Z 46 22 Which atoms are isotopes of the same element? A W and X B W and Y C  X and Y D   Y and Z",
+      "options": [
+        "A W and X B W and Y C  X and Y D   Y and Z"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Covalent bonds are formed when electrons are ......1...... . Most covalent compounds have ......2...... electrical conductivity. Which words correctly complete gaps 1 and 2? 1   2 A shared high, B shared low, C transferred high, D transferred low 4",
+      "text": "Covalent bonds are formed when electrons are ......1...... . Most covalent compounds have ......2...... electrical conductivity. Which words correctly complete gaps 1 and 2? 1   2 A shared high, B shared low, C transferred high, D transferred low 4",
+      "options": [
+        "A shared high",
+        "B shared low",
+        "C transferred high",
+        "D transferred low 4"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the structure and a use of diamond? structure use A ionic in cutting tools, B ionic as a lubricant, C giant covalent in cutting tools, D giant covalent as a lubricant",
+      "text": "Which row describes the structure and a use of diamond? structure use A ionic in cutting tools, B ionic as a lubricant, C giant covalent in cutting tools, D giant covalent as a lubricant",
+      "options": [
+        "A ionic in cutting tools",
+        "B ionic as a lubricant",
+        "C giant covalent in cutting tools",
+        "D giant covalent as a lubricant"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which symbol equation represents the reaction between aqueous sodium hydroxide and dilute sulfuric acid? A Na 2 OH  +  H 2 SO 4   2NaSO 4 +  H 2 O, B Na(OH) 2 +  H 2 SO 4   Na 2 SO 4 +  2H 2 O, C 2NaOH  +  H 2 SO 4   2NaSO 4 +  2H 2 O, D 2NaOH  +  H 2 SO 4   Na 2 SO 4 +  2H 2 O",
+      "text": "Which symbol equation represents the reaction between aqueous sodium hydroxide and dilute sulfuric acid? A Na 2 OH  +  H 2 SO 4   2NaSO 4 +  H 2 O, B Na(OH) 2 +  H 2 SO 4   Na 2 SO 4 +  2H 2 O, C 2NaOH  +  H 2 SO 4   2NaSO 4 +  2H 2 O, D 2NaOH  +  H 2 SO 4   Na 2 SO 4 +  2H 2 O",
+      "options": [
+        "A Na 2 OH  +  H 2 SO 4   2NaSO 4 +  H 2 O",
+        "B Na(OH) 2 +  H 2 SO 4   Na 2 SO 4 +  2H 2 O",
+        "C 2NaOH  +  H 2 SO 4   2NaSO 4 +  2H 2 O",
+        "D 2NaOH  +  H 2 SO 4   Na 2 SO 4 +  2H 2 O"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the relative formula mass of magnesium bromide? A 47 B  82 C  104 D  184",
+      "text": "What is the relative formula mass of magnesium bromide? A 47 B  82 C  104 D  184",
+      "options": [
+        "A 47 B  82 C  104 D  184"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three substances are listed. 1   solid copper 2   aqueous sodium bromide 3   solid lead( II) bromide Which substances conduct electricity? A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "text": "Three substances are listed. 1   solid copper 2   aqueous sodium bromide 3   solid lead( II) bromide Which substances conduct electricity? A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B  1 and 2 only C  1 and 3 only D  2 and 3 only"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Hydrogen–oxygen fuel cells can be used to power cars. Which processes produce the fuel of a hydrogen–oxygen fuel cell? 1   the cracking of hydrocarbons 2   the electrolysis of dilute sulfuric acid 3   photosynthesis 4   the electrolysis of molten aluminium oxide A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 5",
+      "text": "Hydrogen–oxygen fuel cells can be used to power cars. Which processes produce the fuel of a hydrogen–oxygen fuel cell? 1   the cracking of hydrocarbons 2   the electrolysis of dilute sulfuric acid 3   photosynthesis 4   the electrolysis of molten aluminium oxide A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 5",
+      "options": [
+        "A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 5"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Molten sodium sulfide, Na 2 S, is electrolysed using inert electrodes. Which row identifies the product at each electrode? cathode anode A sodium sulfur, B sulfur sodium, C hydrogen sulfur, D sodium     hydrogen",
+      "text": "Molten sodium sulfide, Na 2 S, is electrolysed using inert electrodes. Which row identifies the product at each electrode? cathode anode A sodium sulfur, B sulfur sodium, C hydrogen sulfur, D sodium     hydrogen",
+      "options": [
+        "A sodium sulfur",
+        "B sulfur sodium",
+        "C hydrogen sulfur",
+        "D sodium     hydrogen"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The temperature of the water in two beakers, X and Y, is measured as 21.5 C. 5 g of sodium chloride is dissolved in the water in beaker X. The temperature changes to 18.0 C. 5 g of calcium oxide is dissolved in the water in beaker Y. The temperature changes to 29.4 C. Which types of process are occurring in beakers X and Y? X    Y A endothermic   endothermic, B endothermic    exothermic, C exothermic    endothermic, D exothermic    exothermic",
+      "text": "The temperature of the water in two beakers, X and Y, is measured as 21.5 C. 5 g of sodium chloride is dissolved in the water in beaker X. The temperature changes to 18.0 C. 5 g of calcium oxide is dissolved in the water in beaker Y. The temperature changes to 29.4 C. Which types of process are occurring in beakers X and Y? X    Y A endothermic   endothermic, B endothermic    exothermic, C exothermic    endothermic, D exothermic    exothermic",
+      "options": [
+        "A endothermic   endothermic",
+        "B endothermic    exothermic",
+        "C exothermic    endothermic",
+        "D exothermic    exothermic"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which process involves a chemical change? A adding sodium chloride to water, B adding magnesium to hydrochloric acid, C heating solid iodine until it turns into a gas, D melting lead",
+      "text": "Which process involves a chemical change? A adding sodium chloride to water, B adding magnesium to hydrochloric acid, C heating solid iodine until it turns into a gas, D melting lead",
+      "options": [
+        "A adding sodium chloride to water",
+        "B adding magnesium to hydrochloric acid",
+        "C heating solid iodine until it turns into a gas",
+        "D melting lead"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which two pieces of apparatus are most useful to measure the rate of a reaction in which a gas is given off? A accurate balance and gas syringe, B accurate balance and thermometer, C gas syringe and stop-watch, D stop-watch and thermometer 6",
+      "text": "Which two pieces of apparatus are most useful to measure the rate of a reaction in which a gas is given off? A accurate balance and gas syringe, B accurate balance and thermometer, C gas syringe and stop-watch, D stop-watch and thermometer 6",
+      "options": [
+        "A accurate balance and gas syringe",
+        "B accurate balance and thermometer",
+        "C gas syringe and stop-watch",
+        "D stop-watch and thermometer 6"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Reaction 1 and reaction 2 both produce a gas. The total volume of gas produced in each reaction is measured every minute for 10 minutes. A graph of the results is shown. 100 90 80 70 60 50 40 30 20 10 0 total volume of gas / cm 3 012345678910 time / min 1 2 Which row describes how the rate of reaction changes, if at all, during each reaction? reaction 1 reaction 2, A the rate is constant the rate decreases after 2 minutes, B the rate increases the rate increases, C the rate increases the rate decreases after 2 minutes, D the rate is constant the rate increases",
+      "text": "Reaction 1 and reaction 2 both produce a gas. The total volume of gas produced in each reaction is measured every minute for 10 minutes. A graph of the results is shown. 100 90 80 70 60 50 40 30 20 10 0 total volume of gas / cm 3 012345678910 time / min 1 2 Which row describes how the rate of reaction changes, if at all, during each reaction? reaction 1 reaction 2, A the rate is constant the rate decreases after 2 minutes, B the rate increases the rate increases, C the rate increases the rate decreases after 2 minutes, D the rate is constant the rate increases",
+      "options": [
+        "A graph of the results is shown. 100 90 80 70 60 50 40 30 20 10 0 total volume of gas / cm 3 012345678910 time / min 1 2 Which row describes how the rate of reaction changes, if at all, during each reaction? reaction 1 reaction 2",
+        "A the rate is constant the rate decreases after 2 minutes",
+        "B the rate increases the rate increases",
+        "C the rate increases the rate decreases after 2 minutes",
+        "D the rate is constant the rate increases"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When a few drops of water are added to a solid, E, the colour changes from blue to pink. What is E? A anhydrous cobalt( II) chloride, B anhydrous copper( II) sulfate, C hydrated cobalt( II) chloride, D hydrated copper( II) sulfate 7",
+      "text": "When a few drops of water are added to a solid, E, the colour changes from blue to pink. What is E? A anhydrous cobalt( II) chloride, B anhydrous copper( II) sulfate, C hydrated cobalt( II) chloride, D hydrated copper( II) sulfate 7",
+      "options": [
+        "A anhydrous cobalt( II) chloride",
+        "B anhydrous copper( II) sulfate",
+        "C hydrated cobalt( II) chloride",
+        "D hydrated copper( II) sulfate 7"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the reaction of magnesium with copper(II) oxide is shown. Mg  +  CuO    MgO  +  Cu Which word describes this reaction? A combustion, B decomposition, C neutralisation, D redox",
+      "text": "The equation for the reaction of magnesium with copper(II) oxide is shown. Mg  +  CuO    MgO  +  Cu Which word describes this reaction? A combustion, B decomposition, C neutralisation, D redox",
+      "options": [
+        "A combustion",
+        "B decomposition",
+        "C neutralisation",
+        "D redox"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Compound M contains calcium. Two reactions of M are listed. ●  M reacts with dilute hydrochloric acid to form a salt and water only. ●  M reacts with aqueous ammonium chloride to form a gas that turns damp red litmus paper blue. What is M? A CaOH B Ca(OH) 2, C CaCO 3, D Ca(CO 3 ) 2",
+      "text": "Compound M contains calcium. Two reactions of M are listed. ●  M reacts with dilute hydrochloric acid to form a salt and water only. ●  M reacts with aqueous ammonium chloride to form a gas that turns damp red litmus paper blue. What is M? A CaOH B Ca(OH) 2, C CaCO 3, D Ca(CO 3 ) 2",
+      "options": [
+        "A CaOH B Ca(OH) 2",
+        "C CaCO 3",
+        "D Ca(CO 3 ) 2"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows one period of the Periodic Table. Li    Be    B    C    N    O    F    Ne Which two elements form acidic oxides? A beryllium and lithium, B carbon and neon, C carbon and nitrogen, D nitrogen and neon",
+      "text": "The diagram shows one period of the Periodic Table. Li    Be    B    C    N    O    F    Ne Which two elements form acidic oxides? A beryllium and lithium, B carbon and neon, C carbon and nitrogen, D nitrogen and neon",
+      "options": [
+        "A beryllium and lithium",
+        "B carbon and neon",
+        "C carbon and nitrogen",
+        "D nitrogen and neon"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student tests four solutions with universal indicator. Which colour identifies the solution containing the greatest concentration of OH – ions? A red, B yellow, C green, D blue 8",
+      "text": "A student tests four solutions with universal indicator. Which colour identifies the solution containing the greatest concentration of OH – ions? A red, B yellow, C green, D blue 8",
+      "options": [
+        "A red",
+        "B yellow",
+        "C green",
+        "D blue 8"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The following steps are done to prepare solid magnesium sulfate. 1   filtration 2   measurement of 20 cm 3 of dilute sulfuric acid using a measuring cylinder 3   evaporation 4   addition of an excess of solid magnesium carbonate to dilute sulfuric acid What is the correct order for these steps? A 2  4  3  1, B 2  4  1  3, C 4  2  1  3, D 4  2  3  1",
+      "text": "The following steps are done to prepare solid magnesium sulfate. 1   filtration 2   measurement of 20 cm 3 of dilute sulfuric acid using a measuring cylinder 3   evaporation 4   addition of an excess of solid magnesium carbonate to dilute sulfuric acid What is the correct order for these steps? A 2  4  3  1, B 2  4  1  3, C 4  2  1  3, D 4  2  3  1",
+      "options": [
+        "A 2  4  3  1",
+        "B 2  4  1  3",
+        "C 4  2  1  3",
+        "D 4  2  3  1"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the Periodic Table is correct? A All the metals in the Periodic Table are transition elements., B The halogens are elements in Group I of the Periodic Table., C The elements become more metallic across a period from Group I to Group VII., D The Periodic Table can be used to predict the properties of the elements.",
+      "text": "Which statement about the Periodic Table is correct? A All the metals in the Periodic Table are transition elements., B The halogens are elements in Group I of the Periodic Table., C The elements become more metallic across a period from Group I to Group VII., D The Periodic Table can be used to predict the properties of the elements.",
+      "options": [
+        "A All the metals in the Periodic Table are transition elements.",
+        "B The halogens are elements in Group I of the Periodic Table.",
+        "C The elements become more metallic across a period from Group I to Group VII.",
+        "D The Periodic Table can be used to predict the properties of the elements."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Zinc is formed when zinc oxide is heated with carbon. zinc oxide + carbon  zinc + carbon monoxide Which substance is oxidised in this reaction? A carbon, B carbon monoxide, C zinc, D zinc oxide",
+      "text": "Zinc is formed when zinc oxide is heated with carbon. zinc oxide + carbon  zinc + carbon monoxide Which substance is oxidised in this reaction? A carbon, B carbon monoxide, C zinc, D zinc oxide",
+      "options": [
+        "A carbon",
+        "B carbon monoxide",
+        "C zinc",
+        "D zinc oxide"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which word equation represents the rusting of iron? A iron + oxygen + water  anhydrous iron( II) hydroxide, B iron + oxygen  hydrated iron( II) oxide, C iron + oxygen + water  anhydrous iron( III) hydroxide, D iron + oxygen + water  hydrated iron( III) oxide 9",
+      "text": "Which word equation represents the rusting of iron? A iron + oxygen + water  anhydrous iron( II) hydroxide, B iron + oxygen  hydrated iron( II) oxide, C iron + oxygen + water  anhydrous iron( III) hydroxide, D iron + oxygen + water  hydrated iron( III) oxide 9",
+      "options": [
+        "A iron + oxygen + water  anhydrous iron( II) hydroxide",
+        "B iron + oxygen  hydrated iron( II) oxide",
+        "C iron + oxygen + water  anhydrous iron( III) hydroxide",
+        "D iron + oxygen + water  hydrated iron( III) oxide 9"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which option describes the electronic configurations of three different elements from the same group of the Periodic Table? A 2    2,2   2,8,8,2, B 2    2,8   2,8,2, C 2,1  2,8,1  2,8,8,1, D 2,1  2,2   2,3",
+      "text": "Which option describes the electronic configurations of three different elements from the same group of the Periodic Table? A 2    2,2   2,8,8,2, B 2    2,8   2,8,2, C 2,1  2,8,1  2,8,8,1, D 2,1  2,2   2,3",
+      "options": [
+        "A 2    2,2   2,8,8,2",
+        "B 2    2,8   2,8,2",
+        "C 2,1  2,8,1  2,8,8,1",
+        "D 2,1  2,2   2,3"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which metal forms compounds that can be used to colour glass? A aluminium, B calcium, C chromium, D sodium",
+      "text": "Which metal forms compounds that can be used to colour glass? A aluminium, B calcium, C chromium, D sodium",
+      "options": [
+        "A aluminium",
+        "B calcium",
+        "C chromium",
+        "D sodium"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two properties of element R are listed. ●  It is a dark solid at room temperature. ●  It is a diatomic molecule. Where on the Periodic Table is R placed? A Group I, B Group VII, C Group VIII, D transition elements 10",
+      "text": "Two properties of element R are listed. ●  It is a dark solid at room temperature. ●  It is a diatomic molecule. Where on the Periodic Table is R placed? A Group I, B Group VII, C Group VIII, D transition elements 10",
+      "options": [
+        "A Group I",
+        "B Group VII",
+        "C Group VIII",
+        "D transition elements 10"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four metals, W, X, Y and Z, are tested with either cold water, steam or both. The observations are shown. metal observations W reacts slowly with cold water X reacts rapidly with cold water Y    does not react with cold water but reacts with steam Z does not react with cold water or steam What is the order of reactivity of the metals from the least reactive to the most reactive? least reactive most reactive A W X Y Z, B W Y X Z, C Z Y X W, D Z Y W X",
+      "text": "Four metals, W, X, Y and Z, are tested with either cold water, steam or both. The observations are shown. metal observations W reacts slowly with cold water X reacts rapidly with cold water Y    does not react with cold water but reacts with steam Z does not react with cold water or steam What is the order of reactivity of the metals from the least reactive to the most reactive? least reactive most reactive A W X Y Z, B W Y X Z, C Z Y X W, D Z Y W X",
+      "options": [
+        "A W X Y Z",
+        "B W Y X Z",
+        "C Z Y X W",
+        "D Z Y W X"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the displacement reactions of the halogens is correct? A Iodine displaces bromine from aqueous sodium bromide., B Bromine displaces chlorine from aqueous potassium chloride., C Iodine displaces chlorine from aqueous potassium chloride., D Chlorine displaces bromine from aqueous sodium bromide.",
+      "text": "Which statement about the displacement reactions of the halogens is correct? A Iodine displaces bromine from aqueous sodium bromide., B Bromine displaces chlorine from aqueous potassium chloride., C Iodine displaces chlorine from aqueous potassium chloride., D Chlorine displaces bromine from aqueous sodium bromide.",
+      "options": [
+        "A Iodine displaces bromine from aqueous sodium bromide.",
+        "B Bromine displaces chlorine from aqueous potassium chloride.",
+        "C Iodine displaces chlorine from aqueous potassium chloride.",
+        "D Chlorine displaces bromine from aqueous sodium bromide."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substances in water from natural sources are beneficial to aquatic animals? 1   metal compounds 2   plastics 3   phosphates 4   dissolved oxygen A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 11",
+      "text": "Which substances in water from natural sources are beneficial to aquatic animals? 1   metal compounds 2   plastics 3   phosphates 4   dissolved oxygen A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 11",
+      "options": [
+        "A 1 and 2 B  1 and 4 C  2 and 3 D  3 and 4 11"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What are the products formed when glucose is fermented? A ethanol and carbon dioxide, B ethanol and oxygen, C ethene and carbon dioxide, D ethene and oxygen",
+      "text": "What are the products formed when glucose is fermented? A ethanol and carbon dioxide, B ethanol and oxygen, C ethene and carbon dioxide, D ethene and oxygen",
+      "options": [
+        "A ethanol and carbon dioxide",
+        "B ethanol and oxygen",
+        "C ethene and carbon dioxide",
+        "D ethene and oxygen"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which structure represents a molecule of ethanol? HC A H H C H H HC B C H H O O H H HC C H H C H H OHHC D H H C H",
+      "text": "Which structure represents a molecule of ethanol? HC A H H C H H HC B C H H O O H H HC C H H C H H OHHC D H H C H",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement describes a homologous series? A a family of elements in the same group of the Periodic Table, B a family of elements with similar chemical properties, C a family of compounds with the same functional group, D a family of compounds with similar physical properties",
+      "text": "Which statement describes a homologous series? A a family of elements in the same group of the Periodic Table, B a family of elements with similar chemical properties, C a family of compounds with the same functional group, D a family of compounds with similar physical properties",
+      "options": [
+        "A a family of elements in the same group of the Periodic Table",
+        "B a family of elements with similar chemical properties",
+        "C a family of compounds with the same functional group",
+        "D a family of compounds with similar physical properties"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What are the properties of aqueous ethanoic acid? decolourises aqueous bromine reacts with calcium carbonate to make carbon dioxide turns damp red litmus paper blue A \u0016 \u0016 \u001a, B \u0016 \u001a \u0016, C \u001a \u0016 \u001a, D \u001a \u001a \u0016 12",
+      "text": "What are the properties of aqueous ethanoic acid? decolourises aqueous bromine reacts with calcium carbonate to make carbon dioxide turns damp red litmus paper blue A \u0016 \u0016 \u001a, B \u0016 \u001a \u0016, C \u001a \u0016 \u001a, D \u001a \u001a \u0016 12",
+      "options": [
+        "A \u0016 \u0016 \u001a",
+        "B \u0016 \u001a \u0016",
+        "C \u001a \u0016 \u001a",
+        "D \u001a \u001a \u0016 12"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four different organic compounds are separated by a fractionating column. The table shows the boiling points of the compounds. The diagram shows the position in the fractionating column where they are separated. compound boiling point / C Q 69 R 196 S 90 T 125 fraction 1 fraction 2 fraction 3 fraction 4 mixture of organic compounds Which row identifies the compound in each fraction? fraction 1   fraction 2   fraction 3   fraction 4 A Q S T R, B Q T S R, C R T S Q, D R S T Q",
+      "text": "Four different organic compounds are separated by a fractionating column. The table shows the boiling points of the compounds. The diagram shows the position in the fractionating column where they are separated. compound boiling point / C Q 69 R 196 S 90 T 125 fraction 1 fraction 2 fraction 3 fraction 4 mixture of organic compounds Which row identifies the compound in each fraction? fraction 1   fraction 2   fraction 3   fraction 4 A Q S T R, B Q T S R, C R T S Q, D R S T Q",
+      "options": [
+        "A Q S T R",
+        "B Q T S R",
+        "C R T S Q",
+        "D R S T Q"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which piece of apparatus is used to measure exactly 21.50 cm 3 of dilute sulfuric acid? A beaker, B burette, C measuring cylinder, D volumetric pipette 13",
+      "text": "Which piece of apparatus is used to measure exactly 21.50 cm 3 of dilute sulfuric acid? A beaker, B burette, C measuring cylinder, D volumetric pipette 13",
+      "options": [
+        "A beaker",
+        "B burette",
+        "C measuring cylinder",
+        "D volumetric pipette 13"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row shows an advantage and a disadvantage for the stated apparatus used in a titration? apparatus advantage disadvantage A 25 cm 3 volumetric pipette measures volume accurately can only be used to measure 25 cm 3 of solution B 50 cm 3 burette measures volume accurately can only be used to measure 50 cm 3 of solution C 100 cm 3 beaker suitable for filling burette can only be used to fill a 100 cm 3 burette D 250 cm 3 conical flask allows solutions to be mixed without spilling not suitable for holding volumes less than 250 cm 3",
+      "text": "Which row shows an advantage and a disadvantage for the stated apparatus used in a titration? apparatus advantage disadvantage A 25 cm 3 volumetric pipette measures volume accurately can only be used to measure 25 cm 3 of solution B 50 cm 3 burette measures volume accurately can only be used to measure 50 cm 3 of solution C 100 cm 3 beaker suitable for filling burette can only be used to fill a 100 cm 3 burette D 250 cm 3 conical flask allows solutions to be mixed without spilling not suitable for holding volumes less than 250 cm 3",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Sample M contains calcium carbonate and sodium nitrate. The result of adding water to M, stirring and filtering is shown. No chemical reaction occurs. calcium carbonate aqueous sodium nitrate Which terms describe M, calcium carbonate and aqueous sodium nitrate? sample M calcium carbonate aqueous sodium nitrate A compound filtrate residue, B compound residue filtrate, C mixture filtrate residue, D mixture residue filtrate 14 15 Permission to reproduce items  where third-party  owned material protected by copyright is included has been sought and cleared where  possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "text": "Sample M contains calcium carbonate and sodium nitrate. The result of adding water to M, stirring and filtering is shown. No chemical reaction occurs. calcium carbonate aqueous sodium nitrate Which terms describe M, calcium carbonate and aqueous sodium nitrate? sample M calcium carbonate aqueous sodium nitrate A compound filtrate residue, B compound residue filtrate, C mixture filtrate residue, D mixture residue filtrate 14 15 Permission to reproduce items  where third-party  owned material protected by copyright is included has been sought and cleared where  possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "options": [
+        "A compound filtrate residue",
+        "B compound residue filtrate",
+        "C mixture filtrate residue",
+        "D mixture residue filtrate 14 15 Permission to reproduce items  where third-party  owned material protected by copyright is included has been sought and cleared where  possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit1-2024-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

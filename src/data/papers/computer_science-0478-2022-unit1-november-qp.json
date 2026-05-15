@@ -1,0 +1,51 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Low-level language",
+          "image": "/papers/computer_science-0478-2022/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Assembler • He can directly access the hardware • He can use special machine-dependent instructions • There is no need for the program to be portable • Smaller file size // takes up less storage space • More efficient use of memory • Programs will be more time efficient when running • Programs are not portable • It is complex to learn • Difficult to debug October/November 2022 Question Answer Marks • Background colour • Font colour • Font size • Font style • Placement of text • Placement of image • Web browser sends request to web server • ... to view the digital certificate • Web server sends the digital certificate to the web browser • Web browser checks the certificate for authenticity • If certificate is authentic a secure connection is created • Any data sent is encrypted • If certificate is not authentic the connection is rejected • Uses a protocol such as SSL/TLS October/November 2022 Question Answer Marks • A (small) text files • ... that is stored by the browser • ... sent between web server and browser when user visits the website Any two from e.g.: • To track users browsing habits • To store personal details • To tailor web page to user's presentation requirements • To store items in a virtual shopping cart • To tailor adverts to a user • Proxy server Any three from: • It examines the incoming traffic to server • It limits the number of requests to the website • ... preventing too many requests that could overwhelm the server • Block multiple requests from the same IP within a timeframe",
+          "image": "/papers/computer_science-0478-2022/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

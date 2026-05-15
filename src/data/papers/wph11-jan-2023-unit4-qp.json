@@ -1,0 +1,71 @@
+{
+  "paperId": "wph11-jan-2023-unit4-qp",
+  "pairedMarkSchemeId": "wph11-jan-2023-unit4-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH14/01",
+  "session": "January 2023",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Charge of particles shown: –1, –1, 0, 0 Lepton number of particles shown: 1, 1 ,1, –1 Charge conserved and lepton number conserved, so possible Or But muon lepton number: 1 does not = –1, not obeyed, so not possible Or But electron lepton number: 0 does not = 1+1, not obeyed, so not possible (1) (1) (1) Total for question 11 4 Number Answer Mark Increasing spacing with increasing distance from centre (at least 3) (1) (1)",
+          "image": "/papers/wph11-jan-2023/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐹= ொ భ ொ మ ସ஠ఌ బ ௥ మ (accept use of 퐹= ௞ ொ భ ொ మ ௥ మ ) F = 1.8 × 10 −4 N Example of calculation 퐹 = − 4.5 × 10 ିଽ C×7.0 × 10 ିଽ C 4π× 8.85 × 10 ିଵ F m ିଵ ×(0.040 m) ଶ F = ( −) 1.77 × 10 −4 N (1) (1)",
+          "image": "/papers/wph11-jan-2023/q12-12b.png"
+        },
+        {
+          "id": "12c",
+          "text": "Part 12c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉= ொ ସ஠ఌ బ ௥ (accept use of 푉= ௞ொ ௥ ) and 푉= ௐ ொ Subtract W at 9.0 cm from W at 4.0 cm Or Subtract V at 9.0 cm from V at 4.0 cm Work done = 3.9 × 10 −6 J Example of calculation 푊 = − 4.5 × 10 ିଽ C×7.0 × 10 ିଽ C 4π× 8.85 × 10 ିଵଶ F m ିଵ × 0.040 m − 4.5 nC×7.0 nC 4π× 8.85 × 10 ିଵଶ F m ିଵ × 0.09 m = − 3.15 × 10 −6 J − − 7.08 × 10 −6 J Work done = 3.93 × 10 −6 J (1) (1) (1) Total for question 12 7 . X Number Answer Mark Use of suitable trigonometry to calculate lift Use of suitable trigonometry to calculate resultant force Use of F = mv /r r = 820 (m) (at least 2 s.f.) [Accept 760 (m) if v = 52 m s −1 used] Example of calculation W = 1200 kg × 9.81 N kg −1 = 11772 N L = W / cos 휃 = 11772 N / cos 20° = 12527 N L h = L sin 휃 = 12527 N × sin 20° = 4285 N 4285 N = mv /r = 1200 kg (54 m s −1 ) / r r = 816 m [ r = 757 m if v = 52 m s −1 used] (1) (1) (1) (1) (1) Or Use of v = r and  = 2π/T t = 24 s (ecf from a(i)) [Accept correctly calculated values using value of r calculated in (i) with either v = 52 m s −1 or v = 54 m s −1 ] Example of calculation t = (2π × 816 m / 4)/ 54m s −1 t = 23.8 s (1) (1) Resultant upwards force Or lift is greater than weight Or vertical component of lift is now greater than weight Aeroplane will accelerate upwards (1) (1) Total for question 13 9 Number Answer Mark If no (external) unbalanced / resultant force acts Or in a closed system (1) (1) K = ½ mv Correct value for one object Not elastic collision because total E k before ≠ E k after Or elastic collision total E k before is (about) the same as E k after (all values must have been correctly calculated) Example of calculation Before E K = ½ mv = ½ × 0.85 kg × (1.30 m s −1 ) = 0.72 J After E K = ½ mv = ½ × 0.85 kg × (0.98 m s −1 ) = 0.41 J E K = ½ mv = ½ × 1.70 kg × (0.54 m s −1 ) = 0.25 J Total = 0.66 J (1) (1) (1) Use of trigonometry to find a component of momentum after collision Shows momentum before in x direction = momentum after in original direction Shows perpendicular component",
+          "image": "/papers/wph11-jan-2023/q12-12c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit4-2023-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

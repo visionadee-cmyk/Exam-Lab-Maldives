@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2018-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit5-june-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all 7 points plotted correctly ( ± half a small square) best-fit straight-line graphs both lines labelled",
+          "image": "/papers/chemistry-0620-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "evidence of extrapolation on graph value from graph / initial value from table (all) solid dissolved / heat lost to the surroundings",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature change is halved",
+          "image": "/papers/chemistry-0620-2018/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change in apparatus or method e.g. use a pipette / burette or insulation / lid as more accurate than a measuring cylinder OR reduce heat losses / gain 0620/52 May/June 2018 compare",
+          "image": "/papers/chemistry-0620-2018/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(pale) green (solid / crystals)",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "condensation / drops of liquid at top of tube turns white / brown / yellow / reaction / precipitate or no observation precipitate",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iron( II ) / Fe + sulfate / SO – FeSO OR iron( II ) sulfate = 2 marks iron sulfate = 1 mark precipitate / remains 0620/52 May/June 2018 / reaction / precipitate / Ca 2+ 3 any from: • hydrochloric acid in burette / measuring cylinder (solutions can be reversed) • measured volume of barium hydroxide solution (solutions can be reversed) • in named container e.g. beaker / (conical) flask • (named) indicator (ignore Universal Indicator) / pH meter • acid added gradually / slowly / dropwise / dripped • until colour changes / endpoint / neutral / pH 7 • note volume added / initial and final volumes • calculation (using volumes and concentration of the acid) max 6",
+          "image": "/papers/chemistry-0620-2018/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit5-2018-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

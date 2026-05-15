@@ -1,0 +1,195 @@
+{
+  "paperId": "wph11-jan-2021-unit2-qp",
+  "pairedMarkSchemeId": "wph11-jan-2021-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "January 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13b",
+          "text": "13 (b) The simplified diagram below shows how a ray of light travels from the edge of the coin to the teacher’s eye, when the cup is partially filled with water. Diagram not to scale 4.0 cm 3.0 cm 1.8 cm3.7 cm Determine the refractive index of the water in the cup. (3) .........................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculates p.d. across fixed resistor as 1.497V Difference between 1.50 and 1.497 is less than 0.01V OR Calculates p.d across the LDR as 0.003 V 0.003 < 0.01V OR As resistance of the LDR decreases, the voltmeter reading increases p.d. across the LDR becomes less than 0.01 V OR Ratio of resistor resistance to LDR resistance becomes very high p.d. across the LDR becomes less than 0.01 V (Do not allow MP1 for use of V = IR with current value calculated in (a)) (3 rd or 4 th methods – allow “there is hardly any p.d. across the LDR”) (For all MP, allow “resolution of the voltmeter” for “0.01V”) (For MP1 via 3 rd method, allow “p.d. across (fixed) resistor increases” for “the voltmeter reading increases”) (1) (1) (1) (1) (1) (1) (1) (1) Total for Question 13 4 Number Answer Mark For the electron (in the atom) to move from −13.6eV to −1.5eV requires 12.1eV 0.2eV/ remaining ( kinetic) energy left for the (incoming) electron Idea that energy of a photon is transferred to a single electron Or Idea that photon can only excite an electron if it matches the energy difference between levels Or Idea that photons give all of their energy ( or none at all) Photon energy is not exactly 12.1eV so electron/atom remains at the −13.6eV level Or There is no transition equivalent to 12.3 eV Or There is no −1.3 eV energy level (Ignore references to work function or photons being emitted) (MP1 – award this mark if 12.1eV is seen) (MP3 – do not award simply for saying “one photon interacts with one electron”) (MP4 – Award if candidates make it clear that 12.1eV is not equal to 12.3eV in an argument to explain why photons cannot produce the change in energy levels for the electron) (1) (1) (1) (1) Total for Question 14 4 Number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q13.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Change of direction (of a ray of light) Due to change in speed/density/medium/material/RI (MP1 – do not allow “bending”, but allow “deviation”) (1) (1)",
+          "image": "/papers/wph11-jan-2021/q15-15a.png"
+        },
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of trigonometry to correctly determine either i or r Use of n sin θ = n sin θ using calculated angles Refractive index = 1.3 (MP1 – Need to see working shown, as the r angle from the diagram is close to 43° with a protractor) (MP2 – Award if using n = sin i / sin r) (MP2 – Both angles need to be correct to award this mark) Example of calculation Tan i = (1.8 cm / 3.0 cm), i = 31° Tan r = (3.7 cm / 4.0 cm), r = 43° n sin θ = n sin θ so n sin 31° = 1.00sin 43° n = 1.32 (1) (1) (1) Total for Question 15 5 Number Answer Mark *16 This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content • For filament bulb, resistance increases (as p.d. increases) Or For filament bulb, p.d. increases at a greater rate than current Or rate of increase of current decreases. • Increased temperature leads to increased vibration of ions/atoms/lattice • Increased rate of collision between electrons and ions/atoms/lattice • For a thermistor, resistance decreases (as p.d. increases) Or For a thermistor, current increases at a greater rate than p.d. Or rate of increase of current increases • Increased number of conduction electrons • I = nAqv, so current increases. (For IC1 & IC4 accept symbols for p.d. and current) (Ignore references to the gradient of the graph as 1/R) IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some",
+          "image": "/papers/wph11-jan-2021/q15-15b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q15.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of v = fλ Use of E = hf Converts work function from eV to J Use of hf = Φ + ½ mv max v max = 4.5 × 10 m s −1 (MP4 can only be awarded if values substituted are valid energy and mass values) Example of calculation v = fλ, 3.00 × 10 m s −1 = f × (20 × 10 −9 m), f = 1.50 × 10 Hz E = hf = (6.63 × 10 −34 Js) (1.50 × 10 Hz) = 9.95 × 10 −18 J Work function Φ = (3.68 eV) (1.60 × 10 −19 J/eV) = 5.89 × 10 −19 J hf = Φ + ½ mv max , 9.95 × 10 −18 J = 5.89 × 10 −19 J + ½ mv max ½ (9.11 × 10 −31 kg) v max = 9.36 × 10 −18 J v max = 4.53 × 10 m s −1 (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2021/q17-17a.png"
+        },
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Increasing intensity leads to more photons/electrons But intensity does not affect the speed/ KE (of electrons) Increasing λ leads to a decrease in photon/light energy Leads to decrease in speed/ KE (for electrons), so student incorrect (MP1 – Allow equations with arrows correctly indicating increased and decreased components) (1) (1) (1) (1) Total for Question 17 9 Number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Light directed through one polarising filter Filter is rotated until no light passes through Or filter is rotated and light changes intensity (Answers involving use of more than one polarising filter can only potentially score MP2) (1) (1) Distance between (adjacent) slits Or grating spacing Or line spacing Or slit spacing Or 푙푙푙푙 푛푛푙푙푙푙 푝푝푙푙 푝푝 푚푚 (1) Use of tanθ = distance from central maximum to first order grating to screen distance Use of nλ = dsinθ number of lines per mm = 950 (MP1 – award if sinθ calculated from Pythagoras) (Use of Young’s Double Slit equation scores 0) Example of calculation tanθ = 1.61m / 2.74m, θ = 30.4° d = nλ/ sinθ = (1)(532 × 10 −9 m) / sin (30.4°) d = 1.05 × 10 −6 m number of lines per m = 1 / 1.05 × 10 −6 m = 9.52 × 10 m −1 . number of lines per mm = 952 (1) (1) (1) Measuring distance from from first order maxima on one side of the central maxima to the first order maxima on the other side Increasing distance from diffraction grating to screen It would decrease percentage uncertainty (MP3 is dependent upon awarding MP1 or MP2) (1) (1) (1) Total for Question 18 9 Number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q18-18a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Power supply, ammeter, variable resistor and nichrome wire all in series Voltmeter in parallel across nichrome wire (1) (1) Gradient calculated Or value of p.d. read off for a corresponding length Gradient uses more than half of the graph Or value of p.d. used is greater than 2.0V Or value of length used is greater than 0.5m Use of R = ρl/A and R = V / I Or Use of ρ = (gradient × A) / I ρ = 1.1 × 10 −6 Ω m (MP1 – Values read off graph need to be within ½ a square) (MP1 – Gradient should be in the range 4.1 – 4.2 Vm −1 ) Example of calculation Gradient = V / l = (4.15 V /1.00 m) = 4.15 Vm −1 V / l = ρI/A, so ρ = (gradient × A) / I = (4.15 Vm −1 × 5.31 × 10 −8 m ) / 0.200 A = 1.10 × 10 −6 Ω m (1) (1) (1) (1) V value read from graph = 3.1V Use of P = VI P = 0.62 W (MP1 – allow use of resistivity equation with answer from (i) used to calculate V or R) (MP2 – allow combination of equations e.g. R = V/I followed by P = I R) (MP3 – allow variation of value if using resistivity value that rounds to 1.1× 10 −6 Ω m from (i)) Example of calculation P = VI = (3.1 V × 0.200 A) = 0.62 W (1) (1) (1) Total for Question 19 9 Number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q19-19a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of A = 4πr Use of I = P/A to calculate I I = 1.3 W m −2 < 4.5 W m −2 so not dangerous OR Use of A = 4πr Use of I = P/A to calculate A r = 0.13 m < 0.25 m so not dangerous (For MP2 via second method, look for area of 0.22 m ) Example of calculation A = 4π (0.25 m) = 0.79 m A = P/I s o 0.79 m = 1.00 W / I , so I = 1.27 W m −2 (1) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2021/q20-20a.png"
+        },
+        {
+          "id": "20b",
+          "text": "Part 20b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of E = hf Conversion from J to eV Energy per photon = 3.7 × 10 −6 ( eV) Example of calculation E = hf = (6.63 × 10 −34 Js) × (902 × 10 Hz) = 5.98 × 10 −25 J Energy per photon (in eV) = (5.98 × 10 −25 J) / (1.60 × 10 −19 J eV −1 ) = 3.74 × 10 −6 eV. (1) (1) (1)",
+          "image": "/papers/wph11-jan-2021/q20-20b.png"
+        },
+        {
+          "id": "20c",
+          "text": "Part 20c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of P = E/t for kettle Converts kWh to J for electricity usage Or converts J to kWh for kettle usage Percentage = 0.61% so student is correct Or states that 150,000 J is less than 1% of 2.47 × 10 J so student is correct (Kettle energy in kW h is 0.042) Example of calculation E = P × t (for kettle) = 1200 W × 125 s = 150,000 J Electricity usage = 6.85 kWh = 6.85 ×1000 W x 3600 s = 2.47 × 10 J Kettle’s percentage of daily usage = [(150,000J) / (2.47 × 10 J )] × 100 Percentage = 0.61% (1) (1) (1) Total for Question 20 9 Number Answer Mark Recognises that wavelength = 2 × length of recorder Or recognises that length of recorder = λ/2 Or see that λ used is 47.2 cm / 0.472 m Use of v = fλ with v = 330 m s −1 f = 700 Hz Example of calculation Wavelength = 2 × length of recorder = 2 × 0.236 m = 0.472m v = fλ so f = 330 m s −1 / 0.472 m = 699 Hz (1) (1) (1) To keep same frequency, wavelength would need to increase So length of recorder needs to increase Or so length of air column needs to increase This is achieved by sliding the recorder sections further apart Or this is achieved by loosening the sections of the recorder (Do not award MP2 or MP3 if clearly linked to a decrease in wavelength) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2021/q20-20c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 21",
+      "text": "Question 21",
+      "parts": [
+        {
+          "id": "21b",
+          "text": "Part 21b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "See v = fλ and v = √(T/μ) Combines equations to show that f α √T or T = k f Or r ecognises that T /T = (f /f ) Or see ( ) − ( ) ( ) Percentage increase in T is 3.7% Example of calculation fλ = √(T/μ) so T = k f T /T = (f /f ) so T /T = (440 Hz/432 Hz) = 1.037 Percentage increase in T is 3.7% (1) (1) (1) Total for Question 21 9 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2021/q21-21b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit2-2021-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

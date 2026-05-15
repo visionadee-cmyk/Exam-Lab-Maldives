@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Authentication • Biometric • Input device Question Answer Marks • A legitimate looking email is sent to the user • The user clicks a link in the email // the user replies to the email • The user is directed to a fake website • The user enters their personal data ... • ... that is stolen/used by a third party (for malicious purposes) October/November 2025 Question Answer Marks • Check the email address that the email has been sent from • Check the tone/spelling of the email • Check the URL that is attached to the link For example: • Virus • Worm • Trojan horse • Spyware // keylogger • Ransomware • Adware • A language that uses English-like statements • It is a language that needs to be converted to machine code (to be processed by a computer) • It is a portable language (that can be used on any computer) • Easy/quick to read/write/understand • Machine independent • Less likely to make errors • Programmer can focus on the problem instead of the manipulation of memory/hardware October/November 2025 Question Answer Marks • Cannot directly manipulate the hardware • Takes longer to convert (than low level-language) • Cannot use specialised hardware • Uses more memory // less efficient memory use • The code is translated and executed line by line • ... stopping when an error is found (showing the error location) • ... meaning errors can be corrected in real time • No need to retranslate each time an error is fixed • ... making it easier to debug • Sections of code can be easily tested • ... meaning the whole program doesn’t need to be written for testing Question Answer Marks • A mechanical structure/framework • Electrical components • ... such as sensors/microprocessor/actuators • Programmable • Has the ability to move October/November 2025 Question Answer Marks For example: • Supermarket may gain more customers • ... as elderly people who could not previously make it to the store can now shop there • ... which will increase their sales/profits • Supermarket can serve c",
+          "image": "/papers/computer_science-0478-2025/q3-3d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit1-2025-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2020-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all volumes of dilute hydrochloric acid completed correctly (45, 40, 35, 30, 20, 15, 20, 5) all eight temperatures completed to the same number of dp results show an increase followed by a decrease highest temperature comparable to superviso r and at volume comparable to superviso r",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate vertical scale so that points take up > half space all eight points plotted correctly two suitable straight lines drawn straight lines extended so that they cross working shown on graph from where lines cross volume of aqueous sodium hydroxide correct for their graph volume of dilute hydrochloric acid correct based on their recorded volume of sodium hydroxide correct value based on graph drawn dilute hydrochloric acid and as volume less than sodium hydroxide",
+          "image": "/papers/chemistry-0620-2020/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lines under plotted line maximum temperature at same volume as plotted line disadvantage: slowe r",
+          "image": "/papers/chemistry-0620-2020/q1-1d.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat and compare 0620/53 May/June 2020 Tests on solid N dissolves / forms a colourless solution dissolves / forms a colourless solution bubbles / fizzing / effervescence red litmus turns blue",
+          "image": "/papers/chemistry-0620-2020/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "zinc / Zn 2+ nitrate / NO Tests on solid P (pale) yellow precipitate becomes brown / orange / yellow + Iodide / I – 0620/53 May/June 2020 3 any six from: gas volume method • weigh both washing powders or equal masses of both washing powders • place in suitable container (flask / boiling tube / test-tube) • add acid • to excess / until no more fizzing • collect gas • in gas syringe or by downward displacement in measuring cylinder • measure volume of gas • largest volume of gas has most sodium carbonate OR mass loss method • weigh both washing powders or equal masses of both washing powders • place in suitable container (flask / boiling tube / test-tube / beaker) • add acid • to excess / until no more fizzing • weigh mixture once acid added • weigh mixture at end • calculate mass drop • largest mass drop has most sodium carbonate OR titration method • weigh both washing powders or equal masses of both washing powders • place in suitable container (flask / beaker) • dissolve in water • add named indicator (not UI) • add acid from burette • stop when indicator changes colour • record start and final reading on burette • largest volume of acid used has most sodium carbonate",
+          "image": "/papers/chemistry-0620-2020/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit5-2020-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

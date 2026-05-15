@@ -1,0 +1,257 @@
+{
+  "paperId": "wma12-oct-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-oct-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "October 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.25 h = B1 ( )   1.25 3.479 5.182 2 6.101 7.448 6.823 A   + + + + M1 = 30.9 A1 (3) (b) ( ) ( ) 5.5 5.5 0.5 0.5 f d 30.9 30.9 2 5.5 2 0.5 x x x x  + = + = +  −    or ( ) ( ) ( ) ( ) 5.5 5.5 0.5 0.5 f d f d 4 0.5 4 5.5 5 ... x x x x x + = +  +   =  M1 = 30.9 + 60 = 90.9 A1ft (2) Total 5 (b) M1: Attempts their answer to (a) + ( ) 5.5 0.5 their ans . wer to ... ...5.5 .. 0. a x  = + −  May be implied by e.g. () their answer to 0a2 5.52.5+  −  if the integration is not seen explicitly. Or their answer to (a) ( ) 4 0.5 4 5.5 +  +   (trapezium) oe e.g. their answer to (a) ()() () 4 0.5 555 5.5 5 0.5 +   +   −  (rectangle + triangle) May be implied by their answer to (a) + 60 Condone clear misreads of the 4 in the 4x but do not condone a misread of e.g. 4x for 4. Condone clear mis-copy/mis-read of limits as long as they are non-zero E.g. 5 for 5.5. Condone poor notation e.g. ( ) ( ) 5.5 5.5 0.5 0.5 f d 30.9 d 30.9 2 5.5 2 0.5 x x x x x + = + = +  −   A1ft: Correct answer of awrt 90.9 or correct ft e.g. 60 + their answer to part (a) Allow exact or exact ft answers e.g. for 90.9 Correct answer only scores no marks as the questions says “making your method clear” Attempts to use the trapezium rule again by adding 4x to the y values score M0 in (b) Note that ( ) 30.9 4 0.5 1.75 3 4.25 5.5 90.9 + + + + + = is fortuitous and scores M0 But ( ) ( ) 30.9 2 22 2 7 12 17 90.9 +  + + + + = scores M1A1 Condone an error with the strip width as in part (a) for this method but the ft is not available in this case. Examples of minimal acceptable working in (b) for both marks: 30.9 + 60 = 90.9 5.5 0.5 30.9 90.9 x  +=  () 5.55.5 0.50.5 fd4 d30.9 60 90.9xxx x+= + =  30.9 2 5.52 0.590.9+  −  = All score M1A1 General Guidance Note that it is possible to obtain correct answers in all parts of this question fortuitously. The A marks should only be awarded following correct work. (a) B1: Correct expression for u e.g. k − with no incorrect work seen e.g. (",
+          "image": "/papers/wma12-oct-2024/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Find d d y x giving each term in simplest form. (2) (b) Hence find the x coordinate of the stationary point of C. (2) (c) (i) Find d d 2 2 y x giving each term in simplest form. (ii) Hence determine the nature of the stationary point of C, giving a reason for your answer. (2) (d) State the range of values of x for which y is decreasing. (1) _________________________________",
+      "text": "2 (a) Find d d y x giving each term in simplest form. (2) (b) Hence find the x coordinate of the stationary point of C. (2) (c) (i) Find d d 2 2 y x giving each term in simplest form. (ii) Hence determine the nature of the stationary point of C, giving a reason for your answer. (2) (d) State the range of values of x for which y is decreasing. (1) _________________________________",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Find d d y x giving each term in simplest form. (2) (b) Hence find the x coordinate of the stationary point of C. (2) (c) (i) Find d d 2 2 y x giving each term in simplest form. (ii) Hence determine the nature of the stationary point of C, giving a reason for your answer. (2) (d) State the range of values of x for which y is decreasing. (1) _________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "12 u u k =  = − B1 ( ) u k u k k u k k = −  = + −  = − − ( ) 7* u k k = + − + = M1A1* (3) (b) 7 2 7 30 ... r r u k k k k = =  + − + − − + =  =  M1 k = A1cso (2) (c) 37 30 7 \"15\" 7 r r u = =  + + −  M1 = A1cso (2) Total 7 (b) M1: Adds their first 4 terms, sets = 30 and solves a linear equation for k Condone slips in copying their 4 terms if the intention is clear. Allow even if their sequence is of order 2 e.g. 7, 7, 7, 7, ... kk −− A1: Correct value from correct work and a correct sequence. (c) Marks in (c) are only available if their sequence is of order 4 M1: Correct numerical attempt for the required sum using their k. May be implied by the correct answer or the correct ft answer unless an incorrect method is seen e.g. 37 30uu + + or 38 30uu − − score M0 Condone  or 75 15 or 37.5 30 following a correct sequence and the correct value of k. Allow any equivalent correct method e.g. ( ) 38 30 2 \"15\" 7 7 \"15\"  −  − + − A1: For 1125 from correct work and a correct sequence. Correct answer only scores both marks. For reference the correct sequence is: n 1 2 3 4 u n k − 7 2k − 7 7 – k Value (with k = 15) 7 8 23 −8 An unusual but correct method in (c) is: ( ) ( ) ( ) 38 7 38 15 7 37 30 7 37 7 15 r r u = =  + − + − + − =  Example – Candidates who consistently use ( ) n nn u u k + + = − + This gives: (a) 7, 7, 7, 7, u u k u u k u = = + = − = − = which scores B0M1A0 (b) 7 7 7 30 r r u k k k = =  + + − + − =  =  which scores M1A0 (c) 37 30 7 \"15\" 7 1139 r r u = =  + + + =  which scores M1A0 For reference this incorrect sequence is: n 1 2 3 4 u n 7 k + 7 −7 k – 7 Value (with k = 15) 7 22 −7 (a) M1: Attempts f ( 3) 55. −= The −3 embedded in the expression set = 55 is sufficient. Condone missing brackets e.g. ( ) 2 3 AB − −− + − + = Note that ( ) ( ) ( ) AB − − + − + = is acceptable. May be implied by further work. If −3 embedded in the expression is not seen, condone slips in their evaluation provided there is still evidence that the intention was to subst",
+          "image": "/papers/wma12-oct-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) AB − − − + − + = or e.g. 54 9 3 AB − − − + = M1 54 9 3 AB − − − + = 118* AB  − = − A1* (2) () ()() 363 55 xxA xxxAx B xx xAx B xx Ax B AxA BA − + + +− + + + − + + −− ++ ++ + − − = (b) AB       − + + =             M1 3118AB− = − , 5250AB+ = − ..., ... AB  = = or M1 A = – 26, B = 40 A1 (3) (b) Do not allow mis-reads of (2x – 5) in part (b). M1: Attempts f0.  =   The embedded in the expression set = 0 is sufficient. f0  −=   scores M0. May be implied by further work. Again, tabular or division methods may be seen. e.g. long division: Score M1 for obtaining a quotient ... ... ... ... x x A   + and a remainder ... ... ... AB  set = 0 where “...” are non-zero constants. e.g. tabular method: x x A + 2x 2x 4x ( ) Ax + −5 −5x x − A −− So 0. A B  − − − =   Score M1 for obtaining a constant ... ... A + where “...” are non-zero constants, and then sets B – their constant = 0 M1: Solves 3118AB− = − simultaneously with their equation in A and B from having attempted f0  =   or long division/tabular method using the correct factor of (2x – 5) and obtains a value for A or B. May be via a calculator and may be implied by their values. You do not need to check but the above conditions must be satisfied. For reference, use of f0  −=   gives A = −161, B = −365 A1: Both correct values ( ) ( ) ( ) 5 2 25 0 x x A x x x Ax B xx x Ax B xx A x B A x A BA + + + − − + + − ++ − ++ + − + + + = (c) Do not allow mis-reads of (x – 7) in part (c). M1: Uses any appropriate method e.g. long division/inspection/table with numeric non- zero A and B to obtain 2x + px + q where p and q are non-zero. There is no requirement to find the remainder but assuming (x – 7) is a factor is M0 (see example below) A1: Must follow correct values of A and B. Correct expression 21365xx++ which is clearly identified e.g. by circling/underlining or e.g. Quotient = 65, x x Q x x + + = + + Any remainder, correct or incorrect, can be ignored. (NB correct rema",
+          "image": "/papers/wma12-oct-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "11 y x x − = + + d9 d2 y xx x −−   = −   M1A1 (2) (b) d9 9 0 ... d2 y x x x x x −− =  − =  − =  = M1 x = oe e.g. 2.25 A1 (2) (c)(i) B1ft: Correct simplified second derivative. Follow through their first derivative provided there are 2 terms with different fractional (non-integer) powers. d d y x = is not required. Condone xx −− −+ for xx −− −+ Inclusion of “ + c” scores B0ft as with the first derivative. (ii) B1: Fully correct working, reasoning and conclusion. This requires: • a correct second derivative • substitutes x = to obtain or awrt 0.6 or truncated 0.5 • reference to the sign (> 0 or positive). Must see the evaluation as it is not obviously positive but allow if expression is not fully evaluated as long as it is clear it is positive (e.g. − ). • reference to minimum Condone work that doesn’t specifically reference d d y x e.g. 27 9 −−     − + =          so minimum is fine for this mark. (d) B1ft: For x  . Allow x  „ and allow equivalent statements e.g. 0,, 0,.             Follow through their positive x value from part (b). Condone an answer of x or x„ Condone x„„ Do not allow x−   (ii) d d4 y xx x −−  = − +   oe e.g. 6.75 xx −− −+ B1ft ( ) d 27 9 0.5925... d x y x −− =          = − + =                  d d y x     so (local) minimum B1 (2) (d) x  B1ft (1) Total 7 (a) M1: Attempts the binomial expansion up to at least the second term to obtain the correct structure for the 2 nd or 3 rd term i.e. the correct binomial coefficient (allow alternative notation) with the correct power of 2 and the correct power of ax. The binomial coefficients do not have to be evaluated but must be correct if they are. If awarding this mark for the x term you can condone missing brackets e.g. C ax  Alternatively writes e.g. ( ) 6 5 2 1 2 1 ... ax ax ax ax       + = + = + + +            which can also score M1 for the expansion up to at least the second term with an ",
+          "image": "/papers/wma12-oct-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()()() 2222... axaxax    + = +++       M1 64 192240...axa x= +++ A1A1 (3) (b) xxx  + = + +   or xxx +++ B1 ( ) ( ) f 64 192 ... ... x ax a x xx  = + + + + + =   Constant term is 9 64 6 192 aa  +  + M1 576 1152 a a a a + + =  + = 1152 240 ... aa  + =  = dM1 a=− A1 (4) Total 7 (b) B1: Correct expansion of x  +   unsimplified or simplified. Note that this may be implied by the omission of the “9” as 9 64 576 = and so the “9” is not required. Note that ( ) 3 1 2 x x    ++     is correct. Condone missing brackets if recovered e.g. x x x x x  + = + + = + +   M1: Uses their expansion in part (a) and their expansion of x  +   to extract the constant term. This depends on having obtained xxx    + = + +   oe with ,,   non- zero and an attempt at \"64\" \"192 \" \"240 \" ax a x xx    +  + oe An expression of this form is sufficient i.e. with the x’s still included. Note that the 9 64  may not be seen as this cancels with the 576 so this mark may be implied. dM1: Sets their constant term = 576 and proceeds to obtain a non-zero value for a. You do not need to be concerned about the processing for this mark. This may be implied by e.g. 6 192 ... a a a  + =  = as 9 64 576 = May be implied by their value(s). Condone x = ... here. Depends on the previous method mark. A1: Correct value. Allow equivalents e.g. −4.8, − The questions asks for the value of a so just look for the correct value e.g. “a = ...” is not required but x=− scores A0. If a = 0 is also given and not rejected, score A0 Number Scheme Marks ( ) ( ) 2 log log xx + = + B1 e.g. ( ) ( ) ( ) 12 2 log 12 2 log log x xx x − − − + = + M1 ( ) 12 2 x x − = + A1 2 0 ... x x x  + + =  = M1 x =− oe e.g. −0.125 A1 (5) Total 5 B1: For ( ) ( ) 2 log log xx + = + seen or implied. M1: Correct attempt to combine two log terms. E.g. ( ) ( ) ( ) 2 log log 16 log log 16 x x x + + = + + = + Condone if they make a slip before combining as long as they are combinin",
+          "image": "/papers/wma12-oct-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-13.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) 20 99 0.5 £ 69.50* u = + = B1* (1) (b) ( ) ( )   300 2 20 299 0.5 ... S =  + = or () 300 20 169.50... S=+= M1 ( ) £ 28 425 = A1 (2) (c) ( ) 1.008483032... rr  =  = = M1 () () 20 1 27362.948... r S r − == − 284 25 27362.948... − M1 (£)1060 A1 (3) Total 6 (c) M1: Correct strategy to find r e.g. . Award for e.g. ( ) r = or e.g. () . r  =   May be implied by awrt 1.01 if no incorrect work is seen e.g. clear use of which gives 1.008454636... is M0 May be done via logs e.g. log12.5 r = M1: Uses their r with a correct GP sum formula with a = 20 and n = 300 and subtracts from the answer to part (b) either way round. Depends on having attempted the sum of an AP in (b). May be implied by their working/value. Note this has been seen more than once for the GP sum following : ( ) 20 1 12.5 1 1.008483032 S − = − and scores M0 as it suggests ( ) n n ar S r − − = − has been used. A1: Cao not awrt with or without the “£” symbol. Note that the accuracy being used for “r” varies considerably. Some rounded values for reference are: r S |Correct (b) − S | 1.01 37576.93252... 9151.932524... 1.008 24796.03972... 3628.960276... 1.0085 27458.42195... 966.5780531... 1.00848 27345.9295... 1079.070499... (a) Note we are now marking part (a) as M1A1M1A1 not M1M1A1A1 M1: Equates the 2 curves and multiplies through by x to obtain a quadratic equation in x A1(M1 on EPEN): Correct 3TQ in x with terms collected and all on one side. Note that the “= 0” may be implied by their attempt to solve. M1(A1 on EPEN): Solves a 3TQ in x by a suitable method e.g. factorising, completing the square or quadratic formula and takes the square root to obtain at least one value for x. They may use a calculator, but the solution must be via x . E.g. 9 0 1, 9 1, 3 x x x x − + =  =  = is acceptable for this mark as is ( ) ( ) 9 0 1, 3 x x x x x − + =  − − =  = They cannot go from e.g. 9 0 xx − + = to 1, 3 x = Note ( ) ( ) ( ) ( ) 9 0 1, 3 x x x x x x x − + =  − + − + =  = scores M0 A1: Bot",
+          "image": "/papers/wma12-oct-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2422 3 133139xxxx x + = −  + = − 9 0 xx  − + = M1A1 ( ) ( ) 9 0 ... x x x x x − + =  − − =  = ... x = M1 1, xx == A1 (4) Part (a) may also be done without obtaining a quartic: 3,133 13100yxyxx xxx = + = −  + = −  − + = xx xx     − − =       x x x x − =  =  = or x x x x − =  =  = M1: Solves simultaneously and attempts to factorise to xx xx     − − =       A1: Correct factorisation M1: Attempts to solve via x A1: x = 1 and x = 3. Both correct and no other values. Condone any confusion with which is P and which is Q and condone e.g. P = 1, Q = 3 Part (a) may also be done via y e.g.: 3, 48 0 y x y y y y xy = + = −  = −  − + = − 48 0 4, 12 y y y − + =  = 1, y x y x =  = =  = M1: Solves simultaneously to obtain a 3TQ in y A1: Correct 3TQ in y M1: Solves their 3TQ in y and uses at least one value of y to find a value for x A1: x = 1 and x = 3. Both correct and no other values. Condone any confusion with which is P and which is Q and condone e.g. P = 1, Q = 3 Note that this question has the calculator warning so attempts that do not use algebraic integration score no marks. (b) M1: Evidence of integration nn xx + → for at least one term for either curve or for the difference between the 2 curves e.g. it is not for integrating xx −+ A1: Correct integration for both curves either as a difference (either way round) or separately. E.g. ( ) x x x c x   + − − +   or x x + and x x + Allow simplified or unsimplified but indices must be processed. dM1: Depends on the first method mark. Substitutes their positive values from part (a) and subtracts if attempted as a difference or substitutes their values into the separate integrations, subtracts and then subtracts the 2 results either way round to obtain a value. Condone poor bracketing as long as the intention is clear. May be implied by the correct final answer following correct integration. If the integration and/or limits are incorrect and the substitution is not shown explicitly t",
+          "image": "/papers/wma12-oct-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-21.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 2 sin 2 tan3cos3cos cos    == M1 ( ) 2 sin 3cos 2 sin 3cos 3 1 sin cos       =  = = − M1 ( ) 2 sin 3 1 sin 3sin 2 sin 3 0 *     = −  + − = A1* (3) (b) sin 2 x  −   +=     (May only see positive root) NB decimal roots are: −1.387..., 0.7207... M1 2sin (0.7207...)... xx  − + = = M1 0.121, 2.50, 0.645, 3.02 −− A1A1 (4) Total 7 M1: Attempts to solve the quadratic 3sin 2 sin 3 0 xx + − = to obtain a value for sin x where x is any variable. Usual rules apply for solving a quadratic (via a calculator is also acceptable and may imply this mark). If no working is shown then the root(s) must be correct but condone premature rounding e.g. 0.72, −1.3 M1: Attempts to find one angle within the range by finding the inverse sine of one of their roots, subtracting  and dividing by 2. For this mark allow to work in degrees if done correctly. E.g. they would need to change  to 60° and then find the inverse sine of one of their roots in degrees, subtract 60° and divide by 2. May be implied by a correct value of x in degrees or radians. NB the answers in degrees are: 143, 6.94, 36.9, 173 −− (3sf) Do not allow the mixing of degrees and radians for this mark e.g. 46.1... x  − = A1: Any two of awrt 0.12, 2.5, 0.64 or 0.65, 3.0 −− (Must be in radians) A1: All four of awrt 0.121, 2.50, 0.645, 3.02 −− and no others in the range. (Must be in radians) Condone −2.5 for −2.50 but the others must be awrt as shown for this final mark. (a) Look out for answers to part (a) written in the body of the question. M1: Attempts to complete the square for both variables or states a centre of (±2, ±15) For completing the square allow ( ) ( ) 2 ... 15 ... ... xy   = A1: Centre (−2, 15) or e.g. 2, 15. xy = − = Condone e.g. −2, 15 or [−2, 15] A1: For or which may be scored following ( ) ( ) xy  +  = Do not allow  but apply isw if a correct radius is seen which is then e.g. converted to a decimal or simplified incorrectly. (b) Mark (b) and (c) together. M1: Attempts t",
+          "image": "/papers/wma12-oct-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-25.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 209 0 x y x y + + − + = ( ) ( ) 15 ... 0 xy   +  = M1 (i) Centre (−2, 15) A1 (ii) Radius A1 (3) (b) ( ) ( ) 1 15 y mx x mx = +  + + + − = or ( ) ( ) 209 0 y mx x mx x mx = +  + + + − + + = M1 22 2 428180 0xm xxmx++ −+ = ( ) ( ) 4 28 4 1 180 0 b ac m m − =  − − +  = dM1 ( ) ( ) 4 28 4 1 180 0 16 224 720 720 m m m m m − − + =  − + − − = 22 0 * mm  − − = A1* (3) (c) 22 0 , m m m − − =  = − M1 180 0 m x x x y =  − + =  =  = or 2560180 0613mxxxy= −  + + =  = −  = M1 ( ) 12 71 , 6, 13  −   or oe A1 ( ) 12 71 , 6, 13  −   and oe A1 (4) Total 10 (b) Alternative: Perpendicular distance from a point to a line: ( ) 2, 15 , 1 0 mx y − − + = with ax by c d ab ++ = + ( ) ( ) 15 1 m mm m − − + =  + = + + 176 0 22 0 * m m m m  − − =  − − = M1: Substitutes into a correct distance formula with their centre and the given L and sets equal to their radius. dM1: Squares, multiplies up to obtain () () oe,AmBCm D+ =+ where A, B, C and D are non-zero. A1*: Obtains the printed answer with no errors (c) M1: Solves the given quadratic equation by any valid means, including calculator, to obtain at least one value for m. May be implied by their value(s). One correct value only with no incorrect work is sufficient for M1 Condone x = ... for this mark. M1: Uses at least one of their values of m to attempt one position for P. This must be a complete and correct method to find a position for P i.e. finds at least one value for x and then the corresponding value for y correctly. E.g. substitutes at least one value for x into their ( ) ( ) 1 15 20, x mx + + + − = solves the resulting 3TQ by any method including a calculator and then uses the correct y = mx + 1 to find the y value. Condone slips when e.g. simplifying their 3TQ providing the complete method is correct. A1: At least one correct point. Allow as a coordinate pair or as x = ..., y = ... and allow equivalent values e.g. (2.4, 14.2) etc. A1: Both points correct and no others. Allow as coordinate pairs or a",
+          "image": "/papers/wma12-oct-2024/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-27.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11i",
+          "text": "Part 11i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 E.g.532 245n=  + = M1 245 is not a prime number or e.g. 245 is divisible by 5 so not true A1 (2) For the accuracy marks there should be no errors in the algebra but allow e.g. invisible brackets to be “recovered”. Withhold the final mark if m is used instead of their k if the work is otherwise correct. M1: Starts the proof by considering at least one algebraic expression not divisible by 3 e.g. m = 3k + 1 and attempts m − by expanding the brackets. Alternatively, writes ( ) ( ) m m m − = − + and substitutes at least one algebraic expression not divisible by 3. Allow equivalent representations of numbers not divisible by 3 e.g. m = 3k + 2 or m = 3k − 1 Condone arithmetical slips and condone the use of e.g. m = 3m + 2 or mm =− A1: They must • obtain at least one correct expression • show that their expression is a multiple of 3 by factoring out 3 or e.g. 3k e.g. ( ) 3 3 kk + or e.g. ( ) 3 3 kk + or e.g. ( ) ( ) 1 3 kk ++ or show that their expression is divisible by 3 e.g. kk kk + =+ . or make a reasoned argument as to why the expression is divisible by 3 e.g. obtains 96kk+ and states e.g. is divisible by 3 as both 9 and 6 are divisible by 3 (or equivalent reasoning) Note that this may be seen in the final conclusion. Condone a spurious “= 0” e.g. () 3 320kk+= for this mark. dM1: Considers both distinct cases where m is not divisible by 3 (see above) (ii) 31mk=+ () 1311 961 1mkkk − = + − = + + − or mk =+ ( ) 1 9 4 1 m k k k  − = + − = + + − M1 ( ) 1 9 3 3 m k k k k − = + = + or () 1 9123 3 341mkkkk− = + + =+ + A1 31mk=+ () 1311 961 1mkkk − = + − = + + − and mk =+ ( ) 1 9 4 1 m k k k  − = + − = + + − dM1 ( ) 3 3 kk + and ( ) 3 3 kk ++ are both multiples of 3 so m − must be divisible by 3 when m is not divisible by 3 A1 (4) Total 6 See table below – they must have one of case A and one of case B. A1: Fully correct proof. They must • achieve correct expressions for m − for both cases • show that each expression is a multiple of 3 as above • make a concluding overa",
+          "image": "/papers/wma12-oct-2024/q11-11i.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2024/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 10
+  },
+  "assets": {
+    "basePath": "/papers/wma12-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2024-unit1-2024-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-oct-2024/page-01.png",
+      "/papers/wma12-oct-2024/page-02.png",
+      "/papers/wma12-oct-2024/page-03.png",
+      "/papers/wma12-oct-2024/page-04.png",
+      "/papers/wma12-oct-2024/page-05.png",
+      "/papers/wma12-oct-2024/page-06.png",
+      "/papers/wma12-oct-2024/page-07.png",
+      "/papers/wma12-oct-2024/page-08.png",
+      "/papers/wma12-oct-2024/page-09.png",
+      "/papers/wma12-oct-2024/page-10.png",
+      "/papers/wma12-oct-2024/page-11.png",
+      "/papers/wma12-oct-2024/page-12.png",
+      "/papers/wma12-oct-2024/page-13.png",
+      "/papers/wma12-oct-2024/page-14.png",
+      "/papers/wma12-oct-2024/page-15.png",
+      "/papers/wma12-oct-2024/page-16.png",
+      "/papers/wma12-oct-2024/page-17.png",
+      "/papers/wma12-oct-2024/page-18.png",
+      "/papers/wma12-oct-2024/page-19.png",
+      "/papers/wma12-oct-2024/page-20.png",
+      "/papers/wma12-oct-2024/page-21.png",
+      "/papers/wma12-oct-2024/page-22.png",
+      "/papers/wma12-oct-2024/page-23.png",
+      "/papers/wma12-oct-2024/page-24.png",
+      "/papers/wma12-oct-2024/page-25.png",
+      "/papers/wma12-oct-2024/page-26.png",
+      "/papers/wma12-oct-2024/page-27.png",
+      "/papers/wma12-oct-2024/page-28.png",
+      "/papers/wma12-oct-2024/page-29.png",
+      "/papers/wma12-oct-2024/page-30.png",
+      "/papers/wma12-oct-2024/page-31.png",
+      "/papers/wma12-oct-2024/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

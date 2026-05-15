@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2025-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "both measurements present and VYZ  corresponding value in (b)(ii) • reading / VYZ initially remains (more or less) constant • (then) reading / VYZ increases May/June 2025 Question Answer Marks answer given to 2 or 3 significant figures 1 values used in a calculation to justify the statement 1 May/June 2025 Question Answer Marks 4 MP1 additional apparatus: stopwatch / timer / clock and thermometer / temperature probe / sensor MP2 method: • heat the water to a known / measured temperature • time the water cooling for five minutes • measure the final temperature of the water MP3 repeat for a new value of (initial) temperature 1 MP4 control variables: any one from: • volume / mass / amount of water • time (of cooling) • room temperature MP5 results table: columns for initial temperature and final temperature with correct units MP6 conclusion: any one from: • plot a graph of rate of cooling against initial temperature (of the water) • (compare the results in the table to) see if / how the initial temperature affects the rate of cooling / final temperature reached MP7 additional point: any one from: • second control variable stated • at least five sets of data taken • repeat each measurement AND take an average • evidence of rate formula used",
+          "image": "/papers/physics-0625-2025/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

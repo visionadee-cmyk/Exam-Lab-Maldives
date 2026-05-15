@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2023-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) • Place the metre ruler on the pivot at the 50.0 cm mark with its scale facing upwards. • Place the object Q with its centre on the metre ruler at the 90.0 cm mark. Record the distance y from the centre of Q to the 100.0 cm end of the ruler. y = ................................................... cm [1] (b) • Place a load P of weight P = 2.0 N on",
+      "text": "1 (a) • Place the metre ruler on the pivot at the 50.0 cm mark with its scale facing upwards. • Place the object Q with its centre on the metre ruler at the 90.0 cm mark. Record the distance y from the centre of Q to the 100.0 cm end of the ruler. y = ................................................... cm [1] (b) • Place a load P of weight P = 2.0 N on",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method shown clearly on graph value correct to ½ small square 0625/51 May/June 2023",
+          "image": "/papers/physics-0625-2023/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "r ealistic room temperature all to at least 1 °C   correct R correct to 2 or 3 significant figures unit °C / s continue taking temperatures / continue for a longer time (until close to room temperature) OR use lowe r / higher starting temperature (of water) plot a graph of temperature against time OR cooling rate against time / temperature",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to avoid parallax error owtte 0625/51 May/June 2023",
+          "image": "/papers/physics-0625-2023/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal at 90° and in centre of AB",
+          "image": "/papers/physics-0625-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "i = 30°  2° P and P at least 5.0 cm apart lines NL , CD and CE neatly drawn in approximately correct positions",
+          "image": "/papers/physics-0625-2023/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correct to  2°  greater than i one from:  view bases of pins  place pins (as) far apart (as possible)  ensure pins are vertical  sharp pencil / thin lines / thin pins and P drawn in approximately correct position, above AB and to right of normal line meets AB at C  mm",
+          "image": "/papers/physics-0625-2023/q3-3c.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correct to  2°  less than i 0625/51 May/June 2023 MP1 circuit diagram – power supply, lamp and ammeter in series, voltmeter in suitable position to read V across lamp MP2 measure the current and potential difference MP3 calculate resistance MP4 repeat with at least two other currents / voltages / settings of variable resistor / power supply MP5 a way to change the current/voltage (e.g. adjusting / using variable resistor OR changing voltage of power supply OR adding batteries) MP6 table with columns for potential difference, current and resistance, headed with quantities and appropriate units MP7 plot graph of resistance against current OR compare values of resistance and current in table",
+          "image": "/papers/physics-0625-2023/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

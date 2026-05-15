@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2022-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "16 ELSE 17 Lower[LowList]  Mark 18 LowList  LowList + 1 19 ENDIF 20 ENDIF 21 MarksEntry  MarksEntry + 1 22 UNTIL MarksEntry = 500 23 OUTPUT \"You entered \", HighList, \" higher marks\" 24 OUTPUT \"You entered \", MidList, \" middle marks\" 25 OUTPUT \"You entered \", LowList, \" lower marks\" October/November 2022 Question Answer Marks MP1 Set up a condition to end the input MP2 The correct placement of the condition MP3 Set up the test MP4 The correct placement of the test MP5 Removal of MarksEntry counter from the original algorithm Example answers Testing at the end of the algorithm OUTPUT \"Do you want to enter another mark?\" INPUT AnotherMark UNTIL AnotherMark = \"No\" should replace line 22 at end of loop The MarksEntry counter can be removed // Lines 4 and 21 are not required / can be removed Testing at the beginning of the algorithm AnotherMark = \"Yes\" WHILE AnotherMark = \"Yes\" DO should replace line 05 at the start of the loop OUTPUT \"Do you want to enter another mark?\" INPUT AnotherMark ENDWHILE should replace line 22 at end of loop The MarksEntry counter can be removed // Lines 4 and 21 are not required / can be removed Terminal condition OUTPUT \"Enter -1 to end the program\" should be placed before the loop and / or before the input in 06 IF MARK <> -1 THEN should be placed between lines 06 and 07 The MarksEntry counter can be removed // Lines 4 and 21 are not required / can be removed UNTIL Mark = -1 should be placed at line 22 October/November 2022 Question Answer Marks 6 One mark per mark point, max five MP1 correct Counter and Number columns MP2 correct Hundreds column MP3 correct Temp and Tens columns MP4 correct Units column MP5 correct OUTPUT column Counter Number Hundreds Temp Tens Units OUTPUT 1 97 2 876 8 76 7 6 Hundreds: 8 Tens: 7 Units: 6 3 4320 4 606 6 6 0 6 Hundreds: 6 Tens: 0 Units: 6 5 9875 6 42 7 124 1 24 2 4 Hundreds: 1 Tens: 2 Units: 4 October/November 2022 Question Answer Marks Exams Number Data types must match those given in the question. • cor",
+          "image": "/papers/computer_science-0478-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit2-2022-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,91 @@
+{
+  "paperId": "mathematics-0580-2018-unit2-june-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2018-unit2-june-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/21",
+  "session": "May/June 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "20 (a) A box contains 3 blue pens, 4 red pens and 8 green pens only. A pen is chosen at random from the box. Find the probability that this pen is green.",
+      "text": "20 (a) A box contains 3 blue pens, 4 red pens and 8 green pens only. A pen is chosen at random from the box. Find the probability that this pen is green.",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "20 (a) A box contains 3 blue pens, 4 red pens and 8 green pens only. A pen is chosen at random from the box. Find the probability that this pen is green.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "8 oe",
+          "image": "/papers/mathematics-0580-2018/q20-20a.png"
+        },
+        {
+          "id": "20b",
+          "text": "Part 20b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "168 oe M2 for 1 − 15 14 × oe or 3( 15 14 × × ) oe or M1 for 15 14 × or 15 14 × or 15 14 × oe y ⩾ 1.5 oe y ⩾ x oe y < − x + 3 oe SC3 for y >1.5 oe and y > x oe and y ⩽ − x + 3 oe or B3 for any two correct inequalities or B1 for y ⩾ 1.5 oe and B2 for y ⩾ x oe or y < − x + 3 oe or y = x oe and y = − x + 3 oe or with incorrect inequality signs or B1 for y = x oe OR y = − x + 3 oe or with incorrect inequality signs",
+          "image": "/papers/mathematics-0580-2018/q20-20b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q20.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 22",
+      "text": "Question 22",
+      "parts": [
+        {
+          "id": "22a",
+          "text": "Part 22a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "−17 M1 for () f11 seen or 5 − 2(5 − 2x) or better 48x+ oe x− oe final answer M1 for 52xy=− or 25xy=− or y – 5 = –2x or y x=− May/June 2018 Question Answer Marks Partial Marks M1 for fxΣ , allow one error or omission and M1dep for their M1 for or M2 for tan = 21− oe or M1 for use of tangent oe",
+          "image": "/papers/mathematics-0580-2018/q22-22a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q22.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "24 (a) Point A has co-ordinates (1, 0) and point B has co-ordinates (2, 5). Calculate the angle between the line AB and the x-axis.",
+      "text": "24 (a) Point A has co-ordinates (1, 0) and point B has co-ordinates (2, 5). Calculate the angle between the line AB and the x-axis.",
+      "parts": [
+        {
+          "id": "24b",
+          "text": "Part 24b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "[ ]12 yx=−+ final answer M1 for gradient = − M1 for substituting (6, 10) into y = their mx + c",
+          "image": "/papers/mathematics-0580-2018/q24-24b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q24.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2018-unit2-2018-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

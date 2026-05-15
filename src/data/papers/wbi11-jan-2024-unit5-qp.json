@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-jan-2024-unit5-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2024-unit5-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI15/01",
+  "session": "January 2024",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer showing the following steps: • equation (1) • balanced equation (1) accept incorrect formula e.g. CO2 accept correct word equation e.g. C H + 6O → 6CO + 6H O ignore ATP / ADP 1 mark if equation correct but not balanced (2) number Answer Additional guidance Mark • B is the correct answer A is not the correct answer as 0.67 is not the RQ value C is not the correct answer as 1.06 is not the RQ value D is not the correct answer as 1.42 is not the RQ value (1) number Answer Additional guidance Mark • calculation of energy in ATP (1) • calculation of percentage useable energy with answer given to three significant figures (1) (122 x 30.51) = 3722.22 kJ (122 ÷ 12244) = 0.009964 (3722.22 ÷ 12244) x 100 = 30.4% (0.009964 x 30.51) x 100 =30.4% Correct answer gains both marks (2) number Answer Additional guidance Mark A is not the correct answer the sodium channel is not closed in depolarisation B is not the correct answer the sodium channel is not closed in depolarisation C is not the correct answer as the membrane potential is not decreasing in depolarisation (1) number Answer Additional guidance Mark • sodium (ion) {channels / voltage-gated channels} close (1) • potassium ions move out of cell via (voltage gated) potassium channels (1) • the inside of the axon becomes negatively charged (compared with the outside) (1) accept (voltage-gated) potassium (ion) channels open reject contradictions e.g. potassium ion moving in through open channels {decrease in membrane potential / back to (below)-70mv} ignore back to resting potential (3) number Answer Additional guidance Mark • measurement of scale bar converted to μm (1) • calculation of magnification and answer given in standard form (1) 9.5mm = 9500 (μm) ACCEPT 9000 to 10000 (μm) (9500÷50) = 190 = 1.9 x 10 accept 1.8 x 10 to 2.0 x 10 accept 2 x 10 180 to 200 gets 1 mark correct answer gains full marks (2) number Answer Additional guidance Mark • light (microscope) (1) mark first answer (1) number Answer Additional g",
+          "image": "/papers/wbi11-jan-2024/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2024/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2024-unit5-2024-01-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

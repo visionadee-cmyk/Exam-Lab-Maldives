@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2018-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Measure the unstretched length l 0 of the spring, in mm. l 0 = ....................................................mm [1] (b) Hang the 300 g mass on the spring, as shown in Fig. 1.1. clamp holding cork clamp holding spring spring mass pin in cork bench Fig. 1.1 (i) Measure the new length l of the spring. l = ................................",
+      "text": "1 (a) Measure the unstretched length l 0 of the spring, in mm. l 0 = ....................................................mm [1] (b) Hang the 300 g mass on the spring, as shown in Fig. 1.1. clamp holding cork clamp holding spring spring mass pin in cork bench Fig. 1.1 (i) Measure the new length l of the spring. l = ................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Measure the unstretched length l 0 of the spring, in mm. l 0 = ....................................................mm [1] (b) Hang the 300 g mass on the spring, as shown in Fig. 1.1. clamp holding cork clamp holding spring spring mass pin in cork bench Fig. 1.1 (i) Measure the new length l of the spring. l = ................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l sensible value, in mm Sensible l greater than l Correct calculation of e k calculated correctly t sensible T = t / 10 and T present with unit s k within 20% of previous value Idea of within (or beyond) limits of experimental accuracy explained, e.g. close enough, very close, too far apart",
+          "image": "/papers/physics-0625-2018/q1-1a.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "At least 3 additional values given Values between 50 g and 600 g 0625/51 October/November 2018 I to at least 2 dp and < A V values to at least 1 dp and < V V values increasing Axes correctly labelled and right way round Suitable scales All plots correct to ½ small square Good line judgement, single, thin, continuous line Triangle method seen on graph At least half of candidate’s line used and G present R correct to 2 or 3 significant figures Unit Ω / cm OR Ω 0625/51 October/November 2018 Normal through block Normal at centre of AB P and P at minimum distance apart of 5.0 cm a correct to ± mm b correct to ± mm and both with correct unit n correct, 2 or 3 significant figures with no unit n = 1.35 to 1.64 Second set of lines seen on trace in approximately correct positions and a and b recorded n within 10% of value in (b) two from: Lining up the pins exactly / seeing pins clearly Drawing accurate, thin lines Getting pins vertical Replacing block accurately on outline / outline larger than block / owtte 0625/51 October/November 2018 MP1 Workable, correct circuit diagram with power source and correct symbols for ammeter and voltmeter. Method to include: MP2 Measuring V and I MP3 Repeating with at least two other values of V or power, and / or I MP4 Measuring time to raise water temperature MP5 Any ONE from: Same starting temperature Same finishing temperature Same temperature difference Same room temperature Same volume / mass / amount of water MP6 Table with clear columns for time, V and I , with appropriate units and P (or V I ) MP7 Conclusion: Plot a graph of power against time.",
+          "image": "/papers/physics-0625-2018/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit5-2018-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

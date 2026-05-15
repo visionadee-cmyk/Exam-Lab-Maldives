@@ -1,0 +1,91 @@
+{
+  "paperId": "physics-0625-2016-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "two from: difficult to judge the best position of ‘almost balanced’ is the centre of mass of the ruler exactly over the pivot / has the rule slipped on the pivot? the load(s) obscure the scale the position of the (centre of the) load(s) is difficult to judge × 2 or 3 significant figures 1 1 Total: 11 Page 3 Mark Scheme Syllabus Paper 0625 52 V to at least 1dp and < 3 V and I to at least 2dp and < 1 A R correctly calculated new values present I < I and V < V units V and A at least once, not contradicted 1 1 correct R and unit Ω at least once, not contradicted new values present and I between I and I R values same within 10% new values present and I value largest, V value largest",
+          "image": "/papers/physics-0625-2016/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to agree with results justification to include the idea of within (or beyond) the limits of experimental accuracy 1 1",
+          "image": "/papers/physics-0625-2016/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "one from: power supply runs down zero error on meter wavering reading Total: 11 Page 4 Mark Scheme Syllabus Paper 0625 52 normal correct AB = 8 cm and i = 20° ± 1° 1 1 P distance at least 5.0 cm",
+          "image": "/papers/physics-0625-2016/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines neat and approximately correct table: x values measured correctly to ± mm from trace x values 1.8, 2.9, 4.2, 6.0, 8.7 ± 0.5 cm 1 1 axes correctly labelled suitable scales all plots correct to ½ small square good line judgement, thin and continuous line one from: difficult to judge when pins exactly in line ensure that the pins are vertical thickness of lines thickness of pins Protractor only measures to ± 1° Total: 11 Page 5 Mark Scheme Syllabus Paper 0625 52 4 clock / stopwatch and source of heat heat to boiling with and without lid measure time taken to reach boiling point/boil same volume / mass / amount of water same starting temperature suitable table with column headings and units (seconds or minutes) conclusion drawn Total: 7",
+          "image": "/papers/physics-0625-2016/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit5-2016-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

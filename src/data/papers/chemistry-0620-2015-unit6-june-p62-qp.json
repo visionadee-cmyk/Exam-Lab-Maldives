@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2015-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2015",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4f",
+          "text": "Part 4f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume of sodium thiosulfate: 50, 40, 35, 30, 20 volume of water: 0, 10, 15, 20, 30 all 10 correct = 1 mark; time: 45, 55, 66, 78, 140 all 5 correct for 2 marks 4 correct =1 mark; all times in seconds; I decimal places A ‘–‘ for ‘0’ smooth line graph; Page 5 Mark Scheme Syllabus Paper units; indication shown on graph; A s / sec / seconds the lines must not meet at any point / cm sodium thiosulfate / s / no water; / particles closer together / more concentrated / no water / more (frequent) collisions;",
+          "image": "/papers/chemistry-0620-2015/q4-4f.png"
+        },
+        {
+          "id": "4j",
+          "text": "Part 4j",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume over 50 cm / changing total volume; so not a fair test / so depth greater / cannot compare with other results; A (result) not valid any two from: • more accurate (measurement of volume); • comparison to measuring cylinder; • less accurate measurement of time; • as it takes longer to add the acid; A more precise / cross disappears faster; depth greater; R reacts faster Page 6 Mark Scheme Syllabus Paper paper turns blue / purple / green; A sharp I pH precipitate; R bright yellow 1 A above 7 / 7–14 / lead / calcium / silver; carbonate; / hydrogen ions are positive / cations / H +; 1 A hydrogen is positive A hydrogen gains electrons / hydrogen is reduced bleached / goes white; R other indicators / chlorine is soluble / gas dissolves / chlorine dissolves; 1 I hydrogen ions from water Page 7 Mark Scheme Syllabus Paper / collect gas etc.; mp5 (endpoint) until colour changes / until no more gas evolved / for one minute etc.; mp6 (measurement) volume of KOH added / volume of gas evolved; mp7 (conclusion) the higher concentration is the one that needs the greater volume of KOH / gives off the most gas etc.; max 6 There are many possible methods. The most common is titration by either adding tonic water to KOH or KOH to tonic water. However, reagents such as Mg or carbonates would also work. A a pH meter / probe could work. The volume of the tonic water does not matter, so mp1 should be replaced by constant temperature. A use of Universal Indicator with green as the endpoint A use of litmus",
+          "image": "/papers/chemistry-0620-2015/q4-4j.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit6-2015-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

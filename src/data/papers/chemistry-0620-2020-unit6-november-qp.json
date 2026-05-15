@@ -1,0 +1,131 @@
+{
+  "paperId": "chemistry-0620-2020-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A thermometer B (Liebig) condense r distillation",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "alcohols are flammable",
+          "image": "/papers/chemistry-0620-2020/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "heat to remove the ethanol collect propanol at 97 °C",
+          "image": "/papers/chemistry-0620-2020/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "water boils at 100 °C / water bath will not go above 100 °C OR butanol boils at over 100 °C / butanol boils at 117 °C 0620/61 October/November 2020",
+          "image": "/papers/chemistry-0620-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Measuring cylinder readings: 16; 23; 29; 39; 44; 48",
+          "image": "/papers/chemistry-0620-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 and M2 all points plotted correctly M3 ruler drawn straight line through first 4 points M4 ruler drawn straight line through last three points M5 straight lines have been extended so that they meet / cross correct reading from their working on graph",
+          "image": "/papers/chemistry-0620-2020/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all potassium iodide reacted / used-up",
+          "image": "/papers/chemistry-0620-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "maximum mass of precipitate is 2.55 g maximum mass reached at half volume of plotted graph / precise (than a measuring cylinder) (pipette measures a) fixed volume / cm r wash / rinse residue dry and weigh 0620/61 October/November 2020 Tests on solid Y",
+          "image": "/papers/chemistry-0620-2020/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "aluminium / A l 3+ nitrate / NO – Tests on solid Z precipitate insoluble / remains / no further change / remains purple 0620/61 October/November 2020 M1 whatever method is used, suitable apparatus – such as a flask or beaker – has been used. Copper( II ) sulfate first M2 add water (to dissolve copper sulfate) and later adds propanone (to dissolve cetyl alcohol) M3 stir / swirl / mix M4 filter (to remove silicon dioxide and cetyl alcohol) M5 evaporate solvent from filtrate or description. This must be done for the solutions obtained using both solvents. M6 filter and wash / rinse residue after adding the second solvent M7 dry residue (silicon dioxide) OR cetyl alcohol first M2 add propanone (to dissolve cetyl alcohol) and later adds water (to dissolve copper( II ) sulfate) M3 stir / swirl / mix M4 filter (to remove silicon dioxide and copper( II ) sulfate) M5 evaporate solvent from filtrate or description. This must be done for the solutions obtained using both solvents. M6 filter and wash residue after adding the second solvent M7 dry residue (silicon dioxide) max 6",
+          "image": "/papers/chemistry-0620-2020/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit6-2020-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

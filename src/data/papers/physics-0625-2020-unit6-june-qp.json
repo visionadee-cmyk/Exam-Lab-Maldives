@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2020-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The student places the metre rule on the pivot at the 50.0 cm mark. He places an object Q on the metre rule with its centre at the 90.0 cm mark. He places a load of weight P = 2.0 N on the metre rule and adjusts the position of the load so that the metre rule is as near as possible to being balanced. He measures the distance x from the centre of the load to the",
+      "text": "1 (a) The student places the metre rule on the pivot at the 50.0 cm mark. He places an object Q on the metre rule with its centre at the 90.0 cm mark. He places a load of weight P = 2.0 N on the metre rule and adjusts the position of the load so that the metre rule is as near as possible to being balanced. He measures the distance x from the centre of the load to the",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The student places the metre rule on the pivot at the 50.0 cm mark. He places an object Q on the metre rule with its centre at the 90.0 cm mark. He places a load of weight P = 2.0 N on the metre rule and adjusts the position of the load so that the metre rule is as near as possible to being balanced. He measures the distance x from the centre of the load to the",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.025, 0.037, 0.050, 0.063, 0.075 Consistent significant figures A xes correctly labelled and right way round Suitable scales All plots correct to small square Good line judgement, thin, continuous line Method shown clearly on graph Value correct to small square",
+          "image": "/papers/physics-0625-2020/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Clear wording or diagram Difficult to obtain balance point Idea of obtaining nearest to balance V = 3.5 I = 0.38 R = 9.21 (ecf allowed) Unit Ω 0625/61 May/June 2020",
+          "image": "/papers/physics-0625-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R = 5.7 and R = 4.6, with consistent 2 s f R =",
+          "image": "/papers/physics-0625-2020/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement matches readings (Expect B) Justification with suitable numbers quoted",
+          "image": "/papers/physics-0625-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three lamps in series, correct symbol Voltmeter across lamp L Other symbols and circuit correct at least 5.0 cm from P Straight line joining pin positions Extended at least 7 cm behind mirro r Correct line and correct position of Y labelled Correct a to within ± mm Correct b to within ± mm x measured and correct unit seen at a , b or x and not contradicted Diagram to show image in mirror meeting top of pin above mirro r",
+          "image": "/papers/physics-0625-2020/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement to match results Justification to match statement with correct reference to results 0625/61 May/June 2020 one from: Thickness to mirror Thickness of lines Difficulty in judging exact lining up of pins. MP1 Diagram to show container and thermomete r MP2 Hot water in a container. Record initial temperature and take temperature at intervals as it cools MP3 Repeat with at least three other colours Any two from: MP4 Same starting temperature Same room temperature MP5 Use of a lid At least three named colours Same thickness of paint MP6 Table with clear columns for temperature and / or time (to match method), with appropriate units MP7 Conclusion: Greatest temperature drop shows best radiator (o r reverse argument)",
+          "image": "/papers/physics-0625-2020/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit6-2020-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

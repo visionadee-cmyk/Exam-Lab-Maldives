@@ -1,0 +1,666 @@
+{
+  "paperId": "physics-0625-2019-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit2-november-p23-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/23",
+  "session": "October/November 2019",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which is the best apparatus to use to measure the thickness of a coin? A balance, B ruler with a millimetre scale, C micrometer screw gauge, D pressure gauge",
+      "text": "Which is the best apparatus to use to measure the thickness of a coin? A balance, B ruler with a millimetre scale, C micrometer screw gauge, D pressure gauge",
+      "options": [
+        "A balance",
+        "B ruler with a millimetre scale",
+        "C micrometer screw gauge",
+        "D pressure gauge"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of an object varies with time. At which labelled time is the object decelerating? 0 0 speed time CBDA",
+      "text": "The graph shows how the speed of an object varies with time. At which labelled time is the object decelerating? 0 0 speed time CBDA",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car travels at an average speed of 60 km / h for 15 minutes. How far does the car travel in 15 minutes? A 4.0 km B 15 km C 240 km D 900 km",
+      "text": "A car travels at an average speed of 60 km / h for 15 minutes. How far does the car travel in 15 minutes? A 4.0 km B 15 km C 240 km D 900 km",
+      "options": [
+        "A 4.0 km B 15 km C 240 km D 900 km"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which equation shows the relationship between the weight W and the mass m of an object? A W = m g, B W = mg, C W = m + g, D W = g m",
+      "text": "Which equation shows the relationship between the weight W and the mass m of an object? A W = m g, B W = mg, C W = m + g, D W = g m",
+      "options": [
+        "A W = m g",
+        "B W = mg",
+        "C W = m + g",
+        "D W = g m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A box of mass 2.0 kg is pulled across a horizontal floor by a force of 6.0 N. The frictional force acting on the box is 1.0 N. What is the acceleration of the box? A 0.40 m / s 2, B 2.5 m / s 2, C 3.0 m / s 2, D 3.5 m / s 2 3",
+      "text": "A box of mass 2.0 kg is pulled across a horizontal floor by a force of 6.0 N. The frictional force acting on the box is 1.0 N. What is the acceleration of the box? A 0.40 m / s 2, B 2.5 m / s 2, C 3.0 m / s 2, D 3.5 m / s 2 3",
+      "options": [
+        "A 0.40 m / s 2",
+        "B 2.5 m / s 2",
+        "C 3.0 m / s 2",
+        "D 3.5 m / s 2 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four hollow glass spheres P, Q, R and S each have a mass of 72 g. Their volumes are given in the table. volume / cm 3 P                55 Q                65 R                75 S                85 Which spheres sink in a liquid of density 0.9 g / cm 3 ? A P, Q and R B Q, R and S C R and S only D S only",
+      "text": "Four hollow glass spheres P, Q, R and S each have a mass of 72 g. Their volumes are given in the table. volume / cm 3 P                55 Q                65 R                75 S                85 Which spheres sink in a liquid of density 0.9 g / cm 3 ? A P, Q and R B Q, R and S C R and S only D S only",
+      "options": [
+        "A P, Q and R B Q, R and S C R and S only D S only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a uniform metre rule. The rule is pivoted at its mid-point. A downward force of 4.0 N acts on the rule at the 5 cm mark. The rule is held by a string at the 30 cm mark. The rule is in equilibrium. 5 4.0 N 50 100 cm mark 30 0 cm mark metre rule pivot string What is the upward force that the string exerts on the rule? A 0.67 N B 4.0 N C 6.0 N D 9.0 N",
+      "text": "The diagram shows a uniform metre rule. The rule is pivoted at its mid-point. A downward force of 4.0 N acts on the rule at the 5 cm mark. The rule is held by a string at the 30 cm mark. The rule is in equilibrium. 5 4.0 N 50 100 cm mark 30 0 cm mark metre rule pivot string What is the upward force that the string exerts on the rule? A 0.67 N B 4.0 N C 6.0 N D 9.0 N",
+      "options": [
+        "A 0.67 N B 4.0 N C 6.0 N D 9.0 N"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ship sails due North at a speed of 20 m / s. A current in the water begins to move from East to West. The speed of this current is 20 m / s. What is the magnitude of the resultant velocity of the ship? A 0 m / s B 20 m / s C 28 m / s D 40 m / s",
+      "text": "A ship sails due North at a speed of 20 m / s. A current in the water begins to move from East to West. The speed of this current is 20 m / s. What is the magnitude of the resultant velocity of the ship? A 0 m / s B 20 m / s C 28 m / s D 40 m / s",
+      "options": [
+        "A 0 m / s B 20 m / s C 28 m / s D 40 m / s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The momentum of a body is changed by a force acting on it for a period of time. Which action increases the change in momentum? A doubling the force and halving the time, B doubling the force for the same time, C halving both the force and time, D halving the force and doubling the time 4",
+      "text": "The momentum of a body is changed by a force acting on it for a period of time. Which action increases the change in momentum? A doubling the force and halving the time, B doubling the force for the same time, C halving both the force and time, D halving the force and doubling the time 4",
+      "options": [
+        "A doubling the force and halving the time",
+        "B doubling the force for the same time",
+        "C halving both the force and time",
+        "D halving the force and doubling the time 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  toy  train  P  of  mass  0.50 kg  is  travelling  along  a  straight  track  with  a  velocity  of  3.0 m / s.  It collides with a stationary train Q of mass 1.0 kg. The two trains then stick together. What is the velocity of the combined trains? A 1.0 m / s in the same direction as P was travelling originally, B 1.0 m / s in the reverse direction to that in which P was travelling originally, C 1.5 m / s in the same direction as P was travelling originally, D 1.5 m / s in the reverse direction to that in which P was travelling originally",
+      "text": "A  toy  train  P  of  mass  0.50 kg  is  travelling  along  a  straight  track  with  a  velocity  of  3.0 m / s.  It collides with a stationary train Q of mass 1.0 kg. The two trains then stick together. What is the velocity of the combined trains? A 1.0 m / s in the same direction as P was travelling originally, B 1.0 m / s in the reverse direction to that in which P was travelling originally, C 1.5 m / s in the same direction as P was travelling originally, D 1.5 m / s in the reverse direction to that in which P was travelling originally",
+      "options": [
+        "A 1.0 m / s in the same direction as P was travelling originally",
+        "B 1.0 m / s in the reverse direction to that in which P was travelling originally",
+        "C 1.5 m / s in the same direction as P was travelling originally",
+        "D 1.5 m / s in the reverse direction to that in which P was travelling originally"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "text": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "options": [
+        "A chemical",
+        "B elastic",
+        "C thermal",
+        "D sound"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A force of 25 N acts on an object. The work done by the force is 400 J. How far does the object move in the direction of the force? A 6.3 cm B 16 cm C 16 m D 10 km",
+      "text": "A force of 25 N acts on an object. The work done by the force is 400 J. How far does the object move in the direction of the force? A 6.3 cm B 16 cm C 16 m D 10 km",
+      "options": [
+        "A 6.3 cm B 16 cm C 16 m D 10 km"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  car  is  moving  along  a  straight  horizontal  road.  The  car  has  1.6 MJ  of  kinetic  energy.  The  car accelerates for 20 s until the kinetic energy of the car increases to 2.5 MJ. What is the minimum average power developed by the car engine for this acceleration? A 45 W B 205 W C 45 kW D 205 kW 5",
+      "text": "A  car  is  moving  along  a  straight  horizontal  road.  The  car  has  1.6 MJ  of  kinetic  energy.  The  car accelerates for 20 s until the kinetic energy of the car increases to 2.5 MJ. What is the minimum average power developed by the car engine for this acceleration? A 45 W B 205 W C 45 kW D 205 kW 5",
+      "options": [
+        "A 45 W B 205 W C 45 kW D 205 kW 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A drawing pin (thumb tack) has a sharp point at one end and a flat surface at the other end. flat surface sharp point The pin is pushed into a wooden board. How do the pressure and the force at the sharp point compare with the pressure and the force on the flat surface? force at the sharp point pressure at the sharp point A greater than on the flat surface greater than on the flat surface, B greater than on the flat surface less than on the flat surface, C the same as on the flat surface greater than on the flat surface, D the same as on the flat surface less than on the flat surface",
+      "text": "A drawing pin (thumb tack) has a sharp point at one end and a flat surface at the other end. flat surface sharp point The pin is pushed into a wooden board. How do the pressure and the force at the sharp point compare with the pressure and the force on the flat surface? force at the sharp point pressure at the sharp point A greater than on the flat surface greater than on the flat surface, B greater than on the flat surface less than on the flat surface, C the same as on the flat surface greater than on the flat surface, D the same as on the flat surface less than on the flat surface",
+      "options": [
+        "A greater than on the flat surface greater than on the flat surface",
+        "B greater than on the flat surface less than on the flat surface",
+        "C the same as on the flat surface greater than on the flat surface",
+        "D the same as on the flat surface less than on the flat surface"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row compares the separation and the motion of the molecules of a hot gas with those of a cool liquid? (Both the gas and the liquid are at the same pressure.) separation               motion A greater for a gas faster for a gas, B greater for a gas slower for a gas, C smaller for a gas faster for a gas, D smaller for a gas slower for a gas",
+      "text": "Which row compares the separation and the motion of the molecules of a hot gas with those of a cool liquid? (Both the gas and the liquid are at the same pressure.) separation               motion A greater for a gas faster for a gas, B greater for a gas slower for a gas, C smaller for a gas faster for a gas, D smaller for a gas slower for a gas",
+      "options": [
+        "A greater for a gas faster for a gas",
+        "B greater for a gas slower for a gas",
+        "C smaller for a gas faster for a gas",
+        "D smaller for a gas slower for a gas"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A fixed mass of gas has a volume of 25 cm 3 . The pressure of the gas is 100 kPa. The volume of the gas is slowly decreased by 15 cm 3 at constant temperature. What is the change in pressure of the gas? A 67 kPa B 150 kPa C 170 kPa D 250 kPa 6",
+      "text": "A fixed mass of gas has a volume of 25 cm 3 . The pressure of the gas is 100 kPa. The volume of the gas is slowly decreased by 15 cm 3 at constant temperature. What is the change in pressure of the gas? A 67 kPa B 150 kPa C 170 kPa D 250 kPa 6",
+      "options": [
+        "A 67 kPa B 150 kPa C 170 kPa D 250 kPa 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid turns into a gas. This occurs only at one particular temperature, and the change happens throughout the liquid. What is this process called? A boiling, B condensation, C evaporation, D fusion",
+      "text": "A liquid turns into a gas. This occurs only at one particular temperature, and the change happens throughout the liquid. What is this process called? A boiling, B condensation, C evaporation, D fusion",
+      "options": [
+        "A boiling",
+        "B condensation",
+        "C evaporation",
+        "D fusion"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a liquid-in-glass thermometer. –100 102030405060708090100110 °C liquid thread When the temperature of the thermometer rises, the changes produced cause the liquid thread to move to the right. Why does this happen when the temperature of the thermometer rises? A Gases contract and liquids expand., B Gases contract and solids expand., C Liquids expand more than gases., D Liquids expand more than solids. 7",
+      "text": "The diagram shows a liquid-in-glass thermometer. –100 102030405060708090100110 °C liquid thread When the temperature of the thermometer rises, the changes produced cause the liquid thread to move to the right. Why does this happen when the temperature of the thermometer rises? A Gases contract and liquids expand., B Gases contract and solids expand., C Liquids expand more than gases., D Liquids expand more than solids. 7",
+      "options": [
+        "A Gases contract and liquids expand.",
+        "B Gases contract and solids expand.",
+        "C Liquids expand more than gases.",
+        "D Liquids expand more than solids. 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sealed metal box contains a fixed mass of air. The sides of the box are insulated. top bottom air insulation metal box A scientist investigates the thermal conductivity of air. She measures how quickly thermal energy passes between the top and bottom of the box. Which row gives the correct procedure and conclusion? procedure                      conclusion, A heat bottom surface air is a good thermal conductor, B heat bottom surface air is a poor thermal conductor, C heat top surface air is a good thermal conductor, D heat top surface air is a poor thermal conductor",
+      "text": "A sealed metal box contains a fixed mass of air. The sides of the box are insulated. top bottom air insulation metal box A scientist investigates the thermal conductivity of air. She measures how quickly thermal energy passes between the top and bottom of the box. Which row gives the correct procedure and conclusion? procedure                      conclusion, A heat bottom surface air is a good thermal conductor, B heat bottom surface air is a poor thermal conductor, C heat top surface air is a good thermal conductor, D heat top surface air is a poor thermal conductor",
+      "options": [
+        "A scientist investigates the thermal conductivity of air. She measures how quickly thermal energy passes between the top and bottom of the box. Which row gives the correct procedure and conclusion? procedure                      conclusion",
+        "A heat bottom surface air is a good thermal conductor",
+        "B heat bottom surface air is a poor thermal conductor",
+        "C heat top surface air is a good thermal conductor",
+        "D heat top surface air is a poor thermal conductor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In a cold country, the ground is covered in snow. There is a pile of black sand outdoors and its temperature is the same as that of the snow. A man sprinkles a thin layer of this sand over the snow. Why does the black sand help to melt the snow during the day? A Any thermal energy still left in the sand will melt the snow., B The black sand is a good absorber of the infrared radiation from the Sun., C The black sand is a good conductor of thermal energy., D The black sand lowers the melting point of the snow. 8",
+      "text": "In a cold country, the ground is covered in snow. There is a pile of black sand outdoors and its temperature is the same as that of the snow. A man sprinkles a thin layer of this sand over the snow. Why does the black sand help to melt the snow during the day? A Any thermal energy still left in the sand will melt the snow., B The black sand is a good absorber of the infrared radiation from the Sun., C The black sand is a good conductor of thermal energy., D The black sand lowers the melting point of the snow. 8",
+      "options": [
+        "A Any thermal energy still left in the sand will melt the snow.",
+        "B The black sand is a good absorber of the infrared radiation from the Sun.",
+        "C The black sand is a good conductor of thermal energy.",
+        "D The black sand lowers the melting point of the snow. 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A large hill blocks the direct path between a transmitter of radio waves and a receiver, as shown. hill transmitter receiver The receiver picks up the signal from the transmitter even though the radio waves do not travel through the hill. Which row is correct? A possible way for this to happen is, A stronger signal is received using, A diffraction round the hill. longer wavelengths., B diffraction round the hill. shorter wavelengths., C refraction round the hill. longer wavelengths., D refraction round the hill. shorter wavelengths.",
+      "text": "A large hill blocks the direct path between a transmitter of radio waves and a receiver, as shown. hill transmitter receiver The receiver picks up the signal from the transmitter even though the radio waves do not travel through the hill. Which row is correct? A possible way for this to happen is, A stronger signal is received using, A diffraction round the hill. longer wavelengths., B diffraction round the hill. shorter wavelengths., C refraction round the hill. longer wavelengths., D refraction round the hill. shorter wavelengths.",
+      "options": [
+        "A possible way for this to happen is",
+        "A stronger signal is received using",
+        "A diffraction round the hill. longer wavelengths.",
+        "B diffraction round the hill. shorter wavelengths.",
+        "C refraction round the hill. longer wavelengths.",
+        "D refraction round the hill. shorter wavelengths."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A person stands 1.0 m in front of a plane mirror. The mirror is moved away from the person at a speed of 1.0 m / s. Which statement is correct? A The image moves away from the person at a speed of 1.0 m / s., B The image moves away from the person at a speed of 2.0 m / s., C The image moves towards the person at a speed of 1.0 m / s., D The image moves towards the person at a speed of 2.0 m / s.",
+      "text": "A person stands 1.0 m in front of a plane mirror. The mirror is moved away from the person at a speed of 1.0 m / s. Which statement is correct? A The image moves away from the person at a speed of 1.0 m / s., B The image moves away from the person at a speed of 2.0 m / s., C The image moves towards the person at a speed of 1.0 m / s., D The image moves towards the person at a speed of 2.0 m / s.",
+      "options": [
+        "A The image moves away from the person at a speed of 1.0 m / s.",
+        "B The image moves away from the person at a speed of 2.0 m / s.",
+        "C The image moves towards the person at a speed of 1.0 m / s.",
+        "D The image moves towards the person at a speed of 2.0 m / s."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "White light is refracted and dispersed when it enters a glass prism from air. Which colour has the lowest speed as it moves through the glass prism? A blue light, B orange light, C red light, D violet light 9",
+      "text": "White light is refracted and dispersed when it enters a glass prism from air. Which colour has the lowest speed as it moves through the glass prism? A blue light, B orange light, C red light, D violet light 9",
+      "options": [
+        "A blue light",
+        "B orange light",
+        "C red light",
+        "D violet light 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the electromagnetic spectrum. γ-raysX-raysultravioletvisible lightinfraredmicrowaves radio waves increasing ...................... A word is missing from the label below the spectrum. Which word is missing?, A amplitude, B frequency, C speed, D wavelength",
+      "text": "The diagram shows the electromagnetic spectrum. γ-raysX-raysultravioletvisible lightinfraredmicrowaves radio waves increasing ...................... A word is missing from the label below the spectrum. Which word is missing?, A amplitude, B frequency, C speed, D wavelength",
+      "options": [
+        "A word is missing from the label below the spectrum. Which word is missing?",
+        "A amplitude",
+        "B frequency",
+        "C speed",
+        "D wavelength"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row gives a possible set of values for the speed of sound in ice, in water and in steam? speed of sound in ice m/s speed of sound in water m/s speed of sound in steam m/s A 500                         1500                         4000, B 1500                         4000                           500, C 4000                           500                           1500, D 4000                         1500                           500",
+      "text": "Which row gives a possible set of values for the speed of sound in ice, in water and in steam? speed of sound in ice m/s speed of sound in water m/s speed of sound in steam m/s A 500                         1500                         4000, B 1500                         4000                           500, C 4000                           500                           1500, D 4000                         1500                           500",
+      "options": [
+        "A 500                         1500                         4000",
+        "B 1500                         4000                           500",
+        "C 4000                           500                           1500",
+        "D 4000                         1500                           500"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  steel  bar  is  placed  in  an  East-West  direction  for  it  to  be  demagnetised.  No  other  magnet  is nearby. Which method is not suitable? A Hammering the bar., B Heating the bar to a very high temperature., C Slowly taking the bar out of a coil that carries an alternating current., D Slowly taking the bar out of a coil that carries a direct current. 10",
+      "text": "A  steel  bar  is  placed  in  an  East-West  direction  for  it  to  be  demagnetised.  No  other  magnet  is nearby. Which method is not suitable? A Hammering the bar., B Heating the bar to a very high temperature., C Slowly taking the bar out of a coil that carries an alternating current., D Slowly taking the bar out of a coil that carries a direct current. 10",
+      "options": [
+        "A Hammering the bar.",
+        "B Heating the bar to a very high temperature.",
+        "C Slowly taking the bar out of a coil that carries an alternating current.",
+        "D Slowly taking the bar out of a coil that carries a direct current. 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plastic rod is rubbed with a dry cloth. The rod becomes positively charged. Why has the rod become positively charged? A It has gained electrons., B It has gained neutrons., C It has lost electrons., D It has lost neutrons.",
+      "text": "A plastic rod is rubbed with a dry cloth. The rod becomes positively charged. Why has the rod become positively charged? A It has gained electrons., B It has gained neutrons., C It has lost electrons., D It has lost neutrons.",
+      "options": [
+        "A It has gained electrons.",
+        "B It has gained neutrons.",
+        "C It has lost electrons.",
+        "D It has lost neutrons."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current of 3.0 A in a resistor for time t. During time t, a charge of 120 C flows through the resistor. What is time t ?, A 0.025 minutes, B 0.025 s, C 40 minutes, D 40 s",
+      "text": "There is a current of 3.0 A in a resistor for time t. During time t, a charge of 120 C flows through the resistor. What is time t ?, A 0.025 minutes, B 0.025 s, C 40 minutes, D 40 s",
+      "options": [
+        "A in a resistor for time t. During time t, a charge of 120 C flows through the resistor. What is time t ?",
+        "A 0.025 minutes",
+        "B 0.025 s",
+        "C 40 minutes",
+        "D 40 s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Identical resistors are connected together to form arrangements X, Y and Z. XYZ What is the correct order of the resistances of the arrangements from the largest to the smallest? A X → Y → Z, B Y → X → Z, C Z → X → Y, D Z → Y → X 11",
+      "text": "Identical resistors are connected together to form arrangements X, Y and Z. XYZ What is the correct order of the resistances of the arrangements from the largest to the smallest? A X → Y → Z, B Y → X → Z, C Z → X → Y, D Z → Y → X 11",
+      "options": [
+        "A X → Y → Z",
+        "B Y → X → Z",
+        "C Z → X → Y",
+        "D Z → Y → X 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Resistors  of  resistance  1.0 Ω,  2.0 Ω  and  3.0 Ω  are  connected  in  parallel  across  the  terminals  of a cell. Which statement is correct? A The currents in the resistors are equal., B The sum of the currents in the three resistors is equal to the current in the cell., C The sum of the potential differences (p.d.’s) across the resistors is equal to the electromotive force (e.m.f.) of the cell., D The  potential  difference  across  the  3.0 Ω  resistor  is  greater  than  the  potential  difference across the other two resistors.",
+      "text": "Resistors  of  resistance  1.0 Ω,  2.0 Ω  and  3.0 Ω  are  connected  in  parallel  across  the  terminals  of a cell. Which statement is correct? A The currents in the resistors are equal., B The sum of the currents in the three resistors is equal to the current in the cell., C The sum of the potential differences (p.d.’s) across the resistors is equal to the electromotive force (e.m.f.) of the cell., D The  potential  difference  across  the  3.0 Ω  resistor  is  greater  than  the  potential  difference across the other two resistors.",
+      "options": [
+        "A The currents in the resistors are equal.",
+        "B The sum of the currents in the three resistors is equal to the current in the cell.",
+        "C The sum of the potential differences (p.d.’s) across the resistors is equal to the electromotive force (e.m.f.) of the cell.",
+        "D The  potential  difference  across  the  3.0 Ω  resistor  is  greater  than  the  potential  difference across the other two resistors."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows a circuit containing an a.c. power supply, an unknown component X and a fixed resistor. The graph in diagram 2 shows how the potential difference (p.d.) across the resistor varies with time. X diagram 1diagram 2 0 0 p.d. time What is component X? A thermistor, B relay coil, C diode, D light-dependent resistor 12",
+      "text": "Diagram 1 shows a circuit containing an a.c. power supply, an unknown component X and a fixed resistor. The graph in diagram 2 shows how the potential difference (p.d.) across the resistor varies with time. X diagram 1diagram 2 0 0 p.d. time What is component X? A thermistor, B relay coil, C diode, D light-dependent resistor 12",
+      "options": [
+        "A thermistor",
+        "B relay coil",
+        "C diode",
+        "D light-dependent resistor 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An AND gate has two inputs and one output. Which truth table represents the action of the AND gate? A B input 1 input 2 output  input 1 input 2 output 0              0              0                              0              0              0 0              1              1                              0              1              0 1              0              1                              1              0              0 1              1              1                              1              1              1 C D input 1 input 2 output  input 1 input 2 output 0              0              1                              0              0              1 0              1              1                              0              1              0 1              0              1                              1              0              0 1              1              0                              1              1              0",
+      "text": "An AND gate has two inputs and one output. Which truth table represents the action of the AND gate? A B input 1 input 2 output  input 1 input 2 output 0              0              0                              0              0              0 0              1              1                              0              1              0 1              0              1                              1              0              0 1              1              1                              1              1              1 C D input 1 input 2 output  input 1 input 2 output 0              0              1                              0              0              1 0              1              1                              0              1              0 1              0              1                              1              0              0 1              1              0                              1              1              0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Where must a fuse be connected in a mains electric circuit? A the earth wire only, B the live wire only, C the neutral wire only, D the live wire and the earth wire",
+      "text": "Where must a fuse be connected in a mains electric circuit? A the earth wire only, B the live wire only, C the neutral wire only, D the live wire and the earth wire",
+      "options": [
+        "A the earth wire only",
+        "B the live wire only",
+        "C the neutral wire only",
+        "D the live wire and the earth wire"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  wire  XY  is  connected  to  a  resistor  R.  The  wire is  moved  in  the  magnetic  field  between  two magnetic poles. In which direction must the wire be moved so that the induced current is in the direction shown? S N R A B DC X Y induced current 13",
+      "text": "A  wire  XY  is  connected  to  a  resistor  R.  The  wire is  moved  in  the  magnetic  field  between  two magnetic poles. In which direction must the wire be moved so that the induced current is in the direction shown? S N R A B DC X Y induced current 13",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A step-up transformer produces a 60 V a.c. output from a 12 V a.c. input. There are 50 turns on the secondary coil. How many turns are there on the primary coil? A 5 B 10 C 50 D 250",
+      "text": "A step-up transformer produces a 60 V a.c. output from a 12 V a.c. input. There are 50 turns on the secondary coil. How many turns are there on the primary coil? A 5 B 10 C 50 D 250",
+      "options": [
+        "A 5 B 10 C 50 D 250"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An a.c. generator contains a coil that rotates at a rate of 4500 revolutions per minute. What is the frequency of the alternating current? A 1.25 Hz B 75 Hz C 150 Hz D 4500 Hz",
+      "text": "An a.c. generator contains a coil that rotates at a rate of 4500 revolutions per minute. What is the frequency of the alternating current? A 1.25 Hz B 75 Hz C 150 Hz D 4500 Hz",
+      "options": [
+        "A 1.25 Hz B 75 Hz C 150 Hz D 4500 Hz"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why are some radioactive sources stored in boxes made from lead? A Lead absorbs emissions from the radioactive sources., B Lead decreases the half-life of radioactive sources., C Lead increases the half-life of radioactive sources., D Lead repels emissions from the radioactive sources.",
+      "text": "Why are some radioactive sources stored in boxes made from lead? A Lead absorbs emissions from the radioactive sources., B Lead decreases the half-life of radioactive sources., C Lead increases the half-life of radioactive sources., D Lead repels emissions from the radioactive sources.",
+      "options": [
+        "A Lead absorbs emissions from the radioactive sources.",
+        "B Lead decreases the half-life of radioactive sources.",
+        "C Lead increases the half-life of radioactive sources.",
+        "D Lead repels emissions from the radioactive sources."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents a neutral atom. nucleus Which row identifies each type of particle in the diagram? A electron               neutron                proton, B electron                proton                neutron, C neutron               electron                proton, D proton                electron                neutron 14",
+      "text": "The diagram represents a neutral atom. nucleus Which row identifies each type of particle in the diagram? A electron               neutron                proton, B electron                proton                neutron, C neutron               electron                proton, D proton                electron                neutron 14",
+      "options": [
+        "A electron               neutron                proton",
+        "B electron                proton                neutron",
+        "C neutron               electron                proton",
+        "D proton                electron                neutron 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  thin  metal  foil  is  placed  in  a  vacuum.  α-particles  are  fired  at  the  foil  and  most  go  straight through. A very small proportion of the α-particles are deflected through large angles. What does this provide evidence for? A α-particles are very small., B There are negative electrons in each atom., C There is a tiny nucleus in each atom., D There are neutrons in each atom.",
+      "text": "A  thin  metal  foil  is  placed  in  a  vacuum.  α-particles  are  fired  at  the  foil  and  most  go  straight through. A very small proportion of the α-particles are deflected through large angles. What does this provide evidence for? A α-particles are very small., B There are negative electrons in each atom., C There is a tiny nucleus in each atom., D There are neutrons in each atom.",
+      "options": [
+        "A α-particles are very small.",
+        "B There are negative electrons in each atom.",
+        "C There is a tiny nucleus in each atom.",
+        "D There are neutrons in each atom."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The background count rate measured by a radiation counter is 40 counts per minute. With the counter close to a radioactive source, the counter reading is 960 counts per minute. The half-life of the source is 20 minutes. What is the counter reading one hour later? A 115 counts per minute, B 120 counts per minute, C 155 counts per minute, D 160 counts per minute 15 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "text": "The background count rate measured by a radiation counter is 40 counts per minute. With the counter close to a radioactive source, the counter reading is 960 counts per minute. The half-life of the source is 20 minutes. What is the counter reading one hour later? A 115 counts per minute, B 120 counts per minute, C 155 counts per minute, D 160 counts per minute 15 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "options": [
+        "A 115 counts per minute",
+        "B 120 counts per minute",
+        "C 155 counts per minute",
+        "D 160 counts per minute 15 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit2-2019-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "biology-0610-2021-unit3-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit3-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/31",
+  "session": "May/June 2021",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 several (Petri) dishes; at least 5 seeds / seedlings in each (Petri) dish; water / solutions of different pHs used AW; at least 3 × pH numbers between 1–14 used; (control variables) temperature / (sun)light / same type of seed / volume of water; same length of time (minimum one day); height of seedlings measured; sample of at least 3 seedlings + from each dish / pH; means calculated; 5090/31 May/June 2021; ; 1 A artery / vein R capillary Ig names",
+          "image": "/papers/biology-0610-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 clear and clean outline of heart drawn with a sharp pencil + no shading; heart at least 70 mm wide; height greater than width + tapering on both sides to curved base; surface blood vessel A from top right to bottom left of drawing; left atrium completely delimited + right atrium higher than left; ; ±; horizontal line drawn at greatest width; correct measurement to nearest mm ±; (c)(ii) / measurement in (c)(i); correct answer rounded to 1dp;",
+          "image": "/papers/biology-0610-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit3-2021-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

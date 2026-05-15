@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial volume completed correctly: 0.0 final volume completed correctly: 13.0 difference: 13.0",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "final volume, initial volume and difference completed correctly: 41.1, 2.1 and 39.0 all readings in (a) and (b) to 1 d.p.",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "there is a colour change at the end-point already C a greater volume of potassium manganate( VII ) / solution A was needed 0620/62 May/June 2017 3 × as concentrated double the volume of solution C was used / double the volume of solution A was needed cm problem: volume of potassium manganate( VII ) solution added would be greater than 50 cm solution: use more than one burette / refill burette",
+          "image": "/papers/chemistry-0620-2017/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "advantage: easy (to use) / quick disadvantage: not accurate",
+          "image": "/papers/chemistry-0620-2017/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "can take average or mean / can spot anomalies / more reliable",
+          "image": "/papers/chemistry-0620-2017/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial temperature and final temperature recorded correctly: 19, 23 temperature difference correctly calculated: 4 / Na + sulfite / SO – precipitate 0620/62 May/June 2017 the filtration method any 6 from: • weigh mixture (of calcium carbonate and kaolinite) • add (dilute) hydrochloric acid • in excess / continue adding until there is no more fizzing / add until no more gas is evolved • filter • wash residue / kaolinite • dry • weigh residue / kaolinite • (change in mass / initial mass) × 100 (%) the gas collection / loss of mass method any 6 from: • weigh mixture (of calcium carbonate and kaolinite) • add (dilute) hydrochloric acid • in excess / continue adding until there is no more fizzing / add until no more gas is evolved • collect gas in a syringe / measure final total mass • measure volume of gas / mass loss • calculate moles of CaCO / CO • calculate mass of CaCO • (mass of CaCO / initial mass) × 100 (%) the calcium chloride method any 4 from: • weigh mixture (of calcium carbonate and kaolinite) • add (dilute) hydrochloric acid • in excess / continue adding until there is no more fizzing / add until no more gas is evolved • filter",
+          "image": "/papers/chemistry-0620-2017/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

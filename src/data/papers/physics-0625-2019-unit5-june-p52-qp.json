@@ -1,0 +1,187 @@
+{
+  "paperId": "physics-0625-2019-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 16,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "1 (a) Place the metre rule on the pivot, without the loads P and Q, and adjust its position so that the metre rule is as near as possible to being balanced. The rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that the edge that is furthest from the pivot is exactly at the 10.0 cm mark on the rule.",
+      "text": "1 (a) Place the metre rule on the pivot, without the loads P and Q, and adjust its position so that the metre rule is as near as possible to being balanced. The rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that the edge that is furthest from the pivot is exactly at the 10.0 cm mark on the rule.",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Place the metre rule on the pivot, without the loads P and Q, and adjust its position so that the metre rule is as near as possible to being balanced. The rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that the edge that is furthest from the pivot is exactly at the 10.0 cm mark on the rule.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a values decreasing b values decreasing, all values in cm",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "graph: axes correctly labelled and right way round suitable scales – must start from (0,0) all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method used and seen on graph triangle at least half of candidate’s line",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "intercept correct to ½ small square",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "width = 2.0 to 4.0 cm with correct unit",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficulty: achieving exact balance/keeping the pivot in the same position/locating the centre of load Q/load(s) slipping/load obscuring readings on the rule 0625/52 May/June 2019",
+          "image": "/papers/physics-0625-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value for room temperature with unit ºC",
+          "image": "/papers/physics-0625-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct times in both tables temperatures decreasing in Table 2.1 consistent significant figures for temperatures in both tables",
+          "image": "/papers/physics-0625-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "decreasing temperatures in Table 2.2 overall temperature decrease the same or greater than in Table 2.1 correct box ticked to match readings justification to match temperature readings reference to same time",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one from: higher room temperature lower starting/initial temperature thicker/better insulation (f) perpendicular viewing of thermometer/view (reading) at eye level/stir the water/thermometer not touching the sides of the beaker/wait for the temperature to stop rising (initially) 0625/52 May/June 2019 V to at least 1 decimal place and < 3 V I to at least 2 decimal places and < 1 A R correct",
+          "image": "/papers/physics-0625-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V present R correct",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V and I present, R and R same ± 10%",
+          "image": "/papers/physics-0625-2019/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V present and unit Ω",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match results justification to match results",
+          "image": "/papers/physics-0625-2019/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct symbols with resistors and lamp in parallel only one voltmeter used and correctly positioned",
+          "image": "/papers/physics-0625-2019/q3-3f.png"
+        },
+        {
+          "id": "3g",
+          "text": "Part 3g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "variable resistor 0625/52 May/June 2019 Apparatus MP1 diagram showing object, lens, screen/image in correct order MP2 u and v correctly labelled on diagram Method MP3 measure/record u and v and lens thickness t MP4 repeat with a different lens MP5 method of obtaining a sharp image by moving object, lens or screen « . Measuring lens thickness MP6 use of blocks either side of lens (and measure distance) Table MP7 table with columns for u , v and t with correct units",
+          "image": "/papers/physics-0625-2019/q3-3g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 16,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

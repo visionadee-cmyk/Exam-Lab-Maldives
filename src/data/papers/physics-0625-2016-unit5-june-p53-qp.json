@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2016-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Record the scale reading S 0 on the metre rule at the level of the bottom of the spring, as shown in Fig. 1.1. S 0 = ........................................................ mm • Hang a load L of 1.0 N on the spring. Record, in Table 1.1, the scale reading S on the metre rule at the level of the bottom of the sprin",
+      "text": "1 (a) • Record the scale reading S 0 on the metre rule at the level of the bottom of the spring, as shown in Fig. 1.1. S 0 = ........................................................ mm • Hang a load L of 1.0 N on the spring. Record, in Table 1.1, the scale reading S on the metre rule at the level of the bottom of the sprin",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) • Record the scale reading S 0 on the metre rule at the level of the bottom of the spring, as shown in Fig. 1.1. S 0 = ........................................................ mm • Hang a load L of 1.0 N on the spring. Record, in Table 1.1, the scale reading S on the metre rule at the level of the bottom of the sprin",
+          "marks": 1,
+          "type": "structured",
+          "answer": "S in the range 200 to 600 mm table: S values increasing and first > S e values correct 1 1 t square, pointer between bottom of spring and scale or other fiducial aid axes correctly labelled with quantity and unit appropriate scales (plots occupying at least ½ grid) all plots correct to ½ small square well-judged judgement, thin, continuous line, neat plots 1 1 1 1",
+          "image": "/papers/physics-0625-2016/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "S X between 3N and 4N in table and ( S X − S ) correct method clearly shown on graph W in the range 3.3 to 3.5 and correct unit 1 1 1 Total 11 Page 4 Mark Scheme Syllabus Paper 0625 53 °C seen at least once with no contradiction all temperatures recorded temperatures decreasing in all beakers least decrease in beaker A / greatest in beaker B evidence of temperature readings to at least 1 °C 1 1 1 1 1 two from: • room temperature (or suitable reference to draughts or similar) • starting temperature (of water) • density of packing / amount / type of insulation • thickness of lids / identical lids / view scale at right angles / eye level reading to bottom of meniscus 1 1 Total 11 Page 5 Mark Scheme Syllabus Paper 0625 53 a = 19 to 21 (cm) b = 59 to 61 (cm) m correct, no unit and 2/3 significant figures only h = 4.0 to 5.0 (cm) x = 59 to 61 (cm) and y = 19 to 21 (cm) m in range. 0.3 to 1.0 and h < 1.5 (cm) m × m = 0.9 to 1.1 1 1 justification to include idea of within (or beyond) limits of experimental accuracy 1 1 two from: • use of darkened room / brighter lamp / no other lights • mark position of centre of lens on holder • place metre rule on bench (or clamp in position) • ensure object and centre of lens are same height above bench • move the lens slowly / to and fro (when focussing) • lens, object and screen vertical / perpendicular to bench • repeat with different D • use of graph paper / cm scale on screen to measure image Total 11 Page 6 Mark Scheme Syllabus Paper 0625 53 circuit diagram sample of wire must be clearly identifiable by a label on the diagram or by letters on the diagram with an explanation in the text and the voltmeter must be in parallel with the total length of the wire and an ammeter placed in series with the wire all circuit symbols correct method take readings of V and I use of a variety of lengths range of lengths between 5 cm and 2 m with the largest length at least twice the smallest table headings: l / m, V / V, I / A, R / Ω key variables",
+          "image": "/papers/physics-0625-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit5-2016-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

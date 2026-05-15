@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2019-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit6-november-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "October/November 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) On Fig. 1.1, draw the symbol for a voltmeter connected to measure the potential difference across the lamp. [1] (b) The student connects the crocodile clip to a length l = 20.0 cm of the slide wire. He measures the potential difference V and the current I for the lamp. (i) Record the voltmeter and ammeter readings shown in Fig. 1.2",
+      "text": "1 (a) On Fig. 1.1, draw the symbol for a voltmeter connected to measure the potential difference across the lamp. [1] (b) The student connects the crocodile clip to a length l = 20.0 cm of the slide wire. He measures the potential difference V and the current I for the lamp. (i) Record the voltmeter and ammeter readings shown in Fig. 1.2",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) On Fig. 1.1, draw the symbol for a voltmeter connected to measure the potential difference across the lamp. [1] (b) The student connects the crocodile clip to a length l = 20.0 cm of the slide wire. He measures the potential difference V and the current I for the lamp. (i) Record the voltmeter and ammeter readings shown in Fig. 1.2",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct voltmeter symbol in parallel with lamp V = 0.6(V) and I = 0.14(A) R = 4.3( Ω ) axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to less than ½ small square and precise plots well-judged line and thin line",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "resistance increases as temperature increases temperature / resistance increases with length",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "variable resistor symbol correct (rectangle with strike-through arrow only) in series and rest of circuit correct 0625/63 October/November 2019 u = 5.0(cm) and v = 7.6(cm) U = 25(.0)(cm) and V = 38(.0)(cm) f 15(.1)(cm) and 2/3 sig fig and unit move screen slowly / backwards and forwards h O = 1.5(cm) and h I = 2.4(cm) M = 1.6 and no unit f = 15 / 14.6(cm)",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results values within limits of experimental accuracy / owtte one from: • mark position of lens on holder; • clamp rule / place rule on bench; • ensure screen, lens and object all perpendicular (to bench) / vertical; • view scale perpendicularly; • mark top and bottom of image and measure later",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "either method suggested if matching valid explanation e.g. METHOD 1: difficult to measure height of image in method 2 METHOD 1: smaller lengths measured in method 2 / reverse argument METHOD 2: can’t measure u and v to lens accurately in method 1 0625/63 October/November 2019 two from: • rule close / parallel to spring; • eye perpendicular to reading / use set square; • clamp rule",
+          "image": "/papers/physics-0625-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculations of e (4.2, 8.4, 12.6) l x = 11.4(cm) 2.0 N < W x < 2.5(N) working showing use of ratio/correct logic",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "data only given to 1 dp / 2 or 3 sig fig correct justification matching statement e.g. • L / e constant • e doubles when L doubles (line) through origin 0625/63 October/November 2019 MP1 Apparatus beaker and (material for) lid and thermometer and stop clock (or alternative) MP2 Method pour (hot) water into container measure temperature of (hot) water over period of time MP3 Method repeat for different thicknesses of lid MP4 & MP5 Control variables any two from: • same initial/starting temperature of water; • same volume of water; • same size / material / thickness of beaker; • same material for lid; • same time for measuring temperature change / same temperature difference for measuring time taken • same room temperature / other environmental condition MP6 Table suitable column headings and units MP7 Analysis any one from: • comparison of temperature decrease / rates of cooling with thickness / different lids • draw a suitable graph with axes stated",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit6-2019-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

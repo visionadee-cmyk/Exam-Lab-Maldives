@@ -1,0 +1,59 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− A",
+          "image": "/papers/computer_science-0478-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− C",
+          "image": "/papers/computer_science-0478-2023/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Control unit − (The CPU completes) 2.4 billion − ... cycles/clock pulses per second − Stores data ... − ... that has been fetched/to be written to memory − Memory address register // MAR − Program counter // PC − Current instruction register // CIR − Accumulator // ACC Question Answer Marks − 17 − 70 (Correct fee $17.70) Register 1 − 00001110 Register 2 − 01100010 October/November 2023 Question Answer Marks − A − 0 − 3 − D (Ticket number A03D) − It contains logic gates/switches ... − ... that process the values 1 and 0 // have two states − Compares the ticket number received to stored data − ... that is a database/file of ticket numbers − ... checks the ticket number is listed as paid − If the data matches/cost is paid it sends a signal to raise the barrier − If the data does not match/cost is not paid, the barrier remains down October/November 2023 Question Answer Marks 3 One mark for each correct term: Term Description hardware A collective term for the physical components of the computer system. application software A type of software that provides services that the user requires and allows the user to perform tasks on the computer. operating system A type of software that manages the main functions of the computer, including managing files and managing memory. firmware A type of software that is stored in the read only memory (ROM). It includes the basic input output system (BIOS) and the bootloader. Question Answer Marks − Serial half-duplex − Serial full-duplex − The number of 1 s/0 s are counted − A parity bit is added to each byte/7 bits before transmission − ... to make the sum of the bits/1 or 0 s in each byte odd − After transmission, if the number is odd no error is detected − After transmission, if the number is even an error is detected October/November 2023 Question Answer Marks Question Answer Marks − (The analogue sound is) recorded using a microphone − The sound wave is sampled − ... measuring the height/amplitude − Each amplitude has a unique bi",
+          "image": "/papers/computer_science-0478-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

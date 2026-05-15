@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-may-2023-unit2-qp",
+  "pairedMarkSchemeId": "wph11-may-2023-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "May 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of v = √ 푇 휇 Use of v = f λ And λ = 2L f = 293 (Hz, which is closest to) String 2 Example of calculation v = √ 푇 휇 = √ 71.5 N 2.03 ×10 −3 kg m −1 = 187.7 m s −1 v = f λ, so f = 187.7 m s −1 / (2 × 0.32 m) = 293 Hz (1) (1) (1) (1) Waves have different speeds/wavelengths Sound wave has same amplitude for all points and stationary wave does not Sound waves transfer energy and stationary waves do not Waves on string are transverse and sound waves are longitudinal (MP2 – do not allow contradictions e.g. “they have different speeds but the same wavelength”) (1) (1) (1) (1) (1) Total for question 18 12 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2023/q18-18b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q18.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

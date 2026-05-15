@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2022-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit4-november-p43-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "October/November 2022",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Define acceleration. ................................................................................................................................................... ............................................................................................................................................. [1] (b) (i) Calculate the average acceleration of the aeroplane",
+      "text": "1 (a) Define acceleration. ................................................................................................................................................... ............................................................................................................................................. [1] (b) (i) Calculate the average acceleration of the aeroplane",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Define acceleration. ................................................................................................................................................... ............................................................................................................................................. [1] (b) (i) Calculate the average acceleration of the aeroplane",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change of velocity per unit time or vu t − B1 A1 F = ma OR (F =) ma OR 110 000  2.1 C1 • (increase / change in) air resistance • (increase / change in) wind B1 • initial acceleration highest value AND horizontal line • curved or straight line downwards • curved or straight line downwards AND line not reaching zero by 35 s • horizontal line before and up to 35 s. B3 October/November 2022 Question Answer Marks p = mv OR (change in momentum =) mv – mu C1 (change in momentum =) ()() 0.058 52 0.058 26  − − OR ()() 0.058 52 0.058 26 + OR ()() 0.058 26 0.058 52 − − C1 (impulse =) force  time OR (impulse =) Ft B1 (t =) change in momentum / F OR (t =) m(v–u) / F OR (t =) p / F OR 4.5 / 350 C1 KE = ½mv OR (KE =) ½mv C1 (change in KE) = ½ 0.058  52 – ½ 0.058  26 OR ½ 0.058  26 – ½ 0.058  52 C1 October/November 2022 Question Answer Marks gravitational potential water (tidal) bay kinetic turbines B3 • renewable • reliable or predictable • running cost low • does not produce (harmful) pollution. any one disadvantage from: • (high) cost of construction • possible effects on (marine) life • not available all day • power produced doesn’t always match with peak demand • limited number of sites • maintenance difficult / increased corrosion (because underwater). B2 October/November 2022 Question Answer Marks • volume (of liquid) • length (of thread / liquid in tube). B1 volume of liquid / length of thread increases more per °C / unit temperature (because greater volume of liquid present) OR (more liquid to expand so) gives a larger change in the level of the liquid per °C / unit temperature A1 liquid can expand further so to a higher temperature A1 OR smaller (volume) bulb (M1) less liquid so liquid expands less / lower rise per °C (A1) OR larger diameter / wider capillary tube (M1) lower increase in level for each °C (A1) OR replace liquid with a liquid with lower expansivity (M1) liquid expands less for each °C (A1) October/November 2022 Question Answer Marks molecules w",
+          "image": "/papers/physics-0625-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) A cloud chamber can be used to detect α (alpha)-particles and β (beta)-particles. Alcohol in the cloud chamber exists as a vapour and condenses on ions produced in the air. This forms visible tracks. Fig. 10.1 shows the tracks when a source of α-particles and β-particles is present in the cloud chamber. cloud chamber alcohol vapour in air source of α-particles and β-par",
+      "text": "10 (a) A cloud chamber can be used to detect α (alpha)-particles and β (beta)-particles. Alcohol in the cloud chamber exists as a vapour and condenses on ions produced in the air. This forms visible tracks. Fig. 10.1 shows the tracks when a source of α-particles and β-particles is present in the cloud chamber. cloud chamber alcohol vapour in air source of α-particles and β-par",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) A cloud chamber can be used to detect α (alpha)-particles and β (beta)-particles. Alcohol in the cloud chamber exists as a vapour and condenses on ions produced in the air. This forms visible tracks. Fig. 10.1 shows the tracks when a source of α-particles and β-particles is present in the cloud chamber. cloud chamber alcohol vapour in air source of α-particles and β-par",
+          "marks": 1,
+          "type": "structured",
+          "answer": "-particles are short and thick / -particles are long and thin B1 any two from: • -particles are more ionising / -particles are less ionising • -particles are less penetrating or have shorter range / -particles are more penetrating or have longer range • -particles have more energy / -particles have less energy B2 (element with) different number of neutrons B1 Na → Mg + 1−  Na on left with correct proton and nucleon number B1  on right with correct proton and nucleon number B1 Mg on right with correct proton and nucleon number B1 negligible amount (of Na 24) remains in liquid after a few days (so) less hazardous (to human health) OR decays to something stable/magnesium (is stable) AND (so) less hazardous (to human health) B1 October/November 2022 Question Answer Marks AND curved back over the top and under the base of the coil, towards the central core of the coil B1 at least two (straight vertical) lines inside coil B1 direction of arrow correct on at least one line and none wrong B1 N P / N S = V P / V S OR (N S =) (V S / V P )  N P OR (N S =) 11000 33 000 400 000  OR (N S =) 11000 33  C1",
+          "image": "/papers/physics-0625-2022/q10-10a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit4-2022-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

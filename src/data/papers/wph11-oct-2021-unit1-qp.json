@@ -1,0 +1,205 @@
+{
+  "paperId": "wph11-oct-2021-unit1-qp",
+  "pairedMarkSchemeId": "wph11-oct-2021-unit1-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH11/01",
+  "session": "October 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of E k = ½ m v E k = 0.54 J (1) (1) Example of calculation E k = 0.5 × 0.16 kg × (2.6 m s −1 ) = 0.541 J",
+          "image": "/papers/wph11-oct-2021/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of E grav = m g Δh (1) Δh = 0.51 m (allow ecf from (a)) (1) 2 Example of calculation Decrease in GPE = 0.54 J + 0.26 J = 0.8 J Δh = 0.8 J / (0.16 kg × 9.81 m s −2 ) = 0.51 m Total for question 11 4 Questio n Number Answer Mark (a collision) Or Sum of momentum values before (collision) = sum of momentum values after (collision) Or total momentum remains constant Or the momentum of a system remains constant (1) Provided no external/unbalanced/resultant force acts (on the system) Or in a closed/isolated system (1)",
+          "image": "/papers/wph11-oct-2021/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-08.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of p = m v (1) Uses conservation of momentum Velocity = − 4.6 m s −1 (1) (1) Example of calculation 2.7 kg × 10 m s −1 = 2.7 kg × v + 7.9 kg × 5.0 m s −1 v = (27.0 − 39.5) kg m s −1 ÷ 2.7 kg = −4.6(3) m s −1 Total for question 12 5 Questio n Number Answer Mark Force perpendicular to slope labelled \"reaction\", \"(normal) contact\", or R or N. (1) (1) Acceleration = 1.2 (m s −2 ) (1) (1) Example of calculation a = 9.81 m s −2 × sin 6.9° = 1.18 m s −2 Use of v = u + 2 a s (1) Final speed = 12 m s −1 (ecf from (i)) (1) Or Use of E k = ½mv and ΔE grav = mgΔh (1) Final speed = 12 m s −1 (ecf from (i)) (1) 2 Example of calculation v = 0 + 2 × 1.18 m s −2 × 60 m v = √(0 + 2 a s ) = √(2 × 1.18 m s −2 × 60 m) = 11.9 m s −1 ) Time = 10 s (ecf from (ii)) (ecf from (i)) (1) 2 Example of calculation v = u + a t, u = 0 11.9 = 0 + 1.18 m s −2 × t t = 11.9 m s −1 ÷ 1.18 m s −2 = 10.1 s Total for question 13 8 Questio n Number Answer Mark",
+          "image": "/papers/wph11-oct-2021/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-09.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Maximum value of weight/force for which weight/force is proportional to extension Or Point beyond which Hooke's Law no longer applies Or Point beyond which graph line ceases to be straight Or Point beyond which weight/force is no longer proportional to extension (1) Use of large triangle to determine gradient (1) Gradient = 18 500 (N m −1 ) (sf range 18 - 19, no ue) (1) 2 Example of calculation gradient = 37 N ÷ (2 × 10 −3 m) = 18 500 (N m −1 ) Rearranges E = stress / strain to get 퐸퐸 = gradient × 푥푥 퐴퐴 Or Rearranges E = stress / strain to get gradient = 퐴퐴 퐸퐸 푥푥 Use of A = π r Young modulus = 2 × 10 Pa (allow ecf from (b)(i)) Example of calculation A = π × (2.8× 10 −4 ) = 2.46 × 10 −7 m E = 1.85 × 10 N m −1 × 2.6 m ÷ 2.46 × 10 −7 m = 1.95 × 10 Pa (1) 3 (1) (1)",
+          "image": "/papers/wph11-oct-2021/q14-14a.png"
+        },
+        {
+          "id": "14c",
+          "text": "Part 14c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휎휎 = 퐹퐹 퐴퐴 Determines maximum safe load Or Determines maximum stress Or Determines minimum cross section Valid conclusion by comparison with student's calculation Example of calculation σ max = 푊푊 max 퐴퐴 4.80×10 Pa = 푊푊max 2.46 × 10 −7 m W max = 480 × 10 Pa × 2.46 × 10 −7 m = 118 N > 100 N so yes (1) (1) (1) 3 Total for question 14 9 Questio n Number Answer Mark logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content and lines of reasoning. Indicative content: 1. There is a (backward) force/friction on floor from wheels/car 2. Newton's Third Law implies forward/opposite force from floor 3. Compression/deformation of spring reduces (as car moves forward) 4. (Resultant) force is proportional to compression/deformation of spring Or Reference to Hooke's law. 5. Acceleration is proportional to resultant force Or Reference to F = ma 6. Acceleration reduces (as distance travelled increases) Or Acceleration is zero once spring has returned to original state Accept \"resultant force\" for \"acceleration\" in IC6 Total for question 15 6 IC points IC mark Max linkage mark available Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Mark s Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout. Answer is partially structured with some linkages and lines of reasoning h lk b d Questio n Number Answer Mark Use of v = u + a t (1) Time to max height = 3.3 (s) (1) 3 Example of calculation u v = 50 m s −1 sin (40°) = 32.1 m s −1 v = u + a t with v = 0 t = 32.1 m s −1 ÷ 9.81 m s −2 = 3.28 s",
+          "image": "/papers/wph11-oct-2021/q14-14c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-13.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of v H = v cos θ (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Use of s = u t to calculate horizontal distance Use of s = u t + ½ a t to calculate maximum height or other suvat equation Maximum height = 53 m (allow ecf from (a)) Use of tan θ to calculate vertical height of hill Compares height of hill with maximum height (accept conclusion based on candidate’s values). Or Use of v H = v cos θ Use of s = u t to calculate horizontal distance Use of s = u t + ½ a t to calculate maximum height or other suvat equation Maximum height = 53 m (allow ecf from (a)) Use of tan θ to calculate minimum angle of hill for a hit Compares angle of hill with minimum angle (accept conclusion based on candidate’s values). Or Use of v H = v cos θ Use of s = u t to calculate horizontal distance Use of s = u t + ½ a t to calculate maximum height or other suvat equation 6 Maximum height = 53 m (allow ecf from (a)) Use of tan θ to calculate horizontal distance to 52.6 m height along hill Compares horizontal distances (accept conclusion based on candidate’s values). Example of calculation v H = 50 m s −1 × cos (40°) = 38.3 m s −1 s H = v H × t s H = 38.3 m s −1 × 3.28 s =125 m maximum height of rock = s V = u V t + ½ a t with a = − g s V = 32.1 m s −1 × 3.28 s − ½ × 9.81 m s −2 × (3.28 s) = 52.6 m vertical height of hill at horizontal distance of 125 m = 125 m × tan (20°) = 45.7 m 45.7 m < 52.6 m, so no Total for question 16 9 Questio n Number Answer Mark Or Velocity at a fixed point (relative to the drop) remains constant (1) Or Sum of the vertical forces is zero (Accept W − U = D or W = U + D with terms defined) (1) Use of 휌휌 = 푚푚 푉푉 Use of 푊푊 = 푚푚푚푚 Weight = 3.3 × 10 −4 N Example of calculation 1.00 × 10 kg m −3 = m ÷ 3.35 × 10 −8 m m = 1.00 × 10 kg m −3 × 3.35 × 10 −8 m = 3.35 × 10 −5 kg W = m g = 3.35 × 10 −5 m × 9.81 N kg −1 = 3.29 × 10 −4 N (1) (1) (1) 3 Use of upthrust = weight of fluid displaced (1) Upthrust = 3.1 × 10 −4 (N) (1) 2 Example of calculation",
+          "image": "/papers/wph11-oct-2021/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ΔE grav = m g Δh Useful work done = 89.6 (kJ) (1) (1) Example of calculation ΔE grav = 2.10 × 10 kg × 9.81 N kg −1 × 4.35 m = 89.6 kJ",
+          "image": "/papers/wph11-oct-2021/q18-18c.png"
+        },
+        {
+          "id": "18d",
+          "text": "Part 18d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ε = useful energy output / total energy unput Efficiency = 0.16 (allow ecf from (b) and (c)) (1) (1) Example of calculation ε = 89.6 kJ ÷ 578 kJ = 0.155 Total for question 18 9 Questio n Number Answer Mark",
+          "image": "/papers/wph11-oct-2021/q18-18d.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-21.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of moment = F x (1) Anticlockwise moment = 25.2 (Nm) and (maximum) clockwise moment = 24.2 (Nm) (1) As angle to the ground increases, clockwise moment from the weight decreases Or (1) If line of action of weight moves outside base cannot regain (1) 4 equilibrium. 25.2 > 24.2 ⸫ blows over Example of calculation moment from wind = 14 N × 1.8 m = 25.2 N m moment from weight = 110 N × 0.22 m = 24.2 N m 25.2 > 24.2 ⸫ blows over",
+          "image": "/papers/wph11-oct-2021/q19-19a.png"
+        },
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Horizontal component = T × sin 44° Or Distance to line of action of T = 1.5 × sin 44° (1) Equates clockwise to anticlockwise moments about centre of base to (1) determine T Use of trigonometry to calculate vertical component of tension (1) 5 Adds weight to vertical component Force exerted on the ground = 141 N (1) (1) Example of calculation Horizontal component of tension = T × sin 44° CWM = 1.5 m × T × sin 44° = 1.04 m × T ACWM = 25 N × 1.8 m = 45.0 N m 1.04 m × T = 45.0 N m T = 45.0 N m ÷ 1.04 m = 43.2 N Vertical component of T = 43.2 N × cos 44° = 31.1 N Total downward force = 110 N + 31.1 N = 141.1 N Total for question 19 9 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2021/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2021/page-23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit1-2021-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph11-oct-2021/page-01.png",
+      "/papers/wph11-oct-2021/page-02.png",
+      "/papers/wph11-oct-2021/page-03.png",
+      "/papers/wph11-oct-2021/page-04.png",
+      "/papers/wph11-oct-2021/page-05.png",
+      "/papers/wph11-oct-2021/page-06.png",
+      "/papers/wph11-oct-2021/page-07.png",
+      "/papers/wph11-oct-2021/page-08.png",
+      "/papers/wph11-oct-2021/page-09.png",
+      "/papers/wph11-oct-2021/page-10.png",
+      "/papers/wph11-oct-2021/page-11.png",
+      "/papers/wph11-oct-2021/page-12.png",
+      "/papers/wph11-oct-2021/page-13.png",
+      "/papers/wph11-oct-2021/page-14.png",
+      "/papers/wph11-oct-2021/page-15.png",
+      "/papers/wph11-oct-2021/page-16.png",
+      "/papers/wph11-oct-2021/page-17.png",
+      "/papers/wph11-oct-2021/page-18.png",
+      "/papers/wph11-oct-2021/page-19.png",
+      "/papers/wph11-oct-2021/page-20.png",
+      "/papers/wph11-oct-2021/page-21.png",
+      "/papers/wph11-oct-2021/page-22.png",
+      "/papers/wph11-oct-2021/page-23.png",
+      "/papers/wph11-oct-2021/page-24.png",
+      "/papers/wph11-oct-2021/page-25.png",
+      "/papers/wph11-oct-2021/page-26.png",
+      "/papers/wph11-oct-2021/page-27.png",
+      "/papers/wph11-oct-2021/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

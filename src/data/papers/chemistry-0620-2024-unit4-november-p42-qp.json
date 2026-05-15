@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2024-unit4-november-p42-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit4-november-p42-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "October/November 2024",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 eight crosses in second shell of Al M2 seven dots and one cross in second shell of each F M3 ‘3+’ charge on Al ion on correct answer line AND ‘–‘ charge on each F ion on correct answer line Question Answer Marks M2 attraction is weak",
+          "image": "/papers/chemistry-0620-2024/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2S + Cl → S Cl",
+          "image": "/papers/chemistry-0620-2024/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 S with one dot-cross bonding pair with each Cl M2 four non-bonding dots for S M3 six non-bonding crosses for each Cl",
+          "image": "/papers/chemistry-0620-2024/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 decrease concentration of S Cl / P and / or Cl M2 increase temperature a October/November 2024 Question Answer Marks M3 increases M4 increases M5 increases M2 oxidation number of S goes to +2 M3 oxidation number of Cl (goes from –1) to 0 (in Cl ) M4 oxidation numbers of Cl AND S increase Question Answer Marks + (aq) + Br – (aq) → AgBr(s) 1",
+          "image": "/papers/chemistry-0620-2024/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.01  1000 / 50 = 0.2(00) (mol / dm ) M2 M r of AgBr = 188 M3 188 x 0.01 = 1.88 (g) October/November 2024 Question Answer Marks M2 named soluble sulfate salt e.g. sodium sulfate / potassium sulfate / ammonium sulfate / sulfuric acid as a product M2 correct equation using soluble reactants Question Answer Marks M2 catalyst H → 3C H + H M1 C H M2 correct equation M2 three correctly placed CH groups M3 correct structure AND continuation bonds October/November 2024 Question Answer Marks M2 two fully displayed amino groups on the unshaded box M1 displayed NH or displayed COOH group present M2 displayed NH and displayed COOH groups attached to same C atom M3 correct displayed structure of 2-aminopropanoic acid M2 diols M1 any one correct fully displayed ester link between any two blocks M2 three fully displayed inter-block ester links with correct orientation M3 fully correct diagram showing two complete repeat units of polyester including continuation bonds",
+          "image": "/papers/chemistry-0620-2024/q4-4c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit4-2024-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

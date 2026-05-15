@@ -1,0 +1,197 @@
+{
+  "paperId": "wma14-may-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-may-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "May 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Write f(x) in the form A x B x C x \u001f \u001e \u001f \u001f121 where A, B and C are constants to be found. (3) (b) Hence, use algebraic integration to find the exact value of 2 4 \u001f \u001e \u001d f(x) dx Write your answer in the form pqlnln2 3 5 \u001f \u001e \u001d \u001c \u001b \u001a \u0019 , where p and q are integers to be found. (5) _____________________________________________________________________________________ _____________",
+      "text": "1 (a) Write f(x) in the form A x B x C x \u001f \u001e \u001f \u001f121 where A, B and C are constants to be found. (3) (b) Hence, use algebraic integration to find the exact value of 2 4 \u001f \u001e \u001d f(x) dx Write your answer in the form pqlnln2 3 5 \u001f \u001e \u001d \u001c \u001b \u001a \u0019 , where p and q are integers to be found. (5) _____________________________________________________________________________________ _____________",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Write f(x) in the form A x B x C x \u001f \u001e \u001f \u001f121 where A, B and C are constants to be found. (3) (b) Hence, use algebraic integration to find the exact value of 2 4 \u001f \u001e \u001d f(x) dx Write your answer in the form pqlnln2 3 5 \u001f \u001e \u001d \u001c \u001b \u001a \u0019 , where p and q are integers to be found. (5) _____________________________________________________________________________________ _____________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 7 13 20 0 ... y y y y y − = +  − − =  = y=− and y = M1 A1 (2) (b) d d y yy x → d ... ... d y xy x y x − →   dd 14e dd x yy y x y xx − − − = d 1 d d 4(4) 6(4) 14e ... d 2 d d y y y x x x  −    − − =  =   \"4\" \" \" yx  − = −   33 0 xy − + = B1 M1 A1 M1 M1 A1 (6) (8 marks) (b) B1: d d y yy x → o.e. For example, accept d 22 2 d y yy x → M1: Attempts the product rule on 6xy− . Look for d d y xy x   Don’t be concerned by the signs here unless they state and use an incorrect product rule ''vu uv− A1: Fully correct differentiation dd 14e dd x yy y x y xx − − − = o.e. Allow un-simplified versions You may see versions like 4 d 6 d 6 d 14e d x y y x y y x x − − − = or ' 6 ' 6 14e x yy xy y − − − = which is acceptable. If they write ddd 46614e0 ddd x yyy yxy xxx − =−− −= this will be A0 unless the d d y x on the left subsequently disappears and is ignored. M1: Attempts to substitute in x = with their positive y value to find a value for the gradient of the tangent. It is dependent upon having exactly two terms in d d y x one each from the differentiation of y and xy . This can be implied by a correct value for their d d y x . Allow slips if they attempt to make d d y x the subject before substituting in x = with their positive y value. FYI d 14e d 24 14 d d 16 3 x y y y x y x x − ++ = → = = −− M1: Uses the value for their d d y x with the point , a    where a is their positive y coordinate to find the equation of the tangent. If they have two positive y values, use of either one would be OK for this mark. It must follow some attempt at differentiating the equation for C. If the form y mx c =+ is used the method must proceed as far as c = ... A1: 33 0 xy − + = (or any integer multiple of this). The order of the terms is not important B1: States or uses d d V k t = or d d V k t =− (We don’t know if k is positive or negative). Ignore any reference to units even if they are incorrect. E.g. d d V k t = cm / sec B1: States or uses d d V r r  = o.e.",
+          "image": "/papers/wma14-may-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "e.g. 5 17 (2 1)(1 ) (2 1) (1 ) x x A x x Bx x Cx x + − = + − + + + − ..., ...., .... A B C  = = = 5, 4, A B C = = = f ( ) (1 ) (2 1) x x x x  = + + −+ M1 A1A1 (3) (b) ( ) d 5 ln 4 ln 1 4 ln 2 (1 ) (2 1) x x x x c x x x + + = − − + + + −+    5 ln 4 ln 1 4 ln 2 x x x  − − + +   ( ) 5 ln 4 4 ln 3 4 ln 9 (5 ln 2 4 ln1 4 ln 5) 5 ln 2 4 ln  = − + − − + = +   M1A1ftA1 dM1A1 (5) (8 marks) dM1: Substitutes in the limits, subtracts either way round and applies laws of logs correctly to achieve either an ln 2p term or a ln q term. It is dependent on the previous M and having integrated to a form ln ln 1 ln 2 x x x + − + +    or ln ln ln 2 x x x + − + +    This is most likely going to be scored via the ln2 term. The term in ln2 must be found from ln 4 ln 2 ln 2 −=    so the value of p and  must be the same The term in ln    must be found from ln 3 2 ln 3ln 5+− Condone calculations such as ln( 3) ln( 5) ln − − − = A1: CSO: 5 ln 2 4 ln  +   It cannot be scored following incorrect integration. ISW after sight of this FYI 3 2 t x tt + = = − −− (a) Note: A cartesian approach in (a) can score a maximum of 1 mark (the B1) as it does not satisfy the demand of the question. M1: Attempts to find d d y x at t = by finding dd dd yx tt  . Condone slips when differentiating d d x t and d d y t but look for a minimum of • d (1 ) (3 2 ) d (1 ) x t t t t −  + = −  with   or equivalent using the product rule or division and chain rule • d d y t t =  • Substitution of 2t= into dd dd yx tt  which may have been simplified incorrectly. Note that a simplified () d d5 tt y x −− = Note that using the quotient rule the wrong way around '' uv vu v − would be M0 A1: − following M1. It may be implied by a normal gradient of B1: ( 7,3)−− which may be implied from terms within an attempt at the equation of the normal Number Scheme Marks",
+          "image": "/papers/wma14-may-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 d2(1) ( 1)(3 2 )5 d (1)(1) xtt t tt − − − + == −− and d d y t t =− At t = ( ) d ( 1) 2(2) d y x − =  − = − ( 7, 3) −− ( 7) yx + = + 23 0 xy − + = M1A1 B1 M1 A1 (5) (b) 3 2 tx xt tx +− = → = −+ ( ) ( ) ( 2) ( 3) x x x x y x xx − + − − −  = − = =  +  ++ x − M1 dM1A1 B1 (4) (9 marks) M1: Attempts to find the equation of the normal at P. They must be using the negative reciprocal of their d d y x at t = with their point P . It is dependent on having found d d y x from dd their their dd yx tt              Condone poor attempts at d d x t and d d y t or what they believe are d d x t and d d y t so 0, 0, 1, 1, 0 is possible. Condone one sign slip when using their coordinate of P. e.g ( 7, 3) (7, 3) − − → − If the form y mx c =+ is used the method must proceed as far as c = ... A1: 23 0 xy − + = or any integer multiple with terms on one side of an equation. The order of the terms is not important. ISW after sight of a correct answer in a correct form ...................................................................................................................... Other more complicated methods do exist so look carefully at what is attempted. For example, candidates could find d d x y at t = by finding dd dd xy tt  and use the value of d d x y − as the gradient of the normal. ........................................................................................................................ (b) M1: Attempts to rearrange the parametric equation for x to make t the subject. Expect to see cross multiplying (or equivalent) and collection of terms with f ( ) g( ) x t x = where f(x) and g(x) are linear functions in x. dM1: Substitutes their expression for t in terms for x into the parametric equation for y and attempts to manipulate the right-hand side into a single fraction. It is dependent on the previous method mark. For example, look for ( ) f ( ) (g( )) (f ( )) g( ) g( ) x x x y x x  − = − =   A1: ( ) x y x − = + B1: x − or k =− but mu",
+          "image": "/papers/wma14-may-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-13.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Attempts ( ) ( ) ( ) ( )  + + − + − =  + i j k i j k i k e.g. (4 4 )  = + − + + r i j k i k or (4 4 )  = + + + + r i j k i k oe M1 A1 (2) (b) ( 2) AC  = + − + i j k AB =+ or ( 2) AC  = + − + AB = and 68 ( 2) AC  = + − 8 32 cos 45 68 ( 2)  + =  + − cos 45 28 0 68 ( 2)    =  − − =  + − 2 4 2  = B1 M1 A1 dM1 ddM1 A1 (6) (8 marks) (b) There are many ways to attempt this question. The following is via the scalar product of AB and AC . Note that it could be attempted via the scalar product of ( ) + ik and AC instead of AB and AC . Attempts using an incorrect vector pair, e.g AB and BC , can only score a maximum of 1 mark (1 st M1) Condone incorrect vector notation throughout (b). E.g. ( ) 2 , ( 2) , 8 AC =−  i j k B1: A correct ( 2) AC  = + − + i j k (or ( 2) CA  = − − − − i j k ) It must be simplified but may be implied by further work. Allow in coordinate form ( ) 2, 2, 8 −  if used correctly M1: Attempts to find the magnitude of either their AB or their AC For example, for an attempt at the magnitude of AC • there should be attempt to subtract each component of OA and OC • the three resulting values should then be squared and added • the answer to this is then square rooted If the method is not apparent then look for two correct components A1: Correct magnitude of both AB = and ( ) 68 ( 2) 72 4 AC a  = + − = − + They must be simplified (as above) but can be scored following sign slips on either vector. You can imply this mark from further work dM1: Attempts the scalar product of '' AB  and '' AC  • AB  and AC  must be attempted via a correct method. If the method is not directly seen it may be implied by two correct components • There must be a similar correct attempt at the magnitudes of AB  and AC  • All should be connected by the equation AB  cos 45 AC AB AC • =   ddM1: Allowable method to find at least one value of  from a quadratic equation. For example, • ( ) ... − =  =  • ... − − =  =    This can only be awarded if the ",
+          "image": "/papers/wma14-may-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d tansec d u uxx x =→ = 2 3 tan sec d (5 ) uu u x x u uu + = = − →  ++    d (5 ) u u u +    * B1 M1dM1 A1* (4) (b) ( ) d (5 ) (5 tan ) (5 ) u u u c x c u −− = − + + = − + + +    M1A1 (2) (6 marks) (a) It is scored B, M, A, A on epen. We are scoring it M, M, A, A M1: Takes out a factor of 4 proceeding to x − −  +   o.e such as x −  +   M1: Attempts the binomial expansion. Look for the correct binomial coefficient for the third term with the correct power of x. So, award for () ... 2! x   − − −     or ... x  where ... could even be 1. If there is no intermediate working it is implied by the correct coefficient of x in the expansion of x −  +   or x in the expansion of () 4x − + A1: Two correct and simplified of ... 2 16256 xx− ++ So 1,0,1, 0 is possible A1: All three correct and simplified of ... 2 16256 xx− ++ Number Scheme Marks",
+          "image": "/papers/wma14-may-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 x x − −  =+  +  ... 2! x x x −    − − −              + = + − + +               ... 2 16 xx − + + M1 M1 A1A1 (4) (b) ... 2 16 xx + + + B1ft (1) (c) 2 16 2 16 4 128 x x x x x    − + + + = +       M1A1 (2) (d) = \" \" \" \" \" \" += \" \" 3 = (see alt (d) for alternative answer) M1 dM1A1 (3) Alt(d) = \" \" \" \" \" \" += \" \" 135 3 15 3 15 \" \"  =   =    = M1 dM1A1 (10 marks) Accept as a list. Condone any extra terms even if incorrect Direct expansion: ( ) ... ... 2 16 x x x x x − − − −     −  −          + = + −  +  + = − + +   M1: For a constant term of − or M1: For a correct third term which may be un-simplified x −     −  −          It is implied if they get x for the term in x A1: Two correct and simplified of ... 2 16 xx − + + A1: All three correct and simplified of ... 2 16256 xx− ++ Accept as a list. Condone any extra terms even if incorrect (b) B1ft: For a correct answer ... 2 16 xx + + + which can be scored following a restart. Allow as a list. Condone any extra terms even if incorrect. Or follow through on their (a) ... xx − + +    where ,,    are positive to (b) ... xx + + +    Answers must be seen in (b). (c) M1: Attempts to multiply out the correct 2 16 2 16 x x x x    − + + +       or follow through using their answers to parts (a) and (b) and attempts to collect terms. It must be an attempt on ( ) ( ) x x x x − +  + +       where ,,    are positive leading to x +  . Condone extra terms where the index is greater than 2, such as a term in x Alternatively, attempts the expansion ( ) xx − − −  − = −   leading to x   A1: 4 128 x + ONLY Any extra terms would be A0. Condone = for  (d) This cannot be scored from made up values of a and b. M1: Substitutes x = into both sides of their part (c) to achieve '' '' '' ''  = + dM1: Uses the fact that 135315= and finds a rational approximation for Method 1: '' '' '' '' '' '' '' '' '' '' '' ' '×",
+          "image": "/papers/wma14-may-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) cos e d x V x x  =+     cos e cos e cos e x x x x x x  + = + +   cos 2 1 2 e cos e xx x x + = + + 1 cos 2 e cos e d xx x xx   = + + +      B1 M1 dM1 A1 (4) (b) Way I e cos d e sin e sin d x x x x x x x x =    e sin e sin d xx x x x =−  Way Two e cos d e cos e sin d x x x x x x x x =  e cos e sin d xx x x x =+  M1 A1 e cos d e cos e sin e cos d x x x x x x x x x x =  −  2 e cos de cose sin xxx x xxx=  dM1 ( ) ( ) e cos d e cos sin xx x x x x c = + +  A1 (4) (c) 1 cos 2 e cos e d xx x xx   + + +      ( ) ( ) sin 2 2 1 e sin cos e 5 2 xx x x x x   = + + + +      ( ) ( ) ( ) sin 8 2 1 e sin 4 cos 4 e 5 2   + + + + −      awrt 290 = (cm ) M1A1ft dM1 A1 (4) (12 marks) For this final mark • condone either a missing dx or limits (but not both) if the candidate has already lost the B mark for the same reason • condone missing limits if they have already appeared within an expression for the volume anywhere in part (a) (b) Condone lack of dx’s throughout part (b). If you see other methods that you feel deserve credit, and you cannot apply the scheme, then please send to review. M1: Attempts integration by parts. Be generous unless they explicitly state the rule is dd v u uv u v =+  Score for Way One e cos d e sin e sin d x x x x x x x x =    Or Way Two e cos d e cos e sin d x x x x x x x x =  A1: Correct intermediate form Score for Way One e cos d e sin e sin d x x x x x x x x =−  Or Way Two e cos d e cos e sin d x x x x x x x x =+  dM1: Attempts integration by parts a second time. It is dependent upon having scored the previous M. Score for e cos de cose sine cos d xxxx x xxxx x=−  AND rearranges to 2 e cos d e cos e sin x x x x x x x =  A1: CSO () e cos de cossin xx x xxxc=++  o.e. condone lack of +c and the dx Withold this mark if there is incorrect or unexplained working within the proof (c) M1: Attempts to integrate their (a) condoning transcription errors on coefficients ac",
+          "image": "/papers/wma14-may-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wma14-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-may-2025/page-01.png",
+      "/papers/wma14-may-2025/page-02.png",
+      "/papers/wma14-may-2025/page-03.png",
+      "/papers/wma14-may-2025/page-04.png",
+      "/papers/wma14-may-2025/page-05.png",
+      "/papers/wma14-may-2025/page-06.png",
+      "/papers/wma14-may-2025/page-07.png",
+      "/papers/wma14-may-2025/page-08.png",
+      "/papers/wma14-may-2025/page-09.png",
+      "/papers/wma14-may-2025/page-10.png",
+      "/papers/wma14-may-2025/page-11.png",
+      "/papers/wma14-may-2025/page-12.png",
+      "/papers/wma14-may-2025/page-13.png",
+      "/papers/wma14-may-2025/page-14.png",
+      "/papers/wma14-may-2025/page-15.png",
+      "/papers/wma14-may-2025/page-16.png",
+      "/papers/wma14-may-2025/page-17.png",
+      "/papers/wma14-may-2025/page-18.png",
+      "/papers/wma14-may-2025/page-19.png",
+      "/papers/wma14-may-2025/page-20.png",
+      "/papers/wma14-may-2025/page-21.png",
+      "/papers/wma14-may-2025/page-22.png",
+      "/papers/wma14-may-2025/page-23.png",
+      "/papers/wma14-may-2025/page-24.png",
+      "/papers/wma14-may-2025/page-25.png",
+      "/papers/wma14-may-2025/page-26.png",
+      "/papers/wma14-may-2025/page-27.png",
+      "/papers/wma14-may-2025/page-28.png",
+      "/papers/wma14-may-2025/page-29.png",
+      "/papers/wma14-may-2025/page-30.png",
+      "/papers/wma14-may-2025/page-31.png",
+      "/papers/wma14-may-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

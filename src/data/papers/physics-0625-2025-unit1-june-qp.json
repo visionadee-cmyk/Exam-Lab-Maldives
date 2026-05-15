@@ -1,0 +1,681 @@
+{
+  "paperId": "physics-0625-2025-unit1-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit1-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "May/June 2025",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a measuring cylinder containing liquid. 50 40 30 20 10 cm 3 liquid measuring cylinder What is the volume of liquid in the measuring cylinder? A 13.0 cm 3, B 13.5 cm 3, C 16.0 cm 3, D 17.0 cm 3",
+      "text": "The diagram shows a measuring cylinder containing liquid. 50 40 30 20 10 cm 3 liquid measuring cylinder What is the volume of liquid in the measuring cylinder? A 13.0 cm 3, B 13.5 cm 3, C 16.0 cm 3, D 17.0 cm 3",
+      "options": [
+        "A 13.0 cm 3",
+        "B 13.5 cm 3",
+        "C 16.0 cm 3",
+        "D 17.0 cm 3"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the speed and velocity of an object is correct? A The speed and velocity of an object are always greater than zero., B The speed of an object is always greater than its velocity., C The velocity of an object is equal to its speed in a given direction., D Speed can be measured in m / s but velocity can only be measured in km / h.",
+      "text": "Which statement about the speed and velocity of an object is correct? A The speed and velocity of an object are always greater than zero., B The speed of an object is always greater than its velocity., C The velocity of an object is equal to its speed in a given direction., D Speed can be measured in m / s but velocity can only be measured in km / h.",
+      "options": [
+        "A The speed and velocity of an object are always greater than zero.",
+        "B The speed of an object is always greater than its velocity.",
+        "C The velocity of an object is equal to its speed in a given direction.",
+        "D Speed can be measured in m / s but velocity can only be measured in km / h."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows a student’s times in three races. race    distance / m     time / s 1 100 12 2 150 17 3 200 25 What is the order of the student’s average speeds in each race, from lowest to highest? A 1  2  3 B 1  3  2 C 2  1  3 D 3  1  2 3",
+      "text": "The table shows a student’s times in three races. race    distance / m     time / s 1 100 12 2 150 17 3 200 25 What is the order of the student’s average speeds in each race, from lowest to highest? A 1  2  3 B 1  3  2 C 2  1  3 D 3  1  2 3",
+      "options": [
+        "A 1  2  3 B 1  3  2 C 2  1  3 D 3  1  2 3"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row gives the correct weight for the mass shown when it is at the Earth’s surface? mass / kg    weight / N A 2.00 19.6, B 10.0 1.02, C 10.0 9.80, D 20.0 2.04",
+      "text": "Which row gives the correct weight for the mass shown when it is at the Earth’s surface? mass / kg    weight / N A 2.00 19.6, B 10.0 1.02, C 10.0 9.80, D 20.0 2.04",
+      "options": [
+        "A 2.00 19.6",
+        "B 10.0 1.02",
+        "C 10.0 9.80",
+        "D 20.0 2.04"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The masses and volumes of four objects are shown. Which object floats in a liquid of density 1.4 g / cm 3 ? mass of object / g volume of object / cm 3 A 1.0 0.5, B 2.0 3.0, C 6.0 4.0, D 9.0 6.0",
+      "text": "The masses and volumes of four objects are shown. Which object floats in a liquid of density 1.4 g / cm 3 ? mass of object / g volume of object / cm 3 A 1.0 0.5, B 2.0 3.0, C 6.0 4.0, D 9.0 6.0",
+      "options": [
+        "A 1.0 0.5",
+        "B 2.0 3.0",
+        "C 6.0 4.0",
+        "D 9.0 6.0"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car is driven from rest on a long straight road. The car engine exerts a constant driving force. The diagram shows the horizontal forces acting on the car. The resistive forces are proportional to the speed of the car. resistive forces driving force (from engine) Why does the car eventually reach a maximum speed? A The resistive forces decrease to make the acceleration of the car negative., B The resistive forces decrease to make the acceleration of the car zero., C The resistive forces increase to make the acceleration of the car negative., D The resistive forces increase to make the acceleration of the car zero. 4",
+      "text": "A car is driven from rest on a long straight road. The car engine exerts a constant driving force. The diagram shows the horizontal forces acting on the car. The resistive forces are proportional to the speed of the car. resistive forces driving force (from engine) Why does the car eventually reach a maximum speed? A The resistive forces decrease to make the acceleration of the car negative., B The resistive forces decrease to make the acceleration of the car zero., C The resistive forces increase to make the acceleration of the car negative., D The resistive forces increase to make the acceleration of the car zero. 4",
+      "options": [
+        "A The resistive forces decrease to make the acceleration of the car negative.",
+        "B The resistive forces decrease to make the acceleration of the car zero.",
+        "C The resistive forces increase to make the acceleration of the car negative.",
+        "D The resistive forces increase to make the acceleration of the car zero. 4"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mattress placed on a bed contains many compression springs. bed mattress compression springs Which energy store of the mattress increases when a person lies on the bed? A gravitational potential, B chemical, C elastic, D kinetic",
+      "text": "A mattress placed on a bed contains many compression springs. bed mattress compression springs Which energy store of the mattress increases when a person lies on the bed? A gravitational potential, B chemical, C elastic, D kinetic",
+      "options": [
+        "A gravitational potential",
+        "B chemical",
+        "C elastic",
+        "D kinetic"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which energy resource does not contain a store of chemical energy? A biofuel, B coal, C nuclear fuel, D oil",
+      "text": "Which energy resource does not contain a store of chemical energy? A biofuel, B coal, C nuclear fuel, D oil",
+      "options": [
+        "A biofuel",
+        "B coal",
+        "C nuclear fuel",
+        "D oil"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A person carries 20 tiles from the ground to the roof of a house. Each tile has a mass of 1.2 kg. The roof of the house is 15 m above the ground. How much work does the person do against gravity on the tiles in carrying them to the roof? A 37 J B 180 J C 360 J D 3500 J",
+      "text": "A person carries 20 tiles from the ground to the roof of a house. Each tile has a mass of 1.2 kg. The roof of the house is 15 m above the ground. How much work does the person do against gravity on the tiles in carrying them to the roof? A 37 J B 180 J C 360 J D 3500 J",
+      "options": [
+        "A 37 J B 180 J C 360 J D 3500 J"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  pair  of  changes, applied  at  the  same time,  always  increases  the  pressure  that  a  brick exerts on the ground? weight of brick area of brick in contact with ground A increase increase, B increase decrease, C decrease increase, D decrease decrease 5",
+      "text": "Which  pair  of  changes, applied  at  the  same time,  always  increases  the  pressure  that  a  brick exerts on the ground? weight of brick area of brick in contact with ground A increase increase, B increase decrease, C decrease increase, D decrease decrease 5",
+      "options": [
+        "A increase increase",
+        "B increase decrease",
+        "C decrease increase",
+        "D decrease decrease 5"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two different pure substances, X and Y, are heated. Both substance X and substance Y are initially in the solid state. The graph shows how the temperature of each substance changes with time. 0 0 temperature time substance X substance Y What does the graph tell us about the substances? A Substance X has a lower boiling point than substance Y., B Substance X has a lower melting point than substance Y., C Substance Y has a lower boiling point than substance X., D Substance Y has a lower melting point than substance X.",
+      "text": "Two different pure substances, X and Y, are heated. Both substance X and substance Y are initially in the solid state. The graph shows how the temperature of each substance changes with time. 0 0 temperature time substance X substance Y What does the graph tell us about the substances? A Substance X has a lower boiling point than substance Y., B Substance X has a lower melting point than substance Y., C Substance Y has a lower boiling point than substance X., D Substance Y has a lower melting point than substance X.",
+      "options": [
+        "A Substance X has a lower boiling point than substance Y.",
+        "B Substance X has a lower melting point than substance Y.",
+        "C Substance Y has a lower boiling point than substance X.",
+        "D Substance Y has a lower melting point than substance X."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid substance changes into a gas. Which property of the substance remains the same? A ability to flow, B compressibility, C shape, D volume",
+      "text": "A liquid substance changes into a gas. Which property of the substance remains the same? A ability to flow, B compressibility, C shape, D volume",
+      "options": [
+        "A ability to flow",
+        "B compressibility",
+        "C shape",
+        "D volume"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "At room temperature, iron is difficult to compress. At the same temperature, oxygen is much easier to compress. Which comparison of the particles in iron and the particles in oxygen explains this? A The iron particles are closer together., B The iron particles have a greater mass., C The iron particles can be magnetised., D The iron particles have less average kinetic energy. 6",
+      "text": "At room temperature, iron is difficult to compress. At the same temperature, oxygen is much easier to compress. Which comparison of the particles in iron and the particles in oxygen explains this? A The iron particles are closer together., B The iron particles have a greater mass., C The iron particles can be magnetised., D The iron particles have less average kinetic energy. 6",
+      "options": [
+        "A The iron particles are closer together.",
+        "B The iron particles have a greater mass.",
+        "C The iron particles can be magnetised.",
+        "D The iron particles have less average kinetic energy. 6"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher has a gas in a sealed syringe with a movable plunger. gas syringe plunger The teacher slowly moves the plunger out of the syringe. The temperature of the gas remains constant. Which row explains what happens to the pressure of the gas in the syringe? pressure of gas explanation A decreases gas particles collide with the syringe wall less frequently, B decreases gas particles collide with the syringe wall more frequently, C increases gas particles collide with the syringe wall less frequently, D increases gas particles collide with the syringe wall more frequently",
+      "text": "A teacher has a gas in a sealed syringe with a movable plunger. gas syringe plunger The teacher slowly moves the plunger out of the syringe. The temperature of the gas remains constant. Which row explains what happens to the pressure of the gas in the syringe? pressure of gas explanation A decreases gas particles collide with the syringe wall less frequently, B decreases gas particles collide with the syringe wall more frequently, C increases gas particles collide with the syringe wall less frequently, D increases gas particles collide with the syringe wall more frequently",
+      "options": [
+        "A decreases gas particles collide with the syringe wall less frequently",
+        "B decreases gas particles collide with the syringe wall more frequently",
+        "C increases gas particles collide with the syringe wall less frequently",
+        "D increases gas particles collide with the syringe wall more frequently"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Evaporation occurs from the surface of a pool of water. Which statement describes this change of state? A Electrons move from the liquid and become a gas., B Molecules that move from the liquid have the same energy as the molecules that stay in the liquid., C The more-energetic molecules escape the liquid., D The more-energetic molecules remain in the liquid. 7",
+      "text": "Evaporation occurs from the surface of a pool of water. Which statement describes this change of state? A Electrons move from the liquid and become a gas., B Molecules that move from the liquid have the same energy as the molecules that stay in the liquid., C The more-energetic molecules escape the liquid., D The more-energetic molecules remain in the liquid. 7",
+      "options": [
+        "A Electrons move from the liquid and become a gas.",
+        "B Molecules that move from the liquid have the same energy as the molecules that stay in the liquid.",
+        "C The more-energetic molecules escape the liquid.",
+        "D The more-energetic molecules remain in the liquid. 7"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Students test four rods of different materials, W, X, Y and Z, to compare how well the materials conduct thermal energy. The rods are all the same size and shape. The students use wax to stick a pin to one end of the first rod. The wax melts when it is warm. The other end of the rod is heated and the time taken for the pin to fall is recorded. The experiment is repeated for each rod. The students plot a chart of the time taken for each pin to fall. 90 80 70 60 50 40 30 20 10 0 time / s material W material X material Y material Z Which statement is correct? A X is a better thermal conductor than Y., B Y is a better thermal conductor than W., C Z is a better thermal conductor than W., D Z is a better thermal conductor than X.",
+      "text": "Students test four rods of different materials, W, X, Y and Z, to compare how well the materials conduct thermal energy. The rods are all the same size and shape. The students use wax to stick a pin to one end of the first rod. The wax melts when it is warm. The other end of the rod is heated and the time taken for the pin to fall is recorded. The experiment is repeated for each rod. The students plot a chart of the time taken for each pin to fall. 90 80 70 60 50 40 30 20 10 0 time / s material W material X material Y material Z Which statement is correct? A X is a better thermal conductor than Y., B Y is a better thermal conductor than W., C Z is a better thermal conductor than W., D Z is a better thermal conductor than X.",
+      "options": [
+        "A X is a better thermal conductor than Y.",
+        "B Y is a better thermal conductor than W.",
+        "C Z is a better thermal conductor than W.",
+        "D Z is a better thermal conductor than X."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student has four metal containers filled with the same volume of water at a temperature of 80 °C. The metal containers are put in a room at a temperature of 20 °C. The metal containers are identical except for the texture and colour of their surfaces. Which surface will emit energy at the greatest rate? A dull black, B shiny black, C dull white, D shiny white 8",
+      "text": "A student has four metal containers filled with the same volume of water at a temperature of 80 °C. The metal containers are put in a room at a temperature of 20 °C. The metal containers are identical except for the texture and colour of their surfaces. Which surface will emit energy at the greatest rate? A dull black, B shiny black, C dull white, D shiny white 8",
+      "options": [
+        "A dull black",
+        "B shiny black",
+        "C dull white",
+        "D shiny white 8"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A water wave has a speed of 2.0 m / s. 4.0 complete waves pass a point every 10 seconds. What is the wavelength of the wave? A 0.50 m B 0.80 m C 5.0 m D 8.0 m",
+      "text": "A water wave has a speed of 2.0 m / s. 4.0 complete waves pass a point every 10 seconds. What is the wavelength of the wave? A 0.50 m B 0.80 m C 5.0 m D 8.0 m",
+      "options": [
+        "A 0.50 m B 0.80 m C 5.0 m D 8.0 m"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  row  correctly  describes  the  vibrations  of  a  transverse  wave  and  also  gives  a  correct example of a transverse wave? description of vibrations example of a transverse wave A at right angles to the wave direction sound, B at right angles to the wave direction water wave, C parallel to the wave direction sound, D parallel to the wave direction water wave",
+      "text": "Which  row  correctly  describes  the  vibrations  of  a  transverse  wave  and  also  gives  a  correct example of a transverse wave? description of vibrations example of a transverse wave A at right angles to the wave direction sound, B at right angles to the wave direction water wave, C parallel to the wave direction sound, D parallel to the wave direction water wave",
+      "options": [
+        "A at right angles to the wave direction sound",
+        "B at right angles to the wave direction water wave",
+        "C parallel to the wave direction sound",
+        "D parallel to the wave direction water wave"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a view from above of waves on the surface of a pond after the water has been disturbed at point P. Y X P What are the correct labels for X and Y? X     Y A amplitude wavelength, B wavefront wavelength, C amplitude wavefront, D wavefront amplitude 9",
+      "text": "The diagram shows a view from above of waves on the surface of a pond after the water has been disturbed at point P. Y X P What are the correct labels for X and Y? X     Y A amplitude wavelength, B wavefront wavelength, C amplitude wavefront, D wavefront amplitude 9",
+      "options": [
+        "A amplitude wavelength",
+        "B wavefront wavelength",
+        "C amplitude wavefront",
+        "D wavefront amplitude 9"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the image of a clock as seen by a person standing in front of a plane mirror. What is the actual time? A 4:15 B 4:45 C 7:15 D 7:45",
+      "text": "The diagram shows the image of a clock as seen by a person standing in front of a plane mirror. What is the actual time? A 4:15 B 4:45 C 7:15 D 7:45",
+      "options": [
+        "A 4:15 B 4:45 C 7:15 D 7:45"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of light incident on the surface of a glass block. 2 3 4 1 glass block The ray of light is partially reflected back into the air and partially refracted into the glass block. Which row correctly identifies the angle of reflection and the angle of refraction? angle of reflection angle of refraction A 1 3, B 1 4, C 2 3, D 2 4 10",
+      "text": "The diagram shows a ray of light incident on the surface of a glass block. 2 3 4 1 glass block The ray of light is partially reflected back into the air and partially refracted into the glass block. Which row correctly identifies the angle of reflection and the angle of refraction? angle of reflection angle of refraction A 1 3, B 1 4, C 2 3, D 2 4 10",
+      "options": [
+        "A 1 3",
+        "B 1 4",
+        "C 2 3",
+        "D 2 4 10"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The amplitude and the frequency of a sound wave both increase. What happens to the loudness and what happens to the pitch of the sound? loudness pitch A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "text": "The amplitude and the frequency of a sound wave both increase. What happens to the loudness and what happens to the pitch of the sound? loudness pitch A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about sound and ultrasound are correct? sound ultrasound A humans can hear frequencies between 20 Hz and 20 000 Hz the speed in air is 330 m / s B humans can hear frequencies less than 20 000 Hz the speed in air is 100 m / s C the speed in air is 100 m / s has a frequency greater than 20 000 Hz D the speed in air is 330 m / s has a frequency less than 20 Hz",
+      "text": "Which statements about sound and ultrasound are correct? sound ultrasound A humans can hear frequencies between 20 Hz and 20 000 Hz the speed in air is 330 m / s B humans can hear frequencies less than 20 000 Hz the speed in air is 100 m / s C the speed in air is 100 m / s has a frequency greater than 20 000 Hz D the speed in air is 330 m / s has a frequency less than 20 Hz",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the magnetic properties of soft iron and steel? soft iron steel A easy to demagnetise easy to demagnetise, B easy to demagnetise hard to demagnetise, C hard to demagnetise easy to demagnetise, D hard to demagnetise hard to demagnetise 11",
+      "text": "Which row describes the magnetic properties of soft iron and steel? soft iron steel A easy to demagnetise easy to demagnetise, B easy to demagnetise hard to demagnetise, C hard to demagnetise easy to demagnetise, D hard to demagnetise hard to demagnetise 11",
+      "options": [
+        "A easy to demagnetise easy to demagnetise",
+        "B easy to demagnetise hard to demagnetise",
+        "C hard to demagnetise easy to demagnetise",
+        "D hard to demagnetise hard to demagnetise 11"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two charged rods, X and Y, are brought, in turn, near to a negatively charged rod. X is attracted by the negatively charged rod, and Y is repelled. What are the charges on X and Y? charge on X charge on Y A negative negative, B negative positive, C positive negative, D positive positive",
+      "text": "Two charged rods, X and Y, are brought, in turn, near to a negatively charged rod. X is attracted by the negatively charged rod, and Y is repelled. What are the charges on X and Y? charge on X charge on Y A negative negative, B negative positive, C positive negative, D positive positive",
+      "options": [
+        "A negative negative",
+        "B negative positive",
+        "C positive negative",
+        "D positive positive"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table gives data for four different electrical devices. Which device develops the greatest power? device voltage current A car headlight 12 V 3.0 A, B cooling fan 110 V 0.40 A, C electric spark generator 400 kV 0.10 mA, D mains lamp 240 V 0.20 A",
+      "text": "The table gives data for four different electrical devices. Which device develops the greatest power? device voltage current A car headlight 12 V 3.0 A, B cooling fan 110 V 0.40 A, C electric spark generator 400 kV 0.10 mA, D mains lamp 240 V 0.20 A",
+      "options": [
+        "A car headlight 12 V 3.0 A",
+        "B cooling fan 110 V 0.40 A",
+        "C electric spark generator 400 kV 0.10 mA",
+        "D mains lamp 240 V 0.20 A"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mains-operated radio is a double-insulated appliance. Which statement is correct? A The radio does not need a neutral connection., B The radio must be earthed., C The radio circuit is safe without a fuse or trip switch., D The outer casing of the radio cannot become live.",
+      "text": "A mains-operated radio is a double-insulated appliance. Which statement is correct? A The radio does not need a neutral connection., B The radio must be earthed., C The radio circuit is safe without a fuse or trip switch., D The outer casing of the radio cannot become live.",
+      "options": [
+        "A The radio does not need a neutral connection.",
+        "B The radio must be earthed.",
+        "C The radio circuit is safe without a fuse or trip switch.",
+        "D The outer casing of the radio cannot become live."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement describes a magnetic field? A It is a region where all objects experience a force., B It is a region where all electric charges experience a force., C It is a region where all magnetic poles experience a force., D It is a region where all metals experience a force. 12",
+      "text": "Which statement describes a magnetic field? A It is a region where all objects experience a force., B It is a region where all electric charges experience a force., C It is a region where all magnetic poles experience a force., D It is a region where all metals experience a force. 12",
+      "options": [
+        "A It is a region where all objects experience a force.",
+        "B It is a region where all electric charges experience a force.",
+        "C It is a region where all magnetic poles experience a force.",
+        "D It is a region where all metals experience a force. 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plastic rod is charged by friction. The plastic rod becomes positively charged. Which particles are transferred in this process? A atoms, B electrons, C protons, D neutrons",
+      "text": "A plastic rod is charged by friction. The plastic rod becomes positively charged. Which particles are transferred in this process? A atoms, B electrons, C protons, D neutrons",
+      "options": [
+        "A atoms",
+        "B electrons",
+        "C protons",
+        "D neutrons"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher makes a circuit using three 1.5 V cells and two 20  resistors connected in series. Which  row  gives  the  combined  electromotive  force  (e.m.f.)  of  the  cells  and  the  combined resistance of the resistors? combined e.m.f. / V combined resistance /  A 1.5 10, B 1.5 40, C 4.5 10, D 4.5 40",
+      "text": "A teacher makes a circuit using three 1.5 V cells and two 20  resistors connected in series. Which  row  gives  the  combined  electromotive  force  (e.m.f.)  of  the  cells  and  the  combined resistance of the resistors? combined e.m.f. / V combined resistance /  A 1.5 10, B 1.5 40, C 4.5 10, D 4.5 40",
+      "options": [
+        "A 1.5 10",
+        "B 1.5 40",
+        "C 4.5 10",
+        "D 4.5 40"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student investigates the turning effect on a current-carrying coil placed in a magnetic field. The student changes the current in the coil and the number of turns on the coil. Which two changes together must increase the turning effect? A decreasing the current and decreasing the number of turns, B decreasing the current and increasing the number of turns, C increasing the current and decreasing the number of turns, D increasing the current and increasing the number of turns 13",
+      "text": "A student investigates the turning effect on a current-carrying coil placed in a magnetic field. The student changes the current in the coil and the number of turns on the coil. Which two changes together must increase the turning effect? A decreasing the current and decreasing the number of turns, B decreasing the current and increasing the number of turns, C increasing the current and decreasing the number of turns, D increasing the current and increasing the number of turns 13",
+      "options": [
+        "A decreasing the current and decreasing the number of turns",
+        "B decreasing the current and increasing the number of turns",
+        "C increasing the current and decreasing the number of turns",
+        "D increasing the current and increasing the number of turns 13"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current of 3.0 A in a conductor. The current is changed to 6.0 A in the opposite direction. Which effect does this have on the magnetic field around the conductor?, A It decreases and it acts in the opposite direction., B It decreases and it acts in the same direction., C It increases and it acts in the opposite direction., D It increases and it acts in the same direction.",
+      "text": "There is a current of 3.0 A in a conductor. The current is changed to 6.0 A in the opposite direction. Which effect does this have on the magnetic field around the conductor?, A It decreases and it acts in the opposite direction., B It decreases and it acts in the same direction., C It increases and it acts in the opposite direction., D It increases and it acts in the same direction.",
+      "options": [
+        "A in the opposite direction. Which effect does this have on the magnetic field around the conductor?",
+        "A It decreases and it acts in the opposite direction.",
+        "B It decreases and it acts in the same direction.",
+        "C It increases and it acts in the opposite direction.",
+        "D It increases and it acts in the same direction."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows the contribution to background radiation from the four most common sources. source percentage of total background radiation / % radon gas (in the air) 48 rocks and buildings 13 food and drink 10 cosmic rays 11 Which percentage of background radiation comes from all other sources? A 14% B   18% C   21% D   82%",
+      "text": "The table shows the contribution to background radiation from the four most common sources. source percentage of total background radiation / % radon gas (in the air) 48 rocks and buildings 13 food and drink 10 cosmic rays 11 Which percentage of background radiation comes from all other sources? A 14% B   18% C   21% D   82%",
+      "options": [
+        "A 14% B   18% C   21% D   82%"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The unstable nucleus of an element undergoes radioactive decay. The proton number remains unchanged. Which description of this radioactive decay event is correct? A The nucleus emits an -particle., B The nucleus emits a -particle., C The nucleus emits -radiation., D The nucleus emits an -particle, a -particle and -radiation together. 14",
+      "text": "The unstable nucleus of an element undergoes radioactive decay. The proton number remains unchanged. Which description of this radioactive decay event is correct? A The nucleus emits an -particle., B The nucleus emits a -particle., C The nucleus emits -radiation., D The nucleus emits an -particle, a -particle and -radiation together. 14",
+      "options": [
+        "A The nucleus emits an -particle.",
+        "B The nucleus emits a -particle.",
+        "C The nucleus emits -radiation.",
+        "D The nucleus emits an -particle, a -particle and -radiation together. 14"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When they lose electrons, ......1...... form ......2...... charged ......3...... . Which words correctly complete the sentence? 1    2    3 A atoms negatively ions, B ions negatively atoms, C atoms positively ions, D ions positively atoms",
+      "text": "When they lose electrons, ......1...... form ......2...... charged ......3...... . Which words correctly complete the sentence? 1    2    3 A atoms negatively ions, B ions negatively atoms, C atoms positively ions, D ions positively atoms",
+      "options": [
+        "A atoms negatively ions",
+        "B ions negatively atoms",
+        "C atoms positively ions",
+        "D ions positively atoms"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An isotope of krypton has an atomic number of 36 and a mass number of 78. What is the number of protons in a krypton nucleus? A 36 B   42 C   78 D   114",
+      "text": "An isotope of krypton has an atomic number of 36 and a mass number of 78. What is the number of protons in a krypton nucleus? A 36 B   42 C   78 D   114",
+      "options": [
+        "A 36 B   42 C   78 D   114"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the time taken for the Earth to spin once on its axis and the time taken for the Earth to orbit the Sun? spin on its axis orbit the Sun A 24 hours 1 month, B 24 hours 365 days, C 1 month 1 month, D 1 month 365 days",
+      "text": "What is the time taken for the Earth to spin once on its axis and the time taken for the Earth to orbit the Sun? spin on its axis orbit the Sun A 24 hours 1 month, B 24 hours 365 days, C 1 month 1 month, D 1 month 365 days",
+      "options": [
+        "A 24 hours 1 month",
+        "B 24 hours 365 days",
+        "C 1 month 1 month",
+        "D 1 month 365 days"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Electromagnetic radiation from distant galaxies is redshifted when observed from the Earth. This is evidence that supports the Big Bang Theory. Which statement is correct? A Light from galaxies that are moving towards the Earth is redshifted., B Redshift is an increase in the wavelength of electromagnetic radiation., C The Big Bang Theory says that the Solar System is expanding out into the Universe., D The Big Bang Theory says that, billions of years ago, the Universe expanded to its current size in a few seconds. 15",
+      "text": "Electromagnetic radiation from distant galaxies is redshifted when observed from the Earth. This is evidence that supports the Big Bang Theory. Which statement is correct? A Light from galaxies that are moving towards the Earth is redshifted., B Redshift is an increase in the wavelength of electromagnetic radiation., C The Big Bang Theory says that the Solar System is expanding out into the Universe., D The Big Bang Theory says that, billions of years ago, the Universe expanded to its current size in a few seconds. 15",
+      "options": [
+        "A Light from galaxies that are moving towards the Earth is redshifted.",
+        "B Redshift is an increase in the wavelength of electromagnetic radiation.",
+        "C The Big Bang Theory says that the Solar System is expanding out into the Universe.",
+        "D The Big Bang Theory says that, billions of years ago, the Universe expanded to its current size in a few seconds. 15"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the Milky Way is correct? A It is a galaxy made up of billions of stars., B It is a group of galaxies in our Solar System., C It is all the stars that we can see in the night sky., D It is the path taken by a comet when it gets close to the Sun. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "Which statement about the Milky Way is correct? A It is a galaxy made up of billions of stars., B It is a group of galaxies in our Solar System., C It is all the stars that we can see in the night sky., D It is the path taken by a comet when it gets close to the Sun. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A It is a galaxy made up of billions of stars.",
+        "B It is a group of galaxies in our Solar System.",
+        "C It is all the stars that we can see in the night sky.",
+        "D It is the path taken by a comet when it gets close to the Sun. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit1-2025-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

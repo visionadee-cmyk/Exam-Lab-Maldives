@@ -1,0 +1,91 @@
+{
+  "paperId": "physics-0625-2019-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Record the current I in the circuit, as shown on the ammeter in Fig. 2.2. 0 0.2 0.4 0.6 A 0.8 1.0 Fig. 2.2 I = ........................................................ [1] 6 0625/61/M/J/19© UCLES 2019 (b) The student places the sliding contact C at a distance l = 20.0 cm from B. She records the potential difference V across the length l of the resi",
+      "text": "1 (a) Record the current I in the circuit, as shown on the ammeter in Fig. 2.2. 0 0.2 0.4 0.6 A 0.8 1.0 Fig. 2.2 I = ........................................................ [1] 6 0625/61/M/J/19© UCLES 2019 (b) The student places the sliding contact C at a distance l = 20.0 cm from B. She records the potential difference V across the length l of the resi",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method indicated on graph triangle at least half of candidate’s line 2 or 3 significant figures and unit N",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Difficulty in achieving exact balance OR difficulty in judging centre of P OR load easily slips OR top of pivot not a sharp edge Statement and explanation to match results. Expect Yes, because values are close, owtte 0625/61 May/June 2019 I = 0.47(A) V / l 0.025 0.023 0.027 0.026 0.024 V / l consistent 2 significant figures or consistent 3 significant figures V/cm",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Box 1 ticked Values are close OR values are within the limits of experimental accuracy 2 or 3 significant figures Unit Ω OR switch off between readings 0625/61 May/June 2019 (°C) °C seen and not contradicted Third box ticked to match readings Pairs of readings 94(°C), 89(°C) and 93 (°C), 87 (°C) quoted. OR differences 5(°C) and 6(°C) quoted Difference is only 1(°C) OR difference is small. owtte Use a black painted beaker (and black painted can) Use a shiny can (and unpainted beaker) Any two from: Room temperature Volume of water Same starting temperature (of water)",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Perpendicular viewing of the thermometer OR stirring OR thermometer not touching beaker. 0625/61 May/June 2019 MP1 Apparatus: Forcemeter/Newtonmeter or pulley and weights arrangement MP2 Method: Pull box up slope, measure force and measure distance moved MP3 Method: Repeat with different masses MP4 Variable: Angle of slope or height of blocks MP5 Variable: Distance moved MP6 Table to include columns for mass and force, both with unit (g or kg for mass and N for force) MP7 Calculate work done and compare with mass. OR Compare work done with mass (if there is a work done column in the table). OR Plot graph of work done against mass",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit6-2019-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "wch11-jan-2024-unit3-qp",
+  "pairedMarkSchemeId": "wch11-jan-2024-unit3-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH13/01",
+  "session": "January 2024",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of mean from titres 1 and 3 to 4 SF (even if not circled) Example of calculation (24.30 + 24.20) ÷ 2 = 24.25 (cm ) Accept 0.02425 dm Allow TE from (a) provided they are calculating the mean of more than one circled titre (1) Number Acceptable Answers Additional Guidance Mark following point: • colourless to (pale) pink Do not award colourless to purple (1) Number Acceptable Answers Additional Guidance Mark • calculation of the amount of NaOH (in mol) (1) • calculation of moles of citric acid in 25 cm of diluted lemon juice (1) • calculation of moles of citric acid in 250 cm of diluted lemon juice (1) • calculation of mass of citric acid (1) • calculation of percentage by mass of citric acid in lemon juice and to 2 SF (1) Example of calculation Ignore rounding errors in M1 to M4 Ignore SF in M1 to M4 unless 1SF (24.25 ÷ 1000) × 0.103 = 2.4978 × –3 /0.0024978 (mol) Allow TE from (b) 2.4978× 10 – ÷ 3 = 8.3258 × 10 –4 /0.00083258 (mol) 8.3258 × 10 –4 × 10 = 8.3258 × 10 –3 /0.0083258 (mol) 8.3258 × 10 – × 192 = 1.5986 (g) M1, M2, M3 and M4 can be in any order ((1.5986 ÷ 24) × 100 = 6.6608 % = ) 6.7 (%) Correct answer scores 5 marks Allow TE from M4 if answer is less than 100% Ignore units in intermediate stages even if incorrect (5) Number Acceptable Answers Additional Guidance Mark following point: • the other acids are present in (very) small amounts (in lemon juice, so will have little effect on the titre values) Allow ‘citric acid has a much greater concentration’ Allow ‘the other acids are present in much smaller amounts’ Ignore just ‘the other acids are present in smaller amounts’ Ignore comments related to pH / acid strength (1) Number Acceptable Answers Additional Guidance Mark following point: • (pour away solution, rinse flask and) make a new / fresh solution (of diluted lemon juice) Allow start again (from the beginning) / repeat the procedure / do the experiment again Allow transfer to larger (volumetric) flask, (rinse) and make up to volume (1)",
+          "image": "/papers/wch11-jan-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of moles of oxygen produced by 1 dm of hydrogen peroxide solution (1) • calculation of concentration of hydrogen peroxide (1) Example of calculation 20 ÷ 24 = 0.83333/8.3333 × 10 – (mol) (0.83333 × 2) = 1.6667 = 1.67 (mol dm – ) Allow TE from M1 to M2 Ignore SF except 1 SF Ignore minor slips in units e.g. mol dm or mol/dm – Do not award major unit errors in M2 e.g. g or dm mol –1 (2) Number Acceptable Answers Additional Guidance Mark following points: • (Oxidation of iodide ions) 2I – → I + 2e ( – ) (1) • (Reduction of hydrogen peroxide under acidic conditions) H O + 2H + + 2e ( – ) → 2H O (1) Allow multiples Accept 2I – – 2e ( – ) → I Allow 2H + above arrow Ignore state symbols even if incorrect (2) Number Acceptable Answers Additional Guidance Mark following point: • H O + 2H + + 2I – → 2H O + I Allow multiples Allow 2H + above arrow Allow 2HI Ignore state symbols even if incorrect (1) Number Acceptable Answers Additional Guidance Mark following point: • yellow / brown (solution) Ignore adjectives e.g. ‘pale’ Do not award orange / purple / blue / black / red / pink / red-brown Do not award precipitate / ppt / solid / crystals Do not award vapour / gas / fumes (1) Number Acceptable Answers Additional Guidance Mark the following points: • add (aqueous) filtrate / iodine (solution) / mixture to (separating funnel containing) cyclohexane (1) • (gently) shake / invert separating funnel (1) • open tap of (inverted) separating funnel occasionally to relieve pressure / release gas (1) • (allow layers to settle) and then remove (lower) aqueous / inorganic layer (1) Allow addition of liquids to separating funnel in any order Ignore minor slips with name of solvent e.g. cyclohexene / hexane / cyclohexanol Allow idea of mixing / swirling contents Ignore stirring Accept loosen/remove stopper (slightly) to relieve pressure / release gas Ignore references to drying agents / Na CO / NaHCO Allow removal of the lower layer if it is clear that it is not the cyclohexane",
+          "image": "/papers/wch11-jan-2024/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2024-unit3-2024-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

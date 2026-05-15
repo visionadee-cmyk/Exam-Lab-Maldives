@@ -1,0 +1,217 @@
+{
+  "paperId": "wma14-oct-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-oct-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "October 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 8 31 xx − −  −= −   B1 ( ) ( ) ( ) ( ) ... 2! 3! x x x x − − − − − − − − −         − = + − − + − + − +                 M1 () 8 3... 2 16641536 xxxx − −= + +++ A1 A1 (4) (b) 11 212722851 ... 2 16 364 31536 35184      ++++ =           6... −   ==   M1 = or A1 (2) Total 6 Note a misread of ( ) x − can score a maximum of B1M1A0A0 M0A0 (a) B1: Obtains ( ) 1 ... x −  . − must be evaluated. May be implied by further work e.g. ...  provided this has not come from an incorrect method. e.g. ( ) ( ) ( ) 8 3 ... x x x x − − = = + + + − is B0. M1: Attempts the binomial expansion of (1 + kx) n to get the third or fourth term unsimplified with an acceptable structure. The correct binomial coefficient must be combined with x or x which may be unsimplified. Look for ( ) ... 2! x − − − or ( ) ( ) ... 3! x − − − − − o.e. (you do not need to be concerned with their − which may be 1 or e.g. if they have a negative sign in front of the whole term) Do not allow notation such as  −     ,  −     unless interpreted correctly in further work. May be implied by correct coefficients with x or x A1: For 2 correct simplified terms of ,, xxx (allow x for x for this mark) which may be listed. Condone if coefficients are given as decimals i.e. 0.0625 , 0.015625 , 0.004557...xxx Also allow for 11... xxxx −  −= + +++   (Note B0M1A1A0 is possible) A1: 2 16641536 xxx+ ++ . Isw following a correct answer. Condone the position of n x provided it is not clearly on the denominator. e.g. condone x but not 16x . Ignore terms with higher powers of x. Do not accept x (b) M1: Attempts to substitute x = into their expansion from part (a) to achieve a fraction and attempts to find the reciprocal of that fraction. May be implied by their fraction. You may need to check this on your calculator. They may attempt to find an additional term which is fine. Do not be concerned as to whether the fraction is correct for their binomial exp",
+          "image": "/papers/wma14-oct-2024/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-03.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Show that 3 4 75 πh V \u001f [The volume V of a right circular cone with vertical height h and base radius r is given by the formula V = 1 3 πr 2 h] (2) Given that water flows into the container at a constant rate of 2π cm 3 s –1 (b) find, in cm s –1 , the rate at which h is changing, exactly 1.5 minutes after water starts flowing into the container. (4) ______________________________",
+      "text": "3 (a) Show that 3 4 75 πh V \u001f [The volume V of a right circular cone with vertical height h and base radius r is given by the formula V = 1 3 πr 2 h] (2) Given that water flows into the container at a constant rate of 2π cm 3 s –1 (b) find, in cm s –1 , the rate at which h is changing, exactly 1.5 minutes after water starts flowing into the container. (4) ______________________________",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Show that 3 4 75 πh V \u001f [The volume V of a right circular cone with vertical height h and base radius r is given by the formula V = 1 3 πr 2 h] (2) Given that water flows into the container at a constant rate of 2π cm 3 s –1 (b) find, in cm s –1 , the rate at which h is changing, exactly 1.5 minutes after water starts flowing into the container. (4) ______________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "32 d 3sin 9 sin cos d x x     =  = o.e. B1 d 2 sin 2 d 9 sin cos y x   − = M1 d4 sin cos4 cosec d9 sincos9 y x    − == − A1 (3) (b) d \" \", ..., ... d y xy x    =  = − = = = + =   M1 yx  − = − −   dM1 161833 0xy+ − = A1 (3) (c) e.g. 3sin sin x x  =  =  1 cos 2 1 1 2sin 2 2 x y   = + = + − = −   M1 ( ) 2 2 9 2 xx y y x y     = −  = −  = −         * A1* q = 3 B1 (3) Alt(c) e.g. ( ) ( ) ( ) ( ) 72sin , 9 2 9 2 cos 2 9 1 1 2sin xy    = − = − − = − − M1 ( ) 72 sin 9 8sin 9 2 * xy  =   = − A1* q = 3 B1 Total 9 (a) B1: Correct expression for d d x  which may be part of their expression for d d y x . Condone poor labelling/notation provided the intention is clear. Must be in terms of  May use identities before differentiating using the product rule e.g. 1 cos 2 sin   −    M1: Correct method for d d y x . They must be attempting dd dd y x    o.e. condoning copying slips and condoning poor differentiation, labelling /notation provided the intention is clear. A1: Achieves d4 cosec d9 y x =− with no errors but condone invisible brackets and poor notation being recovered. Allow equivalent fractions to − . Note d d y x = may be seen in an earlier line of their solution which is acceptable. Alt (a) Implicit differentiation – note that some candidates may find the cartesian equation and differentiate implicitly or explicitly. B1: A correctly differentiated cartesian equation. (Do not be concerned with where the cartesian equation has come from for this mark) e.g. d 9 3 ( 1) (2 ) d y xy x =   −  −  M1: Substitutes in for x and y into their differentiated equation and rearranges to achieve an expression for d d y x in terms of  . Condone poor differentiation. A1: Achieves d4 cosec d9 y x  =− with no errors but condone invisible brackets and poor notation being recovered. Allow equivalent fractions to − . They must have shown correctly how they found the cartesian equation. i.e. they cannot just use the gi",
+          "image": "/papers/wma14-oct-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 1, 11 3 8 8 8 11 0* x x y x y xy = =  + − + − = + − + − = B1* (1) (b) 88 ln 8 xx → B1 d d y xy x y x →+ or d d y yy x → M1 dd 8 ln 8 0 dd x yy x y y x xx + − − + = o.e. A1 ( ) dd 8 ln 8 ... dd x yy y x y x xx − = − −  = M1 d 8 ln 8 d x y y x x y x −− = − o.e. e.g d 8 ln 8 4 d x y x y x x y +− = − or e.g ln 8 d e ln 8 d x y y x x y x −− = − A1 (5) (c) ( ) d 8 6 8 ln 8 1, 2 d 8 4 y x −− →= − ( ) 8 ln 8 2 yx  − = − − M1 ( ) 0 2 ... 8 ln 8 2 y x x =  − = −  = − M1 2 12ln 2 x =− A1 (3) Total 9 (a) B1*: Substitutes x = 1 and y = 2 and obtains 0 with no errors. Minimum required without evaluating each term e.g. 3 1 2 2 4 1 2 8 11 0  +  −   + − = . We just need a correct equation which evaluates as 0. Alternatively, substitutes in x = 1, forms a quadratic in y i.e. yy −= o.e. and solves to find y via any method: 3 2 8 11 0 y y y y y + − + − =  − =  = (ignore the other solution 0) They may at this stage substitute in y = 2 to get 0. In any of the approaches a conclusion is not required. (b) B1: Correct differentiation of x . Award for sight of ln 8 8 x  or ln 8 e ln 8 x  . Do not be concerned with the use of modulus signs around ln8 M1: For d d y yky x → or d d y xyAxBy x →+ A1: Fully correct differentiation. Condone the omission of = 0 or may be implied by further work. Accept ln 8 dd e ln 8 0 dd x yy x y y x xx + − − + = Ignore if they start their differentiated line with e.g. d d y x = M1: Attempts to make d d y x the subject with 2 terms in d d y x coming from the correct places. i.e. they must have two terms (one of each) of the form d d y x x  and d d y y x  where ,  are non-zero constants. A1: Any correct expression for d d y x . Allow ... y  = o.e. isw after a correct answer is seen Condone poor dividing lines which do not go quite far enough provided an incorrect method was not seen. E.g. 8 ln 8 x yx yx − − − (c) Note that an incorrect derivative in part (b) can score maximum 110 in part (c) M1: Attempts to use x = 1 and y = 2 in their d d y x t",
+          "image": "/papers/wma14-oct-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "e.g. r r h V r h h h h   =  =  = =   M1 h V  = * A1* (2) (b) 4d124 75d7525 hVhh V h   = ==   B1 1.5 60 2V=   ( ) ... 15 h hh   =  =  = M1 dd d75 2... ddd1215 hh V tVt   == =  M1 (cm s − ) A1 (4) Total 6 (a) M1: Uses the 12 and the 30 to find the ratio between h and r and substitutes into the volume formula to find V in terms of h. Condone poor bracketing / invisible brackets for this mark. May just state rh = This mark cannot be for substituting in e.g. r = instead of rh = A1*: Correct proof with no errors including brackets. There must be at least one intermediate stage of working between establishing rh = and proceeding to the given answer. (b) Note that substituting 1.5 h = or h = will score M0M0 in (b) B1: Correct expression for d d V h in any form M1: Attempts their volume (“ t   ”) after 1.5 minutes and uses this with the given result from (a) to find h. They may find h by equating their expression for the volume to the given result from (a) before substituting t = and rearranging to find h. Do not be concerned by the mechanics of the rearrangement. Condone slips. M1: Correct chain rule attempt using their h to find d d h t . It is dependent on having used t = 90 (or condone t = 1.5 ) when finding h. A1: Correct value. Allow awrt 0.0556 (cm s − ) Units not required for this mark. ------------------------------------------------------------------------------------------------------------------------ Alt(b) I Solving the differential equation d75 d6 h th = and then using 90t= B1: d d V h h h   ==   M1: Attempts ddd75 ddd6 hhV tVth  = =   to achieve an expression in h, attempts to solve their differential equation d h h dt h t c =  = +  o.e. and uses 0, t h c = =  = (you may not see the working for c) to find h = f(t) ( ( ) 37.5 ht = ). Do not be concerned by the mechanics of the rearrangement. M1: Attempts d1 37.5 d3 h t t −  =   and substitutes d ... d h t t =  = A1: As above in main scheme -----------",
+          "image": "/papers/wma14-oct-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-13.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 ... x xx − =+ ++ or ... x − + M1 x xx − =− ++ A1 (2) (b) ( ) d ... Vx x   = − =  +   M1 () () () 9d... 42 ln2... xx x x   =−+= −+ +   + +   or ( ) ( ) d ... ... x xx x   = − + = + −   ++ +   M1 ( ) ( ) ( ) d ... 42 ln ... xx x x   = − + = − + +   + +   and ( ) ( ) d ... ... x xx x   = − + = + −   ++ +   dM1 ( ) ( ) ( ) d 42 ln x x x xx x   = − + = − + −   ++ +   A1 ( ) ( ) ( ) 42 ln 36 42 ln 6 9 42 ln 3 V x x x       = − + − = − − − − −    +      M1 42 ln 2   =−   A1 (6) Total 8 (a) M1: Obtains either A = 3 or B =− A1: 2x − + Just stating the values of A and B is insufficient but you may award this mark if it is seen in (b). Allow 2x − + + and 2x +− + (b) Condone transcription errors for the method marks e.g. () ... ...ln2 x x →− + provided no incorrect method is seen. Condone invisible brackets for the M marks M1: Uses their result from part (a) and applies the volume formula (with or without the π and condone 2π ) and attempts to square the bracket. Condone if they just square the two terms in the brackets or if their squaring is poor. M1: Integrates to obtain the correct form for one of the fractional terms i.e. ( ) ... ...ln x x →+ + or ( ) ... ... x x → + + . This can be scored even if they have not squared any terms originally if they have one of these terms of the required form. Condone invisible brackets for ln2x+ dM1: Integrates to obtain the correct form for both fractional terms i.e. ( ) ... ...ln x x →+ + and ( ) ... ... x x → + + . It is dependent on the previous method mark. Condone invisible brackets for ln2x+ A1: () 942 ln2 xx x −+ − + o.e. May be implied by further work. M1: Applies the limits 1 and 4 to an expression of the form ln( 2) ( 2) n Ax B x C x  +  + where , , , A B C n  and subtracts the correct way round. The expression with values embedded is sufficient. Condone slips and invisible brackets. A1: 42 ln 2   −   Correct expression in the requir",
+          "image": "/papers/wma14-oct-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() () 641054 − + − − − + −ij kijk M1 e.g. ( )  = − + −  − + r i j k i j k e.g. ( ) r i j k i j k  = − + −  − + A1 (2) (b) 3 3  + = −  = − M1 12 4 ... pp + =  = or ... qq − = −  = dM1 8, pq = − = A1 (3) (c) ( ) ( ) 12 4 3 − + − + = + + i j k i j k M1 ( ) ( ) 26 26 cos cos ...  − + − + = =  = i j k i j k M1 () cos = A1 (3) (d) sin 26 1 AC AB   = = −   M1 3 910 o.e. A1 (2) Total 10 Do not be concerned by the mechanics of the rearrangement in solving. A1: Correct values ------------------------------------------------------------------------------------------------------------------------ Alt (b) M1: Forms three correct equations 3 36,44,1pq+ = − − = + = − dM1: Solves simultaneously to find a value for p or q. Do not be concerned by the mechanics of the rearrangement. A1: Correct values ------------------------------------------------------------------------------------------------------------------------ (c) M1: Attempts the scalar product using their direction vectors or may find another direction vector which should be a multiple of the one for l or l (condoning slips e.g. if they restart using another point on l to find a direction vector). Look for at least two correct products using their l . May be implied by “±19”. May find the obtuse angle which can still score this mark. M1: Completes the scalar product method using their direction vectors to find cos θ (acute or obtuse). Attempts the magnitude of both of their direction vectors and uses these values in the correct positions in the equation for cos θ A1: or exact equivalent. Do not accept fractions where the numerator or denominator is not an integer (square roots must be evaluated). Isw if they proceed to find θ ------------------------------------------------------------------------------------------------------------------------ Alt (c) There will be many alternatives such as the one below. Send to review if unsure. M1: The first mark should be for finding the required components to ",
+          "image": "/papers/wma14-oct-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-21.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() () 121...or... AB A xBxAB xxxx  + − +  == −− M1 () 2121xxxx − −− A1 (2) (b) ( ) ( ) d 1 cos d cos d d h t t h h h t t h h     = −  =     −      M1 ( ) ( ) d d ln 2 ln h h h h h h h h  = − = − −  −−   M1 ( ) d cos d ln 2 ln sin ( ) tt h t h h c hh       − =  − − = +       −        A1ft e.g. 0, 2.5 th = =  ( ) ln 2 2.5 1 ln 2.5 c  − − = or e.g. sin ln sin e t h t h cX hh    −−  = +  =   0, 2.5 1.6 t h X = =  = M1 ( ) sin ln 2 ln sin ln1.6 1.6e t th hh h    −  − − = +  =   sin 1.6 e ... t h h h     − =  = M1 sin 10 8e t h    = − A1 (6) (c) ( ) sin , , , ... ... tt t    =  =  = M1 141 (s) t  == A1 (2) Total 10 (a) M1: Correct attempt at partial fractions. Sets ( ) AB x x x x =+ −− and uses a correct method to identify at least one constant. Incorrect work e.g. (2 1) AB Ax B x xx +  = + − − etc. is M0. A1: Correct partial fractions. Note that this mark is not just for the correct constants, it is for the correct written fractions but allow this mark to be scored if it is seen in part (b) (in terms of h or x). Condone 21xx − + − or written as e.g. 2(21)xx −− −− (b) Note that they may work in x throughout, but the final answer must be ... h = M1: Attempts to separate the variables. Do not be concerned by slips with the constants so look for as a minimum ( ) ( ) cos ... t hh = −  o.e. May omit an integral sign on one of the sides or may be implied by their integrated expression. M1: For d ln ln(2 1) AB h h h hh   + = + −  −   or e.g. \" \" \" \" d ln ln(2 1) AB h h h hh     + = + −  −   (if they attempt some rearranging first) Condone invisible brackets. A1ft: Fully correct equation following through their A and B. The “+c” is not required here. d cos d ln ln(2 1) sin ( ) A B t B t h t A h h c hh       + =  + − = +       −        o.e. Condone invisible brackets. M1: States or uses t = 0, h = 2.5 followed by ... c = is sufficient for M1.",
+          "image": "/papers/wma14-oct-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-25.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d d x t t = o.e. B1 Area sin sin 2 6 d sin 2 sin cos 6 d t t t t t t t t t  =  =      M1 sin cos d t t t t  =  A1 (3) (b) (12)sin(12)sin d t tt t    =−    M1 ( ) (12) sin sin 1 cos d t t t t t       = − −        M1 4 sin 4 cos cos t t t t   = + −   A1   = − −   M1  =− A1 (5) Total 8 (b) Condone working in mixed variables provided the intention is clear or they recover in further work. Condone the absence of variables in trigonometric functions e.g. sin for sint or cos for cos t M1: Attempts integration by parts in the correct direction to achieve an expression of the form ... sin ... sin d t t t t   Condone the omission of their 12 M1: Uses () sinsin 1 costtt=− to reach the integrable form ... sin... sin (1 cos ) dttttt−  o.e. May be seen as ... sin... sinsin cosdttttt t−  . Alternatively uses compound angle formule to substitute sin ...sin ...sin 3 t t t = to reach an integrable form. ( ) ... sin ... ...sin ...sin 3 d t t t t t   ( ) 4 sin (3sin sin 3 ) d t t t t t −−  In either approach it may be implied by their integrated expression. Condone the omission of their 12 A1: Fully correct integration of sin cos d t t t t  or alternatively 4 sin (3sin sin 3 ) d 4 sin 3cos cos 3 t t t t t t t t t − − = + −  . Condone any multiple and condone missing variables e.g. 4 sin 4 cos cos t +− M1: Applies the limits 0 and  to an expression of the form sin cos cos At t B t C t ++ where , , A B C  or in the alternative cos cos 3 tt  + where ,0   A1: Correct answer in the required form. does not need to be in simplest form. isw once a correct answer is seen. ------------------------------------------------------------------------------------------------------------------------ Alternative substitution method using sin ut = M1: Attempts to use the substitution sin ut = to proceed to ( ) sin d u u u −  and attempts integration by parts in the correct direction to achieve an expression of the form (12) sin d uu ",
+          "image": "/papers/wma14-oct-2024/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2024/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma14-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2024-unit1-2024-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-oct-2024/page-01.png",
+      "/papers/wma14-oct-2024/page-02.png",
+      "/papers/wma14-oct-2024/page-03.png",
+      "/papers/wma14-oct-2024/page-04.png",
+      "/papers/wma14-oct-2024/page-05.png",
+      "/papers/wma14-oct-2024/page-06.png",
+      "/papers/wma14-oct-2024/page-07.png",
+      "/papers/wma14-oct-2024/page-08.png",
+      "/papers/wma14-oct-2024/page-09.png",
+      "/papers/wma14-oct-2024/page-10.png",
+      "/papers/wma14-oct-2024/page-11.png",
+      "/papers/wma14-oct-2024/page-12.png",
+      "/papers/wma14-oct-2024/page-13.png",
+      "/papers/wma14-oct-2024/page-14.png",
+      "/papers/wma14-oct-2024/page-15.png",
+      "/papers/wma14-oct-2024/page-16.png",
+      "/papers/wma14-oct-2024/page-17.png",
+      "/papers/wma14-oct-2024/page-18.png",
+      "/papers/wma14-oct-2024/page-19.png",
+      "/papers/wma14-oct-2024/page-20.png",
+      "/papers/wma14-oct-2024/page-21.png",
+      "/papers/wma14-oct-2024/page-22.png",
+      "/papers/wma14-oct-2024/page-23.png",
+      "/papers/wma14-oct-2024/page-24.png",
+      "/papers/wma14-oct-2024/page-25.png",
+      "/papers/wma14-oct-2024/page-26.png",
+      "/papers/wma14-oct-2024/page-27.png",
+      "/papers/wma14-oct-2024/page-28.png",
+      "/papers/wma14-oct-2024/page-29.png",
+      "/papers/wma14-oct-2024/page-30.png",
+      "/papers/wma14-oct-2024/page-31.png",
+      "/papers/wma14-oct-2024/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

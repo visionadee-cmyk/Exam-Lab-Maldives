@@ -1,0 +1,590 @@
+{
+  "paperId": "physics-0625-2011-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "physics-0625-2011-unit1-november-p13-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/13",
+  "session": "October/November 2011",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 37,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A child is standing on the platform of a station. A train travelling at 30 m / s takes 3.0 s to pass the child. What is the length of the train?, A 10 m B   27  m C   30 m D   90  m",
+      "text": "A child is standing on the platform of a station. A train travelling at 30 m / s takes 3.0 s to pass the child. What is the length of the train?, A 10 m B   27  m C   30 m D   90  m",
+      "options": [
+        "A train travelling at 30 m / s takes 3.0 s to pass the child. What is the length of the train?",
+        "A 10 m B   27  m C   30 m D   90  m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of a car changes with time. speed U            V              W              X            Y tim e 0 Between which two times is the car stationary? A U and V B   V and W C   W and X D   X and Y 3",
+      "text": "The graph shows how the speed of a car changes with time. speed U            V              W              X            Y tim e 0 Between which two times is the car stationary? A U and V B   V and W C   W and X D   X and Y 3",
+      "options": [
+        "A U and V B   V and W C   W and X D   X and Y 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student wishes to measure the speed of sound in air. She plans to measure the time between making a sound and hearing the echo from a cliff. student cliff She will use the equation: speed = time distance . Which type of sound should she make and which distance should she use in her calculation? type of sound distance to use A continuous sound 2 cliff to distance, B continuous sound distance to cliff × 2, C short, sharp sound 2 cliff to distance, D short, sharp sound distance to cliff × 2",
+      "text": "A student wishes to measure the speed of sound in air. She plans to measure the time between making a sound and hearing the echo from a cliff. student cliff She will use the equation: speed = time distance . Which type of sound should she make and which distance should she use in her calculation? type of sound distance to use A continuous sound 2 cliff to distance, B continuous sound distance to cliff × 2, C short, sharp sound 2 cliff to distance, D short, sharp sound distance to cliff × 2",
+      "options": [
+        "A continuous sound 2 cliff to distance",
+        "B continuous sound distance to cliff × 2",
+        "C short, sharp sound 2 cliff to distance",
+        "D short, sharp sound distance to cliff × 2"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ruler is used to measure the length of an object. 12345678910 cm object What is the length of the object? A 3.0 cm B   4.0 cm C   5.0 cm D   6.5 cm 4",
+      "text": "A ruler is used to measure the length of an object. 12345678910 cm object What is the length of the object? A 3.0 cm B   4.0 cm C   5.0 cm D   6.5 cm 4",
+      "options": [
+        "A 3.0 cm B   4.0 cm C   5.0 cm D   6.5 cm 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student adds weights to an elastic cord. He measures the length of the cord for each weight. He then plots a graph from the results, as shown. 0 0 1234 weight / N Which length has he plotted on the vertical axis? A measured length, B original length, C (measured length – original length), D (measured length + original length)",
+      "text": "A student adds weights to an elastic cord. He measures the length of the cord for each weight. He then plots a graph from the results, as shown. 0 0 1234 weight / N Which length has he plotted on the vertical axis? A measured length, B original length, C (measured length – original length), D (measured length + original length)",
+      "options": [
+        "A measured length",
+        "B original length",
+        "C (measured length – original length)",
+        "D (measured length + original length)"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which combination of forces produces a resultant force acting towards the right? A 10 N 5 N 2 N B 5 N 4 N 3 N C 7 N 5 N 3 N",
+      "text": "Which combination of forces produces a resultant force acting towards the right? A 10 N 5 N 2 N B 5 N 4 N 3 N C 7 N 5 N 3 N",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q6.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "N 6 N 4 N D 5 7   A   force   F moves a load from the bottom of a slope to the top. q r p F load The work done by the force depends on the size of the force, and on a distance. What is this distance? A p B q C r D p + q 8   A uniform rod rests on a pivot at its centre. The rod is not attached to the pivot. Forces are then applied to the rod in four different ways, as shown. The weight of the rod can be ignored. Which diagram shows the rod in equilibrium? A 100 N 100 N B 100 N100 N C 100 N100 N D 100 N100 N 100 N 6 9   The weight of an object is to be found using the balance shown in the diagram. object The object is put in the left-hand pan and various standard weights are put in the right-hand pan. These are the results. weights in the right-hand pan effect 0.1 N, 0.1 N, 0.05 N, 0.02 N balance tips down slightly on the left-hand side 0.2 N, 0.1 N, 0.01 N balance tips down slightly on the right-hand side What is the best estimate of the weight of the object?, A 0.27 N B 0.29 N C 0.31 N D 0.58 N 10  A chair is placed on protective cups to prevent damage to the carpet underneath it. chair carpet protective cups How do the cups change the area of contact with the carpet and the pressure on it? area of contact pressure, A decreased          decreased, B decreased          increased, C increased          decreased, D increased          increased 7",
+      "text": "N 6 N 4 N D 5 7   A   force   F moves a load from the bottom of a slope to the top. q r p F load The work done by the force depends on the size of the force, and on a distance. What is this distance? A p B q C r D p + q 8   A uniform rod rests on a pivot at its centre. The rod is not attached to the pivot. Forces are then applied to the rod in four different ways, as shown. The weight of the rod can be ignored. Which diagram shows the rod in equilibrium? A 100 N 100 N B 100 N100 N C 100 N100 N D 100 N100 N 100 N 6 9   The weight of an object is to be found using the balance shown in the diagram. object The object is put in the left-hand pan and various standard weights are put in the right-hand pan. These are the results. weights in the right-hand pan effect 0.1 N, 0.1 N, 0.05 N, 0.02 N balance tips down slightly on the left-hand side 0.2 N, 0.1 N, 0.01 N balance tips down slightly on the right-hand side What is the best estimate of the weight of the object?, A 0.27 N B 0.29 N C 0.31 N D 0.58 N 10  A chair is placed on protective cups to prevent damage to the carpet underneath it. chair carpet protective cups How do the cups change the area of contact with the carpet and the pressure on it? area of contact pressure, A decreased          decreased, B decreased          increased, C increased          decreased, D increased          increased 7",
+      "options": [
+        "A p B q C r D p + q 8   A uniform rod rests on a pivot at its centre. The rod is not attached to the pivot. Forces are then applied to the rod in four different ways, as shown. The weight of the rod can be ignored. Which diagram shows the rod in equilibrium? A 100 N 100 N B 100 N100 N C 100 N100 N D 100 N100 N 100 N 6 9   The weight of an object is to be found using the balance shown in the diagram. object The object is put in the left-hand pan and various standard weights are put in the right-hand pan. These are the results. weights in the right-hand pan effect 0.1 N, 0.1 N, 0.05 N, 0.02 N balance tips down slightly on the left-hand side 0.2 N, 0.1 N, 0.01 N balance tips down slightly on the right-hand side What is the best estimate of the weight of the object?",
+        "A 0.27 N B 0.29 N C 0.31 N D 0.58 N 10  A chair is placed on protective cups to prevent damage to the carpet underneath it. chair carpet protective cups How do the cups change the area of contact with the carpet and the pressure on it? area of contact pressure",
+        "A decreased          decreased",
+        "B decreased          increased",
+        "C increased          decreased",
+        "D increased          increased 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student is told to measure the density of a liquid and also of a large cube of metal. Which pieces of equipment are sufficient to be able to take the measurements needed? A balance, measuring cylinder and ruler, B balance and thermometer, C measuring cylinder and ruler, D measuring cylinder, ruler and thermometer",
+      "text": "A student is told to measure the density of a liquid and also of a large cube of metal. Which pieces of equipment are sufficient to be able to take the measurements needed? A balance, measuring cylinder and ruler, B balance and thermometer, C measuring cylinder and ruler, D measuring cylinder, ruler and thermometer",
+      "options": [
+        "A balance, measuring cylinder and ruler",
+        "B balance and thermometer",
+        "C measuring cylinder and ruler",
+        "D measuring cylinder, ruler and thermometer"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show four blocks with the same mass. Which block is made from the least dense material? AB CD 2 cm 1 cm 8 cm 2 cm 3 cm 3 cm 3 cm 2 cm 4 cm 2 cm 5 cm 2 cm 8",
+      "text": "The diagrams show four blocks with the same mass. Which block is made from the least dense material? AB CD 2 cm 1 cm 8 cm 2 cm 3 cm 3 cm 3 cm 2 cm 4 cm 2 cm 5 cm 2 cm 8",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A water manometer is used to measure the pressure of a gas supply. initial level of water 10 cm 10 cm gas supply water When it is attached to the gas supply, the water falls on the left side and rises on the right side. The difference in the levels of water on the two sides is now 20 cm. What is the pressure of the gas supply? A the pressure due to 10 cm depth of water, B the pressure due to 20 cm depth of water, C the pressure due to 10 cm depth of water plus atmospheric pressure, D the pressure due to 20 cm depth of water plus atmospheric pressure",
+      "text": "A water manometer is used to measure the pressure of a gas supply. initial level of water 10 cm 10 cm gas supply water When it is attached to the gas supply, the water falls on the left side and rises on the right side. The difference in the levels of water on the two sides is now 20 cm. What is the pressure of the gas supply? A the pressure due to 10 cm depth of water, B the pressure due to 20 cm depth of water, C the pressure due to 10 cm depth of water plus atmospheric pressure, D the pressure due to 20 cm depth of water plus atmospheric pressure",
+      "options": [
+        "A the pressure due to 10 cm depth of water",
+        "B the pressure due to 20 cm depth of water",
+        "C the pressure due to 10 cm depth of water plus atmospheric pressure",
+        "D the pressure due to 20 cm depth of water plus atmospheric pressure"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an electric heater being used to heat a beaker of water and an identical beaker of oil for several minutes. water oil electric heate r The  temperature  of  the  water  and  the  temperature  of  the  oil  increase  constantly.  The  rise  in temperature of the oil is much greater than that of the water. Why is this? A The oil has a higher boiling point than water., B The oil has a higher thermal capacity than water., C The oil has a lower boiling point than water., D The oil has a lower thermal capacity than water. 9",
+      "text": "The diagram shows an electric heater being used to heat a beaker of water and an identical beaker of oil for several minutes. water oil electric heate r The  temperature  of  the  water  and  the  temperature  of  the  oil  increase  constantly.  The  rise  in temperature of the oil is much greater than that of the water. Why is this? A The oil has a higher boiling point than water., B The oil has a higher thermal capacity than water., C The oil has a lower boiling point than water., D The oil has a lower thermal capacity than water. 9",
+      "options": [
+        "A The oil has a higher boiling point than water.",
+        "B The oil has a higher thermal capacity than water.",
+        "C The oil has a lower boiling point than water.",
+        "D The oil has a lower thermal capacity than water. 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Evaporation occurs when molecules escape from a liquid surface into the air above it. During this process the temperature of the liquid falls. Why does the temperature of the liquid fall? A The molecules in the vapour expand because the pressure is less., B The molecules left in the liquid have more space to move around., C The molecules move more slowly when they escape into the air., D The molecules with the highest energies escape into the air.",
+      "text": "Evaporation occurs when molecules escape from a liquid surface into the air above it. During this process the temperature of the liquid falls. Why does the temperature of the liquid fall? A The molecules in the vapour expand because the pressure is less., B The molecules left in the liquid have more space to move around., C The molecules move more slowly when they escape into the air., D The molecules with the highest energies escape into the air.",
+      "options": [
+        "A The molecules in the vapour expand because the pressure is less.",
+        "B The molecules left in the liquid have more space to move around.",
+        "C The molecules move more slowly when they escape into the air.",
+        "D The molecules with the highest energies escape into the air."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in A pure   alcohol., B pure   distilled   water., C pure   melting   ice., D pure   mercury. 10",
+      "text": "To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in A pure   alcohol., B pure   distilled   water., C pure   melting   ice., D pure   mercury. 10",
+      "options": [
+        "A pure   alcohol.",
+        "B pure   distilled   water.",
+        "C pure   melting   ice.",
+        "D pure   mercury. 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two identical copper cans are filled with boiling water. uninsulated caninsulated can copper can wool hot water thermometer One can is insulated with wool. The temperature of the water in each can is taken every minute for several minutes. Graphs of the results are plotted. Which graph shows the results obtained? A temperature time insulated uninsulated B temperature time insulated uninsulated C temperature time insulated uninsulated D temperature time uninsulated insulated 11",
+      "text": "Two identical copper cans are filled with boiling water. uninsulated caninsulated can copper can wool hot water thermometer One can is insulated with wool. The temperature of the water in each can is taken every minute for several minutes. Graphs of the results are plotted. Which graph shows the results obtained? A temperature time insulated uninsulated B temperature time insulated uninsulated C temperature time insulated uninsulated D temperature time uninsulated insulated 11",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The pressure of a fixed mass of gas in a cylinder is measured. The volume of the gas in the cylinder is then slowly decreased. The temperature of the gas does not change. Which graph could show the change of pressure of the gas during this process? pressure time A 0 0 pressure time B pressure time C pressure time D 0 0 0 0 0 0",
+      "text": "The pressure of a fixed mass of gas in a cylinder is measured. The volume of the gas in the cylinder is then slowly decreased. The temperature of the gas does not change. Which graph could show the change of pressure of the gas during this process? pressure time A 0 0 pressure time B pressure time C pressure time D 0 0 0 0 0 0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a cooling unit in a refrigerator. cooling unit Why is the cooling unit placed at the top? A Cold air falls and warm air is displaced upwards., B Cold air is a bad conductor so heat is not conducted into the refrigerator., C Cold air is a good conductor so heat is conducted out of the refrigerator., D Cold air remains at the top and so prevents convection. 12",
+      "text": "The diagram shows a cooling unit in a refrigerator. cooling unit Why is the cooling unit placed at the top? A Cold air falls and warm air is displaced upwards., B Cold air is a bad conductor so heat is not conducted into the refrigerator., C Cold air is a good conductor so heat is conducted out of the refrigerator., D Cold air remains at the top and so prevents convection. 12",
+      "options": [
+        "A Cold air falls and warm air is displaced upwards.",
+        "B Cold air is a bad conductor so heat is not conducted into the refrigerator.",
+        "C Cold air is a good conductor so heat is conducted out of the refrigerator.",
+        "D Cold air remains at the top and so prevents convection. 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show the wave shapes of two different sounds. The scales are the same in each diagram. sound 1sound 2 timetime How does sound 2 compare with sound 1? A Sound 2 is louder than sound 1., B Sound 2 is quieter than sound 1., C Sound 2 has a higher pitch than sound 1., D Sound 2 has a lower pitch than sound 1.",
+      "text": "The diagrams show the wave shapes of two different sounds. The scales are the same in each diagram. sound 1sound 2 timetime How does sound 2 compare with sound 1? A Sound 2 is louder than sound 1., B Sound 2 is quieter than sound 1., C Sound 2 has a higher pitch than sound 1., D Sound 2 has a lower pitch than sound 1.",
+      "options": [
+        "A Sound 2 is louder than sound 1.",
+        "B Sound 2 is quieter than sound 1.",
+        "C Sound 2 has a higher pitch than sound 1.",
+        "D Sound 2 has a lower pitch than sound 1."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the image of a clock in a plane mirror. What time is shown? A 02:25   B   02:35   C   09:25   D 09:35 13",
+      "text": "The diagram shows the image of a clock in a plane mirror. What time is shown? A 02:25   B   02:35   C   09:25   D 09:35 13",
+      "options": [
+        "A 02:25   B   02:35   C   09:25   D 09:35 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Radio waves are received at a house at the bottom of a hill. hill radio waves house The waves reach the house because the hill has caused them to be A diffracted., B radiated., C reflected., D refracted.",
+      "text": "Radio waves are received at a house at the bottom of a hill. hill radio waves house The waves reach the house because the hill has caused them to be A diffracted., B radiated., C reflected., D refracted.",
+      "options": [
+        "A diffracted.",
+        "B radiated.",
+        "C reflected.",
+        "D refracted."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of light travelling from X. Angle P is less than the critical angle. In which direction does the ray continue? A C B D air glass X P",
+      "text": "The diagram shows a ray of light travelling from X. Angle P is less than the critical angle. In which direction does the ray continue? A C B D air glass X P",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which of these waves is longitudinal? A infra-red, B radio, C sound, D water 14",
+      "text": "Which of these waves is longitudinal? A infra-red, B radio, C sound, D water 14",
+      "options": [
+        "A infra-red",
+        "B radio",
+        "C sound",
+        "D water 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram represents the direction of the magnetic field around a straight wire carrying a current out of the page? AB current out of page CD current out of page 15",
+      "text": "Which diagram represents the direction of the magnetic field around a straight wire carrying a current out of the page? AB current out of page CD current out of page 15",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four  nails,  A, B, C and D, are tested to find which makes the strongest permanent magnet. NS nail bar magnet paper clips One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested in turn. Which nail becomes the strongest permanent magnet? number of paper clips attached to the nail nail bar magnet present   bar magnet removed A 2                  0, B 2                  1, C 4                  3, D 5                  2 16",
+      "text": "Four  nails,  A, B, C and D, are tested to find which makes the strongest permanent magnet. NS nail bar magnet paper clips One of the nails is placed against a bar magnet and the number of paper clips which the nail can support is recorded. The bar magnet is then removed and the number of paper clips remaining attached to the nail is recorded. Each nail is tested in turn. Which nail becomes the strongest permanent magnet? number of paper clips attached to the nail nail bar magnet present   bar magnet removed A 2                  0, B 2                  1, C 4                  3, D 5                  2 16",
+      "options": [
+        "A 2                  0",
+        "B 2                  1",
+        "C 4                  3",
+        "D 5                  2 16"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A horseshoe magnet is brought near to an unmagnetised iron bar. iron bar NS Which row in the table shows the magnetic poles induced in the iron bar and the direction of the forces between the bar and the magnet? magnetic poles induced in iron bar force between iron bar and magnet A NS attraction B NS repulsion C SN attraction D SN repulsion 17",
+      "text": "A horseshoe magnet is brought near to an unmagnetised iron bar. iron bar NS Which row in the table shows the magnetic poles induced in the iron bar and the direction of the forces between the bar and the magnet? magnetic poles induced in iron bar force between iron bar and magnet A NS attraction B NS repulsion C SN attraction D SN repulsion 17",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  an  electric  circuit  containing  three  meters,  X,  Y  and  Z,  all  connected correctly. X Z Y What are meters X, Y and Z? X             Y             Z A ammeter       ammeter       ammeter, B ammeter       voltmeter       ammeter, C voltmeter       ammeter       voltmeter, D voltmeter       voltmeter       voltmeter",
+      "text": "The  diagram  shows  an  electric  circuit  containing  three  meters,  X,  Y  and  Z,  all  connected correctly. X Z Y What are meters X, Y and Z? X             Y             Z A ammeter       ammeter       ammeter, B ammeter       voltmeter       ammeter, C voltmeter       ammeter       voltmeter, D voltmeter       voltmeter       voltmeter",
+      "options": [
+        "A ammeter       ammeter       ammeter",
+        "B ammeter       voltmeter       ammeter",
+        "C voltmeter       ammeter       voltmeter",
+        "D voltmeter       voltmeter       voltmeter"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which symbols are used for the units of current and of resistance? unit of current    unit of resistance A A               W, B A Ω, C C               W, D C Ω 18",
+      "text": "Which symbols are used for the units of current and of resistance? unit of current    unit of resistance A A               W, B A Ω, C C               W, D C Ω 18",
+      "options": [
+        "A A               W",
+        "B A Ω",
+        "C C               W",
+        "D C Ω 18"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show four arrangements of resistors. Which arrangement has the smallest total resistance? 4 Ω A C 2 Ω B 2 Ω 4 Ω4 Ω D 4 Ω 4 Ω",
+      "text": "The diagrams show four arrangements of resistors. Which arrangement has the smallest total resistance? 4 Ω A C 2 Ω B 2 Ω 4 Ω4 Ω D 4 Ω 4 Ω",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a lamp in a circuit. P Which change to the circuit would increase the current in the lamp? A adding another resistor in parallel with the one in the circuit, B adding another resistor in series with the one in the circuit, C decreasing the electromotive force (e.m.f.) of the battery in the circuit, D moving the lamp to point P in the circuit 19",
+      "text": "The diagram shows a lamp in a circuit. P Which change to the circuit would increase the current in the lamp? A adding another resistor in parallel with the one in the circuit, B adding another resistor in series with the one in the circuit, C decreasing the electromotive force (e.m.f.) of the battery in the circuit, D moving the lamp to point P in the circuit 19",
+      "options": [
+        "A adding another resistor in parallel with the one in the circuit",
+        "B adding another resistor in series with the one in the circuit",
+        "C decreasing the electromotive force (e.m.f.) of the battery in the circuit",
+        "D moving the lamp to point P in the circuit 19"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a potential divider circuit with two identical lamps L 1 and L 2 . L 1 L 2 X K Y The contact K is halfway between X and Y and the lamps are equally bright. What  will  happen  to  the  brightness  of  the  lamps  when  contact  K  is  moved  a  short  distance towards X? lamp L 1 lamp          L 2 A brighter          brighter, B brighter          dimmer, C dimmer          brighter, D dimmer          dimmer",
+      "text": "The diagram shows a potential divider circuit with two identical lamps L 1 and L 2 . L 1 L 2 X K Y The contact K is halfway between X and Y and the lamps are equally bright. What  will  happen  to  the  brightness  of  the  lamps  when  contact  K  is  moved  a  short  distance towards X? lamp L 1 lamp          L 2 A brighter          brighter, B brighter          dimmer, C dimmer          brighter, D dimmer          dimmer",
+      "options": [
+        "A brighter          brighter",
+        "B brighter          dimmer",
+        "C dimmer          brighter",
+        "D dimmer          dimmer"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A fuse and a relay each use an effect of an electric current. Which effect of an electric current is used by a fuse and which effect is used by a relay? effect used by a fuse effect used by a relay A heating effect heating effect, B heating effect magnetic effect, C magnetic effect heating effect, D magnetic effect magnetic effect 20",
+      "text": "A fuse and a relay each use an effect of an electric current. Which effect of an electric current is used by a fuse and which effect is used by a relay? effect used by a fuse effect used by a relay A heating effect heating effect, B heating effect magnetic effect, C magnetic effect heating effect, D magnetic effect magnetic effect 20",
+      "options": [
+        "A heating effect heating effect",
+        "B heating effect magnetic effect",
+        "C magnetic effect heating effect",
+        "D magnetic effect magnetic effect 20"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an a.c. generator. NS coil output voltage rotation of coil With the coil in the position shown, the output voltage is +10 V. When does the output voltage become –10 V? A when the coil has turned 90°, B when the coil has turned 180°, C when the coil has turned 270°, D when the coil has turned 360°",
+      "text": "The diagram shows an a.c. generator. NS coil output voltage rotation of coil With the coil in the position shown, the output voltage is +10 V. When does the output voltage become –10 V? A when the coil has turned 90°, B when the coil has turned 180°, C when the coil has turned 270°, D when the coil has turned 360°",
+      "options": [
+        "A when the coil has turned 90°",
+        "B when the coil has turned 180°",
+        "C when the coil has turned 270°",
+        "D when the coil has turned 360°"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a simple transformer. core output input From which material should the core be made? A aluminium, B copper, C iron, D steel 21",
+      "text": "The diagram shows a simple transformer. core output input From which material should the core be made? A aluminium, B copper, C iron, D steel 21",
+      "options": [
+        "A aluminium",
+        "B copper",
+        "C iron",
+        "D steel 21"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two parallel metal plates in a vacuum are connected to the terminals of a high-voltage power supply. A beam of cathode rays is passed into the space between the two plates, as shown. In which direction does the beam of cathode rays deflect? + – high-voltage power supply A B C D cathode rays metal plate metal plate",
+      "text": "Two parallel metal plates in a vacuum are connected to the terminals of a high-voltage power supply. A beam of cathode rays is passed into the space between the two plates, as shown. In which direction does the beam of cathode rays deflect? + – high-voltage power supply A B C D cathode rays metal plate metal plate",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Cathode rays are emitted in a vacuum tube. They consist of particles that are found in atoms. What is the name of the particles and how are the cathode rays produced? name of particles how the cathode rays are produced A electrons       electromagnetic       induction, B electrons         thermionic         emission, C protons        electromagnetic        induction, D protons          thermionic          emission",
+      "text": "Cathode rays are emitted in a vacuum tube. They consist of particles that are found in atoms. What is the name of the particles and how are the cathode rays produced? name of particles how the cathode rays are produced A electrons       electromagnetic       induction, B electrons         thermionic         emission, C protons        electromagnetic        induction, D protons          thermionic          emission",
+      "options": [
+        "A electrons       electromagnetic       induction",
+        "B electrons         thermionic         emission",
+        "C protons        electromagnetic        induction",
+        "D protons          thermionic          emission"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A nuclide of substance X has the symbol X 26 12 . How many electrons are there in a neutral atom of substance X? A 12 B 14 C 26 D 38 22",
+      "text": "A nuclide of substance X has the symbol X 26 12 . How many electrons are there in a neutral atom of substance X? A 12 B 14 C 26 D 38 22",
+      "options": [
+        "A 12 B 14 C 26 D 38 22"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows the activity of a radioactive source over a period of time. 2000 1500 1000 500 0 0                 1                 2                 3 time / hour activity / counts per second What is the half-life of the source? A 2 1 hour B   1   hour   C 1 2 1 hours D   3   hours",
+      "text": "The graph shows the activity of a radioactive source over a period of time. 2000 1500 1000 500 0 0                 1                 2                 3 time / hour activity / counts per second What is the half-life of the source? A 2 1 hour B   1   hour   C 1 2 1 hours D   3   hours",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A scientist needs to use a source of γ-rays as safely as possible. Which action will not reduce the amount of radiation that reaches the scientist? A keeping the distance between the source and the scientist as large as possible, B keeping the temperature of the source as low as possible, C keeping the time for which the scientist uses the source as small as possible, D placing a lead screen between the scientist and the source 23 24 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of",
+      "text": "A scientist needs to use a source of γ-rays as safely as possible. Which action will not reduce the amount of radiation that reaches the scientist? A keeping the distance between the source and the scientist as large as possible, B keeping the temperature of the source as low as possible, C keeping the time for which the scientist uses the source as small as possible, D placing a lead screen between the scientist and the source 23 24 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of",
+      "options": [
+        "A keeping the distance between the source and the scientist as large as possible",
+        "B keeping the temperature of the source as low as possible",
+        "C keeping the time for which the scientist uses the source as small as possible",
+        "D placing a lead screen between the scientist and the source 23 24 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2011/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 37,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2011",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2011-unit1-2011-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

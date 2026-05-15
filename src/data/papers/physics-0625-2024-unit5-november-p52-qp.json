@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2024-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2024",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Measure the length l, the width w and the height h of the stack of slides in centimetres to the nearest millimetre. Do not remove any slides from the stack. l = ......................................................... cm w = ......................................................... cm h = ......................................................... cm [2] (b) (i) Use the balance",
+      "text": "1 (a) Measure the length l, the width w and the height h of the stack of slides in centimetres to the nearest millimetre. Do not remove any slides from the stack. l = ......................................................... cm w = ......................................................... cm h = ......................................................... cm [2] (b) (i) Use the balance",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Measure the length l, the width w and the height h of the stack of slides in centimetres to the nearest millimetre. Do not remove any slides from the stack. l = ......................................................... cm w = ......................................................... cm h = ......................................................... cm [2] (b) (i) Use the balance",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l = 7.6  0.2 (cm), w = 2.5  0.2 (cm), h = 1.2  0.2 (cm) all values to nearest millimetre 1 unit correct 1 correctly calculated 1 answer rounded to the nearest integer 1 correct 1 10% difference calculation shown using candidate’s values 1 October/November 2024 Question Answer Marks PQ recorded 1 QR recorded reading to at least 0.1 V 1",
+          "image": "/papers/physics-0625-2024/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I calculation correct answer expressed to 2 / 3 significant figures 1 R LED increasing 1 LED decreases (or reverse) 1 and R LED increases / decreases 1 October/November 2024 Question Answer Marks plots correct to  ½ small square good best-fit curve judgement, thin, continuous line 1 candidate’s value of v for u = 30.0 cm read correctly from the graph to  ½ small square October/November 2024 Question Answer Marks 4 MP1 additional apparatus stopwatch and thermometer and ruler / measuring tape / callipers method MP2 time hot water (in beaker) cooling MP3 repeat using beakers of different diameter / size MP4 control variables one from: volume / mass of water initial temperature of the water / beaker time of cooling or the same temperature decrease MP5 results table columns for diameter/d and time/t or diameter/d and temperature/ with correct units MP6 conclusion plot a graph of diameter vs time / plot a graph of diameter vs temperature (decrease) / plot a graph of diameter vs rate of cooling / plot graphs of temperature against time (for each beaker) / compare the results to see if/how the diameter affects the rate of cooling / compare the temperature decreases – largest decrease gives the greatest rate / compare the times – least time gives the greatest rate / calculate the rate of temperature decrease for each beaker and compare MP7 additional point (one from): another control variable stated at least five sets of data taken repeat each measurement and take an average",
+          "image": "/papers/physics-0625-2024/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit5-2024-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

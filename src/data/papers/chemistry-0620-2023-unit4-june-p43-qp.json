@@ -1,0 +1,71 @@
+{
+  "paperId": "chemistry-0620-2023-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit4-june-p43-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/43",
+  "session": "May/June 2023",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 4 dot and cross single bonds M2 3 pairs of non-bonding e on each Cl and no non-bonding e on Si M1 covalent bonds M2 strong bonds and giant (covalent) structure ( of sulfuric acid particles ) decreases OR frequency of collisions between particles decreases all the ( sulfuric ) acid has reacted 0620/43 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 greater surface area (of zinc) M2 frequency of collisions between (zinc and acid) particles increases",
+          "image": "/papers/chemistry-0620-2023/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 mol H SO = 2.00 x 25.0/1000 = 0.05(00) M2 mol H = M1 = 0.05(00) M3 vol H = M2  24 = 1.2(0) Zn + 2HC l → ZnC l + H M1 ZnC l M2 equation correct and (squeaky) pop M1 ionic compound M2 molten and / or aqueous oxidation number (of copper) / (becomes) colourless 2+ + 2e → Cu M1 Cu 2+ and (any number of) e on left hand side M2 equation correct – 0620/43 May/June 2023 M1 silver M2 spoon M3 (aqueous or solution) of silver nitrate M1 prevent corrosion M2 improve appearance M1 carbon dioxide: (increased) global warming M2 carbon monoxide: toxic needs high pressure to store hydrogen ai r methane M1 (°C) M2 (atm) iron M1 (a substance which) increases the rate of a reaction M2 remains unchanged at the end of the reaction 0620/43 May/June 2023 temperature change: M1 low(er) rate (of reaction) pressure change: M2 (position of) equilibrium shifts to the left hand side/ towards reactants NO + O + H O → . HNO CuCO + 2HNO → Cu(NO ) + CO + H O M1 Cu(NO ) M2 correct equation M1 undissolved solid M2 effervescence stops on addition of more copper( II ) carbonate copper( II ) oxide or copper( II ) hydroxide M1 displayed formula of 1–chloropropane M2 displayed formula of 2 – chloropropane any 2 from: (same) general formula (same / similar) chemical properties or reactions (contain the same) functional group 0620/43 May/June 2023 M1 single bond between the two C atoms (and nothing on continuation bonds) M2 1 CH group and 1 H on first carbon and 1 CH group and 1 H on second carbon and whole structure correct M1 structural formula of propan-1,3-dioic acid M2 structural formula of ethan-1,2-diol polyeste r M1 carboxylic acids M2 alcohols",
+          "image": "/papers/chemistry-0620-2023/q4-4c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit4-2023-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

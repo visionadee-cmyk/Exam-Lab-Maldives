@@ -1,0 +1,71 @@
+{
+  "paperId": "wbi11-jan-2025-unit6-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2025-unit6-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI16/01",
+  "session": "January 2025",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes two from one pair of following points: • nitrate needed to produce {amino acids / proteins} (1) • for production of enzymes (1) OR • nitrate needed to make { DNA/nucleic acids} (1) • for cell division (1) OR • nitrate needed to make chlorophyll (for photosynthesis) (1) • for {GALP / sugar} ( for fruits) (1) Accept named enzyme eg RUBISCO Accept RNA (Total for question 2 = 12 marks) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2025/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• There is no correlation between the percentage of visible gill remaining and the number of touches (1) Candidates express this in several different ways Accept frequency (for number) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2025/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• {bar / scatter} graph with linear scale (1) • complete axis labels (1) • all data plotted correctly (1) MP1 Bar graph: y axis starts at zero, separate bars of same width Ignore lines in scatter graph Accept mean % gills visible and stimulus / (number of) touches 10 52 47 49 45 MP3 Do not accept if line extrapolated to origin Number Answer Additional Guidance Mark 0, 9, 0, 0, 9 Do not allow -9 Number Answer Additional Guidance Mark • correct answer (1) 120 / 5 x 24 / 5(5 -1) 0.1 Correct answer with no working gains two marks Number Answer Additional Guidance Mark • the calculated value of r s (0.100) is less than the critical value 1.000 (1) • therefore, accept the null hypothesis, so there is no correlation between the percentage response and the number of touches (1) Allow ECF from 3cii if calculated value is more than stated critical value Accept critical value of 1 / 1.0 / 1.00 or marked in table at 5% significance Number Answer Additional Guidance Mark • use more than 5 touches (1) • change time intervals (between touches) (1) • use {more sea slugs / different ages / different species of sea slug} (1) • change a variable (related to sea water) (1) Ignore increase sample size / repeat the experiment Accept temperature / pH / salinity / oxygen concentration / carbon dioxide concentration Number Answer Additional Guidance Mark • allows more oxygen uptake (1) • allows more feeding time (1) • (reduced response) conserves energy (1) (Total for question 3 = 12 marks) Number Answer Additional Guidance Mark • find a suitable {mass / age/species} of larvae (1) • find a suitable temperature for respiration (1) • find suitable method to measure the oxygen consumption (1) • suitable timescale to collect data (1) A method to provide quantitative results Ignore amount/number of larvae Ignore comments about meat or liver Ignore respiration unqualified Number Answer Additional Guidance Mark • clear statement of the dependent variable e.g. oxygen consumption per unit time (1) •",
+          "image": "/papers/wbi11-jan-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2025-unit6-2025-01-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

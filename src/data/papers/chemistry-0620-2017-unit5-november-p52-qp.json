@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2017-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final temperature boxes completed AND results ascending in magnitude with more solid S added results comparable to the supervisor’s",
+          "image": "/papers/chemistry-0620-2017/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final temperature boxes completed AND results ascending in magnitude with more solid T added results comparable to the supervisor’s",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted two straight lines of best fit drawn with a ruler both graphs appropriately labelled value from graph shown clearly value from graph shown clearly",
+          "image": "/papers/chemistry-0620-2017/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change to the experiments use burette/pipette use insulation/lid use a new cup / dry the cup explanation (to match change) more accurate (than measuring cylinder) reduce heat losses remove water left from the previous experiment 0620/52 October/Novembe r",
+          "image": "/papers/chemistry-0620-2017/q1-1f.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lower temperatures measured / smaller temperature changes changed is halved / more water (to heat) / fizz limewater (turns) milky carbonate precipitate precipitate 0620/52 October/Novembe r / clears / soluble bubbles / fizz / effervescence / Group II metal / barium / calcium / magnesium chloride max [6]: M1 weigh specified number of nail(s) / specified number of nails M2 immerse in same volume M3 samples of tap water and distilled water (in two test-tubes) M4 for suitable time M5 dry (in oven) M6 reweigh nails M7 compare / conclusion",
+          "image": "/papers/chemistry-0620-2017/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit5-2017-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

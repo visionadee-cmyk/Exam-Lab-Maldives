@@ -1,0 +1,79 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "February/March 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for Experiment 1 Initial, final volumes and differences completed correctly All readings to 1 dp Comparable to supervisor’s",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for Experiment 2 Initial, final volumes and differences completed correctly All readings to 1 dp Comparable to supervisor’s Smaller volume / less (of potassium manganate used) / solution A × (times) as concentrated × (times) value from table for Experiment 2 Double volume (of C) used Volume of potassium manganat e solution added > 50 cm Use more than one burette / refill burette / quick Disadvantage not as accurate owtte 0620/52 March 2019",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(Solution C) contains iron( II ) (ions) / Fe 2+ Reference to oxidation / (iron( II )) → iron( III ) / Fe 3+ Tests on solution D / fizz / effervescence Lighted splint / flame ‘Pops’ / no change / no precipitate Tests on solid E / drops of liquid on sides of test-tube Any pH > 7 to 14 / fizz / effervescence Limewater Turns milky 0620/52 March 2019",
+          "image": "/papers/chemistry-0620-2019/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "White precipitate (insoluble in excess) acid Carbonate 0620/52 March 2019 3 6 from: • Weighed amount / x gram of magnesium • Add known volume of dilute hydrochloric acid • gas syringe / measuring cylinder over water • Use of stop-clock / timer • Measure volume of hydrogen at fixed time (intervals) or time for a fixed volume to be made • Repeat using different temperatures • Compare results / conclusion",
+          "image": "/papers/chemistry-0620-2019/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

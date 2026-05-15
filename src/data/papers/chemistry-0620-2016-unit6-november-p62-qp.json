@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sodium chloride crystals: C water: D silver chloride: A 1 1 1 Mark",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results volume boxes completed correctly (30), 44, 57, 62, 78, 85, 88, 89, 90, 90",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted smooth line graph 2 1 point at 60 s / 62 cm / fourth point / measurement 4 misread measuring cylinder / read too early value from graph (68–70) shown clearly 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "the Reaction has finished all the acid has reacted / HC l is the limiting factor 1 1 value from graph or table (57–44 = cm ) / = 0.65 cm / s 1 1 Page 3 Mark Scheme Syllabus Paper 0620 62 Mark to same level 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2d.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "air is displaced (when the acid is added) explanation use a burette / graduated pipette / gas syringe improves accuracy OR use cotton thread to hold a test-tube (containing the acid) in the flask no air is collected OR repeat the experiment take average / more frequent readings 1 1 Page 4 Mark Scheme Syllabus Paper 0620 62 Mark / dissolves blue / green colour 1 1 limewater turns milky 1 1 1 III ) nitrate 1 1 Page 5 Mark Scheme Syllabus Paper 0620 62 Mark clean / sandpaper the metal ring dissolve copper( II ) sulfate in water / copper( II ) sulfate solution set up circuit / switch on electricity / complete circuit copper rod anode(+ ve electrode) metal ring cathode(– ve electrode) rotate the metal ring / agitate remove the metal ring, wash and dry",
+          "image": "/papers/chemistry-0620-2016/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

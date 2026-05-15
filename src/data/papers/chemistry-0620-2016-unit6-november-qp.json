@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lighted splint no effect / brighter light for oxygen ‘pops’ for hydrogen OR glowing splint relights for oxygen no effect for hydrogen Page 3 Mark Scheme Syllabus Paper 0620 61 Mark",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 1 all temperature boxes completed correctly 22, 24, 26, 28, 30, 31, 30, 29, 28",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 2 initial and other temperature boxes completed correctly 20, 21, 22, 23, 24, 25, 24, 23, 22",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted best-fit smooth line graphs labels",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph (27 °C) shown clearly / litmus / suitable named indicator / solution N solution N is a stronger acid / has a higher pH / temperature changes / results would be smaller OR larger / double volume needed to reach same temperature changes",
+          "image": "/papers/chemistry-0620-2016/q2-2d.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "polystyrene is an insulator / copper is a (good) conductor",
+          "image": "/papers/chemistry-0620-2016/q2-2h.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source of error: heat losses / using a measuring cylinder improvement: lag or insulate / use burette Page 4 Mark Scheme Syllabus Paper 0620 61 Mark / hydrated / colour precipitate dissolves no change",
+          "image": "/papers/chemistry-0620-2016/q2-2i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not a halide Page 5 Mark Scheme Syllabus Paper 0620 61 Mark method adding Agri Lime to acid add weighed amount / known mass of Agri Lime Q to a known volume of acid with a named indicator added to the acid until the indicator changes colour note the mass of Agri Lime Q added repeat with Agri Lime R conclusion, e.g. ‘the experiment using the smaller amount of Agri Lime is better’ OR method adding acid to Agri Lime use weighed amount / known mass of Agri Lime Q add acid to it gradually / from a burette with a named indicator added to the acid until the indicator changes colour note volume of acid added repeat with Agri Lime R conclusion, e.g. ‘the experiment using the larger volume of acid is better’",
+          "image": "/papers/chemistry-0620-2016/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

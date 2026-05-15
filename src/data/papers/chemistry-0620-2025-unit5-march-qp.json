@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2025-unit5-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit5-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "February/March 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 chromium(III) / Cr 3+ M2 chloride / Cl – chromium(III) chloride = 2 CrCl 3 = 2 February/March 2025 Question Answer Marks + M2 sulfate / SO4 2– Li2SO4 = 2 Question Answer Marks 3 any 6 from MP1 find mass of spoon MP2 silver nitrate dissolved in water MP3 diagram showing complete circuit with electrodes in silver nitrate (solution) / electrolyte and a power supply MP4 spoon / object to be plated as negative electrode / cathode in electrolysis MP5 silver used as one of the electrodes in electrolysis After electrolysis MP6 wash and dry spoon MP7 find mass of spoon again (after electrolysis) and mass of silver = new mass – original mass",
+          "image": "/papers/chemistry-0620-2025/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit5-2025-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

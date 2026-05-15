@@ -1,0 +1,219 @@
+{
+  "paperId": "wph11-jan-2025-unit4-qp",
+  "pairedMarkSchemeId": "wph11-jan-2025-unit4-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH14/01",
+  "session": "January 2025",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉푉= 푄푄 4π휀휀 푟푟 (Allow use of 푉푉= 푘푘푄푄 푟푟 ) Q = 4.38×10 −7 (C) Example of calculation 푄푄= 1.75 × 10 V×22.5×10 −2 m×4π× 8.85×10 −12 F m −1 = 4.38×10 −7 C (1) (1)",
+          "image": "/papers/wph11-jan-2025/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐸퐸= 푄푄 4π휀휀 푟푟 (Allow use of 퐸퐸= 푘푘푄푄 푟푟 ) E = 37000 V m −1 allow ecf from (a) Example of calculation 퐸퐸= 4.38×10 −7 C 4π× 8.85×10 −12 F m −1 (32.5×10 −2 m) =37300 V m −1 (1) (1) Total for question 12 4 Number Answer Mark Use of F = BIlsinθ Component of magnetic flux density calculated using cos(20°) or sin(70°) F = 2.8 N Example of calculation 퐵퐵=48 ×10 −6 sin ( 70° ) =45.1 ×10 −6 T 퐹퐹=45.1 ×10 −6 T ×700 A ×90 m = 2.84 N (1) (1) (1) Total for question 13 3 Number Answer Mark",
+          "image": "/papers/wph11-jan-2025/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q12.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The (metal in the) filament is heated (by the current) The electrons are released by thermionic emission (1) (1)",
+          "image": "/papers/wph11-jan-2025/q14-14a.png"
+        },
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푝= ℎ 휆휆 Use of 퐸퐸 k = 푝푝 2푚푚 Or p=mv and 퐸퐸 k = 푚푚푣푣 Use of 푉푉= 푤푤 푄푄 V = 2100 V Example of calculation 푝푝= 6.63×10 −34 J s 2.65×10 −11 m = 2.50×10 −23 kg m s −1 퐸퐸 k = (2.50×10 −23 kg m s −1 ) 2 × 9.11×10 −31 kg = 3.44×10 −16 J 푉푉= 3.44 × 10 −16 J 1.6 × 10 −19 C = 2147 V (1) (1) (1) (1) Total for question 14 6 Number Answer Mark Use of T = 2π 휔휔 ω = 147 (rad s −1 ) Example of calculation T = 60 s = 0.0429 s ω = 2π 0.429 s = 146.6 (rad s −1 ) (1) (1) Use of 푎푎=푟푟푟푟 a = 4.9 ×10 m s −2 ecf from (a)(i) (show value that gives 5100 m s −2 ) Example of calculation 푎푎= 0.225 m × (147 rad s −1 ) =4862 m s −2 (1) (1) One weight force in each diagram, vertically downwards and labelled weight, W or mg One reaction force vertically upwards on first diagram and one reaction force vertically downwards on second diagram and labelled reaction, R , or N. (1) (1) The weight is constant, and reaction force is minimum at top and maximum at bottom. At the top 퐹퐹 c = 푅푅+푊푊 At the bottom 퐹퐹 c = 푅푅−푊푊 (1) (1) (1) (water continues in a straight line), at a tangent to the surface of the drum (1) Total for question 15 10 Number Answer Mark",
+          "image": "/papers/wph11-jan-2025/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q14.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "At least three equi-spaced vertical parallel lines touching the wires Arrows towards bottom plate [Ignore curved lines at edges of plates] Example of diagram (1) (1)",
+          "image": "/papers/wph11-jan-2025/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휌휌= 푚푚 푉푉 Use of 푤푤=푚푚푚푚 Use of 퐸퐸= 푉푉 푑푑 Use of 퐸퐸= 퐹퐹 푄푄 Q = 5e, so the charge on the oil drop was a whole number multiple of the electronic charge. Example of calculation 푚푚=휌휌 푉푉=920 kg m −3 × 5.00×10 −19 m = 4.60×10 −16 kg 푤푤=푚푚푚푚= 4.60×10 −16 kg× 9.81 N kg −1 = 4.51×10 −15 N 퐸퐸= 푉푉 푑푑 = 85 V 1.5 ×10 −2 m = 5.67×10 V m −1 푄푄= 퐹퐹 퐸퐸 = 4.51×10 −15 N 5.67×10 N C −1 = 7.96×10 −19 C 푁푁= .96×10 −19 C 1.6 ×10 −19 퐶퐶 = 4.97 (1) (1) (1) (1) (1) Total for question 16 7 Number Answer Mark",
+          "image": "/papers/wph11-jan-2025/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Spiral path (of increasing radius) in the Dees (allow straight line in the gap) Anticlockwise spiral (MP2 dependent on MP1) (1) (1)",
+          "image": "/papers/wph11-jan-2025/q17-17a.png"
+        },
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of f = Bq 2πm Use of T = 1/f T = 6.0 ×10 −8 s Example calculation: 푓푓= 0. 55× 1.6 ×10 −19 2π× 1.67×10 −27 = 8.39×10 Hz 푇푇= 8. 39×10 = 1.19×10 −7 s Time in one Dee 1.19×10 −10 s = 5.96×10 −8 s (1) (1) (1) *17(c) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content IC1 (p.d. creates an) electric field between the dees IC2 Electric field/force accelerates protons IC3 Magnetic (field gives a) force at right angles to protons’ path IC4 Protons follows a circular path (whilst in dees) Or protons experience a centripetal force. IC5 p.d./polarity (of dees) switches every half cycle Or p.d./polarity switches while protons are in the dee IC6 (So) opposite side of the dee is always oppositely charged (to t he protons) so protons accelerate repeatedly IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured Total for question 17 Number Answer Mark",
+          "image": "/papers/wph11-jan-2025/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The magnets/poles are moved relative to the coil/reader This causes a change in flux linkage with the coil Or This causes the coil to cut lines of flux An e.m.f. is induced across the coil The (north/south) pole affects the direction of the e.m.f. Or the sensor will register positive and negative p.d. as the polarity of the magnetic field changes. (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2025/q18-18a.png"
+        },
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푑푑푑푑 푑푑푑푑 =퐿퐿푣푣 Use of flux linked with one turn of coil 휙휙=BA Use of ℰ=− 훿훿(푁푁푁푁) 훿훿푑푑 휀휀 = 1.65 × 10 −6 (V) 1.65×10 −6 ( V ) > 1.5 × 10 −6 ( V ) so can detect the direction of the emf Or Comparison of their calculated value with 1.5 × 10 −6 (V) and conclusion consistent with comparison Example of calculation 휀휀=− 푑푑 ( 푁푁휙휙 ) 푑푑 푑푑 = 푑푑 ( 푁푁퐵퐵푁푁 ) 푑푑푑푑 휀휀 = 25×24 × 10 −6 푇푇 × 0.090 m × 0.98 × 10 −3 m 0.032 s = 1.65×10 −6 V 1.65×10 −6 ( V ) > 1.5 × 10 −6 ( V ) so can detect the direction of the emf (1) (1) (1) (1) (1) Total for question 18 9 Number Answer Mark",
+          "image": "/papers/wph11-jan-2025/q18-18b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The rubber strip deforms (when the cars collide) Increasing the time taken for the change in momentum of the car Or increasing the time for the collision So since F∆t is equal to change in momentum, the force is reduced (1) (1) (1)",
+          "image": "/papers/wph11-jan-2025/q19-19a.png"
+        },
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푝=푚푚푣푣 Resolves momentum/velocity into components Applies conservation of momentum Use of E k = ½ mv Or 퐸퐸 k = 푝푝 2푚푚 Initial E k = 940 J and final E k = 860 J Initial E k is not equal to final E k , so collision is inelastic Or Comparison of their calculated values of initial E k and final E k with correct conclusion Example of calculation Initial momentum Car A= 2.19 m s −1 × 390 kg = 854 kg m s -1 Final momentum Car A along original direction = 390 kg× 1.21 m s −1 ×cos � ° � =315.8 kg m s -1 Momentum conservation along original direction (854 −315.8) kgms −1 =360kg 푣푣 B cos 33° 푣푣 B = ( 854.0− 315.8 ) ( kg m s −1 ) 301.9 kg = 1.78 m s −1 Initial 퐸퐸 K = 390 kg× (2.19 m s −1 ) =935 J Final 퐸퐸 K = 360 kg× ( 1.78 m s −1 ) + 390 kg× ( 1.21m s −1 ) Final 퐸퐸 K =572 J +285 J =857 J (1) (1) (1) (1) (1) (1) Total for question 19 9 Number Answer Mark Initially the current in the circuit is a maximum The p.d. across the capacitor increases (as the capacitor charges) The current in the circuit decreases because the p.d. across resistor decreases When the capacitor is fully charged, the current is 0 because the p.d. across the resistor is 0 Or Capacitor is fully charged when p.d. across the capacitor equals p.d. across the supply, and the current is 0 (1) (1) (1) (1) Axes labelled with I and t, exponential decreasing curve starting at y axis Use of I = V/R I = 0.064 mA and marked on the current axis (at time = 0) Example of calculation I = 8V / 125 × 10 Ω = 0.064 mA (1) (1) (1) Use of time constant = RC 58.8(s) Example of calculation Max value = 470 × 10 −6 F × 125 × 10 Ω = 58.75(s) (1) (1) 3 minutes is about 3RC Or Use of V= V e- t/RC ecf (20 (b) (i)) Percentage reduction = 1/e in one time constant 퐎퐎퐎퐎 % reduction = 푉푉 푉푉 ×100 The potential difference will be reduced to 5% Example of calculation 1/e = 0.0498 0.0498×100= 4.98% (1) (1) (1)",
+          "image": "/papers/wph11-jan-2025/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20c",
+          "text": "Part 20c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "푉푉 R +푉푉 C =8 V V = 4.0 V Use of ln 푉푉=ln 푉푉 − 푑푑 푅푅푅푅 t = 41 s Example of calculation = 푒푒 − 푡푡 59 s 푑푑=−5 9 s ln( ) t = 40.9 s V = 4.00 V (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2025/q20-20c.png"
+        },
+        {
+          "id": "20d",
+          "text": "Part 20d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "charge stored in each capacitor is less than the original value (because) the potential difference is shared between the capacitors (1) (1) Total for question 20 18 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2025/q20-20d.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2025/q20.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit4-2025-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

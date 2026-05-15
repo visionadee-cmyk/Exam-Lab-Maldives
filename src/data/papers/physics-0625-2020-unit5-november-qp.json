@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2020-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Use the thermometer to measure room temperature θ R . θ R = ......................................................... [1] (b) (i) Pour 200 cm 3 of hot water into the beaker. Place the thermometer in the beaker by moving the clamp stand. Record in Table 2.1 the temperature θ 1 of the hot water at time t = 0. Immediately",
+      "text": "1 (a) Use the thermometer to measure room temperature θ R . θ R = ......................................................... [1] (b) (i) Pour 200 cm 3 of hot water into the beaker. Place the thermometer in the beaker by moving the clamp stand. Record in Table 2.1 the temperature θ 1 of the hot water at time t = 0. Immediately",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement to match results Justification to match results and to include the idea of within (or beyond) the limits of experimental accuracy.",
+          "image": "/papers/physics-0625-2020/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3rd box and maximum of one other box ticked 5th box and maximum of one other box ticked 0625/51 October/November 2020",
+          "image": "/papers/physics-0625-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Realistic value for room temperature Table 2.1 correctly completed Δ θ correct R correct with unit °C / s",
+          "image": "/papers/physics-0625-2020/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table 2.2 completed Δ θ present and R present R < R D and D present and unit °C Conclusion to match results Justification to match conclusion with correct evidence given from results Prevent parallax error owtte, to give a more accurate result To obtain even temperature throughout owtte 0625/51 October/November 2020",
+          "image": "/papers/physics-0625-2020/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "h = 1.4 – 1.6 cm OR 14 – mm v value 58 – cm v values decreasing m values correct A xes correctly labelled and right way round Suitable scales A ll plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2020/q3-3a.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Method clearly shown on graph u correct to ½ small square",
+          "image": "/papers/physics-0625-2020/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f = 13 – cm 0625/51 October/November 2020 MP1 A t least 3 different metals (or alloys) suggested MP2 Correct circuit diagram to include test wire, power source, ammeter and voltmete r MP3 Correct symbols used for ammeter and voltmeter. MP4 Determine resistance of a wire by measuring potential difference and current MP5 Repeat with at least two more wires of different material. MP6 Key variables: Any one from: Length of wire Diameter/thickness of wire MP7 Table with columns for material, potential difference, current and resistance with correct units Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only m ark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2020/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit5-2020-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,119 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 255",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 11 − More accurate/reliable/efficient over long distances − Less chance of interference / cross talk − ...that will skew / distort the data // less likely to get errors − Data will arrive in order − Serial is cheaper to purchase/install/maintain − Transmission in both directions ... − ...not at the same time // asynchronous − Calculates a value from the bits/data (to be transferred) // by example/description − Value is appended to the bits/data − Value is transferred with the bits/data − Receiver recalculates the checksum − If both values are different error is detected // if both values are the same the transmission is successful Question Answer Marks − A compression algorithm is used − Data will be lost/deleted permanently // original file cannot be recreated − Reduce the range of colours used / colour depth / bits per pixel − Reduce the number of pixels / image resolution removes data that will not be noticed by the user // removes unnecessary data March 2021 Question Answer Marks Term Details IP address 192.168.0.255 MAC address URL 00:15:E9:2B:99:3C − Data if intercepted cannot be understood // Data is encrypted // Data is scrambled // uses keys to encode/decode data − Uses (digital) certificates − ....requested from web server by browser/client // browser/client asks web server to identify itself − Server send SSL/digital signature to browser/client − Client and server agree on encryption method to use − ... that contains the server's public key − Browser checks authenticity of certificate... − ... then session key is generated − ... the transaction will begin // sends signal to server to start transmission March 2021 Question Answer Marks 3 One mark for each device/description Name of device Description Inkjet Printer Uses either thermal bubble or piezoelectric technology Actuator − Operated by signals to cause a physical movement Controls the movement of a machine // by example DLP//Projector Uses thousands of tiny mirrors that can move very quickly to cre",
+          "image": "/papers/computer_science-0478-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Truth table Logic gate A B Output 0 0 1 0 1 1 1 0 1 1 1 0 NAND [1] A B Output 0 0 0 0 1 1 1 0 1 1 1 0 XOR / Exclusive OR [1] A B Output 0 0 1 0 1 0 1 0 0 1 1 0 NOR [1] March 2021 Question Answer Marks − NOT A − NOT S − H AND NOT A − NOT A AND NOT S − Final OR Question Answer Marks − Monitors incoming and outgoing traffic − Allows the setting of criteria/blacklist/whitelist/by example − Blocks access to signals that do not meet requirements/criteria/blacklist/whitelist ... − ... sends signal to warn the user − Restrict access to specific applications − Blocks entry/exit by specific ports − Phishing − Legitimate looking email sent to user − Clicking on link/attachment takes user to fake website − Pharming − Software is installed on user’s computer − Redirects (correct URL) to different/fraudulent website − Spyware (accept keylogger but do not award for MP3) − Software is installed on user’s computer − Records key strokes // keylogger − Transmits data to third part for analysis March 2021 Question Answer Marks − Makes use of words // close to human language − Machine independent // portable − Problem / logic focussed − Needs to be translated/interpreter/compiled (to low-level for processing by computer) // needs converting to machine code Max 2 for only giving compiler/interpreter features − Both translate high level / source code to machine code − Both generate error diagnostics/messages // identify errors − Interpreter translates one line at a time // checks one line and then runs it − Compiler translates whole code in one go // checks all code and then runs it − Interpreter stops when meets an error − ...and then allows you to continue running from where you stopped // correct errors in real-time − Compiler provides list of all errors − Interpreter does not produce an executable file − Compiler produces an executable file − Free software is distributed with the source code − ...whereas shareware is not distributed with the source code − Free software allows modifica",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Claiming another person's work as your own",
+          "image": "/papers/computer_science-0478-2021/q7-7d.png"
+        },
+        {
+          "id": "7e",
+          "text": "Part 7e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− To identify legal ownership // to claim ownership // protect intellectual property March 2021 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q7-7e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Instructions and data stored in the same/main memory − Instructions fetched and executed in order / one after another / in sequence − Holds the address ... − ... of next / current instruction − Carries / transfers control signals/instructions // carries/transfers commands ... − ... from CPU/CU to components // from devices to CPU/CU − To synchronise the FE cycle − To identify that the processor's attention is required // to stop the current process/task − To allow multitasking − To allow for efficient processing // prioritising actions − To allow for efficient use of hardware − To allow time-sensitive requests to be dealt with − To avoid the need to poll devices",
+          "image": "/papers/computer_science-0478-2021/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

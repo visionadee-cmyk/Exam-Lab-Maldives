@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2017-unit5-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit5-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "October/November 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly with decreasing trend shown results comparable to the supervisor’s",
+          "image": "/papers/chemistry-0620-2017/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly with increasing trend shown results comparable to the supervisor’s",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted two smooth line graphs both graphs appropriately labelled value from graph shown clearly value from graph shown clearly",
+          "image": "/papers/chemistry-0620-2017/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "room temperature / initial temperature from table AND reaction has finished / all the solid has dissolved 0620/51 October/Novembe r",
+          "image": "/papers/chemistry-0620-2017/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source of error improvement heat losses use a lid / lag the apparatus use of a measuring cylinder use a pipette/burette wet cup in the second experiment use new/another cup OR dry the cup the solid absorbs water from the air store in a sealed container / airtight container / desiccator only done once repeat and average different masses of solids used / masses of solids not measured use same mass of solid / weigh the solids / less detail / fewer readings / graph not as good / not enough readings taken whilst the solid is reacting 0620/51 October/Novembe r precipitate / precipitate dissolves (red) litmus paper / Universal Indicator paper (red litmus paper) turns blue / (Universal Indicator paper) turns purple / deep blue (solution) precipitate precipitate nitrate / NH 0620/51 October/Novembe r heating to dryness method max [6]: M1 weigh (any) sample of washing soda M2 heat (to remove water of crystallisation) M3 in named container M4 cool M5 reweigh M6 repeat heating M7 to constant mass M8 appropriate calculation suggested for the percentage of water mass of water method max [6]: M1 weigh (any) sample of washing soda M2 heat to remove water of crystallisation M3 in named container M4 using apparatus capable of collecting water (vapour) M5 cool / condense (water vapour) M6 continue until no more collects M7 weigh water M8 appropriate calculation suggested for the percentage of water",
+          "image": "/papers/chemistry-0620-2017/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit5-2017-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

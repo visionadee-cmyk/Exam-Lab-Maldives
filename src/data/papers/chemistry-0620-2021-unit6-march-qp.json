@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2021-unit6-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit6-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "February/March 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "an arrow pointing to the bottom of the test tube.",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "apparatus that looks like a gas syringe in approximately horizontal orientation connected to delivery tube graduations shown OR labelled as (gas) syringe",
+          "image": "/papers/chemistry-0620-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: • yellow / green gas • bubbles / effervescence • shiny liquid / metal / solid / deposit / substance max 2 Precaution : use a fume cupboard / well ventilated space Reason : chlorine is toxic / poisonous M2 must link to M1 to score",
+          "image": "/papers/chemistry-0620-2021/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(zinc) reacts (with chlorine / silver chloride) bromine is displaced by chlorine OR chlorine is more reactive than bromine OR chlorine oxidises bromide 0620/62 March 2021",
+          "image": "/papers/chemistry-0620-2021/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "final and initial burette reading for Experiment 1 correct (17.9 and 8.0) final and initial burette reading for Experiment 2 correct (27.3 and 7.5) both titres correct (9.9 and 19.8) all volumes recorded to 1 dp or bette r",
+          "image": "/papers/chemistry-0620-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) yellow (to) orange to remove any residue from Experiment 1 larger volume of solution B needed / it would increase (as there is) more potassium hydroxide / alkali A as lower volume (required). × / twice",
+          "image": "/papers/chemistry-0620-2021/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "can spot anomalous results OR can find a mean/average / numerical answer which is twice titre in Experiment 2 cm",
+          "image": "/papers/chemistry-0620-2021/q2-2e.png"
+        },
+        {
+          "id": "2g",
+          "text": "2 (g) Plan an investigation to find which of two lumps of concrete contains the larger percentage of calcium carbonate. Your plan should include how you will use your results to determine which one of the two lumps has the larger percentage of calcium carbonate. You have access to all common laboratory materials and a supply of dilute hydrochloric acid. ....................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use a (volumetric) pipette to measure the volume of potassium hydroxide 0620/62 March 2021 / NH lithium (ions) / Li + nitrate / NO – dissolves / disappears / forms colourless solution remains / does not dissolve / no further change / white precipitate / nothing happens 0620/62 March 2021 any 6 from: 1 equal / known / stated mass of concrete 2 crush concrete / lumps 3 add excess hydrochloric acid THEN (mass left unreacted) 4 filter 5 wash and dry residue 6 find mass of residue 7 lower mass of residue has most calcium carbonate OR (volume of gas made by end / in a set time) 4 collect gas produced 5 suitable apparatus to collect gas and measure volume named/drawn 6 and measure volume / amount of gas formed 7 larger volume of gas means more calcium carbonate OR (mass lost) 4 place container on balance / weigh before 5 cotton wool in opening of container 6 measure mass loss / weigh after 7 bigger mass loss is more calcium carbonate OR (mass calcium chloride made) 4 filter 5 evaporate (filtrate) to dryness 6 measure mass solid calcium chloride 7 bigger mass is more calcium carbonate max 6",
+          "image": "/papers/chemistry-0620-2021/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit6-2021-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2018-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperature boxes completed with all temper atures completed to same number of decimal places temperature increases and then decreases",
+          "image": "/papers/chemistry-0620-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly best-fit intersecting straight-line graphs",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperature boxes completed with all temper atures completed to same number of decimal places temperature increases and then decreases",
+          "image": "/papers/chemistry-0620-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ( ± half a small square) best-fit intersecting straight-line graphs working shown on graph value from graph where lines cross half as much less / half as much / many moles of sodium hydroxide present to remove traces of acid A / clean or to remove impurities / contamination to remove traces of water / avoid dilution 0620/53 May/June 2018 using a measuring cylinder or heat losses improvement: use a pipette / burette or lag / insulation / lid anything in range 11–14",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "white precipitate clears / dissolves white precipitate / litmus paper turns blue clears / dissolves green precipitate / Na + hydroxide / OH – 0620/53 May/June 2018 precipitate / suspension",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "yellow / blue flame / fuel / flammable 3 any from: • cut leaves into small pieces • grind / crush with sand / ethanol • using pestle/mortar • decant / pour-off / filter liquid • chromatography • apply extract to paper (in correct location) • description of separating colours max 6",
+          "image": "/papers/chemistry-0620-2018/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit5-2018-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

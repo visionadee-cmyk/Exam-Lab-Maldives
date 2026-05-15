@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2019-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Place the metre rule with the pivot below the 50.0 cm mark. The pivot must stay in this position for the duration of the experiment. Place block U on the metre rule with its centre at the 5.0 cm mark. Place block M on the metre rule on the other side of the pivot as shown in Fig. 1.1. Adjust the position of block M until the metre",
+      "text": "1 (a) Place the metre rule with the pivot below the 50.0 cm mark. The pivot must stay in this position for the duration of the experiment. Place block U on the metre rule with its centre at the 5.0 cm mark. Place block M on the metre rule on the other side of the pivot as shown in Fig. 1.1. Adjust the position of block M until the metre",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(difficult to see centre of block) and valid method, e.g. • (measure width of block and) add ½ width to 5.0 cm to find position for edge of block • mean value of marks at both edges of mass • mark centre line of mass and align with mark on rule",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "move block back and forth to find the point of balance / owtte 0625/53 May/June 2019",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value for θ R",
+          "image": "/papers/physics-0625-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ C increasing θ H decreasing θ H decreasing more slowly than θ C increasing",
+          "image": "/papers/physics-0625-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "s, °C, °C, °C – all correct 30, 60, 90, 120, 150, 180 θ H at 180 s and halfway between θ H and θ C at 180 s justification with reference to hot and cold water trends θ R / room temperature two from: • thinner walls on tube • metal tube • bung/lid on tube • insulate sides of beaker/lid on beaker • higher initial hot water temperature • lower initial cold water temperature • increase volume of hot water • decrease volume of cold water • stirring 0625/53 May/June 2019 V X ≈ V X Y and recorded to at least 1 dp and < 4.0 V",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I X ≈ I X Y and recorded to at least 2 dp and < 1.00 A A, V, Ω statement matching results and ‘currents the same within limits of experimental accuracy’ / owtte correct calculations of R consistent 2 or consistent 3 sig figs R Y and R Z both within 10% of 10 ( Ω )",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 resistors in parallel arrangement and circuit symbols correct voltmeter and ammeter in correct arrangement and circuit symbols correct",
+          "image": "/papers/physics-0625-2019/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I P and V P present R P < R X 0625/53 May/June 2019 MP1 Apparatus metre rule / measuring tape MP2 Method drop ball from measured height measure height of bounce repeat for different height of release MP3 Precaution any one from: • repeat (for each height of release) and average • measure to same part of ball each time • measure height of bounce at eye level • release without throwing/impeding • use of video (for height of bounce) MP4 Control variable any one from: • same (diameter/mass/material) ball • type of floor covering MP5 Table columns for release height and bounce height and units MP6 Analysis any one from: • suitable analysis of readings • draw a suitable graph of drop height against bounce height MP7 Additional point any one from: • additional control variable • at least 5 sets of data taken • repeat experiment for different diameter of ball/floor covering • automatic release to eliminate differences",
+          "image": "/papers/physics-0625-2019/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-may-2021-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-may-2021-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "May 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "7 (b) Crossing over between pairs of chromosomes increases genetic variation. (i) Name the stage of meiosis in which crossing over begins. (1) ..........................................................................................................................................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• positive correlation between the number of recorded non endemic species and the number of tourists increased ACCEPT number of recorded non endemic species increased as the number of tourists increased (1) Number Answer Additional guidance Mark A calculation in which: • N(N-1) correctly calculated (1) • ∑n(n-1) correctly calculated (1) • correct substitution to obtain D to 1 d.p. (1) Example of calculation (147 x 146) = 21462 4.6 (4.58 = 2 marks) Species Number of individuals (n) (n-1) n(n-1) A 21 20 420 B 2 1 2 C 4 3 12 D 13 12 156 E 54 53 2862 F 15 14 210 G 6 5 30 H 32 31 992 Total (N)=147 ∑n(n-1)=4684 Correct answer with no working scores full marks ECF applied (3) Number Answer Additional guidance Mark • reduction in biodiversity (1) • as forest is habitat for many species of plants (1) • (because) populations will decrease because loss of forest will result in {reduced habitat for animals / reduced food} / increased competition between (animal) species} (1) • causing reduction in species richness (1) • (because) loss of forest will result in reduction of genetic diversity (1) • (due to) reproduction in {smaller / isolated} populations (1) Accept possible increase in species that have blackberry as part of food chain Accept reduction in forest habitat (for many species unqualified) / blackberry {outcompetes (the forest) plants / introduces disease} Accept animals not adapted to feed on blackberry / blackberry is poisonous to the animals Accept descriptions of what animals would compete for e.g. nesting sites Accept reduction in gene pool (5) Number Answer Additional guidance Mark similarities: • both contain membrane bound organelles (1) • both contain a {cell membrane / cell wall} (1) max 2 differences: • plant cell wall is composed of cellulose whereas a fungal cell wall is composed of chitin (1) • fungal cells contain glycogen granules whereas plant cells contain {starch grains / amyloplasts} (1) • plant cells contain {chloroplasts / plasmodesmata / tonoplas",
+          "image": "/papers/wbi11-may-2021/q7-7b.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2021/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

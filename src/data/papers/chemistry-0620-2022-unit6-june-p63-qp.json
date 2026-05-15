@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2022-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all oxygen used up (so copper does not react) 18.6(27451) ",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all 6 burette readings correct (20.3 ,2.7,43.7, 8.5,42.2, 7(.0)) burette readings recorded in correct row in each table all readings / volumes in all tables given to 1 dp or better and are to a consistent number of dp. all three values for volume added are correct (17.6, 35.2, 35.2)",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 : 1 cm",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Q is more concentrated than R as smaller volume of Q is required answer is quantitative. Either Q is twice the concentration of R OR the volume of Q is half the volume of R 0620/63 May/June 2022 does not change amount / concentration / moles of sodium hydroxide",
+          "image": "/papers/chemistry-0620-2022/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(more) accurate (volume of aqueous sodium hydroxide)",
+          "image": "/papers/chemistry-0620-2022/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "so colour change can be seen clearly / easily r same acid used to fill tap / to fill part of burette below tap / to fill all of the burette / to fill the jet",
+          "image": "/papers/chemistry-0620-2022/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "blue green (flame)",
+          "image": "/papers/chemistry-0620-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solid S: white (solid) solution T: blue (solution) blue precipitate dissolves / forms a solution deep(er) blue 0620/63 May/June 2022 / K + iodide / I – zinc / Zn 2+ any 6 from:  known volumes of aqueous solution A and solution B  suitable apparatus for measuring volumes of solutions  measure temperature  mix solutions together (with starch solution)  time until blue black colour seen  repeat at a different temperature  solutions warmed before they are mixed.",
+          "image": "/papers/chemistry-0620-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit6-2022-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

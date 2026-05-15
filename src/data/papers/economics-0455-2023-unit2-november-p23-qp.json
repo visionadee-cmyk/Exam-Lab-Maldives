@@ -1,0 +1,43 @@
+{
+  "paperId": "economics-0455-2023-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "economics-0455-2023-unit2-november-p23-ms",
+  "subjectId": "economics_igcse",
+  "code": "0455/23",
+  "session": "October/November 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Level Description Marks 1 There is a simple attempt at using economic definitions and terminology. Some reference may be made to economic theory, with occasional understanding. 1–2 0 A mark of zero should be awarded for no creditable content.",
+          "image": "/papers/economics-0455-2023/q5-5d.png"
+        }
+      ],
+      "image": "/papers/economics-0455-2023/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/economics-0455-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Economics-0455/Economics-0455-2023-unit2-2023-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

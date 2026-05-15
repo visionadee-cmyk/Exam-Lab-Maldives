@@ -1,0 +1,111 @@
+{
+  "paperId": "mathematics-0580-2024-unit3-march-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2024-unit3-march-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/32",
+  "session": "February/March 2024",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5yx k= − + where 19k",
+          "image": "/papers/mathematics-0580-2024/q5-5c.png"
+        },
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " 2yx= − + final answer B1 for  yx c= − + or  2 ymx=+ where m is their gradient February/March 2024 Question Answer Marks Partial Marks",
+          "image": "/papers/mathematics-0580-2024/q5-5d.png"
+        },
+        {
+          "id": "5e",
+          "text": "Part 5e",
+          "marks": 1,
+          "type": "structured",
+          "answer": " yc x m − = oe final answer 2 M1 for a correct first step y c mx−= or yc x mm =+ diagram 2 B1 for S on bearing 117° from R B1 for S 5.5 cm from R or M1 for or or 0.2 or B1 for answer figs 8 360 288 18−+ oe M2 M1 for 360 288− or 288 18− If 0 scored SC1 for 72 and 18 correctly marked on the diagram M1 for 69.7+ or better 6− e.g. 87 8x−= or 7263 72x−= M1FT for a correct second step e.g. 815x= or 72135x=",
+          "image": "/papers/mathematics-0580-2024/q5-5e.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2024/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "7 (a) Pa35=+ Find the value of P when a2=. P= ................................................. [1] (b) Solve these equations. (i) x742=- x= ................................................. [1] (ii) ()x98772-= x= ................................................. [3] (c)",
+      "text": "7 (a) Pa35=+ Find the value of P when a2=. P= ................................................. [1] (b) Solve these equations. (i) x742=- x= ................................................. [1] (ii) ()x98772-= x= ................................................. [3] (c)",
+      "parts": [
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "32−",
+          "image": "/papers/mathematics-0580-2024/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " 19x=−  1 01y= B1 for  19x=− B1 for  1 01y=",
+          "image": "/papers/mathematics-0580-2024/q7-7d.png"
+        },
+        {
+          "id": "7e",
+          "text": "Part 7e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2, − 1,− 0, 1 2 B1 for 3 correct and no extras or 4 correct and one extra",
+          "image": "/papers/mathematics-0580-2024/q7-7e.png"
+        },
+        {
+          "id": "7f",
+          "text": "Part 7f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "35160xt+ final answer 2 B1 for 35x or 160t seen in final answer or 35160xt+ seen and spoilt",
+          "image": "/papers/mathematics-0580-2024/q7-7f.png"
+        },
+        {
+          "id": "7g",
+          "text": "Part 7g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 310xx+− final answer B2 for 5210xxx+ − − with at least 3 terms correct or B1 for ()() 52xx+− oe February/March 2024 Question Answer Marks Partial Marks OR B1 for 24 or 96 B1 for 36 or 84 3 If answer incorrect can score a maximum of 2 from: B1 for 24 and 8 correctly placed B1 for 9 correctly placed B1FT for their n(F)= 3×their n(V)  V) V F",
+          "image": "/papers/mathematics-0580-2024/q7-7g.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2024/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2024-unit3-2024-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

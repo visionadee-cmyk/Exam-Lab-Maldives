@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2017-unit3-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit3-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "February/March 2017",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 on left AND NaCl on right NaCl on right scores [1] March 2017 Question Answer Marks • conduct electricity (or heat) • shiny • malleable • ductile • sonorous chemical properties [max 2], e.g.: • react with acids • react with oxygen correct word equation (general or specific) [max 1] one consecutive pair reversed / all reversed scores [1] neutrons",
+          "image": "/papers/chemistry-0620-2017/q6-6e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit3-2017-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-9618-2024-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2024-unit2-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "October/November 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Activity Name of life cycle stage The walkthrough method is used. Testing An algorithm is implemented in a programming language. Coding The client is interviewed about problems with the current system. Analysis The program is modified to run on new hardware. Maintenance Records and file structures are defined. Design One mark per row Type of test data Test data value Expected result Abnormal 12 (< 23) FALSE Abnormal / Boundary / Extreme 23 FALSE Boundary / Extreme 24 TRUE Boundary 25 TRUE Boundary 36 TRUE Boundary /Extreme 37 TRUE Abnormal / Boundary / Extreme 38 FALSE Abnormal 99 (> 38) FALSE Max 4 marks Question Answer Marks 1 Fewer lines of code are needed 2 The program is simpler/ less complex // Program is easier to design / code / maintain / modify / test / debug 3 Direct access to days in a month / data (using month number as index) // Can use index / month to (directly) access days in month / data Max 2 marks October/November Question Answer Marks FUNCTION GetDate(ProductionDate : DATE, ShelfLife : INTEGER) RETURNS DATE DECLARE NewDate : DATE DECLARE DD, MM, YY, LastDay : INTEGER DD  DAY(ProductionDate) MM  MONTH(ProductionDate) YY  YEAR(ProductionDate) DD  DD + ShelfLife LastDay  DaysInMonth[MM] IF DD > LastDay THEN MM  MM + 1 DD  DD – LastDay IF MM = 13 THEN MM  1 YY  YY + 1 ENDIF ENDIF NewDate  SETDATE(DD, MM, YY) RETURN NewDate ENDFUNCTION Mark as follows: 1 Declare three variables of TYPE INTEGER to store DD, MM and YY 2 Correct use of date functions from Insert to extract three integer values representing DD, MM and YY and use/assign to a variable 3 Add parameter ShelfLife to DD and use / assign result to a variable 4 Extract LastDay from DaysInMonth using MM as Index 5 Test for new DD after end of month / DaysInMonth[MM] ... and if DD > DaysInMonth[MM]: 6 MM is incremented by 1 and DD is set to DD – DaysInMonth[MM] 7 If MM = 13 / MM > 12 then increment YY and set MM to 1 8 Use of SETDATE to assign value to NewDate, NewDate must have been del",
+          "image": "/papers/computer_science-9618-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per point: 1 All module identified in correct hierarchy 2 Parameters to both Sync and Activate and return values 3 Parameters to both Reset and Enable 4 Parameters to Initialise 5 Decision diamond Means that Sync repeatedly calls Reset and (then) Enable One mark for each point: MP1: reference to iteration MP2: naming all three modules correctly including correct sequence of calls October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Loop example solution FUNCTION CheckMark(Mark : INTEGER) RETURNS BOOLEAN DECLARE Index, Lower, Upper : INTEGER FOR Index  1 TO 5 Lower  GradeBoundary[Index] - 2 Upper  GradeBoundary[Index] + 2 IF Mark >= Lower AND Mark <= Upper THEN RETURN TRUE ENDIF NEXT Index RETURN FALSE ENDFUNCTION Mark as follows: 1 Loop through all elements in GradeBoundary array 2 Attempt to calculate range, both Lower and Upper, in a loop 3 Completely correct range calculation in a loop 4 Test if given mark / parameter, is within range in a loop 5 Set variable / immediate RETURN if recheck required in a loop 6 Return Boolean in both cases following a reasonable attempt Selection example solution FUNCTION CheckMark(Mark : INTEGER) RETURNS BOOLEAN CASE OF Mark GradeBoundary[1] – 2 TO GradeBoundary[1] + 2 : RETURN TRUE GradeBoundary[2] – 2 TO GradeBoundary[2] + 2 : RETURN TRUE GradeBoundary[3] – 2 TO GradeBoundary[3] + 2 : RETURN TRUE GradeBoundary[4] – 2 TO GradeBoundary[4] + 2 : RETURN TRUE GradeBoundary[5] – 2 TO GradeBoundary[5] + 2 : RETURN TRUE OTHERWISE : RETURN FALSE ENDCASE ENDFUNCTION Mark as follows: 1 Correct syntax used for selection structure(s) 2 Correct checks for two ranges 3 Correct checks for three ranges 4 Correct checks for four ranges 5 Correct checks for all five ranges 6 Return Boolean in both cases following a reasonable attempt October/November Question Answer Marks PROCEDURE CheckAll(CNum : INTEGER) DECLARE Index, Count, ThisMark: INTEGER Count  0 OPENFILE \"GRList.txt\" FOR WRITE FOR Index  1 to CNum ThisMark  Result[Index, 1] // 2D array: mark + ID IF CheckMark(ThisMark) = TRUE THEN WRITE \"GRList.txt\", NUM_TO_STR(Result[Index, 2]) Count  Count + 1 ENDIF NEXT Index CLOSEFILE \"GRList.txt\" OUTPUT \"There are \", Count, \" papers to check\" ENDPROCEDURE Mark as follows: 1 Procedure heading, parameter and ending. 2 Open file in write mode and subsequently close 3 Loop through all CNum candidates 4 Extract candidate mark from Result array in a loop 5 Use of CheckMark() w",
+          "image": "/papers/computer_science-9618-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2024-unit2-2024-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

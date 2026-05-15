@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2025-unit3-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit3-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/31",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Al = (2  27) = 54 OR S = (3  32) = 96 May/June 2025 Question Answer Marks catalyst 1 high temperature 1 alkene / hydrogen 1",
+          "image": "/papers/chemistry-0620-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 • 25–35 °C (inclusive) • anaerobic / absence of oxygen • yeast May/June 2025 Question Answer Marks increase temperature (1) add a catalyst (1) increase (surface) area of metal / smaller pieces of metal (1) observations: (squeaky) pop + Question Answer Marks carbon dioxide 1 water 1 May/June 2025 Question Answer Marks evaporate to point of crystallisation OR evaporate until saturated solution is formed OR heat until crystals just appear dry with (filter) paper 1 molten lithium iodide labelled 1 (negative electrode) lithium 1 low melting point 1 does not conduct electricity (when molten) 1 Question Answer Marks H2 1 May/June 2025 Question Answer Marks reactants (on left hand line and) AND products (on right hand line) H – freezing 1 Question Answer Marks chlorination – to kill microbes / germs / etc. (1) 1 heat to 100 °C and observe if it’s boiling pure water boils at 100 °C. / if not 100 °C then it must be impure. OR impure water boils at a higher bp than 100 °C OR compare bp to the known value of pure water methane: global warming / climate change 1",
+          "image": "/papers/chemistry-0620-2025/q4-4c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit3-2025-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

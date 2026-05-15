@@ -1,0 +1,89 @@
+{
+  "paperId": "wph16-oct-2025-unit6-v01a-qp",
+  "pairedMarkSchemeId": "wph16-oct-2025-unit6-v01a-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01A",
+  "session": "October 2025",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) (3) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "text": "2 (a) (3) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) (3) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Determines number of divisions for (half) amplitude • Calculates number of divisions × 5 (mV) per division • e.m.f. induced = 18.5 mV accept rounded to 19 mV (1) (1) (1) Example of calculation Number divisions = 4 + 3.4 = 3.7 e.m.f induced = 3.7 × 5 mV = 18.5 mV • Ammeter connected in series with large coil • Means of varying current, e.g. variable resistor, potentiometer (1) (1) Example of circuit • Measure x with a (metre) rule • Count the number of turns N (on the large coil) • x and N are (kept) constant Or The distance between the coils is (kept) constant • Record I and the corresponding value of V • (Vary I) and record at least 5 different sets of values • Plot graph of V against I and gradient is 푧푧푧푧 푥푥 (1) (1) (1) (1) (1) (1) Do not accept 5 sets of values for repeating and calculating a mean Accept alternative valid graphs Total for question 2 11 Number Answer Additional Guidance Mark • Do not exceed the working p.d. of the capacitor • Connect the capacitor with the correct polarity • Discharge the capacitor (fully) before handling (1) (1) (1) May refer to + or − • ln I = ln I − 푡푡 푅푅푅푅 • C ompares to y = c + mx where the gradient is − 푅푅푅푅 (which is constant) MP2 dependent on MP1 OR • ln I = − 푡푡 푅푅푅푅 + ln I • C ompares to y = mx + c where the gradient is − 푅푅푅푅 (which is constant) MP2 dependent on MP1 (1) (1) (1) (1) Do not accept “m” for gradient Do not accept “m” for gradient • Values of ln I correct and consistent to 3 d.p. Accept correct and consistent to 2 d.p. • Axes labelled: y as ln (I/mA) and x as t / s • Appropriate scales chosen for both axes • Processed values plotted accurately • Reasonable best fit line drawn (1) (1) (1) (1) (1) t / s I /mA ln(I /mA) ln(I /mA) 10.00 0.237 −1.440 −1.44 20.00 0.165 −1.802 −1.80 30.00 0.105 −2.254 −2.25 40.00 0.066 −2.718 −2.72 50.00 0.043 −3.147 −3.15 60.00 0.028 −3.576 −3.58 • Uses large triangle to calculate gradient • Uses gradient = − 푅푅푅푅 • R in range 3.25 × 10 (Ω) to 3.42 × 10 (Ω) • Calculated value o",
+          "image": "/papers/wph16-oct-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wph16-oct-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) (4) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "text": "4 (a) (4) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) (4) .................................................................................................................................................................................................................................................. ............................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Adjust the position of the bridge slowly to determine the maximum amplitude Or Place a piece of card behind the wire (to judge position of maximum amplitude) • Use a metre rule (to measure L) • Align the zero of the metre rule with the (right hand) edge of the blocks Or Take readings at the (right hand) edge of the blocks and the bridge, and subtract the two readings • Move the bridge to determine L several times to calculate a mean L. (1) (1) (1) (1) Accept incrementally for slowly Accept ruler, tape measure Must be referring to the whole process of finding the maximum amplitude • Repeat at different positions/orientations (along the wire) and calculate a mean • To reduce (the effect of) random errors MP2 dependent on MP1 OR • Check and correct for zero error • To eliminate/reduce systematic error MP2 dependent on MP1 (1) (1) (1) (1) Allow 1 mark for “Repeat and calculate a mean to reduce (the effect of) random errors” Allow 1 mark for “Check for zero error to eliminate/reduce systematic error” Allow 1 mark for avoiding overtightening the micrometer if no other mark awarded • Uses 퐿퐿 = 푀푀푀푀 π휌휌푑푑 푓푓 • ρ = 8090 (kg m -3 ) to at least 3 s.f. (1) (1) Example of calculation 휌휌= 푀푀푀푀 π푑푑 푓푓 퐿퐿 = 0.802 kg × 9.81 m s −2 π × ( 1.02 × 10 −3 m ) × ( 50.3 Hz ) × ( 0.343 m ) = 8087 (kg m −3 ) • Uses half resolution for %U in f Accept fractional uncertainty • Uses 2 × %U in d Or Uses 2 × %U in L Or Uses 2 × %U in f Accept 2 × fractional uncertainty • Adds percentage uncertainty in all three variables • Correct %U given to 2 s.f. OR • Uses half resolution for uncertainty in f • Uses uncertainties to calculate maximum in ρ Or Uses uncertainties to calculate minimum in ρ • Calculation of half range shown • Correct %U given to to 2 s.f. (1) (1) (1) (1) (1) (1) (1) (1) Example of calculation %U in d = 0.02 mm 1.02 mm ×100 = 1.96 % %U in f = 0.05 Hz 50.3 Hz ×100 = 0.099 % %U in L = 0.003 m 0.343 m ×100 = 0.87 % %U in ρ = 2×%U in d + 2× %U in f + 2×%U in l = 2 × 1.96% + 2 × 0.099% +",
+          "image": "/papers/wph16-oct-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wph16-oct-2025/page-15.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph16-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit6-2025-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph16-oct-2025/page-01.png",
+      "/papers/wph16-oct-2025/page-02.png",
+      "/papers/wph16-oct-2025/page-03.png",
+      "/papers/wph16-oct-2025/page-04.png",
+      "/papers/wph16-oct-2025/page-05.png",
+      "/papers/wph16-oct-2025/page-06.png",
+      "/papers/wph16-oct-2025/page-07.png",
+      "/papers/wph16-oct-2025/page-08.png",
+      "/papers/wph16-oct-2025/page-09.png",
+      "/papers/wph16-oct-2025/page-10.png",
+      "/papers/wph16-oct-2025/page-11.png",
+      "/papers/wph16-oct-2025/page-12.png",
+      "/papers/wph16-oct-2025/page-13.png",
+      "/papers/wph16-oct-2025/page-14.png",
+      "/papers/wph16-oct-2025/page-15.png",
+      "/papers/wph16-oct-2025/page-16.png",
+      "/papers/wph16-oct-2025/page-17.png",
+      "/papers/wph16-oct-2025/page-18.png",
+      "/papers/wph16-oct-2025/page-19.png",
+      "/papers/wph16-oct-2025/page-20.png",
+      "/papers/wph16-oct-2025/page-21.png",
+      "/papers/wph16-oct-2025/page-22.png",
+      "/papers/wph16-oct-2025/page-23.png",
+      "/papers/wph16-oct-2025/page-24.png"
+    ]
+  },
+  "unit": "Unit 6"
+}

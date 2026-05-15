@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2015-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2015",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volumes completed for all five experiments; times completed for all five runs and time increases down table; all times in seconds; result for experiment 3 comparable to supervisors (within 10 seconds); Total volume in each run = 50 cm and scale linear; all five points plotted correctly (two marks); smooth line; / cream / white; 1 I references to pale / cloudy / precipitate / solid / milky / solution units; indication shown on graph; A s / seconds / sec the lines must not meet at any point / first; 1 A ecf from results / particles closer together / more concentrated / no water / more (frequent) collisions; cm / changing total volume; so not a fair test / so depth greater / cannot compare with other results; A (result) not valid Any two from: • more accurate (for volume measurement); • comparison to measuring cylinder; • less accurate measurement of time; • as it takes longer to add the acid; A more precise / cross disappears faster; depth greater; R reacts faster Page 4 Mark Scheme Syllabus Paper 1 R if described as a liquid or solution / pungent / sharp / choking smell; (pH indicator turns) green / blue / purple; Any value or range >7 and Y 14; A any suitable description of the smell precipitate / ppt / ppte; I cream I solid R the second mark if there is an indication of the precipitate dissolving / orange / brown; fizzing / bubbles / effervescence; turns black / blue-black; glowing splint; relights; I the state / red I “gas made” I all other gas tests A glows brighter / bubbles / effervescence; limewater; milky / cloudy; (on addition of sulfuric acid) white precipitate / ppt / ppte; I all other gas tests A other description such as “becomes turbid” / NH +; iodide / I –; A correct formula of ammonium iodide for both marks / lead / calcium / silver; carbonate; A correct formula of appropriate carbonate for both marks",
+          "image": "/papers/chemistry-0620-2015/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit5-2015-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

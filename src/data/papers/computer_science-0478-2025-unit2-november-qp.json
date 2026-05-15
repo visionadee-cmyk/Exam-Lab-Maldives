@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2025-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) A restaurant offers a fixed priced menu. A meal for an adult costs $9.99 and a meal for a child costs $6.99. If there are 6 or more people at a table, a 15% discount is applied to the total cost of the order. Write an algorithm in pseudocode to: • input the number of adults and the number of children at a table • calculate the total cost of the order with the discount, if this applies",
+      "text": "4 (a) A restaurant offers a fixed priced menu. A meal for an adult costs $9.99 and a meal for a child costs $6.99. If there are 6 or more people at a table, a 15% discount is applied to the total cost of the order. Write an algorithm in pseudocode to: • input the number of adults and the number of children at a table • calculate the total cost of the order with the discount, if this applies",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• One mark for correct symbol • One mark for correctly completed table A B X 0 0 1 0 1 1 1 0 1 1 1 0 October/November 2025 Question Answer Marks • One mark for a suitable hierarchical structure • One mark for suitable names for the sub systems for user input and display options • One mark for sub systems for user inputs, room type and number of nights • One mark for sub systems for display output types, pictures and list Hotel booking system Input Output Room type Number of nights Pictures List October/November 2025 Question Answer Marks Line 03 – should be DECLARE CheckDigit : INTEGER Line 05 – should be FOR Count  1 TO 5 Line 08 – should be Total  Total + (Digit * Count) Line 15 – should be OUTPUT \"The check digit is \", CheckDigit • After the for loop but before the total/after line 07 • use a suitable loop (repeat/while) • ... checking digit is 0 to 9 • re-input digit in the loop • visual check • ... look at the data that has been entered and confirm it matches • double entry • ... enter data twice and only accept identical values October/November 2025 Question Answer Marks Input data: 20 Count Number Value Output 0 20 0 1 20 2 40 3 60 4 80 5 100 6 120 5 5 October/November 2025 Question Answer Marks Count Number Value Output 0 110 0 1 110 0 0 • DIV algorithm • Integer division • to find how many times the number goes into 100 October/November 2025 Question Answer Marks Either • declare Count • initialise Count • use of DIV • ... with correct parameters Or • declare Count • use of while/repeat • ... with correct condition • output of correct count Examples: DECLARE Count : INTEGER Count  0 INPUT Number Value  Count * Number WHILE Value <= 100 DO Count  Count + 1 Value  Count * Number ENDWHILE Count  Count – 1 OUTPUT Count Or DECLARE Count : INTEGER (Count  0) INPUT Number Count  DIV(100, Number) OUTPUT Count October/November 2025 Question Answer Marks • parent name can be repeated • not unique",
+          "image": "/papers/computer_science-0478-2025/q4-4d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q4.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "StudentID Field Data type ParentName Text Permission Boolean/text DateReceived Date/time/text SELECT StudentName FROM SchoolTrip WHERE Permission = False; October/November 2025 Question Answer Marks 9 One mark per bullet point • correctly opening Attendance.txt for read • use of READFILE • ... and storing in StudentAttendance • closing Attendance.txt Example OPENFILE Attendance.txt FOR READ READFILE Attendance.txt, StudentAttendance CLOSEFILE Attendance.txt Question Answer Marks DECLARE Seconds : INTEGER DECLARE Minutes : INTEGER • PROCEDURE and ENDPROCEDURE naming the procedure Time with parameter • correctly calculating minutes • correctly calculating seconds • output the minutes and seconds Example PROCEDURE Time(TotalSeconds : INTEGER) Minutes  DIV(TotalSeconds, 60) Seconds  MOD(TotalSeconds, 60) OUTPUT \"The number of minutes is \", Minutes OUTPUT \"The number of seconds is \", Seconds ENDPROCEDURE October/November 2025 Question Answer Marks 11 Use the tables for A02 and A03 below to award a mark in a suitable band using a best fit approach Then add up the total. Marks are available for: • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario Arrays or lists: CompetitorName, CompetitorScore Requirements (techniques) R1 inputs the score for each round validating the input is in the range 0 to 30 inclusive (input, output, nested iteration, validation) R2 calculates the score of each competitor discarding the highest and lowest scores of the 10 rounds (nested iteration, output and selection) R3 outputs the name of the competitor and whether they have qualified, are a reserve or not qualified, output the number of competitors who have qualified, are reserve and not qualified (totalling, output and selection) October/November 2025 Question Answer Marks 11 Example 15-mark answer in pseudocode. // programming techniques of iteration, selection, counting, totalling and output are used // Candid",
+          "image": "/papers/computer_science-0478-2025/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit2-2025-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

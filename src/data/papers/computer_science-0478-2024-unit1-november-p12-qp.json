@@ -1,0 +1,71 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (0000)1111 • 10110100 • 11101011",
+          "image": "/papers/computer_science-0478-2024/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• E • 64 • FA • Each/All/Every value/digit/bit in the binary number is shifted/moved to the left • The left most/most significant bit is lost • A 0 is added as the right most/least significant bit − Question Answer Marks • Touchscreen • Microphone • Button • (Digital) camera • Sensor // by example • Screen • Speaker • LED • Actuator October/November 2024 Question Answer Marks • To store the BIOS • To store the bootstrap • To help start-up the smart watch // to store start-up instructions • To store the firmware • For non-volatile storage // to store data permanently • To store data/instructions that should not change (unless needed) • A collection of servers • Allows access to data remotely // Stores data in a remote location • Hardware can be owned/managed by a third party • Data storage that is stored/accessed using the internet • No need to maintain the hardware • ... the third party is responsible for maintaining the hardware / security of the data • Resources can be increased / decreased (on demand) // Can have unlimited storage capacity • ... no need to worry about running out of storage space • ... can save cost of purchase of hardware • Need less/no (secondary) storage space on the watch • ... watch can remain/is small in size • ... costs of watch can be kept lower • Can access the data from other/any devices • ... if the watch breaks/is lost data is still available October/November 2024 Question Answer Marks • The watch can only perform a dedicated/limited functions/tasks • ... and a general purpose computer performs many/multiple functions • ... (this means that) it is an embedded system • You cannot plug in peripherals • You cannot reprogram the smartwatch // Cannot install other software/apps • It would only have a microprocessor // It would not have a CPU − Question Answer Marks • A check digit is calculated from/using the barcode data • ... using an algorithm // by example e.g. Modulo 11 • ... and added to the barcode • When/after the barcode is scanne",
+          "image": "/papers/computer_science-0478-2024/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q3.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Knowledge base • Rule base • Inference engine For example: • It could gather data during vacuuming • ... and adapt its own processes • ... such as where obstacles are placed in the room • ... such as where dirtier areas are • ... such as a path through a room • ... such as the shape of a room • ... such as the most efficient route to vacuum a room • ... so, it knows areas to avoid/concentrate on/use different cleaning tools",
+          "image": "/papers/computer_science-0478-2024/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

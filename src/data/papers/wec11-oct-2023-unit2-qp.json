@@ -1,0 +1,43 @@
+{
+  "paperId": "wec11-oct-2023-unit2-qp",
+  "pairedMarkSchemeId": "wec11-oct-2023-unit2-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC12/01",
+  "session": "October 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Define the term ‘real GDP’ (Figure 1). (2) (b) With reference to Figure 2, explain how ILO unemployment is measured. (4) (c) With reference to Extract A, analyse two causes of China’s high youth unemployment rate. (6) (d) With r eference to Extract A, examine how a reflationary fiscal policy will impact China’s circular flow of income. (8) (e) With reference to the information provide",
+      "text": "12 (a) Define the term ‘real GDP’ (Figure 1). (2) (b) With reference to Figure 2, explain how ILO unemployment is measured. (4) (c) With reference to Extract A, analyse two causes of China’s high youth unemployment rate. (6) (d) With r eference to Extract A, examine how a reflationary fiscal policy will impact China’s circular flow of income. (8) (e) With reference to the information provide",
+      "parts": [
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative Skill Assessed QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms Knowledge, Application and Analysis (8 marks) – indicative content • Understanding of reflationary monetary policy • The PBoC decreased the base rate of interest from 3.7% to 3.65% in August 2022 – a decrease of 0.05 percentage points • A decrease in the base interest rate should increase AD as it will: o increase consumption as it creates an incentive to spend; also consumption increases as cost of borrowing falls and there is a disincentive to save as the return on saving falls o create positive wealth effects: lower interest rates will reduce cost of borrowing, so individuals will be more likely to borrow to purchase houses - this will contribute to an increase in house prices, raising confidence and consumption o increase spending as consumers with variable rate loans/mortgages see interest repayments decrease, increasing discretionary incomes o increase the net trade balance as it will put a downward pressure on the exchange rate, meaning exports become relatively cheaper, and imports become relatively expensive – China’s “exports rising more slowly” so the “fall in the external value of the Chinese currency, the Renminbi” will help improve the current account position o increase investment, as the cost of borrowing to finance investment decreases, reducing firms cost of production • “A reduction in reserve asset (liquidity) requirements” will increase money supply: more lending by commercial banks could increase consumption and investment as there would be greater access to credit • AD shifts outwards leading to (may b",
+          "image": "/papers/wec11-oct-2023/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-oct-2023/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2023-unit2-2023-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

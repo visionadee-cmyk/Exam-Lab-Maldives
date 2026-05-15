@@ -1,0 +1,43 @@
+{
+  "paperId": "mathematics-0580-2025-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2025-unit1-november-p12-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/12",
+  "session": "October/November 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 B1 for at least 8 elements in the correct place 21 2x final answer 2 B1 for kx or 2x c as final answer or 2x seen and spoilt 22 120 2 M1 for 180 − (360 ÷ 6) oe or () 6 2180 − oe 23 4a + 20b = 130 oe 6a + 15b = 105 oe 2 B1 for each [a =] 2.5 [b =] 6 4 M1FT for correctly equating one set of coefficients M1FT for correct method to eliminate one variable A1 for a = 2.5 A1 for b = 6 If A0 scored, SC1 for two positive costs which satisfy one of the original conditions 24 54 1 – 3x – 10 final answer 2 B1 for x – 5x + 2x – 10 with at least 3 terms correct + 2) final answer 2 B1 for 5(x + 2x) or x(5x + 10) or 5x(x + 2) seen and spoilt 26 16.315 16.325 2 B1 for each If 0 scored, SC1 for both correct but reversed seen and spoilt October/November 2025 Question Answer Marks Partial Marks places",
+          "image": "/papers/mathematics-0580-2025/q20-20a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2025/q20.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2025-unit1-2025-11-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

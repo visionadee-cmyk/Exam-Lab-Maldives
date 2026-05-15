@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark each: Function name Description managing memory Examples: • allocates memory to processes • prevents two processes accessing the same memory platform for running applications allows application software to run on the computer managing peripherals Examples: • allocates data to buffers • transmits data to hardware • receives data from hardware e.g. • Keyboard Key pressed • Mouse Mouse moved//button clicked February/March 2024 Question Answer Marks • Interrupt is given priority • ...and placed in interrupt queue • Processor finishes current FE cycle for program • Processor checks interrupt priority queue // processor checks for higher priority interrupt than program/process • If lower priority processor runs next FDE cycle for program/process // if lower priority processor continues with program/process • (if higher priority) processor stores current process/registers on stack • Checks source of interrupt • ... and calls the appropriate ISR • ISR handles/resolves interrupt • If there is another higher priority interrupt (than process) then repeat • ... (otherwise) processor retrieves content of stack/registers/previous process (to continue with process from program) February/March 2024 Question Answer Marks 4 Any five marks for each part of diagram: • URL from computer/browser to DNS • DNS storing table/database of URL and IPs // DNS finding IP for URL • DNS sending IP to computer / browser • DNS sending to higher DNS if not found • Web browser/computer sending request to IP of web server • Web server processing request • Web page data sent from server to computer / web browser Student's computer DNS URLs .....co.uk .....co.uk IP 250.256.. 058.51.. 2. Find IP for URL 1. URL 3. IP Web server 5. Process request 4. request to IP 6. HTML web page February/March 2024 Question Answer Marks 5 One mark for each term in correct place: • physically • blockchains • time-stamp • traced A digital currency does not exist physically, it can only be accessed electronically. S",
+          "image": "/papers/computer_science-0478-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

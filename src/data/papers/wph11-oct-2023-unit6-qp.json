@@ -1,0 +1,63 @@
+{
+  "paperId": "wph11-oct-2023-unit6-qp",
+  "pairedMarkSchemeId": "wph11-oct-2023-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "October 2023",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses T = 2 ට ௟ ௚ with l = H – h Clear algebra leading to formula Example of derivation T = 2 ට ௟ ௚ where l = H – h So T = 2 ට ுି௛ ௚ ∴푇 ଶ =4π ଶ ൬ 퐻−ℎ 푔 ൰ = 4π ଶ 퐻−4π ଶ ℎ 푔 = 4π ଶ 퐻 푔 − 4π ଶ ℎ 푔 (1) (1) 2. Ensure metre rule is vertical using a set square Or Use a set square to read off the scale Or Measure to the bottom of the bob and add the radius of the bob 3. Use a (timing) marker (at the centre of the oscillation) 4. Measure (time for) multiple oscillations and divide by the number of oscillations Or Repeat the measurement of T and calculate the mean Or Start timing the oscillations once the oscillations have settled 5. Determine T for (at least) 5 different values of h 6. Plot a graph of T against h and determine the intercept (to calculate H) [ANNOTATE WITH MPs AWARDED] (1) (1) (1) (1) (1) (1) Judging when an oscillation is complete will be more accurate (1) (1) Total for question 2 10 Number Answer Mark ln P = ln P − bh Compares to y = c + mx where the gradient is −b is the gradient (which is constant) MP2 dependent on MP1 OR ln P = − bh + ln P Compares to y = mx + c where the gradient is −b is the gradient (which is constant) MP2 dependent on MP1 (1) (1) (1) (1) Axes labelled: y as ln (P / kPa) and x as h / m Appropriate scales chosen Processed data plotted accurately Best fit line drawn [Accept graph with values of ln P in Pa, log values only credit MP3,4,5] [ANNOTATE WITH MPs AWARDED, TICK CHECKED PLOTS] h / m P / kPa ln (P / kPa) 305 97.7 4.582 762 92.5 4.527 1372 85.9 4.453 1829 81.2 4.397 2438 75.3 4.321 3048 69.7 4.244 (1) (1) (1) (1) (1) Value of gradient in range ()1.20  to ()1.30  10 Value of gradient given to 2 or 3 s.f., and negative [Allow unit of m 1 ] Example of calculation gradient = ସ.ହ଺ ି ସ.ଶହ ହ଴଴ ି ଷ଴଴଴ = ଴.ଷଵ ିଶହ଴ = −1.24 × 10 −4 (1) (1) (1) Uses gradient = (−) ெ௚ ௞் Correct value of M e.c.f. 3(b)(ii) Value of M given to 2 or 3 s.f., correct unit Example of calculation M = − ିଵ.ଶସ × ଵ଴ షర × ଵ.ଷ଼ × ଵ଴ షమ ୎୏ షభ × ଶ଼଼୏ ଽ.଼ଵ୫ୱ షమ",
+          "image": "/papers/wph11-oct-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2023/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculation of a relevant limit using percentage uncertainty shown Or Calculation of a relevant uncertainty using percentage uncertainty shown Upper limit  for rubber band = 1.20 (g cm −3 ) and Lower limit  for rubber bung = 1.50 (g cm −3 ) They are not made from the same type of rubber as the upper limit of the rubber band does not overlap the lower limit for the rubber bung MP3 dependent MP2 Example of calculation Upper limit  for rubber band = 1.15 × (1 + ସ.ଷ ଵ଴଴ ) = 1.20 (g cm −3 ) Lower limit  for rubber bung = 1.52 × (1 − ଵ.ଶ ଵ଴଴ ) = 1.50 (g cm −3 ) (1) (1) (1) Total for question 4 16 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2023/q4-4c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit6-2023-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

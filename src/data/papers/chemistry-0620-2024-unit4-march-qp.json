@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2024-unit4-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit4-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "February/March 2024",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 cobalt(II) chloride M2 anhydrous M2 7 dots and 1 cross in third shell of both Cl M3 ‘2+’ charge on Ca on correct answer line AND ‘–‘ charge on both Cl ions on correct answer line February/March 2024 Question Answer Marks lead(II) nitrate 2+ (aq) + 2Cl – (aq) → PbCl2(s) M1 PbCl2 as only product M2 Pb 2+ + 2Cl – as only reactants M3 correct state symbols Question Answer Marks M2 colourless M2 lowest pH – + H + M1 H + M2 CH3COO – M3 ⇌ February/March 2024 Question Answer Marks + + OH – → H2O 1",
+          "image": "/papers/chemistry-0620-2024/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Equation 1 shows the combustion of carbon in the blast furnace. (i) Name the substance which provides the carbon for this reaction. ....................................................................................................................................... [1] (ii) State the purpose of the combustion of carbon in the blast furnace. ............................",
+      "text": "3 (a) Equation 1 shows the combustion of carbon in the blast furnace. (i) Name the substance which provides the carbon for this reaction. ....................................................................................................................................... [1] (ii) State the purpose of the combustion of carbon in the blast furnace. ............................",
+      "parts": [
+        {
+          "id": "3g",
+          "text": "Part 3g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (0.0150  20.0/1000 =) 0.0003(00) / 3.00  10 –4 (mol) M2 (M1  2 = 3.00  10 –4  2 =) 0.0006(00) / 6.00  10 –4 (mol) M3 (M2  1000/25.0 = 6.00  10 –4  1000 / 25.0 =) 0.0240 (mol / dm ) M4 63 (g / mol) M5 (M3  M4 = 0.0240  63 =) 1.51(2) (g / dm ) Question Answer Marks M2 ester link M3 correct displayed formula of ethyl methanoate M2 concentrations of reactants and products are constant February/March 2024 Question Answer Marks M2 decreases M3 decreases M4 no effect Question Answer Marks M2 displayed formula of butan-2-ol M3 butan-1-ol M4 butan-2-ol February/March 2024 Question Answer Marks M2 three correctly placed C2H5 groups M3 correct structure AND continuation bonds",
+          "image": "/papers/chemistry-0620-2024/q3-3g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit4-2024-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

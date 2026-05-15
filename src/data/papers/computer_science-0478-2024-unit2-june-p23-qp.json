@@ -1,0 +1,223 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 16,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) Four logic gate symbols and five logic functions are shown. Draw one line to link each logic gate symbol to the appropriate logic function. Not all logic functions will be used. AND XOR NOT NAND OR Logic functionLogic gate symbol",
+      "text": "2 (a) Four logic gate symbols and five logic functions are shown. Draw one line to link each logic gate symbol to the appropriate logic function. Not all logic functions will be used. AND XOR NOT NAND OR Logic functionLogic gate symbol",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Four logic gate symbols and five logic functions are shown. Draw one line to link each logic gate symbol to the appropriate logic function. Not all logic functions will be used. AND XOR NOT NAND OR Logic functionLogic gate symbol",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line Logic gate symbol Logic function AND NOT OR NAND XOR 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C Z 0 0 0 0 0 0 1 1 0 1 0 0 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1 1 1 0 Four marks for eight correct outputs. Three marks for six or seven correct outputs. Two marks for four or five correct outputs. One mark for two or three correct outputs One mark for a correct statement about each data type and one mark for a correct example of data for each data type. For example: String Char A single character [1] X [1] 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "21 IF Response = 'N' 22 THEN 23 Continue  FALSE 24 ELSE 25 Count  Count + 1 26 ENDIF 27 UNTIL NOT Continue // UNTIL Response = 'N'",
+          "image": "/papers/computer_science-0478-2024/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Use of appropriate loop  Method to check array maximum not exceeded  Method to check current / next array element not empty  Output of all three array elements per array row (and no more) Example algorithm: Count  WHILE Count <= 50 AND People[Count, 1] <> \"\" DO OUTPUT People[Count, 1] OUTPUT People[Count, 2] OUTPUT People[Count, 3] Count  Count + 1 ENDWHILE",
+          "image": "/papers/computer_science-0478-2024/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 Declare/use a variable that is set to the maximum size of the array MP2 ... at the start of the program MP3 After line 18 MP4 ... check that the value of the counting variable is not greater than the array maximum variable MP5 ... and if it is do not allow any more entries / set the value of Response to 'N' / add additional condition to UNTIL statement that checks if the counting variable is at maximum 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Correct L column MP2 Correct S column MP3 Correct T column MP4 Correct A column MP5 Correct Limit, Count and Value columns MP6 Correct OUTPUT columns L S T A Limit Count Value OUTPUT 0 10000 0 0 10 30 30 2 18 18 48 3 8 8 56 4 25 81 5 12 93 6 17 110 7 2 2 112 8 50 50 162 9 15 177 10 5 182 18.2 L = 50 S = 2 T = 182 A = 18.2",
+          "image": "/papers/computer_science-0478-2024/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  Any two from finds / outputs the largest, smallest, total and average of a set of numbers  A ll four of finds / outputs the largest, smallest, total and average of a set of numbers 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " (The identifiers L , S , T and A) are single letters  ... so do not give any indication of what values they hold.  For programs to be maintainable, identifiers should have meaningful names.",
+          "image": "/papers/computer_science-0478-2024/q5-5c.png"
+        },
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for every two appropriate identifiers, max two Original identifier Improved identifier L Largest / Maximum S Smallest / Minimum T Total / Sum A Average / Mean 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q5-5d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each appropriate piece of test data for a range of 1 to 80 inclusive Example: Normal Abnormal Extreme",
+          "image": "/papers/computer_science-0478-2024/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Test data to test the limits of acceptable data entry ... that will only accept the largest and smallest acceptable values. 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) The string operation SUBSTRING(FullText, X, Y) returns a string from FullText beginning at position X that is Y characters long. The first character in FullText is in position 1. Write the pseudocode statements to: • store the string “IGCSE Computer Science at Cambridge” in FullText • extract and display the words “Computer Science” from the string and sto",
+      "text": "7 (a) The string operation SUBSTRING(FullText, X, Y) returns a string from FullText beginning at position X that is Y characters long. The first character in FullText is in position 1. Write the pseudocode statements to: • store the string “IGCSE Computer Science at Cambridge” in FullText • extract and display the words “Computer Science” from the string and sto",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) The string operation SUBSTRING(FullText, X, Y) returns a string from FullText beginning at position X that is Y characters long. The first character in FullText is in position 1. Write the pseudocode statements to: • store the string “IGCSE Computer Science at Cambridge” in FullText • extract and display the words “Computer Science” from the string and sto",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point MP1 Assignment of given string to FullText MP2 Correct use of SUBSTRING and assignment of reduced string to own variable MP3 Correct use of UCASE MP4 Output of both strings Example: FullText  PartText  SUBSTRING(FullText, 7, 16) OUTPUT PartText, UCASE(FullText)",
+          "image": "/papers/computer_science-0478-2024/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point MP1 Opening the correct text file for writing MP2 Writing the variable from part (a) to the file MP3 Closing the text file after writing Example: OPENFILE \"Subjects.txt\" FOR WRITE WRITEFILE \"Subjects.txt\", PartText CLOSEFILE \"Subjects.txt\"",
+          "image": "/papers/computer_science-0478-2024/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Fields – 6 Records – 0478/23 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Correct models of planes selected MP2 Correct Years of planes selected MP3 Correct numbers of engines selected with data all matching for each record MP4 Data sorted correctly with no additional fields or punctuation Correct output: 314 Clipper 1936 4 C-47 Dakota 1942 2 Nimrod 1966 4 DC-10 1970 3 Concorde 1973 4",
+          "image": "/papers/computer_science-0478-2024/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Correct additional keywords used – FROM , WHERE MP2 Correct SELECT field – Model with no additional fields MP3 Correct table name - Hangar1 MP4 Correct search criteria - Airworthy = Y // Airworthy Correct code: SELECT ID, Model FROM Hangar1 WHERE Airworthy = Y; // Airworthy; 0478/23 May/June 2024  AO2 (maximum 9 marks)  AO3 (maximum 6 marks) Data Structures required with names as given in the scenario: Arrays or lists Teams[], Results[] Variables Played Requirements (techniques): R1 Input and store number of games played, teams, number of games won, drawn and lost, with validation for input of numbers (iteration, range check, input, output). R2 Calculate and store the number of points. Sort the arrays by number of points (calculation, sort, (nested) iteration). R3 Finding and outputting top team(s) (finding max, counting and output). 0478/23 May/June 2024 Example 15-mark answer in pseudocode // input number of games REPEAT OUTPUT \"How many games have been played (Maximum 18)? \" INPUT Played UNTIL Played <=18 // input of data as a single loop – a loop for the teams and // another loop for the data is also acceptable. FOR InLoop  1 TO 10 OUTPUT \"Enter the name of the team\" INPUT Teams[InLoop] // input of games results with validation REPEAT OUTPUT \"Enter the number of games won, drawn and lost for \", Teams[InLoop] INPUT Won, Drawn, Lost IF Won + Drawn + Lost <> Played THEN OUTPUT \"Your inputs must total \", Played, \" please try again\" ENDIF UNTIL Played = Won + Drawn + Lost Results[InLoop, 1]  Won Results[InLoop, 2]  Drawn Results[InLoop, 3]  Lost // calculating and storing points Results[InLoop, 4]  Results[InLoop, 1] * 3 + Results[InLoop, 2] NEXT InLoop // sorting section Flag  TRUE WHILE Flag DO Flag  FALSE FOR Sort  1 TO 9 IF Results[Sort, 4] < Results[Sort + 1, 4] THEN 0478/23 May/June 2024 // swapping if points not higher then next element TempString  Teams[Sort] Temp1  Results[Sort, 1] Temp2  Results[Sort, 2] Temp3  Results[Sort, 3] Temp4  Res",
+          "image": "/papers/computer_science-0478-2024/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 16,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

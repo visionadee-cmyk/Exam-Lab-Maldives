@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2023-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The student places the metre ruler on the pivot. She places a load P on the metre ruler at the 90.0 cm mark. She adjusts the position of the metre ruler on the pivot so that the metre ruler is as near as possible to being balanced. The ruler balances with the pivot at the 75.0 cm mark. Calculate the distance a from the 90.0 cm mark to the pivot. Record the va",
+      "text": "1 (a) The student places the metre ruler on the pivot. She places a load P on the metre ruler at the 90.0 cm mark. She adjusts the position of the metre ruler on the pivot so that the metre ruler is as near as possible to being balanced. The ruler balances with the pivot at the 75.0 cm mark. Calculate the distance a from the 90.0 cm mark to the pivot. Record the va",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The student places the metre ruler on the pivot. She places a load P on the metre ruler at the 90.0 cm mark. She adjusts the position of the metre ruler on the pivot so that the metre ruler is as near as possible to being balanced. The ruler balances with the pivot at the 75.0 cm mark. Calculate the distance a from the 90.0 cm mark to the pivot. Record the va",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a = 15(.0) Axes correctly labelled and right way round 1 Suitable scales 1 All plots correct to ½ small square 1 Good line judgement, thin, continuous line 1 Triangle using at least ½ of candidate’s line between extreme plots. 1",
+          "image": "/papers/physics-0625-2023/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W = 2G with unit N W in range 1.0–1.4 1 OR difficult to judge position of (centre of) load OR load / ruler may slide October/November 2023 Question Answer Marks I = 0.76(A) V = 0.5 R = 0.7, 0.66 or 0.658 R / l = 0.035 or 0.033 cm, V,   / cm Conclusion to match results. Expect R increases as l increases / (directly) proportional / R / l constant Correct answer 1 Answer quoted to one or two significant figures 1 October/November 2023 Question Answer Marks",
+          "image": "/papers/physics-0625-2023/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "h O = 1.5 or 15 unit to match result, cm or mm 1 V = 80(.0) cm Working from candidate’s v value shown 1 I / h O correct and to 2 significant figures 1 Justification matches statement and includes idea of within (or beyond) the limits of experimental accuracy 1 Take at least 5 sets of readings in total (or take at least 3 additional sets of readings) 1 October/November 2023 Question Answer Marks 4 MP1 (stop)watch / clock / timer / chronometer 1 MP2 Measure / record time for evaporation / for water to disappear / for dish to become dry. 1 MP3 Repeat with a different volume / depth of water OR different distance of heater from water / different height of heater MP4 One from: Volume / depth of water (if not chosen variable) OR Height / distance of heater from water (if not chosen variable) MP5 One from: Room temperature / (initial) water temperature Reference to avoiding draughts owtte Surface area of water Second variable from MP4 if wrong investigation MP6 Table with clear columns for time and chosen variable with appropriate units. These must be headed with both a quantity (or a recognised symbol for it) and unit. MP7 Plot graph of chosen variable against time OR an answer which suggests comparing values of chosen variable and time in table Additional graph notes: NOTE: – The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled) So maximum 1. If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2023/q3-3a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit6-2023-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

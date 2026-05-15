@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2024-unit3-november-p33-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit3-november-p33-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/33",
+  "session": "October/November 2024",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Table 5.1 shows some properties of five halogens. Table 5.1 halogen melting point in °C boiling point in °C atomic volume in cm 3 / mol fluorine–220–188 chlorine–101–3522.7 bromine–7+5925.6 iodine+114+18425.8 astatine+33732.8 Use the information in Table 5.1 to predict: (i) the melting point of astatine ...............................................................................",
+      "text": "5 (a) Table 5.1 shows some properties of five halogens. Table 5.1 halogen melting point in °C boiling point in °C atomic volume in cm 3 / mol fluorine–220–188 chlorine–101–3522.7 bromine–7+5925.6 iodine+114+18425.8 astatine+33732.8 Use the information in Table 5.1 to predict: (i) the melting point of astatine ...............................................................................",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper(II) sulfate (1) blue (1) OR cobalt(II) chloride (1) red / pink (1) Question Answer Marks electrical conductor (1) thermal conductor (1) number of electrons in Cu 2+ = 27 (1) number of protons in Ca = 20 AND number of protons in Cu 2+ = 29 (1) nd box down ticked (They often act as catalysts.) 1 October/November 2024 Question Answer Marks if two marks not scored: one mark for one pair reversed OR reverse order",
+          "image": "/papers/chemistry-0620-2024/q5-5d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "manganese(IV) oxide loses oxygen Question Answer Marks • heat to point of crystallisation / heat to form saturated solution • filter off crystals / pick out crystals • dry with filter paper + ZnO + (2)HCl on the line on the left AND ZnCl and H O on the line on the right than the energy (level) of the poly(ethene) / the energy of the products is lower than the energy of the reactants pH 12: blue (1) Question Answer Marks October/November 2024 Question Answer Marks 1.6 0.4 negative electrode: magnesium (1) irregular / no (particular) arrangement (1) motion: sliding (over each other) / moving over each other (1) separation: close together (1)",
+          "image": "/papers/chemistry-0620-2024/q6-6e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit3-2024-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

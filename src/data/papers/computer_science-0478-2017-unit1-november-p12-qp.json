@@ -1,0 +1,139 @@
+{
+  "paperId": "computer_science-0478-2017-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2017",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Explain the differences between the binary number system and the denary number system. ................................................................................................................................................... ...................................................................................................................................................",
+      "text": "3 (a) Explain the differences between the binary number system and the denary number system. ................................................................................................................................................... ...................................................................................................................................................",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Five from: • Correct column headings / place holders by example • Correctly place a 1 or a 0 for each column • Identify the columns to be added • Add together the (denary) values identified « • « this will give a total which is the denary number/answer • Answer is 10 Method 1 Tick ( ) Method 2 Tick ( ) Serial Simplex Parallel Half-duplex Duplex four from ( Max 3 for serial): • Serial has less/lower interference • Serial is (more) reliable/accurate over distances • In serial the bits won’t be skewed • In serial it is easier to collate the bits together again after transmission • Duplex transmits data in both directions at the same time • simplex/half-duplex/remaining methods won’t allow read and write at same time 0478/12 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for error checking method, 2 marks for description: Checksum • A value is calculated from the data // Description of calculation • Value is transmitted with data • Value is recalculated after transmission • If the values match the data is (more likely to be) accurate Parity check • A parity bit is transmitted with each byte of data • Odd or even (parity can be used) • Counts / checks number of 1’s // counts / checks to see if 1’s are even // counts / checks to see if 1’s are odd • (Each byte is) checked after transmission to see if it matches the odd/even parity used Automatic Repeat Request (ARQ) • Uses acknowledgement and timeout • When a device detects an error in data transmission it asks for the packet to be resent / no error detected, positive acknowledgment sent • The sending device resends the packet after the request to resend/ timeout received • This process is continuous until the packet received is correct/until the ARQ limit is reached Echo (check) • Copy of data is sent back to sender • Data is compared to see if it matches • If it does not match error detected 0478/12 October/Novembe r four from: • Data / files • Stored in a text file • Downloaded to a user’s computer when a website is visited // webserver sends to web browser • Stored on a user’s computer • Stored by a browser • Detected by the website when it is visited again two from: e.g. • To store personal information/data • To store login details • To save items in an online shopping basket • To track/save internet surfing habits // to track website traffic • To carry out targeted advertising • To store payment details • To customise a webpage // to store user preferences • Store progress in online games/quizzes 1 mark for each correct term, in this order: • Interrupt • Compiler • ALU/Arithmetic and Logic Unit • ARQ/Automatic repeat request 0478/12 October/Novembe r 1 mark for each correct logic gate with the correct input(s) 0478/12 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q4.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "8 (a) A computer has 2048 MB of RAM. How many GB of RAM does the computer have? Show your working. ................................................................................................................................................... ...................................................................................................................",
+      "text": "8 (a) A computer has 2048 MB of RAM. How many GB of RAM does the computer have? Show your working. ................................................................................................................................................... ...................................................................................................................",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "8 (a) A computer has 2048 MB of RAM. How many GB of RAM does the computer have? Show your working. ................................................................................................................................................... ...................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct calculation method, 1 mark for correct answer: • 2048/1024 (or 1024 × 2) • 2 GB",
+          "image": "/papers/computer_science-0478-2017/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Instructions/programs/data • « currently in use three from: • RAM is volatile, ROM is non-volatile • RAM is temporary, ROM is (semi) permanent • RAM normally has a larger capacity than ROM • RAM can be edited ROM cannot be edited // Data can be read from and written to RAM, ROM can only be read from. 0478/12 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It is an input device • It measures/takes (physical) readings of the surrounding environment / environment by ex ample / physical properties",
+          "image": "/papers/computer_science-0478-2017/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each sensor, 2 marks for each description: Moisture (sensor) • To measure the water content of the soil • To alert when the soil is too dry or too wet/needs watering pH (sensor) • To measure how acidic/alkaline the soil is • To alert when there may be something polluting the soil Light (sensor) • To measure the brightness of the environment • To alert when the fruit has too little/too much light Temperature (sensor) • To measure the temperature of the environment • To alert when it is too hot/too cold for the fruit to grow Gas (sensor) • To measure the amount of CO2/oxygen present • To alert when too much CO2/oxygen present Humidity (sensor) • To measure the water content in the air • To alert when the air is too dry Infra-red / motion (sensor) • To measure level of infra-red/microwaves deflected • To alert to any intruders e.g. animals stealing the fruit 0478/12 October/Novembe r three from: • It is a (security) protocol • It encrypts data (sent over the web/network) • It is the updated version of SSL • It has two layers • It has a handshake layer • It has a record layer",
+          "image": "/papers/computer_science-0478-2017/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) Describe what is meant by Transport Layer Security (TLS). ................................................................................................................................................... ................................................................................................................................................... ................................",
+      "text": "10 (a) Describe what is meant by Transport Layer Security (TLS). ................................................................................................................................................... ................................................................................................................................................... ................................",
+      "parts": [
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct application, examples could include: • Online banking • Online shopping // Online payment systems • Email • Cloud based storage • Intranet/extranet • VPN • VoIP • Instant messaging (IM) // social networking 1 mark for each correct missing word, in the correct order: • Plagiarism • Free software • Freeware • Shareware • Ethics",
+          "image": "/papers/computer_science-0478-2017/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit1-2017-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

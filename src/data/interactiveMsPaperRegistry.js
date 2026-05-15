@@ -1,45 +1,89 @@
 /**
- * Eager-load Cambridge IGCSE / O Level mark-scheme JSON so Subject detail
- * paper lists stay in sync with files under src/data/papers (no manual map drift).
+ * Eager-load interactive QP/MS JSON from src/data/papers.
  */
+import {
+  isPaperAppReady,
+  isPaperViewableInApp,
+  normalizePaperForApp
+} from '../lib/paperSchema.js';
 
-const biology0610Modules = import.meta.glob('./papers/biology-0610-*-ms.json', { eager: true });
-const accounting0452Modules = import.meta.glob('./papers/accounting-0452-*-ms.json', { eager: true });
-const accounting7707Modules = import.meta.glob('./papers/accounting-7707-*-ms.json', { eager: true });
+/** Map JSON subjectId to UI subject id in subjects.js */
+const SUBJECT_ID_ALIASES = {
+  accounting_cambridge_olevel: 'accounting_olevel'
+};
 
-function buildMapAndList(modules) {
-  const map = {};
-  const list = [];
-  for (const mod of Object.values(modules)) {
-    const data = mod?.default ?? mod;
-    if (!data?.paperId) continue;
-    map[data.paperId] = data;
-    list.push({
-      id: data.paperId,
-      title: data.title || 'Mark scheme',
-      session: data.session || '',
-      code: data.code || '',
-      type: 'MS'
-    });
-  }
-  list.sort((a, b) => b.id.localeCompare(a.id));
-  return { map, list };
+function uiSubjectId(subjectId) {
+  return SUBJECT_ID_ALIASES[subjectId] || subjectId;
 }
 
-const biology0610 = buildMapAndList(biology0610Modules);
-const accounting0452 = buildMapAndList(accounting0452Modules);
-const accounting7707 = buildMapAndList(accounting7707Modules);
+const qpModules = import.meta.glob(
+  ['./papers/*-qp.json', './papers/biology-wbi*.json'],
+  { eager: true }
+);
+const msModules = import.meta.glob('./papers/*-ms.json', { eager: true });
 
-/** paperId → parsed JSON (for /paper interactive view) */
-export const GLOB_MS_INTERACTIVE_MAP = {
-  ...biology0610.map,
-  ...accounting0452.map,
-  ...accounting7707.map
-};
+function paperRow(data, type, interactive) {
+  return {
+    id: data.paperId,
+    title: data.title || (type === 'QP' ? 'Question paper' : 'Mark scheme'),
+    session: data.session || '',
+    code: data.code || '',
+    type,
+    interactive: Boolean(interactive),
+    hasMarkScheme: Boolean(data.hasMarkScheme)
+  };
+}
 
-/** App route subject id → paper row metadata for Subject detail */
-export const GLOB_MS_PAPER_LISTS = {
-  biology_igcse: biology0610.list,
-  accounting_igcse: accounting0452.list,
-  accounting_olevel: accounting7707.list
-};
+function buildRegistry() {
+  const map = {};
+  const listsBySubject = {};
+  const msById = {};
+
+  for (const mod of Object.values(msModules)) {
+    const data = mod?.default ?? mod;
+    if (data?.paperId) msById[data.paperId] = data;
+  }
+
+  const addPaper = (data, type, interactive = false) => {
+    if (!data?.paperId) return;
+    map[data.paperId] = data;
+    const sid = uiSubjectId(data.subjectId || 'unknown');
+    if (!listsBySubject[sid]) listsBySubject[sid] = [];
+    listsBySubject[sid].push(paperRow(data, type, interactive));
+  };
+
+  for (const mod of Object.values(msModules)) {
+    addPaper(mod?.default ?? mod, 'MS', false);
+  }
+
+  for (const mod of Object.values(qpModules)) {
+    const raw = mod?.default ?? mod;
+    const normalized = normalizePaperForApp(raw);
+    const interactive = isPaperViewableInApp(normalized);
+    const withMs = isPaperAppReady(normalized);
+    addPaper({ ...normalized, hasMarkScheme: withMs }, 'QP', interactive);
+    if (interactive) {
+      map[normalized.paperId] = normalized;
+    }
+  }
+
+  for (const sid of Object.keys(listsBySubject)) {
+    listsBySubject[sid].sort((a, b) => b.id.localeCompare(a.id));
+  }
+
+  const interactiveBySubject = {};
+  for (const [sid, list] of Object.entries(listsBySubject)) {
+    interactiveBySubject[sid] = list.filter(
+      (p) => p.type === 'QP' && p.interactive
+    );
+  }
+
+  return { map, listsBySubject, interactiveBySubject, msById };
+}
+
+const registry = buildRegistry();
+
+export const GLOB_MS_INTERACTIVE_MAP = registry.map;
+export const GLOB_MS_PAPER_LISTS = registry.listsBySubject;
+export const GLOB_INTERACTIVE_QP_LISTS = registry.interactiveBySubject;
+export const GLOB_MS_BY_ID = registry.msById;

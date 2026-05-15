@@ -1,0 +1,115 @@
+{
+  "paperId": "chemistry-0620-2020-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A delivery tube B trough / absorb / soak up the wate r",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "error: bung in (collecting) tube / the apparatus is sealed / water cannot get out of the boiling tube explanation: (pressure would increase and so the apparatus / tube would) explode / break",
+          "image": "/papers/chemistry-0620-2020/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "arrows under both zinc and mineral wool result: pops",
+          "image": "/papers/chemistry-0620-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Experiment 1 readings correct and readings recorded correctly with final > initial (37.2; 0.0) Experiment 2 readings correct and readings recorded correctly with final > initial (17.9; 5.5) both subtractions to get volume added correct (37.2; 12.4) all results figures for both experiments recorded to 1 dp or bette r",
+          "image": "/papers/chemistry-0620-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "many colour changes / keeps changing colou r / hard to determine the end point B (Experiment 2) and volume (of B) was less (than volume of A) 3 (times more concentrated)",
+          "image": "/papers/chemistry-0620-2020/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "12.4 ÷ 2.5 = 4.96 or 5(.0) cm 0620/63 October/November 2020 and compare the results / more precise (than a measuring cylinder) (pipette measures a) fixed volume / cm to remove solution A to remove (distilled) water r / highe r / bigge r the water dilutes solution B / makes solution B less concentrated / CO acid / contains H + / hydrogen ions OR remains OR does not dissolve 0620/63 October/November 2020",
+          "image": "/papers/chemistry-0620-2020/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "drops: no reaction OR no change OR remains colourless OR faint / slight (white) precipitate excess: no reaction OR no change OR remains colourless OR faint / slight (white) precipitate / precipitate remains / does not dissolve OR no change OR remains colourless any 6 from: • weigh toothpaste • add (dilute) hydrochloric acid • to excess / until no more fizzing • filter • wash residue / silica (with water) and dry • weigh residue / silica • (mass silica / initial mass) × 100(%) max 6",
+          "image": "/papers/chemistry-0620-2020/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit6-2020-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

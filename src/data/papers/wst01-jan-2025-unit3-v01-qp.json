@@ -1,0 +1,97 @@
+{
+  "paperId": "wst01-jan-2025-unit3-v01-qp",
+  "pairedMarkSchemeId": "wst01-jan-2025-unit3-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WST01/01",
+  "session": "January 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 B1 (2) (b) (i) P() 0.3 (0.1 0.3) 0.7 (0.2 0.45)W ′ =× + +× + or P() 1 (0.3 0.6 0.7 0.35)W ′ =− ×+× = 0.575 M1 A1 (2) (ii) P()0.7 (0.2 0.45) P( |) P()' 0.575 ' BW BW W ′ ∩×+ ′ == ′ M1 = A1 (2) Notes Total 6 (a) B1 At least 5 probabilities correct (allow fraction, percentage or decimal) But do not allow eg 3.5 or 35 (without percentage symbol) B1 All 8 probabilities correct (allow fraction, percentage or decimal) But do not allow eg 3.5 or 35 (without percentage symbol) (b)(i) M1 Correct probability expression ft the probabilities from their part (a) A1 oe allow equivalent fraction, decimal or percentage (ii) M1 Correct method for conditional probability used ft their part (a) and ft their (b)(i) A1 awrt 0.791 allow awrt 79.1% Number Scheme Marks",
+          "image": "/papers/wst01-jan-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wst01-jan-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A 13 B 7 16 20 C B1 B1 B1ft B1 (4) (b) P( ) A= P( ) C= P() AC∩= P( ) A= P( | ) AC= M1 P( ) P( ) P()A CAC ×=∩ therefore (A and C are) independent P( ) P( | )AAC= therefore (A and C are) independent A1 (2) (c)(i) '13 ' '16 ' ' 20 '49 ++  =   B1ft (1) (ii) P(likes B|likes C) = '12 ' '10 ' '12 ' '10 ' '8 ' ' 20 ' + + ++ = M1 A1 (2) Notes Total 9 (a) In part (a) allow the numbers in the Venn diagram written as probabilities eg 0.12, 0.07, 0.08 etc. B1 12 correct in the centre of the Venn diagram B1 At least two of 7, 8 and 10 correct B1ft Any one of 13, 16 or 20 correct ft their 7,8,10 and 12 (must be positive) such that the 4 regions of A = 40 or the 4 regions of B = 45 or the 4 regions of C =50 Do not accept blank regions as 0 for ft. B1 All correct including the 14 (b) M1 Labelling all of the probabilities needed for a test of independence (probabilities must be correct or correct ft from their Venn diagram). Must use A and C Either P( ), P( ) and P()A CAC∩ or eg P( ) and P( | )AAC A1 Stating correct test with correct values P( ) P( )P()ACAC×=∩ or eg P( )P( | )AAC= and correct conclusion of independence (c)(i) B1ft Ft their “13”, “16” and “20” provided the answer is a probability (ii) M1 Correct method for conditional probability using all appropriate regions of their Venn Diagram Condone n (provided it does not come from simplification of n ) or n with 34n„ scores M1 Assuming independence is M0 eg × A1 0.44 oe Number Scheme Marks 640 700 P(640)P SZ −  >=>   M1 awrt 0.885 A1 (2) (ii) 675725S<< M1 P(675725)P(725) P(675)S SS<< = < − < or use of symmetry to find correct area M1 725 700 P(725)P SZ −  <=<   or 675 700 P(675)P SZ −  <=<   () 0.6915 – 1 – 0.6915 P( 0.50.5)Z− << = or 1 2 0.3085−× or 2 (0.6915 0.5)×− M1 A1 = 0.383 awrt 0.383 A1 (5) (b)(i) 1.5 μ σ − = 0.5244 μ σ − = − M1A1 A1 (3) (ii) (680) (599) 1.5( 0.5244)μ μσσ− − − = −− M1 (81 2.0244 )σ = 40.01185 σ = 619.98.... μ= awrt 40 (to 2sf) awrt 620 (to 3sf) A1A1 (3) Total 13 (a)(i) M1 Attemp",
+          "image": "/papers/wst01-jan-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wst01-jan-2025/page-11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wst01-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA13-2025-unit3-2025-06-01A-qp.pdf",
+    "pageImages": [
+      "/papers/wst01-jan-2025/page-01.png",
+      "/papers/wst01-jan-2025/page-02.png",
+      "/papers/wst01-jan-2025/page-03.png",
+      "/papers/wst01-jan-2025/page-04.png",
+      "/papers/wst01-jan-2025/page-05.png",
+      "/papers/wst01-jan-2025/page-06.png",
+      "/papers/wst01-jan-2025/page-07.png",
+      "/papers/wst01-jan-2025/page-08.png",
+      "/papers/wst01-jan-2025/page-09.png",
+      "/papers/wst01-jan-2025/page-10.png",
+      "/papers/wst01-jan-2025/page-11.png",
+      "/papers/wst01-jan-2025/page-12.png",
+      "/papers/wst01-jan-2025/page-13.png",
+      "/papers/wst01-jan-2025/page-14.png",
+      "/papers/wst01-jan-2025/page-15.png",
+      "/papers/wst01-jan-2025/page-16.png",
+      "/papers/wst01-jan-2025/page-17.png",
+      "/papers/wst01-jan-2025/page-18.png",
+      "/papers/wst01-jan-2025/page-19.png",
+      "/papers/wst01-jan-2025/page-20.png",
+      "/papers/wst01-jan-2025/page-21.png",
+      "/papers/wst01-jan-2025/page-22.png",
+      "/papers/wst01-jan-2025/page-23.png",
+      "/papers/wst01-jan-2025/page-24.png",
+      "/papers/wst01-jan-2025/page-25.png",
+      "/papers/wst01-jan-2025/page-26.png",
+      "/papers/wst01-jan-2025/page-27.png",
+      "/papers/wst01-jan-2025/page-28.png",
+      "/papers/wst01-jan-2025/page-29.png",
+      "/papers/wst01-jan-2025/page-30.png",
+      "/papers/wst01-jan-2025/page-31.png",
+      "/papers/wst01-jan-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

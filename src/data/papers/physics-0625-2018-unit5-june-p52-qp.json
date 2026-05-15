@@ -1,0 +1,79 @@
+{
+  "paperId": "physics-0625-2018-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value for θ R with unit t values temperatures decreasing axes correctly labelled and right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2018/q2-2a.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "horizontal line at θ R correctly positioned two from: higher starting temperature use of metal can instead of beaker lower room temperature/cold water bath use of a fan container with a greater surface area/larger beaker one from: perpendicular viewing of thermometer wait for thermometer to reach θ MAX before reading not allow thermometer to touch sides of beaker 0625/52 May/June 2018 v = 45 to 80 (cm) f in range 14 to 16 (cm) v = 25 to 35 (cm) f correct calculation within 10% of f",
+          "image": "/papers/physics-0625-2018/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f to 2 or 3 significant figures unit seen in (a) , (b) or (c) and not contradicted",
+          "image": "/papers/physics-0625-2018/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "at least 3 values suggested new values between 20 cm and 70 cm two from: use of darkened room/brighter lamp mark position of centre of lens on holder place metre rule on bench/clamp in position) ensure object and (centre of) lens are same height from the bench object and lens and screen perpendicular to bench move screen slowly/back and forth to obtain best image 0625/52 May/June 2018 method to include: place truck on ramp and (release) measure distance (travelled) from bottom of ramp repeat with different mass(es) (loaded on the same truck) additional apparatus: (metre) rule(r) / measuring tape variables: height/angle of ramp/number of supporting bricks release position/height above bench table with clear columns for mass, and distance travelled, with appropriate units in the headings of the table 0625/52 May/June 2018 Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The onl y marks available in this case are the first (axes right way round and labelled) so maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2018/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit5-2018-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

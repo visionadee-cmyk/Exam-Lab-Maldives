@@ -1,0 +1,650 @@
+{
+  "paperId": "physics-0625-2014-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "physics-0625-2014-unit1-november-p13-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/13",
+  "session": "October/November 2014",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A stopwatch is used to time a runner in a race. The diagrams show the stopwatch at the start and at the end of a lap of the race. start of lapend of lap 0 : 50 : 101 : 40 : 10 How long did the runner take to finish the lap of the race? A 50.00 seconds, B 50.10 seconds, C 90.00 seconds, D 100.10 seconds",
+      "text": "A stopwatch is used to time a runner in a race. The diagrams show the stopwatch at the start and at the end of a lap of the race. start of lapend of lap 0 : 50 : 101 : 40 : 10 How long did the runner take to finish the lap of the race? A 50.00 seconds, B 50.10 seconds, C 90.00 seconds, D 100.10 seconds",
+      "options": [
+        "A 50.00 seconds",
+        "B 50.10 seconds",
+        "C 90.00 seconds",
+        "D 100.10 seconds"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of a car changes with time. speed U V              W              X              Y time 0 Between which two times is the car stationary? A U and V B   V and W C   W and X D   X and Y 3",
+      "text": "The graph shows how the speed of a car changes with time. speed U V              W              X              Y time 0 Between which two times is the car stationary? A U and V B   V and W C   W and X D   X and Y 3",
+      "options": [
+        "A U and V B   V and W C   W and X D   X and Y 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An  aeroplane  flies  from  town  X  to  town  Z,  stopping  for  1  hour  at  town  Y  to  pick  up  more passengers. The distances between the towns are shown in the diagram. 300 km 200 km Y X Z The total time taken between leaving X and arriving at Z is 3 hours. What is the average speed of the aeroplane in the air? A 4 500 km / h B 3 500 km / h C 2 500 km / h D 1 500 km / h",
+      "text": "An  aeroplane  flies  from  town  X  to  town  Z,  stopping  for  1  hour  at  town  Y  to  pick  up  more passengers. The distances between the towns are shown in the diagram. 300 km 200 km Y X Z The total time taken between leaving X and arriving at Z is 3 hours. What is the average speed of the aeroplane in the air? A 4 500 km / h B 3 500 km / h C 2 500 km / h D 1 500 km / h",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The mass of an astronaut is 70 kg on the Moon. What is the mass of the astronaut on the Earth? A 7 kg B 70 kg C 80 kg D 700 kg",
+      "text": "The mass of an astronaut is 70 kg on the Moon. What is the mass of the astronaut on the Earth? A 7 kg B 70 kg C 80 kg D 700 kg",
+      "options": [
+        "A 7 kg B 70 kg C 80 kg D 700 kg"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The weight of an object is found using the balance shown in the diagram. The object is put in the left-hand pan and various weights are put in the right-hand pan. objectweights These are the results. weights in the right-hand pan effect 0.1 N, 0.1 N, 0.05 N, 0.02 N balance tips down slightly on the left-hand side 0.2 N, 0.1 N, 0.01 N balance tips down slightly on the right-hand side What is the best estimate of the weight of the object? A 0.27 N B 0.29 N C 0.31 N D 0.58 N 4",
+      "text": "The weight of an object is found using the balance shown in the diagram. The object is put in the left-hand pan and various weights are put in the right-hand pan. objectweights These are the results. weights in the right-hand pan effect 0.1 N, 0.1 N, 0.05 N, 0.02 N balance tips down slightly on the left-hand side 0.2 N, 0.1 N, 0.01 N balance tips down slightly on the right-hand side What is the best estimate of the weight of the object? A 0.27 N B 0.29 N C 0.31 N D 0.58 N 4",
+      "options": [
+        "A 0.27 N B 0.29 N C 0.31 N D 0.58 N 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows an empty measuring cylinder on a balance. Diagram 2 shows the same measuring cylinder on the balance, but it now contains a liquid. cm 3 diagram 1 16.0 14.0 12.0 10.0 8.0 6.0 4.0 2.0 g cm 3 diagram 2 16.0 14.0 12.0 10.0 8.0 6.0 4.0 2.0 g What is the density of the liquid? A 0.2 g / cm 3, B 0.5 g / cm 3, C 2.0 g / cm 3, D 5.0 g / cm 3",
+      "text": "Diagram 1 shows an empty measuring cylinder on a balance. Diagram 2 shows the same measuring cylinder on the balance, but it now contains a liquid. cm 3 diagram 1 16.0 14.0 12.0 10.0 8.0 6.0 4.0 2.0 g cm 3 diagram 2 16.0 14.0 12.0 10.0 8.0 6.0 4.0 2.0 g What is the density of the liquid? A 0.2 g / cm 3, B 0.5 g / cm 3, C 2.0 g / cm 3, D 5.0 g / cm 3",
+      "options": [
+        "A 0.2 g / cm 3",
+        "B 0.5 g / cm 3",
+        "C 2.0 g / cm 3",
+        "D 5.0 g / cm 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In which situation is no resultant force needed? A a car changing direction at a steady speed, B a car moving in a straight line at a steady speed, C a car slowing down, D a car speeding up 5",
+      "text": "In which situation is no resultant force needed? A a car changing direction at a steady speed, B a car moving in a straight line at a steady speed, C a car slowing down, D a car speeding up 5",
+      "options": [
+        "A a car changing direction at a steady speed",
+        "B a car moving in a straight line at a steady speed",
+        "C a car slowing down",
+        "D a car speeding up 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a uniform, flat metal sheet hanging freely from a nail at point A. A weight also hangs freely on a string tied to A. One of the labelled points is at the centre of mass of the metal sheet. Which point is at the centre of mass? nail metal sheet weight A B C D",
+      "text": "The diagram shows a uniform, flat metal sheet hanging freely from a nail at point A. A weight also hangs freely on a string tied to A. One of the labelled points is at the centre of mass of the metal sheet. Which point is at the centre of mass? nail metal sheet weight A B C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When a bicycle lamp is switched on, what is the useful energy change within the battery? A chemical energy to electrical energy, B electrical energy to chemical energy, C electrical energy to light energy, D light energy to chemical energy",
+      "text": "When a bicycle lamp is switched on, what is the useful energy change within the battery? A chemical energy to electrical energy, B electrical energy to chemical energy, C electrical energy to light energy, D light energy to chemical energy",
+      "options": [
+        "A chemical energy to electrical energy",
+        "B electrical energy to chemical energy",
+        "C electrical energy to light energy",
+        "D light energy to chemical energy"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student does some work by pulling a suitcase along a corridor. She now pulls a second suitcase along the corridor. Which row indicates that the student is now doing twice as much work? the force used to pull suitcase the distance the suitcase is pulled A is doubled is doubled, B is doubled is halved, C stays the same is doubled, D stays the same is halved 6",
+      "text": "A student does some work by pulling a suitcase along a corridor. She now pulls a second suitcase along the corridor. Which row indicates that the student is now doing twice as much work? the force used to pull suitcase the distance the suitcase is pulled A is doubled is doubled, B is doubled is halved, C stays the same is doubled, D stays the same is halved 6",
+      "options": [
+        "A is doubled is doubled",
+        "B is doubled is halved",
+        "C stays the same is doubled",
+        "D stays the same is halved 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The scale diagram shows three identical blocks, P, Q and R. The blocks have different areas of contact with the ground. PQR Which block exerts the greatest pressure on the ground? A block   P, B block   Q, C block   R, D they all exert the same pressure",
+      "text": "The scale diagram shows three identical blocks, P, Q and R. The blocks have different areas of contact with the ground. PQR Which block exerts the greatest pressure on the ground? A block   P, B block   Q, C block   R, D they all exert the same pressure",
+      "options": [
+        "A block   P",
+        "B block   Q",
+        "C block   R",
+        "D they all exert the same pressure"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A manometer is used to measure the pressure of the air in a container. h connection to container manometer liquid Which change would give a bigger value of height h ? A using a less dense liquid, B using a more dense liquid, C using a narrower tube, D using a wider tube 7",
+      "text": "A manometer is used to measure the pressure of the air in a container. h connection to container manometer liquid Which change would give a bigger value of height h ? A using a less dense liquid, B using a more dense liquid, C using a narrower tube, D using a wider tube 7",
+      "options": [
+        "A using a less dense liquid",
+        "B using a more dense liquid",
+        "C using a narrower tube",
+        "D using a wider tube 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  volume  of  a  gas  in  a  sealed  syringe  is  increased.  The  temperature  of  the  gas  does  not change. before change after change After this change is made, what has happened to the gas molecules in the syringe? A They move more quickly., B They move more slowly., C They hit the syringe walls less often., D They hit the syringe walls more often.",
+      "text": "The  volume  of  a  gas  in  a  sealed  syringe  is  increased.  The  temperature  of  the  gas  does  not change. before change after change After this change is made, what has happened to the gas molecules in the syringe? A They move more quickly., B They move more slowly., C They hit the syringe walls less often., D They hit the syringe walls more often.",
+      "options": [
+        "A They move more quickly.",
+        "B They move more slowly.",
+        "C They hit the syringe walls less often.",
+        "D They hit the syringe walls more often."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some liquid is poured into a metal dish on a wooden table. The dish, the liquid, the table and the air around the dish are all at the same temperature. metal dish liquid wooden table The temperature of the liquid now starts to decrease. What could cause this temperature decrease? A convection currents in the liquid, B conduction of heat through the metal dish, C evaporation of the liquid, D heat radiation from the liquid 8",
+      "text": "Some liquid is poured into a metal dish on a wooden table. The dish, the liquid, the table and the air around the dish are all at the same temperature. metal dish liquid wooden table The temperature of the liquid now starts to decrease. What could cause this temperature decrease? A convection currents in the liquid, B conduction of heat through the metal dish, C evaporation of the liquid, D heat radiation from the liquid 8",
+      "options": [
+        "A convection currents in the liquid",
+        "B conduction of heat through the metal dish",
+        "C evaporation of the liquid",
+        "D heat radiation from the liquid 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows four labelled changes of state between solid, liquid and gas. solidliquidgas P S Q R Which changes need an energy input? A P and Q B Q and R C R and S D S and P",
+      "text": "The diagram shows four labelled changes of state between solid, liquid and gas. solidliquidgas P S Q R Which changes need an energy input? A P and Q B Q and R C R and S D S and P",
+      "options": [
+        "A P and Q B Q and R C R and S D S and P"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Equal masses of two different liquids are put into identical beakers. Liquid 1 is heated for 100 s and liquid 2 is heated for 200 s by heaters of the same power. The temperature of both liquids increases by the same amount. liquid 1liquid 2 heating time = 100 sheating time = 200 s heaters of same power different liquids of same mass Which statement is correct? A Both liquids receive the same amount of energy., B Liquid 1 receives more energy than liquid 2., C Both liquids have equal thermal capacity., D The thermal capacity of liquid 1 is less than the thermal capacity of liquid 2. 9",
+      "text": "Equal masses of two different liquids are put into identical beakers. Liquid 1 is heated for 100 s and liquid 2 is heated for 200 s by heaters of the same power. The temperature of both liquids increases by the same amount. liquid 1liquid 2 heating time = 100 sheating time = 200 s heaters of same power different liquids of same mass Which statement is correct? A Both liquids receive the same amount of energy., B Liquid 1 receives more energy than liquid 2., C Both liquids have equal thermal capacity., D The thermal capacity of liquid 1 is less than the thermal capacity of liquid 2. 9",
+      "options": [
+        "A Both liquids receive the same amount of energy.",
+        "B Liquid 1 receives more energy than liquid 2.",
+        "C Both liquids have equal thermal capacity.",
+        "D The thermal capacity of liquid 1 is less than the thermal capacity of liquid 2. 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two methods by which thermal energy can be transferred are conduction and radiation. Which statement is correct? A Conduction involves density changes in fluids., B Conduction only occurs in solids., C Radiation cannot occur in a vacuum., D Radiation involves electromagnetic waves.",
+      "text": "Two methods by which thermal energy can be transferred are conduction and radiation. Which statement is correct? A Conduction involves density changes in fluids., B Conduction only occurs in solids., C Radiation cannot occur in a vacuum., D Radiation involves electromagnetic waves.",
+      "options": [
+        "A Conduction involves density changes in fluids.",
+        "B Conduction only occurs in solids.",
+        "C Radiation cannot occur in a vacuum.",
+        "D Radiation involves electromagnetic waves."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A heater is to be fitted in a room to warm the air throughout the room. The diagram shows two possible positions to fit the heater, P and Q. position P position Q room Which position is better and why? position               why? A P warmer air is less dense and rises, B P warmer air is more dense and rises, C Q warmer air is less dense and falls, D Q warmer air is more dense and falls 10",
+      "text": "A heater is to be fitted in a room to warm the air throughout the room. The diagram shows two possible positions to fit the heater, P and Q. position P position Q room Which position is better and why? position               why? A P warmer air is less dense and rises, B P warmer air is more dense and rises, C Q warmer air is less dense and falls, D Q warmer air is more dense and falls 10",
+      "options": [
+        "A P warmer air is less dense and rises",
+        "B P warmer air is more dense and rises",
+        "C Q warmer air is less dense and falls",
+        "D Q warmer air is more dense and falls 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows four waves drawn to the same scale. 0 0 P distance 0 0 Q distance 0 0 R distance 0 0 S distance displacementdisplacement displacementdisplacement Which statement is correct? A The amplitude of wave P is the same as the amplitude of wave R., B The amplitude of wave S is double the amplitude of wave Q., C The wavelength of wave Q is double the wavelength of wave P., D The wavelength of wave S is the same as the wavelength of wave Q.",
+      "text": "The diagram shows four waves drawn to the same scale. 0 0 P distance 0 0 Q distance 0 0 R distance 0 0 S distance displacementdisplacement displacementdisplacement Which statement is correct? A The amplitude of wave P is the same as the amplitude of wave R., B The amplitude of wave S is double the amplitude of wave Q., C The wavelength of wave Q is double the wavelength of wave P., D The wavelength of wave S is the same as the wavelength of wave Q.",
+      "options": [
+        "A The amplitude of wave P is the same as the amplitude of wave R.",
+        "B The amplitude of wave S is double the amplitude of wave Q.",
+        "C The wavelength of wave Q is double the wavelength of wave P.",
+        "D The wavelength of wave S is the same as the wavelength of wave Q."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Waves travel more quickly on the surface of water when the water is deep. A stone is dropped at point X into a pool of varying depth. The diagram shows the first wavefront on the surface of the pool. The region between X and which labelled point is likely to be the deepest? wavefront A B D C X 11",
+      "text": "Waves travel more quickly on the surface of water when the water is deep. A stone is dropped at point X into a pool of varying depth. The diagram shows the first wavefront on the surface of the pool. The region between X and which labelled point is likely to be the deepest? wavefront A B D C X 11",
+      "options": [
+        "A stone is dropped at point X into a pool of varying depth. The diagram shows the first wavefront on the surface of the pool. The region between X and which labelled point is likely to be the deepest? wavefront A B D C X 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An intruder alarm sensor detects that a human is warmer than his surroundings. Which type of electromagnetic wave does the sensor detect? A infra-red, B radio, C ultraviolet, D visible   light",
+      "text": "An intruder alarm sensor detects that a human is warmer than his surroundings. Which type of electromagnetic wave does the sensor detect? A infra-red, B radio, C ultraviolet, D visible   light",
+      "options": [
+        "A infra-red",
+        "B radio",
+        "C ultraviolet",
+        "D visible   light"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which waves are longitudinal? 88:88 BA                                                                            CD light waves from a lamp microwaves in an oven water waves on a pond sound waves from a trumpet",
+      "text": "Which waves are longitudinal? 88:88 BA                                                                            CD light waves from a lamp microwaves in an oven water waves on a pond sound waves from a trumpet",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is placed in front of a converging lens. The lens has a focal length f. In which labelled position should the object be placed in order to produce a real image of the object that is smaller than the object? ABCD 2f f lens 12",
+      "text": "An object is placed in front of a converging lens. The lens has a focal length f. In which labelled position should the object be placed in order to produce a real image of the object that is smaller than the object? ABCD 2f f lens 12",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three vibrating objects P, Q and R produce waves in the air of different frequencies as shown. object      frequency / Hz P            25 Q           1000 R          15 000 Which of these waves can be heard by a human ear? A P, Q and R, B P and Q only, C P and R only, D Q and R only",
+      "text": "Three vibrating objects P, Q and R produce waves in the air of different frequencies as shown. object      frequency / Hz P            25 Q           1000 R          15 000 Which of these waves can be heard by a human ear? A P, Q and R, B P and Q only, C P and R only, D Q and R only",
+      "options": [
+        "A P, Q and R",
+        "B P and Q only",
+        "C P and R only",
+        "D Q and R only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an experiment to measure the speed of sound, a student uses a stopwatch to find the time taken for a sound wave to travel from X to Y. She does this six times. sound travels from X to Y XY The table shows her results. measurement   time / s first            0.5 second         0.7 third           0.6 fourth          0.4 fifth            0.9 sixth           0.5 Which value for the time should be used to calculate the speed of sound? A 0.4 s B   0.5 s C   0.6 s D   0.9 s 13",
+      "text": "In an experiment to measure the speed of sound, a student uses a stopwatch to find the time taken for a sound wave to travel from X to Y. She does this six times. sound travels from X to Y XY The table shows her results. measurement   time / s first            0.5 second         0.7 third           0.6 fourth          0.4 fifth            0.9 sixth           0.5 Which value for the time should be used to calculate the speed of sound? A 0.4 s B   0.5 s C   0.6 s D   0.9 s 13",
+      "options": [
+        "A 0.4 s B   0.5 s C   0.6 s D   0.9 s 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The ends of three metal rods are tested by holding end Q of rod 1 close to the others in turn. rod 1rod 2rod 3 Q R S T U The results are as follows. End Q:  attracts end R, attracts end S, attracts end T, repels end U. Which of the metal rods is a magnet? A rod 1 only, B rod 1 and rod 2, C rod 1 and rod 3, D rod 3 only",
+      "text": "The ends of three metal rods are tested by holding end Q of rod 1 close to the others in turn. rod 1rod 2rod 3 Q R S T U The results are as follows. End Q:  attracts end R, attracts end S, attracts end T, repels end U. Which of the metal rods is a magnet? A rod 1 only, B rod 1 and rod 2, C rod 1 and rod 3, D rod 3 only",
+      "options": [
+        "A rod 1 only",
+        "B rod 1 and rod 2",
+        "C rod 1 and rod 3",
+        "D rod 3 only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows two bar magnets, stored with metal keepers across the ends. The keepers help to keep the magnets magnetised. magnet magnet keeperkeeper The material used for the keepers becomes strongly magnetised when placed in contact with the magnets, but does not remain magnetised when taken away from the magnets. What  is  a  suitable  metal  to  use  for  the  magnets  and  what  is  a  suitable  metal  to  use  for  the keepers? metal for magnets metal for keepers A iron          iron, B iron         steel, C steel         iron, D steel         steel 14",
+      "text": "The diagram shows two bar magnets, stored with metal keepers across the ends. The keepers help to keep the magnets magnetised. magnet magnet keeperkeeper The material used for the keepers becomes strongly magnetised when placed in contact with the magnets, but does not remain magnetised when taken away from the magnets. What  is  a  suitable  metal  to  use  for  the  magnets  and  what  is  a  suitable  metal  to  use  for  the keepers? metal for magnets metal for keepers A iron          iron, B iron         steel, C steel         iron, D steel         steel 14",
+      "options": [
+        "A iron          iron",
+        "B iron         steel",
+        "C steel         iron",
+        "D steel         steel 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four wires are made from the same material. Which wire has the least resistance? diameter of wire / mm length of wire / cm A 0.2         100, B 0.2         200, C 0.4         100, D 0.4         200",
+      "text": "Four wires are made from the same material. Which wire has the least resistance? diameter of wire / mm length of wire / cm A 0.2         100, B 0.2         200, C 0.4         100, D 0.4         200",
+      "options": [
+        "A 0.2         100",
+        "B 0.2         200",
+        "C 0.4         100",
+        "D 0.4         200"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  30 Ω resistor is connected in series with another resistor and a 6.0 V battery. The current in the circuit is 0.12 A. A voltmeter is connected across the other resistor.",
+      "text": "A  30 Ω resistor is connected in series with another resistor and a 6.0 V battery. The current in the circuit is 0.12 A. A voltmeter is connected across the other resistor.",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Ω V 0.12 A 6.0 V What is the reading on the voltmeter? A 2.4 V B   3.6 V C   6.0 V D   9.6 V 30  A circuit contains four ammeters A, B, C and D, and three resistors with different values. Which ammeter shows the largest reading? A A A A 20 Ω 10 Ω 30 Ω A B C D 15",
+      "text": "Ω V 0.12 A 6.0 V What is the reading on the voltmeter? A 2.4 V B   3.6 V C   6.0 V D   9.6 V 30  A circuit contains four ammeters A, B, C and D, and three resistors with different values. Which ammeter shows the largest reading? A A A A 20 Ω 10 Ω 30 Ω A B C D 15",
+      "options": [
+        "A 2.4 V B   3.6 V C   6.0 V D   9.6 V 30  A circuit contains four ammeters A, B, C and D, and three resistors with different values. Which ammeter shows the largest reading? A A A A 20 Ω 10 Ω 30 Ω A B C D 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a torch containing two cells, a switch and a lamp. plastic case brass connecting strip switch lamp cells Which is the circuit diagram for the torch? C B A D",
+      "text": "The diagram shows a torch containing two cells, a switch and a lamp. plastic case brass connecting strip switch lamp cells Which is the circuit diagram for the torch? C B A D",
+      "options": [
+        "C B A D"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  a  circuit  with  a  fixed  resistor  connected  in  series  with  a  light-dependent resistor (LDR). A voltmeter is connected across the LDR. V A bright lamp shines light onto the LDR. The lamp is then switched off and this causes the voltmeter reading to change. Which  row  shows  the  change  in  the  resistance  of  the  LDR  and  the  change  in  the  voltmeter reading when the lamp is switched off? resistance of LDR voltmeter reading, A decreases     decreases, B decreases      increases, C increases      decreases, D increases      increases 16",
+      "text": "The  diagram  shows  a  circuit  with  a  fixed  resistor  connected  in  series  with  a  light-dependent resistor (LDR). A voltmeter is connected across the LDR. V A bright lamp shines light onto the LDR. The lamp is then switched off and this causes the voltmeter reading to change. Which  row  shows  the  change  in  the  resistance  of  the  LDR  and  the  change  in  the  voltmeter reading when the lamp is switched off? resistance of LDR voltmeter reading, A decreases     decreases, B decreases      increases, C increases      decreases, D increases      increases 16",
+      "options": [
+        "A bright lamp shines light onto the LDR. The lamp is then switched off and this causes the voltmeter reading to change. Which  row  shows  the  change  in  the  resistance  of  the  LDR  and  the  change  in  the  voltmeter reading when the lamp is switched off? resistance of LDR voltmeter reading",
+        "A decreases     decreases",
+        "B decreases      increases",
+        "C increases      decreases",
+        "D increases      increases 16"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The current in an electrical heater is 5.0 A. The heater is connected to the mains by a flexible cable that can carry a current of up to 15 A. The mains circuit can carry a current of up to 30 A. Different fuses are available for the heater. Which fuse is the most suitable? A 4.0, A B   10 A C   20 A D   40 A",
+      "text": "The current in an electrical heater is 5.0 A. The heater is connected to the mains by a flexible cable that can carry a current of up to 15 A. The mains circuit can carry a current of up to 30 A. Different fuses are available for the heater. Which fuse is the most suitable? A 4.0, A B   10 A C   20 A D   40 A",
+      "options": [
+        "A 4.0",
+        "A B   10 A C   20 A D   40 A"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a thin copper wire in a magnetic field. The current in the wire is from right to left. This causes an upward force on the wire. force on wire current The direction of the current and the direction of the magnetic field are both reversed. In which direction does the force act on the wire, after these changes are made? A downwards, B into the page, C out of the page, D upwards",
+      "text": "The diagram shows a thin copper wire in a magnetic field. The current in the wire is from right to left. This causes an upward force on the wire. force on wire current The direction of the current and the direction of the magnetic field are both reversed. In which direction does the force act on the wire, after these changes are made? A downwards, B into the page, C out of the page, D upwards",
+      "options": [
+        "A downwards",
+        "B into the page",
+        "C out of the page",
+        "D upwards"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is  inserted  into  one  end  of  the solenoid. The ammeter shows that there is a small electric current in the circuit while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod 17",
+      "text": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is  inserted  into  one  end  of  the solenoid. The ammeter shows that there is a small electric current in the circuit while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod 17",
+      "options": [
+        "A a heated copper rod",
+        "B a magnetised steel rod",
+        "C an uncharged nylon rod",
+        "D a radioactive uranium rod 17"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the structure of a transformer. primary coil core Which row shows a suitable material for the primary coil and a suitable material for the core? primary coil core A copper          copper, B copper           iron, C iron           copper, D iron            iron",
+      "text": "The diagram shows the structure of a transformer. primary coil core Which row shows a suitable material for the primary coil and a suitable material for the core? primary coil core A copper          copper, B copper           iron, C iron           copper, D iron            iron",
+      "options": [
+        "A copper          copper",
+        "B copper           iron",
+        "C iron           copper",
+        "D iron            iron"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In a cathode-ray tube, a hot tungsten cathode releases particles by thermionic emission. What are these particles? A α-particles, B electrons, C protons, D tungsten atoms 18",
+      "text": "In a cathode-ray tube, a hot tungsten cathode releases particles by thermionic emission. What are these particles? A α-particles, B electrons, C protons, D tungsten atoms 18",
+      "options": [
+        "A α-particles",
+        "B electrons",
+        "C protons",
+        "D tungsten atoms 18"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A radioactive source emits three types of radiation R, S and T. The diagram shows an experiment set up to study the penetrating properties of R, S and T. paperfew mm of aluminium few cm of lead R T S Which types of radiation are R, S and T? R          S          T A α-particles β-particles γ-rays, B α-particles γ-rays β-particles, C β-particles α-particles γ-rays, D γ-rays β-particles α-particles",
+      "text": "A radioactive source emits three types of radiation R, S and T. The diagram shows an experiment set up to study the penetrating properties of R, S and T. paperfew mm of aluminium few cm of lead R T S Which types of radiation are R, S and T? R          S          T A α-particles β-particles γ-rays, B α-particles γ-rays β-particles, C β-particles α-particles γ-rays, D γ-rays β-particles α-particles",
+      "options": [
+        "A α-particles β-particles γ-rays",
+        "B α-particles γ-rays β-particles",
+        "C β-particles α-particles γ-rays",
+        "D γ-rays β-particles α-particles"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  half-life  of  a  radioactive  substance  is  10  minutes.  A  sample  of  the  radioactive  substance contains 2000 nuclei. How many radioactive nuclei were in the sample half an hour earlier? A 250 B 4000 C 6000 D 16 000",
+      "text": "The  half-life  of  a  radioactive  substance  is  10  minutes.  A  sample  of  the  radioactive  substance contains 2000 nuclei. How many radioactive nuclei were in the sample half an hour earlier? A 250 B 4000 C 6000 D 16 000",
+      "options": [
+        "A 250 B 4000 C 6000 D 16 000"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the nuclei of all atoms is correct? A They are very small compared with the size of the atoms., B They always contain the same number of protons as neutrons., C They contain electrons, neutrons and protons., D They have a total charge of zero. 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "Which statement about the nuclei of all atoms is correct? A They are very small compared with the size of the atoms., B They always contain the same number of protons as neutrons., C They contain electrons, neutrons and protons., D They have a total charge of zero. 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A They are very small compared with the size of the atoms.",
+        "B They always contain the same number of protons as neutrons.",
+        "C They contain electrons, neutrons and protons.",
+        "D They have a total charge of zero. 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2014",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2014-unit1-2014-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

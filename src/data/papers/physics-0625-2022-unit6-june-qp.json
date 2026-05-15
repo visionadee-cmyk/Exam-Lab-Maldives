@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2022-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The thermometer in Fig. 2.2 shows the room temperature θ R at the beginning of the experiment. Record θ R . –100102030405060708090100110 °C Fig. 2.2 θ R = ......................................................... [1] (b) The student pours hot water into the metal can. She places the thermometer in the hot water.",
+      "text": "1 (a) The thermometer in Fig. 2.2 shows the room temperature θ R at the beginning of the experiment. Record θ R . –100102030405060708090100110 °C Fig. 2.2 θ R = ......................................................... [1] (b) The student pours hot water into the metal can. She places the thermometer in the hot water.",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculation of k; P divided by candidate’s e quoted to 2 or more significant figures N / cm",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "e = 4.8 (cm) k given to 2 significant figures",
+          "image": "/papers/physics-0625-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match results and explanation to match statement plot a graph OR take an average 0625/61 May/June 2022 (°C) / value / water level at right angles / perpendicularly to bottom of meniscus measuring cylinder can only be read to nearest 1 or 2 cm . OR to nearest cm means you are measuring the volume to 3 significant figures (which is sufficient) R = 0.15 with unit °C / s R = 0.05",
+          "image": "/papers/physics-0625-2022/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "yes; with numbers given, starting from a higher temperature the cooling rate is 0.15 °C / s but starting from a lower temperature the cooling rate is 0.05 °C / s insulation 0625/61 May/June 2022",
+          "image": "/papers/physics-0625-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a position in series with power supply, ammeter and BC",
+          "image": "/papers/physics-0625-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I = 0.38 (A)",
+          "image": "/papers/physics-0625-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "3 (c) The student places the sliding contact at a distance l = 85.0 cm from B. He measures, and records in Table 3.1, the potential difference (p.d.) V across the length l of resistance wire BC. Record, in Table 3.1, the potential difference shown in Fig. 3.3. [1] 9 0625/61/M/J/22© UCLES 2022[Turn over (d) The student repeats the procedur",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V = 2.6 R = 6.84 V,  axes correctly labelled with quantity and unit and right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method shown clearly on graph R value correct to nearest ½ small square 0625/61 May/June 2022 MP1 identify variable under test either distance between supports / length of beam OR composition of beam (proportion of sand / cement) MP2 increase load until beam breaks (and record load) MP3 r epeat for (at least 2 more) different beams or (2 more) different lengths MP4 constant variable identified (in relation to variable under test) distance between supports position of load composition of beam (if not independent variable) same length of beam (if not independent variable) MP5 table with columns for distance / length or composition, and (maximum) load with units required for load and distance / length MP6 conclusion compare breaking load with variable under test OR plot a graph of load against length MP7 additional point any one from: at least 5 sets of results repeats of individual tests and average (rough initial test then) adding small loads near breaking load carefully place loads on beam 0625/61 May/June 2022 Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE:  If candidate’s scale consists of actual readings at equal interv als this will produce a perfect straight line! The only mark a vailable in this case is the first (axes right way round and labelled) So maximum 1.  If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2022/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit6-2022-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

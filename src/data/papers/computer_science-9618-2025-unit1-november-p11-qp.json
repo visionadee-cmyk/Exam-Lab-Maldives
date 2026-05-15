@@ -1,0 +1,77 @@
+{
+  "paperId": "computer_science-9618-2025-unit1-november-p11-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit1-november-p11-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/11",
+  "session": "October/November 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 1 1 1 0 0 0 1",
+          "image": "/papers/computer_science-9618-2025/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0 0 1 0 0 0 1 1",
+          "image": "/papers/computer_science-9618-2025/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 1 1 1 0 0 1 1 October/November Question Answer Marks • Installs driver software for devices connected to external ports • Manages communication between devices • Manages hardware interrupts • Prevents unauthorised access • ... by providing authentication // by validating users and processes • Implements access rights and permissions • Makes provision for recovery of lost data • Carries out Operating System security updates as available • Carries out auditing and keeps logs of activity e.g. • Less code needs to be developed as code is pre-written • ... thereby reducing the time to write a program • The library routine will be pre-tested and documented • ... reducing the time taken to test a program // giving confidence that the routine works as it should • The code for the library routine can written in a different programming language • ... which allows the use of special features of that language • The user’s source code is more readable • ... as the library routine is simply called in the source code rather than being written out in full • The library could contain the code for complex routines • ... thus allowing the programmer to include modules they might not be able to code e.g. • Compatibility issues • ... the library routine may not work with current program • Not guaranteed to be thoroughly tested • ... there could be unexpected problems (bugs/virus) • The library routine may not match needs exactly // The library routine may give unexpected results • ... so it will need to be edited and tested • If the library routine is later edited or changed (by someone else) • ... there could be unexpected errors or results October/November Question Answer Marks • Prettyprint • Expanding and collapsing code blocks • Automatic / smart indentation / formatting October/November Question Answer Marks Register Role ACC stores the intermediate results of arithmetic and logical operations // holds the result of a calculation CIR holds the instruction currently being decoded",
+          "image": "/papers/computer_science-9618-2025/q4-4d.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/page-04.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit1-2025-11-11-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-9618-2025/page-01.png",
+      "/papers/computer_science-9618-2025/page-02.png",
+      "/papers/computer_science-9618-2025/page-03.png",
+      "/papers/computer_science-9618-2025/page-04.png",
+      "/papers/computer_science-9618-2025/page-05.png",
+      "/papers/computer_science-9618-2025/page-06.png",
+      "/papers/computer_science-9618-2025/page-07.png",
+      "/papers/computer_science-9618-2025/page-08.png",
+      "/papers/computer_science-9618-2025/page-09.png",
+      "/papers/computer_science-9618-2025/page-10.png",
+      "/papers/computer_science-9618-2025/page-11.png",
+      "/papers/computer_science-9618-2025/page-12.png",
+      "/papers/computer_science-9618-2025/page-13.png",
+      "/papers/computer_science-9618-2025/page-14.png",
+      "/papers/computer_science-9618-2025/page-15.png",
+      "/papers/computer_science-9618-2025/page-16.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

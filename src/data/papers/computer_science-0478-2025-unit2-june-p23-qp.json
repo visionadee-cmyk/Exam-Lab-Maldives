@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6 T 8 R MP1 Each letter of a word is checked to see if it is A, E, I, O or U / a vowel MP2 Vowels are changed to the null string using a case statement MP3 Each letter or null string is individually stored in an array MP4 All consonants are output. NOR Logic gate symbol: Truth table: A B Z 0 0 1 0 1 0 1 0 0 1 1 0 May/June 2025 Question Answer Marks MP1 NOT L AND (M OR S) MP2 OR NOT L AND M AND S Or One mark per mark point, max two with some simplification from the problem MP3 NOT L AND MP4 (M OR S OR (M AND S)) Or One mark per mark point, max two with more simplification from the problem MP5 NOT L AND MP6 (M OR S) Example answers: (A =) NOT L AND (M OR S) OR NOT L AND M AND S // (A =) NOT L AND (M OR S OR (M AND S)) // (A =) NOT L AND (M OR S) May/June 2025 Question Answer Marks Three marks for six or seven correct outputs Two marks for four or five correct outputs One mark for two or three correct outputs L M S A 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1 0 0 0 1 0 1 0 1 1 0 0 1 1 1 0 May/June 2025 Question Answer Marks 8 Marks are available for: • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required with names as given in the scenario: Arrays or lists Video[], Results[] Requirements (techniques) R1 initialises arrays, displays menu and allows choice, then proceeds based on valid choice, (nested iteration, input, output, selection, validation). R2 enters data and stores into array at first available location. The code allows for additional data to be input, as required. (counting, selection, input, storage, iteration if selected). R3 finds specific data based on user input and outputs results. Appropriate output messages, including if video not found. Program continues until stopped by user. (input, output, linear search, iteration). May/June 2025 Question Answer Marks Example 15-mark answer in pseudocode //Array and variable declarations not required in responses //Initialisation of Video array FOR Index1  1 TO 10000 FOR Index2  1 TO 4 Video[Index1, Ind",
+          "image": "/papers/computer_science-0478-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit2-2025-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

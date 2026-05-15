@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "fractionating column; tripod; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 ethanol; M2 lowest / lower boiling point; 1 1 Page 4 Mark Scheme Syllabus Paper 0620 61",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "final readings completed correctly: 13.2, 39.2; initial readings completed correctly: 0.0, 12.8; differences completed correctly: 13.2, 26.4; all readings and differences to 1 decimal place; 1 1 1 1 / red / pink;",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings completed correctly: 9.9, 16.5; difference completed correctly: 6.6; 1 1 / fizzing / effervescence;",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use a pipette / burette;",
+          "image": "/papers/chemistry-0620-2016/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "2 (g) Three experiments were carried out. (a) Experiment 1 Using a measuring cylinder, 25 cm 3 of aqueous sodium carbonate were poured into a conical flask. Thymolphthalein indicator was added to the conical flask. A burette was filled up to the 0.0 cm 3 mark with solution A of dilute hydrochloric acid. A was added to the flask, until the solution just changed colour. Use the bu",
+          "marks": 1,
+          "type": "structured",
+          "answer": "effect on results: none owtte; reason: no change in concentration owtte; 1 1 B is double the concentration of acid A ora / acid B is more concentrated ora;",
+          "image": "/papers/chemistry-0620-2016/q2-2g.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable correct and different method M1 method; M2 reagents; M3 result; 1 1 1 Page 5 Mark Scheme Syllabus Paper 0620 61",
+          "image": "/papers/chemistry-0620-2016/q2-2i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sodium; bromide; 1 1 green; precipitate; with excess, green solution / clear / dissolves; 1 1 1 grey-green; precipitate; 1 1 / protective clothing, e.g. gloves or goggles; any 6 from: weigh calcium; with lid / cover; heat / burn; allow air to enter / lift lid; cool; reweigh CaO; reheat to constant mass; calculate / find the difference;",
+          "image": "/papers/chemistry-0620-2016/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

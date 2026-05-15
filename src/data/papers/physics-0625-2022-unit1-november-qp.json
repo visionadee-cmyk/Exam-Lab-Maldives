@@ -1,0 +1,661 @@
+{
+  "paperId": "physics-0625-2022-unit1-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit1-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "October/November 2022",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The times for 10 swings of a pendulum are measured. measurement time for 10 swings / s 1 10.12",
+      "text": "The times for 10 swings of a pendulum are measured. measurement time for 10 swings / s 1 10.12",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10.48",
+      "text": "10.48",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10.24 What is the average time for one swing? A 1.028 s B 1.036 s C 1.042 s D 10.28 s 2 A car starts from rest. The table shows the readings from its speedometer every 10 s. time / s     0     10    20    30    40    50    60 s/m speed 0 4 8     12    12    12    12 Which row describes the car’s motion in the first 30 seconds and in the last 30 seconds? motion during first 30 s motion during last 30 s, A non-zero acceleration at rest, B zero acceleration constant speed, C zero acceleration at rest, D non-zero acceleration constant speed 3 3   A stone is placed on a balance as shown. 120 g stone balance Which row gives the mass and weight of the stone? mass weight, A 120 g 1.2 N, B 120 g 1200 N, C 1.2 N 120 g, D 1200 N 120 g",
+      "text": "10.24 What is the average time for one swing? A 1.028 s B 1.036 s C 1.042 s D 10.28 s 2 A car starts from rest. The table shows the readings from its speedometer every 10 s. time / s     0     10    20    30    40    50    60 s/m speed 0 4 8     12    12    12    12 Which row describes the car’s motion in the first 30 seconds and in the last 30 seconds? motion during first 30 s motion during last 30 s, A non-zero acceleration at rest, B zero acceleration constant speed, C zero acceleration at rest, D non-zero acceleration constant speed 3 3   A stone is placed on a balance as shown. 120 g stone balance Which row gives the mass and weight of the stone? mass weight, A 120 g 1.2 N, B 120 g 1200 N, C 1.2 N 120 g, D 1200 N 120 g",
+      "options": [
+        "A 1.028 s B 1.036 s C 1.042 s D 10.28 s 2 A car starts from rest. The table shows the readings from its speedometer every 10 s. time / s     0     10    20    30    40    50    60 s/m speed 0 4 8     12    12    12    12 Which row describes the car’s motion in the first 30 seconds and in the last 30 seconds? motion during first 30 s motion during last 30 s",
+        "A non-zero acceleration at rest",
+        "B zero acceleration constant speed",
+        "C zero acceleration at rest",
+        "D non-zero acceleration constant speed 3 3   A stone is placed on a balance as shown. 120 g stone balance Which row gives the mass and weight of the stone? mass weight",
+        "A 120 g 1.2 N",
+        "B 120 g 1200 N",
+        "C 1.2 N 120 g",
+        "D 1200 N 120 g"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the dimensions of a solid rectangular block of metal of mass m. p q r Which expression is used to calculate the density of the metal? A ) (qp m  B ) (rqp m  C m  p  q, D m  p  q  r 4",
+      "text": "The diagram shows the dimensions of a solid rectangular block of metal of mass m. p q r Which expression is used to calculate the density of the metal? A ) (qp m  B ) (rqp m  C m  p  q, D m  p  q  r 4",
+      "options": [
+        "C m  p  q",
+        "D m  p  q  r 4"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A force F acts on an object at a distance x from a pivot. Which two changes both increase the moment of the force about the pivot? change 1 change 2 A decrease F decrease x, B decrease F increase x, C increase F decrease x, D increase F increase x",
+      "text": "A force F acts on an object at a distance x from a pivot. Which two changes both increase the moment of the force about the pivot? change 1 change 2 A decrease F decrease x, B decrease F increase x, C increase F decrease x, D increase F increase x",
+      "options": [
+        "A decrease F decrease x",
+        "B decrease F increase x",
+        "C increase F decrease x",
+        "D increase F increase x"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams represent the only two forces acting on an object. Which object could be moving to the right at constant speed? B 1.0 N1.0 N A 1.0 N1.0 N C 1.0 N2.0 N D 2.0 N1.0 N",
+      "text": "The diagrams represent the only two forces acting on an object. Which object could be moving to the right at constant speed? B 1.0 N1.0 N A 1.0 N1.0 N C 1.0 N2.0 N D 2.0 N1.0 N",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a uniform rod with its midpoint on a pivot. Two weights X and Y are hung from the rod. The rod is in equilibrium. XY pivot rod Which statement is correct? A The forces at X and Y have different values., B There is a resultant turning effect on the rod., C The resultant force on the rod is zero., D The rod does not have a centre of mass. 5",
+      "text": "The diagram shows a uniform rod with its midpoint on a pivot. Two weights X and Y are hung from the rod. The rod is in equilibrium. XY pivot rod Which statement is correct? A The forces at X and Y have different values., B There is a resultant turning effect on the rod., C The resultant force on the rod is zero., D The rod does not have a centre of mass. 5",
+      "options": [
+        "A The forces at X and Y have different values.",
+        "B There is a resultant turning effect on the rod.",
+        "C The resultant force on the rod is zero.",
+        "D The rod does not have a centre of mass. 5"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "text": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "options": [
+        "A chemical",
+        "B elastic",
+        "C thermal",
+        "D sound"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is a disadvantage of nuclear fission as a source of energy? A Nuclear power stations are expensive to build., B Nuclear power stations are unreliable., C Nuclear power stations can only provide small quantities of energy., D Nuclear power stations release large quantities of carbon dioxide into the atmosphere.",
+      "text": "What is a disadvantage of nuclear fission as a source of energy? A Nuclear power stations are expensive to build., B Nuclear power stations are unreliable., C Nuclear power stations can only provide small quantities of energy., D Nuclear power stations release large quantities of carbon dioxide into the atmosphere.",
+      "options": [
+        "A Nuclear power stations are expensive to build.",
+        "B Nuclear power stations are unreliable.",
+        "C Nuclear power stations can only provide small quantities of energy.",
+        "D Nuclear power stations release large quantities of carbon dioxide into the atmosphere."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The statements describe what happens when the power of a machine is increased. 1   The work done in a given time decreases. 2   The work done in a given time increases. 3   The time taken to do a given quantity of work decreases. 4   The time taken to do a given quantity of work increases. Which statements are correct? A 1 and 3 B 1 and 4 C 2 and 3 D 2 and 4",
+      "text": "The statements describe what happens when the power of a machine is increased. 1   The work done in a given time decreases. 2   The work done in a given time increases. 3   The time taken to do a given quantity of work decreases. 4   The time taken to do a given quantity of work increases. Which statements are correct? A 1 and 3 B 1 and 4 C 2 and 3 D 2 and 4",
+      "options": [
+        "A 1 and 3 B 1 and 4 C 2 and 3 D 2 and 4"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which quantities, in addition to the acceleration of free fall g, affect the pressure at the bottom of a pond of water? A the density of the water and the depth of the pond only, B the density of the water and the surface area of the pond only, C the depth of the pond and the surface area of the pond only, D the depth of the pond, the density of the water and the surface area of the pond 6",
+      "text": "Which quantities, in addition to the acceleration of free fall g, affect the pressure at the bottom of a pond of water? A the density of the water and the depth of the pond only, B the density of the water and the surface area of the pond only, C the depth of the pond and the surface area of the pond only, D the depth of the pond, the density of the water and the surface area of the pond 6",
+      "options": [
+        "A the density of the water and the depth of the pond only",
+        "B the density of the water and the surface area of the pond only",
+        "C the depth of the pond and the surface area of the pond only",
+        "D the depth of the pond, the density of the water and the surface area of the pond 6"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A fixed mass of gas is trapped in a container. The temperature of the gas is increased but the volume of the gas is kept constant. fixed mass of gas How does this change affect the average kinetic energy of the molecules and the pressure on the walls of the container? average kinetic energy pressure A increases increases, B stays the same increases, C increases decreases, D decreases increases",
+      "text": "A fixed mass of gas is trapped in a container. The temperature of the gas is increased but the volume of the gas is kept constant. fixed mass of gas How does this change affect the average kinetic energy of the molecules and the pressure on the walls of the container? average kinetic energy pressure A increases increases, B stays the same increases, C increases decreases, D decreases increases",
+      "options": [
+        "A increases increases",
+        "B stays the same increases",
+        "C increases decreases",
+        "D decreases increases"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row correctly describes the arrangement and the motion of particles in a solid? arrangement of particles motion of particles A far apart moving randomly from place to place, B far apart vibrating about one position, C tightly packed moving randomly from place to place, D tightly packed vibrating about one position",
+      "text": "Which row correctly describes the arrangement and the motion of particles in a solid? arrangement of particles motion of particles A far apart moving randomly from place to place, B far apart vibrating about one position, C tightly packed moving randomly from place to place, D tightly packed vibrating about one position",
+      "options": [
+        "A far apart moving randomly from place to place",
+        "B far apart vibrating about one position",
+        "C tightly packed moving randomly from place to place",
+        "D tightly packed vibrating about one position"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the temperature difference between the fixed points on the C temperature scale? A 10 C B 100 C C 110 C D   120 C 7",
+      "text": "What is the temperature difference between the fixed points on the C temperature scale? A 10 C B 100 C C 110 C D   120 C 7",
+      "options": [
+        "A 10 C B 100 C C 110 C D   120 C 7"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the diagram, each box represents a state of matter and each arrow represents a change of state. solid P R liquid Q S gas Which row correctly identifies the changes of state? P Q R S A freezing condensation boiling melting, B boiling melting condensation freezing, C freezing condensation melting boiling, D condensation freezing melting boiling",
+      "text": "In the diagram, each box represents a state of matter and each arrow represents a change of state. solid P R liquid Q S gas Which row correctly identifies the changes of state? P Q R S A freezing condensation boiling melting, B boiling melting condensation freezing, C freezing condensation melting boiling, D condensation freezing melting boiling",
+      "options": [
+        "A freezing condensation boiling melting",
+        "B boiling melting condensation freezing",
+        "C freezing condensation melting boiling",
+        "D condensation freezing melting boiling"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four thermometers, with their bulbs painted different colours, are placed at equal distances from a radiant heater. Which thermometer shows the slowest temperature rise when the heater is first switched on? A dull black, B dull white, C shiny black, D shiny white",
+      "text": "Four thermometers, with their bulbs painted different colours, are placed at equal distances from a radiant heater. Which thermometer shows the slowest temperature rise when the heater is first switched on? A dull black, B dull white, C shiny black, D shiny white",
+      "options": [
+        "A dull black",
+        "B dull white",
+        "C shiny black",
+        "D shiny white"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which method of transfer of thermal energy is caused by changes in density? A conduction, B convection, C evaporation, D radiation 8",
+      "text": "Which method of transfer of thermal energy is caused by changes in density? A conduction, B convection, C evaporation, D radiation 8",
+      "options": [
+        "A conduction",
+        "B convection",
+        "C evaporation",
+        "D radiation 8"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show two sets of wavefronts in a ripple tank. wave direction wave direction barriershallow water A student makes two statements about the waves. 1   When the waves reflect from the barrier the direction changes but the wavelength remains the same. 2   When the waves refract as they enter the shallow water the direction remains the same, but the wavelength changes. Which statements are correct?, A statement 1 and statement 2, B statement 1 only, C statement 2 only, D neither statement 1 nor statement 2",
+      "text": "The diagrams show two sets of wavefronts in a ripple tank. wave direction wave direction barriershallow water A student makes two statements about the waves. 1   When the waves reflect from the barrier the direction changes but the wavelength remains the same. 2   When the waves refract as they enter the shallow water the direction remains the same, but the wavelength changes. Which statements are correct?, A statement 1 and statement 2, B statement 1 only, C statement 2 only, D neither statement 1 nor statement 2",
+      "options": [
+        "A student makes two statements about the waves. 1   When the waves reflect from the barrier the direction changes but the wavelength remains the same. 2   When the waves refract as they enter the shallow water the direction remains the same, but the wavelength changes. Which statements are correct?",
+        "A statement 1 and statement 2",
+        "B statement 1 only",
+        "C statement 2 only",
+        "D neither statement 1 nor statement 2"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the correct order of the colours in a spectrum of white light? A blue  green  yellow, B blue  yellow  green, C yellow  blue  green, D green  blue  yellow",
+      "text": "What is the correct order of the colours in a spectrum of white light? A blue  green  yellow, B blue  yellow  green, C yellow  blue  green, D green  blue  yellow",
+      "options": [
+        "A blue  green  yellow",
+        "B blue  yellow  green",
+        "C yellow  blue  green",
+        "D green  blue  yellow"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is placed 30 cm in front of a plane mirror. Which statement describes the image of the object? A The image is the same size and 30 cm from the object., B The image is the same size and 60 cm from the object., C The image is smaller and 30 cm from the object., D The image is smaller and 60 cm from the object. 9",
+      "text": "An object is placed 30 cm in front of a plane mirror. Which statement describes the image of the object? A The image is the same size and 30 cm from the object., B The image is the same size and 60 cm from the object., C The image is smaller and 30 cm from the object., D The image is smaller and 60 cm from the object. 9",
+      "options": [
+        "A The image is the same size and 30 cm from the object.",
+        "B The image is the same size and 60 cm from the object.",
+        "C The image is smaller and 30 cm from the object.",
+        "D The image is smaller and 60 cm from the object. 9"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light is shone onto the surface of a mirror. 2 3 14 Which two angles represent the angle of incidence and the angle of reflection? A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4",
+      "text": "A ray of light is shone onto the surface of a mirror. 2 3 14 Which two angles represent the angle of incidence and the angle of reflection? A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4",
+      "options": [
+        "A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  the  electromagnetic  spectrum.  The  numbers  indicate  the  approximate wavelength at the boundaries between the various regions of the spectrum. For  a  device  to  be  able  to  make  use  of  electromagnetic  radiation,  it  needs  an  aerial  of approximately the same size as the wavelength of the radiation it is designed to work with. P Q R S T U V 1 m 10 –3 m    7  10 –7 m    4  10 –7 m    10 –8 m 10 –11 m Which statement is correct? A A mobile phone uses radiation from region P., B A television satellite dish uses radiation from region Q., C The receptor cells in an eye use radiation from region R., D The remote controller for a television uses radiation from region U.",
+      "text": "The  diagram  shows  the  electromagnetic  spectrum.  The  numbers  indicate  the  approximate wavelength at the boundaries between the various regions of the spectrum. For  a  device  to  be  able  to  make  use  of  electromagnetic  radiation,  it  needs  an  aerial  of approximately the same size as the wavelength of the radiation it is designed to work with. P Q R S T U V 1 m 10 –3 m    7  10 –7 m    4  10 –7 m    10 –8 m 10 –11 m Which statement is correct? A A mobile phone uses radiation from region P., B A television satellite dish uses radiation from region Q., C The receptor cells in an eye use radiation from region R., D The remote controller for a television uses radiation from region U.",
+      "options": [
+        "A A mobile phone uses radiation from region P.",
+        "B A television satellite dish uses radiation from region Q.",
+        "C The receptor cells in an eye use radiation from region R.",
+        "D The remote controller for a television uses radiation from region U."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Microwaves and X-rays are regions of the electromagnetic spectrum. Which statement about microwaves and X-rays is correct? A Microwaves and X-rays have the same frequency., B Microwaves and X-rays travel at the same speed in a vacuum., C Microwaves have a shorter wavelength than X-rays., D Microwaves travel at a lower speed than X-rays in a vacuum. 10",
+      "text": "Microwaves and X-rays are regions of the electromagnetic spectrum. Which statement about microwaves and X-rays is correct? A Microwaves and X-rays have the same frequency., B Microwaves and X-rays travel at the same speed in a vacuum., C Microwaves have a shorter wavelength than X-rays., D Microwaves travel at a lower speed than X-rays in a vacuum. 10",
+      "options": [
+        "A Microwaves and X-rays have the same frequency.",
+        "B Microwaves and X-rays travel at the same speed in a vacuum.",
+        "C Microwaves have a shorter wavelength than X-rays.",
+        "D Microwaves travel at a lower speed than X-rays in a vacuum. 10"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An observer stands at the finish line of a 100 m race. He wants to time the winner’s run. He starts his stop-watch as soon as he sees the smoke from the starting gun instead of when he hears the bang. What is the reason for doing this? A Light travels much faster than sound., B There is a risk he might respond to an echo from a wall., C Humans react slower to sound than to light., D Humans react more quickly to sound than to light.",
+      "text": "An observer stands at the finish line of a 100 m race. He wants to time the winner’s run. He starts his stop-watch as soon as he sees the smoke from the starting gun instead of when he hears the bang. What is the reason for doing this? A Light travels much faster than sound., B There is a risk he might respond to an echo from a wall., C Humans react slower to sound than to light., D Humans react more quickly to sound than to light.",
+      "options": [
+        "A Light travels much faster than sound.",
+        "B There is a risk he might respond to an echo from a wall.",
+        "C Humans react slower to sound than to light.",
+        "D Humans react more quickly to sound than to light."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which description of a current in a metal is correct? A a flow of electrons, B a flow of molecules, C a flow of positive atoms, D a flow of protons",
+      "text": "Which description of a current in a metal is correct? A a flow of electrons, B a flow of molecules, C a flow of positive atoms, D a flow of protons",
+      "options": [
+        "A a flow of electrons",
+        "B a flow of molecules",
+        "C a flow of positive atoms",
+        "D a flow of protons"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit containing a variable resistor connected to a variable power supply. power supply The  table  shows  the  currents  for  different  values  of  the  potential  difference  (p.d.)  and  the resistance. p.d. / V resistance /  current 3.6 12 I 1 1.2 12 I 2 3.6 6 I 3 What is the order of the currents from smallest to largest? A I 1  I 2  I 3, B I 1  I 3  I 2, C I 2  I 1  I 3, D I 3  I 1  I 2 11",
+      "text": "The diagram shows a circuit containing a variable resistor connected to a variable power supply. power supply The  table  shows  the  currents  for  different  values  of  the  potential  difference  (p.d.)  and  the resistance. p.d. / V resistance /  current 3.6 12 I 1 1.2 12 I 2 3.6 6 I 3 What is the order of the currents from smallest to largest? A I 1  I 2  I 3, B I 1  I 3  I 2, C I 2  I 1  I 3, D I 3  I 1  I 2 11",
+      "options": [
+        "A I 1  I 2  I 3",
+        "B I 1  I 3  I 2",
+        "C I 2  I 1  I 3",
+        "D I 3  I 1  I 2 11"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The e.m.f. of the cell in this circuit is 1.5 V. What does e.m.f. stand for? A electromagnetic field, B electromagnetic force, C electromotive field, D electromotive force",
+      "text": "The e.m.f. of the cell in this circuit is 1.5 V. What does e.m.f. stand for? A electromagnetic field, B electromagnetic force, C electromotive field, D electromotive force",
+      "options": [
+        "A electromagnetic field",
+        "B electromagnetic force",
+        "C electromotive field",
+        "D electromotive force"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A negatively charged plastic rod P is placed above a positively charged plastic rod Q. +++++ Q ––––– P What are the directions of the electrostatic forces on rod P and on rod Q? electrostatic force on rod P electrostatic force on rod Q A downwards downwards, B downwards upwards, C upwards downwards, D upwards upwards",
+      "text": "A negatively charged plastic rod P is placed above a positively charged plastic rod Q. +++++ Q ––––– P What are the directions of the electrostatic forces on rod P and on rod Q? electrostatic force on rod P electrostatic force on rod Q A downwards downwards, B downwards upwards, C upwards downwards, D upwards upwards",
+      "options": [
+        "A downwards downwards",
+        "B downwards upwards",
+        "C upwards downwards",
+        "D upwards upwards"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student finds the resistance of a resistor. Which circuit is used to measure the potential difference (p.d.) across the resistor and the current in it? A V A V BCD A A VV A 12",
+      "text": "A student finds the resistance of a resistor. Which circuit is used to measure the potential difference (p.d.) across the resistor and the current in it? A V A V BCD A A VV A 12",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit diagram shows a variable potential divider. V PQ slider The slider is moved from P towards Q. What happens to the reading on the voltmeter and to the brightness of the lamp? reading on voltmeter brightness of lamp A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "text": "The circuit diagram shows a variable potential divider. V PQ slider The slider is moved from P towards Q. What happens to the reading on the voltmeter and to the brightness of the lamp? reading on voltmeter brightness of lamp A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit containing a cell, a variable resistor and two bulbs, P and Q. P Q The resistance of the variable resistor is increased. What happens to the brightness of each bulb? brightness of bulb P brightness of bulb Q A dimmer dimmer, B dimmer remains the same, C remains the same dimmer, D remains the same remains the same 13",
+      "text": "The diagram shows a circuit containing a cell, a variable resistor and two bulbs, P and Q. P Q The resistance of the variable resistor is increased. What happens to the brightness of each bulb? brightness of bulb P brightness of bulb Q A dimmer dimmer, B dimmer remains the same, C remains the same dimmer, D remains the same remains the same 13",
+      "options": [
+        "A dimmer dimmer",
+        "B dimmer remains the same",
+        "C remains the same dimmer",
+        "D remains the same remains the same 13"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows a circuit containing a battery, a fuse and a buzzer? AB CD",
+      "text": "Which diagram shows a circuit containing a battery, a fuse and a buzzer? AB CD",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why is a fuse used in an electric circuit? A to increase the circuit resistance, B to prevent short circuits, C to reduce the power loss, D to stop the cables from overheating 14",
+      "text": "Why is a fuse used in an electric circuit? A to increase the circuit resistance, B to prevent short circuits, C to reduce the power loss, D to stop the cables from overheating 14",
+      "options": [
+        "A to increase the circuit resistance",
+        "B to prevent short circuits",
+        "C to reduce the power loss",
+        "D to stop the cables from overheating 14"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents a transformer. primary coil core Which row shows materials suitable for making the core and the primary coil? core primary coil A iron copper, B iron plastic, C steel copper, D steel plastic",
+      "text": "The diagram represents a transformer. primary coil core Which row shows materials suitable for making the core and the primary coil? core primary coil A iron copper, B iron plastic, C steel copper, D steel plastic",
+      "options": [
+        "A iron copper",
+        "B iron plastic",
+        "C steel copper",
+        "D steel plastic"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show the magnetic field lines around a wire carrying a current, I. 1 I 2 I 3 I 4 I Which diagrams are correct? A 1 only B   2 and 3 C 4 only D   1 and 3 15",
+      "text": "The diagrams show the magnetic field lines around a wire carrying a current, I. 1 I 2 I 3 I 4 I Which diagrams are correct? A 1 only B   2 and 3 C 4 only D   1 and 3 15",
+      "options": [
+        "A 1 only B   2 and 3 C 4 only D   1 and 3 15"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A wire is placed between the poles of a magnet. wire magnet N S Which statements are correct? 1   An a.c. current in the wire causes a changing force on it. 2   A downward d.c. current in the wire causes a constant force on it. 3   An upward d.c. current in the wire causes a constant force on it. A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3",
+      "text": "A wire is placed between the poles of a magnet. wire magnet N S Which statements are correct? 1   An a.c. current in the wire causes a changing force on it. 2   A downward d.c. current in the wire causes a constant force on it. 3   An upward d.c. current in the wire causes a constant force on it. A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3",
+      "options": [
+        "A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2022/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The nuclide notation for the isotope lithium-7 is Li 7 3 . How many neutrons are there in an atom of lithium-7? A 3 B 4 C 7 D   10",
+      "text": "The nuclide notation for the isotope lithium-7 is Li 7 3 . How many neutrons are there in an atom of lithium-7? A 3 B 4 C 7 D   10",
+      "options": [
+        "A 3 B 4 C 7 D   10"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2022/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A radioactive material is emitting -particles. The radioactive material is used in a demonstration in a school laboratory experiment. Which safety precaution must be taken by the person carrying out the experiment? A Handle the source with tongs., B Place the source on a heat-proof mat., C Surround the experiment with a lead screen., D Wear goggles. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "A radioactive material is emitting -particles. The radioactive material is used in a demonstration in a school laboratory experiment. Which safety precaution must be taken by the person carrying out the experiment? A Handle the source with tongs., B Place the source on a heat-proof mat., C Surround the experiment with a lead screen., D Wear goggles. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A Handle the source with tongs.",
+        "B Place the source on a heat-proof mat.",
+        "C Surround the experiment with a lead screen.",
+        "D Wear goggles. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the count rate from a radioactive isotope changes with time. 60 50 40 30 20 10 0 0123456 time / s count rate counts / s What is the half-life of this isotope? A 2.0 s B 6.0 s C 12 s D 53 s",
+      "text": "The graph shows how the count rate from a radioactive isotope changes with time. 60 50 40 30 20 10 0 0123456 time / s count rate counts / s What is the half-life of this isotope? A 2.0 s B 6.0 s C 12 s D 53 s",
+      "options": [
+        "A 2.0 s B 6.0 s C 12 s D 53 s"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2022/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  student  measures  the  count  rate  near  a  radioactive  source  using  a  detector  of  ionising radiation. The diagram shows the arrangement. radioactive source detector counter 75 The counter reads 75 counts per minute. When the source is taken away, the reading on the counter decreases to 5 counts per minute. What was the rate of emission from the radioactive source when the counter reading is corrected for background radiation? A 5 counts per minute, B 15 counts per minute, C 70 counts per minute, D 80 counts per minute",
+      "text": "A  student  measures  the  count  rate  near  a  radioactive  source  using  a  detector  of  ionising radiation. The diagram shows the arrangement. radioactive source detector counter 75 The counter reads 75 counts per minute. When the source is taken away, the reading on the counter decreases to 5 counts per minute. What was the rate of emission from the radioactive source when the counter reading is corrected for background radiation? A 5 counts per minute, B 15 counts per minute, C 70 counts per minute, D 80 counts per minute",
+      "options": [
+        "A 5 counts per minute",
+        "B 15 counts per minute",
+        "C 70 counts per minute",
+        "D 80 counts per minute"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2022/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit1-2022-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

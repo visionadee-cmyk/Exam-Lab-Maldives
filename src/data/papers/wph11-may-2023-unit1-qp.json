@@ -1,0 +1,217 @@
+{
+  "paperId": "wph11-may-2023-unit1-qp",
+  "pairedMarkSchemeId": "wph11-may-2023-unit1-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH11/01",
+  "session": "May 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Straight line from 0 to (1.5, − [magnitude from (a)(ii)]) Second straight line from end of first line to (2.1, 0.0) [Ignore lines beyond 2.1 s] (1) (1) Total for question 12 5 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-09.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of E k = ½ m v E k = 2.1 × 10 (J) Example calculation E k = 0.5 × 7.2 × 10 kg × (76 m s −1 ) = 2.08 × 10 J (1) (1)",
+          "image": "/papers/wph11-may-2023/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of P = W / t D = 8.0 × 10 J (ecf from (a)) Example calculation W = 16 × 10 W × 180 s = 2.9 × 10 J D = 2.9 × 10 J – 2.1 × 10 J = 8.0 × 10 J (1) (1) Total for question 13 4 Number Answer Mark Resolves horizontal and vertical component of velocity Use of s = u t + ½ a t with a = −g and u = u v Use of s = u t + ½ a t with a = 0 and u = u h Horizontal distance = 130 m Example calculation u v = 37 m s −1 × sin 53° = 29.5 m s −1 t = 2 × 29.5 m s −1 ÷ 9.81 = 6.02 s u h = 37 m s −1 × cos 53° = 22.3 m s −1 s h = 22.3 m s −1 × 6.02 s = 134.1 m (1) (1) (1) (1) Total for question 14 4 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-10.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Total momentum is conserved (because no external forces act) Or Total momentum before is equal to total momentum after (because no external forces act) Or Momentum of system is conserved (because no external forces act) Total/system/initial momentum is zero (Final momentum of machine is not zero because) final ball momentum is not zero Or Machine and ball have (equal but) opposite momenta (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q15-15a.png"
+        },
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of p = mv Use of conservation of momentum Velocity of machine = (−)0.087 m s −1 Example calculation 2.9 kg × v + 0.056 kg × 4.5 m s −1 = 0 v = −0.252 m kg s −1 ÷ 2.9 kg = −0.0869 m s −1 (1) (1) (1) Total for question 15 6 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q15-15b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-13.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Flow (around sphere must be) laminar Or Flow (around sphere is) not turbulent (1) Use of upthrust = weight of displaced fluid U = 5.2 × 10 −7 (N) Example calculation U = 5.3 × 10 −11 m × 998 kg m −3 × 9.81 N kg −1 = 5.19 × 10 −7 N (1) (1) Use of V = πr Use of F = 6πηrv F = 1.5 × 10 −7 N Or Required v = 0.12 m s −1 Or Required V = 2.4 × 10 −9 m Or Required r = 8.3 × 10 −4 m and r = 2.3 × 10 −4 m Or Required η = 3.4 × 10 −3 Pa s Valid conclusion by comparison of relevant student values (ecf from (b)(i)) Example calculation 5.3 × 10 −11 m = πr r = √ 3×5.3 × 10 −11 m 4π = 2.33 × 10 −4 m If Stokes' law applies, F = U F = 6π × 9.5 × 10 −4 Pa s × 2.33 × 10 −4 m × 3.50 × 10 −2 m s −1 = 1.46 × 10 −7 N ≠ 5.19 × 10 −7 N ⸫ Stokes' law does not apply (1) (1) (1) (1) Total for question 16 7 Number Answer Mark Equates horizontal component with force from current F = 480 (N) Example calculation F sin 33° = 260 N F = 260 N ÷ sin 33° = 477 N (1) (1) Resolves vertical component of F Equates vertical forces Weight of buoy = 2500 N (ecf from (a)(i)) Example calculation 477 N cos 33° = 400 N 400 N + Weight of buoy = 2.9 × 10 N Weight of buoy = 2900 N − 400 N = 2500 N (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q16-16a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-14.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER Horizontal component of F increases (to maintain equilibrium) and Vertical component of F remains the same (because vertical forces do not change, upthrust and weight are constant) F = F h + F v so F increases [dependent on MP1] tan θ = F h /F v so θ increases [dependent on MP1] OR Horizontal component of F increases (to maintain equilibrium) and Vertical component of F remains the same (because vertical forces do not change, upthrust and weight are constant) F = F h + F v so F increases [dependent on MP1] Or tan θ = F h /F v so θ increases [dependent on MP1] F cos θ is constant so increase in either F or θ implies an increase in the other [dependent on MP2] (1) (1) (1) (1) (1) (1) Total for question 17 8 Number Answer Mark *18 This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content and lines of reasoning. IC points IC mark Max linkage mark available Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Indicative content: IC1 Balloon exerts a (backwards) force on the air IC2 By N3 the air exerts an opposite (forwards) force on balloon IC3 The forward force on the balloon is greater than resistive forces IC4 By N2 the resultant force causes acceleration IC5 As speed increases forces change until resistive force equals forward force IC6 By N1 resultant force equals zero so acceleration equals zero (at maximum speed) Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured 0 Total for question 18 6 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ΔW = F Δx or ΔE grav = mgΔh Use of P = W / t Use of efficiency = useful power output / total power input Or Use of efficiency = useful energy output / total energy input Total power input = 2.0 × 10 W Example of calculation ΔW = 4.4 × 10 × 15 m = 6.6 × 10 J Output power = 6.6 × 10 J ÷ 70 s = 9.4 × 10 W Efficiency = 9.4×10 W Total power input =0.47 Total power input = 9.4 × 10 푊 0.47 = 2.0 × 10 W (1) (1) (1) (1) Total clockwise must balance total anticlockwise moment (about tower) Or Net/resultant/total moment (about tower) must be zero. Total anticlockwise moment is due to counterweight and Total clockwise moment is due to sum of moment from beam and load Increasing the distance of the load increases the (cw) moment (distance of CoG remains the same) Distance of counterweight needs to be increased [dependent on MP3] (1) (1) (1) (1) Use of moment = F x Position of centre of mass of beam identified Use of principle of moments Maximum distance of load = 15 m Or, for load at 22 m ... CW moment =1.18×10 Nm and max ASW moment = 8.8 ×10 Nm Or Required distance of counterweight = 11 m Or Required counterweight = 1.5 ×10 N Or Maximum load = 3.0 ×10 N Or Required distance to CoG = 2.9 m Or Required weight of beam = 1.3 ×10 N Or Resultant moment = 3.0 × 10 Nm (cw) Valid conclusion by comparison of relevant student values Example of calculation For equilibrium: 3.0 ×10 N × 7.0 m + 4.4 ×10 N × x = 1.1×10 N × 8.0 m where x is the maximum distance of the load from the tower. x = (8.8×10 Nm − 2.1 × 10 Nm) ÷ 4.4 ×10 N = 6.7 × 10 Nm ÷ 4.4 ×10 N = 15.2 m 15.2 m < 22.0 m so crane would topple if load moved to end of beam (1) (1) (1) (1) (1) Total for question 19 13 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q19-19a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-22.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Stress (or strain) value at/beyond which a material/object undergoes a sudden or large plastic deformation (1) The force/tension from/in the cable (on the actor) is greater than the weight of the actor (So) there is a resultant/net/unbalanced force (upwards) (1) (1) Use of W = m g Use of ΣF = m a Tension = 917 (N) Example calculation W= 77 kg × 9.81 N kg −1 = 755 N T – 755 N = 77 kg × 2.1 m s −2 T = 162 N + 755 N = 917 N (1) (1) (1) Use of A = π r Use of σ = F ÷ A (ecf from (b)(ii)) Allowed stress (15% yield stress of steel) = 3.8 × 10 Pa and σ = 2.0 × 10 Pa Or (15%) −1 of cable stress = 1.3 × 10 Pa Or Max safe tension = 1.7 × 10 N Or Min safe diameter = 5.6 × 10 −3 m Or Percentage of yield stress = 8% Or Max safe acceleration = 12.3 m s −2 Valid conclusion by comparison of relevant student values Example calculation A = 휋푑 = 휋× ( 7.6×10 −3 m ) =4.54×10 −5 m 휎= 917 N 4.54×10 −5 m =2.02×10 Pa (show that value gives 2.03 × 10 Pa) 0.15×2.5×10 Pa=3.75×10 Pa 2.03×10 Pa < 3.75×10 Pa so it is safe. (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q20-20a.png"
+        },
+        {
+          "id": "20c",
+          "text": "Part 20c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "New cable has a greater cross sectional area, (but same breaking stress) so a greater force is required Because new cable has smaller Young modulus, there is a greater strain for the same stress So (at breaking stress) there will be a greater extension (because cables are the same length) [dependent on MP2] Or Smaller Young modulus implies greater extension (at breaking stress, because cables are the same length) [independent mark] (And as) force and extension both increase, work done to break the new cable is greater than that for the original cable [independent mark] (1) (1) (1) (1) Total for question 20 14 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2023/q20-20c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/page-25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit1-2023-06-qp.pdf",
+    "pageImages": [
+      "/papers/wph11-may-2023/page-01.png",
+      "/papers/wph11-may-2023/page-02.png",
+      "/papers/wph11-may-2023/page-03.png",
+      "/papers/wph11-may-2023/page-04.png",
+      "/papers/wph11-may-2023/page-05.png",
+      "/papers/wph11-may-2023/page-06.png",
+      "/papers/wph11-may-2023/page-07.png",
+      "/papers/wph11-may-2023/page-08.png",
+      "/papers/wph11-may-2023/page-09.png",
+      "/papers/wph11-may-2023/page-10.png",
+      "/papers/wph11-may-2023/page-11.png",
+      "/papers/wph11-may-2023/page-12.png",
+      "/papers/wph11-may-2023/page-13.png",
+      "/papers/wph11-may-2023/page-14.png",
+      "/papers/wph11-may-2023/page-15.png",
+      "/papers/wph11-may-2023/page-16.png",
+      "/papers/wph11-may-2023/page-17.png",
+      "/papers/wph11-may-2023/page-18.png",
+      "/papers/wph11-may-2023/page-19.png",
+      "/papers/wph11-may-2023/page-20.png",
+      "/papers/wph11-may-2023/page-21.png",
+      "/papers/wph11-may-2023/page-22.png",
+      "/papers/wph11-may-2023/page-23.png",
+      "/papers/wph11-may-2023/page-24.png",
+      "/papers/wph11-may-2023/page-25.png",
+      "/papers/wph11-may-2023/page-26.png",
+      "/papers/wph11-may-2023/page-27.png",
+      "/papers/wph11-may-2023/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,187 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Base-2",
+          "image": "/papers/computer_science-0478-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 9 − 16 − 40 − 161 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Microphone",
+          "image": "/papers/computer_science-0478-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− capacitive",
+          "image": "/papers/computer_science-0478-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− interrupt Question Answer Marks Statement Checksum () Check digit () Parity check () uses an additional bit to create an odd or even number of 1s  checks for errors on data entry  compares two calculated values to see if an error has occurred   will not detect transposition errors  sends additional values when data is transmitted from one computer to anothe r  ()",
+          "image": "/papers/computer_science-0478-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− ARQ October/November Question Answer Marks answer. Working: − 100 × 50 = 5000 bits − 5000 × 8 = 40,000 bits − 40,000 / 8 = 5,000 bytes − 5,000 × 10 = 50,000 bytes − 50,000 / 1024 Answer: 48.83 kB // 49 kB NOTE: Alternative correct methods of working can be credited. Answer can be given to any number of dp. − Lossless − Lossy would remove data permanently // lossless would not remove any data permanently // File could be restored to original ... − ... that could affect the quality (lossy) // ... to maintain the quality (lossless)",
+          "image": "/papers/computer_science-0478-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Light − Lens − Charge-coupled − Analogue-to-digital − Pixel Question Answer Marks − Encryption − Biometric device − Firewall − Anti-spyware − Two-factor authentication // two-step verification − Interrupt / error-handling − Peripheral management − Providing user interface − Platform for running applications // installing / removing software − Manages security // access rights/levels // user account management − Managing time slicing // multitasking October/November Question Answer Marks Statement MAR () MDR () PC () it is a register in the CPU    it holds the address of the next instruction to be processed ()  it holds the address of the data that is about to be fetched from memory  () it holds the data that has been fetched from memory  it receives signals from the control unit    it uses the address bus to send an address to another component  ",
+          "image": "/papers/computer_science-0478-2021/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Arithmetic Logic Unit // ALU Question Answer Marks − Secondary − It is non-volatile storage − It is not directly accessed by the CPU − Uses flash memory − Data is flashed onto (silicon) chips − Uses NAND/NOR technology // Can use flip-flops − Uses transistors/control gates/floating gates ... − ... to control the flow of electrons − It is a type of EEPROM technology − When data is stored the transistor is converted from 1 to 0 / 0 to 1 − Writes (and reads) sequentially October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− High-level − Interpreter − Easier to debug − ... as errors are immediately reported when detected − Compiler − All errors are reported in a single report − ... meaning they can all be fixed at the same time − No need to recompile code every time a test is run − Compiler − Creates an executable file − ... so, translator is no longer needed to run it − Source code cannot be stolen // can be provided without the source code Question Answer Marks Task Sensor checking the water is 30 °C Temperature checking the water acidity level after detergent is added pH checking the weight of the clothes to make sure that the machine is not overloaded Pressure − Sensor sends data to microprocessor − Data is converted from analogue to digital (using ADC) − Data is compared to stored value (of 30) If data is below 30 then a microprocessor sends signal is sent to a heater to heat the water up/add hot water − if data is above 30 then a microprocessor sends signal is sent to turn the heater off to allow the water to cool down/add cold water − Actuator used to turn headset on/off // Actuator used to add water − If data is 30 then no action is taken − It is a continuous process October/November Question Answer Marks − NAND − NOR October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q8.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C Working space X 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 0 1 0 1 1 1 1 0 0 1 1 1 1 4 marks per 8 correct outputs 3 marks per 6/7 correct outputs 2 marks per 4/5 correct outputs 1 mark per 2/3 correct outputs Question Answer Marks 11 One mark per each correct term. Terms Description HTML the language used to create a web page Browser the type of software application used to display a web page IP address an address given to a computer, by a network, to allow the computer to be uniquely identified Cookie a text file sent by a web server to collect data about a user’s browsing habits Internet Service Provider // ISP the company that provides a connection to the Internet",
+          "image": "/papers/computer_science-0478-2021/q10-10c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

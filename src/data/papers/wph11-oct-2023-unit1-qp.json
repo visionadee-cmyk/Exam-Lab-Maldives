@@ -1,0 +1,69 @@
+{
+  "paperId": "wph11-oct-2023-unit1-qp",
+  "pairedMarkSchemeId": "wph11-oct-2023-unit1-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH11/01",
+  "session": "October 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆W = F∆s Use of P = W / t (allow P = 28 (W), which is not equal to 35 (W), so is not consistent [Use of 푣= 푠 푡 [1] Use of 푃 = 퐹푣 [1] P = 28 W which is not equal to 35 W, so is not consistent [1]] Allow approaches that work backwards from 35W to determine time, number of repetitions, force applied or vertical distance moved. Example calculation ∆W = 150 N × 0.25 m = 37.5 J P = 37.5 J×90 120 s = 28.1 W (1) (1) (1) Total for question 14 7 Number Answer Mark (1) 1 Use of moment = Fx Moment (of weight of ladder about hinge) = 27 (N m) and moment (of weight of board about hinge) = 22.5 (N m) Or combined moment (of weight of ladder and board about hinge) = 4.5 (N m) Combined moment (of the weights of the board and ladder about the hinge) is clockwise. Or clockwise moment is greater than anticlockwise moment The block causes a force / moment so the resultant moment (on ladder and board) is zero Example calculation Distance from hinge to centre of gravity of ladder = ( 2.7 m −0.85 m) Clockwise moment =54 N× ( 0.50 m ) =27 N m Anticlockwise moment 50 N × 0.45 m = 22.5 N m (1) (1) (1) (1) (1) Force = 5.6 N (ecf from(b)(i)) If no other mark scored, allow 1 mark for a force calculated using a distance of 0.80 m with a valid moment using data from the question Example calculation Resultant moment = 27 N m – 22.5 N m = 4.5 N m F= 4.5 N m 0.80 m =5.63 N (1) (1) Total for question 15 8 Number Answer Mark They are not the same type of force (1) (1) Use of ε = Δ푥 푥 Use of F = kΔx and σ = 퐹 퐴 Use of E = 휎 휀 [allow a method using E = 푘푥 퐴 for 3 marks] E = 2.1 × 10 Pa Example calculation Δx = 3 × 10 −4 × 3.8 m = 1.14 × 10 −3 m F = 2.8 × 10 N m −1 × 1.14 × 10 −3 m = 3.19 × 10 N σ = 3.19×104 N 5.1×10 −4 m = 6.26 × 10 Pa E = 6.26×10 Pa 3.0×10 −4 = 2.09 × 10 Pa (1) (1) (1) (1) Area under graph = elastic strain energy (can be indicated on graph) Weight of electromagnet is still exerted on cable after object falls (can be indicated on graph) So change in elastic strain energy = area und",
+          "image": "/papers/wph11-oct-2023/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2023/page-11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit1-2023-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph11-oct-2023/page-01.png",
+      "/papers/wph11-oct-2023/page-02.png",
+      "/papers/wph11-oct-2023/page-03.png",
+      "/papers/wph11-oct-2023/page-04.png",
+      "/papers/wph11-oct-2023/page-05.png",
+      "/papers/wph11-oct-2023/page-06.png",
+      "/papers/wph11-oct-2023/page-07.png",
+      "/papers/wph11-oct-2023/page-08.png",
+      "/papers/wph11-oct-2023/page-09.png",
+      "/papers/wph11-oct-2023/page-10.png",
+      "/papers/wph11-oct-2023/page-11.png",
+      "/papers/wph11-oct-2023/page-12.png",
+      "/papers/wph11-oct-2023/page-13.png",
+      "/papers/wph11-oct-2023/page-14.png",
+      "/papers/wph11-oct-2023/page-15.png",
+      "/papers/wph11-oct-2023/page-16.png",
+      "/papers/wph11-oct-2023/page-17.png",
+      "/papers/wph11-oct-2023/page-18.png",
+      "/papers/wph11-oct-2023/page-19.png",
+      "/papers/wph11-oct-2023/page-20.png",
+      "/papers/wph11-oct-2023/page-21.png",
+      "/papers/wph11-oct-2023/page-22.png",
+      "/papers/wph11-oct-2023/page-23.png",
+      "/papers/wph11-oct-2023/page-24.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

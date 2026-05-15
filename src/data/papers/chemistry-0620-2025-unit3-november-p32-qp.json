@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2025-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit3-november-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "October/November 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "number of electrons 36 number of neutrons 48",
+          "image": "/papers/chemistry-0620-2025/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change effect on the volume of krypton temperature is decreased decreases pressure is increased decreases motion: sliding over each other / random (1) Question Answer Marks + October/November 2025 Question Answer Marks white precipitate (1) Question Answer Marks October/November 2025 Question Answer Marks 2 carbons AND 1 OH group (1) all structure is correct (1) 300 (°C) (1) 60 (atm) (1) October/November 2025 Question Answer Marks between melting and boiling point (1) liquid (1) • moves • floats • melts / turns into a sphere/ball • effervescence/bubbles/fizzing • pops / explodes • (yellow-orange) flame • solid gets smaller / disappears • gets hot / temperature rise / heat produced / temperature (becomes) high(er) SO (1) → Na2SO4 + CO2 + H O (1) 2 to blue (1) October/November 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q2-2b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q2.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5g",
+          "text": "Part 5g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Na + ion correct (1) F – ion correct (1) both charges are correct (1) Question Answer Marks the iron(III) oxide has lost oxygen (atom(s)) of a metal with other elements (1) oxygen (1) iron(III) oxide (1) October/November 2025 Question Answer Marks hydrogen (1) Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q5-5g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "electrolysis",
+          "image": "/papers/chemistry-0620-2025/q7-7a.png"
+        },
+        {
+          "id": "7f",
+          "text": "Part 7f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "aqueous MgCl2 solid MgCl2 chemically combined with water anhydrous MgCl2 MgCl2 dissolved in water hydrated MgCl2 solid MgCl2 containing no water October/November 2025 Question Answer Marks ) 1 energy (level) of products below that of reactants (1) ORA",
+          "image": "/papers/chemistry-0620-2025/q7-7f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit3-2025-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

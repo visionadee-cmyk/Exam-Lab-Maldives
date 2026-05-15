@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2024-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2024",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) • Attach the spring to the clamp, as shown in Fig. 1.1. • Suspend a mass m = 500 g from the spring. clamp bench 500 g mass stand Fig. 1.1 • Pull the mass down a small distance (2–3 cm) from its rest position and release it. The mass oscillates up and down. The period T of the oscillations is the time taken for one oscillation. One complete oscillation of the mass is shown in Fig.",
+      "text": "1 (a) • Attach the spring to the clamp, as shown in Fig. 1.1. • Suspend a mass m = 500 g from the spring. clamp bench 500 g mass stand Fig. 1.1 • Pull the mass down a small distance (2–3 cm) from its rest position and release it. The mass oscillates up and down. The period T of the oscillations is the time taken for one oscillation. One complete oscillation of the mass is shown in Fig.",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match candidate’s values of k and k values used in a calculation to justify the statement",
+          "image": "/papers/physics-0625-2024/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V and I present and readings to at least 1 d.p for voltage and 2 d.p. for current",
+          "image": "/papers/physics-0625-2024/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "both readings present I  (a) 0625/52 May/June 2024",
+          "image": "/papers/physics-0625-2024/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I  I R calculations correct R values in the range 1.0  to 5.0  inclusive as the current decreases the potential difference / voltage across the diode remains (fairly) constant / decreases (slightly) as the current decreases the resistance increases / power supply / ammeter connected: the wrong way around / flipped / in the wrong direction OR voltmeter connected in series",
+          "image": "/papers/physics-0625-2024/q2-2c.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "variable resistor and correct symbol",
+          "image": "/papers/physics-0625-2024/q2-2g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "60 (  ) ",
+          "image": "/papers/physics-0625-2024/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "two crosses present and cross separation ⩾ cm EJ recorded and measured correctly  mm d recorded and measured correctly  mm d / l in the range 0.40 to 0.45 inclusive",
+          "image": "/papers/physics-0625-2024/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "thickness of the light rays / difficulty in aligning incident ray with FE / difficulty of placing crosses accurately / difficult to j udge the centre of the ray",
+          "image": "/papers/physics-0625-2024/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat with  = 60  on the other side of the normal OR repeat with optical pins L recorded to the nearest mm 0625/52 May/June 2024 ratio correct from candidate’s values n value in the range 1.40 to 1.65 MP1 variable chosen: valid variable which may affect d MP2 additional apparatus: rule r / measuring tape AND additional apparatus (if needed) to measure the independent variable MP3 method:  (place ball and release), measure dependent variable  repeat for new value of independent variable MP4 control variables: any significant variable appropriate to the independent variable MP5 table: columns, with units, for independent variable and dependent variable MP6 conclusion: compare readings in the table to see if / how a change in the variable produces change in d OR plot a (line) graph with axes specified MP7 additional point: any one from:  second valid control variable stated  at least 5 sets of data taken  repeat each measurement AND take the average",
+          "image": "/papers/physics-0625-2024/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit5-2024-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

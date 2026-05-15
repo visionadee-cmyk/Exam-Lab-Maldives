@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-oct-2020-unit6-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2020-unit6-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI16/01",
+  "session": "October 2020",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• there will be no difference between the length of leaves treated with insecticide or water (after 56 days) (1) (1 ) exp Number Answer Additional Guidance Mark 26 / 26.1 / 26.13 (%) Allow 21 / 20.7 / 20.71 (1 ) grad Number Answer Additional Guidance Mark • suitable table format with data (1) • correct column headings with units (1) • means correctly calculated (1) Length of leaf /cm Insecticide treated Water treated 12.6 9.1 13.1 9.4 13.9 10.3 14.0 10.1 11.1 10.4 11.6 10.9 12.4 9.0 12.9 9.7 12.5 9.9 13.4 10.8 13.7 9.3 12.0 9.8 11.9 9.2 12.6 9.7 11.8 9.4 mean 12.6 9.8 (3 ) exp Number Answer Additional Guidance Mark 2c • bar graph with linear scale and axes labelled with unit (1) • means plotted correctly (1) • range bars plotted correctly (1) ALLOW ECF from 2b axes mean length (cm) and insecticide /water 12.6 9.8 14-11.1 and 10.9 -9.0 (3 ) exp Number Answer Additional Guidance Mark • denominator calculation or value shown (1) • t = 10.3 / 10.31 (1) = ‘insert calc’ / 2.8 OR ‘insert calc’ / 2.83 = ‘insert calc’ / 0.272 OR ‘insert calc’ / 0.273 OR 10.4 / 10.37 Correct answer with no working gains full marks (3 ) exp Number Answer Additional Guidance Mark • critical value is 2.048 and the calculated value (10.31) is more than the critical value (1) • therefore reject the null hypothesis there is a difference between the length of the leaf of insecticide treated and water treated( thistle plants) (1) • comment on variability of data (1) IGNORE other calculated values as long as they are greater than 2.048 range bars do not overlap IGNORE reliability / accuracy / reliability / repeatability (2 ) exp Number Answer Additional Guidance Mark • the leaves should have been measured before the treatment (because the rate of growth may be different) (1) • the environmental conditions need to be controlled/measured (because they will affect the rate of growth) (1) • the leaves should have been measured at different {time interval(s) / growth season} (to compare the rate of growth)",
+          "image": "/papers/wbi11-oct-2020/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• one sensible risk identified eg cuts/burns/allergies/infections/electrocution (1 ) exp Number Answer Additional Guidance Mark • find a suitable method for measuring the production of oxygen (1) • over a suitable time period (1) • find a suitable method for varying the light intensity (1) IGNORE practise the method IGNORE rate of photosynthesis / counting oxygen bubbles ALLOW stated number of minutes / hours e.g. 10 minutes to 8 hours (3) Exp Number Answer Additional Guidance Mark • clear statement of the dependent variable (1) • description of method to provide 5 different intensities of light (1) • plant given time to acclimatise (1) • description of method for measuring gas volume (1) • method of calculating rate of gas released (1) • the carbon dioxide must be in excess (1) • variables that need to be taken into account (2) • description of how these variables are {controlled/measured} (2) • repeats for each light intensity (1) ALLOW {volume / concentration} of oxygen IGNORE counting oxygen bubbles ALLOW equilibrate IGNORE counting bubbles ALLOW number of bubbles per unit time ALLOW use of sodium hydrogen carbonate e.g. temperature, pH, background light e.g. controlled room temperature or waterbath. buffer or pH meter, blackout other light sources (10) exp Number Answer Additional Guidance Mark • table with headings (1) • means calculated from repeats (1) • line graph format with labelled axes (1) • use of an appropriate correlation statistical test (1) ALLOW concentration of oxygen Units only needed once from table or graph ALLOW sketch graph either rising or falling depending on axis labels e.g. Pearsons, Spearman’s Rank (4 ) exp Number Answer Additional Guidance Mark • difficult to control all variables affecting {growth / photosynthesis} of plants (1) • idea of difficulty of controlling a named variable (1) • idea that surface area cannot be controlled/measured (1) • possible errors in measuring volume of gas released (1) ALLOW biotic/ abiotic variables e.g",
+          "image": "/papers/wbi11-oct-2020/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2020-unit6-2020-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

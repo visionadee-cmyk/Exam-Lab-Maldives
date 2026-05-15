@@ -1,0 +1,193 @@
+{
+  "paperId": "wma14-jan-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-jan-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "January 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 (2)(21)221 (21) xABC xxxxx + =++ −+−++ E.g. . 34(21)(2)(21) (2) : 0 42 1025... or ... o,r .: 33,: 422. xA xB xxC x x AB xAA AAC B C xBC xC xA → =   == − → + =+ + − = + + − = = += −− −  →==+− = M1 One of , , A B C = = − = − A1 ....,... and ..ABC=== M1 ( ) ( ) , ( 2)(2 1) (2 1) 5 2 or , x AB x x x xx C + = − − = = − −+ −+ =− + A1 (4) (b) ( ) ln d xx p x  =− −  or ( ) n1 dl x q x x  =+ +  Alt: ( ) + (2 1) (2 1) ( d d ln 2 ... ) xx xx xx x x  ++ + + + = = + +  M1 d (2 1) k K x x x = + +  M1 3424\"1\" \" \"\" \" ln(2)ln(21) (2)(21)554 d x x xx xxx  + − −+ +  −++  =  A1ft ln(10)ln(25)ln(5)ln(15)...   =−+ −−+ =     DM1 ln ln ln ... 25 50 15 30 =   + − − = + M1 ln − (oe) A1 (6) (10 marks) Notes: (a) M1: Attempts a correct method leading to one of the constants. E.g. Multiplies through to (2 1) ( 2)(2 1) ( 2) x A x B x x C x + = + + − + + − (allowing for minor slips) and substitutes x=− or x = 2 or other method such as comparing coefficients. Implied by a correct value for A by cover-up rule if no incorrect working is seen. If e.g. multiplies through by a wrong term such as ( ) x + then allow M1 here for the attempt. A1: Any one of the three constants correct (probably A or C). M1: For a full and correct method to obtain all three of the constants. If e.g. multiplies through by a wrong term such as ( ) x + then M0 here. Implied by correct values if no method shown following a correct identity (otherwise M0 for just incorrect values stated). A1: For a correct full partial expression form or correct values stated. Note: if by comparing coefficients allow both M’s for achieving any 3 values following three equations from the attempt at comparing with at least one correct. (b) M1: For integrating to obtain at least one ln term. Note ( ) ln 5 x  − and ( ) ln 10 x  + are equally fine, as are other constant multiples of the inner brackets. M1: For ( (2 ) 1) k K x x + → + (any K) oe. A1ft: Fully correct integration following through on their non-zer",
+          "image": "/papers/wma14-jan-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 y x y x k + = + ( ) d ... ... d y y x x y →  + or d d y y x → M1 d d y y x xy y x →+ A1 .... 34 d . . 38 d y xyxk x =++=+→ A1 d d d ... d d d y y y xy y x x x x + + =  = dM1 d8 d y x y x xy − = + oe A1 (5) (b) d 084 0... d y xx x =  − =  = M1 p = A1 3 2 4 ... k  + −  = =  M1 k = A1 (4) Alt (b) ( , 2) p on C 6 4 p k p k pp  +  + + − = −= 6 0 p k  −   − + − =  or ( ) 16 16 ck b a − = − − M1 (Min, single solution) p= or () 716 1660kk−−== A1 k   = − −   or . 7 6 .. p pp  + = − − = M1 The other of p = and k = A1 (4) (9 marks) Notes: (a) M1: Some evidence of an attempt at implicit differentiation. Look for one of the terms being differentiated with either the d d y x or a term with d d y kxy x or d d y ky x y→ as part of a product rule seen appropriately. A1: yx differentiated correctly A1: d d y y x → and xk x + → dM1: Make d d y x the subject with correct terms factored (but allow e.g. sign errors rearranging or slips in copying). There must be at least two d d y x terms in their expression. A1: Correct expression, accept any equivalent. (b) Note: allow all marks in (b) from a correct numerator in (a) if the denominator is incorrect. M1: Sets the numerator of their d d y x to zero and substitutes y = and solves for x. They must have a y term in their numerator to be able to access this mark. If the numerator also contains a k they will need to also use the equation of the curve to find a second equation in p and k and solve simultaneously – look for them reaching a value for p. A1: Correct value for p or x M1: Must have been attempting d d y x = to find p. Substitutes back into the curve to find k. May be scored if their numerator was in terms of x only. A1: Correct value for k Alt (b) M1: Substitutes (p, 2) into the equation of the curve and attempts to complete the square or considers the discriminant (or other valid method to be able to deduce the values using a single root) A1: Correct value for p or k M1: Substitutes back into the curve ",
+          "image": "/papers/wma14-jan-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) lr =+ B1 (1) (b) ( ) ( ) . d .2 d S Sr r r r r r r r r      −  = + = +   +  + + + Or () ()() d1 252.25504 d2 S Srrrrrrrr r    − ++   =→ = + +   + M1 A1 ( ) ( ) ( ) 5. d .2 d S S l l l l l l l l l      −  = − + =  +  − − +   − (M1 A1) d d d d .. d d S r r t t S  =  = M1 ( ) cm / min 81.5 = A1 (4) (5 marks) Notes: (a) B1: Correct expression. Accept ( ) lr =+ and isw. (b) M1: Differentiates their surface area with use of the product and chain rules on a term of the form Kr L r  - look the form (oe) ( ) \"25\" \"25\" P r Qr r − + + + . The base area may be missing for this mark. Alternatively they may work in terms of l and the scheme marks equivalently – see box in main scheme for the derivative in this case. Alt: Taking r inside the square root look for ( ) ( ) . r K r r K r rr  − →  + ++ A1: Correct differentiation for the curved surface area. Need not be simplified. Alt: With r inside the square root ()() 25.25504 rrrrrr − → +++ M1: Applies the chain rule correctly with d d r t = and their expression for d d S r (which may be in terms of r and l) or their value for d d S r at r = 1.5 if they find this first. This mark is for the chain rule being applied, so their previous expressions need not have been correct. If they are working in terms of l they will need to use dd ddd dd d lr rt SS tl = . A1: For awrt 81.5, do not need the units. Accept 177 109    +   oe (FYI it is 81.535404...) (b) Alt 1 ( ) ( ) ( ) d ) 9 ( ') 3 ( ) d ( ' ( ') r t c S t c r tc t tc   = +  + = + ++ =+ ( ) ( ) ( ) ( ) ( ) 25 9 . d .18 d t t t t t S t    −   + + +  =+   Or ( ) ( ) ( ) ( ) ( ) d1 3 . d S t t t t t t  −     = +  +  +      where ( () t may be ( ) ( ') tc + throughout) M1 A1 ( ') 0.5 ... d 1.5 d S r t tc  + = ==  M1 ( ) cm / min 81.5 = A1 (4) Notes: Alt 1 (b) M1: Uses d d r t = and integrates to 3rt c=+ , where c may be omitted (without loss of generality the time frame can be set to t = 0 when r =",
+          "image": "/papers/wma14-jan-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 d 2 . cos 2 . sin 2 sin d x x x x x x x x =−  M1 A1 cos 2 cos d . sin 2 x x x x xx  = − −    −  −  M1 ) co sin 2 si s2 n 2( x x x x x c = + − + A1 (4) (b) d cos d cos dd e.g. d or d d y t y t y t t y tt t y t y  ==    B1 ... y =; .s d .. co 2 tt t t =+  M1; M1 11 11 ...sin 2sin 2() cos ttttttc  = ++−+   M1 s in 2 sin 2 s co t t t t t t c y = + + − +  A1ft (5) (9 marks) Notes: (a) M1: Attempts parts in the correct direction – look for ssin 2d2inABxxxxx  unless they explicitly state an incorrect formula (in which case it is M0). A1: Correct first application of parts. M1: Attempts parts again in the same direction. sin d cos 2 cos d x x Kx x L x x x →   A1: Correct answer with or without constant of integration. ISW after a correct answer. (b) Note: accept use of x in place of t (or even mixed x’s and t’s) for the method marks if the intention is clear, but the final A mark needs to be correct in terms of t. B1: Correct separation of variables with indication to integrate (e.g. statement as shown in scheme, or an attempt to integrate one side). M1: For ... nn yy + → on the left hand side. M1: Applies double angle formula to right hand side. Accept ( ) 1 co 2 o cs s tt →   for this mark. M1: Applies their result from (a) (allow with t or x here) or redoes integration by parts and reaches the correct form or same form as their (a), and integrates the t “2” term (no need for +c) A1ft: Achieves the correct result, accepting equivalent forms, but must include a constant of integration (+ c or other labelling is fine). Follow through on their answer to (a) providing isw was not applied. So for their answer to ) (a tc y  = + + DI method S D I + x cos 2x - 2x sin 2 x + 2 cos 2 x− - 0 sin 2 x − M1 A1 cos 2 sin 2 d cos 2 sin 2 x x x x x x x x  −  = +− −  M1 ) co sin 2 si s2 n 2( x x x x x c = + − + A1 Notes M1: Sets up a correct table or equivalent method with x and cos x as the leads. A1: Correct tables of derivatives and integrals. M1: E",
+          "image": "/papers/wma14-jan-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-11.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) ( ) 3 2 8 4 (1) (2) 7 4 5 2 (3) p p     + + + − + = − + + + + + = +  − = − + + = + i j k i j k i j k i j k M1 e.g. (3) 2 (1) : 1 11 6  −  = − −  = − or     =  − M1  =− ,  =− 2 2 ... p  = − − − = M1 p =− A1 (4) (b) Intersect at ( ) ( ) . 2 4 . − + +− + + = i j k i j k M1 =− + jk A1 (2) (c) ( ) ( ) 4 5 1 4 2 ... .2 = − + + +  −  +  = i j k i j k M1 \"11\"11 cos...0.3578...    == ==  + ++ +  M1 cos .0  − = =  A1 (3) (d) OA   =  = −    + i j k B1ft ()() ()() 1 410 2 AB   =−         − + ++ +− +    =  ++ + + − +    ijki jkijk ijk M1 ( ) ( ) ( ) 1 4 . 0 2 ..         + + + + − + + +  = = −       =        i j k i j k M1 ( ) ( ) . \" .. \" 4 OB − + − + + = + = i j k i j k dM1 2213142213 14 or ,, 36336 3  =   − +−ijk A1 (5) (14 marks) Notes: Accept alternative notations, such as column or row vector notation, throughout. Condone if i, j and k are left in columns etc. except for in the final answers to (b) and (d). (a) Note: work for (a) must be shown in part (a) not recovered from later parts. M1: Equates equations of the lines and extracts at least two simultaneous equations (usually (1) and (3)) by equating coefficients. M1: Solves the equations to find at least one of  or  M1: Uses their values or other suitable method to find p allowing for slips. A1: Correct value. (b) M1: Uses either parameter to find the point of intersection. May be implied by two correct entries if no method shown. A1: Correct point. Accept as coordinates or in vector form. (c) M1: Attempts the scalar product with the two direction vectors (or any multiples of them). Allow if there are miscopies etc if the intent of the two correct vectors is clear. Note that − + −ijk and − − − i j k are commonly seen correct direction vectors. M1: Applies the scalar product formula to find the value for cos θ. Allow if wrong “direction” vectors are used, or if a slip is made but the intent is clear.",
+          "image": "/papers/wma14-jan-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d 2 sin 2 4 4 cos 2 d u u x x x x  = + = + oe M1 A1 ( ) ( ) ( ) 2sin 2 d e 4 4 co d s 2 8 co d ed s cos u xx u u x x x x x      +   = + =  =  M1 \"\" e u   =   or 2 sin 2 \" \"e xx  +    A1ft Alt by inspection for first 4 ( ) 2sin in 2s 2 e d e 1 co s co s 2 d xx xx x x x x + +  =  (M1 A1) 2 sin 2 2 sin 2 e \" \"e; x x x x k  ++  ==   (M1; A1ft) e u   =   or 2 sin 2 e xx  +    ( ) e  =− * A1*cso (5) (b) V ( ) sin 2 d co e s d6 xx y x x x   +   =   =   2sin 2 cos e d xx x x   + =  B1 ( ) 2sin 2 cos e d e xx x K Kx   + = −  M1 ( ) e1   =− A1 (3) (8 marks) Notes: (a) M1: Attempts the derivative of u. Look for . s . in . c 2 os x x → May apply double angle formula first, look for ( ) ( ) d d sin cos n os s c i u x k x x x x u k x →= = + − + oe. Form should be correct but there may be sign errors. A1: Correct derivative (any form). M1: Applies a double angle formula – must be seen – and carries out the full substitution to get an integral in terms of u. Must include an attempt to replace dx. Do not be concerned with the limits for this mark. A1ft: Integrates to achieve the correct form with their constant with correct limits assigned (either in u or reverted in x)– must have scored the M1. A1*cso: Correct answer from fully correct working. Must have identified correct limits in terms of u or have reverted back to x with the original limits before giving the final answer. Alt for first 4 marks, by inspection: M1: Applies double angle formula for cos x (allowing for sign error) in the integrand in the form shown – must be this form to be able to apply recognition. A1: Correct expression for the integrand in this form. M1: Integrates, achieving the correct form. A1ft: Achieves the correct integral from correct work with correct limits assigned – the double angle formula must have been correct (follow through if e.g they lose the ½ from the double angle formula before integrating). (b) B1: Applies correct vo",
+          "image": "/papers/wma14-jan-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-17.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d sec tan d x tt t = and d c d se t y t  +  =   B1 sec d d d d d d sec t an t y y x x t t t t  +     =  =   oe M1 A1 (3) (a) Alt tan3 sc3 1tan e t t xty + − == d sec tan d x tt t = and ( ) ( ) ( ) ( ) 3 tan sec ta d n 3 sec 3 t n d a t t t t y t t −− − − + = (oe) B1 ( ) ( ) ( ) ( ) 3 tan sec t d d d d d d an 3 sec sec tan 1 3 tan tt t t t tt y y x x t t −+ − − =  = − oe M1 A1 (b) 2, t x y  =  = = − B1 () sec d ... d sec tan t y x    ==== M1 Tangent is ( ) 3 2 y y x x +  − =− = cso M1A1 (4) (c) tan tan 1 tan tan t y t    =  M1 sec1 tan1tanxtttx+==−= x y x −+ − = −  M1 A1 .. x xx x − = + −− −+ = −+ ( ) ( ) .. 133 31 1 .. xx x x x x x −+ = +− = − −− +− −+ M1 34 3 3x x x = − +− A1 (5) (12 marks) Notes: (a) B1: Both derivatives given correctly. See Alt for an alternative form for y M1: Divides their d d y t by their d d x t A1: Correct expression and isw after a correct answer, accept any equivalent – e.g. see the Alt form in scheme. (b) B1: Correct values for x and y stated or implied. M1: Some evidence of substituting in t  = to their gradient expression to find the gradient of the tangent. Must be evaluated. You may need to check their value matches their d d y x if no substitution or other evidence is shown. M1: Correct method for the equation of the tangent, using their evaluated gradient. Must use their d d y x for the gradient but allow a slip in sign on one side for the coordinates in the formula. If they use y = mx + c they need to proceed as far as finding c. A1cso: Correct equation in the form stated. Must have come from a correct d d y x . (c) M1: Attempts the compound angle formula on y, accept with sign errors. Allow if the is missing. Must be seen or used in part (c). M1: Uses sec 1 tan tt =+ to find tan t or tant in terms of x and substitutes to produce an equation linking y and x. Allow if there are errors rearranging after a correct formula. A1: Any correct Cartesian formula, with trig terms evaluated. M1: Full meth",
+          "image": "/papers/wma14-jan-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2024/page-23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wma14-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2024-unit1-2024-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-jan-2024/page-01.png",
+      "/papers/wma14-jan-2024/page-02.png",
+      "/papers/wma14-jan-2024/page-03.png",
+      "/papers/wma14-jan-2024/page-04.png",
+      "/papers/wma14-jan-2024/page-05.png",
+      "/papers/wma14-jan-2024/page-06.png",
+      "/papers/wma14-jan-2024/page-07.png",
+      "/papers/wma14-jan-2024/page-08.png",
+      "/papers/wma14-jan-2024/page-09.png",
+      "/papers/wma14-jan-2024/page-10.png",
+      "/papers/wma14-jan-2024/page-11.png",
+      "/papers/wma14-jan-2024/page-12.png",
+      "/papers/wma14-jan-2024/page-13.png",
+      "/papers/wma14-jan-2024/page-14.png",
+      "/papers/wma14-jan-2024/page-15.png",
+      "/papers/wma14-jan-2024/page-16.png",
+      "/papers/wma14-jan-2024/page-17.png",
+      "/papers/wma14-jan-2024/page-18.png",
+      "/papers/wma14-jan-2024/page-19.png",
+      "/papers/wma14-jan-2024/page-20.png",
+      "/papers/wma14-jan-2024/page-21.png",
+      "/papers/wma14-jan-2024/page-22.png",
+      "/papers/wma14-jan-2024/page-23.png",
+      "/papers/wma14-jan-2024/page-24.png",
+      "/papers/wma14-jan-2024/page-25.png",
+      "/papers/wma14-jan-2024/page-26.png",
+      "/papers/wma14-jan-2024/page-27.png",
+      "/papers/wma14-jan-2024/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,71 @@
+{
+  "paperId": "computer_science-0478-2017-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Describe the purpose of each statement in this algorithm. FOR I 1 TO 300 INPUT Name[I] NEXT I ................................................................................................................................................... ....................................................................................................................",
+      "text": "5 (a) Describe the purpose of each statement in this algorithm. FOR I 1 TO 300 INPUT Name[I] NEXT I ................................................................................................................................................... ....................................................................................................................",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "- Prompt and input number (1) - Checking the input number is between 0 and 100 - both limits (1) - Correct error message (1) Many correct algorithms. This is an example only. OUTPUT \"Enter a number between 0 and 100 \" INPUT Number IF Number < 0 OR Number > 100 THEN OUTPUT \"The number you have entered is outside the specified range\" ENDIF Question Answer Marks HighF HighC TempF OUTPUT –100 –100 68 18 46 68 18 50 68 18 86 86 27 65 86 27 50 86 27 40 86 27 30 86 27 –1 The highest temperature is, 86 Fahrenheit, 27 Celsius. (1 Mark) (1 Mark) (1 Mark) (2 Marks – see below) The literal correct output is “The highest temperature is, 86 Fahrenheit, 27 Celsius.” 1 mark for values 86 and 27, 1 mark for correct output words, spacing and punctuation. 0478/23 May/June 2017 Question Answer Marks - It is the primary key/key field with unique data - (Fixed length) text field with alphanumeric data",
+          "image": "/papers/computer_science-0478-2017/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field name Data type ScreenSize Number 3D Boolean CurvedFlat Text Internet Boolean HDD Boolean Price Currency 1 mark for every two correct data types",
+          "image": "/papers/computer_science-0478-2017/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: TVID ScreenSize CurvedFlat HDD Price Table: TVSTOCK TVSTOCK TVSTOCK TVSTOCK TVSTOCK Sort: Ascending Show:; ;  ; Criteria: =“CV” YES or: (1 Mark) (1 Mark) (1 Mark) (1 Mark) (1 Mark)",
+          "image": "/papers/computer_science-0478-2017/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit2-2017-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

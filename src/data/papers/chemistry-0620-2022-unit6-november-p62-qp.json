@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2022-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 ‘∙’ shown anywhere on base line M2 horizontal line drawn between bottom of paper and baseline. Line must not touch spot drawn on baseline or the baseline Question Answer Marks M2 all eight temperatures recorded for Experiment 2 correct (22.0, 25.0, 27.5, 28.0, 27.5, 27.0, 26.5, 26.0) 1 M3 all 7 temperature changes in Experiment 1 calculated correctly (3.0, 5.5, 7.0, 8.0, 7.5, 7.0, 6.5) 1 M4 all 7 temperature changes in Experiment 2 calculated correctly (3.0, 5.5, 6.0, 5.5, 5.0, 4.5, 4.0) 1 M5 all temperature changes recorded to one decimal place 1 M2 all points for Experiment 1 plotted correctly. (0,0) not required 1 M3 all points for Experiment 2 plotted correctly. (0,0) not required 1 M4 two acceptable smooth curves drawn which are both extended to (0,0) 1 M5 lines labelled or key 1 October/November 2022 Question Answer Marks of acid to Experiment 1 line 1 M2 correct reading from their working shown on graph 1 or reaction over / stopped / finished / all NaOH / G / H has been used up M2 as maximum temperature change higher in Experiment 1 OR M2 (maximum temperature change) needs more (hydrochloric acid) in Experiment 1 M2 as less heat lost / polystyrene is a (better) insulator 1 disadvantage: slow / takes more time (to add) / can overshoot required volume 1 Question Answer Marks + carbonate / CO 2– M2 dissolves 1 October/November 2022 Question Answer Marks M2 remains / does not redissolve / no change 1 October/November 2022 Question Answer Marks 4 any 6 from mass increase method MP1 known / stated / find mass of hydrogel MP2 repeat experiment for second hydrogel MP3 add excess water MP4 stir / mix with water MP5 filter (to obtain solid hydrogel / excess water) MP6 weigh hydrogel MP7 mass of water absorbed = final mass – initial mass OR add gradually method MP1 known / stated / find mass of hydrogel MP2 repeat experiment for second hydrogel MP3 add water gradually to hydrogel MP4 stir / mix MP5 until no more absorbed MP6 find mass of hydrated hydrogel MP7 mass of",
+          "image": "/papers/chemistry-0620-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit6-2022-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

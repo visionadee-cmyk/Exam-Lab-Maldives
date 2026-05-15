@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2025-unit3-june-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit3-june-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "7 (a) Select two processes that show a chemical change. Tick (3) two boxes. boiling water burning methane dissolving salt mixing ink and water rusting of iron [2] (b) The reaction of hydrogen with nitrogen is a reversible reaction. Write the symbol that shows a reversible reaction. ..................................................................",
+      "text": "7 (a) Select two processes that show a chemical change. Tick (3) two boxes. boiling water burning methane dissolving salt mixing ink and water rusting of iron [2] (b) The reaction of hydrogen with nitrogen is a reversible reaction. Write the symbol that shows a reversible reaction. ..................................................................",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "⇌ May/June 2025 Question Answer Marks H2 (1) reactants on left hand line and products on right hand line on the graph (1) Question Answer Marks sedimentation – to remove solids chlorination – to kill microbes all 3 correct = 2 marks 1 correct = 1 mark pure water melts at 0 °C / has a sharp melting point / if not 0°C then it must be impure. OR impure water melts at a lower mp than 0 °C / melts over a range of temperatures OR compare the melting point of the water sample to the mp of pure water. particulates: respiratory problems / cancer (1) May/June 2025 Question Answer Marks neutralisation (1)",
+          "image": "/papers/chemistry-0620-2025/q7-7b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit3-2025-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

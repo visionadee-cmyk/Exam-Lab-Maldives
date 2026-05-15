@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6 • OPENFILE MyPassword.txt FOR WRITE • WRITEFILE MyPassword.txt, Password • CLOSEFILE MyPassword.txt Yes START START INPUT Password STOP IS Length Password >= 8 ? No OUTPUT \"accepted\" IS Password <> OldPass? OUTPUT \"rejected\" No Yes One mark for: • correct use of flowchart symbols • working flowlines • input correct • working length check • working comparison • correct output messages October/November 2024 Question Answer Marks • needs to be retrieved on demand // saved for a later date • storage must be non-volatile Question Answer Marks • Line 03 Temp should be Temperature • Line 04 = should be <> • Line 14 OR should be AND • Line 19 WHILE should be UNTIL 01 REPEAT 02 OUTPUT \"Please enter temperature \" 03 INPUT Temperature 04 IF Temperature <> 999 05 THEN 06 IF Temperature > 38.0 07 THEN 08 OUTPUT \"Temperature too high\" 09 ENDIF 10 IF Temperature < 35.0 11 THEN 12 OUTPUT \"Temperature too low\" 13 ENDIF 14 IF Temperature >= 35.0 AND Temperature <= 38.0 15 THEN 16 OUTPUT \"Temperature normal\" 17 ENDIF 18 ENDIF 19 UNTIL Temperature = 999 October/November 2024 Question Answer Marks • greater than or equal to 35 • and less than or equal to 38 Temperature OUTPUT (Please enter temperature) 34.22 Temperature too low (Please enter temperature) 36.1 Temperature normal (Please enter temperature) 37.4 Temperature normal (Please enter temperature) 38.0 Temperature normal (Please enter temperature) Question Answer Marks ChNo October/November 2024 Question Answer Marks • CH04 0.0 • CH05 50.0 SELECT Name FROM CheeseStock WHERE NOT InStock // InStock = No / \"No\" / False // WHERE WeightKg = 0.0; • WHERE clause can check either the InStock field for FALSE / No / \"No\" or • the WeightKg field for 0.0 October/November 2024 Question Answer Marks • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario. 1D Array or list MemberName[], MemberTime[], MemberCertificate[], Position[] Variables Index, Last, ClubSize, T",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

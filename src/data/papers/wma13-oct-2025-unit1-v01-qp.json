@@ -1,0 +1,217 @@
+{
+  "paperId": "wma13-oct-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-oct-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "October 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 (1) (b) g ( ) x x x − − = − or oe x  M1A1 B1 (3) (c) g(0) f ln     =  =         M1A1 (2) (d) 3+5e 5e 3 4e e ... e2 a aaa a =  + = +  = + e ln 5 ... a aa =  =  = ln 5 a = M1 dM1 A1 (3) (9 marks) dM1: Takes valid lns of both sides (must be lns of positive numbers) and proceeds to find a value for a. It is dependent on the previous method mark. A1: ( ) ln 5 a = or exact equivalent and isw (a) M1: Attempts f (1) and f (2) . Values embedded in the expression is sufficient (accept slips if the intention is clear), or if no substitution is seen accept one correct value (truncated or rounded to 1sf) with an attempt at both made. A1: Both f (1) and f (2) correct (truncated or rounded to 1sf), reason (e.g. “sign change” or < 0, > 0 shown) and conclusion. Must refer to the function being continuous (over the interval) in some way, though be tolerant with language used. Note: a narrower interval may be used but if so must contain the root 1.183... to score the M. (b) M1: Sets f(x) = 0 (may be implied), attempts to multiply both sides by x and e x and isolates the quartic and cubic terms on one side. A1*: Factorises the left-hand side and proceeds to the given answer via an intermediate step with no errors seen. Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) State the range of f (1) (b) Find g –1 (3) (c) Find fg (0) (2) (d) Find the exact value of a for which gefe 24 3 a \u001f\u001e \u001d\u001c \u001f \u001e (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ _",
+      "text": "2 (a) State the range of f (1) (b) Find g –1 (3) (c) Find fg (0) (2) (d) Find the exact value of a for which gefe 24 3 a \u001f\u001e \u001d\u001c \u001f \u001e (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ _",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) State the range of f (1) (b) Find g –1 (3) (c) Find fg (0) (2) (d) Find the exact value of a for which gefe 24 3 a \u001f\u001e \u001d\u001c \u001f \u001e (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ _",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 2(1)3(1) 41 f (1)... e1 +− =− = and 2(2)3(2) 41 f (2)... e(2) +− =− = and  There is a sign change and f(x) is continuous over the interval hence root (in the interval [1, 2] ) M1 A1 (2) (b) e e x x xx xxx x +− − =  + = + (23) e4 x xxx+ = +  e4 x x x x + = + * M1 A1* (2) (c) (i) (ii) e 4(1) awrt1.1035 awrt1.1484 2(1) 3 xx + = =  = + 1.1813 M1A1 A1 (3) (7 marks) Note: Working backwards is possible. For the M look for cubing and cross multiplying to reach a similar intermediate stage, and all correct for the A mark. (c) (i) M1: Substitutes x = into the iterative formula. May be implied by awrt 1.10 or awrt 1.15 if substitution not seen. Condone miscopies if the substitution is shown. NB Correct value for x stated implies this mark. A1: (x =) awrt 1.1484. Must be x and not another term (if labelled). (ii) A1: cao 1.1813 as the final answer (cannot be scored without M1 being scored in (c)(i)) (a) M1: Attempts to find the gradient of the line, must be change in “y”/change in “x”. May be found via simultaneous equations – look for an attempt to solve the correct equations. A1: log 0.05 Vt =+ Accept log in place of log here and throughout but must be correct variables. (b) M1: Correct attempt to make V the subject, or alternatively takes log of and finds an equation in just a or b ie either 2 log a = or log b= . If there is no incorrect working allow for obtaining an expression for a or b, e.g. a = or 0.05 10b= . A1: a = or awrt1.12 b = (may be stated or embedded in an equation of the correct form). A1: . The equation must be given not just values. SC Award M1A1A0 for candidates who start with an incorrect step of but recover to in subsequent work (and similar for variants). (c) Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2.25 2 m − = log 0.05 Vt =+ M1 A1 (2) (b) 0.05 log 0.05 t VtV + = +  = a = or 1.12 b = ( ) 1.12 t V = M1 A1 A1 (3) (c) 100 ln1.12 (1.12) (1.12) 100 ln1.12 TT   =  = ( ) 1.12 log ... 100 ln1.12 T  ==   ( ) T = B1ft M1 dM1 A1 (4) (9 marks) B1ft: Differentiates to the form \"100\"ln\"1.12\" (\"1.12\") t  follow through their values for a and b from part (b). Accept any unsimplified equivalents and values correct to 3sf. M1: Sets their d d V t - which must be a changed function of the form (K may be 1) equal to 50 and rearranges to the form (\"1.12\") ... T = dM1: Correctly proceeds from and equation of form (\"1.12\") ... T = to ... T = (any valid means, you may need to check their value if no method is shown). A1: () 13T= (a) B1: oee M1: Attempts to find tan ...  −  =  =   or or or A1: ( ) f ( ) 12 sin 2 xx   =−   (or exact equivalent). Must give the expression but accept if given in (b), not just the values for R and , but full marks can be scored in subsequent parts from the correct values if the expression is not explicitly stated. (b) (i) B1: or exact equivalent. No need to simplify. If multiple answers are given they must clearly identify this as the minimum value to score the mark. Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 tan ...  −  ==   ( ) f ( ) 12 sin 2 xx   =−   B1 M1 A1 (3) (b)(i) (ii) Minimum value sin 6 xx    − =  =   B1 M1A1 (3) (6 marks) (ii) M1: Sets their sin 6 x   −=   and attempts to find a value for x. Follow through on f(3x) for their f(x). A1:  only Note: Answers only with no working shown is M0 (calculator method). (a) B1: 200 (b) M1: Attempts to differentiate via the quotient rule (or the product rule). Look for reaching or where A, B > 0 Condone missing brackets for the M mark. A1: Correct unsimplified derivative and isw. Any missing brackets must have been recovered. (c) M1: Sets their numerator of the form (or unsimplified equivalent) equal to zero and rearranges to 0.2 e T A= A1: 0.2 e19 T = and isw. Accept with t instead of T. Allow from answers to (b) with an incorrect denominator but correct numerator or negative of the numerator. (d) M1: Takes lns of both sides and proceeds to find a value for T (accept awrt 14.7 if method is not shown). There must be evidence of using logarithms. Alternatively score for stating or implying Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0 4000e 19 e  =  +  B1 (1) (b) ( ) ( ) 0.2 0.1 0.1 0.2 0.2 19 e 400e 4000e 0.2e d d 19 e tttt t N t +  −  = + M1A1 (2) (c) ( ) 0.2 0.1 0.1 0.2 0.2 19 e 400e 4000e 0.2e e ttttT +  −  =  = M1A1 (2) (d) 0.2 ln19 e ( 14.7...) 0.2 T T =  = = 0.1\"14.7\" 0.2\"14.7\" 4000e 458.8... 19 e N = =  + squirrels M1 dM1A1 (3) (8 marks) dM1: Substitutes their positive value for T or into the original equation to find a value for N. It is dependent on the previous method mark. A1: 459 (accept 458) provided the Ms have been scored. The 0.2 e T = must have been genuinely found, not fluked from an incorrect numerator. However, as long as the numerator was correct in (b), this mark may be awarded if subsequent working was correct. (i) M1: ... x + . Allow with anything for the ... A1: d4 d25 yx xx  =  +  o.e. and isw (ii) M1: Attempts to integrate to an expression of the form ln(3 ) Axk + or . Allow for cancelling x’s e.g (Allow A or B to be 1) A1: ln(3 ) xk + o.e. with or without the constant of integration. Condone missing brackets for this mark and condone if extra integral symbols are left in. M1: Attempts to substitute in the limits into their changed expression (which must involve ln), sets the expression less than 7 ln 8 (condone an equation) Number Scheme Marks",
+          "image": "/papers/wma13-oct-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6i",
+          "text": "Part 6i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d4 d yx xx  =  +  M1A1 (2) (ii) ( ) d ln(3 ) x xxkc xk = + + +    ln(3 ) 7 ln 8 ln 7 ln 8 k kkkk xk kk  ++  +        ++   ( ) ( ) ... kk kkk k +   − −   = + k = M1A1 M1 dM1 A1 (5) (7 marks) and uses correct log laws to remove lns – including correct bracketing used. You may allow ln 8 to be written as a decimal but any ln or exponential work must be correct. Note the form for their integral must be such that they are able to use log laws to remove lns. dM1: Rearranges their inequality (may be an equation), proceeds to a three-term quadratic in k and attempts to find a value for k (usual rules apply for solving a quadratic – if using a calculator the value(s) must be correct for their equation). It is dependent on the previous method mark. A1: 23 cao M1: Attempts the product rule achieving ( ) ( ) (3 2) (3 2) d e e f ( ) d xkxxkx y Ax x + − + −  = +    where f(x) is a quadratic function of x, condone missing/misplaced brackets for the M. A1: One of (32) 2e xkx+− or () (32) 2 e2(32) xkx xxk +−  + − (unsimplified) A1: Correct unsimplified derivative dM1: Sets their derivative equal to zero (may be implied), collects terms and attempts bac − on a 3 term quadratic – must be extracted not just part of the quadratic formula. It is dependent on the previous method mark. A1: or equivalent quadratic expression or multiple thereof. Need not be simplified. M1: Must have attempted and reached a quadratic in k. Attempts to solve their quadratic in k (including via a calculator) and attempts the outside region for their critical values (accept with endpoints included.). Accept with decimals answer correct to 3 s.f. for this mark. A1: 2 2 2 k −  or 2 2 2 k +  or exact equivalent. Allow with “and” instead of “or” when given as two ranges, but use of set notation must use union, not intersection. E.g. Alternative method via implicit differentiation scores the same way with M1A1A1 for correct differentiation. M1 for a correct form of derivativ",
+          "image": "/papers/wma13-oct-2025/q6-6i.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "* M1A1* (2) (b) ... or .... abab = + +  = = 7,8ab= = − M1 A1A1 (3) (c) ,7    B1ftB1 (2) (d) 15 5254325918 0xxxxxxx− = − + + −  − − + = 18 ( 2)(2 9) xxxxxx − − + = + − + 9 0 xxx − + =  = (ignore x = ) 3 15 ,    M1 dM1A1 ddM1 M1A1 (6) (13 marks) Note if there are attempts at squaring they must reach only the correct values. If unsure, use review. (c) B1ft: One of the coordinates of ,7    . Follow through their a and b for this mark ie one of B1: ,7    Aceept as x = ..., y = ... (d) M1: Sets their 15 5 yx =− equal to xxx − + + − and collects terms to achieve a cubic. Condone a miscopy of the cubic if the intention is clear. dM1: Attempts to find a quadratic factor (by division or equating coefficients). It is dependent on the previous method mark. For factorisation expect to see ( ) ( ) 2 2 ...... 9 xx  +  or via division () () 2 2......xxx+ + Valid non- calculator method must be seen, solutions which go direct to a “factorised” form with no intermediate quadratic factor seen score dM0. Note they may use another linear factor to divide through by, the scheme applies the same way, but must be one of the correct factors. A1: 299xx−+ (or correct factor for their linear term). ddM1: Attempts to solve their quadratic via a non-calculator method, leading to a value for x. It is dependent on the previous two method marks. Valid non-calculator method must be seen to award this mark. M1: Proceeds to find both coordinates of Q, accepting answers where the x value was found via a calculator. It is not dependent on the previous Ms but must attempted an initial equation using the cubic and either branch, set up to show what has been solved on the calculator. Correct answer with no working at all seen will score no marks. A1: 3 15 ,    (oee) only. A0 if a second set of coordinates is given. Allow for solutions where the cubic or quadratic was solved via calculator. Allow listed as x =..., y = ... and isw but must clear clearly seen as the correct ",
+          "image": "/papers/wma13-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-27.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4sin cos 2sin 2    = e.g. ( ) cos 2 6 sin cot 2 2 sin 2 3 3cos 2 2 sin 2 sin 2         + = − + B1 M1A1 (3) (b) 3cot 2 14 6 sin cot 2 4 sin cos − = +      e.g. ( ) 3cot 2 sin 2 14sin 2 3 3cos 2 cos 2 2sin 2        − = − + 14sin 2 3(1 sin 2 ) 2sin 2     − = − − + 5sin 2 14sin 2 3 0 + − =  * M1 M1 A1* (3) (c) ( ) sin 2 ... xx =  = awrt 5.8 , awrt 84.2 x =   M1 A1A1 (3) (9 marks) M1: Solves the quadratic (usual rules, accept calculator usage) and attempts to use arcsin find a value for x. Accept if radians used or they neglect to divide by 2 as long as a value for x is reached. Condone use of throughout this part. A1: One of awrt 5.8 or awrt 84.2 (provided sin 2 x = or sin x −  =   is seen) A1: awrt 5.8, awrt 84.2 (provided sin 2 x = or sin x −  =   is seen) and no others in the given range.",
+          "image": "/papers/wma13-oct-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2025/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma13-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-oct-2025/page-01.png",
+      "/papers/wma13-oct-2025/page-02.png",
+      "/papers/wma13-oct-2025/page-03.png",
+      "/papers/wma13-oct-2025/page-04.png",
+      "/papers/wma13-oct-2025/page-05.png",
+      "/papers/wma13-oct-2025/page-06.png",
+      "/papers/wma13-oct-2025/page-07.png",
+      "/papers/wma13-oct-2025/page-08.png",
+      "/papers/wma13-oct-2025/page-09.png",
+      "/papers/wma13-oct-2025/page-10.png",
+      "/papers/wma13-oct-2025/page-11.png",
+      "/papers/wma13-oct-2025/page-12.png",
+      "/papers/wma13-oct-2025/page-13.png",
+      "/papers/wma13-oct-2025/page-14.png",
+      "/papers/wma13-oct-2025/page-15.png",
+      "/papers/wma13-oct-2025/page-16.png",
+      "/papers/wma13-oct-2025/page-17.png",
+      "/papers/wma13-oct-2025/page-18.png",
+      "/papers/wma13-oct-2025/page-19.png",
+      "/papers/wma13-oct-2025/page-20.png",
+      "/papers/wma13-oct-2025/page-21.png",
+      "/papers/wma13-oct-2025/page-22.png",
+      "/papers/wma13-oct-2025/page-23.png",
+      "/papers/wma13-oct-2025/page-24.png",
+      "/papers/wma13-oct-2025/page-25.png",
+      "/papers/wma13-oct-2025/page-26.png",
+      "/papers/wma13-oct-2025/page-27.png",
+      "/papers/wma13-oct-2025/page-28.png",
+      "/papers/wma13-oct-2025/page-29.png",
+      "/papers/wma13-oct-2025/page-30.png",
+      "/papers/wma13-oct-2025/page-31.png",
+      "/papers/wma13-oct-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

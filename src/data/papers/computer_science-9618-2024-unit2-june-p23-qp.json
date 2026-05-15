@@ -1,0 +1,109 @@
+{
+  "paperId": "computer_science-9618-2024-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2024-unit2-june-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "May/June 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Pseudocode expression Evaluates to MID(\"Random\", 2, 3) \"and\" 5 + DAY(10/11/2023) IS_NUM(\"45000\") TRUE (20 MOD 3) + 1 One mark per row Question Answer Marks 1. Open the file (in read mode and subsequently close) 2. Initialise an index variable (to 1 // 0) 3. Repeat (the next three steps) until the end of file is reached 4. Read a line from the file (into a string variable) 5. Store the line / variable in the array at the index 6. Increment the index in a loop Note: max 5 marks May/June 2024 Question Answer Marks Construct: a conditional loop Use: To keep repeating until the end of the file is reached ALTERNATIVE: Construct: a selection statement Use: To test / check the value returned by the EOF() function Question Answer Marks IF Batch[ThisIndex].Weight >= Min AND Batch[ThisIndex].Weight <= Max THEN Alternative solution using OR IF Batch[ThisIndex].Weight < Min OR Batch[ThisIndex].Weight > Max THEN Mark as follows: 1. Reference to Batch[ThisIndex].Weight 2. A valid check for one boundary 3. A valid check for other boundary with correct logic operator  Set the Item_ID field to an empty string / NULL / invalid value  Set Weight to <= 0 / zero May/June 2024 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/page-01.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per zone Zone 1 Zone 2 Zone 3 Zone 4 Zone 5 May/June 2024 Question Answer Marks PROCEDURE TwoParts() DECLARE NextNum, Average : REAL TotalA  0.0 // 0 TotalB  0.0 // 0 REPEAT INPUT NextNum TotalA  TotalA + NextNum UNTIL NextNum = 0 REPEAT INPUT NextNum TotalB  TotalB + NextNum UNTIL NextNum = 0 Average  (TotalA + TotalB) / 2 OUTPUT \"The average is \", Average ENDPROCEDURE Mark as follows: 1. Procedure heading and ending 2. Declare all local variables 3. Initialise TotalA and TotalB 4. First conditional loop until zero entered, summing TotalA // Loop until both parts (sequences) have been entered 5. Second conditional loop until zero entered, summing TotalB // Loop summing appropriate Totals 6. Calculation of average and output with a message // Calculation of the average for the values making up the two totals and both output with a suitable message Marks as follows: 1 mark for array 1 mark for 20 reals 1 (Multiple instances referenced via a single identifier so) fewer identifiers needed 2 Easier to process / search / organise / access the data // Values may be accessed via a loop-controlled variable /an index //An array / data can be iterated through 3 Makes the program/algorithm easier to write / design / understand / maintain / modify // Simplifies the program // Easier to debug / test May/June 2024 Question Answer Marks  Count-controlled loop  the number of iterations is known 1 The functions will return the same value every time they are called 2 ... because Label / the parameter value does not change within the loop Two marks for Solution: 3 Assign FormatA(Label) and FormatB(Label) to two (local) variables before the loop 4 Use the (new) variables in place of the function calls / in the loop // Replace the references to FormatA() and FormatB() in the CASE clauses with the new variable names May/June 2024 Question Answer Marks PROCEDURE Progress(Percent : INTEGER, Root : STRING) DECLARE StepValue : INTEGER DECLARE Filename : STRING StepValue  (Pe",
+          "image": "/papers/computer_science-9618-2024/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/page-03.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per bullet: 1 All modules correctly labelled and interconnected 2 Parameters between Mod-A and Mod-B and return value from Mod-B 3 Parameters between Mod-A and Mod-C 4 Diamond applied to Mod-B only 5 Iteration arrow applied to Mod-C only All parameters at lower level and return value May/June 2024 Question Answer Marks FUNCTION Header(Line : STRING) RETURNS STRING IF LENGTH(Line) >= 13 THEN IF TO_UPPER(LEFT(Line, 9)) = \"FUNCTION \" THEN RETURN \"F\" & RIGHT(Line, LENGTH(Line) - 9) ENDIF IF TO_UPPER(LEFT(Line, 10)) = \"PROCEDURE \" THEN RETURN \"P\" & RIGHT(Line, LENGTH(Line) - 10) ENDIF ENDIF RETURN \"\" ENDFUNCTION Mark as follows: 1 Function heading, parameter, return type and ending 2 Check that the line is at least 13 characters long before attempting to extract and return empty string 3 Attempt at: Extract characters, 9 or 10 characters, corresponding to keyword plus space and compare with appropriate keyword plus space 4 Completely correct MP3 5 Use of type case conversion to allow for 'any case' 6 Calculation of 'rest of line' and concatenation with 'P or 'F' 7 Return string May/June 2024 Question Answer Marks PROCEDURE FindModules(FileName : STRING) DECLARE Line : STRING DECLARE Index, LineNum : INTEGER OPENFILE FileName FOR READ Index  1 LineNum  0 WHILE NOT EOF(FileName) READFILE FileName, Line LineNum  LineNum + 1 Line  Header(Line) IF Line <> \"\" THEN ModInfo[Index, 1]  NUM_TO_STR(LineNum) ModInfo[Index, 2]  LEFT(Line, 1) ModInfo[Index, 3]  RIGHT(Line, LENGTH(Line) - 1) Index  Index + 1 ENDIF ENDWHILE CLOSEFILE FileName ENDPROCEDURE Mark as follows: 1 Open file in READ mode and subsequently close 2 Loop to EOF(FileName) 3 Read a line from the file and maintain LineNum in a loop 4 Call Header() and use return value in a loop 5 Test return value for \"\" in a loop 6 Attempt at all three-array assignment for all columns in correct row 7 Correct values assigned to all columns of array 8 Maintain correct array row index",
+          "image": "/papers/computer_science-9618-2024/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/page-07.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2024-unit2-2024-06-22-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-9618-2024/page-01.png",
+      "/papers/computer_science-9618-2024/page-02.png",
+      "/papers/computer_science-9618-2024/page-03.png",
+      "/papers/computer_science-9618-2024/page-04.png",
+      "/papers/computer_science-9618-2024/page-05.png",
+      "/papers/computer_science-9618-2024/page-06.png",
+      "/papers/computer_science-9618-2024/page-07.png",
+      "/papers/computer_science-9618-2024/page-08.png",
+      "/papers/computer_science-9618-2024/page-09.png",
+      "/papers/computer_science-9618-2024/page-10.png",
+      "/papers/computer_science-9618-2024/page-11.png",
+      "/papers/computer_science-9618-2024/page-12.png",
+      "/papers/computer_science-9618-2024/page-13.png",
+      "/papers/computer_science-9618-2024/page-14.png",
+      "/papers/computer_science-9618-2024/page-15.png",
+      "/papers/computer_science-9618-2024/page-16.png",
+      "/papers/computer_science-9618-2024/page-17.png",
+      "/papers/computer_science-9618-2024/page-18.png",
+      "/papers/computer_science-9618-2024/page-19.png",
+      "/papers/computer_science-9618-2024/page-20.png",
+      "/papers/computer_science-9618-2024/page-21.png",
+      "/papers/computer_science-9618-2024/page-22.png",
+      "/papers/computer_science-9618-2024/page-23.png",
+      "/papers/computer_science-9618-2024/page-24.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

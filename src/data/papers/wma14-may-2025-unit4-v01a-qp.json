@@ -1,0 +1,123 @@
+{
+  "paperId": "wma14-may-2025-unit4-v01a-qp",
+  "pairedMarkSchemeId": "wma14-may-2025-unit4-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01A",
+  "session": "May 2025",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d d V x x = M1 (B1 on EPEN) d d d d d d x x V t V t x =  = dM1A1 (3) Alternative 1 d1 d3 x V x x V V V − =  =  = M1 (B1 on EPEN) ddd55 ddd3 xxV tVtx V =  == dM1A1 Alternative 2 d d V Vt c t =  = + M1 (B1 on EPEN) d d x V x x t c x t =  = +  = or d d t V x x t c x x =  = +  = dM1 d5 d3 x tx = A1 (b) d d 3 4 x t ==  M1A1 (2) (5 marks) Note this is now being marked as M1dM1A1 not B1M1A1 (a) Ignore any units associated with any of the expressions/values in this question. M1: Differentiates Vx = to obtain d ... d V x x = (seen or implied) dM1: Attempts to use d d d d d d x x V t V t = or equivalent e.g. d d d d d d V x V t t x = with their d d V x and d d V t where d d V kx x = and d d V t is a constant to obtain an expression of the form x  oe. May be implied by their working. Depends on the previous mark. A1: d5 d3 x tx = or equivalent e.g. x − or 5. x  Apply isw once a correct expression is seen. Alternative 1: M1: Differentiates xV = to obtain d ... d x V V − = (seen or implied) dM1: Attempts to use d d d d d d x x V t V t = or equivalent e.g. d d d d d d V x V t t x = with their d d x V and d d V t where d d x kV V − = and d d V t is a constant and changes back to x to obtain an expression of the form x  oe. May be implied by their working. Depends on the previous mark. A1: d5 d3 x tx = or equivalent e.g. x − or 5. x  Apply isw once a correct expression is seen. Alternative 2: M1: Uses d d V t = and integrates wrt t to obtain V t c =+ or Vt = dM1: Replaces V with x and differentiates wrt t or wrt x to obtain d d x x t = or d d t x x = Depends on the previous mark. A1: d5 d3 x tx = or equivalent e.g. x − or 5. x  Apply isw once a correct expression is seen. (b) M1: Substitutes x = 4 into their expression for d d x t A1: or the exact equivalent. Ignore any units, correct or incorrect, and just look for the value. Do not allow e.g. 0.104... unless the correct exact value is seen previously, then apply isw. Number Scheme Marks d e 8 e d d d yy y",
+          "image": "/papers/wma14-may-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 x  +   B1 ... 2! 3! x x x x        − − −                        + = + + + +                   M1A1 4 1 x x x x  + = + − +   A1A1 (5) (a) B1: Obtains ( ) 4 1 ... x + or e.g. ( ) 2 1 ... x + or e.g. ( ) 4 1 ... x + which may be implied by subsequent work. M1: Attempts the binomial expansion of ( ) kx + to get the third or fourth term unsimplified with an acceptable structure. The correct binomial coefficient must be combined with x or x which may be unsimplified. Look for ( ) ... 2! x − or ( ) ( ) ... 3! x −− o.e. (you do not need to be concerned with their which may be 1 or e.g. if they have a negative sign in front of the whole term) Do not allow notation such as     ,     or C , C unless interpreted correctly in further work. May be implied by correct coefficients with x or x A1: Correct third or fourth term unsimplified for x  +   e.g. with the correct sign. 2! x    −          or 3! x     −−            Do not condone missing brackets e.g. x or x unless they are implied by subsequent work. A1: Two correct simplified terms of ,, xxx− which may be listed. Condone x for this mark. Condone coefficients given as decimals e.g. 1.25 , 0.390625 , 0.24414...xxx− A1: xxx+ −+ which may be listed and isw once a correct answer is seen. Condone coefficients given as decimals e.g. 2 1.250.3906250.244140625xxx+−+ Do not condone x for this mark and do not condone ...... x+ −+ Note that if their “ ” is incorrect they can score a maximum of B0M1A1A0A0 (a) Alternative by direct expansion: ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) 4 5 ... 3! x x x x − − − − − −  + = + + + +   B1: For ... + or 4 ... + or 2 ... + M1: Attempts the binomial expansion of ( ) x + to get the third or fourth term unsimplified with an acceptable structure. The correct binomial coefficient must be combined with x or x and the correct power of 4 which may be unsimplified. Look ",
+          "image": "/papers/wma14-may-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d cos 6 cos d 8sin sin yt tk x t t =  = − M1 d33 cot d434 y x   = −= −   dM1A1 (3) Mark (a) and (b) together. (a) M1: Attempts to differentiate both parametric equations to obtain d ...sin d x t t = and d ...cos d y t t = and attempts d d d d d d y y t x t x = or equivalent e.g. ddd ddd yyx xtt = Note that this may be done numerically e.g. dd 8sin 4 3, 6 cos dd xy tt tt = − = − = =  d1 d y x = − dM1: Substitutes in t  = and proceeds to find a value for d d y x which may be implied. Depends on the previous mark. A1: − from fully correct work or any exact equivalent e.g. . − Isw once a correct answer is seen. (b) ( ) 6, 3 3 3 − B1B1 −→ B1ft ( ) 3 3 3 yx − + = − or ( ) 3 3 3 3 5 3 y x c c c = +  − + =  +  = − − M1 When y = ( ) 3 3 3 ... xx − + = −  = dM1 15 3 3 ,0  +    A1 (6) (b) B1: One of 6, 3 3 3 xy = = − B1: For both coordinates correct for P: 6, 3 3 3 xy = = − or e.g. ( ) 6, 3 3 3 − Note that the above B marks may be implied and may be seen embedded in their attempt at the equation of normal and can be scored if seen anywhere in their solution. B1ft: Gradient of the normal to C at P is oe e.g. (follow through from (a)) and can be scored anywhere in their solution. M1: Attempts the equation of the normal with values correctly placed using • their coordinates for P which have come from substituting t  = into the parametric equations • a changed gradient from that found in (a) If using y = mx + c they must proceed to find a value for c. If candidates use P in terms of t e.g. 8cos xt =+ and 6 sin yt =− in their normal equation then this mark will only score at the point they substitute t  = The first 2 B marks may also be implied if the x and y coordinates can clearly be implied or seen as x = 6 and/or 3 3 3y=− you may need to check. dM1: Substitutes 0y= into their equation of the normal and proceeds to find a value for x. It is dependent on the previous method mark. Note that attempts to solve 6sin 3 0 t −= score M0 A1: Correct coordinates",
+          "image": "/papers/wma14-may-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d e d x u x = B1 ( ) 24e d d (2 ) 2e x x u u x u u  +−  −  =  − +       M1 ( ) 12 2 d d d 4 (2 1) (2 1) u u u u u u u u u u u u + − + + =  = = + + +       A1 ln 3 , ln 8 x a x b = → = = → = B1 (4) (a) Note that apart from the limits, this is a given answer so check the work carefully. B1: Any correct equation connecting dx and du e.g. d e, d x u x = d d d d , d e d , 1 e , d , d d e d e xx xx x x u u u x x x uu u = = = = = + etc. M1: A full attempt to substitute e x u=− proceeding to an expression in terms of u only (which is not the given answer). Condone slips such as a poor rearrangement of d e d x u x = but it must include an attempt to replace dx with a function of u. A1: Achieves the given integral with sufficient and no incorrect working seen including invisible brackets. You can ignore any limits for this mark. There must be at least one intermediate line of working following the stage at which they obtain their integral totally in terms of u. This may be seen in “side-working”. You can condone e.g. a missing “du” in the working as long as it is present in the final answer. B1: Correct limits seen at any stage and they do not need to be seen attached to the integral but if there is any contradiction, the limits attached to the integral take precedence. Note that an example of minimum acceptable work for the first 3 marks in (a) could be: ( ) d 24e d d e , d d d (2 ) (2 ) (2 1) 2e x x x u u u u u u xu x u u u u u u  +−  − + +  = =  =  = +  − + +         (b) (2 1) (2 1) ...or ...or ... u A u Bu u Cu A B C +  + + + +  = = = or e.g. ( ) ( ) ...or ...or ... u B C u A B u A A B C +  + + + +  = = = M1 2 of: 5, 2 , A B C = = = − A1 (2 1) u u u +− + A1 (3) (b) M1: Attempts to find at least one of the values for A, B and C by multiplying up and substituting values or by multiplying up and comparing coefficients. When multiplying up must have at least one of the terms on the rhs correct for their lhs. A1: Two of 5, 2 ,",
+          "image": "/papers/wma14-may-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Volume d x x xx  + = ++    or e.g. d x x xx   +     ++       B1 ( ) ln xx   ++  M1 ( ) ln 465 ln 5 144 ln 93  = − = (units ) dM1A1 (4) (a) B1: Correct integral for the volume of R which may be simplified or unsimplified. The 144 (or ) and the  and the limits 0 and 20 must be present or implied by subsequent work. Condone the omission of “dx”. d x x xx  +  ++    scores B0 M1: Integrates x xx + ++ to obtain () ...ln35xx++ Condone missing brackets e.g. ...ln xx ++ Condone poor notation e.g. ( ) d ln d x x x x x xx  +  = + +  ++  This may be implied by substitution e.g. ( ) d ...ln x u x x x u xx + = +  = + ++    or d ...ln x u x x x u xx + = + +  = ++    dM1: Substitutes 20 and 0 into their expression of the form ... ( ) ln 5 , xx ++ subtracts either way round and proceeds to find an exact expression for the volume e.g. () 144ln 465 ln 5− If they use substitution, the limits must be correct for their substitution e.g. 0, 460 u x x u = +  = or e.g. 5, 465 u x x u = + +  = Do not allow e.g. () 144ln 465 0− i.e. no evidence of the use of the lower limit. Depends on the previous mark. A1: 144 ln 93 (condone lack of units) Note if  is missing throughout in (a), a maximum of B0M1dM1A0 is possible. (b) ( ) ln p xx   + + =  ( ) ( ) ln 465 ln pp   − + + = or e.g. Let pa =− : ( ) ln a xx  −  + + =  ( ) ( ) ( ) ( ) ln 465 ln 20 3 20 aa   − − + − + = or e.g. ( ) ln 144 ln 93 360 a xx    −  + + = −  ( ) ( ) ( ) ( ) ln 20 3 20 ln 5 144 ln 93 360 aa     − + − + − = − or e.g. ( ) ln 144 ln 93 360 p xx     + + = −  ( ) ( ) ln ln 5 144 ln 93 360 pp     + + − = − M1 ln e p p p p  =  =  + + + +  5 465e ... p p p −  + + − =  = or e.g. 144 ln 93 360 ln aa    − + − =   144ln 93 360 144ln 93 360 e 465 5e ... aa a a a −−             −+  =  − + − =  = or e.g. 144 ln 93 360 ln pp    + + − =   144ln 93 360 144ln 93 360 e 5 5e ... pp p p p −−         ",
+          "image": "/papers/wma14-may-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-may-2025/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/wma14-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA14-2025-unit4-2025-06-01A-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

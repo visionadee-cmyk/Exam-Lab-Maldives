@@ -1,0 +1,139 @@
+{
+  "paperId": "physics-0625-2020-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Pour 100 cm 3 of hot water into beaker A. Place the thermometer in the water in beaker A by moving the clamp stand. In Table 1.1, record the temperature θ of the water at time t = 0 and immediately start the stopclock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s",
+      "text": "1 (a) Pour 100 cm 3 of hot water into beaker A. Place the thermometer in the water in beaker A by moving the clamp stand. In Table 1.1, record the temperature θ of the water at time t = 0 and immediately start the stopclock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Pour 100 cm 3 of hot water into beaker A. Place the thermometer in the water in beaker A by moving the clamp stand. In Table 1.1, record the temperature θ of the water at time t = 0 and immediately start the stopclock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ for beaker A decreasing θ for beaker B decreasing more slowly than for A and all θ values to at least 1 °C units all correct: s, °C, °C t values all present (30, 60, 90, 120, 150 and 180)",
+          "image": "/papers/physics-0625-2020/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "conclusion matching results, e.g. beaker B cools more slowly / owtte / s correct calculation of x A and x B and x A > x B statement matching results x B < hal f of x A / owtte",
+          "image": "/papers/physics-0625-2020/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable suggestion, e.g. • thicker / more insulated lid; • higher initial temperature 0625/53 October/November 2020",
+          "image": "/papers/physics-0625-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V all < 4.0 (V)",
+          "image": "/papers/physics-0625-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I all decreasing and < 1.00 (A) V all to at least 1 dp and I all to at least 2 dp A correct calculations of R consistent 2 or consistent 3 sig figs",
+          "image": "/papers/physics-0625-2020/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results within limits of experimental accuracy / owtte with values or comparative values seen",
+          "image": "/papers/physics-0625-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any parallel or series and parallel arrangement of three resistors rectangle with strike-through arrow only any suitable advantage, e.g. • can obtain continuous set of values • more straightforward to change current • can obtain more values easily 0625/53 October/November 2020 h O (1.5 to 2.5 (cm)) h I decreasing",
+          "image": "/papers/physics-0625-2020/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W calculations correct axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to less than ½ small square and precise plots well- j udged line and thin line",
+          "image": "/papers/physics-0625-2020/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method seen on graph f in range 12 (cm) to 18 (cm)",
+          "image": "/papers/physics-0625-2020/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable explanation, e.g. • values of h I become very small / difficult to measure • greater % uncertainty any suitable improvement, e.g. • use a larger object • use graph paper on screen • mark top and bottom of image and measure afte r 0625/53 October/November 2020 MP1 Factor diamete r / mass of ball MP2 Apparatus stop-watch (or similar) MP3 Control variable any suitable control variable, e.g. • mass of ball (if diameter is the factor) • diameter of ball (if mass is the factor) • distance (timed over) MP4 Method any one from: • measure the chosen factor (i.e. mass / diameter); • apparatus used to measure mass / diameter; • precaution: repeat (procedure) and average MP5 Method drop ball in tube of water and time (over fixed distance) MP6 Method repeat for different value of chosen factor (i.e. mass / diameter) MP7 Analysis any one from: • comparison of time / speed with chosen factor • graph of time / speed vs chosen facto r",
+          "image": "/papers/physics-0625-2020/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit5-2020-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C X 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 0 0 0 1 0 1 1 1 1 0 0 1 1 1 0 4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs February/March 2024 Question Answer Marks 8 One mark for each column Total, Average and OUTPUT One mark for columns NumberGroups and GroupSize NumberGroups Total GroupSize Average OUTPUT 0 0 1 7 7 2 17 10 3 19 2 4 27 8 5 30 3 6 39 9 6 Average group size 6 Question Answer Marks StorageID February/March 2024 Question Answer Marks Field Data type SizeMetres Real/Integer Position Char/Integer/Text/Alphanumeric Hoist Boolean/Text/Alphanumeric StorageID Text/Alphanumeric SELECT StorageID, PriceMonth, SizeMetres One mark each point max two FROM StorageUnits WHERE Hoist = TRUE; February/March 2024 Question Answer Marks 10 One mark for each technique One mark for a matching description max six • use comments ... • ... to explain the purpose of each section of code • ...for example, logic / syntax • use meaningful identifier names to ... • ... clearly identify the purpose • ... of variables, constants, arrays, procedures etc • ... by example • use procedures and functions ... • ... to avoid repeated code • ... simplify logic • use indentation and white space ... • ... to make the program readable February/March 2024 Question Answer Marks 11 Check if each requirement listed below has been met. Requirements may be met using a suitable built-in function from the programming language used (Python, VB.NET or Java). On the script, add seen if the requirement has been met, NE if a partial attempt, or a cross if no attempt. Use the tables for AO2 and AO3 below to award a mark in a suitable band using a best fit approach, then add up the total. Marks are available for: • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data structures required with names as given in the scenario: Arrays or lists StudentName, ScreenTime Variable ClassSize could be constant Requirements (techniques) R1 allows a s",
+          "image": "/papers/computer_science-0478-2024/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

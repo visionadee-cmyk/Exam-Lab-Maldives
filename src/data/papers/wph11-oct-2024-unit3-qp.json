@@ -1,0 +1,63 @@
+{
+  "paperId": "wph11-oct-2024-unit3-qp",
+  "pairedMarkSchemeId": "wph11-oct-2024-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "October 2024",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Clamp the metre rule in position Or Ensure the metre rule is vertical using a set square Place metre rule is close to the beaker Use a set square to judge scale reading Or Read perpendicular to the scale (1) (1) (1) The values are not recorded to consistent decimal places No evidence of repeat readings Four data points is not enough (to plot a reliable graph) Final value of h should be 45.1 Or Final value of h does not fit the trend Ignore references to intervals and range (1) (1) (1) (1) Mean n = 1.35 2 d.p. only, no unit Example of calculation Mean value of n = ( 1.38 + 1.41 + 1.33 + 1.29 ) = 1.353 (1) (1) Percentage uncertainty = 4% e.c.f. 3(c)(i) Example of calculation Uncertainty = half range = 1.41 − 1.29 = 0.06 Percentage uncertainty = 0.06 1.35 ×100 = 4.44% (1) (1) Total for question 3 10 Number Answer Mark",
+          "image": "/papers/wph11-oct-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "퐾=( 푀 B 푀 A )퐿+ 0.2푀 푅 푀 퐴 compares to y = mx + c and 0.2푀 R 푀 A is the y-intercept So M R = 푦−intercept × 푀 퐴 0.2 Or So M R = 5  y-intercept  M A (1) (1) Axis labels: y as K / m and x as L / m Sensible scales Accurate plotting Line of best fit (1) (1) (2) (1) Gradient in range 0.237 to 0.249 Calculated gradient given to 2 or 3 s.f, positive, no unit Example of calculation gradient = 0.220 − 0.086 0.65 − 0.10 = 0.244 (1) (1) (1) Uses gradient = 푀 B 푀 A Correct value of M B given to the nearest gram e.c.f. (b)(ii) Example of calculation M B = gradient  M A = 0.244  0.400 kg = 0.097 kg (1) (1) Correct y-intercept determined from graph Or Correct y-intercept determined using gradient and data point from best fit line Uses y-intercept = 0.2푀 R 푀 A Correct value of M R e.c.f. 4(b)(ii) Value of M R given to the nearest gram with correct unit Example of calculation y-intercept = 0.062 M R = 푦−intercept × 푀 퐴 0.2 = 0.062 × 0.400 kg 0.2 = 0.124 kg (1) (1) (1) (1) Total for question 4 16 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2024/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit3-2024-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

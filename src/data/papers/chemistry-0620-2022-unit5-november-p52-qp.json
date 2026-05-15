@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2022-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "aluminium / Al 3+ chloride / Cl – October/November 2022 Question Answer Marks 3 any 6 from mass increase method MP1 known / stated / find mass of hydrogel MP2 repeat experiment for second hydrogel MP3 add excess water MP4 stir / mix with water MP5 filter (to obtain solid hydrogel / excess water) MP6 weigh hydrogel MP7 mass of water absorbed = final mass – initial mass OR add gradually method MP1 known / stated / find mass of hydrogel MP2 repeat experiment for second hydrogel MP3 add water gradually to hydrogel MP4 stir / mix MP5 until no more absorbed MP6 find mass of hydrated hydrogel MP7 mass of water absorbed = final mass – initial mass max 6",
+          "image": "/papers/chemistry-0620-2022/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit5-2022-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

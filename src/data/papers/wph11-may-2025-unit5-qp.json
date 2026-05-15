@@ -1,0 +1,231 @@
+{
+  "paperId": "wph11-may-2025-unit5-qp",
+  "pairedMarkSchemeId": "wph11-may-2025-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "May 2025",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉푉 grav = (−) 퐺퐺퐺퐺 푟푟 Use of 퐸퐸 grav =푚푚×푉푉 grav ∆퐸퐸 grav = (−)3.5 ×10 J (1) (1) (1) Do not award MP3 if radius of satellite is added to radius of Earth [final answer is 3.54×10 J] Do not credit approaches based on use of ∆퐸퐸 grav =푚푚푚푚∆ℎ Example of calculation ∆푉푉 grav = 6.67×10 −11 N m kg −2 × 5.98×10 kg ×� 6.37×10 m − 4.22×10 m � ∆푉푉 grav =−5.32×10 J kg −1 ∆퐸퐸 grav =6500 kg× ( −5.32×10 J kg −1 ) =−3.46×10 J ∆퐸퐸 grav =−3.46×10 J",
+          "image": "/papers/wph11-may-2025/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Gravitational force equated to centripetal force Use of 휔휔= 2π 푇푇 Or Use of 푣푣= 2π푟푟 푇푇 푇푇= 8.62×10 (s) Or v = 3070 m s −1 Or 휔휔= 7.29×10 −5 rad s −1 8.62×10 (s)≈8.64×10 (s), so yes (it would appear stationary above the Earth’s surface) Or Calculated value of T compared with 8.64×10 (s) and consistent conclusion made Or 3070 m s −1 = 3070 m s −1 , so (satellite would move with the Earth and) appear stationary above the Earth’s surface Or 휔휔= 7.29×10 −5 rad s −1 ≈7.27×10 −5 rad s −1 , so (satellite would move with the Earth and) appear stationary above the Earth’s surface Or centripetal force ≈ gravitational force, so (satellite would move with the Earth and) appear stationary above the Earth’s surface (1) (1) (1) (1) Example of calculation 퐺퐺퐺퐺푚푚 푟푟 =푚푚휔휔 푟푟 ∴휔휔= � 퐺퐺퐺퐺 푟푟 휔휔= � 6.67×10 −11 N m kg −2 × 5.98×10 kg ( 4.22×10 m ) 휔휔= 7.29×10 −5 rad s −1 푇푇= 2π 휔휔 = 2π rad 7.29×10 −5 rad s −1 = 8.62×10 s 퐺퐺퐺퐺푚푚 푟푟 = 푚푚푣푣 푟푟 푣푣= � 6.67×10 −11 N m kg −2 × 5.98×10 kg ( 4.22×10 m ) v =3074 m s −1 푣푣= 2휋휋 푟푟 푇푇 = 2π× 4.22×10 m 8.64×10 s =3069 m s −1 휔휔= 2휋휋 푇푇 = 2π 8.64×10 s = 7.27×10 −5 rad s −1 (Total for Question 13 = 7 marks) Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The parallax angle decreases the further the object is from the Earth Or For (very) distant objects the parallax angle is very small The measuring instrument is not sensitive enough Or The measurement is not accurate enough Or The (percentage) uncertainty in the measurement is too high (1) (1) Allow converse statement for close objects Accept ‘The angle is too small’ Idea that angle can’t be read from scale, not that the star can’t be seen A standard candle is a (stellar) object of known luminosity (1) Do not accept ‘intensity’ or ‘brightness’ for ‘luminosity’ If known distance/intensity/flux is also specified, do not give the mark Standard candle is located (in the star cluster) Intensity of radiation received from the candle is measured (on Earth) Inverse square law is used (with luminosity of standard candle) to determine the distance to the star cluster Or 퐼퐼= 퐿퐿 4π푑푑 is used [I and L must be defined] (1) (1) (1) Allow ‘radiation flux’ for ‘intensity’ Accept ‘determined’, but reject ‘calculated’ (Total for Question 14 = 6 marks) Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q14-14a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "There is a (resultant) acceleration / force that is proportional to the displacement from the equilibrium point/position and (always) acting towards the equilibrium point/position (1) (1) Reject ‘equilibrium’, but allow 1 MAX if point/position omitted in both MP. For equilibrium position accept: undisplaced point/position Or fixed point/position Or central point/position Allow ‘in the opposite direction (to displacement)’ An equation with symbols defined correctly is a valid response for both marks T = 0.40 s and A = 3.0 cm read from graph Use of 휔휔= 2π 푇푇 Use of 푣푣=(−)퐴퐴휔휔sin휔휔휔휔 with sin휔휔휔휔= 1 푣푣= 0.47 m s −1 OR Tangent drawn to curve at point where y = 0 Pair of corresponding values read from graph Gradient calculated 푣푣= 0.50 m s −1 (1) (1) (1) (1) (1) (1) (1) (1) Use of 푣푣=(−)퐴퐴휔휔 is fine Allow answers between 0.45 and 0.55 Example of calculation 휔휔= 2π rad 0.40 s =15.7 rad s −1 푣푣= 3.0×10 −2 m×15.7 s −1 × 1= 0.471 m s −1",
+          "image": "/papers/wph11-may-2025/q15-15a.png"
+        },
+        {
+          "id": "15c",
+          "text": "Part 15c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Energy is transferred away from the car body Or energy is transferred/dissipated to the surroundings Or thermal energy store (of dampers) increases (Because) work is done against resistive forces (1) (1) Allow ‘oscillating system’ for ‘car body’ Allow ‘thermal energy is produced in the dampers’ Allow ‘heat’ for ‘thermal energy’ Allow 1 MAX for ‘energy dissipation due to resistive forces’ (Total for Question 15 = 8 marks) Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q15-15c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Volume of block calculated Use of 휌휌= 푚푚 푉푉 Use of ∆퐸퐸=푚푚푚푚∆휃휃 Use of ∆퐸퐸=푚푚푚푚 ∆퐸퐸= 1.84×10 J (1) (1) (1) (1) (1) Example of calculation 푉푉=25 ×10 −2 m×15 ×10 −2 m× 1.5 ×10 −2 m 푉푉= 5.63×10 −4 m 푚푚=920 kg m −3 × 5.63×10 −4 m = 0.518 kg ∆퐸퐸= ( 0.52 kg×2100 J kg −1 K −1 × 7.5 K ) + ( 0.52 kg× 3.4×10 J kg −1 ) ∆퐸퐸=8190 J+ 1.77×10 J= 1.84×10 J",
+          "image": "/papers/wph11-may-2025/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(Latent heat) energy must be supplied to melt the ice Energy has been transferred from the food/surroundings to the ice Or Energy has not been transferred from the ice to the food (1) (1) (Total for Question 16 = 7 marks) Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Substitute into 푉푉= π푟푟 U se of 푝푝 푉푉=푁푁 푘푘푇푇 C onversion of temperature to kelvin Use of number of molecules to calculate mass of gas 푚푚=230 kg (1) (1) (1) (1) (1) D o not credit 푝푝 푉푉=푛푛푛푛푇푇 unless final answer is correct I f answer incorrect, could award marks for MP1, MP3, MP4 Example of calculation 푉푉= π× (3.5 m) =179.6 m 푁푁= 1.12×10 Pa×179.6 m 1.38×10 −23 J K −1 × ( 273+22 ) K = 4.94×10 푚푚= 4.94×10 × 4.67×10 −26 kg=231 kg",
+          "image": "/papers/wph11-may-2025/q17-17a.png"
+        },
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휔휔= 2π 푇푇 푇푇=228 s (1) (1) Example of calculation 푇푇= 2π rad 2.76×10 −2 rad s −1 =227.6 s",
+          "image": "/papers/wph11-may-2025/q17-17b.png"
+        },
+        {
+          "id": "17c",
+          "text": "Part 17c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푚푚= 퐺퐺퐺퐺 푟푟 퐺퐺= 1 .8 ×10 kg (1) (1) Example of calculation 퐺퐺= 푚푚푟푟 퐺퐺 = 9.8 N kg −1 × (3.5 m) 6.67×10 −11 N m kg −2 = 1.80×10 kg (Total for Question 17 = 9 marks) Number Acceptable Answer Additional Guidance Mark Sun marked where luminosity ≈ 1 and within marked main sequence region (1) Allow any part of S within the approximate area shown Line from red giant region to white dwarf region . (1) (1) If S is not marked, then arrows needed to show direction Allow arrow from their position of Sun to red giant region *18(b) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Total marks awarded is the sum of marks for indicative content and the marks for structure and lines of reasoning. IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Indicative content IC1 Hydrogen is being fused in core of the Sun IC2 When hydrogen (in core) is used up and (rate of) fusion decreases/ceases IC3 The core collapses / contracts (under gravitational forces) IC4 Temperature rises (high enough) and helium fusion starts IC5 The Sun expands into a red giant IC6 When no further fusion takes place, core/star collapses (into a white dwarf) Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. Number of indicative points seen in answer Number of marks awarded for indicative points 6 4 5-4 3 3-2 2 1 1 0 0 Number of marks awarded for structure and lines of reasoning Answer shows a coherent and logical structure with linkage and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkage between points and is unstructured IC4: Must be temperature rise to start helium fusion not temperature rises after helium fusion starts.",
+          "image": "/papers/wph11-may-2025/q17-17c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Massive main sequence stars have (much) higher temperatures (than the Sun) Hydrogen is fused at a greater rate than in the Sun (so the time spent on the main sequence is less) (1) (1) Allow the Sun has a (much) lower temperature (than massive main sequence stars), ignore references to density Must have the idea of ‘rate of fusion’ (Total for Question 18 = 11 marks) Number Acceptable Answer Additional Guidance Mark Use of 푚푚=푓푓푓푓 U se of 푓푓 max 푇푇= 2.898×10 −3 m K 푇푇=5 310 (K) (1) (1) (1) Example of calculation 푓푓= .0 ×10 m s −1 5. 50×10 Hz = 5.45×10 −7 m 푇푇= 2.898×10 −3 m K 5.45×10 −7 m =5313 K Use of 푚푚 〈 푚푚 〉 = 푘푘푇푇 푚푚 〈 푚푚 〉 = 1.10×10 −19 J [ecf for T from (a)(i)] (1) (1) Example of calculation 푚푚 〈 푚푚 〉 = × 1.38×10 −23 J K −1 ×5310 K =1.099×10 −19 J",
+          "image": "/papers/wph11-may-2025/q18-18c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19b",
+          "text": "19(b), the final line of the question is incorrect: ‘intensity of light received at the surface of Aita = 1360 W m –2 ’ Please instruct candidates to amend their question paper to: ‘intensity of light received at the Earth from the Sun = 1360 W m –2 ’ We apologise for any confusion caused. *E78758A* E78758A *P78758EA* P78758EA *P78758A0132* Turn over P78758A ©2025 Pearson Education L",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐴퐴=4π푟푟 Use of 푚푚=휎휎퐴퐴푇푇 Use of 퐼퐼= 퐿퐿 4π푑푑 퐼퐼=2120 (W m −2 ) [ecf for T from (a)(i)] 2120 (W m −2 ) > 1360 (W m −2 ) so suggestion is not accurate Or Calculated intensity compared with 1360 (W m −2 ) with conclusion Or 1.72×10 W >1.11×10 W so suggestion is not accurate (1) (1) (1) (1) (1) Example of calculation 퐼퐼= 4π푟푟 휎휎푇푇 4π푥푥 퐼퐼= 4휋휋× ( 5.52×10 m ) × 5.67×10 −8 W m −2 K −4 × ( ) 4휋휋× ( 8.05×10 m ) ∴퐼퐼=2120 W m −2 2120 (W m −2 ) >1360 (W m −2 ) so suggestion is inaccurate 푚푚= ( .52×10 m ) × 5.67×10 −8 W m −2 K −4 × ( ) 푚푚= 1 .72×10 W 1360 W m −2 = 푚푚 π× ( 8.05×10 m ) 푚푚=4π× ( 8.05×10 m ) ×1360 W m −2 = 1.11×10 W (Total for Question 19 = 10 marks) Number Acceptable Answer Additional Guidance Mark",
+          "image": "/papers/wph11-may-2025/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Top line correct Bottom line correct (1) (1) Example of calculation Pu→U +α Use of ∆퐸퐸=푚푚 ∆푚푚 Conversion from J to eV ∆퐸퐸= 5.68 (MeV) (1) (1) (1) (1) Number of plutonium atoms in 1 kg may be calculated by using 3.9516 × 10 −25 kg from (a) . Example of calculation 훥훥푚푚= ( 3.8851×10 −25 + 6.6399×10 −27 −3.9516×10 −25 ) kg 훥훥푚푚= (−)1.01×10 −29 kg ∆퐸퐸= ( 3.0 ×10 m s −1 ) × 1.01×10 −29 kg = 9.09×10 −13 J ∆퐸퐸= 9.09×10 −13 J 1.6 ×10 −19 J eV −1 = 5.68×10 eV= 5.68 MeV EITHER Calculation of number of plutonium atoms Use of 푓푓= ln 2 푡푡 1/2 Use of 퐴퐴=푓푓푁푁 Rate of energy release = 575 W [ecf from (b)(i)] 575 W≈550 W, so website statement is accurate Or Calculated value compared with value in question and consistent conclusion OR Calculation of activity using power of plutonium decay Use of 푓푓= ln 2 푡푡 1/2 Use of 퐴퐴=푓푓푁푁 to calculate N Mass of plutonium = 0.96 kg [ecf from (b)(i)] 0.96 kg ≈ 1.00 kg so website statement is accurate Or Calculated value compared with value in question and consistent conclusion (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Example of calculation 푁푁= 1. 000 kg 0. 238 kg ×6. 00×10 =2. 52×10 푓푓= ln2 (87.7 ×3. 15×10 ) s =2. 51×10 −10 s −1 퐴퐴=2. 51×10 −10 s −1 ×2. 52×10 =6. 33×10 s −1 푃푃=6. 33×10 s −1 ×9. 09×10 −13 J =575 W Use of 퐴퐴=퐴퐴 푒푒 −휆휆푡푡 Or Use of 푁푁=푁푁 푒푒 −휆휆푡푡 푃푃=550 W [ecf from (b)(ii)] (1) (1) Power can be substituted instead of activity, but must be calculating final not initial values Example of calculation 푃푃= ( 575 W ) e −2.51 × 10 −10 s −1 × 74 × 2.63 × 10 s =548 W Use of 550 W leads to value of 525 W",
+          "image": "/papers/wph11-may-2025/q20-20a.png"
+        },
+        {
+          "id": "20c",
+          "text": "Part 20c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Intensity obeys an inverse square law Or Intensity is given by 퐼퐼= 퐿퐿 4π푑푑 (So) the power/intensity ( incident on the solar cells) would be too small Or power/intensity would be much less (than for Mars probe) Or (output) power from solar cells would be too small Or solar panels would need to be too large (1) (1) [MP2 dependent upon MP1] (Total for Question 20 = 15 marks) TOTAL FOR PAPER = 90 MARKS Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2025/q20-20c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q20.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit5-2025-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

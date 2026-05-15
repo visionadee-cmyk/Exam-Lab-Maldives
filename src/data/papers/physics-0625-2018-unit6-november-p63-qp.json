@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2018-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit6-november-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "October/November 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficult to measure irregular dimensions / owtte repeat (in several places for each dimension and take averages)",
+          "image": "/papers/physics-0625-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W = 1.4 (N)",
+          "image": "/papers/physics-0625-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ρ = 1.9(4) unit g / cm V = 160 (cm ) line of sight perpendicular V present and ρ = 2.0(g / cm ) suggestion supported by valid reason e.g. ρ as volume is measured directly; ρ as measuring cylinder is less precise; string adds to volume displaced. 0625/63 October/November 2018",
+          "image": "/papers/physics-0625-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct voltmeter symbol in parallel with wire X",
+          "image": "/papers/physics-0625-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V = 1.9 (V) axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to ½ small square and precise plots well-judged line and thin line G present and triangle method seen on graph l = 4.5 (cm) and L = 13.5 (cm) R in range 0.17 to 0.23 / 3 sig figs and unit = Ω or Ω / cm one from: use smaller current / potential difference; use wire with greater resistance; open switch / switch off circuit in between readings. 0625/63 October/November 2018 α = 20 ° ± ° pin separations ⩾ 5.0 cm line in correct place and neat θ = 40 ° ± ° line in correct place and neat θ = 68 ° ± °",
+          "image": "/papers/physics-0625-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results including qualitative justif ication (e.g. ‘within limits of experimental accuracy’ / owtte) justification that makes use of the data to support statement two suitable precautions: pins upright / view pins at base; thin pins; thin lines / sharp pencil; large pin separations; ensure mirrored surface lies along drawn line. 0625/63 October/November 2018 MP1 Apparatus thermometer AND stopwatch / (stop)clock / timer MP2 Diagram workable arrangement MP3 Method hot water in beaker and cold water in test-tube AND measure (start and) end temperatures in test-tube AND over measured time MP4 Method repeat for different metals MP5 Comparison calculation of (rate of) temperature rise / heating curves for different metals MP6 and MP7 Precautions Any two from: same start temperatures (of hot / cold water); same duration of experiment; same volume of cold water (being heated); repeat experiment and take average (of calculated values); use of insulation; stir (cold) water; heat to keep water in beaker at constant temperature.",
+          "image": "/papers/physics-0625-2018/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit6-2018-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

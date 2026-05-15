@@ -1,0 +1,135 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All variables, constants and other identifiers must have meaningful names. (i) Identify one constant you could have used for Task 1, give the value that would be assigned to it and its use. Constant ............................................................................................................................ Value ..................",
+      "text": "1 (a) All variables, constants and other identifiers must have meaningful names. (i) Identify one constant you could have used for Task 1, give the value that would be assigned to it and its use. Constant ............................................................................................................................ Value ..................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point (Max 4) MP1 Change the value of the MaxCandidates constant/variable to 8 MP2 Change the input message to state the maximum number of candidates is 8 ... MP3 ...how your program changed the input message MP4 Change the loop limit to up to 8 ... MP5 ...how your program changed the loop limit MP6 Change the validation to allow input up to 8 ... MP7 ...how your program changed its validation check MP8 Change the array size(s) to ensure sufficient capacity to store up to 8 names ... MP9 ...how your program changed the array sizes MP10 Change the counters to ensure votes can be counted for up to 8 candidates ... MP11 ...how your program changed its counters 0478/21 May/June 2021 five from: MP1 Input with message to enter unique voter number MP2 Validation of (unique) voter number entered e.g. length check/type check/range check MP3 Attempt to check if voter number input is in list of possible voters MP4 Attempt to check if they have already voted MP5 If voter has already voted, message to warn them they can’t vote MP6 Attempt at preventing them from voting MP7 Store voter number in a suitable data structure Example answer OUTPUT \"Please enter your unique voter number\" INPUT UniqueVoterNumber FoundFlag ← False AllNumbersChecked ← False Counter ← WHILE FoundFlag = False AND AllNumbersChecked = False IF StudentNumbers[Counter] = \"\" THEN AllNumbersChecked = True StudentNumbers[Counter] ← UniqueVoterNumber ELSE IF UniqueVoterNumber = StudentNumbers[Counter] THEN FoundFlag = True PRINT “Sorry, you have already voted” ELSE Counter = Counter + 1 ENDIF ENDIF ENDWHILE IF FoundFlag = False THEN OUTPUT \"Please enter the code of your chosen candidate\" INPUT Vote ENDIF 0478/21 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Explanation of how the program does the following: Any four from: MP1 Find out how many votes in total (for all candidates) were cast in the election. MP2 For each candidate MP3 ... calculate the percentage of votes MP4 ... excluding abstentions. MP5 Display the name of each candidate, the number of votes and the percentage of votes they received with appropriate messages. MP6 Display the number of votes cast and the number of abstentions with appropriate message. 0478/21 May/June 2021 Section B One mark per correct column Statement Validation Verification Both Entering the data twice to check if both entries are the same.  A utomatically checking that only numeric data has been entered.  Checking data entered into a computer system before it is stored or processed.  Visually checking that no errors have been introduced during data entry.  One mark per bullet point 37 • Data type name Integer • Data type description (Any) whole number Data type name String • Data type description A group of characters/text 47.86 • Data type name Real • Data type description (Any real) number that could be a whole number or a fraction 0478/21 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point (Max 3) MP1 Marks input are stored in the array Score[] MP2 Marks are checked against a range of boundaries // allow example MP3 ... and a matching grade is assigned to each mark that has been input MP4 ... then stored in the array Grade[] ... MP5 ... at the same index as the mark input MP6 The algorithm finishes after 30 marks have been input // allows 30 scores to be entered",
+          "image": "/papers/computer_science-0478-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point (Max 3) MP1 Correct loop, including counter if not a FOR loop MP2 Correct output of Score[] MP3 Correct output of Grade[] MP4 Suitable messages/text in output for both arrays Example answers Count ← REPEAT PRINT \"Student: \", Count, \" Mark: \", Score[Count], \" Grade: \",Grade[Count] Count ← Count + 1 UNTIL Count = 30 Count ← WHILE Count < 30 DO PRINT \"Student: \", Count, \" Mark: \", Score[Count], \" Grade: \",Grade[Count] Count ← Count + 1 ENDWHILE FOR Count ← 0 TO 29 PRINT \"Student: \", Count, \" Mark: \", Score[Count], \" Grade: \", Grade[Count] NEXT 0478/21 May/June 2021 three correct statements (Max 3) e.g. MP1 Add an input facility to allow teachers to enter the class size MP2 Add a variable to store the input class size MP3 Use the class size variable as the terminating condition for the loop MP4 Make sure the arrays are sufficiently large to accommodate the largest possible class size",
+          "image": "/papers/computer_science-0478-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct column (Max 4) Value Diff1 Diff2 OUTPUT 50 50 0 A ccept: Extreme 75 25 25 A ccept: Normal 99 1 49 A ccept: Normal Reject: Abnormal 82 18 32 A ccept: Normal Reject: Abnormal – 0478/21 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per bullet point (Max 2) • To output the type of test data • ... by performing a range check //... by checking if numbers are within the range 50 and 100 (inclusive) (or not).",
+          "image": "/papers/computer_science-0478-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The data in the ID column/field is unique/not repeated in each row/record",
+          "image": "/papers/computer_science-0478-2021/q6-6a.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: ID GenreName Overdue Table: GENRE GENRE GENRE Sort: Descending Show:      Criteria: >0 or: One mark for the correct fields present and correctly named One mark for correct table name and show box in all columns One mark for correct sorting One mark for correct search criterion",
+          "image": "/papers/computer_science-0478-2021/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

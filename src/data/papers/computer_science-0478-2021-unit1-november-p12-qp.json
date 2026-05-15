@@ -1,0 +1,163 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Denary is a number system that is used by programmers. Tick (✓) one box to show whether denary is a base-2, base-10 or base-16 number system. Tick (✓) Base-2 Base-10 Base-16",
+      "text": "1 (a) Denary is a number system that is used by programmers. Tick (✓) one box to show whether denary is a base-2, base-10 or base-16 number system. Tick (✓) Base-2 Base-10 Base-16",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Denary is a number system that is used by programmers. Tick (✓) one box to show whether denary is a base-2, base-10 or base-16 number system. Tick (✓) Base-2 Base-10 Base-16",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Base-10",
+          "image": "/papers/computer_science-0478-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− − − − − − one from: − To represent HTML colour codes − In error messages one from: − Assembly code/language − Memory address locations − In error messages − Memory dump 0478/12 October/November 2021 one from: − Printer − Speaker − Light/LED − A ctuato r one from: − Touchscreen − Trackpad / touchpad − Microphone − QR code reader − Barcode reader − Magnetic strip reader − RFID reade r 0478/12 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Six statements are given about methods of data transmission. Tick (✓) to show if each statement applies to serial simplex, parallel simplex, parallel half-duplex or serial duplex data transmission. Some statements may apply to more than one data transmission method. Statement Serial simplex (✓) Parallel simplex (✓) Parallel half-duplex (✓) Serial duplex (",
+      "text": "3 (a) Six statements are given about methods of data transmission. Tick (✓) to show if each statement applies to serial simplex, parallel simplex, parallel half-duplex or serial duplex data transmission. Some statements may apply to more than one data transmission method. Statement Serial simplex (✓) Parallel simplex (✓) Parallel half-duplex (✓) Serial duplex (",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Six statements are given about methods of data transmission. Tick (✓) to show if each statement applies to serial simplex, parallel simplex, parallel half-duplex or serial duplex data transmission. Some statements may apply to more than one data transmission method. Statement Serial simplex (✓) Parallel simplex (✓) Parallel half-duplex (✓) Serial duplex (",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct row. Statement Serial simplex (  ) Parallel simplex (  ) Parallel half-duplex (  ) Serial duplex (  ) bits are transmitted along a single wire   data is transmitted in both directions   it is only suitable for distances less than 5 metres   Bits from the same byte are transmitted one after the other   data may not arrive in the correct sequence   data is transmitted in both directions, but only one direction at a time  three from: − Can charge/power the mobile device (at the same time) − (Uses serial transmission so) data less likely to be skewed / corrupted − Universal / industry standard / connection − Cable can only be plugged in one way // Cannot be inserted incorrectly − Fast transmission speed − Backward compatible − Supports different transmission speeds − Automatically detects device // Automatically downloads drivers 0478/12 October/November 2021 One mark per each correct term in the correct order. − Capacitive − Conductive // Capacitive − Change − Coordinates − Resistive − Circuit − Manufacture three from: − Password − Add a biometric device to the laptop // set biometric password − Use two-step verification // Use two factor authentication − Physically lock the laptop away in a secure cupboard // Taking laptop with him at all times three from: − A compression algorithm is used − The resolution could be reduced − Colour depth could be reduced // bits per pixel reduced − Sounds not heard by human ear could be removed // Perceptual music shaping can be used − Repeating frames could be removed one from: − Quality may be reduced − Data is lost // original file cannot be reconstructed one from: − Maintains quality // quality better than lossy − Original file is retained // Data is not permanently lost − A significant reduction in file size is not required 0478/12 October/November 2021 two from: − Takes more time to transmit file // Takes more time to upload to web server // Takes more time to download to customer // Web ",
+          "image": "/papers/computer_science-0478-2021/q3-3a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (Max 2 per translator): − An interpreter translates and executes the code line by line − ... whereas a compiler translates and executes the whole code all in one go − An interpreter stops translating and reports an error as it finds one − ... whereas a compiler produces an error report at the end of translation − An interpreter does not produce an executable file − ... but a compiler does produce an executable file − An interpreter will execute the code until it finds an error − ... whereas a compiler will not execute any code if there are errors present − An interpreter allows correction of errors in real-time − ... whereas a compiler needs to retranslate the code each time after errors are found and corrected",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− A ssemble r 0478/12 October/November 2021 One mark per each correct row. Statement 3D scanner (  ) Barcode reader (  ) QR code reader (  ) uses position and alignment markers for orientation when scanning  scans the shape and appearance of an object  uses reflected light from a laser to convert a black-and-white pattern into binary  (  ) can often be built into an Electronic Point Of Sale (EPOS) terminal, for example, a supermarket checkout  (  ) it is an example of an input device    Seven from: − Timer is started − Pressure sensor (within each mat) − Sensor sends data to microprocessor − Analogue data is converted to digital (using ADC) − Microprocessor compares data to stored value(s) − If data matches / in/out range microprocessor stops timer − If data matches / in/out range microprocessor checks if data has come from correct colour mat sensor − If data matches / in/out range microprocessor checks to see if timer is stopped at less than 1 second − If data matches / in/out range microprocessor increments counter if timer is less than 1 second and colour/mat is correct − If correct colour/mat is hit, timer is reset and the whole process is repeated − If data has not come from the correct colour mat sensor the game ends 0478/12 October/November 2021 three from: e.g. − A suitable description of any error that might occur − A peripheral is connected/disconnected − A key on a keyboard is pressed − A mouse button click − A phone/video call is received − A buffer requires more data − A printer has a paper jam − A printer runs out of paper − A printer runs out of ink − When switching from one application to another NOTE: If three suitable different errors are described, this can be awarded three marks. one from: − The computer would only start a new task when it had finished processing the current task // by example − Computer will not be able to multitask − Errors may not be dealt with − Computer would become impossible to use",
+          "image": "/papers/computer_science-0478-2021/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Enables an encrypted link (between the browser and the web server) // It encrypts the data − ... based on the authentication of an (SSL) certificate // and will only send it if the certificate is authentic",
+          "image": "/papers/computer_science-0478-2021/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Transport Layer Security // TLS two from: − URL begins with HTTPS − Padlock symbol is locked − Check the certificate is valid 0478/12 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct logic gate with correct input(s) ABC X 0478/12 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2021/q11-11b.png"
+        },
+        {
+          "id": "11c",
+          "text": "Part 11c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− NOR − XOR / EOR",
+          "image": "/papers/computer_science-0478-2021/q11-11c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

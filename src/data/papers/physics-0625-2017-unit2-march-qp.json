@@ -1,0 +1,643 @@
+{
+  "paperId": "physics-0625-2017-unit2-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2017-unit2-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/22",
+  "session": "February/March 2017",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the height of a stack of identical coins. 2.40 cm stack of coins What is the thickness of one coin? A 0.20 mm B 2.0 mm C 0.24 cm D 2.0 cm",
+      "text": "The diagram shows the height of a stack of identical coins. 2.40 cm stack of coins What is the thickness of one coin? A 0.20 mm B 2.0 mm C 0.24 cm D 2.0 cm",
+      "options": [
+        "A 0.20 mm B 2.0 mm C 0.24 cm D 2.0 cm"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four balls with different masses are dropped from the heights shown. 4.0 kg P 1.0 m 3.0 kg Q 2.0 m 2.0 kg R 3.0 m 1.0 kg S 4.0 m ground Air resistance may be ignored. Which statement about the balls is correct? A Ball P has the greatest acceleration., B Balls Q and R take the same time to fall to the ground., C The acceleration of ball R is half the acceleration of ball P., D Ball S has the greatest average speed. 3",
+      "text": "Four balls with different masses are dropped from the heights shown. 4.0 kg P 1.0 m 3.0 kg Q 2.0 m 2.0 kg R 3.0 m 1.0 kg S 4.0 m ground Air resistance may be ignored. Which statement about the balls is correct? A Ball P has the greatest acceleration., B Balls Q and R take the same time to fall to the ground., C The acceleration of ball R is half the acceleration of ball P., D Ball S has the greatest average speed. 3",
+      "options": [
+        "A Ball P has the greatest acceleration.",
+        "B Balls Q and R take the same time to fall to the ground.",
+        "C The acceleration of ball R is half the acceleration of ball P.",
+        "D Ball S has the greatest average speed. 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is travelling in a straight line. The diagram is the speed-time graph for the object. At which labelled point is the object accelerating at a changing rate? B 0 0 speed m / s time / s A C D",
+      "text": "An object is travelling in a straight line. The diagram is the speed-time graph for the object. At which labelled point is the object accelerating at a changing rate? B 0 0 speed m / s time / s A C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the masses and weights of objects on the Earth is correct? A A balance can only be used to compare weights, not masses., B Heavy objects always have more mass than light ones., C Large objects always have more mass than small ones., D Mass is a force but weight is not.",
+      "text": "Which statement about the masses and weights of objects on the Earth is correct? A A balance can only be used to compare weights, not masses., B Heavy objects always have more mass than light ones., C Large objects always have more mass than small ones., D Mass is a force but weight is not.",
+      "options": [
+        "A A balance can only be used to compare weights, not masses.",
+        "B Heavy objects always have more mass than light ones.",
+        "C Large objects always have more mass than small ones.",
+        "D Mass is a force but weight is not."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object in a space probe above the Earth weighs 3.5 N. The gravitational field strength at the height of the space probe is 7.0 N / kg. The gravitational field strength on the Earth’s surface is 10 N / kg. What are the mass and the weight of the object on the Earth’s surface? mass / kg    weight / N A 0.50         3.5, B 0.50         5.0, C 2.0          3.5, D 2.0         20 4",
+      "text": "An object in a space probe above the Earth weighs 3.5 N. The gravitational field strength at the height of the space probe is 7.0 N / kg. The gravitational field strength on the Earth’s surface is 10 N / kg. What are the mass and the weight of the object on the Earth’s surface? mass / kg    weight / N A 0.50         3.5, B 0.50         5.0, C 2.0          3.5, D 2.0         20 4",
+      "options": [
+        "A 0.50         3.5",
+        "B 0.50         5.0",
+        "C 2.0          3.5",
+        "D 2.0         20 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  skydiver  jumps  from  a  stationary  helicopter  and  reaches  a  steady  vertical  speed.  She  then opens her parachute. Which statement about the falling skydiver is correct? A As her parachute opens, her acceleration is upwards., B As she falls at a steady speed with her parachute open, her weight is zero., C When she accelerates, the resultant force on her is zero., D When she falls at a steady speed, air resistance is zero.",
+      "text": "A  skydiver  jumps  from  a  stationary  helicopter  and  reaches  a  steady  vertical  speed.  She  then opens her parachute. Which statement about the falling skydiver is correct? A As her parachute opens, her acceleration is upwards., B As she falls at a steady speed with her parachute open, her weight is zero., C When she accelerates, the resultant force on her is zero., D When she falls at a steady speed, air resistance is zero.",
+      "options": [
+        "A As her parachute opens, her acceleration is upwards.",
+        "B As she falls at a steady speed with her parachute open, her weight is zero.",
+        "C When she accelerates, the resultant force on her is zero.",
+        "D When she falls at a steady speed, air resistance is zero."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car moves in a circular path as it turns a corner on a horizontal road. The car moves at constant speed. path of car car direction of travel Which description of the forces acting on the car is correct? A All the forces are balanced as the car is moving at constant speed., B The forces are unbalanced and the resultant force acts away from the centre of the circle., C The forces are unbalanced and the resultant force acts towards the centre of the circle., D The forces are unbalanced and the resultant force is in the direction of travel of the car.",
+      "text": "A car moves in a circular path as it turns a corner on a horizontal road. The car moves at constant speed. path of car car direction of travel Which description of the forces acting on the car is correct? A All the forces are balanced as the car is moving at constant speed., B The forces are unbalanced and the resultant force acts away from the centre of the circle., C The forces are unbalanced and the resultant force acts towards the centre of the circle., D The forces are unbalanced and the resultant force is in the direction of travel of the car.",
+      "options": [
+        "A All the forces are balanced as the car is moving at constant speed.",
+        "B The forces are unbalanced and the resultant force acts away from the centre of the circle.",
+        "C The forces are unbalanced and the resultant force acts towards the centre of the circle.",
+        "D The forces are unbalanced and the resultant force is in the direction of travel of the car."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A moving body undergoes a change of momentum. What is a unit for change of momentum? A N m B N / m C N s D N / s 5",
+      "text": "A moving body undergoes a change of momentum. What is a unit for change of momentum? A N m B N / m C N s D N / s 5",
+      "options": [
+        "A N m B N / m C N s D N / s 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A man can either take an escalator or a lift to travel up between two floors in a hotel. escalatorlift The escalator takes 20 seconds to carry the man between the two floors. The useful work done against gravity is W. The useful power developed is P. The lift takes 30 seconds to carry the same man between the same two floors. How  much  useful  work  against  gravity  is  done  by  the  lift,  and  how  much  useful  power  is developed by the lift? useful work done against gravity by lift useful power developed by lift A more than W less than P, B more than W           P, C W less than P, D W               P",
+      "text": "A man can either take an escalator or a lift to travel up between two floors in a hotel. escalatorlift The escalator takes 20 seconds to carry the man between the two floors. The useful work done against gravity is W. The useful power developed is P. The lift takes 30 seconds to carry the same man between the same two floors. How  much  useful  work  against  gravity  is  done  by  the  lift,  and  how  much  useful  power  is developed by the lift? useful work done against gravity by lift useful power developed by lift A more than W less than P, B more than W           P, C W less than P, D W               P",
+      "options": [
+        "A more than W less than P",
+        "B more than W           P",
+        "C W less than P",
+        "D W               P"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  40 W lamp wastes 34 J of energy every second by heating its surroundings. What is the efficiency of the lamp? A 0.15%   B   15%   C   18%   D   85%",
+      "text": "A  40 W lamp wastes 34 J of energy every second by heating its surroundings. What is the efficiency of the lamp? A 0.15%   B   15%   C   18%   D   85%",
+      "options": [
+        "A 0.15%   B   15%   C   18%   D   85%"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A column of liquid has height h, mass m and density ρ. The gravitational field strength is g. Which expression gives the pressure due to the column of liquid? A hρ B mρ C mgh D ρ gh 6",
+      "text": "A column of liquid has height h, mass m and density ρ. The gravitational field strength is g. Which expression gives the pressure due to the column of liquid? A hρ B mρ C mgh D ρ gh 6",
+      "options": [
+        "A hρ B mρ C mgh D ρ gh 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagrams  show  two  mercury  barometers.  The  right-hand  diagram  shows  a  tube  of  larger diameter. There is a vacuum above the mercury in both tubes. Which labelled position on the right-hand tube shows the mercury level in the right-hand tube? mercury glass tubes A B C D",
+      "text": "The  diagrams  show  two  mercury  barometers.  The  right-hand  diagram  shows  a  tube  of  larger diameter. There is a vacuum above the mercury in both tubes. Which labelled position on the right-hand tube shows the mercury level in the right-hand tube? mercury glass tubes A B C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains 7",
+      "text": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains 7",
+      "options": [
+        "A pollen grains being hit by other pollen grains",
+        "B pollen grains being hit by water molecules",
+        "C water molecules being hit by other water molecules",
+        "D water molecules being hit by pollen grains 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "At  –39 °C, liquid mercury solidifies without a change of temperature. Which row shows whether the mercury absorbs or releases energy and what happens to the bonds between the mercury atoms? energy bonds between atoms A absorbed         stronger, B absorbed         weaker, C released         stronger, D released         weaker",
+      "text": "At  –39 °C, liquid mercury solidifies without a change of temperature. Which row shows whether the mercury absorbs or releases energy and what happens to the bonds between the mercury atoms? energy bonds between atoms A absorbed         stronger, B absorbed         weaker, C released         stronger, D released         weaker",
+      "options": [
+        "A absorbed         stronger",
+        "B absorbed         weaker",
+        "C released         stronger",
+        "D released         weaker"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  model  thermometer  consists  of  a  flask  of  coloured  water  and  a  stopper  with  a  glass  tube passing through it, as shown. glass tube stopper coloured water flask temperature scale The model thermometer can be changed in one of two ways. ●   The flask can be replaced with a larger one full of coloured water. ●   The glass tube can be replaced with one with a larger internal diameter. Which statement is correct? A Only using a larger flask increases the sensitivity., B Only using a wider tube increases the sensitivity., C Using a larger flask increases the sensitivity and using a wider tube increases the sensitivity., D Neither using a larger flask nor using a wider tube increases the sensitivity. 8",
+      "text": "A  model  thermometer  consists  of  a  flask  of  coloured  water  and  a  stopper  with  a  glass  tube passing through it, as shown. glass tube stopper coloured water flask temperature scale The model thermometer can be changed in one of two ways. ●   The flask can be replaced with a larger one full of coloured water. ●   The glass tube can be replaced with one with a larger internal diameter. Which statement is correct? A Only using a larger flask increases the sensitivity., B Only using a wider tube increases the sensitivity., C Using a larger flask increases the sensitivity and using a wider tube increases the sensitivity., D Neither using a larger flask nor using a wider tube increases the sensitivity. 8",
+      "options": [
+        "A Only using a larger flask increases the sensitivity.",
+        "B Only using a wider tube increases the sensitivity.",
+        "C Using a larger flask increases the sensitivity and using a wider tube increases the sensitivity.",
+        "D Neither using a larger flask nor using a wider tube increases the sensitivity. 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A metal has a specific heat capacity of 360 J / (kg °C). An object made of this metal has a mass of 2.0 kg. What is the thermal capacity (heat capacity) of the object? A 180 J / °C B 180 J / kg C 720 J / °C D 720 J / kg",
+      "text": "A metal has a specific heat capacity of 360 J / (kg °C). An object made of this metal has a mass of 2.0 kg. What is the thermal capacity (heat capacity) of the object? A 180 J / °C B 180 J / kg C 720 J / °C D 720 J / kg",
+      "options": [
+        "A 180 J / °C B 180 J / kg C 720 J / °C D 720 J / kg"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In which type of substance are free electrons involved in the transfer of thermal energy? A all liquids, B all solids, C metals only, D plastics only",
+      "text": "In which type of substance are free electrons involved in the transfer of thermal energy? A all liquids, B all solids, C metals only, D plastics only",
+      "options": [
+        "A all liquids",
+        "B all solids",
+        "C metals only",
+        "D plastics only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four  objects,  made  of  the  same  material  and  having  the  same  mass,  are  at  the  same temperature. The objects have different surfaces and different surface areas. Which object emits infra-red radiation at the greatest rate? surface      surface      area A dull         large, B dull         small, C shiny         large, D shiny         small",
+      "text": "Four  objects,  made  of  the  same  material  and  having  the  same  mass,  are  at  the  same temperature. The objects have different surfaces and different surface areas. Which object emits infra-red radiation at the greatest rate? surface      surface      area A dull         large, B dull         small, C shiny         large, D shiny         small",
+      "options": [
+        "A dull         large",
+        "B dull         small",
+        "C shiny         large",
+        "D shiny         small"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A person uses a surfboard to ride every 30th wave crest towards the beach. The wave crest travels at a speed of 1.6 m / s and the distance between each wave crest is 24 m. How many wave crests does the person surf in one hour? A 1 B 2 C 8 D 450 9",
+      "text": "A person uses a surfboard to ride every 30th wave crest towards the beach. The wave crest travels at a speed of 1.6 m / s and the distance between each wave crest is 24 m. How many wave crests does the person surf in one hour? A 1 B 2 C 8 D 450 9",
+      "options": [
+        "A 1 B 2 C 8 D 450 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In a shallow tank, a water wave moves towards a barrier with a narrow gap. barrier water wave Which diagram shows the wave beyond the barrier? AB CD",
+      "text": "In a shallow tank, a water wave moves towards a barrier with a narrow gap. barrier water wave Which diagram shows the wave beyond the barrier? AB CD",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light passes along an optical fibre. What happens to the light within the fibre? A diffraction, B dispersion, C refraction, D total internal reflection 10",
+      "text": "Light passes along an optical fibre. What happens to the light within the fibre? A diffraction, B dispersion, C refraction, D total internal reflection 10",
+      "options": [
+        "A diffraction",
+        "B dispersion",
+        "C refraction",
+        "D total internal reflection 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The points labelled F are the principal foci of a lens. A beam of parallel light is incident on the lens. Which diagram shows the path of the light after it passes through the lens? A FF B FF C FF D FF",
+      "text": "The points labelled F are the principal foci of a lens. A beam of parallel light is incident on the lens. Which diagram shows the path of the light after it passes through the lens? A FF B FF C FF D FF",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about sound waves is correct? A They are able to travel through a vacuum., B They are able to travel through solids., C They are transverse waves., D They travel at the same speed in all substances.",
+      "text": "Which statement about sound waves is correct? A They are able to travel through a vacuum., B They are able to travel through solids., C They are transverse waves., D They travel at the same speed in all substances.",
+      "options": [
+        "A They are able to travel through a vacuum.",
+        "B They are able to travel through solids.",
+        "C They are transverse waves.",
+        "D They travel at the same speed in all substances."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about ultrasound is correct? A It is produced by a rapidly vibrating source., B It is uncomfortable to human ears., C Its frequency must be greater than 300 kHz., D It travels the fastest in a vacuum. 11",
+      "text": "Which statement about ultrasound is correct? A It is produced by a rapidly vibrating source., B It is uncomfortable to human ears., C Its frequency must be greater than 300 kHz., D It travels the fastest in a vacuum. 11",
+      "options": [
+        "A It is produced by a rapidly vibrating source.",
+        "B It is uncomfortable to human ears.",
+        "C Its frequency must be greater than 300 kHz.",
+        "D It travels the fastest in a vacuum. 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A small compass is placed close to a strong bar magnet, the same distance from each end. Which diagram shows the direction in which the compass needle points? N A S N B S N C S N D S compasscompasscompasscompass",
+      "text": "A small compass is placed close to a strong bar magnet, the same distance from each end. Which diagram shows the direction in which the compass needle points? N A S N B S N C S N D S compasscompasscompasscompass",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A bar magnet can be demagnetised by hammering it for a long time or by slowly removing it from a coil connected to a power supply. Which row completes the descriptions of how these processes are carried out? hammering bar magnet for a long time with slowly removing bar magnet from a coil connected to A magnet aligned E-W a d.c. power supply, B magnet aligned E-W an a.c. power supply, C magnet aligned N-S a d.c. power supply, D magnet aligned N-S an a.c. power supply",
+      "text": "A bar magnet can be demagnetised by hammering it for a long time or by slowly removing it from a coil connected to a power supply. Which row completes the descriptions of how these processes are carried out? hammering bar magnet for a long time with slowly removing bar magnet from a coil connected to A magnet aligned E-W a d.c. power supply, B magnet aligned E-W an a.c. power supply, C magnet aligned N-S a d.c. power supply, D magnet aligned N-S an a.c. power supply",
+      "options": [
+        "A magnet aligned E-W a d.c. power supply",
+        "B magnet aligned E-W an a.c. power supply",
+        "C magnet aligned N-S a d.c. power supply",
+        "D magnet aligned N-S an a.c. power supply"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which particles move in a metal to cause an electric current? A electrons, B neutrons, C nucleons, D protons 12",
+      "text": "Which particles move in a metal to cause an electric current? A electrons, B neutrons, C nucleons, D protons 12",
+      "options": [
+        "A electrons",
+        "B neutrons",
+        "C nucleons",
+        "D protons 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams represent four copper wires. Which wire has the greatest resistance? 10 mm 1 mm2 mm1 mm2 mm 10 mm 20 mm20 mm A B                                C                                D",
+      "text": "The diagrams represent four copper wires. Which wire has the greatest resistance? 10 mm 1 mm2 mm1 mm2 mm 10 mm 20 mm20 mm A B                                C                                D",
+      "options": [
+        "A B                                C                                D"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An air-conditioning unit, a lamp and an electric fire all receive electrical energy from the mains supply. From which of these devices is all this energy eventually transferred to the surroundings? air- conditioning unit lamp electric fire A \u0001 \u0001 \u0001      key, B \u0001 \u0002 \u0001 \u0001= all energy transferred to surroundings, C \u0002 \u0001 \u0001 \u0002= not all energy transferred to surroundings, D \u0002 \u0002 \u0001",
+      "text": "An air-conditioning unit, a lamp and an electric fire all receive electrical energy from the mains supply. From which of these devices is all this energy eventually transferred to the surroundings? air- conditioning unit lamp electric fire A \u0001 \u0001 \u0001      key, B \u0001 \u0002 \u0001 \u0001= all energy transferred to surroundings, C \u0002 \u0001 \u0001 \u0002= not all energy transferred to surroundings, D \u0002 \u0002 \u0001",
+      "options": [
+        "A \u0001 \u0001 \u0001      key",
+        "B \u0001 \u0002 \u0001 \u0001= all energy transferred to surroundings",
+        "C \u0002 \u0001 \u0001 \u0002= not all energy transferred to surroundings",
+        "D \u0002 \u0002 \u0001"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four circuits are set up. In which circuit does the ammeter show the greatest reading? 2.0 Ω 3.0 Ω A 12 V A 2.0 Ω 3.0 Ω A 12 V B 2.0 Ω 3.0 Ω A 12 V C 2.0 Ω 3.0 Ω A 12 V D 13",
+      "text": "Four circuits are set up. In which circuit does the ammeter show the greatest reading? 2.0 Ω 3.0 Ω A 12 V A 2.0 Ω 3.0 Ω A 12 V B 2.0 Ω 3.0 Ω A 12 V C 2.0 Ω 3.0 Ω A 12 V D 13",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an electric circuit. V The light falling on the light-dependent resistor (LDR) increases in brightness. What happens to the resistance of the LDR, the current in the fixed resistor and the reading on the voltmeter? resistance of LDR current in fixed resistor reading on voltmeter A decreases      increases      decreases, B decreases      increases      increases, C increases      decreases      decreases, D increases      decreases      increases",
+      "text": "The diagram shows an electric circuit. V The light falling on the light-dependent resistor (LDR) increases in brightness. What happens to the resistance of the LDR, the current in the fixed resistor and the reading on the voltmeter? resistance of LDR current in fixed resistor reading on voltmeter A decreases      increases      decreases, B decreases      increases      increases, C increases      decreases      decreases, D increases      decreases      increases",
+      "options": [
+        "A decreases      increases      decreases",
+        "B decreases      increases      increases",
+        "C increases      decreases      decreases",
+        "D increases      decreases      increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows two linked circuits to control when a bell is switched on. The conditions are altered and only one pair of conditions causes the bell to ring. Which pair causes the bell to ring? A bright light and high temperature, B bright light and low temperature, C dim light and high temperature, D dim light and low temperature 14",
+      "text": "The diagram shows two linked circuits to control when a bell is switched on. The conditions are altered and only one pair of conditions causes the bell to ring. Which pair causes the bell to ring? A bright light and high temperature, B bright light and low temperature, C dim light and high temperature, D dim light and low temperature 14",
+      "options": [
+        "A bright light and high temperature",
+        "B bright light and low temperature",
+        "C dim light and high temperature",
+        "D dim light and low temperature 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The truth table for a logic gate is shown. input 1 input 2 output 0          0          1 0          1          0 1          0          0 1          1          0 Which type of logic gate is it? A AND   B   NOR   C   NOT   D   OR",
+      "text": "The truth table for a logic gate is shown. input 1 input 2 output 0          0          1 0          1          0 1          0          0 1          1          0 Which type of logic gate is it? A AND   B   NOR   C   NOT   D   OR",
+      "options": [
+        "A AND   B   NOR   C   NOT   D   OR"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In this circuit, a component at X automatically protects the wiring from overheating if there is a fault. electrical supply X Which row indicates components that are suitable? circuit breaker fuse      switch A \u0001 \u0001 \u0001     key, B \u0001 \u0001 \u0002 \u0001= suitable, C \u0001 \u0002 \u0001 \u0002= not suitable, D \u0002 \u0001 \u0002 15",
+      "text": "In this circuit, a component at X automatically protects the wiring from overheating if there is a fault. electrical supply X Which row indicates components that are suitable? circuit breaker fuse      switch A \u0001 \u0001 \u0001     key, B \u0001 \u0001 \u0002 \u0001= suitable, C \u0001 \u0002 \u0001 \u0002= not suitable, D \u0002 \u0001 \u0002 15",
+      "options": [
+        "A \u0001 \u0001 \u0001     key",
+        "B \u0001 \u0001 \u0002 \u0001= suitable",
+        "C \u0001 \u0002 \u0001 \u0002= not suitable",
+        "D \u0002 \u0001 \u0002 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a simple transformer with an input of 240 V and an output of 40 V. There are 600 turns on the primary coil. output input 600 turns 240 V40 V primary coilsecondary coil How many turns are there on the secondary coil? A 100 B 320 C 400 D 3600",
+      "text": "The diagram shows a simple transformer with an input of 240 V and an output of 40 V. There are 600 turns on the primary coil. output input 600 turns 240 V40 V primary coilsecondary coil How many turns are there on the secondary coil? A 100 B 320 C 400 D 3600",
+      "options": [
+        "A 100 B 320 C 400 D 3600"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a current-carrying wire. The wire is at 90° to a magnetic field. The direction of the magnetic field is into the page. wire magnetic field into the page current A force acts on the wire due to the current and the magnetic field. In which direction does the force act?, A into the page, B out of the page, C towards the bottom of the diagram, D towards the top of the diagram 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "The diagram shows a current-carrying wire. The wire is at 90° to a magnetic field. The direction of the magnetic field is into the page. wire magnetic field into the page current A force acts on the wire due to the current and the magnetic field. In which direction does the force act?, A into the page, B out of the page, C towards the bottom of the diagram, D towards the top of the diagram 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A force acts on the wire due to the current and the magnetic field. In which direction does the force act?",
+        "A into the page",
+        "B out of the page",
+        "C towards the bottom of the diagram",
+        "D towards the top of the diagram 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A radioactive substance emits radiation at a rate of 600 emissions per second. Four hours later, it emits radiation at a rate of 300 emissions per second. What is the half-life of the substance and what is the rate of emission after a further four hours? half-life / hours rate of emission after a further four hours / emissions per second A 2                      0, B 2                    150, C 4                      0, D 4                    150",
+      "text": "A radioactive substance emits radiation at a rate of 600 emissions per second. Four hours later, it emits radiation at a rate of 300 emissions per second. What is the half-life of the substance and what is the rate of emission after a further four hours? half-life / hours rate of emission after a further four hours / emissions per second A 2                      0, B 2                    150, C 4                      0, D 4                    150",
+      "options": [
+        "A 2                      0",
+        "B 2                    150",
+        "C 4                      0",
+        "D 4                    150"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The nuclide notation for an isotope of silver is Ag 109 47 . How many nucleons are in a nucleus of this isotope? A 47   B   62   C   109   D   156",
+      "text": "The nuclide notation for an isotope of silver is Ag 109 47 . How many nucleons are in a nucleus of this isotope? A 47   B   62   C   109   D   156",
+      "options": [
+        "A 47   B   62   C   109   D   156"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation represents an isotope of radium Ra decaying to an isotope of radon Rn with the emission of particle X. Ra 226 88 → Rn 222 86 + X What is particle X? A e 0 1− B H 1 1, C He 4 2, D n 1 0",
+      "text": "The equation represents an isotope of radium Ra decaying to an isotope of radon Rn with the emission of particle X. Ra 226 88 → Rn 222 86 + X What is particle X? A e 0 1− B H 1 1, C He 4 2, D n 1 0",
+      "options": [
+        "B H 1 1",
+        "C He 4 2",
+        "D n 1 0"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An atomic nucleus decays by one or more radioactive decay processes. What causes the proton number to decrease by 1? A α-decay followed by β-decay, B α-decay only, C β-decay followed by γ-decay, D β-decay only",
+      "text": "An atomic nucleus decays by one or more radioactive decay processes. What causes the proton number to decrease by 1? A α-decay followed by β-decay, B α-decay only, C β-decay followed by γ-decay, D β-decay only",
+      "options": [
+        "A α-decay followed by β-decay",
+        "B α-decay only",
+        "C β-decay followed by γ-decay",
+        "D β-decay only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2017/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2017-unit2-2017-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

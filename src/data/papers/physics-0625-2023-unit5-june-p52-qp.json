@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2023-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The metre ruler is clamped in position near to the spring. Do not change the position of the metre ruler. (i) The value l 0 is the length of the spring when the load L is 0.0 N. Measure the unstretched length l 0 of the spring. Do not include the loops at the ends of the spring in your measurement. Record",
+      "text": "1 (a) The metre ruler is clamped in position near to the spring. Do not change the position of the metre ruler. (i) The value l 0 is the length of the spring when the load L is 0.0 N. Measure the unstretched length l 0 of the spring. Do not include the loops at the ends of the spring in your measurement. Record",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "increasing values of l for loads from 1 N to 5 N all greater than l correct e values  axes correctly labelled with quantity and unit and the right way round  suitable scales filling  ½ the grid between the extreme plotted points  six plots correct to ½ small square – origin must be included  good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2023/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method shown clearly on graph value correct to ½ small square – unit needed 0625/52 May/June 2023",
+          "image": "/papers/physics-0625-2023/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "realistic room temperature all to at least 0.5 °C or 1 °C   correct R correct / s two from:  remove lid  thinner lid  paint the beaker black  stir the water  change beaker to container that is a better conductor / named metal  increase surface (area of water / beaker)  use a wider beaker  blow air over water surface / use a fan  use a smaller volume of water 0625/52 May/June 2023",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement: view thermometer / scale / reading at right angles / eye level explanation: to avoid parallax error OR statement: stir (before taking reading) explanation: to distribute water evenly / to ensure that all the water is at the same temperature OR statement: ensure thermometer does not touch the side / base of beaker explanation: temperature different to that of the bulk of the liquid OR statement: wait until the thermometer (reading) stops rising at the start explanation: so that the maximum temperature of the liquid is recorded 0625/52 May/June 2023",
+          "image": "/papers/physics-0625-2023/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal at 90° and in centre of AB",
+          "image": "/papers/physics-0625-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "i = 20°  2° P and P at least 5.0 cm apart all lines neatly drawn in approximately correct positions",
+          "image": "/papers/physics-0625-2023/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correct to  2°  > candidate’s i one from:  view bases of pins  place pins as far apart as possible / > 5 cm apart  ensure pins are vertical / at right angles to ray-trace sheet  draw thin lines  use a sharp pencil  use thin pins",
+          "image": "/papers/physics-0625-2023/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line (through P and P ) to right of normal drawn in approximately correct position, below AB line meets AB at C  mm",
+          "image": "/papers/physics-0625-2023/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correct to  2°  =  2° 0625/52 May/June 2023 4 MP1 method: measure the distance between the electrodes MP2 method: measure / record / take / check / note the current or the ammeter reading MP3 method: repeat with at least four othe r distances MP4 key variables: potential difference / supply voltage / battery voltage / power supply MP5 key variables: any one from:  depth of immersion of electrodes  volume / amount of liquid  mass / size / material of the electrodes  room temperature  temperature / concentration of the liquid  type of liquid / electrolyte MP6 table: table with columns for distance and (change in) current with appropriate units MP7 conclusion: draw a graph of (change in) current against distance OR (use results table to) compare distances with currents OR (compare results to) see if changing the distance has any effect on the current",
+          "image": "/papers/physics-0625-2023/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

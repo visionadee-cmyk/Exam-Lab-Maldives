@@ -1,0 +1,51 @@
+{
+  "paperId": "mathematics-0580-2019-unit4-november-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2019-unit4-november-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/41",
+  "session": "October/November 2019",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x + y ⩾ 6 oe y ⩽ x oe x ⩽ 8 B1 for each",
+          "image": "/papers/mathematics-0580-2019/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4x + 6y ⩽ 60 B1 for x + y = 6 ruled and long enough B1 for x = y ruled and long enough B1 for x = 8 ruled and long enough B2 for 2x + 3y = 30 ruled and long enough or B1 for ruled line through (0, 10) or (15, 0) but not y = 10 or x = 15 M1 for trying 4x + 6y with (4, 3) or (5, 2) or (6, 1) or (7, 0) 13 – 4n oe (n + 1) oe noe n + 2 oe 11 B1 B2 or B1 for 13 – kn (k ≠ 0) or for k – 4n B1 B2 or B1 for any quadratic B1 B1 B1 B2 or B1 for 2 k oe .... , 3, 4, 7, ..... 2, ...., 1, 0, .... B1 for each correct row qp q +",
+          "image": "/papers/mathematics-0580-2019/q9-9b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2019/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2019-unit4-2019-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

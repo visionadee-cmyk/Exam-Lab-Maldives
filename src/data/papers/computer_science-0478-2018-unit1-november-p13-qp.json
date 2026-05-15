@@ -1,0 +1,263 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 18,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 marks for 3 correct bits, 1 mark for 2 correct bits Parity Bit 1 0 1 0 0 1 1 1 0 1 1 1 1 1 1 0 1 0 0 0 1",
+          "image": "/papers/computer_science-0478-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Set of rules for controlling error checking/detection // it’s an error detection method // used to detect errors • Uses acknowledgement and timeout • Request is sent (with data) requiring acknowledgement • If no response/acknowledgment within certain time frame data package is resent • When data received contains an error a request is sent (automatically) to resend the data • The resend request is repeatedly sent until packet is received error free/limit is reached/acknowledgement received Six from: • A pressure sensor is used • The sensor sends data/signals to the microprocessor • Data is converted to digital format • Microprocessor compares data value against set value • If value <= 2400 Kg/under weight limit lift is permitted to operate • If value > 2400 Kg/over weight limit signal is sent from the microprocessor to deliver warning message to passengers • If value > 2400 Kg signal is sent from the microprocessor to lift mechanism to stop lift operating • Weight continuously monitored 0478/13 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct conversion 11111111 00001000 10010011",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Computers use switches / logic gates • Only uses 2 states / On or Off / 1 or 0",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Bits sent one at a time • Uses a single wire",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "USB / SATA / Wifi /PCI Express / Any appropriate serial device",
+          "image": "/papers/computer_science-0478-2018/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Data is transferred in two directions • Data is sent in only one direction at a time 0478/13 October/November 2018 1 mark for method name, 1 mark for description e.g. Backups • Make a copy of the data • Copy stored away from main computer • Data can be restored from backup Anti-virus • Scans computer for viruses • Software to detect/remove viruses • Can prevent data being corrupted by viruses Firewall • Hardware or software that monitors network traffic • To help prevent hackers gaining access / deleting data Password/Biometrics • To help protect files / computer from unauthorised access Restricted access • To stop users downloading/installing software that could harm Verification • Message e.g. to ask if definitely want to delete Physical methods • Locks/alarms/CCTV to alert/deter unauthorised access 0478/13 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • It is a translator • Translates (high level language) to low level language • Executes one line at a time • Translates source code line by line • Runs error diagnostic • Produces error messages to tell user location of error • Stops execution when encounters errors • Continues translating when an error is fixed",
+          "image": "/papers/computer_science-0478-2018/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (Max three per benefit): • Produces executable file « • « this creates a smaller file size • « more saleable • Program will be machine independent / portable « • « this means it can be used on any hardware • No need for compiler to run executable file « • « this means it will be quicker to run • « customers can just execute the program • Source code cannot be accessed « • « therefore, code cannot be stolen / plagiarised",
+          "image": "/papers/computer_science-0478-2018/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Uses compression algorithm / by example e.g. RLE • Repeating words / phrases / patterns identified « • « replaced with value • File / dictionary / index of phrases created • Index will store word/phrase with value 0478/13 October/November 2018 Resource Locator",
+          "image": "/papers/computer_science-0478-2018/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • The web browser sends URL to DNS • DNS stores an index of URL and matching IP address • DNS searches for URL to obtain the IP address • IP address sent to web browser, (if found) • Web browser sends request to IP of webserver • Webserver sends web page to web browser • Web browser interprets HTML to display web page • If URL not found DNS returns error Four from: • ROM is permanent « • « RAM is temporary • ROM is non-volatile • « RAM is volatile « • ROM is read only « • « RAM can have read/write operations • ROM holds instructions for boot up « • « RAM holds files / instructions in use 0478/13 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q8.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 or 7 correct outputs 2 marks for 4 or 5 correct outputs 1 mark for 2 or 3 correct outputs A B C X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/13 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per correct gate with correct inputs.",
+          "image": "/papers/computer_science-0478-2018/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Holds address of next/current instruction « • « to be fetched/processed/executed",
+          "image": "/papers/computer_science-0478-2018/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Stores data/instruction that is in use « • « from address in MAR 0478/13 October/November 2018 Four from ( Max three from each): MP3 • Digital recording of sound • Produced by recording software / microphone • Used when distributing sound files • Compressed file format MIDI • Instructions of how to make sound • Non-audio recording • File created using digital musical instruments • Produced by synthesizer • Used when composing music • Individual notes/instruments can be changed",
+          "image": "/papers/computer_science-0478-2018/q11-11b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q11.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for storage, 1 mark for justification • External/Removable HDD // External/Removabl e SSD // Large capacity USB Flash Drive • Backups must be stored separately • Will hold sufficient data • Faster write abilities (SSD/USB drive only) 0478/13 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for storage, 1 mark for justification • SSD // SD card // Flash memory • Small physical size • Lightweight • Low heat production • Low power consumption • It’s quiet • Fast read/write times",
+          "image": "/papers/computer_science-0478-2018/q13-13b.png"
+        },
+        {
+          "id": "13c",
+          "text": "Part 13c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for storage, 1 mark for justification • DVD // Blu-ray // USB Flash Drive // SD card • Easy to distribute • Small in size • Cheap to buy • Universal storage therefore compatible with many devices",
+          "image": "/papers/computer_science-0478-2018/q13-13c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q13.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 18,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,59 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "February/March 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial, final and average temperature boxes completed correctly; times completed, in seconds; comparable to supervisor’s results; 2 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate scale for y -axis; all points plotted correctly; smooth line graph; 1 2 1",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph; extrapolation; 1 1 / °C; / higher temperature; more chance of collisions; 1 1 than a measuring cylinder; 1 1 / use a lid; to reduce heat losses; or repeats; average results; or measure water using a burette / pipette / use a 2d.p. stopwatch / digital thermometer; reference to accuracy; or use a calorimeter; more reliable; Page 4 Mark Scheme Syllabus Paper 0620 52 / blue (solid / crystals); precipitate; deep blue; solution; 1 1 1 1 / change / precipitate; chloride; 1 1 / gas; description of sublimate; litmus paper turns blue; 1 1 1 iodide; 1 1 Page 5 Mark Scheme Syllabus Paper 0620 52 any six from: • chromatography; • pencil base line / origin; • apply orange colouring to the paper; • and samples of both E110 and E129; • run in solvent / named solvent; • check heights of spots of E110 and E129 against orange colouring; • conclusion;",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

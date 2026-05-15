@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2020-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Arrange the apparatus as shown in Fig. 3.1. Place the lens a distance u = 20.0 cm from the illuminated triangle. Place the screen near the lens. Move the screen until a sharp image of the triangle is seen on the screen. (i) Measure the distance v between the lens and the screen as indicated in Fig. 3.1. v = ......",
+      "text": "1 (a) Arrange the apparatus as shown in Fig. 3.1. Place the lens a distance u = 20.0 cm from the illuminated triangle. Place the screen near the lens. Move the screen until a sharp image of the triangle is seen on the screen. (i) Measure the distance v between the lens and the screen as indicated in Fig. 3.1. v = ......",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "loop more accurate and can be placed at precise mark (owtte) / difficult to locate centre of block with other method V all < 4.00 (V) and to at least 1dp correct calculation of R I all < 2.00 (A) and to at least 2dp units – A, V, Ω 0625/53 May/June 2020 I < I < I R values all to consistent 2 or consistent 3 significant figures",
+          "image": "/papers/physics-0625-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results j ustification matching statement with values from result s used, e.g. within limits of experimental accuracy correct symbol for variable resistor (rectangle with strike-through arrow) in correct complete series circuit can obtain average value / plot a graph v between 42 cm and 88 cm correct calculation of f with unit u within ± 10% of v from (a)(i) v between 18 cm and 22 cm f and f to consistent 2 or consistent 3 significant figures sensible value for h O and h I < 1.0 (cm) correct calculation of M and no unit f in range 12.0 cm to 18.0 cm 0625/53 May/June 2020 one from: mark position of lens on holder clamp rule / place rule on bench ensure screen, lens and object all perpendicular view scale perpendicularly difficult to measure height of image (accurately) as image is small use larger object / graph paper on screen OR mark top and bottom of image and measure late r MP1 additional apparatus: voltmete r , protracto r , metre rule MP2 control variable (one from): distance of lamp from solar panel height of lamp / height of solar panel brightness of lamp MP3 method (one from): measure angle between panel and stand / other fixed datum (switch on lamp) measure potential difference MP4 repeat for different angle MP5 table: appropriate columns with clear headings and units MP6 analysis: suitable analysis of readings, e.g. calculation of rate of change of potential difference with angle draw a suitable graph with correct axes stated 0625/53 May/June 2020 MP7 additional point / precaution (one from): reading with only ambient light first / subtract ambient light reading make room dark fix protractor keep axis of solar panel and line of lamp perpendicular to each other at least five sets of data taken repeat each reading and take an average repeat for different distance of lamp",
+          "image": "/papers/physics-0625-2020/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit5-2020-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

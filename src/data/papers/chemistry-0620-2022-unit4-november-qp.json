@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2022-unit4-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit4-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/41",
+  "session": "October/November 2022",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Mg + H SO → MgSO + H M2 solid stops dissolving or a solid remains / is visible (in the mixture) (1) / solid) decreases (as temperature decreases) 1 October/November 2022 Question Answer Marks = 120 (1) M2 mol MgSO = 2.40 / M1 = 2.40 / 120 = 0.02(00) (1) M3 0.02(00) / 0.02(00) = 1 0.140 / 0.02(00) = 7 and x = 7 (1)",
+          "image": "/papers/chemistry-0620-2022/q4-4a.png"
+        },
+        {
+          "id": "4f",
+          "text": "Part 4f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2Mg(NO ) → 2MgO + 4NO + O M1 NO + O (1) M2 equation completely correct (1) Question Answer Marks n H 2n+2 October/November 2022 Question Answer Marks 6  C–H + C–C + Cl–Cl = 6  410 + 350 + 240 = 3050 (kJ / mol) (1) M2 energy released in making bonds 5  C–H + C–C + C–Cl + H–Cl = 5  410 + 350 + 340 + 430 = 3170 (kJ / mol) (1) M3 energy change M1 – M2 = –120 (kJ / mol) (1) Question Answer Marks n H 2n+1 COOH 1 O M2 double C=O bond dot and cross pairs are correct (1) M3 four non-bonding cross electrons on each O atom (1) M2 ester linkage with all atoms and all bonds (1) M3 correct structure of propyl methanoate (1) M2 butanoic acid (1)",
+          "image": "/papers/chemistry-0620-2022/q4-4f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit4-2022-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

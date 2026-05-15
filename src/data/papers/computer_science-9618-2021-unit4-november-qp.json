@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2021-unit4-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2021-unit4-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/41",
+  "session": "October/November 2021",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2(a) in the evidence document. [5] (b) The four get methods return the associated attribute, for example, GetDescription() returns the description of the picture. Write the four get methods. Save your pro",
+      "text": "2(a) in the evidence document. [5] (b) The four get methods return the associated attribute, for example, GetDescription() returns the description of the picture. Write the four get methods. Save your pro",
+      "parts": [
+        {
+          "id": "2g",
+          "text": "2(g) in the evidence document. [7] (h) Test your program by inputting the following search criteria: • BLACK, 100, 100 • silver, 25, 25 Take screenshots to show the output for both search criteria. Copy and paste th",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Console.WriteLine(PictureArray(X).GetDescription() & \" \" & PictureArray(X).GetWidth() & \" \" & PictureArray(X).GetHeight) End If Next Console.ReadLine() End Sub Java public static void main(String[] args){ Picture[] PictureArray = new Picture[100]; Integer NumberPicturesInArray = ReadData(PictureArray); Scanner scanner = new Scanner(System.in); System.out.println(\"Enter the Frame colour\"); String FrameColour = scanner.nextLine(); System.out.println(\"Enter the Maximum Width\"); Integer MaxWidth = Integer.parseInt(scanner.nextLine()); System.out.println(\"Enter the Maximum Height\"); Integer MaxHeight = Integer.parseInt(scanner.nextLine()); FrameColour = FrameColour.toLowerCase(); for(int X = 0; X < NumberPicturesInArray; X++){ if(PictureArray[X].GetFrameColour().equals(FrameColour) && PictureArray[X].GetWidth() <= MaxWidth && PictureArray[X].GetHeight() <= MaxHeight){ System.out.println(PictureArray[X].GetDescription() + \" \" + PictureArray[X].GetWidth() + \" \" + PictureArray[X].GetHeight()); } } } 1 mark for showing no outputs for silver, 25, 25 Input the Frame colour BLACK Input the Maximum Width 100 Input the Maximum Height 100 Matches Frames shown flowers 45 50 people 20 20 landscape 30 45 landscape 25 37 people 50 40 Input the Frame colour silver Input the Maximum Width 25 Input the Maximum Height 25 Matches Frames shown October/November Question Answer Marks • Declaring array named ArrayNodes of type integer • ...with 20 by 3 elements • RootPointer declared as integer and assigned -1 • FreeNode declared as integer and assigned 0 Example program code: Python ArrayNodes=[[0 for X in range(3)] for Y in range(20)] RootPointer = -1 FreeNode = 0 VB.NET Sub Main() Dim ArrayNodes(19, 2) As Integer Dim RootPointer As Integer = -1 Dim FreeNode As Integer = 0 End Sub Java public static Integer[][] ArrayNodes = new Integer[20][3]; public static Integer RootPointer = -1; public static Integer FreeNode = 0; October/November Question Answer Marks 1 mark per bullet point • Function/",
+          "image": "/papers/computer_science-9618-2021/q2-2g.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2021-unit4-2021-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

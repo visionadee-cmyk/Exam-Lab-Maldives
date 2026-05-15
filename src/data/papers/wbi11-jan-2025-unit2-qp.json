@@ -1,0 +1,79 @@
+{
+  "paperId": "wbi11-jan-2025-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2025-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "January 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 6 / six (hours) REJECT answers given as fractions (1) Number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-jan-2025/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• the number of cells in mitosis divided by the total number of cells (× 100) ACCEPT correct equation IGNORE cells with visible chromosomes / dividing cells (1) Number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-jan-2025/q4-4d.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• initial doubling to 4 a.u. (1) • staying at {4 a.u. / new DNA content} for a period of time and then {halving / returning back to 2 a.u.} for a period of time (1) • reduction of DNA content to {haploid / 1 a.u.} with no further {increase / decrease} (1) (3) Number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-jan-2025/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A calculation in which: • correct measurement and conversion (1) • correct magnification given to two significant figures (1) Example of calculation: 16 × 1000= 16 000 μm ACCEPT tolerance of ±0.5 mm 000 ÷ 24= ×670 max 1 if given incorrect unit ACCEPT 2 sig fig answers in range 650 to ACCEPT answers in standard form Correct answer scores full marks (2) Number Answer Additional guidance Mark • tube created due to release of {digestive / hydrolytic} enzymes (1) • {nucleus / nuclei / gamete(s)} transported to {ovule / ovary / micropyle / egg cell / polar nuclei / female gamete} (1) • generative nucleus divides to form two {male / haploid} nuclei (1) • double fertilisation occurs (1) • one (male) nucleus fuses with {egg cell / haploid / female} nucleus resulting in formation of zygote (1) • one male nucleus fuses with the two polar {nuclei / bodies} resulting in formation of endosperm (nucleus) ( 1) REJECT pollen transported IGNORE gametes / sperm / cells REJECT forms two × {generative nucleus} REJECT diploid / meiosis REJECT generative nucleus {fusing / fertilizing} ecf for gametes / sperm IGNORE cells REJECT generative nucleus {fusing / fertilizing} ecf for gametes / sperm IGNORE cells (5) Number Mark B is not correct because 0.036 × 418 = 15 heterozygotes C is not correct because 0.036 × 418 = 15 heterozygotes D is not correct because 0.036 × 418 = 15 heterozygotes (1) Number Mark A is not correct because leaf width shows continuous variation B is not correct because leaf width is determined by multiple alleles for several genes D is not correct because leaf width shows continuous variation (1) Number Mark A is not correct because the xylem is Y B is not correct because the xylem is Y D is not correct because the xylem is Y (1) Number Mark A is not correct because the phloem is W C is not correct because the phloem is W D is not correct because the phloem is W (1) Number Answer Additional guidance Mark • millipede gains {water / mineral ions} from xylem (1) • milliped",
+          "image": "/papers/wbi11-jan-2025/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2025-unit2-2025-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

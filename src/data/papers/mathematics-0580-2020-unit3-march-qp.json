@@ -1,0 +1,43 @@
+{
+  "paperId": "mathematics-0580-2020-unit3-march-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit3-march-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/32",
+  "session": "February/March 2020",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "9 (a)  = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14} F = {x: x is a factor of 14} P = {x: x is a prime number less than 14} (i) Write down the elements in set F. F = { ................................................} [2] (ii) Write down the elements in set P. P = { .....................................",
+      "text": "9 (a)  = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14} F = {x: x is a factor of 14} P = {x: x is a prime number less than 14} (i) Write down the elements in set F. F = { ................................................} [2] (ii) Write down the elements in set P. P = { .....................................",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 × 5 × 13 2 B1 for 3, 5, 13 or 65 × 3 or 39 × 5 or 15 × 13",
+          "image": "/papers/mathematics-0580-2020/q9-9b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit3-2020-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

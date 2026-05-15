@@ -1,0 +1,177 @@
+{
+  "paperId": "wma12-may-2022-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-may-2022-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "May 2022",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x 0.5 1 1.5 2 2.5 3 y 1.319 1.075 1.001 1.041 1.223 1.850 B1 B1 (2) (b) 0.5 h = seen or implied B1 Area ( ) 0.5 1.319 2(\"1.075\" 1.001 \"1.041\" 1.223) 1.850    + + + + +   M1 awrt 2.96 = A1 (3) (c) ( ) ( ) ( ) 3 log sin( ) 1 log sin( ) xx + = − − B1   . 0.5 3 log (sin( )) \"2.96\" 12 2 \"2.96\" d x x x + = − = − −  M1 = 7.04 follow through 10 their 2.96 − A1ft (3) Alt (c) .5 0.5 log (sin( )) \"2.96\" 2.5 \"2.96\" dd x x x = = − −  B1   ( ) 0.5 .5 3 log (sin( )) 2.5 \"2.96\" 9 1.5 2.5 \"2.96\" d xx x + = + − = − + −  M1 = 7.04 follow through 10 their 2.96 − A1ft (3) (8 marks) Notes: (a) B1: Either of awrt 1.075 or awrt.1.041 correct B1: Both of awrt 1.075 and awrt.1.041 correct Remember to check the body of the script for the values if the table has not been completed. Note that the incorrect values of 2.758 and 2.457 come from the use of degrees. (Which gives 4.51 in (b)) (b) B1: Correct interval width seen or implied by working. M1: Correct application of the trapezium rule. Must all be y values, and should be first + last + 2(sum of middle values), but if one middle value is omitted allow as a slip. A repeated value is M0. Follow through their values from (a). Allow obvious copying slips. Note that \"0.5\" 1.319 2(\"1.075\" 1.001 \"1.041\" 1.223) 1.850  +++++   scores M0 unless the missing brackets are implied by subsequent work. Allow this mark if they add the areas of individual trapezia e.g. ( ) ( ) \"0.5\" \"0.5\" 1.319 \"1.075\" \"1.075\" 1.001 ...      + +  + +         A1: For awrt 2.96. Allow to come from answers in (a) incorrectly rounded or wrong accuracy. FYI: Use of rounded figure gives 2.96225, use of calculated figures gives 2.9625726... Actual value is 2.89 to 2 decimal places. (c) Condone all work in (c) written without the “10” in ( ) log sin( ) x B1: Writes ( ) 3 log sin( ) x + correctly in terms of ( ) 1 log sin( ) x − . May be implied. M1: Integrates the K in ( ) ( ) 1 log sin( ) to , 3, K x Kx K −  substitutes in the limits 3 and 0.5",
+          "image": "/papers/wma12-may-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3i",
+          "text": "Part 3i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "E.g. n = 1 : −= , n = 2 : −= , n = 3 : ... − = Or identifies counterexample directly. M1 e.g. − =  = so not true for n = 5, hence statement is not true. A1 (2) Notes for part (i) M1: Shows evidence of trying to find a counter example for a positive integer (at least one attempt). 21− is prime is sufficient. A1: Gives a correct counter example with reason (shows factorisation) and concludes e.g. “which is not prime”. Ignore any previous “incorrect” attempts e.g. − 5 = 91 which is prime. Note n = 7 (169 = 13×13) and n = 8 (217 = 7×31) and n = 12 (469 = 7×67) are the next few counter examples. (Bigger examples are not likely to be seen!) Allow equivalent reasons for not being prime e.g. 169/13 = 13 or 169 is divisible by 13 (condone “can be divided by 13”) Generally algebraic approaches score no marks unless they substitute numbers as indicated above. 3(ii) The majority of methods here will follow ways 1, 2 or 3 below In these cases the general guidance is as follows: M1: Attempts to find • the gradient of any relevant line, e.g. AC or BC or • the length of any relevant line, e.g. AB/AB or BC/BC or AC/AC or • the mid-point M of line AB A1: Correct relevant calculation of • gradients AC and BC • lengths of lines AB/AB , BC/BC and AC/AC • mid-point of line AB dM1: Full attempt at combining all relevant information required to solve the prob- lem • attempts product of gradients or equivalent • attempts to show Pythagoras AB = AC + BC • attempts to show MA = MC A1: Correct calculations or equivalent providing required evidence for the above A1: Provides correct reason and conclusion with all previous marks scored. Way 1 ... AC m −− == − or ( ) ... BC m − − − == − M1 AC m =− and BC m = A1 So AC BC m m −   = − = or e.g. AC m is negative reciprocal of BC m dM1A1 So e.g. angle (at C) is a right angle hence AB is a diameter (Or equivalent) A1 (5) M1: Attempts the gradients of AC or BC. Allow slips but score M0 if both attempts are clearly incorrect. A1: Correct gradients fro",
+          "image": "/papers/wma12-may-2022/q3-3i.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-09.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "12 n n u a ar ar r −  == + and ar = M1 ar ar rr ar +  =  + = M1 * 4 0 r r − − =  A1* (3) (a) Way 2 8, u u u rr =  = = M1 rr += M1 * 4 0 r r − − =  A1* (3) (b) r =− B1 ... ar a =  = =  −   M1 u =− A1ft (3) (c) ... S  − ==  −−   M1 =− A1 (2) (8 marks) Notes: (a) Ignore labelling and mark (a), (b) and (c) together M1: Uses the correct n-th term formula for a GP to set up two equations in a and r May also be in terms of u and r or u and r or u and r e.g. 6, 8 or 6, 8 or 6, u u u r u r u r u r u r r u ru = ++ == + = = = Must be using the correct term formula so e.g. ar ar + = and 8ar= is M0 Alternatively may use the correct sum formula for the first equation, r aa r − −= − oe. M1: Attempts to solve their two equations to get an equation in r. Look for an attempt to divide the two equations, or an attempt to find a in terms of r from one and substitute into the other. Allow slips but the algebra should essentially be correct so do not allow use of e.g. ar = (ar) Alternatively, attempts to eliminate r from the equation, r aa a a a + = = aa  + = . Award when they reach a quadratic in a in this case. A1*: CSO Note that as we are marking (a), (b) and (c) together, allow the printed answer to appear anywhere as long as it follows correct work but the “=0” must be seen not implied. Way 2: M1: Uses u = 8 to write u and u in terms of r M1: Uses u + u = 6 to get an equation in r A1*: CSO (b) B1: Correct value of r seen or used in their working even if subsequently rejected and ignore any other value offered e.g. r = 2 M1: Uses a value for r from solving the equation given in (a) where | | 1 r  in one of their equations from (a) to find a value for u or a. Allow slips but the algebra should essentially be correct A1ft: Correct value and no other values. Follow through on ( ) their r for a value of r with | | 1 r  (c) M1: Uses the correct sum formula with their a (u ) obtained from | | 1 r  and r where | | 1 r  , to find the sum to infinity. A1: Correct ans",
+          "image": "/papers/wma12-may-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) Show that r satisfies 3r 2 − 4r − 4 = 0 (3) Given that the geometric sequence has a sum to infinity, (b) find u 1 (3) (c) find S ∞ (2) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ _______________________",
+      "text": "8 (a) Show that r satisfies 3r 2 − 4r − 4 = 0 (3) Given that the geometric sequence has a sum to infinity, (b) find u 1 (3) (c) find S ∞ (2) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ _______________________",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "8 (a) Show that r satisfies 3r 2 − 4r − 4 = 0 (3) Given that the geometric sequence has a sum to infinity, (b) find u 1 (3) (c) find S ∞ (2) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ _______________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 d d yC Ax B xx  = + +   M1 d 304 2 d y x xx −  = − −       oe e.g. 10 4 x x −− A1A1 (3) (b) d d y x = at SP 54 0 x x x x  − = − −− =  M1 ( ) ( ) ( ) 27 0 ... x x x x x  − =  = + = −−  dM1 x =− or x = or x =− or x = A1 ( ) 256 \" \" 304 \" \" ... \"\" y     = − − − − + =         − or with x = dM1 Coordinates are , 241  −   and , 134  −   A1 (5) (8 marks) Notes: (a) M1: Attempts the derivative, with at least two terms of the correct form (ie .. nn xx − → at least twice). A1: At least two terms correct, need not be simplified. A1: Fully correct derivative, need not be simplified. Isw after a correct (unsimplified) answer. Note that there is no need to see the d \"\" d y x = in (a) just look for the differentiation. Ignore any spurious “= 0” (b) M1: Sets their derivative equal to zero and multiplies through by “x ” to achieve a polynomial equation. If in doubt at least 2 terms must be multiplied. Allow equivalent work e.g. ( ) 54 0 x xx xx x x − − =  − − =  − − = To score this mark, the derivative must have a negative power of x so allow for e.g. d 1024304 540102430454 0 d xx y x x x −  =− −= −− =   dM1: Solves a 3 term quadratic in x by any valid means (including calculator). Must come from an attempt at d d y x = not d d y x = or d0yx=  Condone use of inequalities rather than “=” as long as they solve an equation. Note that here we accept e.g. ( ) ( ) ( ) 27 0 ... x xy y y − = +  − − =  = Or even () ()() 51227 08640...152127xxxxx−=+−− = = A1: Achieves at least one correct value for x or x . It must be clear that they are values for x here so y = ... is acceptable if y = x is seen or implied. If they have x = ... then they must have cube rooted. So e.g. ( ) ( ) x x x =  = − +− unless they recover and recognise they have x then this is A0 dM1: Proceeds to find the y coordinate for at least one value of x. Must cube root and not e.g. square root the solution from the quadratic first. The x must have come from a 2 or 3 t",
+          "image": "/papers/wma12-may-2022/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct shape from or passing through a point on positive vertical axis. May extend to the left of the vertical axis and allow to pass into quadrant 4. There must be no (obvious) turning points. Labels not required on axes and ignore any that are given. M1 Shape and position correct, accept 1 or k as intercept on the positive vertical axis and allow to extend to the left of the vertical axis as shown. Condone (1, 0) or (k, 0) as long as it is in the correct position. The curve should approach a horizontal asymptote that is half-way between the horizontal axis and the intercept or below. Be tolerant with “wobbles” as it approaches the asymptote. May just “touch” the horizontal axis but not go below it. Labels not required on axes and ignore any that are given. A1 (2) (b) kk  ==  (see notes for method via substitution) M1 0.999878      = =   to 6 d.p.* A1* (2) (c) When t = 3250, 0.999.87815..N== M1 ( ) awrt 10.1 grams = A1 (2) (d) . 0 998 8 t  = B1 log 0.999878 ... log 0. 9 987 t t = = = M1 2692.49...t= so item is 2700 years old A1 (3) (9 marks) Notes: (a) M1: See scheme. A1: See scheme. N t (b) M1: Uses the information to set up a correct equation and rearranges to form a b  = where a and b are constants. Allow  = to be written down directly. A1*: Evidence of taking fractional root seen, leading to the given answer. Alternatively, may see logs used, log 2 log . log log 5700 g .. lo    − − = = = =  Look for at least one correct intermediate step (and no incorrect ones). Allow greater accuracy e.g. 0.9998784026... Note that the use of 5699 instead of 5700 scores M1A0 Alt: M1: Substitutes values 0.9998775 and 0.9998785 or a tighter range containing the root (e.g. 0.999878 and 0.9998785 will do) to calculate N or just t  at t = 5700. A1*: Correct values, with suitable conclusion that as half value occurs between these  =0.999878 to 6 d.p. (c) M1: Substitutes given values (or more accurate λ) into the equation and evaluates. Implied by a correct an",
+          "image": "/papers/wma12-may-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-25.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Equation of circle is ( 3) ( 5) x y r − + − = and line is y x k =+ So intersect when ( ) ( ) x x k r − + + − = M1 ( ) ( ) ( ) 9 4 6 4 x x x x k x k r k x k k r   − + + + − + − = + − + − + + − − = + dM1 ( ) 0 * k x k k r x  + − + − + − = A1* (3) (b) Tangent to C () () 040410344265bkkackr− =−+− −=− M1 676 20 k k k r k  − + − + + = − .5..r= M1 1 ( 1) kk r k = + + = +  A1 (3) (b) Way 2 Gradient of BX is − so equation of BX is ( ) yx − = − − ( ) 13 2 3 , ..., ... , kk y x y x k x y −+  − = − − = +  = =   M1 13 2 kk r −+     − + − =         dM1 1 ( 1) kk r k = + + = +  A1 (3) (c) Triangle AXB is right angled so ( ) ( ) 3 0 AB r XA k + = = − + − M1 AB r = so AB r r += M1 ( ) r k = + −  A1 1 9 25 10 k k k k + + = + − +  M1 3123k=...k= dM1 k= A1 (6) (12 marks) Notes: (a) M1: Forms equation of circle and substitutes in equation of line. The circle equation must be of the form (3)(5)xyr +  = dM1: Expands both sets of brackets and collects terms in x and x. A1*: Reaches the answer given with no errors seen. Note that some candidates expand the brackets first before substitution e.g.: ( ) ( ) ( 3) ( 5) 10 2 x y r x x y y r x x x k x k r − + − =  − + + − + =  − + + + − + + = This implies the first M and then the second M will score when terms in x and x are collected. Note about poor squaring e.g. ( 3) xx − = + : The first M is available in both cases above but the second M requires at least two x terms and at least two x terms from the expansions. Note that it is acceptable to go from a completely correct full expansion to the printed answer e.g. ( ) ( ) ( 3) ( 5) 10 2 x y r x x y y r x x x k x k r − + − =  − + + − + =  − + + + − + + = ( ) 9 4 x x x kx k x k r x k x k k r  − + + + + − − + =  + − + − + − = Scores full marks in (a) (b) M1: Uses the discriminant is zero to form an equation in k and r dM1: Expands and rearranges to make αr the subject A1: Correct answer Way 2 M1: Attempts the equation of BX and solves simultaneously with l t",
+          "image": "/papers/wma12-may-2022/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2022/page-29.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wma12-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2022-unit1-2022-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-may-2022/page-01.png",
+      "/papers/wma12-may-2022/page-02.png",
+      "/papers/wma12-may-2022/page-03.png",
+      "/papers/wma12-may-2022/page-04.png",
+      "/papers/wma12-may-2022/page-05.png",
+      "/papers/wma12-may-2022/page-06.png",
+      "/papers/wma12-may-2022/page-07.png",
+      "/papers/wma12-may-2022/page-08.png",
+      "/papers/wma12-may-2022/page-09.png",
+      "/papers/wma12-may-2022/page-10.png",
+      "/papers/wma12-may-2022/page-11.png",
+      "/papers/wma12-may-2022/page-12.png",
+      "/papers/wma12-may-2022/page-13.png",
+      "/papers/wma12-may-2022/page-14.png",
+      "/papers/wma12-may-2022/page-15.png",
+      "/papers/wma12-may-2022/page-16.png",
+      "/papers/wma12-may-2022/page-17.png",
+      "/papers/wma12-may-2022/page-18.png",
+      "/papers/wma12-may-2022/page-19.png",
+      "/papers/wma12-may-2022/page-20.png",
+      "/papers/wma12-may-2022/page-21.png",
+      "/papers/wma12-may-2022/page-22.png",
+      "/papers/wma12-may-2022/page-23.png",
+      "/papers/wma12-may-2022/page-24.png",
+      "/papers/wma12-may-2022/page-25.png",
+      "/papers/wma12-may-2022/page-26.png",
+      "/papers/wma12-may-2022/page-27.png",
+      "/papers/wma12-may-2022/page-28.png",
+      "/papers/wma12-may-2022/page-29.png",
+      "/papers/wma12-may-2022/page-30.png",
+      "/papers/wma12-may-2022/page-31.png",
+      "/papers/wma12-may-2022/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

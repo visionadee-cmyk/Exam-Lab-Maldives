@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2024-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2024",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 iron(II) / Fe 2+ M2 potassium / K + M3 bromide / Br – M4 sulfate / SO 2– October/November 2024 Question Answer Marks M2 limewater turns milky October/November 2024 Question Answer Marks any six from: MP1 known / same / specified volume of juice MP2 add a named acid-alkali indicator to the juice MP3 suitable apparatus for titration (conical flask / beaker) MP4 NaOH added from burette to juice MP5 mix / swirl MP6 indicator / juice changes colour MP7 the juice that needs most NaOH is most concentrated OR MP1 known / same / specified volume of NaOH MP2 add a named acid-alkali indicator to the NaOH MP3 suitable apparatus for titration (conical flask / beaker) MP4 juice added from burette to NaOH MP5 mix / swirl MP6 indicator / alkali changes colour MP7 the juice with the smallest volume is most concentrated",
+          "image": "/papers/chemistry-0620-2024/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit6-2024-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

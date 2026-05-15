@@ -1,0 +1,628 @@
+{
+  "paperId": "physics-0625-2004-unit1-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2004-unit1-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/01",
+  "session": "October/November 2004",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A floor is covered with square tiles. The diagram shows a ruler on the tiles. 0 cm 246810121413579111315 How long is one tile? A 3 cm B 6 cm C 9 cm D 12 cm",
+      "text": "A floor is covered with square tiles. The diagram shows a ruler on the tiles. 0 cm 246810121413579111315 How long is one tile? A 3 cm B 6 cm C 9 cm D 12 cm",
+      "options": [
+        "A 3 cm B 6 cm C 9 cm D 12 cm"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show the times on a stopclock at the beginning and at the end of an experiment. stopclock at beginning stopclock at end 0 s 30 4515 0 s 30 4515 How long did the experiment take? A 10 s B 25 s C 35 s D 45 s",
+      "text": "The diagrams show the times on a stopclock at the beginning and at the end of an experiment. stopclock at beginning stopclock at end 0 s 30 4515 0 s 30 4515 How long did the experiment take? A 10 s B 25 s C 35 s D 45 s",
+      "options": [
+        "A 10 s B 25 s C 35 s D 45 s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which   speed / time graph applies to an object at rest? speed time A speed time B speed time C speed time D 0 0 0 0 0 0 0 0 3",
+      "text": "Which   speed / time graph applies to an object at rest? speed time A speed time B speed time C speed time D 0 0 0 0 0 0 0 0 3",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A racing car is fitted with an on-board computer. Every time the car passes the starting line, the computer records the distance travelled in the next 2 seconds. Which set of data shows that the car is increasing in speed during the 2 seconds? A B time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1           100           1        90 2           200           2        180, C D time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1        80           1        100 2           190           2        180",
+      "text": "A racing car is fitted with an on-board computer. Every time the car passes the starting line, the computer records the distance travelled in the next 2 seconds. Which set of data shows that the car is increasing in speed during the 2 seconds? A B time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1           100           1        90 2           200           2        180, C D time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1        80           1        100 2           190           2        180",
+      "options": [
+        "A B time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1           100           1        90 2           200           2        180",
+        "C D time / s distance travelled / m time / s distance travelled / m 0        0           0        0 1        80           1        100 2           190           2        180"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A spring is stretched by hanging a piece of metal from it. spring metal What is the name given to the force that stretches the spring? A friction, B mass, C pressure, D weight 4",
+      "text": "A spring is stretched by hanging a piece of metal from it. spring metal What is the name given to the force that stretches the spring? A friction, B mass, C pressure, D weight 4",
+      "options": [
+        "A friction",
+        "B mass",
+        "C pressure",
+        "D weight 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows some liquid in a measuring cylinder. The mass of the liquid is 16 g. 25 20 15 10 5 cm 3 What is the density of the liquid? A 320 g / cm 3, B 36 g / cm 3, C 1.25 g / cm 3, D 0.8 g / cm 3",
+      "text": "The diagram shows some liquid in a measuring cylinder. The mass of the liquid is 16 g. 25 20 15 10 5 cm 3 What is the density of the liquid? A 320 g / cm 3, B 36 g / cm 3, C 1.25 g / cm 3, D 0.8 g / cm 3",
+      "options": [
+        "A 320 g / cm 3",
+        "B 36 g / cm 3",
+        "C 1.25 g / cm 3",
+        "D 0.8 g / cm 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student carries out an experiment to plot an extension / load graph for a spring. The diagrams show the apparatus at the start of the experiment and with a load added. start x y with load added What is the extension caused by the load? A x B y C y + x D y – x",
+      "text": "A student carries out an experiment to plot an extension / load graph for a spring. The diagrams show the apparatus at the start of the experiment and with a load added. start x y with load added What is the extension caused by the load? A x B y C y + x D y – x",
+      "options": [
+        "A x B y C y + x D y – x"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three horizontal forces act on a car that is moving along a straight, level road. air resistance friction driving force Which combination of forces would result in the car moving at constant speed? air resistance friction driving force A 200 N         1000 N         800 N, B 800 N         1000 N         200 N, C 800 N      200 N        1000 N, D 1000 N      200 N         800 N 5",
+      "text": "Three horizontal forces act on a car that is moving along a straight, level road. air resistance friction driving force Which combination of forces would result in the car moving at constant speed? air resistance friction driving force A 200 N         1000 N         800 N, B 800 N         1000 N         200 N, C 800 N      200 N        1000 N, D 1000 N      200 N         800 N 5",
+      "options": [
+        "A 200 N         1000 N         800 N",
+        "B 800 N         1000 N         200 N",
+        "C 800 N      200 N        1000 N",
+        "D 1000 N      200 N         800 N 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A child pushes a toy car along a level floor and then lets it go. As the car slows down, what is the main energy change? A from chemical to heat, B from chemical to kinetic, C from kinetic to gravitational (potential), D from kinetic to heat",
+      "text": "A child pushes a toy car along a level floor and then lets it go. As the car slows down, what is the main energy change? A from chemical to heat, B from chemical to kinetic, C from kinetic to gravitational (potential), D from kinetic to heat",
+      "options": [
+        "A from chemical to heat",
+        "B from chemical to kinetic",
+        "C from kinetic to gravitational (potential)",
+        "D from kinetic to heat"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a cyclist riding along a hilly road. At which position does the cyclist have the least gravitational (potential) energy? A B C D",
+      "text": "The diagram shows a cyclist riding along a hilly road. At which position does the cyclist have the least gravitational (potential) energy? A B C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A pin is squeezed between finger and thumb. finger pinhead pin thumb Which statement is correct? A The force of the pin is larger on the finger than on the thumb., B The force of the pin is larger on the thumb than on the finger., C The pressure of the pin is larger on the finger than on the thumb., D The pressure of the pin is larger on the thumb than on the finger. 6",
+      "text": "A pin is squeezed between finger and thumb. finger pinhead pin thumb Which statement is correct? A The force of the pin is larger on the finger than on the thumb., B The force of the pin is larger on the thumb than on the finger., C The pressure of the pin is larger on the finger than on the thumb., D The pressure of the pin is larger on the thumb than on the finger. 6",
+      "options": [
+        "A The force of the pin is larger on the finger than on the thumb.",
+        "B The force of the pin is larger on the thumb than on the finger.",
+        "C The pressure of the pin is larger on the finger than on the thumb.",
+        "D The pressure of the pin is larger on the thumb than on the finger. 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Liquid X has a density of 1010 kg / m 3 . Liquid Y has a density of 950 kg / m 3 . The liquids are poured into tubes as shown. Which tube has the greatest pressure on its base? A liquid X B liquid Y C liquid X D liquid Y",
+      "text": "Liquid X has a density of 1010 kg / m 3 . Liquid Y has a density of 950 kg / m 3 . The liquids are poured into tubes as shown. Which tube has the greatest pressure on its base? A liquid X B liquid Y C liquid X D liquid Y",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some water molecules escape from the surface of a lake. Which name is given to this process? A boiling, B convection, C evaporation, D radiation",
+      "text": "Some water molecules escape from the surface of a lake. Which name is given to this process? A boiling, B convection, C evaporation, D radiation",
+      "options": [
+        "A boiling",
+        "B convection",
+        "C evaporation",
+        "D radiation"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  represents  gas  molecules  contained  in  a  cylinder.  The  piston  is  moved  slowly downwards and the temperature of the gas stays the same. piston cylinder gas molecule Why does the pressure of the gas increase? A The molecules collide harder with the walls., B The molecules collide more often with the walls., C The molecules move more quickly., D The number of molecules increases. 7",
+      "text": "The  diagram  represents  gas  molecules  contained  in  a  cylinder.  The  piston  is  moved  slowly downwards and the temperature of the gas stays the same. piston cylinder gas molecule Why does the pressure of the gas increase? A The molecules collide harder with the walls., B The molecules collide more often with the walls., C The molecules move more quickly., D The number of molecules increases. 7",
+      "options": [
+        "A The molecules collide harder with the walls.",
+        "B The molecules collide more often with the walls.",
+        "C The molecules move more quickly.",
+        "D The number of molecules increases. 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in A pure alcohol., B pure distilled water., C pure melting ice., D pure mercury.",
+      "text": "To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in A pure alcohol., B pure distilled water., C pure melting ice., D pure mercury.",
+      "options": [
+        "A pure alcohol.",
+        "B pure distilled water.",
+        "C pure melting ice.",
+        "D pure mercury."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A glass flask full of cool water is placed in a container of hot water. container of hot water glass flask full of cool water X What will happen to the level of water at X as the cool water becomes warmer? A It will fall., B It will rise., C It will rise then fall., D It will stay the same.",
+      "text": "A glass flask full of cool water is placed in a container of hot water. container of hot water glass flask full of cool water X What will happen to the level of water at X as the cool water becomes warmer? A It will fall., B It will rise., C It will rise then fall., D It will stay the same.",
+      "options": [
+        "A It will fall.",
+        "B It will rise.",
+        "C It will rise then fall.",
+        "D It will stay the same."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A beaker of water is heated at its base. Why does the water at the base rise? A It contracts and becomes less dense., B It contracts and becomes more dense., C It expands and becomes less dense., D It expands and becomes more dense. 8",
+      "text": "A beaker of water is heated at its base. Why does the water at the base rise? A It contracts and becomes less dense., B It contracts and becomes more dense., C It expands and becomes less dense., D It expands and becomes more dense. 8",
+      "options": [
+        "A It contracts and becomes less dense.",
+        "B It contracts and becomes more dense.",
+        "C It expands and becomes less dense.",
+        "D It expands and becomes more dense. 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which of these waves is longitudinal? A light   waves, B sound   waves, C water   waves, D X-ray   waves",
+      "text": "Which of these waves is longitudinal? A light   waves, B sound   waves, C water   waves, D X-ray   waves",
+      "options": [
+        "A light   waves",
+        "B sound   waves",
+        "C water   waves",
+        "D X-ray   waves"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Waves move from deep water to shallow water where they are slower. Which diagram shows what happens to the waves? D deep water shallo w water C deep water shallow water B deep water shallow water deep water A shallow water",
+      "text": "Waves move from deep water to shallow water where they are slower. Which diagram shows what happens to the waves? D deep water shallo w water C deep water shallow water B deep water shallow water deep water A shallow water",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  type  of  radiation  lies  between  visible  light  and  microwaves  in  the  electromagnetic spectrum? A infra-red, B radio   waves, C ultra-violet, D X-rays",
+      "text": "Which  type  of  radiation  lies  between  visible  light  and  microwaves  in  the  electromagnetic spectrum? A infra-red, B radio   waves, C ultra-violet, D X-rays",
+      "options": [
+        "A infra-red",
+        "B radio   waves",
+        "C ultra-violet",
+        "D X-rays"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The critical angle for a glass / air boundary is C. Which diagram shows the correct path of the light ray? air glass C A air glass C B air glass C C air glass C D 9",
+      "text": "The critical angle for a glass / air boundary is C. Which diagram shows the correct path of the light ray? air glass C A air glass C B air glass C C air glass C D 9",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the image of a clockface in a plane mirror. Which of these times is shown? A 02.25 B 02.35 C 09.25 D 09.35",
+      "text": "The diagram shows the image of a clockface in a plane mirror. Which of these times is shown? A 02.25 B 02.35 C 09.25 D 09.35",
+      "options": [
+        "A 02.25 B 02.35 C 09.25 D 09.35"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the approximate range of audible frequencies for most humans? A 10 Hz to 10 000 Hz, B 20 Hz to 20 000 Hz, C 10 kHz to 10 000 kHz, D 20 kHz to 20 000 kHz",
+      "text": "What is the approximate range of audible frequencies for most humans? A 10 Hz to 10 000 Hz, B 20 Hz to 20 000 Hz, C 10 kHz to 10 000 kHz, D 20 kHz to 20 000 kHz",
+      "options": [
+        "A 10 Hz to 10 000 Hz",
+        "B 20 Hz to 20 000 Hz",
+        "C 10 kHz to 10 000 kHz",
+        "D 20 kHz to 20 000 kHz"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A 100 metre race is started by firing a gun. The gun makes a bang and a puff of smoke comes out of the gun as shown. starter finishing judge 100 m When does the finishing judge see the smoke and hear the bang? sees the smoke    hears the bang A immediately      immediately, B immediately     after     about     0.3 s, C after about 0.3 s     immediately, D after about 0.3 s   after   about   0.3 s 10",
+      "text": "A 100 metre race is started by firing a gun. The gun makes a bang and a puff of smoke comes out of the gun as shown. starter finishing judge 100 m When does the finishing judge see the smoke and hear the bang? sees the smoke    hears the bang A immediately      immediately, B immediately     after     about     0.3 s, C after about 0.3 s     immediately, D after about 0.3 s   after   about   0.3 s 10",
+      "options": [
+        "A immediately      immediately",
+        "B immediately     after     about     0.3 s",
+        "C after about 0.3 s     immediately",
+        "D after about 0.3 s   after   about   0.3 s 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Six small compasses are placed around a bar magnet. Which diagram shows the directions in which the compass needles point? NS NS NSNS A C B D",
+      "text": "Six small compasses are placed around a bar magnet. Which diagram shows the directions in which the compass needles point? NS NS NSNS A C B D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student carries out four tests with a magnet. Which result shown is not correct? magnetiron barattracts NSA magnetmagnetattracts NNSSB magnetcopper barno effect NSC magnetmagnetrepels SNSND arrangementresult",
+      "text": "A student carries out four tests with a magnet. Which result shown is not correct? magnetiron barattracts NSA magnetmagnetattracts NNSSB magnetcopper barno effect NSC magnetmagnetrepels SNSND arrangementresult",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A circuit is set up with a gap between two terminals X and Y. The four strips of material shown in the diagram are connected in turn across the gap. Which strip completes the circuit so that the lamp lights? wood A steel C rubber D X Y glass B 11",
+      "text": "A circuit is set up with a gap between two terminals X and Y. The four strips of material shown in the diagram are connected in turn across the gap. Which strip completes the circuit so that the lamp lights? wood A steel C rubber D X Y glass B 11",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A pupil measures the potential difference across a device and the current in it. Which calculation gives the resistance of the device? A current + potential difference, B current ÷ potential difference, C potential difference ÷ current, D potential difference x current",
+      "text": "A pupil measures the potential difference across a device and the current in it. Which calculation gives the resistance of the device? A current + potential difference, B current ÷ potential difference, C potential difference ÷ current, D potential difference x current",
+      "options": [
+        "A current + potential difference",
+        "B current ÷ potential difference",
+        "C potential difference ÷ current",
+        "D potential difference x current"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which circuit could be used to find the resistance of resistor R? B V V R A AA R C A V R D A R V",
+      "text": "Which circuit could be used to find the resistance of resistor R? B V V R A AA R C A V R D A R V",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the circuit shown, the reading on ammeter 1 is 2 A. 2 Ω 2 Ω ammeter 1 reading = 2 A ammeter 2 reading = ? AA What is the reading on ammeter 2? A 0, A B 1 A C 2 A D 4 A 12",
+      "text": "In the circuit shown, the reading on ammeter 1 is 2 A. 2 Ω 2 Ω ammeter 1 reading = 2 A ammeter 2 reading = ? AA What is the reading on ammeter 2? A 0, A B 1 A C 2 A D 4 A 12",
+      "options": [
+        "A 0",
+        "A B 1 A C 2 A D 4 A 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In  which  position  in  the  circuit  shown  should  a  switch  be  placed  so  that  both  lamps  can  be switched on or off at the same time? A C D B",
+      "text": "In  which  position  in  the  circuit  shown  should  a  switch  be  placed  so  that  both  lamps  can  be switched on or off at the same time? A C D B",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the circuits shown, all the resistors are identical. Which circuit has the least resistance? A B C D",
+      "text": "In the circuits shown, all the resistors are identical. Which circuit has the least resistance? A B C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why are electric circuits often fitted with fuses? A Fuses break the circuit if the current is too high., B Fuses only allow the current through in the correct direction., C Fuses return any excess current to earth., D Fuses use up any spare current.",
+      "text": "Why are electric circuits often fitted with fuses? A Fuses break the circuit if the current is too high., B Fuses only allow the current through in the correct direction., C Fuses return any excess current to earth., D Fuses use up any spare current.",
+      "options": [
+        "A Fuses break the circuit if the current is too high.",
+        "B Fuses only allow the current through in the correct direction.",
+        "C Fuses return any excess current to earth.",
+        "D Fuses use up any spare current."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mains circuit can safely supply a current of 40 A. A hair-drier takes 2 A. It is connected to the circuit by a lead which can carry up to 5 A. Which of these fuses would be best to use in the plug fitted to the hair-drier lead?, A 1, A fuse       B       3 A fuse       C       10 A fuse      D      50 A fuse 13",
+      "text": "A mains circuit can safely supply a current of 40 A. A hair-drier takes 2 A. It is connected to the circuit by a lead which can carry up to 5 A. Which of these fuses would be best to use in the plug fitted to the hair-drier lead?, A 1, A fuse       B       3 A fuse       C       10 A fuse      D      50 A fuse 13",
+      "options": [
+        "A hair-drier takes 2 A. It is connected to the circuit by a lead which can carry up to 5 A. Which of these fuses would be best to use in the plug fitted to the hair-drier lead?",
+        "A 1",
+        "A fuse       B       3 A fuse       C       10 A fuse      D      50 A fuse 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents a transformer. input voltage PS output voltage Which arrangement could be used to make the output voltage higher than the input voltage? number of turns on primary coil P number of turns on secondary coil S type of input A 100          50          a.c., B 100          50          d.c., C 50          100          a.c., D 50          100          d.c.",
+      "text": "The diagram represents a transformer. input voltage PS output voltage Which arrangement could be used to make the output voltage higher than the input voltage? number of turns on primary coil P number of turns on secondary coil S type of input A 100          50          a.c., B 100          50          d.c., C 50          100          a.c., D 50          100          d.c.",
+      "options": [
+        "A 100          50          a.c.",
+        "B 100          50          d.c.",
+        "C 50          100          a.c.",
+        "D 50          100          d.c."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student sets up the apparatus shown in order to make a relay. core spring contact Which metal should be used to make the core? A aluminium, B copper, C iron, D steel 14",
+      "text": "A student sets up the apparatus shown in order to make a relay. core spring contact Which metal should be used to make the core? A aluminium, B copper, C iron, D steel 14",
+      "options": [
+        "A aluminium",
+        "B copper",
+        "C iron",
+        "D steel 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which particles are emitted during thermionic emission? A electrons, B ions, C neutrons, D protons",
+      "text": "Which particles are emitted during thermionic emission? A electrons, B ions, C neutrons, D protons",
+      "options": [
+        "A electrons",
+        "B ions",
+        "C neutrons",
+        "D protons"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation shows the decay of the nuclide X. X 226 88 → Y P Q + 4 2 α What are the values of P and Q? P             Q A 230            90, B 230            86, C 222            90, D 222            86",
+      "text": "The equation shows the decay of the nuclide X. X 226 88 → Y P Q + 4 2 α What are the values of P and Q? P             Q A 230            90, B 230            86, C 222            90, D 222            86",
+      "options": [
+        "A 230            90",
+        "B 230            86",
+        "C 222            90",
+        "D 222            86"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "During  a  fire  in  a  laboratory  storeroom,  some  radioactive  material  was  spilled.  A  firefighter detected radiation through the lead-lined walls of the storeroom. The radiation was emitted by the radioactive material. lead-lined storeroom radioactive material detector firefighter Which type of radiation was being detected? A α-particles, B β-particles, C γ-rays, D X-rays",
+      "text": "During  a  fire  in  a  laboratory  storeroom,  some  radioactive  material  was  spilled.  A  firefighter detected radiation through the lead-lined walls of the storeroom. The radiation was emitted by the radioactive material. lead-lined storeroom radioactive material detector firefighter Which type of radiation was being detected? A α-particles, B β-particles, C γ-rays, D X-rays",
+      "options": [
+        "A α-particles",
+        "B β-particles",
+        "C γ-rays",
+        "D X-rays"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "How many neutrons are in a nucleus of C 14 6 ? A 0   B   6   C   8   D   14 15 0625/01/O/N/04 16 reproduced. The publishers would be pleased to hear from anyone whose rights they have unwittingly infringed. of the University of Cambridge. 0625/01/O/N/04",
+      "text": "How many neutrons are in a nucleus of C 14 6 ? A 0   B   6   C   8   D   14 15 0625/01/O/N/04 16 reproduced. The publishers would be pleased to hear from anyone whose rights they have unwittingly infringed. of the University of Cambridge. 0625/01/O/N/04",
+      "options": [
+        "A 0   B   6   C   8   D   14 15 0625/01/O/N/04 16 reproduced. The publishers would be pleased to hear from anyone whose rights they have unwittingly infringed. of the University of Cambridge. 0625/01/O/N/04"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2004/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2004",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2004-unit1-2004-11-1-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

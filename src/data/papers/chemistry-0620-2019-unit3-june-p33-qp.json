@@ -1,0 +1,115 @@
+{
+  "paperId": "chemistry-0620-2019-unit3-june-p33-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit3-june-p33-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/33",
+  "session": "May/June 2019",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solid: particles arranged regularly / particles ordered / lattice (1) particles (only) vibrating (1) gas: particles arranged irregularly / particles randomly arranged (1) particles moving fast / particles moving randomly / particles moving in any direction (1)",
+          "image": "/papers/chemistry-0620-2019/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "pressure increases as temperature increases / pressure is proportional to temperature sodium iodide (1) chlorine is more reactive than bromine / bromine is less reactive than chlorine",
+          "image": "/papers/chemistry-0620-2019/q4-4b.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "10 (C) (1) 16 (HC l ) 0620/33 May/June 2019 circle around COOH group only ºC is lower than the melting point / the melting point is higher than 100 ºC (1) last box ticked two chemical properties of acids e.g.: • reacts with alkalis / named alkali • reacts with metals / named metal • reacts with (reactive) metal oxides / named metal oxide • reacts with metal carbonates / named metal carbonate • turns blue litmus red / turns methyl orange red / turns universal indicator yellow / orange / red / H O speeds up reaction / increases the rate of reaction / polyethene 0620/33 May/June 2019 three from: • heat zinc with sulfuric acid • filter off (excess) zinc • heat filtrate to point of crystallisation / heat (zinc sulfate) solution to point of crystallisation • dry between filter papers / dry in drying oven 2nd box down ticked (decomposition) (g) if 2 marks not scored 1 mark for O = (4 × 16) = 64 OR 1 mark for S = (1 × 32) = 32",
+          "image": "/papers/chemistry-0620-2019/q4-4d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "electrons in S = 16 (1) electrons in Zn 2+ = 28 (1) neutrons in S =20 AND neutrons in Zn 2+ = 37 (1) protons in S = 16 (1)",
+          "image": "/papers/chemistry-0620-2019/q6-6d.png"
+        },
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "mixture of metal with other element(s) any value between and including 92–102 s (cm ) line steeper than original and starting from 0 (1) line ends up at same final volume AND levels off at or before 90 s (1) 0620/33 May/June 2019 / goes faster / goes slower ammonia (1) red AND blue (in correct spaces) (1) (combustion of) leaded petrol brain damage (in children) / damage to nervous system",
+          "image": "/papers/chemistry-0620-2019/q6-6e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "bismuth < lead < zinc < chromium (2) if 2 marks not scored allow 1 mark for 1 consecutive pair reversed",
+          "image": "/papers/chemistry-0620-2019/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "layers can slide (over each other) / more extreme weather / ice caps melting / sea level rising / glaciers melting / corals die / sea acidified",
+          "image": "/papers/chemistry-0620-2019/q8-8c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit3-2019-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

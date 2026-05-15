@@ -1,0 +1,43 @@
+{
+  "paperId": "business-0450-2021-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "business-0450-2021-unit2-june-p23-ms",
+  "subjectId": "business_igcse",
+  "code": "0450/23",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Recommendation • Using the short-term loan is best because the total cost of borrowing $50 000 is lower if he takes the loan over just one year. This would keep his expenses lower in following years and help liquidity after the first year. If he took the loan over three years his cash outflow would be increased. If he used his inheritance, he would potentially lose the additional $3000 he would have made from placing his inheritance in the savings account. • He should use the 3 year loan to buy the franchise as the monthly repayments are £2861 lower than the 1 year loan. He will also have his inheritance available for emergencies in the future. • Using his inheritance of $50 000 is the best option as there would be no cost involved and it is debt free finance. He would save paying interest and keep cash outflows lower each month.",
+          "image": "/papers/business-0450-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/business-0450-2021/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/business-0450-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/BusinessStudies-0450/BusinessStudies-0450-2021-unit2-2021-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

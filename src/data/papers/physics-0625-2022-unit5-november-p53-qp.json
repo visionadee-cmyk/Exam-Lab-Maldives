@@ -1,0 +1,91 @@
+{
+  "paperId": "physics-0625-2022-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Pour approximately 3 cm 3 of water into the boiling tube. Measure the height h 0 of the water level from the bench, as shown in Fig. 1.1. h 0 = ......................................................... cm Suggest one precaution that is taken when measuring the height of the water level to ensure the reading is accurate. You may dra",
+      "text": "1 (a) Pour approximately 3 cm 3 of water into the boiling tube. Measure the height h 0 of the water level from the bench, as shown in Fig. 1.1. h 0 = ......................................................... cm Suggest one precaution that is taken when measuring the height of the water level to ensure the reading is accurate. You may dra",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5  h values increasing, smallest > h • axes labelled with quantity and unit • appropriate scales (occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well-judged line and thin line water volumes small – large (%) uncertainty test-tube diameter small – large (%) uncertainty in answer owtte height changes small so unreliable October/November 2022 Question Answer Marks",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " for beaker A decreasing  for beaker B decreasing and all temperatures recorded to at least 1°C  for beaker B decreasing less quickly than beaker A comparison of temperature changes over 180 s, matching statement (need to see values used in justification) 1 A > x B from correct calculations 1 other appropriate suggestion initial / starting temperature/ volume of water / room temperature A and suitable explanation 1 October/November 2022 Question Answer Marks I T < 1.00 (A) to at least 2dps PQ with 2 or more sig figs S > V 1 R S to either 2 or 3 sig figs 1",
+          "image": "/papers/physics-0625-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I P < I T",
+          "image": "/papers/physics-0625-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I P + I Q within 10% of I T units correct throughout A, V,  with values / comparative values seen and ‘within limits of experimental accuracy’ / owtte value of I P + I Q seen, and I T seen and X on series part of circuit less straightforward to change current / more difficult to obtain a greater number of values October/November 2022 Question Answer Marks 4 MP1 apparatus: thermometer, metre rule MP2 method: heat ball in water and measure temperature drop from measure height ball bounces to MP3 repeat for new temperature 1 MP4 control variable: height of drop MP5 table: columns with units for temperature and Bounce Height. MP6 analysis: compare readings in the table to see if change in temperature produces change in dependent variable / plot line graph of Temperature v Bounce Height MP7 additional point (one from): keep in water until sure whole ball at same temp as water use of water bath at least 5 sets of data taken, repeat each measurement and take average, repeat experiment for different variation (e.g. different bounce surface / height of drop) same ball / diameter of ball, bounce surface / type of floor.",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

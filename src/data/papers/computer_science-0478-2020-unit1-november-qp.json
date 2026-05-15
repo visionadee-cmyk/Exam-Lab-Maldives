@@ -1,0 +1,183 @@
+{
+  "paperId": "computer_science-0478-2020-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct binary conversion One mark for each correct denary conversion Hexadecimal ticket number 12-bit binary value Denary value 0000 0010 1000 1A9 0001 1010 1001 20C 0010 0000 1100 0478/11 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Seven from: − Camera captures code // Laser/light shone on code − Black squares reflect different light to white − Corner squares are used for alignment − Pattern converted to digital data // by example − (Digital) data sent to microprocessor − There is a database of valid QR codes − Data compared to stored values/valid QR codes ... − ... If data matches entry is granted is raised − ... If data matches count is incremented − ... If data does not match, entry is denied",
+          "image": "/papers/computer_science-0478-2020/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Handshake − Record",
+          "image": "/papers/computer_science-0478-2020/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Web server − Certificate − Authentic − Browser − Signal one from: − SSL − HTTPS 0478/11 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct gate with correct input 0478/11 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6/7 correct outputs Two marks for 4/5 correct outputs One mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/11 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for the correct gate and one mark for the correct truth table − AND A B X 0 0 0 1 1 0 1 1 − XOR A B X 0 0 0 1 1 0 1 1 − Two valid examples of Structure e.g. where text is placed, margins of page − Two valid examples of Presentation e.g. font size, font colou r",
+          "image": "/papers/computer_science-0478-2020/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Firewall − Proxy serve r 0478/11 October/November 2020 − Uses multiple wires − Sends multiple bits of data at a time − Faster transmission speed − Control (bus) − A ccumulator (ACC) Statement True (  ) False (  ) Data and instructions are stored in the same memory unit  The control unit manages operations within the CPU  Data and instructions can be fetched into the CPU at the same time  The control unit is responsible for decoding an instruction  0478/11 October/November 2020 Four from (Max two per format): MIDI − Musical Instrument Digital Interface (file) − Stores a set of commands/instructions (for how the sound should be played) − Does not store the actual sounds − Data in the file has been recorded using digital instruments // produced by synthesizer − Specifies pitch of the note // specifies the note to be played − Specifies when each note plays and stops playing // Specifies key on/off − Specifies duration of the note − Specifies volume of the note − Specifies the tempo − Specifies the type of instrument − Individual notes can be edited MP3 − MP3 is a format for digital audio − MP3 is an actual recording of the sound − MP3 is a (lossy) compression format − Recorded using a microphone three from: − Light emitting diodes (technology) − The display is made up of pixels − ... that are arranged together as a matrix − ... each is formed of three LEDs/filters − Shades of colour are achieved by mixing red, blue and green − The screen can be back-lit/edge-lit NOTE: Use of liquid crystals with LED technology can also be awarded 0478/11 October/November 2020 three from: − Energy efficient // low power consumption − Long lasting // longevity − Focussed beam // less light strays from beam − Brighter/vivid colours − High resolution − No flicker − Display is thinner − Mercury free technology // environmentally friendly − Fewer pixel failure − Increased viewing in sunlight",
+          "image": "/papers/computer_science-0478-2020/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− LCD",
+          "image": "/papers/computer_science-0478-2020/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− − − −",
+          "image": "/papers/computer_science-0478-2020/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: − Checksum − A utomatic repeat request // ARQ four from: − Data is input with check digit − A calculation is performed on the (inputted) data // by example − The calculated digit is compared to a stored value − If it matches, the data entered is correct − If it does not match, the data entered is incorrect",
+          "image": "/papers/computer_science-0478-2020/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit1-2020-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

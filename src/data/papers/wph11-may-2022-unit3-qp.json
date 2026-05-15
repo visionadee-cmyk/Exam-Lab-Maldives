@@ -1,0 +1,151 @@
+{
+  "paperId": "wph11-may-2022-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2022-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Determines the average coin radius/diameter using at least five coins • Determines the average coin thickness using all 20 coins • Use of 푉푉= π푟푟 푡푡 Or use of 푉푉= π 푑푑 푡푡 • 푉푉 between 1.14×10 –6 and 1.22×10 –6 m Example of calculation Total length of 10 coins = 30.2 cm Average coin radius = 0.0151 m Total height of 20 coins = 3.3 cm Average coin thickness = 0.00165 m 푉푉= π푟푟 푡푡 푉푉= π× (0.0151 m) × 0.00165 m 푉푉= 1.18×10 –6 m (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of 휌휌=푚푚푉푉 ⁄ • 휌휌 between 8 000 and 8600 kg m –3 Allow ecf for V from 1(a) for both marks. Example of calculation 휌휌=푚푚 푉푉 ⁄ 휌휌= 0.0098 kg 1.18×10 –6 ⁄ m 휌휌= 8300 kg m –3 (1) (1) • Calculates values for 2% range of the density of brass • Statement comparing this with 1(b) and relevant conclusion made OR • Calculates percentage difference between 8550 kg m −3 and the density from 1(b) • Statement comparing this with 2% and relevant conclusion made Example of calculation 8550 kg m –3 × 1.02 = 8721 kg m –3 8550 kg m –3 × 0.98 = 8379 kg m –3 (1) (1) (1) (1) Number Answer Mark • Use of a displacement can filled with water • Multiple coins added and volume of displaced water measured using a measuring cylinder • Volume of displaced water divided by number of coins • Coins added slowly to prevent splashing Or measuring cylinder read at eye level to avoid parallax Or ensure measuring cylinder is vertical Or displacement can is filled until overflowing and waits until drips stop OR • Use of a measuring cylinder part filled with water • Multiple coins added and the change in volume recorded • Volume of displaced water divided by number of coins • Coins added slowly to prevent splashing Or measuring cylinder read at eye level to avoid parallax Or ensure measuring cylinder is vertical OR • Use of vernier/digital calipers Or use of a micrometer (screw gauge) • Multiple coins measured Or multiple positions measured on the same coin • Mean radius/diameter and thickness/height calculated • Corrects/checks for zero error in the measuring device (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Total for question 1 12 Number Answer Mark",
+          "image": "/papers/wph11-may-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Uncertainty is half resolution (0.5 ̊) • Use of percentage uncertainty = (uncertainty / angle value) × 100% for either angle • % uncertainty in θ = 1.4% (accept 1%) and % uncertainty in θ = 0.8% If the full resolution of protractor is used (1 ̊) – award MP2 for use of equation and MP3 for correctly values 2.9% (3%) and 1.6% (2%) Example Calculation % uncertainty in θ = (0.5 ̊ / 35 ̊) × 100% = 1.4% % uncertainty in θ = (0.5 ̊ / 62 ̊) × 100% = 0.81% (1) (1) (1) • See n sinθ = n sin θ with refractive index of air n = 1 • Rearranges and compares with y = mx (+ c) Or rearranges and compares 푛푛 = sin 휃휃 sin 휃휃 with gradient= ∆sin 휃휃 ∆sin 휃휃 • Identifies n = gradient For MP1 accept n sinθ = sin θ For MP2 accept comparing 푛푛 푛푛 = sin 휃휃 sin 휃휃 with gradient= ∆sin 휃휃 ∆sin 휃휃 (1) (1) (1) • Uses two points on the line to determine the gradient • n between 1.46 and 1.54 MP2 dependent on MP1 MP2 allow correct use of gradient = 1/n from 2(b)(i) Example Calculation n = (0.77 – 0.17) / (0.50 – 0.10) n = 1.5 (1) (1) Number Answer Mark",
+          "image": "/papers/wph11-may-2022/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Realistic cause of a systematic error in measured data suggested • Suitable method to reduce effect of the cause suggested MP2 dependent on MP1 Examples • Normal line not correctly drawn at 90 ̊ to the flat surface • Use a protractor/set square to check the normal line • Zero error because protractor not aligned correctly • Ensure the protractor is aligned to the normal • Ray of light not directed to centre of the flat surface Or i ncident ray not perpendicular to curved surface • Mark the position of the centre of the flat surface on paper • Block moved • Mark the position of the block on paper Or tape the block in position • Did not repeat measurements with angles of incidence either side of the normal • Repeat measurements (for angles of incidence on both sides of the normal) and calculate mean value (1) (1) Total for question 2 10 Number Answer Mark",
+          "image": "/papers/wph11-may-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Power supply (e.g., battery), ammeter and LDR connected in series • Voltmeter connected in parallel with LDR MP1 – accept incorrect symbol labelled as LDR or an LDR symbol without circle MP2 – we can accept a voltmeter in parallel with a single resistive component in the series circuit unless an LDR is given Examples (1) (1)",
+          "image": "/papers/wph11-may-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Distance between bulb and LDR (d) measured with a metre rule (accept tape measure) • Record current and potential difference and use 푉푉=퐼퐼퐼퐼 to calculate resistance Or use an ohmmeter or multimeter set to measure resistance • Repeat for the same values of d and calculate the mean value of R Or use a set square/marker to reduce parallax when measuring d Or look down at ruler at eye-level to reduce parallax when measuring d (1) (1) (1)",
+          "image": "/papers/wph11-may-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Downwards curved line with decreasing gradient • Line not touching/crossing either axis MP2 dependent on MP1 Examples (1) (1)",
+          "image": "/papers/wph11-may-2022/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of 퐴퐴=4π푟푟 • Use of 퐼퐼= 푃푃 퐴퐴 • I = 18 W m –2 Example Calculation I = 9.0 W / (4 × π × (0.20 m) ) = 17.9 W m –2 (1) (1) (1) Number Answer Mark • Suitable control variable e.g., background light level, current in bulb, brightness/power of bulb, angle of light to LDR, temperature of the LDR (1) • Suitable method of control for the control variable identified (1) 1 Total for question 3 12 Number Answer Mark",
+          "image": "/papers/wph11-may-2022/q3-3d.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (Energy is conserved, so) 푚푚푚푚∆ℎ= 푚푚푣푣 • 푣푣= � 2푚푚∆ℎ Or 푣푣 ∝∆ℎ Or states that m and g are constants • ∆ℎ is constant so v is always the same Or ∆ℎ is constant so v is always the same If no other marks awarded, accept GPE (decrease) and KE (increase) are the same for 1 mark If suvat equations are used to show 푣푣= √ 2푎푎푎푎 or 푣푣 ∝푎푎, do not award MP1 or MP2, but MP3 is still available (1) (1) (1)",
+          "image": "/papers/wph11-may-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Inconsistent d.p. in H • H/D should be measured to nearest mm Or H/D should be recorded to 3 d.p. Allow “No repeats shown” for either marking point (1) (1) • Correct D values rounded to 2 s.f. • Labels axes with quantities and units • Sensible scales • Plotting • Line of best fit H / m D / m 0.20 0.14 0.35 0.28 0.50 0.40 0.75 0.58 1.00 0.79 1.20 0.92 (1) (1) (1) (2) (1) y = 0.7799x + 0.0007 0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 0.00.20.40.60.81.01.2 D / m H/ m Number Answer Mark • Calculates gradient using large triangle • Use of 푚푚푟푟푎푎푔푔푔푔푔푔푛푛푡푡= 2푣푣 푔푔 • v between 1.92 and 1.98 ( m s –1 ) Example Calculation 푚푚푟푟푎푎푔푔푔푔푔푔푛푛푡푡= 0.78−0.16 1.0−0.2 = 0.775 m 푣푣= � 푚푚×푚푚푟푟 푎푎푔푔푔푔푔푔 푛푛푡푡 = � 9. 81 m s –2 × 0.775 m = 1.95 m s −1 (1) (1) (1) • States actual/percentage difference between the two values Or identifies that their value is slower/faster • Comment identifying a potential cause for the difference Or comment on the accuracy of the values Examples • The speed given by the graph is slower • Air resistance reduced the size of D • The speed given by the graph is only 0.03 m s –1 slower than the value she calculated • The difference is only 2%, so the experiment is accurate Or the difference is small, so the experiment is accurate • Calculates the percentage difference between 1.98 m s –1 and the value from 4(c)(ii) • The percentage difference is small, so the experiment is accurate Or t he percentage difference is large, so the experiment is not accurate (1) (1) Total for question 4 16",
+          "image": "/papers/wph11-may-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit3-2022-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

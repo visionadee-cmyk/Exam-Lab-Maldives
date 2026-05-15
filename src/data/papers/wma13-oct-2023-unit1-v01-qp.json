@@ -1,0 +1,257 @@
+{
+  "paperId": "wma13-oct-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-oct-2023-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "October 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() f (1)1 5 e1.281... 0= − + = − () f (2)25 2 e1.389... 0= −  + = M1 As there is a change of sign and f ( )x is continuous over the interval  1, 2 then there is a root * A1* (2) (b)(i) 5 1 eawrt1.5105x=  − = M1A1 (ii) awrt 1.7340= A1 (3) (5 marks) Notes (a) M1: Attempts f (1) and f (2) with substitution seen or at least one correct to 1 d.p. rounded or truncated and considers their signs . Note showing f(1)f(2) < 0 is a consideration of signs and is sufficient for the “sign change” part of reasoning for the A1. A1*: Must have • both f (1) and f (2) correct (as expressions or correct values imply these, need not be labelled) • reason, which must mention continuity and state or indicate sign change in some way • conclusion, “hence root”, or accept e.g. hence “f(x)=0 between x =1 and x = 2” (b) (i) M1: Attempts to find x using the iteration formula. Implied by sight of 1 embedded in the formula or awrt 1.5 A1: awrt 1.5105 (ii) A1: awrt 1.7340 provided M1 has been scored. Allow 1.734 with trailing zero omitted. Note 1.7340 only may be from a graphical calculator, so scores M0A0A0. There must be evidence (i.e. the M is scored) of an attempt at least one iteration first. Number Scheme Marks",
+          "image": "/papers/wma13-oct-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "9 \"\" 3 ff (6) f \" \"...; 15 \"\" 4 +  === =   − M1; A1 (2) (b) f ( ) x x x − + = − M1A1 ,1xx B1 (3) (c) E.g. x x +  +=  −  or 75)( a a−  + =− M1 .2223 0..xxx==−+ or (3) ( ) 2(4)...aaa+ = −  = dM1 () 11 7 2a=+ oe A1 (3) (8 marks) Notes (a) M1: Substitutes 6x= into f and substitutes the result back into f to find a value for ff (6) Alternatively substitutes 6x= into ff ( )x= x x x x + − + −  +    −   condoning slips. A1: 15 (b) M1: Changes the subject of x y x + = − or y x y + = − to ...3 ...1 x y x  =  or ...3 ...1 y x y  =  A1: Achieves () f x x x − + = − . Accept f... − = or y =... instead of ( ) ...fx − = . B1: 1x . The omission of x is condoned. Accept alternative notations. (c) Note this is M1A1A1 on epen but is being marked as M1dM1A1. M1: Correct attempt to set up an equation in x or a. This will usually be x x + −  +=   but f ( ) g (7)a − = may be used first. Score when a suitable equation is set up and allow if a minor slip or miscopy is made if the intention is clear. dM1: Proceeds to solve for x or a, e.g. forms a 3TQ and solves, or take the 5 across, square roots, cross multiplies and makes a the subject, condoning e.g. sign slips when rearranging. Alternatively, uses () () 5 7f ( )2f ( )xx+ =  =  and their part (b) leading to () \"4 2 3\" f\" 2 \" \" 2 1\" a − + == − . In this method both M’s may be scored together. A1 11 7 2+ or 4 2 3 + − Accept 1198+ or 4 2 3 −− − . Common factors should be cancelled. Ignore labelling of x or a. Condone e.g. if 11 7 2− is also given as a solution but A0 if any other extra solutions are included. Number Scheme Marks",
+          "image": "/papers/wma13-oct-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() cos 2cos cossin sincos(1 cos)AAAAAAA−− − M1 2 cos1cos 2AA− * A1* (2) (b) () sin 6 3 2 cos 6d3() x xxxc−= −+  M1A1 ()() sin 6sin 6 sin 6122 x x         −    −=−−−= +            dM1A1 (4) (6 marks) Notes (a) M1: Writes () cos 2cos cossin sinAAAAA− and attempts to use (not just stated separately) the identity sincos1AA=  Note going directly to cos 2cossinAAA− is allowed M1 as long as a use of the Pythagorean identity is clear. NB Watch out for answers which use double angle identities in the proof (circular reasoning) and score M0 if no Pythagorean identity is used. A1*: Achieves the given answer with no errors seen (and no circular reasoning). Must see cos 2cos cossin sinAAAAA− and clear attempt at substitution of sincos1AA+= but allow “LHS” for “cos 2A”. Going directly to cos 2cossinAAA− in the first step would score A0. Correct notation must used throughout but condone a missing closing bracket. Note : cos 2cossin2 cos1AAAA=−=− with no further evidence scores M0A0 as they are just writing out known formulae. (b) M1: Attempts to substitute in the given result in part (a) and integrates to the form ......sin 6xx Must be a full substitution in terms of x, sin 2cos 2kAA→ is M0 unless recovered, e.g by later substitution may be implied by the limits substituted). A1: sin 6 x x− dM1: Shows evidence of substituting in both limits into an expression of the form ......sin 6xx and subtracts either way round to achieve an exact (not necessarily simplified but trig must be evaluated) answer. A1: Correct answer e.g as scheme or +− or exact equivalent (and isw after a correct answer). Number Scheme Marks",
+          "image": "/papers/wma13-oct-2023/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Find ff (6) (2) (b) Find f –1 (3) The function g is defined by g (x) = x 2 + 5 x ∈ , x > 0 (c) Find the exact value of a for which gf ( a) = 7 (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______________________________________________",
+      "text": "4 (a) Find ff (6) (2) (b) Find f –1 (3) The function g is defined by g (x) = x 2 + 5 x ∈ , x > 0 (c) Find the exact value of a for which gf ( a) = 7 (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______________________________________________",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Find ff (6) (2) (b) Find f –1 (3) The function g is defined by g (x) = x 2 + 5 x ∈ , x > 0 (c) Find the exact value of a for which gf ( a) = 7 (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "93A= B1 (1) (b) 0.1090.109 100 125 \"93\"ee... TT A −− = −= M1 ln e kT B A ABT k    =  = dM1 12.05T= A1 (3) (c) 0.109 7 d 0.109 \"93\"e d N t − = M1 4 730 (total sales per month) A1 (2) (d) The limit is 125 000 / the model has a limit below 150 000 B1 (1) (7 marks) Notes (a) B1: 93 (b) M1: Sets 0.109 100 125 \"93\"e T− =− and proceeds to 0.109 e... T A − = May use t instead of T. Condone slips. dM1: Uses correct order of operations and correct log work from an equation of form 0e, kT AB AB= to proceed to a value for T (must be a solvable equation). Implied by a correct answer for their equation. A1: 12.05 cao Note: Candidates who use 100 000 in the equation will score no marks in this part. Note: Answer only with no working send to review, but 12.05 following a correct equation seen score M1dM1A1. (c) M1: Attempts to differentiate to form 0.109 e t  − , λ constant, and substitutes in 7t= . Award for an expression of the form 0.109 7 ...e − if no incorrect working is seen. The substitution of t = 7 may be implied by a correct value for their derivative of correct form. A1: awrt 4 730 (total sales per month). Accept equivalent forms for the answer, e.g. 4.73 thousand, but just 4.73 is A0. “Sales per month” may be omitted, but score A0 if an incorrect unit is given. Note: Answer only scores no marks. (d) B1: A correct reason given – any factual statements must be correct. E.g The limit is 125 000 / the model has a limit below 150 000 oe. Accept maximum value of N is 125, or N cannot reach 150 as asymptote at 125. Also allow attempts to substitute in 150 and find that they cannot take the log a negative number, but score B0 if a “negative time” is reached and used as reason. Attempts using e.g 150 000 in the equation score B0. There must be a reference to the information given in the answer, just “number is too large” or similar is B0. Number Scheme Marks",
+          "image": "/papers/wma13-oct-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 ()2 ln() d d() x xkxxk y xk xxk + −+ + = + M1 d22 ln()2 (1 ln()) d()() yxxxkxxk xxkxk −+−+ == ++ M1A1 (3) (b) 0x= B1 2\"1\"2 \"1e\" ln() 0kxkx−+ == M1 exk=  − A1ft (3) (c) Upper limit is e or k < e B1ft (1) (7 marks) Notes (a) M1: Attempts to apply the quotient rule. Score for an expression of the form ... ()ln() d d() xkQxxk y xk xxk + −+ + = + oe (may be simplified) where ... is P or Px and P,Q > 0 May also attempt the product rule, in which case look for ()() ln() ... Px xkxkxk kx −− ++−++ + where ... is Q or Qx and P,Q > 0 M1: Cancels xk+ and correctly takes a factor of (2)x from the numerator to achieve “B – ln(x +k)” (may be done in one step). They must have a factor x in both terms. Note this may be scored following M0 e.g. if a numerator uv’ – vu’ is used, or if the denominator misses the square. A1: d2 (1 ln()) d() yxxk xxk −+  =  +  from fully correct work. Both M’s must have been scored. (b) B1: 0x= M1: Sets \"1\" ln() 0xk−+ = and proceeds to ...x= with correct undoing of ln. A1ft: exk=  − or follow through e B xk=  − for a numerical B in their () lnBxk−+ factor (c) B1ft: Upper limit is e or k < e stated. Follow on their (b) of form () e B xk= B0 if k = e or ek is given as the answer without statement about upper limit being e. Some acceptable answers: • After 1 year the area will reduce to S last year times q. It shows the speed that coral reefs seafloor reduce. • The percentage of remaining area of sea floor covered by coral reefs to the area of that covered last year. • q represents the proportion of decreasing of the area of sea floor covered by coral reefs every year. Some unacceptable answers: • When there is extra t, the S will increase one more unit of 0.986 • q means the percentage of the part of sea floor covered by coral reefs after t years. • q is the amount of coral reefs die/shrink in accordance to time. • The area of the sea floor is decreasing at almost 0.986 times before. • For every increase in the value of t, the total area",
+          "image": "/papers/wma13-oct-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-13.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4.5 0.006 22 log4.5 0.006 21030800 kmSS − = −  == M1A1 (2) (b) 4.5 0.006 log4.5 0.00610 t StS − = − = (or 4.5 10p= or 0.006 10q − = ) M1 () 4.5 0.0064.50.006 t t S −− ==  (or 4.5 10p= and 0.006 10q − = ) dM1 31600 (0.986) t S= A1 (3) (c) E.g. The proportion of area covered by coral reefs retained from year to year. B1 (1) (6 marks) Notes (a) M1 Substitutes in 2t= and proceeds to find a value for S via ... May be implied by a correct value for their equation. Note awrt 24000 may arise from a slip with 0.006×2 = 0.12, and is acceptable for M1. A1: awrt 30800 km including units, from correct work and isw as long as units are included with a correct value. But e.g. 30760 followed by 307 km is A0. (b) M1: Writes 4.5 0.006 t S − = or award for either () 4.5 10p= or () 0.006 10q − = even if from an incorrect step. Essentially for knowing they need to raise to base 10. May arise from attempts at solving simultaneous equations using the answer to (a) (allowing for rounding errors). dM1: Writes () 4.50.006 t S − = or award for both 4.5 10p= and 0.006 10q − = (oe forms e.g accept 0,006 or 1.01          for q) Must be fully correct method to this point but allow if all that is wrong is rounding errors from other methods such solving simultaneous equations (e.g. 0.990 t ). A1cso: 31600 (0.986) t S= Must be awrt 3 s.f. values. Must be an equation including the S, not just p and q values, but accept if seen in (c). (c) B1: E.g. accept the following or variations of them • The proportion of area covered by coral reefs retained from year to year. • The seafloor covered by coral reduces by 1.4% each year. • The proportional change/decrease in sea floor area covered by coral reefs per year Do not accept “rate of change” or “decrease in area of reefs per year” or “q is the gradient” as the answer as it is an incorrect interpretation. The proportional change should be conveyed. There must be reference to, or equivalents of, the following: • sea floor area or sea floo",
+          "image": "/papers/wma13-oct-2023/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 f (0) (0 3)9= − = M1 0f ( )9x A1 (2) (b) f '( )2 e(23)e8 (23) xx xxxx x −− = −− + − M1A1 () () 2 (23)e(23) 42 e(23) 7 2 xx x xxxxx −− =−− − + =− − dM1A1 (4) (c) , x= fe2316e −−   =− =        M1A1 16e9k −  dM1A1 (4) (10 marks) Notes (a) Work for part (a) must be seen in part (a) not recovered in part (c). M1: Substitutes 0x= and proceeds to find a value for y. Implied by sight of 9. A1: 0f ( )9x Accept with y or just f, but not with x. Accept interval, [0, 9], or set notation. (b) M1: Attempts the product rule and chain rule achieving e(23)e(23) xx xPxQx x −− + with P, Q > 0. Alternatively, attempts the quotient rule on () e x x− achieving ()() () 3 ee3 e xx x PxxQxx− P, Q > 0 A1: 2 e(23)e8 (23) xx xxx x −− −− + − oe (need not be simplified) dM1: Must have scored previous M. Attempts to takes out a factor of 2 e(23) x xx − − to obtain a factor () C Dx which may be unsimplified. Allow if e.g. the x or e x− is dropped when taking out the factor. A1: Achieves 2 e(23)(7 2 ) x xxx − −− with no errors seen. (c) Note : allow all the marks in (c) from answers which were a constant multiple out in (b) or missing the factor x , which lead to the correct answers here. M1: Attempts to find a y value (which may be zero) for at least one of the valid non-zero roots for f’(x)=0. Allow for an attempt at either f     or f A B     leading to a value, where A and B are their values from (b) with AB > 0. Note e.g. f A B    attempted is M0. A1: For obtaining 16e − Accept awrt 0.483 for this mark following the award of M. dM1: Attempts the inside region, allowing , using their y intercept from (a) and their positive y value, less than their intercept, from an attempt at the at the y value of the maxima. Allow a positive y value from an attempt at any non-zero root of f’(x) as such an attempt. It is dependent on the previous method mark. A1: 16e9k −  or in any equivalent form e.g. interval notation ,9 e k    Allow y instead of k Ig",
+          "image": "/papers/wma13-oct-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Starting with the LHS: 2 2 cos 2 2cosec 2 (1 cos 2 ) sin 2    − −= M1 2 2 (1 2 sin) 4 sincos   −− = M1dM1 sec1 tanRHS== + * A1* (4) (b) sec3sec4 0sec...xxx−− = = M1 cos x= (ignore 1− ) A1 cos... xx=  = dM1 75.5 , 284.5x=  A1 (4) (8 marks) Notes (a) The most common method and where to award marks is as follows: M1: Uses cosec 2 sin 2   = (oe) at some stage in the proof to convert the cosec into sine. M1 Attempts to use one of cos 21 2sin=   or sin 22 sin cos = but condone sin 22sincos = as an attempt at squaring. dM1: Depends on previous M. Attempts to use both cos 21 2 sin=− oe and sin 22 sin cos = A1*: Achieves the RHS with no mathematical errors seen and all stages of working shown. Must see the sec before the final answer. Condone minor notational errors (e.g. a missing θ) but not consistent poor notation throughout. There will be other solutions but if they work from both sides then they need a conclusion at the end. For other methods or variations apply scheme as follows: M1: Uses a correct identity for either cosec 2θ or cosec 2θ or cot 2θ to get the equation in terms of sin and cosine only or to introduce cosec2θ if working in reverse. Condone the 2 becoming ½. M1: Attempts to apply a double angle identity correct up to sign errors, e.g. cos 21 2sin=   dM1: Depends on previous M. Use of at least two correct double angle identities and/or Pythagorean identities to progress sufficiently towards the goal (e.g. reduces all terms to single argument form in cosine or sine only, or identify an appropriate factor to cancel to such, or to get all double arguments if working in reverse with the sin 2θ identified). There may be algebraic slips, but all trig identities used up to this point must be correct (e.g. see stag reach in main scheme). A1*: Fully correct proof with sufficient stages shown including use of 1stecan=+ or equivalent identity (e.g. other Pythagorean relation), and if necessary, a conclusion given. For example s ta",
+          "image": "/papers/wma13-oct-2023/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-21.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1k=− B1 (1) (b)(i) f (0)2 4 ln(0 1)2 0 2= −+ = − = B1 (ii) 0 2 4 ln(1)ln(1) e p xxxq= −++ =  =+ M1 e1x=− A1 (3) (c) .2l4nln(1(1).3).xx + =−+ = or 2 4 ln(1) 3.ln(1) ..xx− + =++ = M1 .2 4 ln(1) 3..xx−+== and .2 4 ln(13..)xx−==++ dM1 CVs e1, e1 − −− A1 \" 1\"e1 ore1xx − −   − − ddM1A1ft (5) (9 marks) Notes (a) B1: For () 1k=− . Accept 1x=− or even 1x− (b) (i) B1: For 2 seen as the y coordinate. May be identified as y or f(0) or (0, 2). (ii) M1: Sets 0 2 4 ln(1)x= −+ , rearranges and proceeds to ...x= of the correct form e,0 p qq+ . May be implied by awrt 0.65. A1: e1x=− or accept e1− or even e1− May be seen as part of a coordinate pair. (c) Note this is M1A1A1M1A1 on epen but is being marked as M1M1A1M1A1. M1: Forms one valid equation with the modulus signs removed and attempts to solve at least as far as ln(x+1) . Accept with > or < etc instead of = for the M. dM1: Both equations attempted, allowing for “=” or any inequality used, to achieve values (may be decimals) for each via ln(x + 1) =... and suitable attempt to undo ln (raises to a base power, allow an error with the base). For reference the decimals are −0.221 and 2.49 to 3 s.f. A1: Both e1, e1 − −− Must be exact. ddM1: Chooses the outside region for their values. Allow with strict or non-strict inequalities. It is dependent on both previous method marks and requires two distinct critical values. The left hand bound −1 may be missing for this mark (i.e. allow for ) e1 ore1xx −  − − Allow with decimal values for this mark. ddM0 if the middle section is also included but isw if they choose the correct outside region but later reject the left hand portion due to confusion with 1x− Watch out for x > ... for both inequalities, which is ddM0. A1ft: \" 1\"e1 ore1xx − −   − − or any equivalent form following through on their negative k from (a). Must be exact (not decimals). Allow “and” instead of “or” – ie both regions are identified as the solution. But use of  in set notation is A0 as it is incorrect. ",
+          "image": "/papers/wma13-oct-2023/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-25.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 sin 4 yy  = = M1A1 (2) (b) d 8sin 4 cos 4 d x yy y = M1A1 (2) (c) dd1 8sin 4 cos 4 dd8sin 4 cos 4 xy yy yxyy =→ = M1 d1 d 8(1) y x xx = − M1 d1 d 16 64 y x x =  −−   A1 (3) (d)(i) x= B1ft (ii) d1 d4 y x = B1ft (2) (9 marks) Notes (a) M1: Attempts to substitute in x= and rearranges to find an exact value for y. Look for arcsin ykM  →   = or k(30°) allowing errors in dividing by the 4, or equivalents criteria via a double angle identity, correct up to sign error. A1:  Ignore extra solutions outside the domain. (b) M1: Attempts to differentiate achieving a form d sin 4 cos 4 d x Ayy y  =   or sin 8Ay oe Accept alternative forms e.g. via implicit differentiation d 1sin 4 cos 4 d y Ayy x = . The d d x y may be missing, or labelled d d y x for this mark. A1: d 8sin 4 cos 4 d x yy y = oe eg d 4 sin 8 d x y y = Coefficients must be simplified. Must include the d d x y (c) M1: Uses dd dd yx xy = (allow for the reciprocal of their answer to (b) if left hand side is omitted). Variables must be consistent. M1: Attempts to use sin 4yx= and cos 41yx=− to write d d y x or d d x y in terms of x only with no trig terms. A1: d1 d 16 64 y x x =  −−   and isw after correct answer. Allow with terms under the square root reversed. (d) Note to score marks in (d) they must have a derivative which does have a minimum and is of a completed square form (the r may be inside the bracket) or in some other way clearly uses their (c) (e.g. minimising their quadratic). (i) B1ft: () x= ft their −s provided their q>0, their r <0 and their x is in the range 01x (ii) B1ft: d1 d4 y x  =   ft their q provided it is positive and their r was negative. (b) Alt () 1d111 arcsin sin 4 d4 xy y yxx x x −  == − = M1 d d y x x x=− A1 (2) (c) dd1 8sin 4 cos 4 dd8sin 4 cos 4 xy yy yxyy =→ = M1 d1 d 8(1) y x xx = − M1 d1 d 16 64 y x x =  −−   A1 (3) Notes Alt by finding y first. Mark (b) and (c) together via such approaches. But note that part (c) says “Hence” and the ",
+          "image": "/papers/wma13-oct-2023/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2023/page-29.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 10
+  },
+  "assets": {
+    "basePath": "/papers/wma13-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2023-unit1-2023-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-oct-2023/page-01.png",
+      "/papers/wma13-oct-2023/page-02.png",
+      "/papers/wma13-oct-2023/page-03.png",
+      "/papers/wma13-oct-2023/page-04.png",
+      "/papers/wma13-oct-2023/page-05.png",
+      "/papers/wma13-oct-2023/page-06.png",
+      "/papers/wma13-oct-2023/page-07.png",
+      "/papers/wma13-oct-2023/page-08.png",
+      "/papers/wma13-oct-2023/page-09.png",
+      "/papers/wma13-oct-2023/page-10.png",
+      "/papers/wma13-oct-2023/page-11.png",
+      "/papers/wma13-oct-2023/page-12.png",
+      "/papers/wma13-oct-2023/page-13.png",
+      "/papers/wma13-oct-2023/page-14.png",
+      "/papers/wma13-oct-2023/page-15.png",
+      "/papers/wma13-oct-2023/page-16.png",
+      "/papers/wma13-oct-2023/page-17.png",
+      "/papers/wma13-oct-2023/page-18.png",
+      "/papers/wma13-oct-2023/page-19.png",
+      "/papers/wma13-oct-2023/page-20.png",
+      "/papers/wma13-oct-2023/page-21.png",
+      "/papers/wma13-oct-2023/page-22.png",
+      "/papers/wma13-oct-2023/page-23.png",
+      "/papers/wma13-oct-2023/page-24.png",
+      "/papers/wma13-oct-2023/page-25.png",
+      "/papers/wma13-oct-2023/page-26.png",
+      "/papers/wma13-oct-2023/page-27.png",
+      "/papers/wma13-oct-2023/page-28.png",
+      "/papers/wma13-oct-2023/page-29.png",
+      "/papers/wma13-oct-2023/page-30.png",
+      "/papers/wma13-oct-2023/page-31.png",
+      "/papers/wma13-oct-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

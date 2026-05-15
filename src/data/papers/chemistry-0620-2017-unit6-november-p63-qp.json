@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to increase surface area / make it dissolve faster",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 add a more reactive metal (e.g. zinc / magnesium) M2 displaces lead / filter out lead",
+          "image": "/papers/chemistry-0620-2017/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed: 23, 16, 14, 13, 12, 11, 11, 11, 11, 11 all readings correct = [2] 8 or 9 readings correct = [1]",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly: 22, 26, 29, 31, 32, 33, 34, 35, 35, 35 all readings correct = [2] 8 or 9 readings correct = [1]",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted two smooth line graphs (one line graph correct = [1]) both graphs appropriately labelled value from graph shown clearly 0620/63 October/Novembe r value from graph shown clearly",
+          "image": "/papers/chemistry-0620-2017/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "room temperature / 22 °C AND reaction has finished / all the solid has dissolved",
+          "image": "/papers/chemistry-0620-2017/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source of error improvement heat losses use a lid / lag the apparatus use of a measuring cylinder use a pipette/burette wet cup in the second experiment use new/another cup OR dry the cup the solid absorbs water from the air store in a sealed container / airtight container / desiccator only done once repeat and average different masses of solids used / masses of solids not measured use same mass of solid / weigh the solids / less detail / fewer readings / graph not as good / not enough readings whilst the solid is reacting 0620/63 October/Novembe r precipitate / precipitate dissolves / fizzing / effervescence (red) litmus paper / Universal Indicator paper (red litmus paper) turns blue / (Universal Indicator paper) turns purple / NH / NH 0620/63 October/Novembe r heating to dryness method max [6]: M1 weigh (any) sample of washing soda M2 heat (to remove water of crystallisation) M3 in named container M4 cool M5 reweigh M6 repeat heating M7 to constant mass M8 appropriate calculation suggested for the percentage of water mass of water method max [6]: M1 weigh (any) sample of washing soda M2 heat to remove water of crystallisation M3 in named container M4 using apparatus capable of collecting water (vapour) M5 cool / condense (water vapour) M6 continue until no more collects M7 weigh water M8 appropriate calculation suggested for the percentage of water",
+          "image": "/papers/chemistry-0620-2017/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2025-unit4-november-p42-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit4-november-p42-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/42",
+  "session": "October/November 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "10 (a) Fill in the gaps in the description of how an accretion model explains the formation of the Solar System. The planets nearest the Sun are small and ........................................ The planets furthest from the Sun are large and ........................................ All the planets were formed when a cloud of gas and dust collapsed due to ........................................",
+      "text": "10 (a) Fill in the gaps in the description of how an accretion model explains the formation of the Solar System. The planets nearest the Sun are small and ........................................ The planets furthest from the Sun are large and ........................................ All the planets were formed when a cloud of gas and dust collapsed due to ........................................",
+      "parts": [
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3.9  10 (m) A3 (speed of light =) 3.0  10 C1 (s =) vt OR (s =) 3.0  10  1.3 C1",
+          "image": "/papers/physics-0625-2025/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4.8  10 m / s OR 4.8  10 km / s A3 (1 light-year =) 9.5  10 (m) OR 9.5  10 (km) OR 4.8  10 N C1 (v =) H0 d OR (v =) 2.2  10 -18  2.3  10  9.5  10 C1",
+          "image": "/papers/physics-0625-2025/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit4-2025-11-41-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

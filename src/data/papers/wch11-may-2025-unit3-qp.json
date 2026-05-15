@@ -1,0 +1,51 @@
+{
+  "paperId": "wch11-may-2025-unit3-qp",
+  "pairedMarkSchemeId": "wch11-may-2025-unit3-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH13/01",
+  "session": "May 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of moles of zinc (ions) • calculation of moles of magnesium and moles Mg > moles Zn Alternative method • calculation of moles of zinc ions • calculation of mass of magnesium needed and 1.2(15)(g) < 2.20(g) (1) (1) (1) (1) Example of calculation: 50 ÷ 1000 × 1.00 = 0.0500 / 0.05 / 5 × 10 –2 2.20 ÷ 24.3 = 0.090535 / 9.0535 × 10 –2 Allow 0.09(05) > 0.05 for (2) marks 50 ÷ 1000 × 1.00 = 0.0500 / 0.05 / 5 × 10 –2 0.05 x 24.3 = 1.2(15)(g) Allow TE on wrong moles of zinc Allow use of 24 for Mg Ignore SF (2) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-may-2025/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• recall of expression for energy transferred (Q = mcΔT) • calculation of temperature rise • calculation of energy change • calculation of enthalpy change of reaction including sign and units (1) (1) (1) (1) Example of calculation Energy transferred = mass × specific heat capacity × temperature change This may be seen in M3 55.2 – 19.4 = 35.8(°C) 50.0 × 4.18 × 35.8 = 7482.2 (J) Ignore sign (7482.2 ÷ 1000) ÷ 0.0500 = –149.6(4) / −150 kJ mol –1 Accept −149 640 / −150 000 J mol –1 Allow TE throughout Allow TE on 5(a) for moles of zinc (ions) Ignore SF in M1 and M2 and ignore SF except 1 SF in the final answer Correct answer with no working scores (4) The following answers all score (3) marks −82.64 / −82.6 / −83 (uses mol Mg instead of Zn) −53.24 / −53.2 / −53 (adds mol of Mg to mol of Zn) −184.69 / −184.7 / −185 (mol Mg – mol Zn) (4) Number Answer Additional Guidance Mark • heat loss (to the surroundings) Ignore references to non-standard conditions (1) Number Answer Additional Guidance Mark points: • use of an insulated container • use of a lid for the container (to reduce heat loss) • record the temperature every 30 seconds / use a data logger • use a lower concentration of solution so heat loss would be lower • use a graph of temperature against time to give a more accurate value of temperature change (1) (1) (1) (1) (1) Ignore references to changing quantities / concentrations of chemicals Allow polystyrene cup Ignore calorimeter Allow any lid whether stated as insulated or not Ignore draft shield Allow any regular time interval < 1 minute Allow temperature recorded until steady, magnesium added and then temperature recorded every 30 seconds Allow cooling curve for graph Allow use a digital thermometer / temperature probe / thermometer with smaller scale divisions. (1) Ignore use of burette / pipette / more accurate balance / repeats Ignore descriptions of how the graph can be used to find the more accurate value of temperature change (4) (Total for Question 5 = 1",
+          "image": "/papers/wch11-may-2025/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wch11-may-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit3-2025-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

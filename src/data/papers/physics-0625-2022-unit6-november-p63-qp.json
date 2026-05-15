@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2022-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit6-november-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "October/November 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " R = 22 (°C) view scale reading perpendicularly wait until reading stops rising avoid thermometer touching beaker cools more slowly’ / owtte 1 comparison of temperature changes over 180 s, matching statement (need to see values used in justification) 1 A = 0.097 and x B = 0.039 1 starting / initial temperature same volume of water same room temperature A and suitable explanation cooling rate of A greater than x A October/November 2022 Question Answer Marks I T = 0.76 (A) R PQ = 1.8 / ecf () all units correct A, V,  S present and both R S and R PQ to either 2 or 3 significant figures with values / comparative values seen justification – ‘within limits of experimental accuracy’ / owtte 1 and X on series part of circuit cannot obtain continuous set of values less straightforward to change current more difficult to obtain a greater number of values October/November 2022 Question Answer Marks 4 apparatus MP1 thermometer, metre rule method MP2 valid procedure: heat ball in water and measure temperature drop ball measure height ball bounces to MP3 repeat for at least 2 new temperatures 1 control variable MP4 height of drop table MP5 columns with units for temperature and bounce height analysis MP6 compare readings in the table to see if change in temperature produces change in dependent variable OR plot line graph of temperature vs bounce height additional point MP7 any one from: keep in water until sure whole ball at same temp as water use of water bath at least 5 sets of data taken repeat each measurement and take average repeat experiment for different variation (e.g. different bounce surface / height of drop) same ball / diameter of ball, bounce surface / type of floor",
+          "image": "/papers/physics-0625-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit6-2022-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

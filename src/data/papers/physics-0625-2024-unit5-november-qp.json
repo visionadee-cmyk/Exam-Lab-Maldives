@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2024-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2024",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "v  30 cm Unit: cm 1 3 significant figures, with correct rounding 1 Magnified / larger / enlarged 1",
+          "image": "/papers/physics-0625-2024/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "v  25 cm Both f values within 10% of each other 1 Same within 10% October/November 2024 Question Answer Marks 4 MP1 CIRCUIT: Ammeter and variable resistor both shown in series with test wire and with correct symbols. MP2 METHOD MARK 1: Adjust current / variable resistor until wire melts / current stops. Take current reading. MP3 THE CHOSEN VARIABLE: metal used or diameter MP4 METHOD MARK 2: Repeat with other metal(s) or other diameter(s) MP5 VARIABLE TO KEEP CONSTANT: Diameter of wire or metal used, provided it is not the variable chosen for MP3 MP6 TABLE with clear columns for current with unit A and for their chosen variable, with correct unit if appropriate. MP7 CONCLUSION: Plot graph of current against diameter OR bar chart of current against metal OR compare the readings to see if the chosen variable affects the current at which the fuse wire melts",
+          "image": "/papers/physics-0625-2024/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit5-2024-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

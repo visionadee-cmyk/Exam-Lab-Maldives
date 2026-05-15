@@ -1,0 +1,227 @@
+{
+  "paperId": "computer_science-0478-2023-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 15,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Four descriptions of stages in the program development life cycle are shown. Draw one line to link each description to its most appropriate program development life cycle stage. Not all program development life cycle stages will be used. Program development life cycle description Program development life cycle stage develop an algorithm to solve the problem",
+      "text": "1 (a) Four descriptions of stages in the program development life cycle are shown. Draw one line to link each description to its most appropriate program development life cycle stage. Not all program development life cycle stages will be used. Program development life cycle description Program development life cycle stage develop an algorithm to solve the problem",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Four descriptions of stages in the program development life cycle are shown. Draw one line to link each description to its most appropriate program development life cycle stage. Not all program development life cycle stages will be used. Program development life cycle description Program development life cycle stage develop an algorithm to solve the problem",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line. Program development life cycle description Program development life cycle stage",
+          "image": "/papers/computer_science-0478-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for naming or describing each component part, max three For example: inputs // what is put into the system processes // actions taken to achieve a result outputs // what is taken out of the system storage // what needs to be kept for future use identify the problem and its requirements develop an algorithm to solve the problem using structure diagrams, flowcharts or pseudocode detect and fix the errors in the program write and implement the instru cti ons to solve the problem analysis design testing evaluation coding 0478/21 May/June 2023 A",
+          "image": "/papers/computer_science-0478-2023/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) Describe what is meant by data validation. ................................................................................................................................................... ................................................................................................................................................... ............................................",
+      "text": "3 (a) Describe what is meant by data validation. ................................................................................................................................................... ................................................................................................................................................... ............................................",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Describe what is meant by data validation. ................................................................................................................................................... ................................................................................................................................................... ............................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  Validation is an automated check carried out by a computer  ... to make sure the data entered is sensible/acceptable/reasonable",
+          "image": "/papers/computer_science-0478-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each appropriate test data, max three One mark for each correct accompanying reason, max three For example: Normal – 75 Reason – the data lies within the required range and should be accepted Abnormal – Sixty Reason – this is the wrong data type and should be rejected Extreme – 200 Reason – the highest value in the required range that should be accepted 0478/21 May/June 2023 One mark per mark point, max four DIV , max two  To perform integer division  Meaning only the whole number part of the answer is retained  Example of DIV For example DIV(9,4) = 2 ROUND , max two  To return a value rounded to a specified number of digits / decimal places  The result will either be rounded to the next highest or the next lowest value  ... depending on whether the value of the preceding digit is >=5 or <5  Example of ROUND for example, ROUND(4.56, 1) = 4.6 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four  Line 04 / IF Number < 0 should be IF Number > 0  Line 10 / Exit  // Line 01/ Exit  and Line 02 / WHILE Exit <> 0 should be Exit  // should be Exit  and WHILE Exit = 0  Line 13 / ENDIF should be ENDWHILE  Line 14 / OUTPUT \"The total value of your numbers is \", Number should be OUTPUT \"The total value of your numbers is \", Total Correct algorithm: 01 Exit  02 WHILE Exit <> 0 DO 03 INPUT Number 04 IF Number > 0 05 THEN 06 Total  Total + Number 07 ELSE 08 IF Number = 0 09 THEN 10 Exit  11 ENDIF 12 ENDIF 13 ENDWHILE 14 OUTPUT \"The total value of your numbers is \", Total 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four  Initialise a new (counting) variable  ... Count  // to count the acceptable numbers  Insert a counting statement between lines 05 and 07  ... Count  Count + 1  Add a new output after the loop/after line 13 / at the end (of the program)  ... OUTPUT Count One mark for each correct feature, max two One mark for each correct accompanying reason, max two For example: Meaningful identifiers – to enable the programmer (or future pr ogrammers) to easily recognize the purpose of a variable / array / constant // to enable easy tracking of a variable / constant / array through the program Use of comments – to annotate each section of a program so that a programmer can find specific sections / so that the programmer knows the purpose of that section of code Procedures and functions – to make programs modular and easier to update / add functionality 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per correct column, max four Pointer Letter Choice OUTPUT 1 F Letter F is represented by Foxtrot A nother Letter? (Y or N) Y 1 D Letter D is represented by Delta A nother Letter? (Y or N) N 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  The algorithm would not stop  ... because it would not have found the item it was seeking Or  The array would run out of values after the pointer reached 13  the algorithm will crash",
+          "image": "/papers/computer_science-0478-2023/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  Storing string in Phrase  Correct use of LENGTH function  Correct use of UCASE function  Correct outputs of LENGTH and UCASE For example: Phrase  \"The beginning is the most important part\" OUTPUT LENGTH(Phrase) OUTPUT UCASE(Phrase)",
+          "image": "/papers/computer_science-0478-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line, max two 40 THE BEGINNING IS THE MOST IMPORTANT PART 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct gate, with the correct input(s) as shown. 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for eight correct outputs. Three marks for six or seven correct outputs. Two marks for four or five correct outputs. One mark for two or three correct outputs A B C Z 0 0 0 0 0 0 1 1 0 1 0 1 0 1 1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 1 1 0",
+          "image": "/papers/computer_science-0478-2023/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for the correct field name One mark for the correct reason For example: TVCode Each entry in this field is a unique identifie r 0478/21 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two marks for four correct answers. One mark for two or three correct answers. Field Data type TVCode Text ScreenSize Integer SmartTV Boolean Price$ Real",
+          "image": "/papers/computer_science-0478-2023/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct answer ScreenSize Price$ FROM YES Correct code: SELECT TVCode, ScreenSize, Price$ FROM TVRange WHERE SmartTV = YES; 0478/21 May/June 2023 Read the whole answer: Check if each requirement listed below has been met. Requirem ents may be met using a suitable built-in function from the programming language used (Python, VB.NET or Java). On place a SEEN mark if requirement met, cross if no attempt seen, omission mark and/or comment if partially met (see marked scripts). Use the tables for AO2 and AO3 below to award a mark in a suitable band using a best fit approach, then add up the total:  AO2 (maximum 9 marks)  AO3 (maximum 6 marks) Data structures required: The names underlined must match those given in the scenario: Arrays or lists Days[] , Readings[] , AverageTemp[] Variables WeekLoop , DayLoop , InTemp , TotalDayTemp , TotalWeekTemp , AverageWeekTemp Requirements (techniques): R1 Input and store hourly temperatures and validation of input temperatures for each day (with prompts, range check and (nested)iteration) R2 Calculate, round to one decimal place and store daily av erage temperatures and calculate the weekly average temperature rounded to one decimal place (iteration, totalling and rounding) R3 Convert all average temperatures to Fahrenheit (to one decim al place) and output the average temperatures in both Celsius and Fahrenheit. Output with appropriate messages. (output and rounding) 0478/21 May/June 2023 Example 15 mark answer in pseudocode // meaningful identifiers and appropriate data structures for // all data required DECLARE Days : ARRAY[1:7] OF STRING DECLARE Readings : ARRAY[1:7, 1:24] OF REAL DECLARE AverageTemp : ARRAY[1:7] OF REAL DECLARE WeekLoop : INTEGER DECLARE DayLoop : INTEGER DECLARE InTemp : REAL DECLARE TotalDayTemp : REAL DECLARE TotalWeekTemp : REAL DECLARE AverageWeekTemp : REAL // initial population of Days[] array // input and a loop are also acceptable Days[1]  \"Sunday\" Days[2]  \"Monday\" Days[3]  \"Tu",
+          "image": "/papers/computer_science-0478-2023/q10-10c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 15,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

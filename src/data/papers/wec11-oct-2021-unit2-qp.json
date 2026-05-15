@@ -1,0 +1,43 @@
+{
+  "paperId": "wec11-oct-2021-unit2-qp",
+  "pairedMarkSchemeId": "wec11-oct-2021-unit2-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC12/01",
+  "session": "October 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Define the t erm ‘recession’ (Extract A, line 7). (2) (b) With r eference to Figure 2, explain how the CPI inflation rate is calculated. (4) (c) With reference to Figure 3 and Extract A, examine two likely effects on the French economy of the trend in the inflation rate in 2020. (8) (d) With reference to Extract A, analyse the likely effect of France’s trade balance in April 2020 on it",
+      "text": "12 (a) Define the t erm ‘recession’ (Extract A, line 7). (2) (b) With r eference to Figure 2, explain how the CPI inflation rate is calculated. (4) (c) With reference to Figure 3 and Extract A, examine two likely effects on the French economy of the trend in the inflation rate in 2020. (8) (d) With reference to Extract A, analyse the likely effect of France’s trade balance in April 2020 on it",
+      "parts": [
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative Skill Assessed QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms Knowledge, Application and Analysis (8 marks) – indicative content • The ECB’s monetary policy involved keeping interest rates ‘very low’ at - 0.5% and expanding ‘the size of its asset purchase scheme (quantitative easing) by €600 billion in June 2020 and €500 billion in December 2020’. • A very low base interest rate should increase AD as it will: o increase consumption, as it will: ▪ incentivise spending on credit as the cost of borrowing is low ▪ disincentivise saving as the return on/reward for saving is low ▪ increase spending as consumers/firms with variable rate loans /mortgages see their monthly interest repayments fall, raising their discretionary income o increase investment, as the cost of borrowing to finance investment is very low o increase the net trade balance as it will put downward pressure on the euro exchange rate, meaning French exports become relatively cheaper, and imports into France become relatively more expensive • An expansion of the ECB’s asset purchase scheme should: o increase money supply, making banks more able and willing to lend to consumers and firms o reduce the return investors get on French Government bonds, causing investors to hold other assets, such as shares, property and corporate bonds o increase the price of shares and property, creating positive wealth effects in the economy and increasing consumption o reduce the return investors get on French corporate bonds, lowering borrowing costs for French firms, leading to increased investment • Shifting outwards of the AD curve should c",
+          "image": "/papers/wec11-oct-2021/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-oct-2021/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-oct-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2021-unit2-2021-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

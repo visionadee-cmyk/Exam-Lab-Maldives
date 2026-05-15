@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2021-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) The metre rule is clamped in position near to the spring. (i) Write down the scale readings in mm from the metre rule at the top and bottom of the spring, as shown in Fig. 1.1. top reading = ................................................... mm bottom reading = ................................................... mm",
+      "text": "1 (a) The metre rule is clamped in position near to the spring. (i) Write down the scale readings in mm from the metre rule at the top and bottom of the spring, as shown in Fig. 1.1. top reading = ................................................... mm bottom reading = ................................................... mm",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l and l clear and correct e clear and correct 0625/61 October/November 2021 X = 1.2 I X = 0.26 R X = 4.62 units A, V and Ω seen correctly – too different (owtte) Resistors Z and X in parallel and named Voltmeter correctly placed A mmeter correctly placed, correct circuit and all symbols correct.",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2.2 (given to 2 significant figures)",
+          "image": "/papers/physics-0625-2021/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A t least 4 additional values suggested A ll values within 1( Ω ) to 20( Ω ) 0625/61 October/November 2021",
+          "image": "/papers/physics-0625-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Normal at 90 ° Correctly placed lines at 40 ° ± 2° and 70 ° ± 2° Both 7.0 ± 0.2 cm P distance at least 50 mm on AB",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "α ± °",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A t least 3 extra angles suggested Range of at least 30° Difficulty in lining up pins Thickness of mirror Thickness of pins / size of pin holes",
+          "image": "/papers/physics-0625-2021/q3-3e.png"
+        },
+        {
+          "id": "3g",
+          "text": "Part 3g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: Box 2 ticked Box 3 ticked Box 5 ticked 0625/61 October/November 2021 MP1 A pparatus: (stop)watch / clock / time r MP2 Method: Heat water in a container to a specified temperature or to boiling point MP3 Method: Repeat for at least two additional containers MP4 Constant Variable: Volume of wate r MP5 Constant Variable: Starting temperature (of water) OR room temperature OR power of heate r MP6 Table with columns to match their method. If MP2 correc t, this needs type of container and time with unit (s) MP7 Compare times / durations (for the various containers) OR see which takes longer. Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only m ark available in this case is the first (axes right way round and labelled) So maximum 1. If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2021/q3-3g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit6-2021-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

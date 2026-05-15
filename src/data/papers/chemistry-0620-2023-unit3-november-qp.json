@@ -1,0 +1,83 @@
+{
+  "paperId": "chemistry-0620-2023-unit3-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit3-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/31",
+  "session": "October/November 2023",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper(II) chloride Question Answer Marks",
+          "image": "/papers/chemistry-0620-2023/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Fig. 2.1 shows the distillation apparatus that can be used to separate water from aqueous copper( II) sulfate. thermometer distillation flask aqueous copper( II) sulfate condenser wate r heat Fig. 2.1 Explain how distillation separates water from aqueous copper( II) sulfate. ..........................................................................................",
+      "text": "2 (a) Fig. 2.1 shows the distillation apparatus that can be used to separate water from aqueous copper( II) sulfate. thermometer distillation flask aqueous copper( II) sulfate condenser wate r heat Fig. 2.1 Explain how distillation separates water from aqueous copper( II) sulfate. ..........................................................................................",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Fig. 2.1 shows the distillation apparatus that can be used to separate water from aqueous copper( II) sulfate. thermometer distillation flask aqueous copper( II) sulfate condenser wate r heat Fig. 2.1 Explain how distillation separates water from aqueous copper( II) sulfate. ..........................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "water evaporates / boils (but copper(II) sulfate does not) (1) water condenses / turns to liquid in condenser (1) Question Answer Marks October/November 2023 Question Answer Marks O (1) 2 (HCl) (1) (aqueous acidified) potassium manganate ((VII)) (1) turns colourless / decolourised (1) – Question Answer Marks • has a definite volume / fixed volume • takes the shape of its container • flows over a surface / can be poured over a surface B: evaporation / boiling (1) October/November 2023 Question Answer Marks arrangement: irregular / no (particular) arrangement (1) motion: sliding / moving (over each other) (1) bromine gas: arrangement: irregular / no (particular) arrangement (1) motion: fast / rapid / move everywhere (1) Question Answer Marks ) (inclusive of these values) 1 OR bubbles form very rapidly 20 °C is below the melting point / the melting point is above 20 °C (1) loses oxygen 1 October/November 2023 Question Answer Marks by heating / using heat / high temperature (1) 1 mark if one pair reversed Question Answer Marks line levels off above 42 cm (1)",
+          "image": "/papers/chemistry-0620-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iron(II) chloride / iron chloride (1) hydrogen (1) and is unchanged (at the end of the reaction) (1) October/November 2023 Question Answer Marks H O If 2 marks not scored 1 mark for H = (4  1) =4 OR O = (2  16) = 32 decolourises / goes colourless (1) formed form many small molecules / formed from monomers (1) water (1) water (1) Question Answer Marks between oppositely charged ions (1) + / 1+ charge outside brackets (1) October/November 2023 Question Answer Marks electrons: 44 (1) positive electrode: bromine (1) observations: red-brown vapour (1)",
+          "image": "/papers/chemistry-0620-2023/q6-6c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit3-2023-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

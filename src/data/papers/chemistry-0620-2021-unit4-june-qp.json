@@ -1,0 +1,59 @@
+{
+  "paperId": "chemistry-0620-2021-unit4-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit4-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/41",
+  "session": "May/June 2021",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2K + C l → 2KC l C l on left hand side (1) equation fully correct (1)",
+          "image": "/papers/chemistry-0620-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "K outer shell with 8 crosses (1) C l outer shell with 7 dots and 1 cross (1) + and – (1) breakdown by (the passage of) electricity (1) of an ionic compound in molten or aqueous (state) (1) 0620/41 May/June 2021 (cathode)potassium 2H + + 2e( – ) → H H+ and e( – ) on left hand side (1) equation fully correct (1) potassium hydroxide (1)",
+          "image": "/papers/chemistry-0620-2021/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "one shared pair of electrons and 6 non-bonding electrons on each chlorine atom BOTH melting point is below –75 o C AND boiling point is above –75 o C OR BOTH –75 o C is higher than – o C / melting point AND lower than –35 o C / boiling point OR –75 o C is between melting point or – o C and boiling point or – o C ionic bonds in KC l (1) attraction between molecules in C l (1) weak er attraction (between particles) in C l ORA (1) rate of forward reaction equals the rate of the reverse reaction (1) concentrations of reactants and products are constant (1) (increased pressure) nitrogen dioxide particles or molecules (forced) clos er together OR same number of nitrogen dioxide particles or molecules in a small er volume 0620/41 May/June 2021 er number of gas moles or molecules on left hand side or reactant side (of the equation) ORA shifts to the right / faster (1) increase / faste r (1) water (to both salts) (1) dissolve both salts / make solutions (1) filter (lead( II ) iodide)(1) wash (residue of lead( II ) iodide) with water AND dry e.g. with filter paper / description of washing and drying (1) Pb(NO ) + 2 Na I → 2NaNO + Pb I OR Pb 2+ + 2 I – → Pb I (1) glowing splint (1) relights / rekindles (1) ZnO(s) and NO2(g) (1) H2O(g) (1) heat again and weigh again / repeat steps 2 and 3 (1) until mass is constant (1) 0.9 (1) (0.9 ÷ 18 =) 0.05 (1) (0.05 ÷ 0.005 =) 10 (1) 0620/41 May/June 2021 r / calcium silicate any two from: • (coke) releases heat (when it reacts with oxygen or reacts in air) OR (acts as a) fuel OR increases temperature (in the furnace) / heats (the furnace) OR source of energy • (coke or carbon monoxide) reduces iron oxide OR is a reducing agent OR converts iron oxide to iron / removes oxygen from iron oxide • (coke) reacts with oxygen to form carbon monoxide OR reacts with carbon dioxide to form carbon monoxide 2- or S - any two from: • (iron forms) coloured compounds • (iron has) variable oxidation states • (iron acts as a) catalyst any two from: • (iron ",
+          "image": "/papers/chemistry-0620-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit4-2021-06-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2018-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) Carry out the following instructions, referring to Fig. 2.1. • Connect the crocodile clip C to the free end of the resistance wire. • Switch on. Adjust the position of the crocodile clip C until the current shown on the ammeter is as near to 0.40 A as possible. • Measure, and record in Table 2.1, the poten",
+      "text": "1 (a) Carry out the following instructions, referring to Fig. 2.1. • Connect the crocodile clip C to the free end of the resistance wire. • Switch on. Adjust the position of the crocodile clip C until the current shown on the ammeter is as near to 0.40 A as possible. • Measure, and record in Table 2.1, the poten",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficult to measure irregular dimensions / owtte repeat (in several places for each dimension and take averages)",
+          "image": "/papers/physics-0625-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value for W",
+          "image": "/papers/physics-0625-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ρ in range 1.3 to 2.3 unit g / cm",
+          "image": "/papers/physics-0625-2018/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V > V",
+          "image": "/papers/physics-0625-2018/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line of sight perpendicular; read to bottom of meniscus. ρ within 10% of ρ suggestion supported by valid reason e.g. ρ as volume is measured directly; ρ as measuring cylinder is less precise; string adds to volume displaced. 0625/53 October/November 2018",
+          "image": "/papers/physics-0625-2018/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V values all increasing V all < 3.00 V and to at least 1 dp axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to ½ small square and precise plots well-judged line and thin line G present and triangle method seen on graph l in range 10 to 20 (cm) R in range 0.05 to 0.11 / 3 sig figs and unit = Ω or Ω / cm one from: use smaller current / potential difference; use wire with greater resistance; open switch / switch off circuit in between readings. 0625/53 October/November 2018",
+          "image": "/papers/physics-0625-2018/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "α = 20 ° ± °",
+          "image": "/papers/physics-0625-2018/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P P pin separations ⩾ 5.0 cm line in correct place and neat θ = 40 ° ± °",
+          "image": "/papers/physics-0625-2018/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results including qualitative justif ication (e.g. ‘within limits of experimental accuracy’ / owtte) justification that makes use of the data to support statement two suitable precautions: pins upright / view pins at base; thin pins; thin lines / sharp pencil; large pin separations; ensure mirrored surface lies along drawn line. 0625/53 October/November 2018 MP1 Apparatus thermometer AND stopwatch / (stop)clock / timer MP2 Diagram workable arrangement MP3 Method hot water in beaker and cold water in test-tube AND measure (start and) end temperatures in test-tube AND over measured time MP4 Method repeat for different metals MP5 Comparison calculation of (rate of) temperature rise / heating curves for different metals MP6 and MP7 Precautions Any two from: same start temperatures (of hot / cold water); same duration of experiment; same volume of cold water (being heated); repeat experiment and take average (of calculated values); use of insulation; stir (cold) water; heat to keep water in beaker at constant temperature.",
+          "image": "/papers/physics-0625-2018/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit5-2018-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

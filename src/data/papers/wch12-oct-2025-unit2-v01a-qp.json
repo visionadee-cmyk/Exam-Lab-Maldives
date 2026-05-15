@@ -1,0 +1,81 @@
+{
+  "paperId": "wch12-oct-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wch12-oct-2025-unit2-v01a-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH12/01A",
+  "session": "October 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • correct completion of top 2 boxes of Hess cycle • correct completion of bottom box of Hess cycle • inclusion of multiples of 2 for ∆ r H o [CH COOH(l)] and ∆ r H o [CH COONH (s)] • evidence of correct manipulation of Hess cycle to find ∆ r H o (products − reactants) • calculation of final answer (1) (1) (1) (1) (1) Penalise omission/incorrect state symbols once only in M1 and M2 Allow H CO (aq) for H O(l) and CO (g) Example of calculation (2 x –586.3) and (2 x −484.5) Do not award if multiples applied to other enthalpy changes ∆ r H o = [((2x–586.3) + (−285.8) + (−393.5))] – [(2x–484.5) + (−939.9)] ∆ r H o = (+) 57 (kJ mol −1 ) Correct answer with no working scores M3, M4 and M5 −57( kJ mol −1 ) scores M3 and M5 (+)158.8 (kJ mol −1 ) scores M4 and M5 −158.8 (kJ mol −1 ) scores M5 Units if given must be correct. No TE from an incorrect Hess cycle but allow TE from M3 (5) Number Additional Guidance Mark",
+          "image": "/papers/wch12-oct-2025/q18-18b.png"
+        },
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: Either • calculation of mass of ammonium carbonate in 1 dm of solution • calculation of concentration of solution or • calculation of moles of ammonium carbonate • calculation of concentration of solution (1) (1) (1) (1) Example of calculation m = (3.60 x 5=) 18.0 (g) c = (18 ÷ 96 =) 0.1875 (mol dm −3 ) n = (3.60 ÷ 96 =) 0.0375 (mol) c = (0.0375 ÷ 0.200 =) 0.1875 (mol dm −3 ) Correct answer with no working scores (2) TE from M1 to M2 Ignore SF except 1SF (2) (Total for Question 18 = 12 marks) Number Additional Guidance Mark • correct skeletal formulae • correct names • correct classifications (1) (1) (1) Accept rows in any order Example of table Skeletal formula Name Classification Propan-1-ol Primary / 1 o Propan-2-ol Secondary /2 o Ignore bond angles, bond lengths Allow (1) for one correct row if no other mark awarded Do not award propanol for propan-1-ol Do not award propane-1-ol or propane-2-ol Do not award prop-1-ol or prop-2-ol Classification is dependent on correct name or formula or near miss (3) Number Additional Guidance Mark • species • balancing (1) (1) Example of equation Cr O 2― + 14H + + 6e ― → 2Cr 3+ +7H O M2 dependent on M1 Ignore state symbols even if incorrect (2) Number Additional Guidance Mark • any ethanal (that evaporates) is condensed back into the flask to be further oxidised (to ethanoic acid) Allow any indication that a liquid is returning to the flask / mixture Ignore just (reflux) prevents any ethanal vapour from escaping Ignore any reference to ethanol (1) Number Additional Guidance Mark • (bp1) diagram showing two ethanol molecules correctly aligned • (bp 2) (with) a stated bond angle of ~180 o • (bp 3) hydrogen bond shown as hash or dotted line drawn between H of OH and O of a separate OH only • (bp4) lone pair on relevant O atom correctly aligned with the hydrogen bond • (bp5) dipole on the two atoms involved in the hydrogen bond (showing both δ+ and δ−) • (bp6) dipole on the tw",
+          "image": "/papers/wch12-oct-2025/q18-18c.png"
+        }
+      ],
+      "image": "/papers/wch12-oct-2025/page-18.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch12-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit2-2025-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wch12-oct-2025/page-01.png",
+      "/papers/wch12-oct-2025/page-02.png",
+      "/papers/wch12-oct-2025/page-03.png",
+      "/papers/wch12-oct-2025/page-04.png",
+      "/papers/wch12-oct-2025/page-05.png",
+      "/papers/wch12-oct-2025/page-06.png",
+      "/papers/wch12-oct-2025/page-07.png",
+      "/papers/wch12-oct-2025/page-08.png",
+      "/papers/wch12-oct-2025/page-09.png",
+      "/papers/wch12-oct-2025/page-10.png",
+      "/papers/wch12-oct-2025/page-11.png",
+      "/papers/wch12-oct-2025/page-12.png",
+      "/papers/wch12-oct-2025/page-13.png",
+      "/papers/wch12-oct-2025/page-14.png",
+      "/papers/wch12-oct-2025/page-15.png",
+      "/papers/wch12-oct-2025/page-16.png",
+      "/papers/wch12-oct-2025/page-17.png",
+      "/papers/wch12-oct-2025/page-18.png",
+      "/papers/wch12-oct-2025/page-19.png",
+      "/papers/wch12-oct-2025/page-20.png",
+      "/papers/wch12-oct-2025/page-21.png",
+      "/papers/wch12-oct-2025/page-22.png",
+      "/papers/wch12-oct-2025/page-23.png",
+      "/papers/wch12-oct-2025/page-24.png",
+      "/papers/wch12-oct-2025/page-25.png",
+      "/papers/wch12-oct-2025/page-26.png",
+      "/papers/wch12-oct-2025/page-27.png",
+      "/papers/wch12-oct-2025/page-28.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

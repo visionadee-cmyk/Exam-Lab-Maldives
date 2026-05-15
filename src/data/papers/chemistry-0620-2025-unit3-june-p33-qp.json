@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2025-unit3-june-p33-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit3-june-p33-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/33",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "filtration / filter (off the excess magnesium oxide) evaporate to point of crystallisation OR evaporate until saturated solution is formed OR heat until crystals just appear dry with (filter) paper electrolyte labelled (1) negative electrode: cobalt (1) low melting point (1) does not conduct electricity (when molten) (1) May/June 2025 Question Answer Marks reactants on left hand line and products on right hand line on the graph (1) Question Answer Marks chlorination / adding chlorine (1) observations: white to blue / blue to pink (1) oxides of nitrogen: acid rain / photochemical smog / respiratory problems (1) May/June 2025 Question Answer Marks • increase the concentration (of the acid) • add a catalyst • increase (surface) area of metal / smaller pieces of metal ̅ • malleable • ductile • good electrical conductor • high melting point / high boiling point",
+          "image": "/papers/chemistry-0620-2025/q5-5b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit3-2025-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

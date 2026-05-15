@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2017-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2017-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Place the metre rule on the pivot and adjust its position so that the metre rule is as near as possible to being balanced. The 30.0 cm mark must be on the left-hand side of the pivot. The metre rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that its centre is exactly at the 30.0 cm",
+      "text": "1 (a) Place the metre rule on the pivot and adjust its position so that the metre rule is as near as possible to being balanced. The 30.0 cm mark must be on the left-hand side of the pivot. The metre rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that its centre is exactly at the 30.0 cm",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Place the metre rule on the pivot and adjust its position so that the metre rule is as near as possible to being balanced. The 30.0 cm mark must be on the left-hand side of the pivot. The metre rule must remain at this position on the pivot throughout the experiment. Place the load P on the metre rule so that its centre is exactly at the 30.0 cm",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a = 19 – 21 Q values 1.(0), 2.(0), 3.(0), 4.(0), 5.(0) b values all less than 50 cm and decreasing / Q values 1.(0), 0.5(0), 0.33(3), 0.25, 0.2(0) Axes correctly labelled Suitable scales All plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2017/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Triangle method clearly shown on graph At least half line used for triangle method and G recorded",
+          "image": "/papers/physics-0625-2017/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P correct calculation of G / a and in range 1.8 – 2.0 0625/51 October/Novembe r V to at least 1 dp and < 3 V I to at least 2dp and < 1 A R correct New values of V and I and R correct AND 2 × R ± 10% New values of V and I with I < I R present and V , I , R units seen at least once and not contradicted",
+          "image": "/papers/physics-0625-2017/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement to match readings AND Justification to include the idea of within (or beyond, ecf) the limits of experimental accuracy",
+          "image": "/papers/physics-0625-2017/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Determine each resistance in turn",
+          "image": "/papers/physics-0625-2017/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three resistors in parallel, voltmeter in parallel with resistors and correct symbols for voltmeter and resistors Variable resistor in series, correct symbol in a workable circuit",
+          "image": "/papers/physics-0625-2017/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Repeat with different currents 0625/51 October/Novembe r",
+          "image": "/papers/physics-0625-2017/q2-2g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table: v = in range 45 – 80 uv correct D = u + v ± cm",
+          "image": "/papers/physics-0625-2017/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "v = in range 25 – 35 D = u + v ± cm Different size / Different brightness Sharpness / clearness / coloured edges f values both rounding to 14 – 16 (cm) f A correct 2 or 3 significant figures two from: Difficulty deciding exact position of sharpest image Difficulty measuring to centre of lens Product uv increases problem Image edges blurred / not clear Insufficient sets of results 0625/51 October/Novembe r MP1 Stopwatch (or equivalent) AND (metre) rule / ruler MP2 Measure time for 5 (+) oscillations MP3 Divide by number of oscillations to find period ( T ) MP4 Repeat for each bob MP5 Variable; one from: Initial amplitude / starting position Length of pendulum / thread Number of oscillations MP6 Table with column headings for t , or period ( T ), or both AND d , with correct units MP7 Conclusion: Plot graph(s) of d against period ( T ) or t (or vice versa) OR compare period ( T ) or t values for different diameters",
+          "image": "/papers/physics-0625-2017/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2017-unit5-2017-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

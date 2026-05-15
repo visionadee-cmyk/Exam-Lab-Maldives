@@ -1,0 +1,199 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 13,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point MP1 length check ... MP2 ... to ensure the product code entered is 6 characters in length MP3 format check ... MP4 ... to ensure the first two characters of the product code entered are “PD” MP5 range check ... MP6 ... to ensure that the value of the last four figures of the product code entered is between 1000 and 9999 One mark for correct use of LENGTH operation, one mark for appropriate test Example: REPEAT INPUT Product UNTIL LENGTH(Product) = 6 One mark for correct use of SUBSTRING operation, one mark for appropriate test Example: REPEAT INPUT Product UNTIL SUBSTRING(Product, 1, 2) = \"PD\" 0478/22 May/June 2024 One mark for each description, one mark for each example  arithmetic – used in calculations (1) A  B + C (1)  Boolean – used for operations with true or false values (1) IF B AND C (1)  logical – used in comparisons/condit ional statements/selection statements (1) IF B > C (1)",
+          "image": "/papers/computer_science-0478-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for: MP1 adding current value to total One mark for each point max three . MP2 input more than one number MP3 setting total to zero before loop MP4 correct use of loop including terminal condition MP5 output total after loop Example: Total  INPUT Value WHILE Value <> 9999.9 Total  Total + Value INPUT Value ENDWHILE OUTPUT Total Value  Total  REPEAT Total  Total + Value INPUT Value UNTIL Value = 9999.9 OUTPUT Total 0478/22 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point MP1 adding one to counter MP2 correct use of selection, if current value > 100 THEN ... ENDIF One mark for each point, max two MP3 input more than one number MP4 setting counter to zero before loop MP5 correct use of loop including terminal condition MP6 output value of counter after loop Example: Counter  INPUT Value WHILE Value <> 9999.9 IF Value > 100 THEN Counter  Counter + 1 ENDIF INPUT Value ENDWHILE OUTPUT Counter",
+          "image": "/papers/computer_science-0478-2024/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "01 // // // ( ) and/or ( ) 0478/22 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each error identified and corrected Line 04 < should be > Line 08 Count should be Counter Line 11 ENDWHILE should be ENDIF 01 Max  List[1] 02 Min  List[1] 03 FOR Counter  2 TO 1000 04 IF List[Counter] > Max 05 THEN 06 Max  List[Counter] 07 ENDIF 08 IF List[ Counter ] < Min 09 THEN 10 Min  List[Counter] ENDIF 12 NEXT Counter 13 OUTPUT \"Maximum value is \", Max 14 OUTPUT \"Minimum value is \", Min",
+          "image": "/papers/computer_science-0478-2024/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "X = 1 mark (A AND B) // A AND B 1 mark AND NOT C 1 mark X = (A AND B) AND NOT C 0478/22 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6/7 correct outputs Two marks for 4/5 correct outputs One mark for 2/3 correct outputs A B C X 0478/22 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each of columns A , B and T Two marks for columns List[1] to List[5] all entries correct or One mark for columns List[1] to List[5] with one error A B List[1] List[2] List[3] List[4] List[5] T FALSE 1 17 15 15 TRUE 2 20 15 15 TRUE 3 TRUE 4 9 5 5 FALSE 1 20 17 17 TRUE 2 3 4 5 FALSE 1 2 3 4 5 0478/22 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point MP1 (bubble) sort data in array MP2 in descending orde r",
+          "image": "/papers/computer_science-0478-2024/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ContractNumber",
+          "image": "/papers/computer_science-0478-2024/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for every two correct data types Field Data type ContractNumber text/alphanumeric Months intege r EndDate date/time Sport Boolean",
+          "image": "/papers/computer_science-0478-2024/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each point MP1 to find the total number of months for all contracts MP2 to find the number of contracts MP3 ... that are subscribed to News",
+          "image": "/papers/computer_science-0478-2024/q10-10c.png"
+        },
+        {
+          "id": "10d",
+          "text": "Part 10d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ContractNumber News AND Sport // Sport AND News Example answer: SELECT ContractNumber FROM Contract WHERE News // News = TRUE AND Sport // Sport = TRUE; 0478/22 May/June 2024 Data Structures required with names as given in the scenario: Arrays or lists Grid Requirements (techniques) R1 Set up game – generate random cell, clear all other cells in array, set player start position and start player moves counter (iteration, use of arrays and library routines (round and random)) R2 Input and check move – is it valid? (input, output, iteration and selection) R3 Decide outcome – has move found the X? If so, give appropriate output. If not increment counter and continue. If 10 moves exceeded, give appropriate output (use of arrays, iteration, selection and output). Example 15-mark answer in pseudocode // Set up game FOR Row  1 TO 5 FOR Column  1 TO 5 Grid[Row, Column]  ''// set grid cells to be empty NEXT Column NEXT Row 0478/22 May/June 2024 REPEAT // not in cell 1,1 XRow  ROUND ((RANDOM() * 4) + 1, 0) // Random row position between 1 and 5 in GRID XColumn  ROUND ((RANDOM() * 4) + 1, 0) // Random column position between 1 and 5 in GRID UNTIL XRow <> 1 and XColumn <> 1 // not in cell 1,1 Grid [XRow, XColumn]  'X' MaxMove  NumberMoves  PlayerRow  PlayerColumn  Win  FALSE // during game WHILE NumberMoves < MaxMove AND NOT Win MoveError  FALSE OUTPUT \"Please enter your move, L – Left, R – Right, U – Up or D - Down\" INPUT UPPER(PlayerMove) REPEAT CASE OF PlayerMove 'L' : TempColumn  PlayerColumn – 1 'R' : TempColumn  PlayerColumn + 1 'U' : TempRow  PlayerRow – 1 'D' : TempRow  PlayerRow + 1 OTHERWISE MoveError  TRUE ENDCASE // check for out-of-range moves IF TempColumn < 1 or TempColumn > 5 THEN MoveError  TRUE ELSE PlayerColumn  TempColumn ENDIF 0478/22 May/June 2024 IF TempRow < 1 or TempRow > 5 THEN MoveError  TRUE ELSE PlayerRow  TempRow ENDIF // check win if X Found IF Grid [PlayerRow, PlayerColumn] = 'X' THEN OUTPUT \"You Win\" Win  TRUE ELSE IF NOT Mo",
+          "image": "/papers/computer_science-0478-2024/q10-10d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 13,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

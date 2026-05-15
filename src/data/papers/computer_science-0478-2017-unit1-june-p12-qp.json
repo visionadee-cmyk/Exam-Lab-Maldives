@@ -1,0 +1,57 @@
+{
+  "paperId": "computer_science-0478-2017-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2017",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 or 7 correct outputs 2 marks for 4 or 5 correct outputs 1 mark for 2 or 3 correct outputs A B C X 0 0 0 0 0 0 1 0 0 1 0 1 0 1 1 0 1 0 0 0 1 0 1 0 1 1 0 1 1 1 1 1 0478/12 May/June 2017 Question Answer Marks 11 Seven from: Requested • a web browser is used • user enters the URL / web address (into the address bar) // clicks a link containing the web address // clicks an element of the webpage • the URL / web address specifies the protocol • protocols used are Hyper Text Transfer Protocol (HTTP) / Hyper Text Transfer Protocol Secure (HTTPS) Sent • the URL / web address contains the domain name • the Internet Service Provider (ISP) looks up the IP address of the company • the domain name is used to look up the IP address of the company • the domain name server (DNS) stores an index of domain names and IP addresses • web browser sends a request to the web server / IP address Received • Data for the website is stored on the company’s web server • webserver sends the data for the website back to the web browser • web server uses the customer’s IP address to return the data • the data is transferred into Hyper Text Mark-up Language (HTML) • HTML is interpreted by the web browser (to display the website)",
+          "image": "/papers/computer_science-0478-2017/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/page-10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit1-2017-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2017/page-01.png",
+      "/papers/computer_science-0478-2017/page-02.png",
+      "/papers/computer_science-0478-2017/page-03.png",
+      "/papers/computer_science-0478-2017/page-04.png",
+      "/papers/computer_science-0478-2017/page-05.png",
+      "/papers/computer_science-0478-2017/page-06.png",
+      "/papers/computer_science-0478-2017/page-07.png",
+      "/papers/computer_science-0478-2017/page-08.png",
+      "/papers/computer_science-0478-2017/page-09.png",
+      "/papers/computer_science-0478-2017/page-10.png",
+      "/papers/computer_science-0478-2017/page-11.png",
+      "/papers/computer_science-0478-2017/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

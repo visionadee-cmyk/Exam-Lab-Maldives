@@ -1,0 +1,159 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "16 bits used to represent each colour in the image",
+          "image": "/papers/computer_science-0478-2024/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The file size will decrease One mark for each correct nibble, in the correct order. 1010 0010 1111 One mark for each correct character, in the correct order. 1 9 B one from:  It is easier/quicker to read/understand/debug  It is a shorter representation of binary // It takes up less screen space 0478/13 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: Example:  HTML colour codes  URL  Memory dump  IP address  MAC address  Assembly language  Error codes/messages  ASCII/Unicode",
+          "image": "/papers/computer_science-0478-2024/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct working: Example: flip and add One mark for correct answer. 0478/13 May/June 2024 One mark for each correct type of storage. type of secondary storage statement optical Pits and lands are created on a reflective surface. solid-state NAND or NOR technology is used. magnetic Platters are spun that are divided into tracks and sectors. magnetic Electromagnets are used to read and write data. solid-state Transistors are used as control gates and floating gates. optical A red or blue laser is used to read and write data.",
+          "image": "/papers/computer_science-0478-2024/q3-3e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "It is directly accessible by the CPU 0478/13 May/June 2024 microphone keyboard two from: Example:  Data can be collected without human intervention  Gathers data faster than a human  It will be accurate at taking readings  It can take readings continuously (24/7)  It can take readings in dangerous environments",
+          "image": "/papers/computer_science-0478-2024/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each use ( Max 1 ) per sensor: Example: Temperature  Checking whether the water in a kettle is boiling  Monitoring the temperature in a room that is climate controlled Humidity  Checking whether the air is dry enough in a spray-painting garage  Checking whether the air is moist enough in a greenhouse Infra-red  Detecting motion in a room for a security system  Detecting whether a person is approaching automatic doors Magnetic field  Counting vehicles that cross a bridge  Monitoring vehicles that enter a car park 0478/13 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct part of the diagram. The diagram shows:  Bits beings sent one at a time  Bits being sent over a single wire  Data can be sent to and from the web server/network component/computers ...  ... not at the same time For example: two from:  Bits will not be skewed // Bits are sent in order  Less chance of error  Less crosstalk/interference  Data can be sent over a long distance (if needed)  It is possible to download and upload data to the web server  Higher bandwidth than full duplex one from:  The transmission of data may be relatively slow  Data cannot be sent and received at the same time  May be more data collisions computer web server 1 0 1 1 0 0 1 A single wire is used to send data one bit at a time . Data can be sent to and from the web server, but not at the same time . 0478/13 May/June 2024 Any three from:  DDoS // DoS  Hacking  Malware // by example  Brute-force attack NOTE: three different examples of malware can be awarded. two from:  Can limit the number of requests sent to the web server at a time  Can process common requests that will not need to enter the network  Act as a firewall  Examine incoming data to the webserver/network  Can have set rules/criteria for data to meet  Can have a blacklist/whitelist/list of IP addresses to block  Blocks traffic that doesn’t meet criteria  Closing certain ports six from:  The users type the URL into the address bar/web browser  The web browser sends the URL to the DNS  The DNS searches for the matching IP address  The DNS returns the IP address to the web browser  If the DNS cannot find the IP address it sends the URL to the next DNS  The web browser sends a request to the IP address/web server  The web server sends the data for the web page to the web browser  The web browser renders the HTML data to display the web page 0478/13 May/June 2024 To run the fetch – decode – execute cycle one from:  To temporarily store data/instruction/address  To allow immedi",
+          "image": "/papers/computer_science-0478-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct term in the correct place.  printer  computer  priority level  fetch–decode–execute cycle  interrupt queue  higher  interrupt service routine (ISR)  Memory management  Multitasking",
+          "image": "/papers/computer_science-0478-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

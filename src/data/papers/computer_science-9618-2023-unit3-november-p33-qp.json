@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2023-unit3-november-p33-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit3-november-p33-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/33",
+  "session": "October/November 2023",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "X = tomaz, pietre, nico October/November Question Answer Marks • student(N) • subject(S) • choice1(N, S) • all logical operators correct with no additional code (see example answers) Example answers: may_choose_subject(N, S) IF student(N) AND subject(S) AND NOT choice1(N, S) may_choose_subject(N, S) IF NOT choice1(N, S), student(N), subject(S) Question Answer Marks 12 One mark per mark point (Max 4) MP1 An artificial neural network is the component of artificial intelligence that is meant to simulate the functioning of a biological brain. MP2 Artificial neural networks are a key component of machine learning. MP3 They can solve problems that would prove impossible or difficult for humans // Artificial neural networks have self-learning capabilities that enable them to produce better results as more data becomes available MP4 Artificial neural networks can be layered (input, hidden and output layers) // Artificial neural networks have many interconnected layers, some / many of which are hidden MP5 Weights are assigned between nodes MP6 Weights are adjusted through training to give a more accurate result MP7 More complex learning capabilities / more accurate results are available with larger numbers of hidden layers",
+          "image": "/papers/computer_science-9618-2023/q11-11b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit3-2023-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

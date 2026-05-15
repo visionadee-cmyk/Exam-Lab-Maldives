@@ -1,0 +1,218 @@
+{
+  "paperId": "wme01-oct-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wme01-oct-2025-unit2-v01a-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01A",
+  "session": "October 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Form an equation to find v p . Either Form a dimensionally correct impulse-momentum equation for P (using 2m and 4u). Must attempt difference in momenta. M0 if g’s are included on RHS. Condone sign errors. Or Form a dimensionally correct CLM equation in v p (m and u) only. Allow consistent extra g’s and cancelled m’s and sign errors but masses and velocities must be correctly paired. Condone sign errors. A1 A correct unsimplified equation in v p (m and u) only CLM: 2 (4 ) 3 ( ) 2 ( ) 3 (1.2 ) p mumumvmu + − = + A1 Correct answer, both speed and direction. Direction must be stated, not just seen on a diagram. For direction, accept E (or ‘unchanged’, ‘same’ or ‘continues in its original direction’ or ‘towards Q’). A0 if only ‘to the right’ or ‘positive direction’",
+          "image": "/papers/wme01-oct-2025/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Form an equation to find v q . Either Form a dimensionally correct impulse-momentum equation for Q (using 3m and u). Must attempt difference in momenta. M0 if g’s are included on RHS. Condone sign errors. Or Form a dimensionally correct CLM equation in v q (m and u) only. Allow consistent extra g’s and cancelled m’s and sign errors but masses and velocities must be correctly paired. A1 Correct unsimplified equation in v q (m and u) only CLM: 2 (4 ) 3 ( ) 2 (0.7 ) 3 ( ) q mumumumv + − = + A1 Correct answer, both speed and direction. Direction must be stated, not just seen on a diagram. For direction, accept E (or ‘reverses direction’ or ‘opposite direction’ or ‘in the original direction of P’, ‘away from P’) A0 if only ‘to the right’ or ‘positive direction’ or ‘changed direction’ Number Scheme Marks (a) (i) Form an equation to solve for R C M1 Relevant equations M(D): ()()() 31 32 45 2 C Rggg+  =  +  Vert: CD RRggg + = + + M(C): ()()() 32 21 44 3 D Rggg+  =  +  M(A): ( ) ( ) 3 4 6 3 CD RRgg + =  +  M(B): ( ) ( ) 3 4 6 2 CD RRgg + =  +  M(G): ( ) ( ) 3 3 3 2 CD RgRg +  = +  A1 C R = (N) A1 (ii) Form an equation to solve for R D M1 Correct equation A1 39 or 39.2 D R = (N) A1 (6) (b) Moments equation in x with new Reaction forces M1 M(B): ()() 413 46 2 CD RRgg+ =  +  M(D): ( ) ( ) ( ) 2 4 5 2 C Rxggg +  =  +  M(C): ( ) ( ) ( ) 2 2 1 4 D Rggxg +  =  +  M(A): ()() 253 46 CD RRgxg+ =  +  M(G): ()() 1323 2 CD RxgRg+  = +  A1 Complete method to find x using CD RR= dM1 x = 3.6 A1 (4) [10] Notes (i) M1 Form a relevant equation in R C . Dimensionally correct and the correct number of terms. A consistent missing g or including m with every mass term is an A error. If solving simultaneous equation in R C and R D , mark the first equation seen. If more than 2 equations are written, mark the ones used. A1 Correct unsimplified equation A1 Correct reaction at C seen in part (a), accept 5g. (ii) M1 Form a relevant equation in R D . Dimensionally correct and ",
+          "image": "/papers/wme01-oct-2025/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Form a moments equation in x and R. Condone re-using notation R C and R D M0 if a previous R value is used. If more than one moments equation is used, award this mark for their best equation. A1 Correct unsimplified moments equation. If more than one moments equation is used, award this mark for their best equation. dM1 Dependent on previous method mark. Dimensionally correct equation with the correct terms. Complete method to find x. Must use R C = R D and a second equation. The second equation may be another moments equation or vertical equilibrium. Vert: CD RRggxg + = + + A1 Correct answer oe, accept SC: In part (b) max mark M1A1 dM1A1 if there is a complete method with a consistent missing g in both equations or for including m with every mass term in both equations. Number Scheme Marks",
+          "image": "/papers/wme01-oct-2025/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Find the resultant force (F +F ) and collect terms in the form R = ai + bj. May be implied by the components () 2p+ and ( ) q − used correctly in working. M1 Use the parallel vector to form a scalar equation in p and q only. For the method mark, condone the reciprocal, p q + = − . Note: If using the multiplier approach, the mark is awarded when the equation is reduced to p and q only. However, M0 if 1= 3 2(2) p qp q   +=   − = +  −=  A1 Correct equation in p and q only (accept any equivalent form) Number Scheme Marks dM1 Dependent on both previous method marks. Complete and correct method to obtain given answer. A1* Obtain the given answer from complete and correct working with no errors and exact values. There must be at least one stage of working between the initial equation in p and q only and the given answer. Allow rearrangement but must equal zero. A0 for unconventional vector notation, eg () () () () p q + = −+ ii jj",
+          "image": "/papers/wme01-oct-2025/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Correct value seen M1 Use p or their p with q = 11 to find the resultant force as a vector. Must sum the forces. M0 if weight is included with resultant force. M1 Correct use of N2L with their R or |R|, must attempt (F ± F ) only. Condone g in ma or ma term but M0 if weight is included with the resultant force. Allow with p or their p. M1 Correct use of Pythagoras (must involve square and add) to find the magnitude of their acceleration or the magnitude of their resultant force. Must have two non-zero components. M0 if using just |F | or |F |. Allow with p or their p. A1 Correct answer from correct working. Accept any equivalent form eg Number Scheme Marks",
+          "image": "/papers/wme01-oct-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use of suvat to form relevant equation(s) to solve for h A1 Correct answer, must be positive and a decimal.",
+          "image": "/papers/wme01-oct-2025/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use CLM to find the speed of the blocks after impact. Dimensionally correct equation. Must have a common velocity after impact. A1 Correct unsimplified equation in one unknown M1 Correct use of suvat to form an equation in a only. Allow a . Allow with their v for the method mark where v is a calculated value from CLM. Condone use of 12 or 1.2 instead of 0.12. M0 if using u = 7. A1 Correct unsimplified equation in a only M1 Correct use of N2L to form an equation in R. Allow with a or their calculated a for the method mark but M0 if ag = A1 Correct unsimplified equation in R only. A1 Correct answer. Must be positive with 2sf or 3sf. A0 if g = 9.81 is used unless already penalised in this question. (b) ALT1 Note: You may see an energy approach for last 5 marks (WME02 candidate). M1 M1 Energy equation with all required terms present and no extra. Each term must have the correct structure. Condone sign errors and 12. KE + GPE = work done (10.5)6(10.5) (0.12) 0.12 gR+= A1 Correct equation with at most one error Correct equation A1 A1 1680 or 1700 , correct answer, 2 or 3 sf Number Scheme Marks 5 (a) Correct use of suvat to form an equation in a only. M1 0.75 0 (0.5) a =+ A1 (a = ) 6 A1 Correct use of N2L for Q M1 0.5 sin 0.5 gTa  −= A1ft (T =) 0.92 (N) A1 (6) 5 (b) 0.1 Rg = B1 Correct use of N2L with P M1 Either P: 0.1(6) TF −= Or system: 0.5 sin (0.5 0.1)(6) gF  − = + A1 Use of FR  = for P,   their R M1 0.327 or 0.33  = A1 (5) [11] Notes Note: only penalise use of 9.81 once per whole question, only penalise over/under accuracy once per whole question. 5 (a) M1 Use of suvat to form sufficient equation(s) to form an equation in a only. If using more than one equation, award the method mark when an equation in a only has been reached. A1 Correct equation in a only A1 Correct acceleration M1 Correct use of N2L for Q to form an equation in T (and a). There is no need to substitute for the trig value or acceleration but M0 if a = g. Dimensionally correct and correc",
+          "image": "/papers/wme01-oct-2025/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Note: If both surfaces are assumed to be rough, max possible mark B1 M0A0 M1A0 B1 Correct expression for R for P seen or implied M1 Use of N2L horizontally for P or for the whole system (indicated by the mass in the ma term). No need to replace T or a but M0 if a = g. If the equation is seen in earlier working, it must be used in (b) to earn the marks here. Dimensionally correct and correct terms. Condone sin/cos confusion and sign errors. Including m with every mass term or g in the ma term is an A error. A1 Correct unsimplified equation. (Allow with their tension from part (a) if using N2L for P only) M1 Use of FR  = . Must be used with their R for P, not simply stated as a formula. A1 μ = 0.327 or 0.33 Must be a decimal with 2 or 3sf. Number Scheme Marks 6 (a) Use of sin or cos  == or  = or better B1 Vert equilibrium at B M1 sin AB Tg  = A1 ( ) 49 N AB T = A1 (4)",
+          "image": "/papers/wme01-oct-2025/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Method to form an equation in T BC (and ) using equilibrium at B. Trig does not need to be replaced. Condone re-using the letter T in an equation but M0 if clearly assuming the same tension value in different sections of the string. Including m with a numerical mass term is an A error. Dimensionally correct and condone sin/cos confusion. A1 Correct unsimplified equation, trig does not need to be replaced. A1 Correct answer, accept 4g.",
+          "image": "/papers/wme01-oct-2025/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Method to form a dimensionally correct equation in T CD using equilibrium at C or the whole system. Trig and tensions do not need to be replaced. If more equations are listed, mark the two that are used. Relevant equations may be seen in earlier working but must be used here to earn the mark. Condone re-using the letter T in an equation. SC: Note that T CD =101.92. If the answer to part (b) is 102 (or better) and then 102 is used correctly in (c) then all marks are available in part (c). A1 At least one correct unsimplified equation. Trig and tensions do not need to be replaced. A1 Two correct equations. Trig and tensions do not need to be replaced. dM1 Dependent on previous method mark to form an equation in M only. Must use at least one valid equation but dM0 if T CD = T AB (eg use T CD = 49) A1 Correct answer, accept 9.60 and since g cancels. Number Scheme Marks",
+          "image": "/papers/wme01-oct-2025/q6-6c.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 (trap) B1 (triangle with 2 inters.) B1 all figs (3) For example, area of trapezium or half trapezium or suvat • ( ) 180 120 20 + • ( ) 90 60 20 + A1 Combining with train B, complete method to find the acceleration M1 For example, area of triangle or half area of triangle or suvat • \"1500\" (90 ) V VVa =   =  = • \"3000\"(180) V VVa=  = = • \"1500\" a = A1 ft ( ) , 0.37 a = or better A1 (5) \" \" \" 30\" at = A1 ft 54 ( ) ts = or 126 ( ) ts = A1 54 ( )ts= and 126 ( )ts= A1 (4)",
+          "image": "/papers/wme01-oct-2025/q7-7a.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Method to find the maximum speed of train B. This may appear on a graph or in earlier working. It must be used in part (d) to earn the mark here. M1 Method to find the distance travelled by train B in the ‘extra’ 6 seconds Note: the method to find the area of the additional trapezium leads straight to the final answer 1 40 100     +=         The final 4 marks are all available. A1 Correct distance, accept rounded values in their working eg ( ) 1 100 6 or 33.3 31.1 6  ++   dM1 Dependent on both previous method marks. Complete method comparing train A and train B distances to find the required distance. Must use a correct method for calculating distances before subtraction. A1 Correct answer, accept 73 or better. Accept more significant figures but must be rounded correctly to their choice of s.f. Exact value is 73.3 ̇ (d) ALT 1 For candidates who do not use the maximum speed and use the distance from the end. M1 Complete method to find the distance from the end point for train B. M1 A1 1306.6 s     = − − = =          dM1 Dependent on both previous method marks. Complete and correct method comparing train A and train B distances to find the required distance. Must use a correct method for calculating distances before subtraction: − A1 Correct answer, accept 73 or better. Accept more significant figures but must be rounded correctly to their choice of s.f. Exact value is 73.3 ̇",
+          "image": "/papers/wme01-oct-2025/q7-7d.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method using train A to find the distance (or half the distance) between the stations. May use area of their graph but it must be a trapezium. The formula for the area of a trapezium or a triangle must have the correct structure. May use of suvat but M0 if a= for 30t . May see 20 or their  . A1 Correct unsimplified expression for the distance or half distance. M1 A complete method by combining with train B to find the required acceleration. A1ft Correct unsimplified equation in a, follow through their distance. A1 Correct answer, accept 0.37 or better",
+          "image": "/papers/wme01-oct-2025/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct method using train B to form an equation in a relevant time, t A1ft Correct expression, follow through their a and their 20 If using second half, with vuat=+ , follow through their a, 20 and A1 At least one correct time A1 Both correct times",
+          "image": "/papers/wme01-oct-2025/q7-7c.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-oct-2025"
+  },
+  "unit": "Unit 2"
+}

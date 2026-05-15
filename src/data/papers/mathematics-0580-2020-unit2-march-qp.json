@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2020-unit2-march-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit2-march-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/22",
+  "session": "February/March 2020",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "7 2 1 4 6 8 3 6 8 8 4 5 8 2 M1 for correct but not ordered or for two correct rows ordered −    4 165 2 M1 for () 24 2180 −× or − × or ÷ oe M1 cao A2 A1 for oe 6 7.2 3 M1 for 5 × 8 + 6 × 5 + 7 × 11 + 8 × 7 + 9 × 5 + 10 × 4 M1dep for ÷ 40 M2 for 8.5 10.8 8.510.8++ + oe or M1 for 8.510.8+ oe 2.98 × 10 − final answer B1 for 3(4)xxy− or (312 )xxy− March 2020 Question Answer Marks Partial Marks",
+          "image": "/papers/mathematics-0580-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q1.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "9 (a) Factorise completely. xxy312 2 - ................................................. [2] (b) Expand and simplify",
+      "text": "9 (a) Factorise completely. xxy312 2 - ................................................. [2] (b) Expand and simplify",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 6mm−− final answer M1 for 3 terms from ,3,2,6mmm−+ − 1 Line with positive gradient and negative y intercept 2 B1 for only one branch or attempt at correct shape 90° clockwise oe (0, 2) 3 B1 for each y = x 2 B1 for each [sf] (4, 6) 3 B1 for each 12 229 500 cao 3 B2 for 229 460... OR M1 for 250 000 × 1.7  −   oe B1 for their more accurate answer correctly rounded to the nearest 100 2.6 0.26−  oe M1 oe fraction nfww A1 If M0 scored SC1 for k March 2020 Question Answer Marks Partial Marks 15 116° B1 alternate segment theorem B1 angles in opposite segments are supplementary or cyclic quadrilateral or angles at a point on a straight line B1 84210[0]yy−+= or 814400[0]xx+− = M3 M1 for () 7339yy−−= oe or x x −  −=   oe M1 for 49 – 21y – 21y + 9y or better or 49 –7x –7x + x or better or for correct expansion of their quadratic binomial ()() 82 5[0]yy−−= oe ()() 850 8[0]xx−+= oe M1 M1 for correct method to solve their quadratic equation e.g. factors, quadratic formula, completing the square x = 6.25 oe y = 0.25 oe x = − 8 y = 5 B2 B1 for x = 6.25, 8x=− or for y = 0.25, 5y= or for a correct pair of x and y values [] yx =−+ oe M1 for [gradient of AB =] −− − oe M1 for [gradient of perpendicular =] gradtheirAB − M1 for substituting (3, 5) in their linear equation 18 22.5 nfww 3 M2 for 146.2 0.05 70.5 + − or M1 for 146.2 + 0.05 or 7 – 0.5 or better seen 2 Needs all three features for 2 marks: • Correct curve shape • Maximum at (0, 1) and at (360, 1) and minimum at (180, −1) • Passing through (90, 0) and (270, 0) only B1 for two correct features March 2020 Question Answer Marks Partial Marks and 284.4 to 284.5 3 B2 for one correct or M1 for cos x = oe If 0 scored, SC1 for two answers with a sum of 360 20 [a =] 36 [b =] − 6 2 B1 for each or SC1 for correct answers reversed 21 X, Y and Z are collinear oe 1 Allow in a straight line X is the midpoint of ZY oe 1 Allow e.g. ZY = 2XY , ZX = XY oe",
+          "image": "/papers/mathematics-0580-2020/q9-9b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit2-2020-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

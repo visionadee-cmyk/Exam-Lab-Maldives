@@ -1,0 +1,63 @@
+{
+  "paperId": "wph11-oct-2020-unit6-qp",
+  "pairedMarkSchemeId": "wph11-oct-2020-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "October 2020",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any THREE from Measure multiple oscillations and divide by the number of oscillations Repeat and calculate a mean Use a timing marker (at the centre of the oscillations) Start timing after several oscillations have completed (1) (1) (1) (1) (hence if the relationship is valid) it will be a straight line (through the origin) with a gradient of n (1) (1) logT values correct and minimum 2 decimal places Axes labelled: y as log(T / s) and x as log (I / A) Most appropriate scales for both axes Plots accurate to ± 1mm Best fit line with even spread of plots (1) (1) (1) (1) (1) (1) Value of n in range 0.49 to 0.53 Value of n given to 2 or 3 s.f., negative, no unit Example of calculation n = −0.2−−0.088 0.3−0.075 = −0.112 0.225 = −0.498 (1) (1) (1) is in the form of y = mx + c The graph shows a (non-zero) y intercept Hence the value of k is not equal to 1 (so the prediction is correct) Or the value of c is not zero (so the prediction is correct) (1) (1) (1) (1) Total mark for Question 3 = 19 I/A T/s log(I/A) log(T/s) 1.20 0.813 0.079 -0.090 1.40 0.754 0.146 -0.123 1.60 0.706 0.204 -0.151 1.80 0.663 0.255 -0.178 2.00 0.631 0.301 -0.200 2.20 0.593 0.342 -0.227 I/A T/s ln(I/A) ln(T/s) 1.20 0.813 0.182 -0.207 1.40 0.754 0.336 -0.282 1.60 0.706 0.470 -0.348 1.80 0.663 0.588 -0.411 2.00 0.631 0.693 -0.460 2.20 0.593 0.788 -0.523 number Answer Mark Any PAIR from: Check for zero error to eliminate systematic error OR Repeat at different places and calculate a mean to reduce the effect of random errors [MP2 dependent on MP1] (1) (1) (1) (1) area of slot = 1.03 (cm ) Calculation of U shown U = 0.02 (cm ) [d.p. consistent with area] Example of calculation Area of slot = a × b = 0.47 cm × 2.19 cm = 1.03 cm %U in Area = (0.01/0.47) × 100 + (0.005/2.19) × 100 = 2.13% + 0.23% = 2.4% U = 1.03 cm × 2.4% = 0.02 cm Area of slot = 1.03 cm ± 0.02 cm (1) (1) (1) Use of area = πd /4 Area = 10.4 (cm ) [ecf 4(a)(iii) 3 s.f. only] Example of calculation Whole area = πd /4 = π × (3.81 cm) /4 = 11.4 c",
+          "image": "/papers/wph11-oct-2020/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct calculation of upper and/or lower limit shown [ecf With comparison of limit with value for brass and valid conclusion based on comparison OR Correct calculation of %D shown [ecf 4(c)] Comparison of %D with %U and valid conclusion based on comparison Example of calculation Uncertainty in ρ = 8.47 g cm -3 × 0.66% = ± 0.06 g cm −3 Range of ρ ισ 8.41 g cm −3 to 8.53 g cm −3 The value for brass lies within this range therefore the mass could be made of brass OR Uncertainty in ρ = 8.47 g cm -3 × 0.66% = ± 0.06 g cm −3 %D = 8.5−8.47 8.5 × 100% = 0.35% As the %D is less than the %U the mass could be made of brass (1) (1) (1) (1) Total mark for Question 4 = 18 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2020/q4-4d.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2020/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2020-unit6-2020-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-oct-2023-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2023-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "October 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A calculation in which: • conversion of actual length of scale into μm (1) • calculation of magnification to two significant figures (1) Example of calculation: 29 to 30 mm = 29 000 to 30 000 (μm) (29 000 ÷ 20) = ×1450 = × 1400 OR 1500 incorrect unit = max 1 please note they may convert the 20 μm into mm or cm e.g. measurement ÷ 0.02 ecf for correct measurement incorrectly converted in working, ÷ 20 and then given to 2 sig fig, e.g. 150 ecf for everything correct with an incorrect measurement shown in working (remember 5 is rounded down OR up) Accept correct standard form to 2 sig fig Correct answer scores full marks (2) these are most common incorrect responses – but please don’t rely on this – always use the MS as your guide 1 mark 2 marks 1.4 x 10 ecf for correct measurement incorrectly converted in working, ÷ 20 and then given to 2 sig fig, e.g. 150 ecf for everything correct with an incorrect measurement shown in working (remember 5 is rounded down OR up) e.g. 45 000÷ 20 = 2 300 OR e.g. 110 ÷ 0.02 = 5500 1.5 x 10 correct answer with incorrect unit 29 000 to 30 000 (μm) 2.9 x 10 to 3.0 x 10 Number Answer Additional guidance Mark • {generative nucleus / it} (divides to) form two (male) {nuclei / gametes} (1) • double fertilisation occurs (1) • one (male) {nucleus / gamete} fuses with {female / egg cell} nucleus to result in {an embryo / a zygote} (1) • one (male) {nucleus / gamete} fuses with (two) polar nuclei to result in endosperm formation (1) ignore sperm cells ignore by meiosis reject generative nucleus reject generative nucleus (3) Number Answer Additional guidance Mark • (loci of) {the genes / flower colour and pollen grain size (genes)} being on same {chromosome / chromatid} (1) accept alleles for genes accept these genes inherited {as single unit / together} ignore they are at the same locus (1) Number Mark B is not correct because correlation coefficient does not analyse observed phenotype frequencies and expected phenotype frequencies. C is not correc",
+          "image": "/papers/wbi11-oct-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2023/q2.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of q (1) • calculation of number of cats with genotype BB (1) • calculation of number of cats with genotype Bb (1) √0.16 = 0.4 (or if you see 0.6 in working) (0.6 ) × 100 = 36 (2 × 0.4 × 0.6) × 100 = 48 both correct cat numbers scores full no ecf (3) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wbi11-oct-2023/q8-8d.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2023-unit2-2023-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

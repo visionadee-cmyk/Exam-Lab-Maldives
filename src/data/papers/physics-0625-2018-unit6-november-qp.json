@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2018-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) On Fig. 1.1, measure the unstretched length l 0 of the spring, in mm. spring l 0 Fig. 1.1 l 0 = ................................................. mm [1] (b) The student attaches the spring to the clamp as shown in Fig. 1.2. He hangs a 300 g mass on the spring. clamp holding cork pin in cork bench clamp holding spring spring 300 g mass Fig. 1.2",
+      "text": "1 (a) On Fig. 1.1, measure the unstretched length l 0 of the spring, in mm. spring l 0 Fig. 1.1 l 0 = ................................................. mm [1] (b) The student attaches the spring to the clamp as shown in Fig. 1.2. He hangs a 300 g mass on the spring. clamp holding cork pin in cork bench clamp holding spring spring 300 g mass Fig. 1.2",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) On Fig. 1.1, measure the unstretched length l 0 of the spring, in mm. spring l 0 Fig. 1.1 l 0 = ................................................. mm [1] (b) The student attaches the spring to the clamp as shown in Fig. 1.2. He hangs a 300 g mass on the spring. clamp holding cork pin in cork bench clamp holding spring spring 300 g mass Fig. 1.2",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l = 22 (mm) e = 31 (mm) ecf allowed k = 0.0968 (N / mm) ecf allowed t = 3.46 (s) T = 0.346 (s) T = 0.12 (0.1197) units s and s k = 0.1 Idea of within (or beyond) limits of experimental accuracy expl ained, e.g. close (enough), very close, nearly the same; (too) far apart",
+          "image": "/papers/physics-0625-2018/q1-1a.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "At least 3 additional values given Values between 50 g and 600 g 0625/61 October/November 2018",
+          "image": "/papers/physics-0625-2018/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I = 0.48",
+          "image": "/papers/physics-0625-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V = 0.5 Axes correctly labelled and right way round Suitable scale All plots correct to ½ small square Good line judgement, single, thin, continuous line Triangle method seen on graph At least half of candidate’s line used R in range 0.040 to 0.055. No ecf allowed Unit Ω / cm OR Ω 0625/61 October/November 2018 Normal through block and at centre of AB i = 30 ° on correct side of normal and P at minimum distance apart of 5.0 cm Line through P and P straight and continued to NL a in range 17 mm to 21 mm b in range 55 mm to 56 mm and both a and b with correct unit n in range 1.31–1.65, 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "n = 1.5 or 1.53, both n with no unit two from: Getting pins vertical / pins are bent Lining up the pins exactly / seeing pins clearly Drawing accurate / thin lines Replacing block accurately on outline / outline larger than block / owtte",
+          "image": "/papers/physics-0625-2018/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3rd box (view bases of pins) 0625/61 October/November 2018 MP1 Workable, correct circuit diagram with power source and correct symbols for ammeter and voltmeter. Method to include: MP2 Measuring V and I MP3 Repeating with at least two other values of V or power, and / or I MP4 Measuring time to raise water temperature by a specific amount or to a specific value MP5 Any ONE from: Same starting temperature Same finishing temperature Same temperature difference Same room temperature Same volume / mass / amount of water MP6 Table with clear columns for time, V and I , with appropriate units and P (or V I ) MP7 Conclusion: Plot a graph of power against time.",
+          "image": "/papers/physics-0625-2018/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit6-2018-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

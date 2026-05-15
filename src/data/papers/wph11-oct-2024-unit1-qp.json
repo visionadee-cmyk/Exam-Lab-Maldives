@@ -1,0 +1,101 @@
+{
+  "paperId": "wph11-oct-2024-unit1-qp",
+  "pairedMarkSchemeId": "wph11-oct-2024-unit1-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH11/01",
+  "session": "October 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of Δ퐸 grav =푚푔∆ℎ Use of 훥퐸 el = 퐹Δ푥 Or 퐹=푘Δ푥 (At 35 m below bridge) Δ퐸 grav = 22 kJ and 훥퐸 el = 41 kJ Comparison of calculated values for Δ퐸 grav and 훥퐸 el and consistent conclusion Example of calculation Δ퐸 grav =65 kg×9.81 Nkg −1 ×35 m=22 300 J 퐹=250 N m −1 × ( 35 m−17 m ) =4500 N 훥퐸 el = 4500 N× ( 35 m−17 m ) =40 500 J 40 500 J > 22 300 J so the student will not reach the river (1) (1) (1) (1) Total for question 17 10 Number Answer Mark",
+          "image": "/papers/wph11-oct-2024/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2024/page-21.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐴=휋푟 Use of 휎= 퐹 퐴 퐹=4.9×10 −5 N Example calculation 퐴 =π× ( 1.9 × 10 −6 m ) =1.13×10 −11 m 퐹=4.3×10 Pa×1.13×10 −11 m =4.88×10 −5 N (1) (1) (1)",
+          "image": "/papers/wph11-oct-2024/q18-18a.png"
+        },
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐸= 휎 휀 Use of 휀= ∆푥 푥 Use of stretched length = 푥+∆푥 Length at limit of proportionality = 25.9 m Example calculation 휀= 300×10 Pa 8.70×10 Pa =3.448×10 −2 ∆푥=3.448×10 −2 ×25.0 m=0.862 m 퐿=25 m+0.862 m=25.86 m (1) (1) (1) (1) Line extending to a slightly greater stress than the spider silk line (dependent on MP1) (1) (1) spider silk The extension / strain of the spider silk is much greater than the extension / strain of the steel (So) elastic strain energy of the spider silk is greater than the elastic strain energy of the steel (dependent on MP2) OR Elastic strain energy is proportional to area under graph The area under the spider silk graph is greater than the area under the steel graph (So) elastic strain energy of the spider silk is greater than the elastic strain energy of the steel (dependent on MP2) (1) (1) (1) (1) (1) (1) Total for question 18 12 Number Answer Mark Or Spherical object with low speed laminar flow Or flow is not turbulent (1) (1) Use of 푣= 푠 푡 Use of 푉= 휋푟 Use of 퐹 =6π휂푟푣 퐹=0.035 N comparison of their calculated force with 4.6 (N) and consistent conclusion Example calculation 푣= 25 m 0.36 s = 69.4 m s −1 푟= √ 3×45×10 −6 m 4×π =0.0221 m 퐹 =6×π×1.2×10 −3 Pa s×0.0221 m×69.4 m s −1 =0.0347 N 0.0347 N < 4.6 N so Stokes’ law does not apply. (1) (1) (1) (1) (1) Or The area between the line and the x-axis represents displacement The diver will be at the surface if the area below the x-axis (before 25 s) is equal to the area above the x-axis (after 25 s). Or The diver will be at the surface if the total (positive and negative values of) area is equal to zero (1) (1) Determines values for Δv and Δt Acceleration = (−)0.008 m s −2 (allow an answer in the range (−)0.007 m s −2 to (−)0.01 m s −2 ) Example calculation Acceleration = −0.50 m s −1 65 s =−0.0077 m s −2 (1) (1) (1) Total for question 19 12 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2024/q18-18b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2024/page-23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit1-2024-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph11-oct-2024/page-01.png",
+      "/papers/wph11-oct-2024/page-02.png",
+      "/papers/wph11-oct-2024/page-03.png",
+      "/papers/wph11-oct-2024/page-04.png",
+      "/papers/wph11-oct-2024/page-05.png",
+      "/papers/wph11-oct-2024/page-06.png",
+      "/papers/wph11-oct-2024/page-07.png",
+      "/papers/wph11-oct-2024/page-08.png",
+      "/papers/wph11-oct-2024/page-09.png",
+      "/papers/wph11-oct-2024/page-10.png",
+      "/papers/wph11-oct-2024/page-11.png",
+      "/papers/wph11-oct-2024/page-12.png",
+      "/papers/wph11-oct-2024/page-13.png",
+      "/papers/wph11-oct-2024/page-14.png",
+      "/papers/wph11-oct-2024/page-15.png",
+      "/papers/wph11-oct-2024/page-16.png",
+      "/papers/wph11-oct-2024/page-17.png",
+      "/papers/wph11-oct-2024/page-18.png",
+      "/papers/wph11-oct-2024/page-19.png",
+      "/papers/wph11-oct-2024/page-20.png",
+      "/papers/wph11-oct-2024/page-21.png",
+      "/papers/wph11-oct-2024/page-22.png",
+      "/papers/wph11-oct-2024/page-23.png",
+      "/papers/wph11-oct-2024/page-24.png",
+      "/papers/wph11-oct-2024/page-25.png",
+      "/papers/wph11-oct-2024/page-26.png",
+      "/papers/wph11-oct-2024/page-27.png",
+      "/papers/wph11-oct-2024/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

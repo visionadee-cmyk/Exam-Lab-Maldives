@@ -2,19 +2,12 @@ import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
 import { useAuth } from '../contexts/AuthContext';
-import { GLOB_MS_INTERACTIVE_MAP, GLOB_MS_PAPER_LISTS } from '../data/interactiveMsPaperRegistry';
+import {
+  GLOB_MS_INTERACTIVE_MAP,
+  GLOB_MS_PAPER_LISTS,
+  GLOB_INTERACTIVE_QP_LISTS
+} from '../data/interactiveMsPaperRegistry';
 import { Plus, Trash2, Edit3, Save, X } from 'lucide-react';
-import biologyWbi11Jan2019Unit1 from '../data/papers/biology-wbi11-jan2019-unit1.json';
-import biologyWbi11May2019Unit1 from '../data/papers/biology-wbi11-may2019-unit1.json';
-import biologyWbi11Oct2019Unit1 from '../data/papers/biology-wbi11-oct2019-unit1.json';
-import biologyWbi11Jan2020Unit1 from '../data/papers/biology-wbi11-jan2020-unit1.json';
-import biologyWbi11Oct2020Unit1 from '../data/papers/biology-wbi11-oct2020-unit1.json';
-import biologyWbi12Jun2019Unit2 from '../data/papers/biology-wbi12-jun2019-unit2.json';
-import biologyWbi12Oct2019Unit2 from '../data/papers/biology-wbi12-oct2019-unit2.json';
-import biologyWbi12Jan2020Unit2 from '../data/papers/biology-wbi12-jan2020-unit2.json';
-import biologyWbi12May2020Unit2 from '../data/papers/biology-wbi12-may2020-unit2.json';
-import biologyWbi13Jun2019Unit3 from '../data/papers/biology-wbi13-jun2019-unit3.json';
-import biologyWbi13Oct2019Unit3 from '../data/papers/biology-wbi13-oct2019-unit3.json';
 import { 
   ArrowLeft, 
   BookOpen, 
@@ -160,30 +153,19 @@ export function SubjectDetail() {
     );
   }
 
-  const interactivePaperById = {
-    'wbi11-jan-2019-unit1-qp': biologyWbi11Jan2019Unit1,
-    'wbi11-may-2019-unit1-qp': biologyWbi11May2019Unit1,
-    'wbi11-oct-2019-unit1-qp': biologyWbi11Oct2019Unit1,
-    'wbi11-jan-2020-unit1-qp': biologyWbi11Jan2020Unit1,
-    'wbi11-oct-2020-unit1-qp': biologyWbi11Oct2020Unit1,
-    'wbi12-jun-2019-unit2-qp': biologyWbi12Jun2019Unit2,
-    'wbi12-oct-2019-unit2-qp': biologyWbi12Oct2019Unit2,
-    'wbi12-jan-2020-unit2-qp': biologyWbi12Jan2020Unit2,
-    'wbi12-may-2020-unit2-qp': biologyWbi12May2020Unit2,
-    'wbi13-jun-2019-unit3-qp': biologyWbi13Jun2019Unit3,
-    'wbi13-oct-2019-unit3-qp': biologyWbi13Oct2019Unit3,
-    ...GLOB_MS_INTERACTIVE_MAP
-  };
+  const interactivePaperById = GLOB_MS_INTERACTIVE_MAP;
 
-  const globPaperList = GLOB_MS_PAPER_LISTS[subjectId];
-  const papers =
-    globPaperList && globPaperList.length > 0
-      ? globPaperList
+  const interactivePapers =
+    GLOB_INTERACTIVE_QP_LISTS[subjectId]?.length > 0
+      ? GLOB_INTERACTIVE_QP_LISTS[subjectId]
+      : (GLOB_MS_PAPER_LISTS[subjectId] || []).filter((p) => p.type === 'QP' && interactivePaperById[p.id]);
+
+  const allPaperRows =
+    GLOB_MS_PAPER_LISTS[subjectId]?.length > 0
+      ? GLOB_MS_PAPER_LISTS[subjectId]
       : Array.isArray(subject?.papers)
         ? subject.papers
         : [];
-
-  const interactivePapers = papers.filter((p) => Boolean(interactivePaperById[p.id]));
 
   const handlePaperClick = (paper) => {
     const paperData = interactivePaperById[paper.id];
@@ -304,20 +286,50 @@ export function SubjectDetail() {
             </button>
           </div>
 
-          {/* Paper List */}
-          {interactivePapers.map((paper) => (
-            <button
-              key={paper.id}
-              onClick={() => handlePaperClick(paper)}
-              className="w-full bg-white rounded-xl p-4 border border-gray-100 text-left flex items-center justify-between"
-            >
-              <div>
-                <p className="font-medium text-gray-900">{paper.session}</p>
-                <p className="text-sm text-gray-500">{paper.code}</p>
-              </div>
-              <ChevronRight className="w-5 h-5 text-gray-400" />
-            </button>
-          ))}
+          {interactivePapers.length > 0 && (
+            <>
+              <p className="text-xs font-semibold text-green-700 uppercase tracking-wide px-1">
+                Interactive papers ({interactivePapers.length})
+              </p>
+              {interactivePapers.map((paper) => (
+                <button
+                  key={paper.id}
+                  onClick={() => handlePaperClick(paper)}
+                  className="w-full bg-white rounded-xl p-4 border border-green-200 text-left flex items-center justify-between hover:border-green-300"
+                >
+                  <div>
+                    <p className="font-medium text-gray-900">{paper.session}</p>
+                    <p className="text-sm text-gray-500">{paper.code}</p>
+                    <p className="text-xs text-green-600 mt-1">
+                      {paper.hasMarkScheme
+                        ? 'Questions, images and mark scheme'
+                        : 'Questions and paper images'}
+                    </p>
+                  </div>
+                  <ChevronRight className="w-5 h-5 text-gray-400" />
+                </button>
+              ))}
+            </>
+          )}
+
+          {allPaperRows.filter((p) => p.type === 'QP' && !interactivePaperById[p.id]).length > 0 && (
+            <>
+              <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide px-1 mt-4">
+                Other papers (PDF only / coming soon)
+              </p>
+              {allPaperRows
+                .filter((p) => p.type === 'QP' && !interactivePaperById[p.id])
+                .map((paper) => (
+                  <div
+                    key={paper.id}
+                    className="w-full bg-gray-50 rounded-xl p-4 border border-gray-100 text-left opacity-75"
+                  >
+                    <p className="font-medium text-gray-700">{paper.session || paper.title}</p>
+                    <p className="text-sm text-gray-500">{paper.code}</p>
+                  </div>
+                ))}
+            </>
+          )}
         </div>
       )}
 

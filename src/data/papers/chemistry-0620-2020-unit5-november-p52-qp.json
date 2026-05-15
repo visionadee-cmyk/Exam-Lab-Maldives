@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2020-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all data for all 5 experiments completed (all cells completed) and all volumes of metabisulphite = 5 all volumes of water (15, 17, 21, 23, 25) correct all times in seconds and to whole number only times increase from left to right end colour: blue-black",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate vertical scale so highest point is over hal f -way up the y scale all 5 points plotted correctly suitable best fit curve drawn (smooth single curve). correct working shown on graph time correct for their working",
+          "image": "/papers/chemistry-0620-2020/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line is below plotted line and does not meet / touch plotted line.",
+          "image": "/papers/chemistry-0620-2020/q1-1e.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to keep total volume constant / so concentration of sodium metabisulphite does not change",
+          "image": "/papers/chemistry-0620-2020/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a pipette/burette (in place of a measuring cylinder) explanation: more accurate / precise (than a measuring cylinder) and compare the results 0620/52 October/November 2020 Tests on solid Q",
+          "image": "/papers/chemistry-0620-2020/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any three from: • fizzing / effervescence / bubbles • (some of the) solid dissolves / disappears OR colourless solution • solution becomes warm • limewater turns milky dissolves / forms a colourless solution / or aluminium (ions) give the same result add ammonia (solution)",
+          "image": "/papers/chemistry-0620-2020/q2-2a.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from: • turns yellow • condensation at top of tube • goes white again (when cool) Tests on solid R brown or darkens or orange / Na + Iodide / I – 0620/52 October/November 2020 3 any six from: • weigh brass / known mass of brass • add (dilute) sulfuric acid and heat / hot / warm • excess acid • filter • wash and dry residue / solid • weigh (copper) residue / solid (copper) • percentage zinc calculated correctly max 6",
+          "image": "/papers/chemistry-0620-2020/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit5-2020-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

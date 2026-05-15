@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-oct-2022-unit6-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2022-unit6-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI16/01",
+  "session": "October 2022",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that includes three of the following: • water (split to) form oxygen (1) • by photolysis (1) • electrons removed from water (1) • two oxygen (atoms) combine to form {one oxygen molecule/O } (1) Ignore light dependent reaction unqualified Accept equation for MP1 and 3 H O → 2H + + 2e - + ½ O to produce hydroxides/OH - hydroxides react to form water and oxygen Exp (3) (Total for Question 1 = 8 marks) Number Answer Additional Guidance Mark • (add) {0.004 g/4mg} in 20 cm of water Accept equivalent correct answers e.g. 4mg in 0.02dm Or 200mg in1dm and then remove 20cm Exp (1) Number Answer Additional Guidance Mark 0.93 Accept 0.933/0.9 Ignore 0.93333/0.93 . (1) Exp Number Answer Additional Guidance Mark 56.99 ECF from part ii Allow 55.55 to 57.127/57.13 Max 3 decimal places Exp (1) Number Answer Additional Guidance Mark • facilitated diffusion (down a concentration gradient) (1) • (concentration) gradient reduces over time (1) Accept description e.g. channel proteins Accept description of gradient and time refs using 1 - 2 hrs and 4 - 5hrs Exp (2) Number Answer Additional Guidance Mark Abiotic • temperature • pH Biotic • age / sex of toad • {part of body providing skin sample/thickness of skin} Ignore other abiotic factors Accept gender Accept disease If biotic and abiotic factor stated on the same line they negate each other Exp (2) Number Answer Additional Guidance Mark An answer that includes two of the following: • variable with suitable control method described (1) • results are not valid / description of expected effect on the dependent variable (1) Accept AC / incubator/thermostatically controlled waterbath Accept stated directional answer Exp (2) (Total for Question 2 = 9 marks) Number Answer Additional Guidance Mark • suitable risk identified (1) • suitable control identified (1) Any reasonable risk identified eg toxic effects, allergy, irritant ignore infection/labcoat/PPE Any corresponding control identified eg use of gloves/mask Exp (2) Number ",
+          "image": "/papers/wbi11-oct-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2022/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes eight of the following: • clear statement of the dependent variable (1) • allow animal to acclimatise • method of touching the animal (1) • stated time intervals between touches or stated number of touches in a set time (1) • supply of organic particle to stimulate feeding activity (1) • identify one variable to be controlled and description of how it is controlled (1) • identify second variable to be controlled and description of how it is controlled (1 • repeat with another animal (1) Accept record the length /extent of the withdrawal E.g. use of glass rod/cotton bud / touch with the same force MP6 and 7 e.g. temperature with thermostat in tank/waterbath Accept same age/sex Exp (8) Number Answer Additional Guidance Mark calculated from repeats (1) • scatter/line graph with labelled axes (1) • use of an appropriate (statistical) correlation test (1) Accept any headers with appropriate units Do not accept description of calculating mean Do not accept units in the body of the table Accept bar graph and t test if comparing just two treatments Exp (3) Number Answer Additional Guidance Mark • difficulty in determining extent of withdrawal (1) • difficult to determine same pressure/force of touch (1) • difficult to ensure each organism in the {same age /not already habituated} (1) • difficult to control concentration of organic particles (1) Accept noise/vibration/water currents/light to shade Exp (3) (Total for question 4 = 17 marks) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wbi11-oct-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2022-unit6-2022-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

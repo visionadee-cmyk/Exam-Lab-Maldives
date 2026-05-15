@@ -1,0 +1,269 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(1) Tebibyte // TiB",
+          "image": "/papers/computer_science-0478-2024/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct stage of working ( max 2):    144 * 2 // multiplied by 16 and divided by 8  288/1024 One mark for the correct answer: 512 (KiB)",
+          "image": "/papers/computer_science-0478-2024/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "D Data is encrypted and decrypted using the same key (1 mark) Any three from:  Plain text is encrypted into cipher text // cipher text is decrypted into plain text  Data is encrypted using an algorithm ...  ... that uses a key  The key can be generated using an algorithm  The key is transmitted to the receive r Any one from:  To help keep the data secure  To make the data meaningless 0478/12 May/June 2024 110010 11001001 Two from:  Computers use logic gates/switches ...  ... that only process the values 1 and 0 // that only have two states",
+          "image": "/papers/computer_science-0478-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for evidence of working, for example 2 carries One mark for each correct nibble (Max 2) 1 1 0 0 1 1 0 0 0 0 0 1 1 0 0 1 1 0 1 0 0 1 0 1 1 0",
+          "image": "/papers/computer_science-0478-2024/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One marking for evidence of working For example, flip and add One mark for correct binary one from:  Operating system  Utility software // by example 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q3-3d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from.: Example:  Word processor  Spreadsheet  Database  Web browser  Image/photo-editor  Video-editor  Email client  Game  Social media app two from:  System software manages/maintains the hardware/software  Applications software allows the user to perform tasks 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-04.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct term in the correct place:  address  memory address register // MAR  random access memory // RAM  memory data register // MDR  data  current instruction register // CIR  control unit // CU",
+          "image": "/papers/computer_science-0478-2024/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A list of (machine code) commands that can be processed by the CPU One mark for each correct method. error detection method statement parity (check/bit/byte/block) A n odd or even process can be used. checksum A value is calculated from the data using an algorithm. This happens before and after the data is transmitted. echo check A copy of the data is sent back to the sender by the receiver. automatic repeat query/request // ARQ A cknowledgement and timeout are used. check digit A value is appended to data that has been calculated using the data. This value is checked on data entry. 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-05.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A An IP address that has numerical values separated by dots that follows the format with a max value of 255 in any xxx xxx.xxx.xxx.xxx Example: 10.245.3.99 two from:  128-bit // 16 bytes  Hexadecimal  Separated by colons  Characters in groups of 4  Has 8 groups of characters  Double colons can be used for sets of (consecutive) zeros (only once) 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each part of the diagram that shows:  A perpetrator/third party sending malware // user downloads/installs malware  Each computer is turned into a bot...  ... to create a botnet  Third party initiates the attack  All the bots send a request at once to a web server  ... crashing the webserver Example: r third party bot bot bot bot web server Third party sends malware. Malware turns computers into bots. Botnet Requests Web server cannot handle all the requests and crashes. 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-08.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from:  To store data/files permanently  ... otherwise, data/programs would need to be downloaded/entered/installed every time the computer was used  To allow software to be installed on the computer  For the creation of virtual memory six from ( Max 3 for one type only):  Solid-state has no moving parts  ... optical does have moving parts  Solid-state is faster to access data  ... optical is slower to access data  Solid-state uses less power to operate  ... optical uses more power to operate  Solid-state runs quietly  ... optical makes more noise  Solid state is more durable/robust  ... optical is less durable/robust  Solid state storage has a large storage capacity  ... optical has a much smaller limit to its storage capacity  Solid-state is more expensive per GB of data  ... optical is cheaper per GB of data  Solid-state stores data onto silicon chips/transistors us ing logic (floating/control/NAND/NOR) gates to control the movement of electrons  ... optical stores data by using lasers to burning pits and lands onto a disk 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-09.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from:  The simulation of intelligent behaviours by computers  A collection of data and the rules for using that data  Has the ability to reason  Has the ability to learn/adapt five from:  The user will enter data into the interface // The user will plug the car into an interface // The user is given questions using the interface  The inference engine will decide which questions to ask  ... by using the previous answers given  The inference engine will decide on a diagnosis  ... by comparing the data/answers entered to the knowledge base and rule base  ... by calculating which option is most likely if there are multiple  The interface will output the diagnosis / result  The explanation system shows how the diagnosis was reached 0478/12 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q10-10a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from:  The internet is the infrastructure  The world wide web is a collection of web pages Domain name File name // web page name",
+          "image": "/papers/computer_science-0478-2024/q11-11a.png"
+        },
+        {
+          "id": "11c",
+          "text": "Part 11c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: Example:  Displays a web page  Storing bookmarks/favourites  Recording user history  Allowing use of multiple tabs  Storing cookies  Providing navigation tools  Can set a home page",
+          "image": "/papers/computer_science-0478-2024/q11-11c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/page-11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 10
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2024/page-01.png",
+      "/papers/computer_science-0478-2024/page-02.png",
+      "/papers/computer_science-0478-2024/page-03.png",
+      "/papers/computer_science-0478-2024/page-04.png",
+      "/papers/computer_science-0478-2024/page-05.png",
+      "/papers/computer_science-0478-2024/page-06.png",
+      "/papers/computer_science-0478-2024/page-07.png",
+      "/papers/computer_science-0478-2024/page-08.png",
+      "/papers/computer_science-0478-2024/page-09.png",
+      "/papers/computer_science-0478-2024/page-10.png",
+      "/papers/computer_science-0478-2024/page-11.png",
+      "/papers/computer_science-0478-2024/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

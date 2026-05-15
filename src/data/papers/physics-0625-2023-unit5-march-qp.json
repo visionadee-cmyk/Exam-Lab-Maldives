@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2023-unit5-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "February/March 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " A decreasing and recorded to at least 1 °C",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "2 (b) Describe how the two wooden blocks and one of the marbles can be used to determine an accurate value for the diameter of a marble. Draw a diagram to show your suggested arrangement. Describe clearly how you ensure that your value for the diameter of a marble is as accurate as possible. ...............................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": " B decreasing more slowly than  A initial  B same as  A at 90 s comparison of temperature changes over 180 s, matching statement 1 unit °C / s 1 within10% of x and justification referencing ‘limits of experimental accuracy’ same volume of water, same material of beaker, same thickness of beaker, same surface area (of beaker), same shape of beaker same room temp / named appropriate environmental condition February/March 2023 Question Answer Marks",
+          "image": "/papers/physics-0625-2023/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 sets of V < 4 V and I <1 A V all increasing and I all decreasing to consistent 2 or consistent 3 significant figures 1 • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well judged line and thin line R in range 0.05 to 0.11( / cm) difficult to position crocodile clip accurately/ inconsistent connection with crocodile clip/ resistance wire not uniform February/March 2023 Question Answer Marks 4 MP1 apparatus: metre ruler, protractor MP2 method: set initial launch angle roll ball measure range MP3 repeat for different angle 1 MP4 control variable (one from): diameter of ball, mass of ball. angle / height of (upper end of) channel MP5 table: with columns for independent variable and dependent variable (at least) and both with units MP6 analysis: compare readings in a table to see if change in independent variable produces change in dependent variable, plot (line) graph (with axes specified) MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, means of accurate indication of point at which ball hits floor, clear indication of where to measure range from",
+          "image": "/papers/physics-0625-2023/q3-3a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

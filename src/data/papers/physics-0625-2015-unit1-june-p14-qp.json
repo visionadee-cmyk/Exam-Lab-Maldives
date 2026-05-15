@@ -1,0 +1,669 @@
+{
+  "paperId": "physics-0625-2015-unit1-june-p14-qp",
+  "pairedMarkSchemeId": "physics-0625-2015-unit1-june-p14-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/14",
+  "session": "May/June 2015",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a measuring instrument. Which quantity is this instrument used to measure? A area, B density, C mass, D volume",
+      "text": "The diagram shows a measuring instrument. Which quantity is this instrument used to measure? A area, B density, C mass, D volume",
+      "options": [
+        "A area",
+        "B density",
+        "C mass",
+        "D volume"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the distance-time graph of an object. 0 0 distance time Which statement describes the object? A It is accelerating., B It is moving at a constant speed., C It is slowing down., D It is stationary. 3",
+      "text": "The diagram shows the distance-time graph of an object. 0 0 distance time Which statement describes the object? A It is accelerating., B It is moving at a constant speed., C It is slowing down., D It is stationary. 3",
+      "options": [
+        "A It is accelerating.",
+        "B It is moving at a constant speed.",
+        "C It is slowing down.",
+        "D It is stationary. 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A tennis player hits a ball hard and 0.40 s later hears the echo from a wall. The speed of sound in air is 330 m / s. How far away is the player from the wall? A 66 m B 132 m C 264 m D 825 m",
+      "text": "A tennis player hits a ball hard and 0.40 s later hears the echo from a wall. The speed of sound in air is 330 m / s. How far away is the player from the wall? A 66 m B 132 m C 264 m D 825 m",
+      "options": [
+        "A 66 m B 132 m C 264 m D 825 m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Weight is an example of which quantity? A acceleration, B force, C mass, D pressure",
+      "text": "Weight is an example of which quantity? A acceleration, B force, C mass, D pressure",
+      "options": [
+        "A acceleration",
+        "B force",
+        "C mass",
+        "D pressure"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance in the table has the lowest density? substance       mass / g      volume / cm 3 A nylon          1.2           1.0, B cotton          1.5           1.0, C olive oil 1.8 2.0, D water          2.0           2.0 4",
+      "text": "Which substance in the table has the lowest density? substance       mass / g      volume / cm 3 A nylon          1.2           1.0, B cotton          1.5           1.0, C olive oil 1.8 2.0, D water          2.0           2.0 4",
+      "options": [
+        "A nylon          1.2           1.0",
+        "B cotton          1.5           1.0",
+        "C olive oil 1.8 2.0",
+        "D water          2.0           2.0 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car travels along a horizontal road at a constant speed. Three horizontal forces act on the car. The diagram shows two of these three forces. air resistance 300 N force from engine 1500 N direction of motion forwards What is the size and the direction of the third horizontal force acting on the car? A 1200 N backwards, B 1200 N forwards, C 1800 N backwards, D 1800 N forwards",
+      "text": "A car travels along a horizontal road at a constant speed. Three horizontal forces act on the car. The diagram shows two of these three forces. air resistance 300 N force from engine 1500 N direction of motion forwards What is the size and the direction of the third horizontal force acting on the car? A 1200 N backwards, B 1200 N forwards, C 1800 N backwards, D 1800 N forwards",
+      "options": [
+        "A 1200 N backwards",
+        "B 1200 N forwards",
+        "C 1800 N backwards",
+        "D 1800 N forwards"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The extension-load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is hung from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N 5",
+      "text": "The extension-load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is hung from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N 5",
+      "options": [
+        "A 1.4 N B 1.6 N C 2.6 N D 3.0 N 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which form of energy is used to generate electrical energy in a tidal power station? A chemical   energy, B gravitational   energy, C internal energy (thermal energy), D nuclear   energy",
+      "text": "Which form of energy is used to generate electrical energy in a tidal power station? A chemical   energy, B gravitational   energy, C internal energy (thermal energy), D nuclear   energy",
+      "options": [
+        "A chemical   energy",
+        "B gravitational   energy",
+        "C internal energy (thermal energy)",
+        "D nuclear   energy"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four different model steam engines each lift a 1.0 kg object from the same laboratory floor to the same laboratory bench. Each engine takes a different time to lift the object. How does the most powerful engine compare with the other engines? speed of lifting object onto bench useful work done A faster more than other engines, B faster same as other engines, C slower less than other engines, D slower same as other engines",
+      "text": "Four different model steam engines each lift a 1.0 kg object from the same laboratory floor to the same laboratory bench. Each engine takes a different time to lift the object. How does the most powerful engine compare with the other engines? speed of lifting object onto bench useful work done A faster more than other engines, B faster same as other engines, C slower less than other engines, D slower same as other engines",
+      "options": [
+        "A faster more than other engines",
+        "B faster same as other engines",
+        "C slower less than other engines",
+        "D slower same as other engines"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement is explained by reference to pressure? A Objects with greater mass have greater weight., B One kilogram of water occupies more volume than one kilogram of lead., C Spikes on running-shoes sink into the ground., D Water cooled to a low enough temperature turns to ice.",
+      "text": "Which statement is explained by reference to pressure? A Objects with greater mass have greater weight., B One kilogram of water occupies more volume than one kilogram of lead., C Spikes on running-shoes sink into the ground., D Water cooled to a low enough temperature turns to ice.",
+      "options": [
+        "A Objects with greater mass have greater weight.",
+        "B One kilogram of water occupies more volume than one kilogram of lead.",
+        "C Spikes on running-shoes sink into the ground.",
+        "D Water cooled to a low enough temperature turns to ice."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Small smoke particles suspended in air are viewed through a microscope. The smoke particles move randomly. What does this show? A The air consists of fast-moving molecules., B The pressure of the air is increasing., C There are convection currents in the air., D The temperature of the air is increasing. 6",
+      "text": "Small smoke particles suspended in air are viewed through a microscope. The smoke particles move randomly. What does this show? A The air consists of fast-moving molecules., B The pressure of the air is increasing., C There are convection currents in the air., D The temperature of the air is increasing. 6",
+      "options": [
+        "A The air consists of fast-moving molecules.",
+        "B The pressure of the air is increasing.",
+        "C There are convection currents in the air.",
+        "D The temperature of the air is increasing. 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The gas in a container is heated but is kept at constant volume. Why does the gas pressure increase? A The   molecules   expand., B The molecules increase in mass., C The molecules move further apart., D The molecules move more rapidly.",
+      "text": "The gas in a container is heated but is kept at constant volume. Why does the gas pressure increase? A The   molecules   expand., B The molecules increase in mass., C The molecules move further apart., D The molecules move more rapidly.",
+      "options": [
+        "A The   molecules   expand.",
+        "B The molecules increase in mass.",
+        "C The molecules move further apart.",
+        "D The molecules move more rapidly."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row is correct for the evaporation of a liquid? the particles escaping from the liquid are on average the average kinetic energy of particles remaining in the liquid A the least energetic decreases, B the least energetic increases, C the most energetic decreases, D the most energetic increases",
+      "text": "Which row is correct for the evaporation of a liquid? the particles escaping from the liquid are on average the average kinetic energy of particles remaining in the liquid A the least energetic decreases, B the least energetic increases, C the most energetic decreases, D the most energetic increases",
+      "options": [
+        "A the least energetic decreases",
+        "B the least energetic increases",
+        "C the most energetic decreases",
+        "D the most energetic increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A long thin bar of copper is heated evenly along its length. copper bar heat What happens to the bar? A It becomes less heavy., B It becomes longer., C It becomes shorter., D It bends at the ends. 7",
+      "text": "A long thin bar of copper is heated evenly along its length. copper bar heat What happens to the bar? A It becomes less heavy., B It becomes longer., C It becomes shorter., D It bends at the ends. 7",
+      "options": [
+        "A It becomes less heavy.",
+        "B It becomes longer.",
+        "C It becomes shorter.",
+        "D It bends at the ends. 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A solid is heated from room temperature. The graph shows how its temperature changes with time as it is heated constantly. time temperature 0 0 room temperature P Q R S T Between which labelled points on the graph is the substance partly solid and partly liquid? A between P and Q, B between Q and R, C between R and S, D between S and T",
+      "text": "A solid is heated from room temperature. The graph shows how its temperature changes with time as it is heated constantly. time temperature 0 0 room temperature P Q R S T Between which labelled points on the graph is the substance partly solid and partly liquid? A between P and Q, B between Q and R, C between R and S, D between S and T",
+      "options": [
+        "A between P and Q",
+        "B between Q and R",
+        "C between R and S",
+        "D between S and T"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "One method of heat transfer involves the energy travelling at a much greater speed than in other methods. What is the name of this method? A conduction, B convection, C evaporation, D radiation 8",
+      "text": "One method of heat transfer involves the energy travelling at a much greater speed than in other methods. What is the name of this method? A conduction, B convection, C evaporation, D radiation 8",
+      "options": [
+        "A conduction",
+        "B convection",
+        "C evaporation",
+        "D radiation 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows four markings on a liquid-in-glass thermometer. –10 °C 0 °C 100 °C 110 °C Which temperatures are the upper and lower fixed points? upper fixed point / °C lower fixed point / °C A 110            0, B 110          –10, C 100            0, D 100          –10",
+      "text": "The diagram shows four markings on a liquid-in-glass thermometer. –10 °C 0 °C 100 °C 110 °C Which temperatures are the upper and lower fixed points? upper fixed point / °C lower fixed point / °C A 110            0, B 110          –10, C 100            0, D 100          –10",
+      "options": [
+        "A 110            0",
+        "B 110          –10",
+        "C 100            0",
+        "D 100          –10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a block of ice placed in a warm room. At which point is the temperature the lowest? table clamp ice B C D A 9",
+      "text": "The diagram shows a block of ice placed in a warm room. At which point is the temperature the lowest? table clamp ice B C D A 9",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The thermal capacity of solid Y is greater than that of solid Z. What is a consequence of this? A Solid Y needs less thermal energy to melt it than solid Z., B Solid Y needs less thermal energy to raise its temperature by 1 °C than solid Z., C Solid Y needs more thermal energy to melt it than solid Z., D Solid Y needs more thermal energy to raise its temperature by 1 °C than solid Z.",
+      "text": "The thermal capacity of solid Y is greater than that of solid Z. What is a consequence of this? A Solid Y needs less thermal energy to melt it than solid Z., B Solid Y needs less thermal energy to raise its temperature by 1 °C than solid Z., C Solid Y needs more thermal energy to melt it than solid Z., D Solid Y needs more thermal energy to raise its temperature by 1 °C than solid Z.",
+      "options": [
+        "A Solid Y needs less thermal energy to melt it than solid Z.",
+        "B Solid Y needs less thermal energy to raise its temperature by 1 °C than solid Z.",
+        "C Solid Y needs more thermal energy to melt it than solid Z.",
+        "D Solid Y needs more thermal energy to raise its temperature by 1 °C than solid Z."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a water wave in a ripple tank. Which line represents a wavefront? C D A B 10",
+      "text": "The diagram shows a water wave in a ripple tank. Which line represents a wavefront? C D A B 10",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows how the light from a candle is reflected by a mirror, and shows the position of the image formed? eye candle image of candle A eye candle eye candle image of candle B image of candle C D eye candle image of candle mirror mirror mirror mirror 11",
+      "text": "Which diagram shows how the light from a candle is reflected by a mirror, and shows the position of the image formed? eye candle image of candle A eye candle eye candle image of candle B image of candle C D eye candle image of candle mirror mirror mirror mirror 11",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of white light incident on a triangular glass prism. ray of white light glass prism The ray enters the prism. Which row correctly states if the light is refracted, and if the light is dispersed? refracted     dispersed A no          no, B no          yes, C yes          no, D yes         yes",
+      "text": "The diagram shows a ray of white light incident on a triangular glass prism. ray of white light glass prism The ray enters the prism. Which row correctly states if the light is refracted, and if the light is dispersed? refracted     dispersed A no          no, B no          yes, C yes          no, D yes         yes",
+      "options": [
+        "A no          no",
+        "B no          yes",
+        "C yes          no",
+        "D yes         yes"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A parallel beam of light falls on a converging lens. Which diagram shows what happens to the beam of light? ABCD 12",
+      "text": "A parallel beam of light falls on a converging lens. Which diagram shows what happens to the beam of light? ABCD 12",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In the experiment shown, the bell is heard ringing. The air is gradually pumped out of the jar. No change is made to the ringing bell. air pump rubber bands bell glass jar After a few minutes the bell can no longer be heard. Why is this? A The amplitude of vibration of the bell decreases., B The frequency of vibration of the bell increases., C The sound waves from the bell become transverse., D The sound waves need a medium to travel through.",
+      "text": "In the experiment shown, the bell is heard ringing. The air is gradually pumped out of the jar. No change is made to the ringing bell. air pump rubber bands bell glass jar After a few minutes the bell can no longer be heard. Why is this? A The amplitude of vibration of the bell decreases., B The frequency of vibration of the bell increases., C The sound waves from the bell become transverse., D The sound waves need a medium to travel through.",
+      "options": [
+        "A The amplitude of vibration of the bell decreases.",
+        "B The frequency of vibration of the bell increases.",
+        "C The sound waves from the bell become transverse.",
+        "D The sound waves need a medium to travel through."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What can be heard by the human ear? A a whistle emitting a wave of frequency 50 kHz, B a bat emitting a wave of frequency 30 kHz, C an insect emitting a wave of frequency 300 Hz, D a vibrating spring emitting a wave of frequency 5 Hz",
+      "text": "What can be heard by the human ear? A a whistle emitting a wave of frequency 50 kHz, B a bat emitting a wave of frequency 30 kHz, C an insect emitting a wave of frequency 300 Hz, D a vibrating spring emitting a wave of frequency 5 Hz",
+      "options": [
+        "A a whistle emitting a wave of frequency 50 kHz",
+        "B a bat emitting a wave of frequency 30 kHz",
+        "C an insect emitting a wave of frequency 300 Hz",
+        "D a vibrating spring emitting a wave of frequency 5 Hz"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which action will demagnetise a magnetised piece of steel? A Cool it in a freezer for several hours., B Hit it repeatedly with a hammer., C Put it in a coil carrying a direct current (d.c.)., D Put it near an unmagnetised piece of iron. 13",
+      "text": "Which action will demagnetise a magnetised piece of steel? A Cool it in a freezer for several hours., B Hit it repeatedly with a hammer., C Put it in a coil carrying a direct current (d.c.)., D Put it near an unmagnetised piece of iron. 13",
+      "options": [
+        "A Cool it in a freezer for several hours.",
+        "B Hit it repeatedly with a hammer.",
+        "C Put it in a coil carrying a direct current (d.c.).",
+        "D Put it near an unmagnetised piece of iron. 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  row  gives  the  unit  for  electromotive  force  (e.m.f.)  and  the  unit  for  potential  difference (p.d.)? electromotive force potential difference A newton          joule, B newton           volt, C volt            joule, D volt            volt",
+      "text": "Which  row  gives  the  unit  for  electromotive  force  (e.m.f.)  and  the  unit  for  potential  difference (p.d.)? electromotive force potential difference A newton          joule, B newton           volt, C volt            joule, D volt            volt",
+      "options": [
+        "A newton          joule",
+        "B newton           volt",
+        "C volt            joule",
+        "D volt            volt"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student investigates the force on a bar magnet placed near a current-carrying coil. She carries out three different experiments. NS magnet attracted to coil experiment 1 NS experiment 2 NS experiment 3 In experiment 1, the magnet is attracted to the coil. Which row shows what happens in the other two experiments? experiment 2 experiment 3 A magnet attracted magnet attracted, B magnet attracted magnet repelled, C magnet repelled magnet attracted, D magnet repelled magnet repelled",
+      "text": "A student investigates the force on a bar magnet placed near a current-carrying coil. She carries out three different experiments. NS magnet attracted to coil experiment 1 NS experiment 2 NS experiment 3 In experiment 1, the magnet is attracted to the coil. Which row shows what happens in the other two experiments? experiment 2 experiment 3 A magnet attracted magnet attracted, B magnet attracted magnet repelled, C magnet repelled magnet attracted, D magnet repelled magnet repelled",
+      "options": [
+        "A magnet attracted magnet attracted",
+        "B magnet attracted magnet repelled",
+        "C magnet repelled magnet attracted",
+        "D magnet repelled magnet repelled"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which sample of copper wire has the greatest electrical resistance? length    of    wire / m    diameter of wire / mm A 1.0                2.0, B 1.0                4.0, C 10                2.0, D 10                4.0 14",
+      "text": "Which sample of copper wire has the greatest electrical resistance? length    of    wire / m    diameter of wire / mm A 1.0                2.0, B 1.0                4.0, C 10                2.0, D 10                4.0 14",
+      "options": [
+        "A 1.0                2.0",
+        "B 1.0                4.0",
+        "C 10                2.0",
+        "D 10                4.0 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student uses the circuit shown to determine the resistance of the two identical resistors. A V The voltmeter reading is 2.2 V and the ammeter reading is 0.25 A. What is the resistance of each resistor? A 0.275 Ω B 0.55 Ω C 4.4 Ω D 8.8 Ω",
+      "text": "A student uses the circuit shown to determine the resistance of the two identical resistors. A V The voltmeter reading is 2.2 V and the ammeter reading is 0.25 A. What is the resistance of each resistor? A 0.275 Ω B 0.55 Ω C 4.4 Ω D 8.8 Ω",
+      "options": [
+        "A 0.275 Ω B 0.55 Ω C 4.4 Ω D 8.8 Ω"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which component is represented by this circuit symbol? A a bell, B a fuse, C a relay, D a transformer",
+      "text": "Which component is represented by this circuit symbol? A a bell, B a fuse, C a relay, D a transformer",
+      "options": [
+        "A a bell",
+        "B a fuse",
+        "C a relay",
+        "D a transformer"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student sets up this circuit. What is the purpose of the circuit? A to allow a lamp to be made dimmer or brighter as required, B to amplify the sound of a voice, C to light a lamp in the dark, D to sound a bell when the temperature rises 15",
+      "text": "A student sets up this circuit. What is the purpose of the circuit? A to allow a lamp to be made dimmer or brighter as required, B to amplify the sound of a voice, C to light a lamp in the dark, D to sound a bell when the temperature rises 15",
+      "options": [
+        "A to allow a lamp to be made dimmer or brighter as required",
+        "B to amplify the sound of a voice",
+        "C to light a lamp in the dark",
+        "D to sound a bell when the temperature rises 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three cores of different metals, P, Q and R, are placed inside identical coils of wire. At least one of the metals is non-ferrous. The cores are held above some iron nails. The three diagrams below show what happens when there is a current in the coils. P coil core iron nails QR + – + – + – The three diagrams below show what happens when the current is then switched off. PQR + – + – + – Which row identifies whether the core metals are ferrous or non-ferrous? ferrous       non-ferrous A P Q and R, B P and Q R, C Q and R P, D R P and Q 16",
+      "text": "Three cores of different metals, P, Q and R, are placed inside identical coils of wire. At least one of the metals is non-ferrous. The cores are held above some iron nails. The three diagrams below show what happens when there is a current in the coils. P coil core iron nails QR + – + – + – The three diagrams below show what happens when the current is then switched off. PQR + – + – + – Which row identifies whether the core metals are ferrous or non-ferrous? ferrous       non-ferrous A P Q and R, B P and Q R, C Q and R P, D R P and Q 16",
+      "options": [
+        "A P Q and R",
+        "B P and Q R",
+        "C Q and R P",
+        "D R P and Q 16"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram represents the voltage output of a simple a.c. generator? 0 voltage time A 0 voltage time B 0 voltage time C 0 voltage time D",
+      "text": "Which diagram represents the voltage output of a simple a.c. generator? 0 voltage time A 0 voltage time B 0 voltage time C 0 voltage time D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an electrical circuit, what is the purpose of a fuse? A to connect the metal case of an appliance to the earth, B to cut off the electrical supply if the current is too large, C to keep an electrical appliance dry in damp conditions, D to maintain a steady voltage as the current varies 17",
+      "text": "In an electrical circuit, what is the purpose of a fuse? A to connect the metal case of an appliance to the earth, B to cut off the electrical supply if the current is too large, C to keep an electrical appliance dry in damp conditions, D to maintain a steady voltage as the current varies 17",
+      "options": [
+        "A to connect the metal case of an appliance to the earth",
+        "B to cut off the electrical supply if the current is too large",
+        "C to keep an electrical appliance dry in damp conditions",
+        "D to maintain a steady voltage as the current varies 17"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a cathode-ray tube. anodecathode cathode-rays Which electrode should be heated, and which electrode should be positive? heated electrode    positive electrode A anode            anode, B anode           cathode, C cathode           anode, D cathode           cathode",
+      "text": "The diagram shows a cathode-ray tube. anodecathode cathode-rays Which electrode should be heated, and which electrode should be positive? heated electrode    positive electrode A anode            anode, B anode           cathode, C cathode           anode, D cathode           cathode",
+      "options": [
+        "A anode            anode",
+        "B anode           cathode",
+        "C cathode           anode",
+        "D cathode           cathode"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which particles are emitted during thermionic emission? A atoms, B electrons, C neutrons, D protons",
+      "text": "Which particles are emitted during thermionic emission? A atoms, B electrons, C neutrons, D protons",
+      "options": [
+        "A atoms",
+        "B electrons",
+        "C neutrons",
+        "D protons"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  uranium U 238 92 nucleus emits an α-particle. What are the new nucleon and proton numbers? nucleon number     proton number A 238              88, B 236              90, C 234              92, D 234              90 18",
+      "text": "A  uranium U 238 92 nucleus emits an α-particle. What are the new nucleon and proton numbers? nucleon number     proton number A 238              88, B 236              90, C 234              92, D 234              90 18",
+      "options": [
+        "A 238              88",
+        "B 236              90",
+        "C 234              92",
+        "D 234              90 18"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row shows the nature and the penetrating ability of β-particles? nature most are stopped by A electron a few mm of aluminium, B electron a thin sheet of paper, C helium nucleus a few mm of aluminium, D helium nucleus a thin sheet of paper",
+      "text": "Which row shows the nature and the penetrating ability of β-particles? nature most are stopped by A electron a few mm of aluminium, B electron a thin sheet of paper, C helium nucleus a few mm of aluminium, D helium nucleus a thin sheet of paper",
+      "options": [
+        "A electron a few mm of aluminium",
+        "B electron a thin sheet of paper",
+        "C helium nucleus a few mm of aluminium",
+        "D helium nucleus a thin sheet of paper"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A radioactive isotope is placed near a detector. The readings on the detector are corrected for background radiation and recorded every hour. The table shows the corrected readings. time / hours     0      1.0     2.0     3.0     4.0 count rate / counts per second     500     375     280     210     160 What is the half-life of the isotope? A between 0 and 1 hour, B between 1 hour and 2 hours, C between 2 hours and 3 hours, D between 3 hours and 4 hours 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "A radioactive isotope is placed near a detector. The readings on the detector are corrected for background radiation and recorded every hour. The table shows the corrected readings. time / hours     0      1.0     2.0     3.0     4.0 count rate / counts per second     500     375     280     210     160 What is the half-life of the isotope? A between 0 and 1 hour, B between 1 hour and 2 hours, C between 2 hours and 3 hours, D between 3 hours and 4 hours 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A between 0 and 1 hour",
+        "B between 1 hour and 2 hours",
+        "C between 2 hours and 3 hours",
+        "D between 3 hours and 4 hours 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2015/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2015-unit1-2015-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -20,13 +20,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "amyloplast" },
-            { "id": "B", "text": "middle lamella" },
-            { "id": "C", "text": "plasmodesmata" },
-            { "id": "D", "text": "tonoplast" }
+            {
+              "id": "A",
+              "text": "amyloplast"
+            },
+            {
+              "id": "B",
+              "text": "middle lamella"
+            },
+            {
+              "id": "C",
+              "text": "plasmodesmata"
+            },
+            {
+              "id": "D",
+              "text": "tonoplast"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "amyloplast"]
+          "keywords": [
+            "A",
+            "amyloplast"
+          ],
+          "image": "/papers/wbi12-may-2020/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -34,13 +50,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "one" },
-            { "id": "B", "text": "two" },
-            { "id": "C", "text": "three" },
-            { "id": "D", "text": "four" }
+            {
+              "id": "A",
+              "text": "one"
+            },
+            {
+              "id": "B",
+              "text": "two"
+            },
+            {
+              "id": "C",
+              "text": "three"
+            },
+            {
+              "id": "D",
+              "text": "four"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "one", "1"]
+          "keywords": [
+            "A",
+            "one",
+            "1"
+          ],
+          "image": "/papers/wbi12-may-2020/q1-1a_ii.png"
         },
         {
           "id": "1a_iii",
@@ -48,13 +81,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "one" },
-            { "id": "B", "text": "two" },
-            { "id": "C", "text": "three" },
-            { "id": "D", "text": "four" }
+            {
+              "id": "A",
+              "text": "one"
+            },
+            {
+              "id": "B",
+              "text": "two"
+            },
+            {
+              "id": "C",
+              "text": "three"
+            },
+            {
+              "id": "D",
+              "text": "four"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "three", "3"]
+          "keywords": [
+            "C",
+            "three",
+            "3"
+          ],
+          "image": "/papers/wbi12-may-2020/q1-1a_iii.png"
         },
         {
           "id": "1b",
@@ -63,9 +113,17 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q1b_microfibrils_em.png",
           "answer": "Cellulose molecules are straight chains held together by hydrogen bonds to form strong microfibrils; microfibrils are arranged in parallel/layers providing strength; the layered arrangement shown in the photograph creates a strong mesh/matrix; microfibrils provide tensile strength/resistance to stretching",
-          "keywords": ["hydrogen bonds", "microfibrils", "parallel", "layers", "tensile strength", "straight chains"]
+          "keywords": [
+            "hydrogen bonds",
+            "microfibrils",
+            "parallel",
+            "layers",
+            "tensile strength",
+            "straight chains"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q1.png"
     },
     {
       "id": "q2",
@@ -80,13 +138,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "animal cells only" },
-            { "id": "B", "text": "animal and plant cells only" },
-            { "id": "C", "text": "plant and prokaryotic cells only" },
-            { "id": "D", "text": "animal, plant and prokaryotic cells" }
+            {
+              "id": "A",
+              "text": "animal cells only"
+            },
+            {
+              "id": "B",
+              "text": "animal and plant cells only"
+            },
+            {
+              "id": "C",
+              "text": "plant and prokaryotic cells only"
+            },
+            {
+              "id": "D",
+              "text": "animal, plant and prokaryotic cells"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "all cells"]
+          "keywords": [
+            "D",
+            "all cells"
+          ],
+          "image": "/papers/wbi12-may-2020/q2-2a_i.png"
         },
         {
           "id": "2a_ii",
@@ -94,13 +168,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "plant cells only" },
-            { "id": "B", "text": "animal and plant cells only" },
-            { "id": "C", "text": "plant and prokaryotic cells only" },
-            { "id": "D", "text": "animal, plant and prokaryotic cells" }
+            {
+              "id": "A",
+              "text": "plant cells only"
+            },
+            {
+              "id": "B",
+              "text": "animal and plant cells only"
+            },
+            {
+              "id": "C",
+              "text": "plant and prokaryotic cells only"
+            },
+            {
+              "id": "D",
+              "text": "animal, plant and prokaryotic cells"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "plant and prokaryotic"]
+          "keywords": [
+            "C",
+            "plant and prokaryotic"
+          ],
+          "image": "/papers/wbi12-may-2020/q2-2a_ii.png"
         },
         {
           "id": "2b_i",
@@ -109,7 +199,12 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q2b_sailor_eyeball.png",
           "answer": "Measure diameter on diagram and divide by 25 μm; e.g. if diameter = 50 mm (50000 μm), magnification = 50000/25 = 2000×",
-          "keywords": ["measurement", "diameter", "calculation", "2000"]
+          "keywords": [
+            "measurement",
+            "diameter",
+            "calculation",
+            "2000"
+          ]
         },
         {
           "id": "2b_ii",
@@ -117,7 +212,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Photosynthesis / production of glucose/organic compounds",
-          "keywords": ["photosynthesis", "glucose", "organic"]
+          "keywords": [
+            "photosynthesis",
+            "glucose",
+            "organic"
+          ],
+          "image": "/papers/wbi12-may-2020/q2-2b_ii.png"
         },
         {
           "id": "2b_iii",
@@ -125,7 +225,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "It has a nucleus / membrane-bound organelles / it is large (25 μm) / has chloroplasts",
-          "keywords": ["nucleus", "membrane-bound organelles", "large", "eukaryotic"]
+          "keywords": [
+            "nucleus",
+            "membrane-bound organelles",
+            "large",
+            "eukaryotic"
+          ],
+          "image": "/papers/wbi12-may-2020/q2-2b_iii.png"
         },
         {
           "id": "2c_i",
@@ -134,7 +240,9 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q2c_plasmodesmata_em.png",
           "answer": "Plasmodesmata",
-          "keywords": ["plasmodesmata"]
+          "keywords": [
+            "plasmodesmata"
+          ]
         },
         {
           "id": "2c_ii",
@@ -142,9 +250,19 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Channels for transport/communication between adjacent plant cells; allow movement of water/solutes/ions/small molecules; enable cell-to-cell communication/coordination; maintain cytoplasmic continuity",
-          "keywords": ["transport", "communication", "channels", "solutes", "water", "ions", "cytoplasmic continuity"]
+          "keywords": [
+            "transport",
+            "communication",
+            "channels",
+            "solutes",
+            "water",
+            "ions",
+            "cytoplasmic continuity"
+          ],
+          "image": "/papers/wbi12-may-2020/q2-2c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q2.png"
     },
     {
       "id": "q3",
@@ -160,13 +278,33 @@
           "type": "mcq",
           "image": "/papers/wbi12-may2020/q3_mitosis_stages.png",
           "options": [
-            { "id": "A", "text": "A, E, B, D, C" },
-            { "id": "B", "text": "A, D, C, E, B" },
-            { "id": "C", "text": "C, D, B, E, A" },
-            { "id": "D", "text": "C, B, E, D, A" }
+            {
+              "id": "A",
+              "text": "A, E, B, D, C"
+            },
+            {
+              "id": "B",
+              "text": "A, D, C, E, B"
+            },
+            {
+              "id": "C",
+              "text": "C, D, B, E, A"
+            },
+            {
+              "id": "D",
+              "text": "C, B, E, D, A"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "C, B, E, D, A", "prophase", "metaphase", "anaphase", "telophase", "cytokinesis"]
+          "keywords": [
+            "D",
+            "C, B, E, D, A",
+            "prophase",
+            "metaphase",
+            "anaphase",
+            "telophase",
+            "cytokinesis"
+          ]
         },
         {
           "id": "3b_i",
@@ -175,7 +313,17 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q3b_dna_content_graph.png",
           "answer": "From 0-6 hours: DNA content constant at 2 a.u. (G1 phase - cell growth/preparation); 6-10 hours: DNA content doubles from 2 to 4 a.u. (S phase - DNA replication/synthesis); 10-15 hours: DNA content constant at 4 a.u. (G2 and mitosis - cell prepares for division); 15 hours: DNA content halves to 2 a.u. (cytokinesis - cell divides into two daughter cells); 15-25 hours: DNA content constant at 2 a.u. (daughter cells in interphase)",
-          "keywords": ["G1", "S phase", "G2", "mitosis", "replication", "doubles", "halves", "cytokinesis", "interphase"]
+          "keywords": [
+            "G1",
+            "S phase",
+            "G2",
+            "mitosis",
+            "replication",
+            "doubles",
+            "halves",
+            "cytokinesis",
+            "interphase"
+          ]
         },
         {
           "id": "3b_ii",
@@ -184,9 +332,18 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q3b_ii_meiosis_graph.png",
           "answer": "DNA replicates to 4 a.u. (as in mitosis); DNA halves to 2 a.u. after meiosis I; DNA halves to 1 a.u. after meiosis II; final DNA content 1 a.u. in gametes; graph should show steps at appropriate time points",
-          "keywords": ["replicates", "halves", "meiosis I", "meiosis II", "1 a.u.", "gametes", "two divisions"]
+          "keywords": [
+            "replicates",
+            "halves",
+            "meiosis I",
+            "meiosis II",
+            "1 a.u.",
+            "gametes",
+            "two divisions"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q3.png"
     },
     {
       "id": "q4",
@@ -202,7 +359,13 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q4a_wheat_grain.png",
           "answer": "Mass of bran = 48 mg × 0.14 = 6.72 mg; Mass of fibre = 6.72 mg × 0.43 = 2.8896 mg; Answer to 2 s.f. = 2.9 mg",
-          "keywords": ["2.9", "2.89", "calculation", "percentage", "significant figures"]
+          "keywords": [
+            "2.9",
+            "2.89",
+            "calculation",
+            "percentage",
+            "significant figures"
+          ]
         },
         {
           "id": "4b",
@@ -211,7 +374,15 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q4b_wheat_bran_cutlery.png",
           "answer": "Wheat bran is renewable/biodegradable/sustainable; reduces use of fossil fuels/oil; reduces pollution/waste in environment; can be composted/returns nutrients to soil; reduces carbon footprint compared to plastic production",
-          "keywords": ["renewable", "biodegradable", "sustainable", "fossil fuels", "pollution", "compost", "carbon footprint"]
+          "keywords": [
+            "renewable",
+            "biodegradable",
+            "sustainable",
+            "fossil fuels",
+            "pollution",
+            "compost",
+            "carbon footprint"
+          ]
         },
         {
           "id": "4c",
@@ -219,9 +390,19 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Pollen tube grows down the style to the ovary/embryo sac; carries two male nuclei; one male nucleus fuses with the egg cell to form zygote; second male nucleus fuses with two polar nuclei to form endosperm nucleus (triple fusion); this is double fertilisation",
-          "keywords": ["pollen tube", "male nuclei", "zygote", "polar nuclei", "triple fusion", "double fertilisation", "endosperm"]
+          "keywords": [
+            "pollen tube",
+            "male nuclei",
+            "zygote",
+            "polar nuclei",
+            "triple fusion",
+            "double fertilisation",
+            "endosperm"
+          ],
+          "image": "/papers/wbi12-may-2020/q4-4c.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q4.png"
     },
     {
       "id": "q5",
@@ -236,7 +417,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "A group of similar cells working together to perform a specific function / group of cells with similar structure and function",
-          "keywords": ["group of cells", "similar", "function", "working together"]
+          "keywords": [
+            "group of cells",
+            "similar",
+            "function",
+            "working together"
+          ],
+          "image": "/papers/wbi12-may-2020/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -245,7 +432,14 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q5a_mitotic_index_table.png",
           "answer": "Patient P mitotic index = (1+3+0+0)/(16+1+3+0+0) × 100 = 20%; Patient R mitotic index = (2+2+3+2)/(11+2+2+3+2) × 100 = 45%; Higher mitotic index indicates later stage; Patient R has later stage than Patient P",
-          "keywords": ["mitotic index", "calculation", "percentage", "20", "45", "later stage"]
+          "keywords": [
+            "mitotic index",
+            "calculation",
+            "percentage",
+            "20",
+            "45",
+            "later stage"
+          ]
         },
         {
           "id": "5b",
@@ -254,7 +448,15 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q5b_survival_graph.png",
           "answer": "Compare: All stages show decreasing survival over time; Stage I has highest survival at all time points; Stage IV has lowest survival at all time points; Contrast: Stage I shows slow decline (85% at 14 years); Stage IV shows rapid decline (to ~10% by 3 years); Stage II intermediate between I and IV; gap between stages widens over time",
-          "keywords": ["decreasing", "Stage I highest", "Stage IV lowest", "rapid decline", "slow decline", "contrast", "compare"]
+          "keywords": [
+            "decreasing",
+            "Stage I highest",
+            "Stage IV lowest",
+            "rapid decline",
+            "slow decline",
+            "contrast",
+            "compare"
+          ]
         },
         {
           "id": "5c",
@@ -262,9 +464,18 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Placebo is an inactive substance/control given to some patients; patients do not know if they receive drug or placebo; doctors/researchers also do not know; used to compare effects of drug against control; eliminates bias/psychological effects",
-          "keywords": ["inactive", "control", "patients do not know", "doctors do not know", "eliminates bias", "comparison"]
+          "keywords": [
+            "inactive",
+            "control",
+            "patients do not know",
+            "doctors do not know",
+            "eliminates bias",
+            "comparison"
+          ],
+          "image": "/papers/wbi12-may-2020/q5-5c.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q5.png"
     },
     {
       "id": "q6",
@@ -279,7 +490,17 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Suitable temperature (optimum for enzyme activity); moisture/water (for metabolic reactions/chemical processes); nutrients/food source (for energy/growth); suitable pH (not too acidic/alkaline); oxygen (for aerobic bacteria) or anaerobic conditions (for anaerobic bacteria); absence of antibiotics/competition",
-          "keywords": ["temperature", "moisture", "water", "nutrients", "food", "pH", "oxygen", "anaerobic"]
+          "keywords": [
+            "temperature",
+            "moisture",
+            "water",
+            "nutrients",
+            "food",
+            "pH",
+            "oxygen",
+            "anaerobic"
+          ],
+          "image": "/papers/wbi12-may-2020/q6-6a.png"
         },
         {
           "id": "6b_i",
@@ -288,7 +509,14 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q6b_cibotium_hairs.png",
           "answer": "Decrease = 802.71 − 95.71 = 707 mm²; Percentage decrease = (707 / 802.71) × 100 = 88.1% (≈ 88%)",
-          "keywords": ["707", "88.1", "88", "percentage decrease", "802.71", "95.71"]
+          "keywords": [
+            "707",
+            "88.1",
+            "88",
+            "percentage decrease",
+            "802.71",
+            "95.71"
+          ]
         },
         {
           "id": "6b_ii",
@@ -296,9 +524,20 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Control rats with ulcer had low mucus (0.75g) and large ulcer area (802.71 mm²) showing H. pylori infection reduces mucus and causes ulcers. Omeprazole treatment reduced ulcer area dramatically to 95.71 mm² (88% decrease) and increased mucus to 1.92g, showing it is effective. Plant extract treatments also reduced ulcer area (202.80 mm² at 125 mg/kg; 172.80 mm² at 500 mg/kg) and increased mucus (1.87g and 2.17g), showing antimicrobial properties. Higher dose of extract (500 mg/kg) was more effective than lower dose (125 mg/kg). Extract was less effective than omeprazole but still beneficial. Control rats with no ulcer had highest mucus (2.28g) and zero ulcer area, showing normal stomach protection.",
-          "keywords": ["mucus", "ulcer area", "omeprazole", "extract", "antimicrobial", "dose", "effective", "control"]
+          "keywords": [
+            "mucus",
+            "ulcer area",
+            "omeprazole",
+            "extract",
+            "antimicrobial",
+            "dose",
+            "effective",
+            "control"
+          ],
+          "image": "/papers/wbi12-may-2020/q6-6b_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q6.png"
     },
     {
       "id": "q7",
@@ -313,13 +552,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "metaphase I" },
-            { "id": "B", "text": "metaphase II" },
-            { "id": "C", "text": "telophase I" },
-            { "id": "D", "text": "telophase II" }
+            {
+              "id": "A",
+              "text": "metaphase I"
+            },
+            {
+              "id": "B",
+              "text": "metaphase II"
+            },
+            {
+              "id": "C",
+              "text": "telophase I"
+            },
+            {
+              "id": "D",
+              "text": "telophase II"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "metaphase I"]
+          "keywords": [
+            "A",
+            "metaphase I"
+          ],
+          "image": "/papers/wbi12-may-2020/q7-7a_i.png"
         },
         {
           "id": "7a_ii",
@@ -327,13 +582,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "metaphase I" },
-            { "id": "B", "text": "metaphase II" },
-            { "id": "C", "text": "prophase I" },
-            { "id": "D", "text": "prophase II" }
+            {
+              "id": "A",
+              "text": "metaphase I"
+            },
+            {
+              "id": "B",
+              "text": "metaphase II"
+            },
+            {
+              "id": "C",
+              "text": "prophase I"
+            },
+            {
+              "id": "D",
+              "text": "prophase II"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "prophase I"]
+          "keywords": [
+            "C",
+            "prophase I"
+          ],
+          "image": "/papers/wbi12-may-2020/q7-7a_ii.png"
         },
         {
           "id": "7b",
@@ -342,7 +613,14 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q7b_allele_combinations.png",
           "answer": "The genes are linked/on the same chromosome; AB and ab combinations are parental types (48% each); Ab and aB are recombinant types (2% each); crossing over occurs rarely between these genes; the genes are close together on the chromosome; independent assortment does not apply to linked genes; recombinant frequencies are much lower than 50% expected for independent assortment",
-          "keywords": ["linked genes", "same chromosome", "parental", "recombinant", "crossing over", "close together"]
+          "keywords": [
+            "linked genes",
+            "same chromosome",
+            "parental",
+            "recombinant",
+            "crossing over",
+            "close together"
+          ]
         },
         {
           "id": "7c",
@@ -351,7 +629,15 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q7c_alternative_splicing.png",
           "answer": "Gene contains exons (coding regions P, Q, R, S, T, U, V, W) and introns; transcription produces pre-mRNA containing all exons and introns; splicing removes introns and some exons; different combinations of exons can be retained in mature mRNA (alternative splicing); as shown in diagram, pre-mRNA with P, Q, R, S, T, U, V, W becomes mature mRNA with Q, S, U, W; different mature mRNA produces different polypeptides/proteins; one gene can code for multiple proteins",
-          "keywords": ["exons", "introns", "pre-mRNA", "splicing", "alternative splicing", "different exons", "polypeptides"]
+          "keywords": [
+            "exons",
+            "introns",
+            "pre-mRNA",
+            "splicing",
+            "alternative splicing",
+            "different exons",
+            "polypeptides"
+          ]
         },
         {
           "id": "7d",
@@ -360,9 +646,17 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q7d_gene_activity_graphs.png",
           "answer": "Gene T: activity increases from zygote to 4-cell/8-cell stage then decreases to blastocyst; highest activity at morula stage; Gene U: activity remains low/constant until 8-cell stage then increases rapidly to blastocyst; genes show opposite patterns; Gene T active early in development, Gene U active late; Gene T may be involved in early cleavage divisions, Gene U in blastocyst formation/differentiation",
-          "keywords": ["Gene T increases then decreases", "Gene U increases", "opposite patterns", "early development", "late development", "blastocyst"]
+          "keywords": [
+            "Gene T increases then decreases",
+            "Gene U increases",
+            "opposite patterns",
+            "early development",
+            "late development",
+            "blastocyst"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2020/q7.png"
     },
     {
       "id": "q8",
@@ -378,7 +672,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Large wingspan for efficient soaring flight over long distances to find food; streamlined body shape reduces air resistance for efficient flight; sharp beak for catching/grasping fish/squid/octopus; webbed feet for swimming/diving to catch prey",
-          "keywords": ["wingspan", "soaring", "streamlined", "beak", "webbed feet", "flight", "catching prey"]
+          "keywords": [
+            "wingspan",
+            "soaring",
+            "streamlined",
+            "beak",
+            "webbed feet",
+            "flight",
+            "catching prey"
+          ],
+          "image": "/papers/wbi12-may-2020/q8-8a_i.png"
         },
         {
           "id": "8a_ii",
@@ -386,7 +689,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Decline = 4500 × 0.053 = 238.5; New population = 4500 − 238.5 = 4261.5 ≈ 4262; OR 4500 × 0.947 = 4261.5 ≈ 4262",
-          "keywords": ["4262", "4261.5", "5.3%", "decline", "calculation"]
+          "keywords": [
+            "4262",
+            "4261.5",
+            "5.3%",
+            "decline",
+            "calculation"
+          ],
+          "image": "/papers/wbi12-may-2020/q8-8a_ii.png"
         },
         {
           "id": "8b",
@@ -395,7 +705,13 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q8b_wandering_albatross.png",
           "answer": "They look similar/identical in appearance; share anatomical features/adaptations; both are large seabirds with similar morphology; can interbreed/produce fertile offspring; similar behaviour/ecological niche",
-          "keywords": ["similar appearance", "morphology", "interbreed", "fertile offspring", "same genus"]
+          "keywords": [
+            "similar appearance",
+            "morphology",
+            "interbreed",
+            "fertile offspring",
+            "same genus"
+          ]
         },
         {
           "id": "8c",
@@ -404,7 +720,15 @@
           "type": "short_answer",
           "image": "/papers/wbi12-may2020/q8c_mice_predation.png",
           "answer": "Isolation on island separated from mainland mice; genetic variation present in original population; larger mice had selective advantage (could prey on albatross chicks/better survival); natural selection favoured larger mice; over many generations frequency of genes for larger size increased; accumulated genetic differences from mainland mice; became reproductively isolated; speciation occurred",
-          "keywords": ["isolation", "natural selection", "selective advantage", "genetic variation", "generations", "reproductive isolation", "speciation"]
+          "keywords": [
+            "isolation",
+            "natural selection",
+            "selective advantage",
+            "genetic variation",
+            "generations",
+            "reproductive isolation",
+            "speciation"
+          ]
         },
         {
           "id": "8d",
@@ -412,9 +736,24 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Use in situ conservation on nesting islands: protect breeding sites and prevent disturbance; control/eradicate invasive mice (e.g. trapping/poisoning) to reduce chick predation; monitor nests and protect chicks/eggs. Use ex situ conservation: captive breeding programmes in zoos in other countries to increase numbers; coordinate breeding to maximise genetic diversity (studbook, avoid inbreeding); reintroduce captive-bred birds/young to nesting islands; international cooperation and long-term population monitoring to ensure numbers recover.",
-          "keywords": ["in situ", "protect nesting sites", "eradicate mice", "predation", "captive breeding", "zoos", "genetic diversity", "reintroduction", "monitoring"]
+          "keywords": [
+            "in situ",
+            "protect nesting sites",
+            "eradicate mice",
+            "predation",
+            "captive breeding",
+            "zoos",
+            "genetic diversity",
+            "reintroduction",
+            "monitoring"
+          ],
+          "image": "/papers/wbi12-may-2020/q8-8d.png"
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi12-may-2020"
+  },
+  "unit": "Unit 2"
 }

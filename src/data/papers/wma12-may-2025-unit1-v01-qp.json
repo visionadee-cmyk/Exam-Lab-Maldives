@@ -1,0 +1,117 @@
+{
+  "paperId": "wma12-may-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-may-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "May 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 14x− Correct form for term 3 or term 4: Either ( ) ... x  or ( ) 7 6 5 ... x  o.e. M1 ( ) x  − or ( ) 7 6 5 x  − o.e. A1 1 283362240xxx= − +− B1, A1 (4) (b) Sets \"336\" 5 \"28\"k −= M1 ( ) k = A1 (2) (6 marks) (a) Note that a correct expression scores 4/4 M1: Correct form for x or x . Look for the correct binomial coefficient with the correct power of x. You do not need to be concerned with the − which may have been omitted. Allow alternative equivalent notation for the binomial coefficient for this mark e.g. C or C or    or 7! 2!5! etc Condone invisible brackets for this mark e.g. Cx − A1: Correct x or x term (which may be unsimplified). They must have a numerical expression or value for their binomial coefficient for this mark. i.e. do not allow e.g. C Do not condone poor bracketing for this mark but may be implied by further work. B1: For the series starting 1 28x− (terms may be in any order or as a list) Condone 1 28 x − but not e.g. x +− isw if they subsequently incorrectly attempt to simplify their answer. A1: 3362240xx− Do not accept e.g. 3362240xx+− unless already penalised for B1. Allow the terms to be written as a list. isw once the correct simplified terms have been found (b) M1: Adds the correct two terms using their coefficients from (a) and sets equal to 1316. (Allow misread) Look for ''336'' 5 '' 28'' k   = i.e. they do not need to proceed to a value for k for this mark If they still have x and x present in the equation then these must be removed or implied by further work to score the mark. Condone transcription errors from their part (a). If just a value is stated following an incorrect part (a), then you will need to check this. A1: () 13k= Number Scheme Marks",
+          "image": "/papers/wma12-may-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2025/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Midpoint of ( ) 2, 5 − and ( ) 4, 15 is () 2 4 5 15 ,1, 10 − + +  =   B1 Attempts radius or diameter : e.g. ( ) ( ) 15 5 D = −− + − = M1 Radius = 34 A1 ( ) ( ) xy − + − = M1, A1 (5) (b) ( ) 1, 10 − B1 , dB1 (2) (7 marks) (a) B1: Finds the midpoint of the two given points. Must be simplified to score this mark. Can be implied by circle formula. Allow e.g. 1, xy == or may be without brackets. May be seen on a diagram. M1: Attempts to find the radius or diameter . Can be implied by the circle formula e.g. ( ) ( ) ... ... xy  +  = It does not need to be correctly labelled but they must be attempting to find the difference between the x coordinates and the difference between the y coordinates before squaring. Condone square rooting to find the radius or diameter (which may be all that is seen) e.g. 2 34, 136 ( 11.66..), 34 ( 5.83...) == . Allow decimals for this mark. May be seen embedded within x y fx gy c + + + + = A1: Calculates the radius = 34 o.e. (or allow to be implied by radius = ) Can be implied by circle formula or a value of 67c= in x y fx gy c + + + + = M1: Attempts correct form for the circle ( ) ( ) ''1'' ''10 '' ''34 '' xy  +  = or ()() ''136 '' ''1''''10 '' xy+ = Do not allow this mark if they have clearly attempted to use their radius instead of their radius If they have found the length of the diameter or diameter however they have labelled it, then they must have attempted to divide by 4. They may alternatively attempt 220xyfxgy c+ + + + = where \" 1\"f= , \" 10\"g= and \" 67\" c = If a centre has not been found or attempted with just values appearing in the equation then they must be correct. A1: ( ) ( ) xy − + − = but not ( ) ( ) ( ) xy − + − = isw after a correct answer Also allow equivalent expressions e.g. 22067 0xyxy+ − − + = (b) Note coordinates may be seen on a diagram. Do not allow 1x= if just the midpoint from (a) is stated. B1: Either x = or 1034y=− Condone lack of labelling for this mark. Isw after an exact coordinate is seen. dB1:",
+          "image": "/papers/wma12-may-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2025/page-05.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Sets () f30− = → ()()() 33533 0ab − +  − +  − − = M1 ab − + =  ba =+ * A1* (2) (b) Sets f  =→   ab        +  +  − =             M1 ab += A1 Solves ba =+ with their ..., ... a b a b + =  = = M1 2,8ab== A1 (4) (c) e.g. ( ) .........Remainder xxx xx x + + − =+ + + − M1 (Quotient =) xx ++ A1 Remainder = 55 B1 (3) (9 marks) (a) M1: Sets ( ) f −= and proceeds to an equation in a and b Condone sign slips. Score when you see embedded values within the equation or two correct simplified terms on the lhs of the equation. The = 0 may be implied by further work which is not the given answer. A1*: Completes proof with no errors including brackets and at least one intermediate stage of working such as ab − + = and = 0 must be seen somewhere in their solution. ------------------------------------------------------------------------------------------------------------------------------------- Alt I M1: Attempts to divide by 3x+ and sets their remainder in a and b = 0. May be seen in a variety of forms such as the grid or box method. Condone slips provided they are attempting to divide by x + and set their remainder in a and b equal to 0. The = 0 may be implied by further work which is not the given answer. () () (3 )5 3(3 ) (3 )5 (3 )3(3 ) 5 3(3 )3 5 3(3 )15 9(3 ) axba xba xaxbxx axax ba xx ba xba x ba x ba xba + − + − − +++− + −+ −+ − − −− − −+ − − 3 (15 9(3 )) 0ba − − − − = A1*: Completes proof with no errors seen and an intermediate stage of working such as 18 9(3 ) 032 *baba− + − =  = + (= 0 must be seen somewhere in their solution) Alt II M1: Substitutes in ba =+ , sets ( ) f − = → equation in a or b only Condone sign slips. Score when you see embedded values within the equation or two correct terms on the lhs of the equation. A1*: Completes proof and achieves 00= concluding that 32ba=+ (b) Note they may have substituted in ba =+ early so the equation will be in a only or b only M1: Sets f o.e.  =   and proceeds to an equation in a and ",
+          "image": "/papers/wma12-may-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma12-may-2025/page-09.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wma12-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-may-2025/page-01.png",
+      "/papers/wma12-may-2025/page-02.png",
+      "/papers/wma12-may-2025/page-03.png",
+      "/papers/wma12-may-2025/page-04.png",
+      "/papers/wma12-may-2025/page-05.png",
+      "/papers/wma12-may-2025/page-06.png",
+      "/papers/wma12-may-2025/page-07.png",
+      "/papers/wma12-may-2025/page-08.png",
+      "/papers/wma12-may-2025/page-09.png",
+      "/papers/wma12-may-2025/page-10.png",
+      "/papers/wma12-may-2025/page-11.png",
+      "/papers/wma12-may-2025/page-12.png",
+      "/papers/wma12-may-2025/page-13.png",
+      "/papers/wma12-may-2025/page-14.png",
+      "/papers/wma12-may-2025/page-15.png",
+      "/papers/wma12-may-2025/page-16.png",
+      "/papers/wma12-may-2025/page-17.png",
+      "/papers/wma12-may-2025/page-18.png",
+      "/papers/wma12-may-2025/page-19.png",
+      "/papers/wma12-may-2025/page-20.png",
+      "/papers/wma12-may-2025/page-21.png",
+      "/papers/wma12-may-2025/page-22.png",
+      "/papers/wma12-may-2025/page-23.png",
+      "/papers/wma12-may-2025/page-24.png",
+      "/papers/wma12-may-2025/page-25.png",
+      "/papers/wma12-may-2025/page-26.png",
+      "/papers/wma12-may-2025/page-27.png",
+      "/papers/wma12-may-2025/page-28.png",
+      "/papers/wma12-may-2025/page-29.png",
+      "/papers/wma12-may-2025/page-30.png",
+      "/papers/wma12-may-2025/page-31.png",
+      "/papers/wma12-may-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

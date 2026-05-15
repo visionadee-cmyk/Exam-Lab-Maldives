@@ -1,0 +1,111 @@
+{
+  "paperId": "physics-0625-2022-unit3-june-p33-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit3-june-p33-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/33",
+  "session": "May/June 2022",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "remote controls/heat lamps/heaters/thermal imaging/ night vision/security cameras/heaters/grills/measuring blood B1 oxygen/pulse oximeters/measuring body temperature/thermal thermomete r B1 0625/33 May/June 2022",
+          "image": "/papers/physics-0625-2022/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "wave transverse longitudinal infrared  microwaves  ultrasound  radio waves  B2 A3 (Ns = ) N P  V S /V P OR 8000  12/240 (C2) V P /V S = N P /N S in any form (C1) r B1 r B1",
+          "image": "/papers/physics-0625-2022/q7-7c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) The device in Fig. 8.1 is connected to a 240 V mains supply. The device produces a potential difference (p.d.) of 12 V between A and B. A 12 V lamp is connected between A and B. 12 V lamp secondary coil A B primary coil 8000 turns 240 V mains supply Fig. 8.1 (i) Calculate the number of turns on the secondary coil. Use information from",
+      "text": "8 (a) The device in Fig. 8.1 is connected to a 240 V mains supply. The device produces a potential difference (p.d.) of 12 V between A and B. A 12 V lamp is connected between A and B. 12 V lamp secondary coil A B primary coil 8000 turns 240 V mains supply Fig. 8.1 (i) Calculate the number of turns on the secondary coil. Use information from",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "motor connected between A and B B1 2 lamps in series connected between A and B A2 2 lamps in series (C1)",
+          "image": "/papers/physics-0625-2022/q8-8b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "electromotive force/e. m. f./ potential difference/p. d./ voltage B1 0625/33 May/June 2022 B1 r B1 A3 4(.0) ÷ 10 (C2) ( I = ) V ÷ R in any form (C1) 0.4(0) (A) OR same as (c)(i) B1 M1 resultant/total/combined resistance does not change A1",
+          "image": "/papers/physics-0625-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) State the names of three types of radioactive emission. 1. ............................................................................................................................................... 2. ............................................................................................................................................... 3. .................................",
+      "text": "10 (a) State the names of three types of radioactive emission. 1. ............................................................................................................................................... 2. ............................................................................................................................................... 3. .................................",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) State the names of three types of radioactive emission. 1. ............................................................................................................................................... 2. ............................................................................................................................................... 3. .................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "alpha/  B1 beta/  B1 gamma/  B1 B1 B1 B1 B1",
+          "image": "/papers/physics-0625-2022/q10-10a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit3-2022-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

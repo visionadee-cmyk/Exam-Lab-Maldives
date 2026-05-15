@@ -1,0 +1,187 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1(a). ............................................................................................................................................. [1] (c) Identify the type of software that is used to find and remove malware from a computer. .............................................................................................................................................",
+      "text": "1(a). ............................................................................................................................................. [1] (c) Identify the type of software that is used to find and remove malware from a computer. .............................................................................................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1(a). ............................................................................................................................................. [1] (c) Identify the type of software that is used to find and remove malware from a computer. .............................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− A − Spyware // Keylogger − Adware − Trojan horse",
+          "image": "/papers/computer_science-0478-2023/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Anti-malware Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 227 − E3",
+          "image": "/papers/computer_science-0478-2023/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 0 0 0 1 1 0 0 One mark for correct answer − 10011101 One mark for correct working e.g. correct carry One mark for showing overflow bit 1 1 1 0 0 0 1 1 + 0 1 0 0 1 1 0 0 1 0 0 1 0 1 1 1 1 Question Answer Marks − The maximum number of FDE cycles/instructions a CPU can perform/process/execute in a second − Increases/improves the performance // Tasks can be performed quicker/faster − ... because more FDE cycles/instructions can be processed in a second",
+          "image": "/papers/computer_science-0478-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Stores addresses ... − ... of next instruction/data to be fetched // where data is to be written to",
+          "image": "/papers/computer_science-0478-2023/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Instruction set October/November Question Answer Marks − Performs a single/limited/dedicated function/task − It has a microprocessor − It has dedicated hardware − Uses firmware − It is normally built into a larger device/system − User normally cannot reprogram − It does not require much power − It is cheap to manufacture − Works automatically // works without human intervention − It is small (in size) − It is a real-time system − security light system − freezer − vending machine Question Answer Marks − The recording of the song is more accurate/closer to original − The file size will be increased − The file will require more storage space − The number of bits that are used per sample − ... that provides the variation in amplitude that can be stored for each sample // defines the number of different amplitudes that can be recorded − ... that determines how quiet/loud the sounds are that can be recorded − Example e.g. 16-bit",
+          "image": "/papers/computer_science-0478-2023/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Lossless October/November Question Answer Marks 6 One mark for each correct data transmission method: Data transmission method Description serial simplex Data is transmitted down a single wire, one bit at a time, in one direction only. parallel half-duplex Data is transmitted down multiple wires, multiple bits at a time, in both directions, but only one direction at a time. serial full-duplex Data is transmitted down a single wire, one bit at a time, in both directions at the same time. parallel simplex Data is transmitted down multiple wires, multiple bits at a time, in one direction only. Question Answer Marks − Barcode scanner − QR code scanner − Digital camera − Proximity/infrared/pressure sensor used − Sensor continually sends digitised data to microprocessor // When driver pushes button, sensor sends digitised data to the microprocessor − Microprocessor compares data to stored value(s) − If in range/out of range/matches, microprocessor sends signal to close the door − Actuator used to close door − If not in range/out of range/does not match door will not close // If not in range/out of range/does not match actuator not activated/signal not sent as passenger in door // If not in range/out of range/does not match a timer is set to check again // If not in range/out of range/does not match a signal is sent to alert the driver/output a message − This process repeats until the door can close October/November Question Answer Marks − Data is being sent from one device to another − The data is being examined during transmission − Packet sniffer is used − Intercepted data is reported to a third-party during transmission ... − ... and analysed for anything useful − Connection hacked to spoof destination address e.g.",
+          "image": "/papers/computer_science-0478-2023/q5-5d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) Draw and annotate a diagram that demonstrates the cyber security threat of data interception. [4] (b) Identify one security solution that will help keep data safe from data interception and state why",
+      "text": "8 (a) Draw and annotate a diagram that demonstrates the cyber security threat of data interception. [4] (b) Identify one security solution that will help keep data safe from data interception and state why",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Encryption ... − ... if the data is intercepted it will be meaningless (because they do not have the decryption key) October/November Question Answer Marks Term Description world wide web the collective name for all the web pages available cookie a small text file, stored by the web browser, that can store a user’s personal data uniform resource locator (URL) the text-based address for a website // It is made up of the protocol, domain name and filename/folder name web server Stores web pages // receives requests from clients and returns requested web page hypertext markup language // HTML the language used to create a website. Example tags are <head> and <body> hypertext transfer protocol // HTTP a protocol that is used to request and send web pages Question Answer Marks − The ability to learn/adapt // machine learning abilities − The collection of data and the rules for using that data − The ability to reason // has problem solving abilities // makes predictions − Simulates intelligent/human behaviour − Analyses patterns − It has an interface ... − ... used to input data/view output − It has a knowledge base − It has a rule base − It has an inference engine − Applies the rule base to/and the knowledge base to provide output/diagnosis/result/solution/decision − Decides what to ask next based on the data input October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "11 (a) Give the denary number for the binary number stored in the register. ............................................................................................................................................. [1] Working space ......................................................................................................................................",
+      "text": "11 (a) Give the denary number for the binary number stored in the register. ............................................................................................................................................. [1] Working space ......................................................................................................................................",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "11 (a) Give the denary number for the binary number stored in the register. ............................................................................................................................................. [1] Working space ......................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Amount of liquid/gas/steam flowing/moving through an environment e.g.: − Increases safety − ...meaning that workers do not need to go into dangerous areas to collect data/make checks/do dangerous tasks − Can increase jobs/skills − ...as employees are needed to learn/maintain the equipment − No need to do repetitive tasks − ... so, they can use their time on other/more skilled tasks e.g.: − High set-up/installation costs − ... it would mean the company need to find a lot of money up front to pay for the equipment // employees will need training − Utility/maintenance/repair costs − ... increase in bills such as electricity // skilled employees will be required to maintain the system // equipment will break/need updating − Deskilling of the workforce − ... may mean that workers will no longer have the skills for some of the manufacturing jobs, should the equipment break Question Answer Marks − Only exists electronically − Can be a decentralised system − Can be a centralised system − Usually encrypted",
+          "image": "/papers/computer_science-0478-2023/q11-11a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Blockchain October/November Question Answer Marks − C − Directly accessed by the CPU − Has both volatile and non-volatile storage − Random access memory (RAM) − Hard disk drive (HDD) − Pages − Random access memory (RAM) − Virtual memory // Hard disk drive (HDD)",
+          "image": "/papers/computer_science-0478-2023/q12-12b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

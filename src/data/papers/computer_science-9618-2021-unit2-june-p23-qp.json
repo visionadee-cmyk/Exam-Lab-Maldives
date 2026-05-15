@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-9618-2021-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2021-unit2-june-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "May/June 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) A program is being developed to help manage the membership of a football club. Complete the following identifier table. Example value ExplanationVariable nameData type \"Wong\" The preferred name of the member joining the football club FALSE A value to indicate whether an existing member of the club lives at the same address 19/02/1983 When the member joined the footb",
+      "text": "1 (a) A program is being developed to help manage the membership of a football club. Complete the following identifier table. Example value ExplanationVariable nameData type \"Wong\" The preferred name of the member joining the football club FALSE A value to indicate whether an existing member of the club lives at the same address 19/02/1983 When the member joined the footb",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) A program is being developed to help manage the membership of a football club. Complete the following identifier table. Example value ExplanationVariable nameData type \"Wong\" The preferred name of the member joining the football club FALSE A value to indicate whether an existing member of the club lives at the same address 19/02/1983 When the member joined the footb",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Example value Explanation Variable name Data type \"Wong\" The preferred name of the member joining the football club MemberName STRING FALSE A value to indicate whether an existing member of the club lives at the same address FamilyMember BOOLEAN 19/02/1983 When the member joined the football club StartDate DATE The number of points a member has earned. Members of the club earn points for different activities. Points INTEGER One mark for each appropriate variable name plus data type",
+          "image": "/papers/computer_science-9618-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement Error Result ← 2 & 4 Should be arithmetic operator (not &) // 2 and 4 should be CHAR / STRING SubString ← MID(\"pseudocode\", 4, 1) NO ERROR IF x = 3 OR 4 THEN Not Boolean values / incorrect operator // Condition incorrect Result ← Status AND INT(X/2) INT(X/2) doesn't evaluate to a boolean value / incorrect operato r Message ← \"Done\" + LENGTH(MyString) Can’t add string to number / \"Done\" is not a number One mark for each row May/June 2021 Question Answer Marks • Record Justification: • Allows different data types • to be stored under one identifier Mark as follows: One mark for Structure Two marks for justification. Alternative • Two (1D) arrays • One of string, one of integer • Where same index links the name with the score May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) Four program modules form part of a program for a library. A description of the relationship between the modules is summarised as follows: Module nameDescription UpdateLoan() • Calls either LoanExtend() or LoanReturn() LoanExtend() • Called with parameters LoanID and BookID • Calls CheckReserve() to see whether the book has been reserved for another library user • Re",
+      "text": "2 (a) Four program modules form part of a program for a library. A description of the relationship between the modules is summarised as follows: Module nameDescription UpdateLoan() • Calls either LoanExtend() or LoanReturn() LoanExtend() • Called with parameters LoanID and BookID • Calls CheckReserve() to see whether the book has been reserved for another library user • Re",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Four program modules form part of a program for a library. A description of the relationship between the modules is summarised as follows: Module nameDescription UpdateLoan() • Calls either LoanExtend() or LoanReturn() LoanExtend() • Called with parameters LoanID and BookID • Calls CheckReserve() to see whether the book has been reserved for another library user • Re",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for: 1 All four boxes correctly labelled and positioned 2 Selection diamond (only on UpdateLoan and no iteration arrows) 3 Parameters to and from LoanExtend() 4 Parameters to and from CheckReserve() 5 Parameters to and from LoanReturn()",
+          "image": "/papers/computer_science-9618-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE LoanReturn (LoanID, BookID : STRING, BYREF Fine : REAL) One mark for each underlined part May/June 2021 Question Answer Marks One mark for each functional group as listed below: May/June 2021 Question Answer Marks 1 Initialise MAX to first value input 2 Set Total to zero 3 Input 49 more values (or 50 values in total) 4 Sum all values input 5 Set new MAX when Input value > MAX in a loop 6 Sum all but largest (or subtract MAX from total), calculate and output average Question Answer Marks • Data from the arrays is written to the files at the end of the day / before the program is terminated / computer is switched off • Data can then be read from the files at the start of the next day and written to / stored in the arrays • No need to (re-)enter the data manually // only need to enter data once Note: Max 2 marks • The data is retained when the program is terminated / after the computer is switched of f // data is stored permanently // non-volatile storage • Data items are combined to form a single string / saved as a single line in the file • Data items are separated by a special character // make each data item a fixed length ALTERNATIVE: • Convert all data items / 'number of people' to strings • Consecutive / each line stores a separate data item May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) A concert venue uses a program to calculate admission prices and store information about ticket sales. A number of arrays are used to store data. The computer is switched off overnight and data has to be input again at the start of each day before any tickets can be sold. This process is very time consuming. (i) Explain how the program could us",
+      "text": "3 (a) A concert venue uses a program to calculate admission prices and store information about ticket sales. A number of arrays are used to store data. The computer is switched off overnight and data has to be input again at the start of each day before any tickets can be sold. This process is very time consuming. (i) Explain how the program could us",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE Preview (ThisFile : STRING) DECLARE LineNum : INTEGER DECLARE ThisLine : STRING OPENFILE ThisFile FOR READ IF EOF(ThisFile) THEN OUTPUT “Warning Message” ELSE LineNum ← 1 WHILE LineNum < 6 AND NOT EOF(ThisFile) READFILE Thisfile, ThisLine OUTPUT ThisLine LineNum ← LineNum + 1 ENDWHILE ENDIF CLOSEFILE ThisFile ENDPROCEDURE Marks as follows: 1 Procedure heading (including parameter) and ending 2 File OPEN and subsequently CLOSE 3 Check if file is empty and output a warning message if it is 4 Conditional Loop 5 Output line (including blank lines) and read next line in a loop May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Name Flag Index NewName ThisChar \"∇in∇a∇∇Cup\" TRUE 1 \"\" '∇' \"∇\" 2 'i' FALSE \"∇I\" 3 'n' \"∇In\" '∇' TRUE \"∇In∇\" 5 'a' FALSE \"∇In∇A\" '∇' TRUE \"∇In∇A∇\" '∇' \"∇In∇A∇∇\" 8 'C' FALSE \"∇In∇A∇∇C\" 9 'u' \"∇In∇A∇∇Cu\" 10 'p' \"∇In∇A∇∇Cup\" FALSE 11 \"∇In∇A∇∇Cup\" 'p' Mark as follows: • One mark for each of columns 2 to 5 (condone missing final 11) • One mark for final row all correct (including final 11) May/June 2021 Question Answer Marks Justification: The number of iterations is known One mark per point 24 ThisChar ← LCASE(MID(Name, Index, 1) ALTERNATIVE: 31 NewName ← NewName & LCASE(ThisChar) Ignore line numbe r Line number: 26 New position: Move to after line 27 / line 28 May/June 2021 Question Answer Marks PROCEDURE Sort() DECLARE Temp : INTEGER DECLARE NoSwaps : BOOLEAN DECLARE Boundary, Row, Col : INTEGER Boundary ← 999 REPEAT NoSwaps ← TRUE FOR Row ← 1 TO Boundary IF Result[Row, 2] > Result[Row + 1, 2] THEN FOR Col ← 1 TO 2 Temp ← Result [Row, Col] Result [Row, Col] ← Result [Row + 1, Col] Result [Row + 1, Col] ← Temp NEXT Col NoSwaps ← FALSE ENDIF NEXT J Boundary ← Boundary - 1 UNTIL NoSwaps = TRUE ENDPROCEDURE Mark as follows: 1 Outer loop 2 Inner loop 3 Correct comparison in a loop 4 Correct swap of col1 array elements in a loop 5 Correct swap of col2 array elements in a loop (via loop or separate statements) 6 'NoSwap' mechanism: Conditional outer loop including flag reset 7 'NoSwap' mechanism: Set flag in inner loop to indicate swap 8 Reducing Boundary in the outer loop Question Answer Marks 1 Check for a free node 2 Search for correct insertion point 3 Assign data value B to first node in free list / node pointed to by start pointer of free list 4 Pointer from A will be changed to point to node containing B (instead of C) 5 Pointer from B will be changed to point to node containing C 6 Start pointer in free list moved to point to next free node Note: max 4 marks May/June 2021 Question Answer Marks • An array (1D) to store the data and a second array (1D) to store the poi",
+          "image": "/papers/computer_science-9618-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q4.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION GetStart (WordNum : INTEGER) RETURNS INTEGER DECLARE Index, ThisPos, NumFound : INTEGER DECLARE ThisChar : Char CONSTANT SPACECHAR = ' ' Index ← -1 Numfound ← 0 ThisPos ← 1 IF WordNum = 1 THEN // if looking for word 1... Index ← 1 // Word 1 always starts at index // position 1 ELSE // Otherwise start counting spaces... WHILE ThisPos <= LENGTH(FNString) AND Index = -1 ThisChar ← MID(FNString, ThisPos, 1) IF ThisChar = SPACECHAR THEN NumFound ← NumFound + 1 IF NumFound = WordNum - 1 THEN Index ← ThisPos + 1 // the start of the // required word ENDIF ENDIF ThisPos ← ThisPos + 1 ENDWHILE ENDIF RETURN Index ENDFUNCTION 1 mark for each of the following: 1 Function heading, including return type and function end 2 Loop counting spaces until word found or end of FNString 3 extract a character from FNString in a loop 4 compare with SPACECHAR and increment count if equal in a loop 5 compare count with WordNum - 1 (depending on initialisation value) in a loop 6 if equal then set flag or Index to ThisPos + 1 in a loop 7 Return Index (correctly in all cases / following a reasonable attempt) 8 Works for special case when looking for word 1 Note: Max 7 marks May/June 2021 Question Answer Marks 1 Mention of variable for use as array index 2 Use of a loop (to check through the array) 3 If word is the same as the current array element then return FALSE / set flag 4 If word not already in array, loop to find unused element (second loop) 5 Store word in unused element and return TRUE, otherwise return FALSE VARIATION: 1 Mention of variable for use as array index 2 Use of a loop (to check through the array) 3 Save index of (first) unused element found 4 If word is the same as the current array element then return FALSE / set flag 5 If word not already in array and unused element available, store word in unused element and return TRUE otherwise return FALSE Note: Max 4 marks May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q7-7a.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION GetWord (Index : INTEGER) RETURNS STRING DECLARE NextWord : STRING DECLARE Done : BOOLEAN DECLARE ThisChar : CHAR DECLARE Index : INTEGER CONSTANT SPACECHAR = ' ' NextWord ← \"\" Done ← FALSE REPEAT ThisChar ← MID(FNString, Index, 1) IF ThisChar <> SPACECHAR THEN NextWord ← NextWord & ThisChar // build up NextWord ENDIF IF ThisChar = SPACECHAR OR Index = LENGTH(FNString) THEN Done ← TRUE ENDIF Index ← Index + 1 UNTIL Done = TRUE RETURN NextWord ENDFUNCTION 1 mark for each of the following: 1 Conditional loop 2 Extract char from FNString and compare with SPACECHAR in a loop 3 Concatenate with NextWord if not SPACECHAR in a loop 4 Exit loop when SPACECHAR encountered or when end of FNString reached 5 Return NextWord (after reasonable attempt at forming, and must have been initialised) May/June 2021 Question Answer Marks FUNCTION GetWord (Index : INTEGER) RETURNS STRING DECLARE Done : BOOLEAN DECLARE ThisChar : CHAR DECLARE Index, NextPos : INTEGER CONSTANT SPACECHAR = ' ' Done ← FALSE NextPos ← Index // must be at least one character in // the required word REPEAT ThisChar ← MID(FNString, NextPos, 1) IF ThisChar = SPACECHAR OR NextPos = LENGTH(FNString) THEN Done ← TRUE ELSE NextPos ← NextPos + 1 ENDIF UNTIL Done = TRUE IF NextPos = LENGTH(FNString) THEN NextPos ← NextPos - 1 // special case when last word ENDIF RETURN MID(FNString, Index, NextPos - Index) ENDFUNCTION 1 mark for each of the following: 1 Conditional loop 2 ...extract char from FNString and compare with SPACECHAR in a loop 3 .. increment count if word continues 4 Exit loop when SPACECHAR encountered or when end of FNString reached Apply substring function and Return",
+          "image": "/papers/computer_science-9618-2021/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2021-unit2-2021-06-21-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

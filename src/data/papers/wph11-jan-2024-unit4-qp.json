@@ -1,0 +1,167 @@
+{
+  "paperId": "wph11-jan-2024-unit4-qp",
+  "pairedMarkSchemeId": "wph11-jan-2024-unit4-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH14/01",
+  "session": "January 2024",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐹= 푄 푄 4π휀 푟 or Use of 퐹= 푘푄 푄 푟 퐹=7.4×10 −8 N Example of calculation 퐹= (2 × 1.6×10 −19 C) × (1.6×10 −19 C) 4π×8.85×10 −12 F m −1 × ( 7.9×10 −11 m ) =7.38×10 −8 N (1) (1)",
+          "image": "/papers/wph11-jan-2024/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐸= 퐹 푄 Or Use of 퐸= 푄 4π휀 푟 (Allow use of 퐸= 푘푄 푟 ) 퐸=4.6×10 N C −1 (ecf from (a)) Example of calculation 퐸= 7.38×10 −8 N 1.6×10 −19 C =4.61×10 N C −1 (1) (1) Total for question 13 4 Number Answer Mark Most alphas went straight through Or Most alpha particles were undeviated So atom is mainly empty (space) (MP2 dependent on MP1) A few alpha particles were deflected by small angles very few alpha particles had a deflection > 90° Or Very few alpha particles came straight back There is a concentration of charge in the atom (MP5 dependent on MP3 or MP4) Or There is a concentration of mass in the atom (MP5 dependent on MP4) (1) (1) (1) (1) (1) Total for question 14 5 Number Answer Mark Use of 휆= ℎ 푝 Use of 퐸 k = 푝 2푚 Or Use of 퐸 k = 푚푣 and p = mv Use of 푉= 푊 푄 with 푊=퐸 k V = 2300 V Example of calculation 푝= 6.63×10 −34 Js 2.55×10 −11 m =2.60×10 −23 N s 퐸= ( 2.60×10 −23 N s ) 2×9.11×10 −31 kg =3.71×10 −16 J 푉= 3.71×10 −16 J 1.6×10 −19 C =2320 V (1) (1) (1) (1) Total for question 15 4 Number Answer Mark Use of 푑퐴 푑푡 =퐿푣 Or In 1 second, area swept out by wings = Lv Use of 휑=퐵퐴 Use of 휀=− 푑 ( 푁휑 ) 푑푡 v = 280 (m s −1 ) > 250 (m s −1 ) so the pilot’s statement is not correct Or emf = 0.36 (V) < 0.40 (V) so the pilot’s statement is not correct Example of calculation 휀=− 푑 ( 푁휑 ) 푑푡 = 푑 ( 푁퐵퐴 ) 푑푡 =퐵 푑퐴 푑푡 푑퐴 푑푡 =35 m×푣 0.40 V=41×10 −6 T×35 m×푣 푣= 0.40 푉 41×10 −6 T×35 m =279 m s −1 (1) (1) (1) (1) Total for question 16 4 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q13.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct vector diagram showing velocity at the two positions and the corresponding velocity change Use small angle approximation, so δθ ≈ δv /v Use of δθ / δt = ω and v = rω Or Use of similar triangles and δθ = δs/r and δs /t = v Use of δv / δt = a Algebra to show a = v /r Example of derivation v A = v B = v Small angle, so δθ = δv / v δθ = ωδt δθ = vδt / r vδt / r = δv / v δv / δt = v / r a = v / r Or v A = v B = v Small angle, so δv/v ≈ δθ δs/r ≈ δθ Similar triangles, so δv/v = δs/r δv/t = v δs/tr δv/t = v /r a = v /r (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q17-17a.png"
+        },
+        {
+          "id": "17b",
+          "text": "Part 17b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐹= 푚푣 푟 Use of 퐹=푚푔 Use of Pythagoras Or Use of trigonometry sufficient to determine tension 푇=31 (N), which is less than 35 (N) so the wire will not break Example of calculation 퐹= 1.55 kg × ( 22.5 m s −1 ) 28.5 m =27.5 N 퐹=1.55 kg×9.81 N kg −1 =15.2 N 푇= √ ( 27.5 N ) +(15.2 N) =31.4 N Or 퐹= 1.55 kg × ( 22.5 m s −1 ) 28.5 m =27.5 N 퐹=1.55 kg×9.81 N kg −1 =15.2 N tan = 15.2 N 27.5 N  = 28.9° T sin 28.9° = 15.2 N T = 31.45 N (1) (1) (1) (1) Total for question 17 9 Number Answer Mark Corresponding pair of values read from graph line Substitution into 푉=푉 (1−푒 − 푡 푅퐶 ) ... ...with V = 6.0 V 퐶=2.2×10 −4 F (220 μF) (Allow answers in the range 2.1 ×10 −4 to 2.3×10 −4 F) MP4 dependent on MP3 OR Read time for 푉 (1− 푒 ) or 63 % × V from graph, Use of time constant = RC ...with V = 6.0 V 퐶=2.2×10 −4 F (220 μF) MP4 dependent on MP3 (Allow answers in the range 2.1 ×10 −4 to 2.3×10 −4 F) MP4 dependent on MP3 Example of calculation 푉=푉 (1−푒 − 푡 푅퐶 ) 5.1 V=6.0 V(1−e − 70 s 168 × 10 Ω × 퐶 ) 5.1 V 6.0 V =1−e − 70 s 168 × 10 Ω × 퐶 e − 70 s 168 × 10 Ω × 퐶 =1−0.85 70 s 168×10 Ω×퐶 =1.90 퐶= 70 s 168×10 Ω×1.90 =2.19×10 −4 F (1) (1) (1) (1) (1) (1) (1) (1) Use of 퐼= 푉 푅 I = 3.6 × 10 −5 A and marked on current axis at time t = 0 Exponential decreasing curve Example of calculation 퐼= 6.0 V 168 ×10 Ω =3.57×10 −5 A (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q17-17b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18b",
+          "text": "Part 18b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Resistance in circuit would decrease So current in circuit would increase Or so time constant will decrease Or so T = RC will decrease (Hence) capacitor would charge more quickly MP2 dependent on MP1, MP3 dependent on MP2 (1) (1) (1) Total for question 18 10 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q18-18b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐸=ℎ푓 with 푐=푓휆 Use of 퐸 k = 푚푣 Or Use of 퐸 k = 푝 2푚 and p = mv 푣=8.8×10 m s −1 Example of calculation 푓= 푐 휆 = 3.0×10 m s −1 560×10 −9 m =5.36×10 Hz E = hf = 6.63×10 −34 J s×5.36×10 Hz E = 3.55×10 −19 J 푣= √ 2×9.11×3.55×10 −19 J 9.11×10 −31 kg =8.83×10 m s −1 (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q19-19a.png"
+        },
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝 = 푚푣 Use of 푟= 푝 퐵푄 Use of 푣 = 2π푟 푇 and 푓 = 푇 Or Use of 휔 = 푣 푟 and 휔 = 2π 푇 and 푓 = 푇 Use of 푐=푓휆  = 224 (m) ≈ 220 (m), so the radiation emitted by the electron would cause interference with the radio station broadcast Or f = 1.34×10 (Hz) ≈ 1.36×10 (Hz), so the radiation emitted by the electron would cause interference with the radio station broadcast OR Use of 퐹 = 퐵푞푣 Use of 퐹= 푚푣 푟 Use of 푣 = 2π푟 푇 and 푓 = 푇 Or Use of 휔 = 푣 푟 and 휔 = 2π 푇 and 푓 = 푇 Use of 푐=푓휆  = 224 (m) ≈ 220 (m), so the radiation emitted by the electron would cause interference with the radio station broadcast Or f = 1.34×10 (Hz) ≈ 1.36×10 (Hz), so the radiation emitted by the electron would cause interference with the radio station broadcast Example of calculation p = 9.11×10 −31 kg×1.65×10 m s −1 = 1.50 ×10 −24 kg m s −1 푟= 1.50 ×10 −24 kg m s −1 48×10 −6 T×1.6×10 −19 C =0.196 m 푓= 1.65×10 m s −1 2π×0.196 m =1.34×10 Hz Either 푓= 3.0×10 m s −1 220 m =1.36×10 Hz Or 휆= 3.0×10 m s −1 1.34×10 Hz =224 m (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Total for question 19 8 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Total momentum remains constant Or Total momentum before a collision = Total momentum after a collision Provided no (resultant) external force acts Or In an isolated / closed system (1) (1) Velocities/momenta resolved into components Use of 푝=푚푣 Use of principle of conservation of momentum v = 5.64 × 10 (m s −1 ) Example of calculation 푣×6.64×10 −27 kg×sin70 =1.55×10 m s −1 ×6.64×10 −27 kgsin20 푣= 1.55×10 m s −1 ×0.342 0.940 =5.641×10 m s −1 (1) (1) (1) (1) Use of 퐸 k = 푚푣 Correct calculation of one kinetic energy 9.04×10 −13 (J)≈9.01×10 −13 (J), so collision is elastic (ecf from (b)(i) and show that value gives 9.02×10 −13 J) Example of calculation 퐸 k = ×6.64×10 −27 kg× ( 1.55×10 m s −1 ) + ×6.64×10 −27 kg× ( 5.64×10 m s −1 ) 퐸 k =7.98×10 −13 J+ 1.06×10 −13 J 퐸 k =9.04×10 −13 J (1) (1) (1) Total for question 20 9 Number Answer Mark *21(a) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content IC1 The current produces a magnetic field IC2 Alternating current, so alternating/varying magnetic field IC3 There is a change of flux linkage with kettle/core due to the alternating current Or Lines of magnetic flux cut the kettle/core. IC4 An e.m.f. is induced across the kettle/core IC5 Currents circulate in (the iron of) the kettle/core IC6 The kettle heats as energy is dissipated by the heating effect of currents Or the core heats as energy is dissipated and the thermal energy is transferred to the kettle by conduction IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line o",
+          "image": "/papers/wph11-jan-2024/q20-20a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 21",
+      "text": "Question 21",
+      "parts": [
+        {
+          "id": "21b",
+          "text": "Part 21b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Only pan is heated Or Surface of cooker does not get hot Or Egg is not a conductor As current can only circulate in a conductor Or there is no current in the surface Or there is a current in the pan because it is a conductor (1) (1) Total for question 21 8 Number Answer Mark s u̅ The meson must be a quark-antiquark pair and include a strange quark Or The meson must be a quark-antiquark pair and have a charge of −1 (1) (1) Use of 1 eV = 1.6 × 10 −19 J Use of ∆퐸=푐 ∆푚 ∆푚=8.8×10 −28 (kg) Example of calculation ∆퐸=494×10 eV×1.6×10 −19 J eV −1 ∆퐸=7.90×10 −11 J ∆푚= 7.90×10 −11 J ( 3.0×10 m s −1 ) =8.78×10 −28 kg (1) (1) (1) MAX 4 Electric field / p.d. accelerates particles Or Electric field / p.d. gives particles energy Magnetic field / force at right angles to particles path Magnetic field/force maintains circular motion (whilst in dees) Or Particle experiences centripetal force / acceleration (whilst in dees) p.d. switches every half cycle Or Polarity of dees switches every half cycle Or p.d. switches when particle is in dees p.d. has a constant time period Or p.d. has a constant frequency Or period is independent of speed of particle (1) (1) (1) (1) (1) Use of 1 eV = 1.60 × 10 −19 J Use of 퐸 k = 푝 2푚 Or Use of 퐸 k = 푚푣 and p = mv Use of 푟= 푝 퐵푞 B = 0.74 T Example of calculation E k = 80 ×10 eV×1.6×10 −19 J eV −1 E k = 1.28×10 −14 J 푝= √ 2×1.67×10 −27 kg×1.28×10 −14 J=6.54×10 −21 N s 퐵= 6.54×10 −21 N s 1.6×10 −19 C×0.055 m =0.743 T (1) (1) (1) (1) Total for question 22 13 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2024/q21-21b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit4-2024-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

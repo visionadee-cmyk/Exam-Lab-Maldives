@@ -1,0 +1,647 @@
+{
+  "paperId": "physics-0625-2025-unit1-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit1-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/13",
+  "session": "October/November 2025",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A girl uses a ruler to measure the length of a metal rod. The end of the ruler is damaged, so she places one end of the rod at the 1 cm mark, as shown. 12345678 cm metal rod damaged end How long is the metal rod? A 43 mm B 46 mm C 53 mm D 56 mm",
+      "text": "A girl uses a ruler to measure the length of a metal rod. The end of the ruler is damaged, so she places one end of the rod at the 1 cm mark, as shown. 12345678 cm metal rod damaged end How long is the metal rod? A 43 mm B 46 mm C 53 mm D 56 mm",
+      "options": [
+        "A 43 mm B 46 mm C 53 mm D 56 mm"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four balls with different masses are dropped from the heights shown. Air resistance can be ignored. Which ball has the greatest average speed? 4.0 kg A 1.0 m 3.0 kg B 2.0 m 2.0 kg C 3.0 m 1.0 kg D 4.0 m ground",
+      "text": "Four balls with different masses are dropped from the heights shown. Air resistance can be ignored. Which ball has the greatest average speed? 4.0 kg A 1.0 m 3.0 kg B 2.0 m 2.0 kg C 3.0 m 1.0 kg D 4.0 m ground",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An arrow travels horizontally in a straight line at constant speed. In which direction does the weight of the arrow act? direction of motion A DB C ground 3",
+      "text": "An arrow travels horizontally in a straight line at constant speed. In which direction does the weight of the arrow act? direction of motion A DB C ground 3",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which piece of equipment is useful in determining the density of an irregularly-shaped stone? A stop-watch, B metre ruler, C measuring cylinder, D voltmeter",
+      "text": "Which piece of equipment is useful in determining the density of an irregularly-shaped stone? A stop-watch, B metre ruler, C measuring cylinder, D voltmeter",
+      "options": [
+        "A stop-watch",
+        "B metre ruler",
+        "C measuring cylinder",
+        "D voltmeter"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four load–extension graphs are shown for a spring. Which graph shows that the load is proportional to the extension? load extension 0 0 A load extension 0 0 B load extension 0 0 C load extension 0 0 D 4",
+      "text": "Four load–extension graphs are shown for a spring. Which graph shows that the load is proportional to the extension? load extension 0 0 A load extension 0 0 B load extension 0 0 C load extension 0 0 D 4",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A man holds a ladder in four different positions, pivoting around his shoulder. The weight of the ladder causes a moment about the man’s shoulder. In which position is the moment greatest? ABCD",
+      "text": "A man holds a ladder in four different positions, pivoting around his shoulder. The weight of the ladder causes a moment about the man’s shoulder. In which position is the moment greatest? ABCD",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A child has four blocks of wood in the shapes of the letters A, M, T and X. The blocks have equal heights and thicknesses. At their widest parts, their widths are equal. The child stands the four blocks the right way up on a flat table. Which block is most likely to fall over when the block is slightly knocked? A letter A, B letter M, C letter T, D letter X",
+      "text": "A child has four blocks of wood in the shapes of the letters A, M, T and X. The blocks have equal heights and thicknesses. At their widest parts, their widths are equal. The child stands the four blocks the right way up on a flat table. Which block is most likely to fall over when the block is slightly knocked? A letter A, B letter M, C letter T, D letter X",
+      "options": [
+        "A letter A",
+        "B letter M",
+        "C letter T",
+        "D letter X"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When an object falls freely due to gravity, energy that was stored as gravitational potential energy is transferred to the kinetic energy store. How is the energy transferred in this process? A by electrical work, B by electromagnetic waves, C by heating, D by mechanical work 5",
+      "text": "When an object falls freely due to gravity, energy that was stored as gravitational potential energy is transferred to the kinetic energy store. How is the energy transferred in this process? A by electrical work, B by electromagnetic waves, C by heating, D by mechanical work 5",
+      "options": [
+        "A by electrical work",
+        "B by electromagnetic waves",
+        "C by heating",
+        "D by mechanical work 5"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A woman pushes a mower across a lawn. Which quantities does the woman use to calculate the work she does? A distance, force and time, B distance and force only, C distance and time only, D force and time only",
+      "text": "A woman pushes a mower across a lawn. Which quantities does the woman use to calculate the work she does? A distance, force and time, B distance and force only, C distance and time only, D force and time only",
+      "options": [
+        "A distance, force and time",
+        "B distance and force only",
+        "C distance and time only",
+        "D force and time only"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A steel knife needs a cutting edge with a small surface area. What is the reason for this? A A small surface area increases the pressure., B A small surface area increases the density of the steel., C A small surface area prevents the cutting edge from rusting., D A small surface area prevents the knife from becoming magnetised.",
+      "text": "A steel knife needs a cutting edge with a small surface area. What is the reason for this? A A small surface area increases the pressure., B A small surface area increases the density of the steel., C A small surface area prevents the cutting edge from rusting., D A small surface area prevents the knife from becoming magnetised.",
+      "options": [
+        "A A small surface area increases the pressure.",
+        "B A small surface area increases the density of the steel.",
+        "C A small surface area prevents the cutting edge from rusting.",
+        "D A small surface area prevents the knife from becoming magnetised."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When a hot gas cools, its internal energy decreases. What causes this? A a decrease in the average kinetic energy of the gas particles, B a decrease in the gravitational potential energy of the gas particles, C an increase in the average speed of the gas particles, D an increase in the average distance of separation of the gas particles",
+      "text": "When a hot gas cools, its internal energy decreases. What causes this? A a decrease in the average kinetic energy of the gas particles, B a decrease in the gravitational potential energy of the gas particles, C an increase in the average speed of the gas particles, D an increase in the average distance of separation of the gas particles",
+      "options": [
+        "A a decrease in the average kinetic energy of the gas particles",
+        "B a decrease in the gravitational potential energy of the gas particles",
+        "C an increase in the average speed of the gas particles",
+        "D an increase in the average distance of separation of the gas particles"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The temperature of an object is 37 °C. What is the temperature of the object in kelvin? A –236 K B 7.4 K C 236 K D   310 K 6",
+      "text": "The temperature of an object is 37 °C. What is the temperature of the object in kelvin? A –236 K B 7.4 K C 236 K D   310 K 6",
+      "options": [
+        "A –236 K B 7.4 K C 236 K D   310 K 6"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows part of a railway track. Each section of the railway track is separated by a gap. gap sections of railway track Why are these gaps necessary? A The tracks contract on cold days., B The tracks contract on warm days., C The tracks expand on cold days., D The tracks expand on warm days.",
+      "text": "The diagram shows part of a railway track. Each section of the railway track is separated by a gap. gap sections of railway track Why are these gaps necessary? A The tracks contract on cold days., B The tracks contract on warm days., C The tracks expand on cold days., D The tracks expand on warm days.",
+      "options": [
+        "A The tracks contract on cold days.",
+        "B The tracks contract on warm days.",
+        "C The tracks expand on cold days.",
+        "D The tracks expand on warm days."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A test-tube contains a volume of 1.0 cm 3 of liquid water at a temperature of 100 °C. The liquid water boils to form a volume of 1600 cm 3 of steam. What is the reason for the large increase in volume? A Steam particles are bigger than water particles., B The average distance between the particles is much greater in the steam., C The particles do not move until the water turns into a gas., D There are more steam particles than there were water particles.",
+      "text": "A test-tube contains a volume of 1.0 cm 3 of liquid water at a temperature of 100 °C. The liquid water boils to form a volume of 1600 cm 3 of steam. What is the reason for the large increase in volume? A Steam particles are bigger than water particles., B The average distance between the particles is much greater in the steam., C The particles do not move until the water turns into a gas., D There are more steam particles than there were water particles.",
+      "options": [
+        "A Steam particles are bigger than water particles.",
+        "B The average distance between the particles is much greater in the steam.",
+        "C The particles do not move until the water turns into a gas.",
+        "D There are more steam particles than there were water particles."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When a liquid is exposed to the air, the more-energetic particles escape from the surface of the liquid. What is the name of this process? A boiling, B condensation, C convection, D evaporation 7",
+      "text": "When a liquid is exposed to the air, the more-energetic particles escape from the surface of the liquid. What is the name of this process? A boiling, B condensation, C convection, D evaporation 7",
+      "options": [
+        "A boiling",
+        "B condensation",
+        "C convection",
+        "D evaporation 7"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a hot-water tank. The tank has a heater, X, halfway up the tank. hot water out cold water in heater X Heater X is switched on. Which row states the main processes by which thermal energy is transferred to the water above the heater and to the water below the heater? thermal energy transfer to the water above the heater thermal energy transfer to the water below the heater A conduction conduction, B conduction convection, C convection conduction, D convection convection",
+      "text": "The diagram shows a hot-water tank. The tank has a heater, X, halfway up the tank. hot water out cold water in heater X Heater X is switched on. Which row states the main processes by which thermal energy is transferred to the water above the heater and to the water below the heater? thermal energy transfer to the water above the heater thermal energy transfer to the water below the heater A conduction conduction, B conduction convection, C convection conduction, D convection convection",
+      "options": [
+        "A conduction conduction",
+        "B conduction convection",
+        "C convection conduction",
+        "D convection convection"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The handle of a metal cooking pan is made from wood. What is a reason for making the handle from wood? A to increase thermal energy transfer by conduction, B to increase thermal energy transfer by convection, C to reduce thermal energy transfer by conduction, D to reduce thermal energy transfer by convection 8",
+      "text": "The handle of a metal cooking pan is made from wood. What is a reason for making the handle from wood? A to increase thermal energy transfer by conduction, B to increase thermal energy transfer by convection, C to reduce thermal energy transfer by conduction, D to reduce thermal energy transfer by convection 8",
+      "options": [
+        "A to increase thermal energy transfer by conduction",
+        "B to increase thermal energy transfer by convection",
+        "C to reduce thermal energy transfer by conduction",
+        "D to reduce thermal energy transfer by convection 8"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student observes waves travelling across the surface of water. The diagram shows two pieces of wood resting in shallow water of constant depth. Straight parallel wavefronts approach the pieces of wood, as shown. woodwood wavefront gap The gap between the pieces of wood is 2.0 cm wide. The wavefronts are 3.0 cm apart. What is the appearance of the wavefronts after they pass through the gap? A semicircular and 2.0 cm apart, B semicircular and 3.0 cm apart, C straight and 2.0 cm apart, D straight and 3.0 cm apart",
+      "text": "A student observes waves travelling across the surface of water. The diagram shows two pieces of wood resting in shallow water of constant depth. Straight parallel wavefronts approach the pieces of wood, as shown. woodwood wavefront gap The gap between the pieces of wood is 2.0 cm wide. The wavefronts are 3.0 cm apart. What is the appearance of the wavefronts after they pass through the gap? A semicircular and 2.0 cm apart, B semicircular and 3.0 cm apart, C straight and 2.0 cm apart, D straight and 3.0 cm apart",
+      "options": [
+        "A semicircular and 2.0 cm apart",
+        "B semicircular and 3.0 cm apart",
+        "C straight and 2.0 cm apart",
+        "D straight and 3.0 cm apart"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "P-waves and S-waves are produced in the ground during an earthquake. Which statement about these waves is correct? A Only P-waves are transverse waves., B Only P-waves are longitudinal waves., C Both P-waves and S-waves are longitudinal waves., D Both P-waves and S-waves are transverse waves. 9",
+      "text": "P-waves and S-waves are produced in the ground during an earthquake. Which statement about these waves is correct? A Only P-waves are transverse waves., B Only P-waves are longitudinal waves., C Both P-waves and S-waves are longitudinal waves., D Both P-waves and S-waves are transverse waves. 9",
+      "options": [
+        "A Only P-waves are transverse waves.",
+        "B Only P-waves are longitudinal waves.",
+        "C Both P-waves and S-waves are longitudinal waves.",
+        "D Both P-waves and S-waves are transverse waves. 9"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light is incident on a plane mirror. A student measures the angle of incidence i and the angle of reflection r. reflected ray incident ray i r The student varies the angle of incidence and then plots a graph of r against i. What does the graph look like? 0 A 0 i r 0 B 0 i r 0 C 0 i r 0 D 0 i r",
+      "text": "A ray of light is incident on a plane mirror. A student measures the angle of incidence i and the angle of reflection r. reflected ray incident ray i r The student varies the angle of incidence and then plots a graph of r against i. What does the graph look like? 0 A 0 i r 0 B 0 i r 0 C 0 i r 0 D 0 i r",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light passes from air into a block of glass. The critical angle is 42°. Which statement is correct? A The angle of incidence is the angle between the ray of light and the surface of the glass block., B The angle of incidence is always bigger than 42°., C The angle of refraction cannot be less than 42°., D The angle of refraction is smaller than the angle of incidence. 10",
+      "text": "A ray of light passes from air into a block of glass. The critical angle is 42°. Which statement is correct? A The angle of incidence is the angle between the ray of light and the surface of the glass block., B The angle of incidence is always bigger than 42°., C The angle of refraction cannot be less than 42°., D The angle of refraction is smaller than the angle of incidence. 10",
+      "options": [
+        "A The angle of incidence is the angle between the ray of light and the surface of the glass block.",
+        "B The angle of incidence is always bigger than 42°.",
+        "C The angle of refraction cannot be less than 42°.",
+        "D The angle of refraction is smaller than the angle of incidence. 10"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A converging lens is used to produce a real image of a 2 cm high object. The image is 4 cm high. Which ray diagram shows how the lens forms the image? A C B F object image lens F F object image lens F FF object image lens D FF object image lens",
+      "text": "A converging lens is used to produce a real image of a 2 cm high object. The image is 4 cm high. Which ray diagram shows how the lens forms the image? A C B F object image lens F F object image lens F FF object image lens D FF object image lens",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "White light can be split into different colours by passing it through a prism. What is the name of this process? A diffraction, B dispersion, C reflection, D total internal reflection",
+      "text": "White light can be split into different colours by passing it through a prism. What is the name of this process? A diffraction, B dispersion, C reflection, D total internal reflection",
+      "options": [
+        "A diffraction",
+        "B dispersion",
+        "C reflection",
+        "D total internal reflection"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sound wave with a frequency of 25 000 Hz travels through air with a speed of 340 m / s. Why can a human not hear the sound? A The frequency is too low., B The frequency is too high., C The speed is too low., D The speed is too high. 11",
+      "text": "A sound wave with a frequency of 25 000 Hz travels through air with a speed of 340 m / s. Why can a human not hear the sound? A The frequency is too low., B The frequency is too high., C The speed is too low., D The speed is too high. 11",
+      "options": [
+        "A The frequency is too low.",
+        "B The frequency is too high.",
+        "C The speed is too low.",
+        "D The speed is too high. 11"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A drummer hits a drum harder to make a louder sound without changing the pitch of the sound. Which statement describes the change in properties of the sound as the drummer hits the drum harder? A Only the amplitude of the sound increases., B Only the frequency of the sound decreases., C Both the amplitude and the frequency of the sound increase., D Both the amplitude and the frequency of the sound decrease.",
+      "text": "A drummer hits a drum harder to make a louder sound without changing the pitch of the sound. Which statement describes the change in properties of the sound as the drummer hits the drum harder? A Only the amplitude of the sound increases., B Only the frequency of the sound decreases., C Both the amplitude and the frequency of the sound increase., D Both the amplitude and the frequency of the sound decrease.",
+      "options": [
+        "A Only the amplitude of the sound increases.",
+        "B Only the frequency of the sound decreases.",
+        "C Both the amplitude and the frequency of the sound increase.",
+        "D Both the amplitude and the frequency of the sound decrease."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A metal sphere is attached to the top of an insulated rod. A negatively charged rod is held close to one side of the metal sphere. The other side of the metal sphere is earthed. Which diagram shows the distribution of charge on the metal sphere? A – – – – – – – – + + – – B – – – – C – – – – + + + + + + + + D – – – –",
+      "text": "A metal sphere is attached to the top of an insulated rod. A negatively charged rod is held close to one side of the metal sphere. The other side of the metal sphere is earthed. Which diagram shows the distribution of charge on the metal sphere? A – – – – – – – – + + – – B – – – – C – – – – + + + + + + + + D – – – –",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student writes three statements about electric current. 1   Electric current is a flow of charge. 2   Electric current in a circuit is measured using a voltmeter. 3   The direction of an alternating current (a.c.) continually changes. Which statements are correct? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 12",
+      "text": "A student writes three statements about electric current. 1   Electric current is a flow of charge. 2   Electric current in a circuit is measured using a voltmeter. 3   The direction of an alternating current (a.c.) continually changes. Which statements are correct? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 12",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Electromotive force (e.m.f.) is defined in terms of the energy supplied in driving which physical quantity around a complete circuit? A charge, B resistance, C potential difference (p.d.), D power",
+      "text": "Electromotive force (e.m.f.) is defined in terms of the energy supplied in driving which physical quantity around a complete circuit? A charge, B resistance, C potential difference (p.d.), D power",
+      "options": [
+        "A charge",
+        "B resistance",
+        "C potential difference (p.d.)",
+        "D power"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student measures the resistance of a wire. Which two measurements must the student make? A length and current, B potential difference (p.d.) and current, C cross-sectional area and power, D potential difference (p.d.) and diameter",
+      "text": "A student measures the resistance of a wire. Which two measurements must the student make? A length and current, B potential difference (p.d.) and current, C cross-sectional area and power, D potential difference (p.d.) and diameter",
+      "options": [
+        "A length and current",
+        "B potential difference (p.d.) and current",
+        "C cross-sectional area and power",
+        "D potential difference (p.d.) and diameter"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current of 2.0 A in a resistor of resistance 8.0 . What is the potential difference (p.d.) across the resistor?, A 0.25 V B 4.0 V C 8.0 V D 16 V",
+      "text": "There is a current of 2.0 A in a resistor of resistance 8.0 . What is the potential difference (p.d.) across the resistor?, A 0.25 V B 4.0 V C 8.0 V D 16 V",
+      "options": [
+        "A in a resistor of resistance 8.0 . What is the potential difference (p.d.) across the resistor?",
+        "A 0.25 V B 4.0 V C 8.0 V D 16 V"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current of 2.0 A in a resistor for a time of 30 s. The potential difference (p.d.) across the resistor is 12 V. How much energy is transferred in the resistor?, A 1.25 J B 5.0 J C 180 J D   720 J",
+      "text": "There is a current of 2.0 A in a resistor for a time of 30 s. The potential difference (p.d.) across the resistor is 12 V. How much energy is transferred in the resistor?, A 1.25 J B 5.0 J C 180 J D   720 J",
+      "options": [
+        "A in a resistor for a time of 30 s. The potential difference (p.d.) across the resistor is 12 V. How much energy is transferred in the resistor?",
+        "A 1.25 J B 5.0 J C 180 J D   720 J"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit symbol for an ammeter is a circle with a letter A in it. The symbol for a fuse is a rectangle with a central line. Which pair of circuit symbols is also one involving a circle followed by one involving a rectangle? A a lamp and a cell, B a motor and a thermistor, C a switch and a heater, D a voltmeter and a battery 13",
+      "text": "The circuit symbol for an ammeter is a circle with a letter A in it. The symbol for a fuse is a rectangle with a central line. Which pair of circuit symbols is also one involving a circle followed by one involving a rectangle? A a lamp and a cell, B a motor and a thermistor, C a switch and a heater, D a voltmeter and a battery 13",
+      "options": [
+        "A a lamp and a cell",
+        "B a motor and a thermistor",
+        "C a switch and a heater",
+        "D a voltmeter and a battery 13"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which component is not needed when using an appliance that is double-insulated? A earth wire, B fuse, C live wire, D neutral wire",
+      "text": "Which component is not needed when using an appliance that is double-insulated? A earth wire, B fuse, C live wire, D neutral wire",
+      "options": [
+        "A earth wire",
+        "B fuse",
+        "C live wire",
+        "D neutral wire"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A vertical wire passes through a hole in a piece of card. A plotting compass is placed on the card. There is no current in the circuit. plotting compass card wire Which diagram shows the plotting compass when the switch is closed? ABCD",
+      "text": "A vertical wire passes through a hole in a piece of card. A plotting compass is placed on the card. There is no current in the circuit. plotting compass card wire Which diagram shows the plotting compass when the switch is closed? ABCD",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which description of the structure of an atom is correct? A a negatively charged nucleus with negatively charged electrons around it, B a negatively charged nucleus with positively charged electrons around it, C a positively charged nucleus with negatively charged electrons around it, D a positively charged nucleus with positively charged electrons around it 14",
+      "text": "Which description of the structure of an atom is correct? A a negatively charged nucleus with negatively charged electrons around it, B a negatively charged nucleus with positively charged electrons around it, C a positively charged nucleus with negatively charged electrons around it, D a positively charged nucleus with positively charged electrons around it 14",
+      "options": [
+        "A a negatively charged nucleus with negatively charged electrons around it",
+        "B a negatively charged nucleus with positively charged electrons around it",
+        "C a positively charged nucleus with negatively charged electrons around it",
+        "D a positively charged nucleus with positively charged electrons around it 14"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Alpha, beta and gamma emissions are compared. Alpha radiation is the ......1...... ionising as it has the ......2...... electric charge. Which words correctly complete the sentence? 1    2 A least largest, B least smallest, C most largest, D most smallest",
+      "text": "Alpha, beta and gamma emissions are compared. Alpha radiation is the ......1...... ionising as it has the ......2...... electric charge. Which words correctly complete the sentence? 1    2 A least largest, B least smallest, C most largest, D most smallest",
+      "options": [
+        "A least largest",
+        "B least smallest",
+        "C most largest",
+        "D most smallest"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student collects data for a new radioactive substance. 800 000 700 000 600 000 500 000 400 000 300 000 200 000 100 000 0 0500  1000 1500 2000 2500 3000 3500 4000 count rate counts / s time / s Using the graph, what is the approximate half-life of the substance? A 1400 s B 2000 s C 100 000 s D   800 000 s",
+      "text": "A student collects data for a new radioactive substance. 800 000 700 000 600 000 500 000 400 000 300 000 200 000 100 000 0 0500  1000 1500 2000 2500 3000 3500 4000 count rate counts / s time / s Using the graph, what is the approximate half-life of the substance? A 1400 s B 2000 s C 100 000 s D   800 000 s",
+      "options": [
+        "A 1400 s B 2000 s C 100 000 s D   800 000 s"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four rocky planets orbit the Sun. Which list shows these planets in order of increasing distance from the Sun? A Earth  Mars  Mercury  Venus, B Venus  Earth  Mars  Mercury, C Mercury  Venus  Earth  Mars, D Mars  Mercury  Venus  Earth 15",
+      "text": "Four rocky planets orbit the Sun. Which list shows these planets in order of increasing distance from the Sun? A Earth  Mars  Mercury  Venus, B Venus  Earth  Mars  Mercury, C Mercury  Venus  Earth  Mars, D Mars  Mercury  Venus  Earth 15",
+      "options": [
+        "A Earth  Mars  Mercury  Venus",
+        "B Venus  Earth  Mars  Mercury",
+        "C Mercury  Venus  Earth  Mars",
+        "D Mars  Mercury  Venus  Earth 15"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In  which  given  region  of  the  electromagnetic  spectrum  does  the Sun radiate the least of its energy? A infrared, B microwave, C ultraviolet, D visible",
+      "text": "In  which  given  region  of  the  electromagnetic  spectrum  does  the Sun radiate the least of its energy? A infrared, B microwave, C ultraviolet, D visible",
+      "options": [
+        "A infrared",
+        "B microwave",
+        "C ultraviolet",
+        "D visible"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light from distant galaxies is redshifted when it is observed from Earth. Which property of the light increases when light is redshifted? A amplitude, B frequency, C speed, D wavelength 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "Light from distant galaxies is redshifted when it is observed from Earth. Which property of the light increases when light is redshifted? A amplitude, B frequency, C speed, D wavelength 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A amplitude",
+        "B frequency",
+        "C speed",
+        "D wavelength 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit1-2025-11-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

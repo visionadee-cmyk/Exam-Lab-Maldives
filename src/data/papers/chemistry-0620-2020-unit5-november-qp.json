@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2020-unit5-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit5-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value of recorded titre in Experiment 2 ÷ 2.5 cm the water dilutes solution B / makes solution B less concentrated 1 October/November 2020 Question Answer Marks Tests on solid C • steam / vapour given off • forms a liquid / melts • condensation / drops (at top of tube) • darkens / becomes brown / black • bubbles / fizzing / effervescence • gets cold • lime water turns milky • colourless (solution) acid / contains H + / hydrogen ions 1 October/November 2020 Question Answer Marks Tests on solid D OR faint / slight (white) precipitate 2+ chloride / Cl - calcium chloride = 2 CaCl = 2 Question Answer Marks 3 any six from: • weigh toothpaste • add (dilute) hydrochloric acid • to excess / until no more fizzing • filter • wash residue / silica (with water) and dry • weigh residue / silica • (mass silica / initial mass) × 100 (%) max 6",
+          "image": "/papers/chemistry-0620-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit5-2020-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

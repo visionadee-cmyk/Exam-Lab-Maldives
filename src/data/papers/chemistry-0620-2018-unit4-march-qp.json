@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2018-unit4-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit4-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "February/March 2018",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Mg Si O M1 2.73 / 24 1.58 / 28 3.60 / OR 0.11375 0.0564 0.23(0) M2 0.0.11375 / .0564 0.0564 / .0564 0.230 / .0564 leading to Mg SiO ammonia + named acid → correct ammon ium salt M1 ammon ium product (from ammonia / ammonium hydroxide + acid) M2 fully correct equation M1 (moles of NH = 0.68 / 17 =) 0.04(00) M2 (M1 × / 2 =) 0.06(00) M3 (volume of C l = 0.06(00) × 24000 =) 1440 (cm ) M1 (reactants 2 × × 390 (= 2340) + 3 × 240 (= 720) =) 3060 M2 (products 945 + 6 × 430 (= 2580) =) 3525 M3 M1 – M2 (b)(ii) is exothermic then) exothermic and more energy released than used OR ( (b)(ii) is endothermic then) endothermic and less energy released than used / it is oxidised / oxygen is reduced 0620/42 March 2018 M2 transition metal / element n H 2n+2 O OR C n H 2n+1 OH M2 catalyst H OH + 9O → 6CO + 8H O M1 species M2 fully correct equation M1 at least one –O– link between two blocks M2 correct structure including continuation bonds enzyme OR heat + acid distance travelled by substance distance travelled by solvent compare to known data f values",
+          "image": "/papers/chemistry-0620-2018/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit4-2018-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

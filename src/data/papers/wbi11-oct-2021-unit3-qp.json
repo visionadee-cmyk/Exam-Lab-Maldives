@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-oct-2021-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2021-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "October 2021",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer including the following points:  Dilution factor calculated (1)  Volume of 5% solution and water stated (1) e.g. 5 ÷ 2= 2.5 accept C V = C V accept 4 stock to 6 water e.g. 1 cm of 5% added to 1.5 cm of water 0.4 cm of 5% to 0.6 cm water 2 cm to 3 cm of water correct answer with no working gains 2 marks Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wbi11-oct-2021/q3-3d.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2021-unit3-2021-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

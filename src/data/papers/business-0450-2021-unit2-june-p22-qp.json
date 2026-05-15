@@ -1,0 +1,43 @@
+{
+  "paperId": "business-0450-2021-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "business-0450-2021-unit2-june-p22-ms",
+  "subjectId": "business_igcse",
+  "code": "0450/22",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Conclusion • As TT is a toy shop it will need to make sure its advertising of toys is not misleading because it may gain a bad reputation if claims about the toys it sells are not true, so this is the most important legal control for TT. It can easily make sure it does not advertise lower price sales when the prices have not been reduced. Packaging is likely to be provided by the toy manufacturer and so is unlikely to affect TT. As TT sells branded goods then these are all likely to have been tested and are safe for children. • Toys being safe will have the greatest effect on TT if this legal control is not followed as TT could be sued for damages and this will raise its costs and result in a bad reputation leading to lower sales at the toy shop. • Restrictions on the type of packaging will have the greatest effect on TT as the toy manufacturer may have to increase its prices to TT and therefore TT may need to raise its prices leading to lower demand and revenue.",
+          "image": "/papers/business-0450-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/business-0450-2021/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/business-0450-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/BusinessStudies-0450/BusinessStudies-0450-2021-unit2-2021-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

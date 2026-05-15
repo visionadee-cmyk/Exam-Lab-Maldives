@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2004-unit3-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2004-unit3-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/03",
+  "session": "October/November 2004",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6V",
+          "text": "Part 6V",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(resistance) less (ii) (resistance) less 1 2 (10) 8 (a) diffraction 1 1 (b) plane waves in front of gap 1 curved end effect shown, reasonable curves wavelength constant throughout and approximately same as in Fig. 8.1 good quality i.e. end effect starts at correct points 1 4 (c) particles/water oscillate/vibrate/move up and down at right angles to wave direction (7) Page 3 Mark Scheme Syllabus Paper IGCSE – November 2004 0625 3 9 (a) (i) two coils on continuous core (not allow coils joined) 1 primary coil to 240 V, secondary coil to 6 V 1 iron core, primary/input and secondary/output labelled (ii) any values with correct 40:1 ratio, accept here or on diagram 1 (b) power in = power out or 240 x I = 12 current = 0.05 A (c) must be a changing magnetic field, only from a.c. 1 2 so that induction can take place 1 (8) 10 (a) (i) (ii ) switch, relay or amplifier any one of the three versions below, each 2 marks 1. vary base current transistor switches on for V be >0.6 V 2. small change in base current produces a large change in collector/emitter current 3. vary potential divider connected to transistor base transistor switches on for V be > 0.6 V (b) (i) standard symbol with 2 inputs and an output labelled (ii) one or both inputs 1, output 1 (accept on, high for 1) 1 both inputs 0, output 0 (accept off, low for 0) 1 3 (6) 11 (a) correct equation i.e. Ra gives Rn + alpha particle or He 1 all numbers correct on Rn and He 1 (b) (i) radiation from surroundings/background radiation 1 (ii) 532 to 552 counts/min (iii) 5/6 cm (iv) beyond 5/6 cm no alpha, only background radiation 1 4 (6)",
+          "image": "/papers/physics-0625-2004/q6-6V.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2004/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2004",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2004-unit3-2004-11-3-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

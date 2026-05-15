@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2015-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2015",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 points plotted correctly, ± half a small square; two intersecting straight lines drawn with a ruler; through points 1 and 2 and 3 and 4, extrapolated to intersect; I: origins ecf from the graph, ± 0.1 °C I: absence of arrow cm; ecf from the graph, C + D = 50",
+          "image": "/papers/chemistry-0620-2015/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 (°C) / 2 × value from (d)(i); 1 answer must be a number I: units / lack of units Page 5 Mark Scheme Syllabus Paper Question Answer Marks Additional Guidance precipitate; use list principle for extra incorrect observations and difference: 10.8 0.0 10.8; all readings in both tables to 1 decimal place; volumes: 12.3 6.9; difference correct: 5.4; A: ecf (usually 6.6) M and N change colour or show when the reaction is complete; A: it is not acid-alkali / potassium permanganate or solutions I: potassium permanganate / solutions M and N are coloured Experiment 2 uses 2 × volume of Experiment 3 ora; A: (nearly) 2 × / (13.7 v. 6.6) ora R: references to conc. of solution L (iron(II) sulfate) half volume (of L) used; R: just ‘half the volume’ A: this shown by calculation disadvantage not accurate owtte; I: reference to large volumes Page 6 Mark Scheme Syllabus Paper Question Answer Marks Additional Guidance; 1 acid; A: hydrous I: other conclusions unless contradictory R: pale blue blue (solution); 1 additional incorrect observations, such as bubbles, contradicts a correct observation I: state and starting colour precipitate; dissolves / soluble / solution; deep / dark / royal blue (solution); Page 7 Mark Scheme Syllabus Paper Question Answer Marks Additional Guidance 6 6 from: • uses different (at least two) concentrations of sulfuric acid; • made by diluting with water; • same total volume of (diluted) sulfuric acid; • same mass / amount / size / length / surface area of magnesium (ribbon); • measure time (or run at the same time); • for magnesium to dissolve or react or disappear / y cm gas to collect / volume collected (set time) / bubbles to stop / mass to decrease by x g / mass to stop decreasing; • compare times of reaction / results; A: implication of this last two marking points are dependent on measuring time",
+          "image": "/papers/chemistry-0620-2015/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit6-2015-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

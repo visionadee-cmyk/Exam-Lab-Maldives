@@ -1,0 +1,127 @@
+{
+  "paperId": "chemistry-0620-2023-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 results recorded for six experiments M2 all masses of sodium carbonate and citric acid correct ( 5.0 , 5.0, 5.0, 5.0, 5.0 and 1.0 , 2.0, 4.0, 5.0, 6.0) M3 all masses shown to 1 dp M4 results show decreasing temperatures from Experiments 1 to 5 M5 result for Experiment 1 is comparable to superviso r",
+          "image": "/papers/chemistry-0620-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 y-axis scale in linear and points extend over halfway up scale above zero M2 and M3 all points plotted correctly M4 best fit line",
+          "image": "/papers/chemistry-0620-2023/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "endothermic because the temperature decreased",
+          "image": "/papers/chemistry-0620-2023/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 working shown on graph M2 correct value",
+          "image": "/papers/chemistry-0620-2023/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from:  so that the sodium carbonate mix together  so they react  so the temperature is the same throughout the mixture",
+          "image": "/papers/chemistry-0620-2023/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 insulation M2 reduces heat being gained from the surroundings / keeps temperature lowe r / stops temperature going up OR M1 prevents heat loss / prevents heat gain / prevents energy exchange with surroundings M2 stops temperature going up / reduces increase in temperature (after reaction has ended) 0620/53 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 dissolves / forms a solution / becomes liquid M2 yellow / colourless / white M3 condensation / steam",
+          "image": "/papers/chemistry-0620-2023/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 white precipitate M2 remains / does not redissolve / no change / insoluble / white precipitate",
+          "image": "/papers/chemistry-0620-2023/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 white precipitate M2 dissolves / (colourless / yellow) solution 2( f )(i) (solution becomes pale) pink 2( f )(ii) not a sulfite",
+          "image": "/papers/chemistry-0620-2023/q2-2e.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 white precipitate M2 bubbles / fizzing / effervescence / K + aluminium / A l 3+ sulfate / SO 2– 0620/53 May/June 2023 any 6 from: add excess solute, find mass not dissolved MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add known / stated / measured mass of oxalic acid / solid to the solvent MP5 shake / mix / stir MP6 filter and find mass of solid left MP7 smallest mass of solid is solvent in which it is the most soluble OR add solute gradually, stop when no more dissolves MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add stated / known mass / measure of ethanedioic acid MP5 shake / mix / stir MP6 if all dissolved, add more MP7 largest mass / most measures added is solvent in which it is the most soluble OR add excess solute, find mass that dissolves MP1 method is repeated for both ethanol and water MP2 volume of ethanol / water known / stated / measured MP3 solid added to solvent in a suitable container MP4 add known/stated/measured mass of ethanedioic acid / solid to the solvent MP5 shake / mix / stir MP6 filter and heat solution to evaporate all solvent and weigh solid left MP7 smallest mass of solid is solvent in which it is the most soluble max 6",
+          "image": "/papers/chemistry-0620-2023/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit5-2023-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

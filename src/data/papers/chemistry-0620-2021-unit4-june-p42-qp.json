@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2021-unit4-june-p42-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit4-june-p42-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "May/June 2021",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Na or Mg or A l",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A l",
+          "image": "/papers/chemistry-0620-2021/q1-1e.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A l",
+          "image": "/papers/chemistry-0620-2021/q1-1h.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C l",
+          "image": "/papers/chemistry-0620-2021/q1-1i.png"
+        },
+        {
+          "id": "1j",
+          "text": "Part 1j",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C l mark by row A g A g + p 47 47 n 60 62 e 47 46 0620/42 May/June 2021 / mean C Ag + (aq) + v I – (aq) → Ag I (s) Ag I (as only product) (1) Ag + and I – (as only reactants) (1) state symbols (1) ammonia (1) named alkane name of organic product derived from (1) hydrogen chloride / HC l (1) 12.6 / 84 = 0.15(00) (1) 0.15(00) / 2 = 0.075(00) (1) 0.075(0) × 24.0 = 1.8 (1) 0620/42 May/June 2021 (1) CaCO (1) 4OH – → 2H O + O + 4e – balance of charge (1) r est of equation (1) – (aq) ions) lose electrons",
+          "image": "/papers/chemistry-0620-2021/q1-1j.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f izzing",
+          "image": "/papers/chemistry-0620-2021/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2H + + 2e – → H species correct (1) fully correct equation (1) green gas (1) (litmus turns) blue and alkali / base forms (1) Sodium hydroxide / NaOH (forming) (1) 6Li + N → 2Li N N as reactant (1) rest of equation (1) new octet of 8 electrons consisting of 5 crosses and 3 dots in second shell (1) charge of 3 – (1) 0620/42 May/June 2021 bonds broken [945 + (3 × 160)] = 1425 (1) bonds formed (2 × × 300) = 1800 (1) energy change = M1 – M2 = 1425 – 1800 = – 375 (1) Answer must reflect answer in exothermic and more energy released (in bond formation) than used/taken in (in bond breaking) N with 1 bonding pair with each F (1) 2 non-bonding dots for N (1) 6 non-bonding crosses for F (1)",
+          "image": "/papers/chemistry-0620-2021/q4-4d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ionic bonds in Li N (1) attraction between molecules in NF (1) weaker attraction (between particles) in NF OR A (1) rfm of NH NO = 80 (1) mass of N = 2 × 14 = 28 and percentage N = 100 × / 80 = 35% (1) r r 7 < × ⩽ any correct displayed ester link between any two blocks showing all atoms and all bonds (1) correct orientation of three displayed inter-block ester links with correct orientation (1) continuation bonds on polyeste r (1) 0620/42 May/June 2021 r two blocks linked by – O – acid (and heat) (1) enzymes (ignore names) (1) C H O → 2C H OH + 2CO C H OH (1) rest of equation (1)",
+          "image": "/papers/chemistry-0620-2021/q5-5c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit4-2021-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

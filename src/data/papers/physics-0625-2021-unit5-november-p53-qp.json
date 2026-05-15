@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2021-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Remove the lid from beaker A. • Pour 150 cm 3 of hot water into beaker A and replace the lid. • Place the thermometer in the water in beaker A. In the first row of Table 1.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, t",
+      "text": "1 (a) • Remove the lid from beaker A. • Pour 150 cm 3 of hot water into beaker A and replace the lid. • Place the thermometer in the water in beaker A. In the first row of Table 1.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, t",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) • Remove the lid from beaker A. • Pour 150 cm 3 of hot water into beaker A and replace the lid. • Place the thermometer in the water in beaker A. In the first row of Table 1.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record, in Table 1.1, the temperature θ of the water at times t = 30 s, t",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Θ to nearest °C for beaker A decreasing θ for beaker B decreasing and recorded to at least 1 °C decreasing more quickly than A s, °C both correct",
+          "image": "/papers/physics-0625-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180 s, matching statement (need to see values used in justification) correct calculation of x and unit °C / s (seen for x or x and not contradicted) x 2 < x beaker B without lid and calculate cooling rate of beaker B (and compare / subtract) statement matching results for beaker B with values quoted j ustification matching statement",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V all < 3.0 V I all < 1.00 A A ll V to at least 1dp and all I to at least 2dp correct calculations of R R consistent 2 or 3 significant figures 0625/53 October/November 2021 V, A, Ω all correct P > 1 Q > 1 and within 10% of P statement matching results and values used justification matching statement e.g. within limits of experimental accuracy / owtte",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "valid inherent source of inaccuracy e.g: crocodile clip connection not even / difficult to connect at exactly the correct length / resistance wires not uniform",
+          "image": "/papers/physics-0625-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value of h O present and h I decreasing",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 / h I calculation correct • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square, precise plots • well judged and thin line u 0 read correctly from graph and in range 13.0 (cm) to 17.0 (cm) triangle method seen on graph f within 10% of u 0625/53 October/November 2021",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any difficulty in measuring h I e.g.: ruler in way of light / difficult to see top and bottom of image / edges of image blurred / difficult not to move screen when placing ruler to measure image matching solution e.g.: use graph paper on screen / mark top and bottom of image and measure later/ use translucent screen and measure at back / use larger object / clamp screen (after obtaining focus) 0625/53 October/November 2021 4 MP1 apparatus: factor stated and apparatus appropriate to its measurement e.g. ammete r MP2 control variable: any variable appropriate to independent variable (e.g. current if number of coils is the independent variable, number of coils if current is the independent variable. Same size / mass of paper clips) MP3 method: measure independent variable check number of paper clips supported MP4 repeat for new value of independent variable MP5 table: columns, with units, for independent variable and number of paper clips MP6 analysis: compare readings in the table to see if change in factor produces change in strength, plot line graph (with axes specified) MP7 additional point (one from) : at least 5 sets of data taken, repeat each measurement and take average, 2nd appropriate control variable stated, repeat experiment for different variation (e.g. different no of coils if current is factor) arrangement of paper clips",
+          "image": "/papers/physics-0625-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-jan-2025-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2025-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "January 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• sclerenchyma (1) • xylem (1) Mark the first two answers (2) Number Answer Additional Guidance Mark following points: • the {force / weight / strain / stress / tension / pressure} a {fibre / material} can take without breaking OR the {force / weight / strain / stress} required to make a fibre break (1) IGNORE refs to cross sectional area ACCEPT snapping etc. (1) Number Answer Additional Guidance Mark points: • range of fibre lengths suggested / implied (1) • fibre variables taken into account (1) • appropriate environmental variable controlled (1) • appropriate description of how masses are added (1) • adding masses until fibre breaks / measure the mass that {breaks the fibre / that the fibre can hold before breaking} (1) • description of appropriate safety precaution with reason (1) minimum two. ACCEPT if plot length vs mass added e.g. cross sectional area, diameter, width, plant type, age, ACCEPT if cross sectional area used in a calculation e.g. humidity, temperature, fibre pre-treatment NOT light intensity IGNORE same conditions ACCEPT carefully, small weights added one at a time etc. (4) Number Answer Additional Guidance Mark • suitable table drawn (1) • headings with units (1) • all data correctly entered (1) Fibre Length (/) mm Tensile Strength (/) MPa 5 200 15 190 25 170 30 168 35 160 NOT mm -1 IGNORE order, both horizontally and vertically Lose mp2 if units in cells Inconsistent decimal places within a column loses mp3 (3) Number Answer Additional Guidance Mark A calculation that includes the following steps: • correct calculation of gradient (1) e.g. ( 160-200) ÷ 30 = -1.33 or -1.3 Must have minus sign IGNORE 4/3 or other fraction (1) Number Answer Additional Guidance Mark A calculation that includes the following steps: • find a value for c (1) • correct assembly into equation (1) ecf from 1cii e.g. c = 200 – (-1.33 x 5) = 206.7 (or 620/3) or by extrapolation ACCEPT 206 to 207 If minus not in 1cii do not penalise again. e.g. y = -1.33x + 206.7 (206-207) ",
+          "image": "/papers/wbi11-jan-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2025/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2025-unit3-2025-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

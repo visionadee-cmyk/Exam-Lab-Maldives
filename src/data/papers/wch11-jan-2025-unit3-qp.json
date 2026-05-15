@@ -1,0 +1,71 @@
+{
+  "paperId": "wch11-jan-2025-unit3-qp",
+  "pairedMarkSchemeId": "wch11-jan-2025-unit3-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH13/01",
+  "session": "January 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• burette reading in Step 4 and burette reading in Step 5 • volume of hydrogen gas (1) (1) Ignore units, even if incorrect 46.25 and 10.7(0) Do not award any other answers (= 46.25 − 10.70 =) 35.55 TE on M1 provided answer is to 2 d.p. Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-jan-2025/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• moles (of hydrogen = moles Mg) • volume of 1 mol of hydrogen gas in cm (1) (1) Example of calculation = 0.030 ÷ 24.3 = 0.0012346 / 1.2346 × 10 −3 (mol) Allow 0.00125 / 1.25 × 10 −3 from A r = 24 Do not award moles of HCl = 2 × 0.0012346 = 0.0024691 = 35.55 ÷ 0.0012346 = 28796 (cm ) / 2.8796 × 10 (cm ) Allow 28.796 dm / 28.796 L Ignore SF except 1SF TE on 2(c) TE on M1 Correct answer with some working scores (2) Number Answer Additional Guidance Mark following points: • moles of magnesium/Mg (reacting) would be smaller or moles of hydrogen (used in calculation) would be too high • (cannot account for difference and) effect on (calculated) volume of 1 mole of hydrogen gas (1) (1) Allow mass for moles Allow just less magnesium/Mg (reacting) Allow moles/mass of magnesium/Mg used in calculation would be too high Allow actual mass of magnesium could be (as low as) 0.0294 (g) Allow actual moles of magnesium could be (as low as) 0.0012099 Allow less hydrogen produced (in reaction) Do not award can account for difference (calculated molar) volume would be (even) higher Allow (calculated molar) volume could be (as high as) 29383 (cm ) Allow answer for volume If no other marks awarded, (cannot account for difference and) difference between calculated and Data Book values is greater than 2% scores (1) Number Answer Additional Guidance Mark • percentage uncertainty in mass Example of calculation ( = (2 × 0.0025) × 100 =) 16.667 (%) 0.030 Ignore SF except 1SF Correct answer with no working scores (1) Do not award any other answer Number Answer Additional Guidance Mark • volume of hydrogen/gas (produced) would be greater than burette volume Allow volume of hydrogen/gas (produced) too large Allow just too much hydrogen/gas produced Allow titre too large / cannot be measured by burette / capacity of burette too small Allow not enough space (in burette) for hydrogen/gas Allow 71.1(0) cm is greater than 50 cm /burette (volume) Do not award hydrogen/gas produced too quickly Do not aw",
+          "image": "/papers/wch11-jan-2025/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4f",
+          "text": "Part 4f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 • mass of 2-methylpropan-2-ol M2 to M4 – method 1 • theoretical moles for 100% yield • theoretical mass for 100% yield • mass of 2-chloro-2-methylpropane for 70% yield M2 to M4 – method 2 • theoretical moles for 100% yield • theoretical moles for 70% yield • mass of 2-chloro-2-methylpropane for 70% yield M2 to M4 – method 3 • theoretical mass for 70% yield • theoretical moles for 70% yield • mass of 2-chloro-2-methylpropane for 70% yield (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Allow TE throughout Ignore SF except 1SF Correct answer with some working scores (4) Examples of calculation: = 0.78 × 9.0 = 7.02 (g) = 7.02 ÷ 74.0 = 0.094865 (mol) = 0.094865 × 92.5 = 8.775 (g) = 0.70 × 8.775 = 6.1425 (g) = 7.02 ÷ 74.0 = 0.094865 (mol) = 0.70 × 0.094865 = 0.066405 (mol) = 0.066405 × 92.5 = 6.1425 (g) = 0.70 × 7.02 = 4.914 (g) = 4.914 ÷ 74.0 = 0.066405 (mol) = 0.066405 × 92.5 = 6.1425 (g) (Total for Question 4 = 13 marks) Total for Paper = 50 marks Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wch11-jan-2025/q4-4f.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit3-2025-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

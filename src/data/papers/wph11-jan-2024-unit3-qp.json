@@ -1,0 +1,83 @@
+{
+  "paperId": "wph11-jan-2024-unit3-qp",
+  "pairedMarkSchemeId": "wph11-jan-2024-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "January 2024",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Diagram includes battery (accept cell), switch, ammeter and voltmeter • Ammeter in series and voltmeter in parallel with motor (Accept voltmeter in parallel with the battery if no other resistance components are added) Examples of suitable diagrams (1) (1) • Clamp/fix the metre rule in position • Ensure the metre rule is vertical using a set square • Place the metre rule close to the mass Or read the height from bottom of the mass Or attach a marker to the mass • Take measurements perpendicular to the scale, e.g. using set square (1) (1) (1) (1) • Random error will cause variation/anomalies in the values (accept suitable examples of random error e.g. reaction time, parallax error when measuring height) • (Repeat readings) allow a mean to be calculated to give a (more) accurate value (1) (1) • power input = VI Or power of motor = VI • useful power output = mgh / t Or power of lifting mass = mgh / t (accept power of lifting mass = Fv and F = mg and v = h/t) • efficiency = power of lifting mass / power of motor Or efficiency = (mgh / t) / (VI) (accept efficiency = useful power output / power input, if quantities defined) MP3 dependent on MP1 and MP2 OR • energy input = VIt Or energy transferred to motor = VIt • useful energy output = mgh Or energy transferred to lifting mass = mgh (accept energy transferred to lifting mass = Fh and F = mg) • efficiency = energy transferred to lifting mass / energy transferred to motor Or efficiency = (mgh) / (VIt) (accept efficiency = useful energy output / energy input, if quantities defined) MP3 dependent on MP1 and MP2 (1) (1) (1) (1) (1) (1) Total for question 2 11 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Laser light may cause damage/irritation to the eye Or laser light may temporarily dazzle the student • Do not look (directly) into the laser beam Or stand behind the laser Or wear dark lens safety glasses (accept light absorbing glasses) Or avoid reflective surfaces (1) (1) • Measure the distance between the centres of (adjacent) minima • Repeat for different pairs (of adjacent minima) and calculate a mean value OR • Measure the distance between the centres of multiple minima • Divide the distance by the number of gaps between minima (1) (1) (1) (1) • Increase the distance between the hair and the screen Or use a laser with a longer wavelength • As this will increase the separation between minima MP2 dependent on MP1 OR • Use a measuring device with a higher resolution (accept named device e.g., vernier caliper) • As this will reduce the uncertainty in the measurement MP2 dependent on MP1 (1) (1) (1) (1) • Calculation of mean • Mean value of d = 79.2 (m) rounded to 3 s.f. Example of calculation Mean value of d = 76 + 84.4 + 77.1 = 79.2 m (1) (1) • Use of half range for uncertainty (accept difference to furthest from the mean) • Percentage uncertainty = 5.3% (furthest from the mean gives 6.5%) (e.c.f. from 3(c)(i) for both value and range) Example of calculation Uncertainty = half range = 84.4 − 76 = 4.2 m Percentage uncertainty = 4.2 79.2 ×100 = 5.3% (1) (1) • Upper limit = 192 MPa • The upper limit is below 210 MPa so the suggestion is not correct MP2 dependent on MP1 OR • Percentage difference = 14% • As the percentage difference is greater than 6%, the suggestion is not correct MP2 dependent on MP1 Example of calculation Upper limit = 181   =  Pa (1) (1) (1) (1) Total for question 3 12 Number Answer Mark",
+          "image": "/papers/wph11-jan-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MAX 4 (FROM ONLY 2 PAIRS) • Cannot measure to the centre of the filament bulb • So, measure the diameter of bulb separately and add the radius to the measurement of d • Parallax error when measuring d (using the metre rule) • Use a set square between the ruler and the sensor/bulb Or ensure eyes are perpendicular to the metre rule when taking measurements • Background light will affect the readings on the light meter • So, conduct the investigation in a dark room Or cover the apparatus to block background light Or measure and subtract the intensity of the background light (1) (1) (1) (1) (1) (1) EITHER • I = k 푑 is in the form y = mx • So, the gradient is k which is a constant OR • I = k 푑 is in the form y = mx + c • So, the gradient is k which is a constant and there is no value for c (1) (1) (1) (1) • Correct values of 푑 • ... rounded to 3 s.f. d / m I / W m −2 ퟏ 풅 ퟐ / m −2 0.125 996 64.0 0.175 510 32.7 0.250 276 16.0 0.375 109 7.11 0.500 48 4.00 0.750 18 1.78 (1) (1) • Labels axes with quantities and units • Sensible scales • Plotting • Line of best fit (1) (1) (2) (1) • Calculates gradient using large triangle • k between 15.4 and 16.1 • k given to 2 or 3 s.f. and correct unit (W) Example of calculation k = gradient = 940 − 200 60 − 13 = 15.7 W (1) (1) (1) • Use of I = 푘 푑 • d between 1.96 m and 2.01 m given to 2 or 3 s.f. (allow e.c.f. from 4(b)(iv)) Example of calculation d = 15.7 ( 8 − 4 ) = 3.93 d = √3.93 = 1.98 m (1) (1) Total for question 4 18 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit3-2024-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

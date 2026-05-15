@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2025-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit3-november-p32-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/32",
+  "session": "October/November 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) The diagram shows a logic circuit. A B P S Z R Q C Complete the truth table for the given logic circuit. Show your working. Working space ABCPQRSZ 000 001 010 011 100 101 110 111 [3] * 0000800000006 * ,\u0001\u0001\u0001\u0001 \u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0007, ĬÑĊ®Ġ ́íÈõÏĪÅĊÝûμþ× Ĭĉ·òÚġõĈâĆĊÇĆõåĩĊĂ ĥÕĕĕõõĥÕÅåõÅÅÕĥĕÅÕ DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MAR",
+      "text": "6 (a) The diagram shows a logic circuit. A B P S Z R Q C Complete the truth table for the given logic circuit. Show your working. Working space ABCPQRSZ 000 001 010 011 100 101 110 111 [3] * 0000800000006 * ,\u0001\u0001\u0001\u0001 \u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0007, ĬÑĊ®Ġ ́íÈõÏĪÅĊÝûμþ× Ĭĉ·òÚġõĈâĆĊÇĆõåĩĊĂ ĥÕĕĕõõĥÕÅåõÅÅÕĥĕÅÕ DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MAR",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "6 (a) The diagram shows a logic circuit. A B P S Z R Q C Complete the truth table for the given logic circuit. Show your working. Working space ABCPQRSZ 000 001 010 011 100 101 110 111 [3] * 0000800000006 * ,\u0001\u0001\u0001\u0001 \u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0007, ĬÑĊ®Ġ ́íÈõÏĪÅĊÝûμþ× Ĭĉ·òÚġõĈâĆĊÇĆõåĩĊĂ ĥÕĕĕõõĥÕÅåõÅÅÕĥĕÅÕ DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MARGIN DO NOT WRITE IN THIS MAR",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• One mark for working, (all four columns P, Q, R and S) • One mark for first four rows of column Z • One mark for second four rows of column Z Working space A B C P Q R S Z 0 0 0 1 1 0 0 1 0 0 1 1 1 1 1 1 0 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 0 1 1 1 1 0 1 0 0 0 One mark if only one error present BC A 00 01 11 10 0 0 1 1 0 1 0 1 0 1 October/November Question Answer Marks BC A 00 01 11 10 0 0 1 1 0 1 0 1 0 1 • One correct Boolean term with a + / OR sign • All Boolean terms and operators correct and no other terms present _ _ _ A.C + B.C + A.B.C October/November Question Answer Marks Symmetric (cryptography / encryption) Quantum (cryptography) MP1 The two keys held by the organisation are a private key and a public key MP2 The organisation makes the public key available to anyone who wishes to send them secure transmissions // The sender obtains the organisation’s public key MP3 The sender uses the organisation’s public key to encrypt the message / plain text // The sender uses the organisation’s public key to turn the message into cipher text MP4 The organisation uses its private key to decrypt the message. Question Answer Marks the code by • minimising program storage • minimising CPU time • minimising memory use • minimising program execution time (includes peripheral use as well as CPU) One mark * (c - a) One mark / d Complete answer (a – b + c) * (c - a) / d October/November Question Answer Marks 3 16 16 10 16 9 9 3 3 3 3 30 30 46 Question Answer Marks e.g. • Virtual assistants // AI Agents • Chatbots • Composing music • Self-driving cars • Natural language processing • Fraud detection • Image colouring // photograph enhancement • Visual/Image recognition/facial recognition • Text mining • Computer assisted translation • Large language models (LLMs) • Playing chess • Grading student exams • Weather forecasting October/November Question Answer Marks MP1 Initial outputs are compared to expected outputs MP2 ... weightings are a",
+          "image": "/papers/computer_science-9618-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit3-2025-11-31-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

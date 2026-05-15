@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2025-unit3-june-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2025-unit3-june-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/31",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 26",
+      "text": "Question 26",
+      "parts": [
+        {
+          "id": "26a",
+          "text": "Part 26a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 B1 for one value in the correct place. 27 104.5 105.5 2 B1 for each in correct position If 0 scored SC1 for both correct but reversed or B2FT for 5 points accurately plotted or B1FT for 3 points accurately plotted",
+          "image": "/papers/mathematics-0580-2025/q26-26a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2025/q26.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 28",
+      "text": "Question 28",
+      "parts": [
+        {
+          "id": "28b",
+          "text": "Part 28b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x = oe May/June 2025 Question Answer Marks Partial Marks B1 for each 29 55.7 or 55.70 to 55.71 3 M2 for 16 + 9 + 9 + (16 – 10) + their( ×π×10) oe or M1 for π × 10 [× ] or 2× π × 5 [× ] oe or 16 + 9 + 9 + (16 – 10) oe 30 48.6 or 48.59... 2 M1 for sin [...=] oe",
+          "image": "/papers/mathematics-0580-2025/q28-28b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2025/q28.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2025-unit3-2025-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

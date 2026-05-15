@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2024-unit3-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit3-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/31",
+  "session": "October/November 2024",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "nickel(II) oxide loses oxygen if two marks not scored: one mark for one pair reversed OR reverse order October/November 2024 Question Answer Marks alkali: potassium hydroxide (1) pH 12: blue (1) • evaporate some of the water / heat to the point of crystallisation / heat until crystals seen • filter off crystals / pick out crystals • dry crystals with filter paper liquid (1) explanation: the energy of the products is higher than the energy of the reactants / the energy of KCl + H O is greater than the energy of KCl (aq) (1) October/November 2024 Question Answer Marks 0.8 0.4 negative electrode: hydrogen (1) regular (1) separation: touching / (close) together (1)",
+          "image": "/papers/chemistry-0620-2024/q6-6d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit3-2024-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2015-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit3-november-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "October/November 2015",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Propane reacts with chlorine to form a mixture of chloropropanes. This is a photochemical reaction. (i) What is meant by the phrase photochemical reaction? .............................................................................................................................................",
+      "text": "4 (a) Propane reacts with chlorine to form a mixture of chloropropanes. This is a photochemical reaction. (i) What is meant by the phrase photochemical reaction? .............................................................................................................................................",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 bonds breaking = (8 × 412) + (2 × 348) + 242 = 4234; M2 bonds forming = (7 × 412) + (2 × 348) + 338 + 431 = 4349; M3 4234 – 4349 = –115 and exothermic; CH CH CH Cl + NaOH → CH CH CH Cl + NaCl NaCl as product; rest of equation; CH =CHCH; CH CH OH = 0.1; moles of HCOOH = 0.087 (0.09) and limiting reagent is methanoic acid; 88 × (mol of limiting reagent in 4(d)(iii)); expected answer: 88 × 0.087 = 7.65 g; Page 6 Mark Scheme Syllabus Paper Question Answer Marks source of heat / energy; O + 3CO → 2Fe + 3CO species; balancing; to form a slag or calcium silicate or CaSiO; (liquid) slag floats (above molten iron); C + O → CO; carbon dioxide escapes or carbon dioxide is a gas; Question Answer Marks – gained or lost = numerical value of oxidation state; any two from: • Na to Al (Si) lose e –; • (Si) P to Cl gain e –; • Si gains and loses e – / Ar neither gains nor loses e –; the (correct) particles named in M1 are arranged in a lattice / rows / layers; sea of electrons / delocalised electrons; in a giant lattice / macromolecule / giant (structure); Page 7 Mark Scheme Syllabus Paper Question Answer Marks • sodium chloride is ionic and PCl is covalent; • ionic bonds are strong and intermolecular forces are weak; • PCl reacts with water and NaCl does not; if amphoteric, MgO will react with or dissolve in or neutralise hydrochloric acid or acid or acid oxide and MgO will react with dissolve in or neutralise sodium hydroxide or alkali or base or basic oxide; MgO will not react with or dissolve in or neutralise sodium hydroxide or alkali or base or basic oxide = [2]",
+          "image": "/papers/chemistry-0620-2015/q4-4b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6h",
+          "text": "Part 6h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Mg x x x 2+ x x x x x O 2- x x magnesium with 8 or 0 outer shell electrons; oxygen with 8 outer shell electrons and 2 indicated differently from the other 6 and these 2 electrons must match the Mg electrons if these have been shown; correct charges;",
+          "image": "/papers/chemistry-0620-2015/q6-6h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit3-2015-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

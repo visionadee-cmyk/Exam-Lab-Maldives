@@ -1,0 +1,99 @@
+{
+  "paperId": "computer_science-9618-2025-unit2-november-p21-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit2-november-p21-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "October/November 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expression MyString  'X' & MyString MyChar  MID (\"ABCD\", 1 / 2 / 3 / 4 , 1) MyString  NUM_TO_STR (DAY / MONTH / YEAR / DAYINDEX (MyDOB)) MyInt  INT(LENGTH(MyString) / 2) One mark per row",
+          "image": "/papers/computer_science-9618-2025/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Test description Test method carried out as soon as a program module has been coded alpha carried out as program modules are being combined integration completed by the developers without referring to the code black-box completed by the customer acceptance / beta One mark per row (2 to 4) 1 reference to a breakpoint 2 reference to single stepping 3 Correct explanation of both e.g. to stop program execution at specific point / line / statement / instruction and to execute one line / statement / instruction at a time to (locate an/the error) One mark for each bulleted point October/November Question Answer Marks 2 Example solution Mark as follows: 1 Initialisation of variables used as array index and count 2 Loop through exactly 30 elements in the array 3 Test for empty string in current array element // Test for non-empty string 4 Increment count if appropriate in a loop 5 Both required outputs under correct conditions with correct outputs October/November Question Answer Marks 2 Alternative solution Checking for empty string first October/November Question Answer Marks TYPE RentalRecord DECLARE RentalID : STRING DECLARE CarID : INTEGER DECLARE DisCode : CHAR DECLARE Start : DATE DECLARE Duration : INTEGER DECLARE Completed : BOOLEAN ENDTYPE Mark as follows: 1 One mark for TYPE RentalRecord and ENDTYPE statements 2 One mark for RentalID and CarID declared correctly 3 One mark for DisCode and Start declared correctly 4 One mark for Duration and Completed declared correctly DECLARE Rental : ARRAY[1:500] OF RentalRecord One mark per underlined phrase 1 Different data types held (for each rental) under a single identifier 2 Allows for iteration through rentals/records // Can access rentals/records in a loop // Can (directly) access a specific rental/record using an (array) index 3 Simplifies the code/program / less code needed / reduces code duplication // Makes code/program easier to understand // Makes testing / debugging easier // Program maintenance easier October/No",
+          "image": "/papers/computer_science-9618-2025/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q1.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each: 1 Label A1 | X1 added on line from S1 to state labelled S2 2 States S3, S4 and S5 labelled 3 Line from S2 to S5 with event label A4|X4 4 Lines from S3 with correct event labels including 'loop' label 5 Lines from S4 with correct event labels including 'loop' October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2025/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per point: 1 All boxes correctly labelled 2 Iteration arrow 3 Parameter to Restart 4 Return value from Modify and parameter to Final 5 BYREF parameter to Update October/November Question Answer Marks PROCEDURE OKToBorrow(ThisStudentID : STRING) DECLARE Index, Count : INTEGER CONSTANT Max = 5 Count  0 Index  1 / 0 WHILE Index <= 5000 / Index <= 4999 AND Count < Max IF Loan[Index].StudentID = ThisStudentID AND __ Loan[Index].OnLoan = TRUE THEN Count  Count + 1 ENDIF Index  Index + 1 ENDWHILE IF Count < Max THEN OUTPUT \"Student may borrow another book\" ELSE OUTPUT \"Student may not borrow another book\" ENDIF ENDPROCEDURE Mark as follows: 1 Procedure heading, parameter and ending 2 Loop through all elements in Loan array 3 ... terminating if Max reached 4 Test for correct StudentID field in a loop 5 ... and that OnLoan = TRUE in a loop ... if so, then increment Count in a loop 6 Output an appropriate message in both cases after the loop October/November Question Answer Marks FUNCTION ReturnBook(ThisStudentID, ThisBookID : STRING) RETURNS BOOLEAN DECLARE Index : INTEGER Index  1 WHILE Index < 5001 IF Loan[Index].StudentID = ThisStudentID AND __ Loan[Index].BookID = ThisBookID THEN IF Loan[Index].OnLoan = TRUE THEN // Not returned Loan[Index].OnLoan  FALSE // Mark as returned now RETURN TRUE //Found and not already returned ELSE RETURN FALSE // Found and already returned ENDIF ENDIF Index  Index + 1 ENDWHILE RETURN False // loan not found ENDFUNCTION Mark as follows: 1 Loop through all elements in Loan array 2 ...and book loan not found 3 Attempt to reference an individual data item in a loop 4 Correct test for StudentID and correct BookID in a loop 5 ... If book not returned yet, then set OnLoan field to FALSE 6 RETURN TRUE if book loan Found and not already returned 7 RETURN FALSE if book loan Found and loan already returned 8 RETURN FALSE if book loan not found Alterantive example solution – not immediate return FUNCTION ReturnBook(ThisStudentID, ThisBoo",
+          "image": "/papers/computer_science-9618-2025/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "WHILE Index < 5001 AND NOT Found IF Loan[Index].StudentID = ThisStudentID AND __ Loan[Index].BookID = ThisBookID THEN Found  TRUE IF Loan[Index].OnLoan = FALSE THEN // Already returned OK  FALSE ELSE Loan[Index].OnLoan  FALSE // Mark as returned now ENDIF ENDIF Index  Index + 1 ENDWHILE RETURN Found AND OK ENDFUNCTION Change to existing Record: 1 Store date due back as a new data item / in the loan record 2 Store date of loan and the loan length category as new data items / in the loan record Max 1 New Record 3 New Records with Category (and Loan length field) Change to Program: 4 (Use the loan length category of a book to) calculate the date due date 5 Compare due date with today’s date (to check if overdue / to calculate fine) 6 Map loan length category to length of loan / date due back Max 1 Max 2 marks",
+          "image": "/papers/computer_science-9618-2025/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit2-2025-11-21-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

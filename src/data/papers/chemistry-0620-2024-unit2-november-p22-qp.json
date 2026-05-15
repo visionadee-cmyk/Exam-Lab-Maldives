@@ -1,0 +1,658 @@
+{
+  "paperId": "chemistry-0620-2024-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit2-november-p22-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/22",
+  "session": "October/November 2024",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Oxygen melts at –219 C and boils at –183 C. At which temperature is oxygen a liquid? A –225 C B –189 C C –175 C D 25 C",
+      "text": "Oxygen melts at –219 C and boils at –183 C. At which temperature is oxygen a liquid? A –225 C B –189 C C –175 C D 25 C",
+      "options": [
+        "A –225 C B –189 C C –175 C D 25 C"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The pressure of a sample of gas is decreased. The temperature is kept constant. Which row describes the effects on the particles? movement of particles collisions between particles A slower occur less often, B slower occur with more force, C no change in speed occur less often, D no change in speed    occur with more force",
+      "text": "The pressure of a sample of gas is decreased. The temperature is kept constant. Which row describes the effects on the particles? movement of particles collisions between particles A slower occur less often, B slower occur with more force, C no change in speed occur less often, D no change in speed    occur with more force",
+      "options": [
+        "A slower occur less often",
+        "B slower occur with more force",
+        "C no change in speed occur less often",
+        "D no change in speed    occur with more force"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Rubidium has two isotopes, Rb 85 37 and Rb. 87 37 Which statement explains why both isotopes have the same chemical properties? A They have the same number of protons., B They have the same electronic configuration., C They have different numbers of neutrons., D They have different mass numbers.",
+      "text": "Rubidium has two isotopes, Rb 85 37 and Rb. 87 37 Which statement explains why both isotopes have the same chemical properties? A They have the same number of protons., B They have the same electronic configuration., C They have different numbers of neutrons., D They have different mass numbers.",
+      "options": [
+        "A They have the same number of protons.",
+        "B They have the same electronic configuration.",
+        "C They have different numbers of neutrons.",
+        "D They have different mass numbers."
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which pair of elements react to form a compound with a strong attraction between oppositely charged ions? A carbon and bromine, B carbon and nitrogen, C sodium and oxygen, D sodium and potassium 3",
+      "text": "Which pair of elements react to form a compound with a strong attraction between oppositely charged ions? A carbon and bromine, B carbon and nitrogen, C sodium and oxygen, D sodium and potassium 3",
+      "options": [
+        "A carbon and bromine",
+        "B carbon and nitrogen",
+        "C sodium and oxygen",
+        "D sodium and potassium 3"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four substances, P, Q, R and S, are described. ●   P is diatomic. ●   Q is a good conductor of electricity when solid and when molten. ●   R is a silver solid with a very high melting point. ●   S reacts with oxygen to form a brown gas. Which substances are metals? A P and Q B   P and S C   Q and R D   R and S",
+      "text": "Four substances, P, Q, R and S, are described. ●   P is diatomic. ●   Q is a good conductor of electricity when solid and when molten. ●   R is a silver solid with a very high melting point. ●   S reacts with oxygen to form a brown gas. Which substances are metals? A P and Q B   P and S C   Q and R D   R and S",
+      "options": [
+        "A P and Q B   P and S C   Q and R D   R and S"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows the covalent bonding in a molecule of carbon dioxide? A O–C–O B O=C–O C O=C=O D O≡C≡O",
+      "text": "Which diagram shows the covalent bonding in a molecule of carbon dioxide? A O–C–O B O=C–O C O=C=O D O≡C≡O",
+      "options": [
+        "A O–C–O B O=C–O C O=C=O D O≡C≡O"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The bonding, structure and melting point of sodium chloride and sulfur dichloride are shown. compound bonding structure melting point / C sodium chloride ionic giant lattice 801 sulfur dichloride    covalent    simple molecular –121 Why does sulfur dichloride have a lower melting point than sodium chloride? A The  covalent  bonds  in  sulfur  dichloride  are  weaker  than  the  attractive  forces  between molecules in sodium chloride., B The covalent bonds in sulfur dichloride are weaker than the ionic bonds in sodium chloride., C The attractive forces between molecules in sulfur dichloride are weaker than the attractive forces between molecules in sodium chloride., D The attractive forces between molecules in sulfur dichloride are weaker than the ionic bonds in sodium chloride.",
+      "text": "The bonding, structure and melting point of sodium chloride and sulfur dichloride are shown. compound bonding structure melting point / C sodium chloride ionic giant lattice 801 sulfur dichloride    covalent    simple molecular –121 Why does sulfur dichloride have a lower melting point than sodium chloride? A The  covalent  bonds  in  sulfur  dichloride  are  weaker  than  the  attractive  forces  between molecules in sodium chloride., B The covalent bonds in sulfur dichloride are weaker than the ionic bonds in sodium chloride., C The attractive forces between molecules in sulfur dichloride are weaker than the attractive forces between molecules in sodium chloride., D The attractive forces between molecules in sulfur dichloride are weaker than the ionic bonds in sodium chloride.",
+      "options": [
+        "A The  covalent  bonds  in  sulfur  dichloride  are  weaker  than  the  attractive  forces  between molecules in sodium chloride.",
+        "B The covalent bonds in sulfur dichloride are weaker than the ionic bonds in sodium chloride.",
+        "C The attractive forces between molecules in sulfur dichloride are weaker than the attractive forces between molecules in sodium chloride.",
+        "D The attractive forces between molecules in sulfur dichloride are weaker than the ionic bonds in sodium chloride."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diamond and graphite have giant covalent structures of carbon atoms. Which statement describes graphite? A It has a strong, rigid three-dimensional structure., B It has four strong covalent bonds between each carbon atom., C It has layers, which can slide over each other., D It has no delocalised electrons so does not conduct electricity. 4",
+      "text": "Diamond and graphite have giant covalent structures of carbon atoms. Which statement describes graphite? A It has a strong, rigid three-dimensional structure., B It has four strong covalent bonds between each carbon atom., C It has layers, which can slide over each other., D It has no delocalised electrons so does not conduct electricity. 4",
+      "options": [
+        "A It has a strong, rigid three-dimensional structure.",
+        "B It has four strong covalent bonds between each carbon atom.",
+        "C It has layers, which can slide over each other.",
+        "D It has no delocalised electrons so does not conduct electricity. 4"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row explains the malleability and electrical conductivity of a solid metal? malleability electrical conductivity A Delocalised electrons can move freely through the structure. Delocalised electrons can move freely through the structure. B Delocalised electrons can move freely through the structure. Positive ions can move freely through the structure. C Rows of positive ions can slide over each other. Delocalised electrons can move freely through the structure. D Rows of positive ions can slide over each other. Positive ions can move freely through the structure.",
+      "text": "Which row explains the malleability and electrical conductivity of a solid metal? malleability electrical conductivity A Delocalised electrons can move freely through the structure. Delocalised electrons can move freely through the structure. B Delocalised electrons can move freely through the structure. Positive ions can move freely through the structure. C Rows of positive ions can slide over each other. Delocalised electrons can move freely through the structure. D Rows of positive ions can slide over each other. Positive ions can move freely through the structure.",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the decomposition of ammonium carbonate, (NH 4 ) 2 CO 3 , is shown. (NH 4 ) 2 CO 3 (s)    2NH 3 (g)  +  CO 2 (g)  +  H 2 O(l) [M r : (NH 4 ) 2 CO 3 , 96] The total volume of gas produced is 360 cm 3 at r.t.p. Which mass of ammonium carbonate, (NH 4 ) 2 CO 3 , is decomposed? A 0.24 g B 0.48 g C 0.96 g D 1.44 g",
+      "text": "The equation for the decomposition of ammonium carbonate, (NH 4 ) 2 CO 3 , is shown. (NH 4 ) 2 CO 3 (s)    2NH 3 (g)  +  CO 2 (g)  +  H 2 O(l) [M r : (NH 4 ) 2 CO 3 , 96] The total volume of gas produced is 360 cm 3 at r.t.p. Which mass of ammonium carbonate, (NH 4 ) 2 CO 3 , is decomposed? A 0.24 g B 0.48 g C 0.96 g D 1.44 g",
+      "options": [
+        "A 0.24 g B 0.48 g C 0.96 g D 1.44 g"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What  is  the  empirical  formula  of  a  compound  that  contains  3.66 g  of  hydrogen,  37.8 g  of phosphorus and 58.5 g of oxygen? A H 6 P 2 O 6, B H 4 PO 4, C H 3 PO 3, D HPO",
+      "text": "What  is  the  empirical  formula  of  a  compound  that  contains  3.66 g  of  hydrogen,  37.8 g  of phosphorus and 58.5 g of oxygen? A H 6 P 2 O 6, B H 4 PO 4, C H 3 PO 3, D HPO",
+      "options": [
+        "A H 6 P 2 O 6",
+        "B H 4 PO 4",
+        "C H 3 PO 3",
+        "D HPO"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Aqueous copper( II) sulfate is electrolysed using graphite electrodes. Which row identifies the product and observations at each electrode during the electrolysis? anode cathode product observation product observation A oxygen bubbles of gas copper     electrode turns pink B copper     electrode turns pink     oxygen bubbles of gas C none electrode dissolves     copper     electrode turns pink D oxygen bubbles of gas and electrode dissolves hydrogen bubbles of gas 5",
+      "text": "Aqueous copper( II) sulfate is electrolysed using graphite electrodes. Which row identifies the product and observations at each electrode during the electrolysis? anode cathode product observation product observation A oxygen bubbles of gas copper     electrode turns pink B copper     electrode turns pink     oxygen bubbles of gas C none electrode dissolves     copper     electrode turns pink D oxygen bubbles of gas and electrode dissolves hydrogen bubbles of gas 5",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Molten sodium chloride is electrolysed using inert electrodes. Which row shows the products formed at the cathode and anode? cathode anode A chlorine hydrogen, B chlorine sodium, C hydrogen chlorine, D sodium chlorine",
+      "text": "Molten sodium chloride is electrolysed using inert electrodes. Which row shows the products formed at the cathode and anode? cathode anode A chlorine hydrogen, B chlorine sodium, C hydrogen chlorine, D sodium chlorine",
+      "options": [
+        "A chlorine hydrogen",
+        "B chlorine sodium",
+        "C hydrogen chlorine",
+        "D sodium chlorine"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the formation of ammonia is shown. N 2 +  3H 2   2NH 3 The reaction pathway diagram for the reaction is shown. energy progress of reaction enthalpy change N 2 +  3H 2 2NH 3 total energy released = –342 kJ / mol activation energy = +250 kJ / mol What is the enthalpy change for the reaction? A –592 kJ / mol, B –92 kJ / mol, C +92 kJ / mol, D +592 kJ / mol 6",
+      "text": "The equation for the formation of ammonia is shown. N 2 +  3H 2   2NH 3 The reaction pathway diagram for the reaction is shown. energy progress of reaction enthalpy change N 2 +  3H 2 2NH 3 total energy released = –342 kJ / mol activation energy = +250 kJ / mol What is the enthalpy change for the reaction? A –592 kJ / mol, B –92 kJ / mol, C +92 kJ / mol, D +592 kJ / mol 6",
+      "options": [
+        "A –592 kJ / mol",
+        "B –92 kJ / mol",
+        "C +92 kJ / mol",
+        "D +592 kJ / mol 6"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Sulfur dioxide is converted to sulfur trioxide in the Contact process. The conditions used are 450 C and 200 kPa with a vanadium(V) oxide catalyst. Which row describes and explains the effect of changing conditions on the rate of reaction? change in conditions    effect on rate explanation A no catalyst lower the activation energy is higher, B higher pressure higher the particles have more kinetic energy, C lower temperature lower the particles collide more frequently, D lower pressure higher there are more particles per unit volume",
+      "text": "Sulfur dioxide is converted to sulfur trioxide in the Contact process. The conditions used are 450 C and 200 kPa with a vanadium(V) oxide catalyst. Which row describes and explains the effect of changing conditions on the rate of reaction? change in conditions    effect on rate explanation A no catalyst lower the activation energy is higher, B higher pressure higher the particles have more kinetic energy, C lower temperature lower the particles collide more frequently, D lower pressure higher there are more particles per unit volume",
+      "options": [
+        "A no catalyst lower the activation energy is higher",
+        "B higher pressure higher the particles have more kinetic energy",
+        "C lower temperature lower the particles collide more frequently",
+        "D lower pressure higher there are more particles per unit volume"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Hydrogen gas reacts with iodine gas to form hydrogen iodide gas in an equilibrium reaction. H 2 (g)  +  I 2 (g)    2HI(g)    ∆H = +26.5 kJ / mol Which changes increase the yield of HI at equilibrium? 1   adding a catalyst 2   adding more hydrogen gas 3   increasing the pressure 4   increasing the temperature A 1 and 3 B   1 and 4 C   2 and 3 D   2 and 4",
+      "text": "Hydrogen gas reacts with iodine gas to form hydrogen iodide gas in an equilibrium reaction. H 2 (g)  +  I 2 (g)    2HI(g)    ∆H = +26.5 kJ / mol Which changes increase the yield of HI at equilibrium? 1   adding a catalyst 2   adding more hydrogen gas 3   increasing the pressure 4   increasing the temperature A 1 and 3 B   1 and 4 C   2 and 3 D   2 and 4",
+      "options": [
+        "A 1 and 3 B   1 and 4 C   2 and 3 D   2 and 4"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The equation for the reaction of carbon with carbon dioxide is shown. C +  CO 2   2CO Which row identifies the carbon atom that is reduced and its change in oxidation number? atom that is reduced change in oxidation number, A carbon in CO 2 +2  +4, B carbon in CO 2 +4  +2, C elemental carbon, C 0  +2, D elemental carbon, C +2  0 7",
+      "text": "The equation for the reaction of carbon with carbon dioxide is shown. C +  CO 2   2CO Which row identifies the carbon atom that is reduced and its change in oxidation number? atom that is reduced change in oxidation number, A carbon in CO 2 +2  +4, B carbon in CO 2 +4  +2, C elemental carbon, C 0  +2, D elemental carbon, C +2  0 7",
+      "options": [
+        "C +  CO 2   2CO Which row identifies the carbon atom that is reduced and its change in oxidation number? atom that is reduced change in oxidation number",
+        "A carbon in CO 2 +2  +4",
+        "B carbon in CO 2 +4  +2",
+        "C elemental carbon, C 0  +2",
+        "D elemental carbon, C +2  0 7"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Aqueous iron(II) sulfate is added to acidified potassium manganate(VII). The purple colour of the potassium manganate( VII) disappears. Aqueous potassium iodide is added to acidified potassium dichromate( VI). A dark brown solution forms. Which row identifies the role of the iron( II) sulfate and the potassium dichromate(VI) in these reactions? iron( II) sulfate potassium dichromate(VI) A oxidising agent oxidising agent, B oxidising agent reducing agent, C reducing agent reducing agent, D reducing agent oxidising agent",
+      "text": "Aqueous iron(II) sulfate is added to acidified potassium manganate(VII). The purple colour of the potassium manganate( VII) disappears. Aqueous potassium iodide is added to acidified potassium dichromate( VI). A dark brown solution forms. Which row identifies the role of the iron( II) sulfate and the potassium dichromate(VI) in these reactions? iron( II) sulfate potassium dichromate(VI) A oxidising agent oxidising agent, B oxidising agent reducing agent, C reducing agent reducing agent, D reducing agent oxidising agent",
+      "options": [
+        "A oxidising agent oxidising agent",
+        "B oxidising agent reducing agent",
+        "C reducing agent reducing agent",
+        "D reducing agent oxidising agent"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row shows the difference between a weak acid and a strong acid? weak acid strong acid A fully dissociated     partially dissociated, B concentrated dilute, C dilute concentrated, D partially dissociated     fully dissociated",
+      "text": "Which row shows the difference between a weak acid and a strong acid? weak acid strong acid A fully dissociated     partially dissociated, B concentrated dilute, C dilute concentrated, D partially dissociated     fully dissociated",
+      "options": [
+        "A fully dissociated     partially dissociated",
+        "B concentrated dilute",
+        "C dilute concentrated",
+        "D partially dissociated     fully dissociated"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substance turns methyl orange red? A aqueous ammonia, B dilute hydrochloric acid, C aqueous sodium hydroxide, D distilled water",
+      "text": "Which substance turns methyl orange red? A aqueous ammonia, B dilute hydrochloric acid, C aqueous sodium hydroxide, D distilled water",
+      "options": [
+        "A aqueous ammonia",
+        "B dilute hydrochloric acid",
+        "C aqueous sodium hydroxide",
+        "D distilled water"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes zinc oxide and calcium oxide? zinc oxide calcium oxide A basic acidic, B acidic basic, C amphoteric acidic, D amphoteric basic 8",
+      "text": "Which row describes zinc oxide and calcium oxide? zinc oxide calcium oxide A basic acidic, B acidic basic, C amphoteric acidic, D amphoteric basic 8",
+      "options": [
+        "A basic acidic",
+        "B acidic basic",
+        "C amphoteric acidic",
+        "D amphoteric basic 8"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row shows the properties of a transition element? catalyst colour of oxide electrical conductivity A yes red  good, B yes green poor, C no yellow good, D no white poor",
+      "text": "Which row shows the properties of a transition element? catalyst colour of oxide electrical conductivity A yes red  good, B yes green poor, C no yellow good, D no white poor",
+      "options": [
+        "A yes red  good",
+        "B yes green poor",
+        "C no yellow good",
+        "D no white poor"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Fluorine is the element at the top of Group VII of the Periodic Table. Which statement describes fluorine? A It is inert., B It is monatomic., C It is non-metallic., D It is a solid at room temperature.",
+      "text": "Fluorine is the element at the top of Group VII of the Periodic Table. Which statement describes fluorine? A It is inert., B It is monatomic., C It is non-metallic., D It is a solid at room temperature.",
+      "options": [
+        "A It is inert.",
+        "B It is monatomic.",
+        "C It is non-metallic.",
+        "D It is a solid at room temperature."
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When aluminium is placed in dilute hydrochloric acid, there is no reaction. When zinc is placed in dilute hydrochloric acid, bubbles of gas are immediately given off. Which statement correctly explains these observations? A Aluminium is coated with a layer of aluminium oxide., B Aluminium is more reactive than hydrogen., C Aluminium is less reactive than zinc., D Zinc is less reactive than hydrogen.",
+      "text": "When aluminium is placed in dilute hydrochloric acid, there is no reaction. When zinc is placed in dilute hydrochloric acid, bubbles of gas are immediately given off. Which statement correctly explains these observations? A Aluminium is coated with a layer of aluminium oxide., B Aluminium is more reactive than hydrogen., C Aluminium is less reactive than zinc., D Zinc is less reactive than hydrogen.",
+      "options": [
+        "A Aluminium is coated with a layer of aluminium oxide.",
+        "B Aluminium is more reactive than hydrogen.",
+        "C Aluminium is less reactive than zinc.",
+        "D Zinc is less reactive than hydrogen."
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about the use of sacrificial protection to prevent iron from rusting are correct? 1   A  more  reactive  metal  than  iron  is  used  as  a  sacrificial  protector  because  it undergoes reduction before iron. 2   Zinc is used as a sacrificial protector because it gains electrons more readily than iron. 3   Copper is not used as a sacrificial protector because it is less reactive than iron. 4   Magnesium is used as a sacrificial protector because it loses electrons more readily than iron. A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4 9",
+      "text": "Which statements about the use of sacrificial protection to prevent iron from rusting are correct? 1   A  more  reactive  metal  than  iron  is  used  as  a  sacrificial  protector  because  it undergoes reduction before iron. 2   Zinc is used as a sacrificial protector because it gains electrons more readily than iron. 3   Copper is not used as a sacrificial protector because it is less reactive than iron. 4   Magnesium is used as a sacrificial protector because it loses electrons more readily than iron. A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4 9",
+      "options": [
+        "A 1 and 2 B   1 and 4 C   2 and 3 D   3 and 4 9"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Aluminium is extracted from its ore by electrolysis. What is the role of cryolite in this process? A to lower the operating temperature, B to lower the boiling point of bauxite, C to raise the melting point of bauxite, D to act as a catalyst",
+      "text": "Aluminium is extracted from its ore by electrolysis. What is the role of cryolite in this process? A to lower the operating temperature, B to lower the boiling point of bauxite, C to raise the melting point of bauxite, D to act as a catalyst",
+      "options": [
+        "A to lower the operating temperature",
+        "B to lower the boiling point of bauxite",
+        "C to raise the melting point of bauxite",
+        "D to act as a catalyst"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  row  identifies  two  greenhouse  gases  and  three  processes by  which  they  contribute  to global warming? two greenhouse gases three processes A carbon dioxide and methane    absorption, creation and reflection of thermal energy, B carbon dioxide and oxygen     absorption, creation and reflection of thermal energy, C carbon dioxide and methane    absorption, emission and reflection of thermal energy, D methane and oxygen absorption, emission and reflection of thermal energy",
+      "text": "Which  row  identifies  two  greenhouse  gases  and  three  processes by  which  they  contribute  to global warming? two greenhouse gases three processes A carbon dioxide and methane    absorption, creation and reflection of thermal energy, B carbon dioxide and oxygen     absorption, creation and reflection of thermal energy, C carbon dioxide and methane    absorption, emission and reflection of thermal energy, D methane and oxygen absorption, emission and reflection of thermal energy",
+      "options": [
+        "A carbon dioxide and methane    absorption, creation and reflection of thermal energy",
+        "B carbon dioxide and oxygen     absorption, creation and reflection of thermal energy",
+        "C carbon dioxide and methane    absorption, emission and reflection of thermal energy",
+        "D methane and oxygen absorption, emission and reflection of thermal energy"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which mixture contains all of the elements in a typical NPK fertiliser? A ammonium nitrate and calcium phosphate, B ammonium phosphate and potassium chloride, C potassium nitrate and ammonium chloride, D potassium carbonate and ammonium nitrate",
+      "text": "Which mixture contains all of the elements in a typical NPK fertiliser? A ammonium nitrate and calcium phosphate, B ammonium phosphate and potassium chloride, C potassium nitrate and ammonium chloride, D potassium carbonate and ammonium nitrate",
+      "options": [
+        "A ammonium nitrate and calcium phosphate",
+        "B ammonium phosphate and potassium chloride",
+        "C potassium nitrate and ammonium chloride",
+        "D potassium carbonate and ammonium nitrate"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Bromine reacts with but-2-ene. What is the displayed formula of the product of this reaction? HC H H C H H C H H C Br Br A HHC H C HH H C H H C BrBr B H HC H H C HH C H H C BrBr C HHC H C HH HH C H C BrBr D H 10",
+      "text": "Bromine reacts with but-2-ene. What is the displayed formula of the product of this reaction? HC H H C H H C H H C Br Br A HHC H C HH H C H H C BrBr B H HC H H C HH C H H C BrBr C HHC H C HH HH C H C BrBr D H 10",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement is correct? A Bitumen is used as a fuel for ships., B Coal, natural gas and oxygen are all fuels., C Hydrogen is the main constituent of natural gas., D Petroleum is separated into useful substances by fractional distillation.",
+      "text": "Which statement is correct? A Bitumen is used as a fuel for ships., B Coal, natural gas and oxygen are all fuels., C Hydrogen is the main constituent of natural gas., D Petroleum is separated into useful substances by fractional distillation.",
+      "options": [
+        "A Bitumen is used as a fuel for ships.",
+        "B Coal, natural gas and oxygen are all fuels.",
+        "C Hydrogen is the main constituent of natural gas.",
+        "D Petroleum is separated into useful substances by fractional distillation."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement explains why ethanoic acid is saturated? A The molecule dissociates completely in water., B There is a carbon–oxygen double bond in the molecule., C The carbon–carbon bond in the molecule is a single bond., D All the carbon–hydrogen bonds in the molecule are single bonds.",
+      "text": "Which statement explains why ethanoic acid is saturated? A The molecule dissociates completely in water., B There is a carbon–oxygen double bond in the molecule., C The carbon–carbon bond in the molecule is a single bond., D All the carbon–hydrogen bonds in the molecule are single bonds.",
+      "options": [
+        "A The molecule dissociates completely in water.",
+        "B There is a carbon–oxygen double bond in the molecule.",
+        "C The carbon–carbon bond in the molecule is a single bond.",
+        "D All the carbon–hydrogen bonds in the molecule are single bonds."
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about compounds in the same homologous series is correct? A They have the same chemical properties because they have the same number of carbon atoms., B They  have  the  same  physical  properties  because  they  have  the  same  number  of  carbon atoms., C They  have  different  chemical  properties  because  they  have  different  numbers  of  carbon atoms., D They  have  different  physical  properties  because  they  have  different  numbers  of  carbon atoms.",
+      "text": "Which statement about compounds in the same homologous series is correct? A They have the same chemical properties because they have the same number of carbon atoms., B They  have  the  same  physical  properties  because  they  have  the  same  number  of  carbon atoms., C They  have  different  chemical  properties  because  they  have  different  numbers  of  carbon atoms., D They  have  different  physical  properties  because  they  have  different  numbers  of  carbon atoms.",
+      "options": [
+        "A They have the same chemical properties because they have the same number of carbon atoms.",
+        "B They  have  the  same  physical  properties  because  they  have  the  same  number  of  carbon atoms.",
+        "C They  have  different  chemical  properties  because  they  have  different  numbers  of  carbon atoms.",
+        "D They  have  different  physical  properties  because  they  have  different  numbers  of  carbon atoms."
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row shows the properties of methane? soluble in water state at room temperature gives a positive test with aqueous bromine A no gas no, B no gas yes, C yes liquid no, D yes liquid yes 11",
+      "text": "Which row shows the properties of methane? soluble in water state at room temperature gives a positive test with aqueous bromine A no gas no, B no gas yes, C yes liquid no, D yes liquid yes 11",
+      "options": [
+        "A no gas no",
+        "B no gas yes",
+        "C yes liquid no",
+        "D yes liquid yes 11"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows two methods used to make ethanol. method type of process conditions source of raw material temperature / C pressure / atm catalyst fermentation batch 35 1 yeast sugar cane adding steam to ethene continuous 300 60 acid petroleum Which statement gives an advantage of preparing ethanol by fermentation rather than by adding steam to ethene? A Fermentation takes several days to complete., B Little energy is used in the fermentation process., C The fermentation of glucose from sugar cane produces pure ethanol., D Fermentation uses a non-renewable raw material.",
+      "text": "The table shows two methods used to make ethanol. method type of process conditions source of raw material temperature / C pressure / atm catalyst fermentation batch 35 1 yeast sugar cane adding steam to ethene continuous 300 60 acid petroleum Which statement gives an advantage of preparing ethanol by fermentation rather than by adding steam to ethene? A Fermentation takes several days to complete., B Little energy is used in the fermentation process., C The fermentation of glucose from sugar cane produces pure ethanol., D Fermentation uses a non-renewable raw material.",
+      "options": [
+        "A Fermentation takes several days to complete.",
+        "B Little energy is used in the fermentation process.",
+        "C The fermentation of glucose from sugar cane produces pure ethanol.",
+        "D Fermentation uses a non-renewable raw material."
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which equation represents an addition reaction? A CH 3 CHO  +  HCN    CH 3 CH(OH)CN, B C 6 H 6 +  Br 2   C 6 H 5 Br  +  HBr, C NH 4 Br    NH 3 +  HBr, D C 14 H 30   C 2 H 4 +  C 8 H 18 +  C 4 H 8",
+      "text": "Which equation represents an addition reaction? A CH 3 CHO  +  HCN    CH 3 CH(OH)CN, B C 6 H 6 +  Br 2   C 6 H 5 Br  +  HBr, C NH 4 Br    NH 3 +  HBr, D C 14 H 30   C 2 H 4 +  C 8 H 18 +  C 4 H 8",
+      "options": [
+        "A CH 3 CHO  +  HCN    CH 3 CH(OH)CN",
+        "B C 6 H 6 +  Br 2   C 6 H 5 Br  +  HBr",
+        "C NH 4 Br    NH 3 +  HBr",
+        "D C 14 H 30   C 2 H 4 +  C 8 H 18 +  C 4 H 8"
+      ],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The structure of part of a polymer is shown. C H H N H C O C H H C H H C O OC H H N H C O C H H C H H How many amide and ester linkages are included in the structure shown? amide linkages ester linkages A 1 0, B 1 1, C 2 1, D 2 2 12",
+      "text": "The structure of part of a polymer is shown. C H H N H C O C H H C H H C O OC H H N H C O C H H C H H How many amide and ester linkages are included in the structure shown? amide linkages ester linkages A 1 0, B 1 1, C 2 1, D 2 2 12",
+      "options": [
+        "A 1 0",
+        "B 1 1",
+        "C 2 1",
+        "D 2 2 12"
+      ],
+      "answer": "C",
+      "image": "/papers/chemistry-0620-2024/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which structure represents part of a protein? D N HH C O N C O O B C O C O O O A C O C O N H N H C C O C O N H N H",
+      "text": "Which structure represents part of a protein? D N HH C O N C O O B C O C O O O A C O C O N H N H C C O C O N H N H",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/chemistry-0620-2024/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which piece of apparatus can only measure a single fixed volume? A a 250 cm 3 beaker, B a 50 cm 3 burette, C a 100 cm 3 measuring cylinder, D a 25 cm 3 volumetric pipette",
+      "text": "Which piece of apparatus can only measure a single fixed volume? A a 250 cm 3 beaker, B a 50 cm 3 burette, C a 100 cm 3 measuring cylinder, D a 25 cm 3 volumetric pipette",
+      "options": [
+        "A a 250 cm 3 beaker",
+        "B a 50 cm 3 burette",
+        "C a 100 cm 3 measuring cylinder",
+        "D a 25 cm 3 volumetric pipette"
+      ],
+      "answer": "D",
+      "image": "/papers/chemistry-0620-2024/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Pure  solid  copper( II)  nitrate  can  be  obtained  from  a  mixture  of  copper(II)  nitrate  and  copper powder. Three stages in the method are listed. X   add water and stir Y   crystallise Z   filter After the three stages, the copper( II) nitrate is washed and dried. What is the correct order of stages X, Y and Z to obtain pure solid copper( II) nitrate from the mixture? A X  Y  Z B X  Z  Y C Y  X  Z D Z  X  Y 13",
+      "text": "Pure  solid  copper( II)  nitrate  can  be  obtained  from  a  mixture  of  copper(II)  nitrate  and  copper powder. Three stages in the method are listed. X   add water and stir Y   crystallise Z   filter After the three stages, the copper( II) nitrate is washed and dried. What is the correct order of stages X, Y and Z to obtain pure solid copper( II) nitrate from the mixture? A X  Y  Z B X  Z  Y C Y  X  Z D Z  X  Y 13",
+      "options": [
+        "A X  Y  Z B X  Z  Y C Y  X  Z D Z  X  Y 13"
+      ],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes a test and the observation for aqueous sulfate ions? test observation A add dilute nitric acid a gas is produced which turns limewater cloudy B add dilute nitric acid and aqueous barium nitrate white precipitate forms C add dilute nitric acid and aqueous potassium manganate( VII) solution decolourises D add dilute nitric acid and aqueous silver nitrate white precipitate forms 14 15 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "text": "Which row describes a test and the observation for aqueous sulfate ions? test observation A add dilute nitric acid a gas is produced which turns limewater cloudy B add dilute nitric acid and aqueous barium nitrate white precipitate forms C add dilute nitric acid and aqueous potassium manganate( VII) solution decolourises D add dilute nitric acid and aqueous silver nitrate white precipitate forms 14 15 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 16 Group The Periodic Table of Elements 1 H hydrogen 1 2 He helium 4 III III IV V VI VII VIII 3 Li lithium 7 4 Be beryllium 9 atomic number atomic symbol Key name relative atomic mass 11 Na sodium 23 12 Mg magnesium 24 19 K potassium 39 20 Ca calcium 40 37 Rb rubidium 85 38 Sr strontium 88 55 Cs caesium 133 56 Ba barium 137 87 Fr francium – 88 Ra radium – 5 B boron 11 13 A l aluminium 2731 Ga gallium 7049 I n indium 115 81 T l thallium 204 113 Nh nihonium – 6 C carbon 1214 Si silicon 2832 Ge germanium 7350 Sn tin 119 82 Pb lead 207 22 Ti titanium 4840 Zr zirconium 9172 Hf hafnium 178104 Rf rutherfordium – 23 V vanadium 5141 Nb niobium 9373 Ta tantalum 181105 Db dubnium – 24 Cr chromium 5242 Mo molybdenum 9674 W tungsten 184106 Sg seaborgium – 25 Mn manganese 5543 Tc technetium – 75 Re rhenium 186107 Bh bohrium – 26 Fe iron 5644 Ru ruthenium 101 76 Os osmium 190108 Hs hassium – 27 Co cobalt 5945 Rh rhodium 103 77 I r iridium 192109 Mt meitnerium – 28 Ni nickel 5946 Pd palladium 106 78 Pt platinum 195 110 Ds darmstadtium – 29 Cu copper 6447 Ag silver 108 79 Au gold 197 111 Rg roentgenium – 30 Zn zinc 65 48 Cd cadmium 112 80 Hg mercury 201 112 Cn copernicium – 114 F l flerovium – 116 Lv livermorium – 7 N nitrogen 1415 P phosphorus 3133 As arsenic 7551 Sb antimony 122 83 Bi bismuth 209 115 Mc moscovium – 8 O oxygen 1616 S sulfur 3234 Se selenium 7952 Te tellurium 128 84 Po polonium – 9 F fluorine 1917 C l chlorine 35.5 35 Br bromine 8053 I iodine 127 85 At astatine – 117 Ts tennessine – 10 Ne neon 2018 Ar argon 4036 Kr krypton 8454 Xe xenon 131 86 Rn radon – 118 Og oganesson – 21 Sc scandium 4539 Y yttrium 89 57–71 lanthanoids 89–103 actinoids 57 La lanthanum 139 89 Ac lanthanoids actinoidsThe volume of one mole of any gas is 24 dm 3 at room temperature and pressure (r.t.p.). actinium – 58 Ce cerium 140 90 Th thorium 232 59 Pr praseodymium 141 91 Pa protactinium 231 60 Nd neodymium 144 92 U uranium 238 61 Pm promethium – 93 Np neptunium – 62 Sm samarium 150 94 Pu plutonium – 63 Eu europium 152 95 Am americium – 64 Gd gadolinium 157 96 Cm curium – 65 Tb terbium 159 97 Bk berkelium – 66 Dy dysprosium 163 98 Cf californium – 67 Ho holmium 165 99 Es einsteinium – 68 Er erbium 167100 Fm fermium – 69 Tm thulium 169101 Md mendelevium – 70 Yb ytterbium 173102 No nobelium – 71 Lu lutetium 175103 Lr lawrencium –",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/chemistry-0620-2024/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit2-2024-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

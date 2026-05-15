@@ -1,0 +1,131 @@
+{
+  "paperId": "chemistry-0620-2022-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A boiling tube / test-tube B measuring cylinde r r / H O",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "arrow to show heating must have head pointing towards the tube and the arrowhead must be between the two lines shown",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "no more bubbles / volume of gas stops changing / boiling tube breaks / cracks suck back / water goes into tube",
+          "image": "/papers/chemistry-0620-2022/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all values in (a) to 1 dp or better and to a consistent number of dp all burette reading correct (12.0/12, 22.4, 1.6) both titres correct (10.4, 20.8)",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all burette readings correct (19.7 35.3, 4.1) all readings in the correct cells (initial reading is the smallest and second colour change is the largest) both titres correct (15.6, 31.2) 0620/62 May/June 2022",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) yellow (to) orange",
+          "image": "/papers/chemistry-0620-2022/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a greater volume is required to reach the second end point double",
+          "image": "/papers/chemistry-0620-2022/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "smaller volume (of acid) is required fo r K (experiment 1) OR larger volume (of acid) is required fo r L (Experiment 2) (so) L (Experiment 2) is more concentrated than K (Experiment 1) OR (so) K (Experiment 1) is less concentrated than L (Experiment 2) answer is quantitative. Either L is 1.5  concentration of K OR the volume of acid for L is 1.5  the volume of acid for K numerical answer which is 2  answer for second colour change in results table for Experiment 2 cm 2( f )(ii) more than can fit into burette to mix the solutions / remove residues (of Experiment 1 from the flask) it would add an unknown volume of solution L",
+          "image": "/papers/chemistry-0620-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "brown precipitate or red-brown precipitate remains / does not (re)dissolve (in excess) 0620/62 May/June 2022 (red) litmus turns blue / NH / no precipitate / no reaction / SO / Li SO any 6 from:  grind / crush / powder coffee beans  using pestle / mortar  add water and stir / mix  heat / hot (water) (to dissolve)  filter  leave (filtrate) to cool or leave to form crystals  wash / rinse (crystals / residue / caffeine)",
+          "image": "/papers/chemistry-0620-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit6-2022-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

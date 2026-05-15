@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2023-unit4-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit4-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/41",
+  "session": "October/November 2023",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "2(b) in the evidence document. [6] (c) Some game IDs appear in the text file more than once. The program needs to total the number of times each game ID appears in the text file. The record structure R",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Loop DataReader.Close() Catch ex As Exception Console.WriteLine(\"No file\") End Try End Sub Python def ReadData(): try: DataFile = open(\"QueueData.txt\") for Line in DataFile: Enqueue(Line.strip()) DataFile.close() except IOError: print(\"No file\") October/November 2023 Question Answer Marks • Declaration of record type/class RecordData • ID as a string and total as an Integer Example program code: Java class RecordData{ public String ID; public Integer Total; public RecordData(String IDP, Integer TotalP){ ID = IDP; Total = TotalP; } } VB.NET Structure RecordData Dim ID As String Dim Total As Integer End Structure Python class RecordData: #self. ID string #self. Total integer def init (self, IDP, TotalP): self. ID = IDP self. Total = TotalP October/November 2023 Question Answer Marks def SetID(self, Value): self. ID = Value def GetID(self): return self. ID def SetTotal(self, Value): self. Total = Value def GetTotal(self): return self. Total • (global) 1D Array named Records of type RecordData • (global) NumberRecords declared as integer and initialised to 0 Example program code: Java public static RecordData[] Records = new RecordData[50]; public static Integer NumberRecords = 0; VB.NET Dim Records(49) As RecordData Dim NumberRecords As Integer Sub Main(args As String()) NumberRecords = 0 End Sub Python #main Records = [] #50 elements of type RecordData NumberRecords = 0 October/November 2023 Question Answer Marks • Incrementing NumberRecords each time (twice) a new record is added • Procedure header (and end) and using Dequeue() and storing/using return value DataAccessed  Dequeue() • Checking if NumberRecords is 0 and creating a new record with ID and total as 1: IF NumberRecords = 0 THEN Records[NumberRecords].ID  DataAccessed Records[NumberRecords].Total  1 Flag  TRUE • Looping through all array elements to find matching ID and incrementing total if found FOR X  0 TO NumberRecords – 1 Check Python loop end IF Records[X].ID = DataAccessed THEN Records[X].Total ",
+          "image": "/papers/computer_science-9618-2023/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit4-2023-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

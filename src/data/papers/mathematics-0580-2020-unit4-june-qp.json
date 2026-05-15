@@ -1,0 +1,91 @@
+{
+  "paperId": "mathematics-0580-2020-unit4-june-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit4-june-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/41",
+  "session": "May/June 2020",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Translation   −  2 B1 for translation or correct vector oe 3 B2 for 8 or 9 numbers correct or B1 for 6 or 7 numbers correct",
+          "image": "/papers/mathematics-0580-2020/q4-4c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y ⩾ x oe",
+          "image": "/papers/mathematics-0580-2020/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2.25 x + 1.5y ⩽ 22.5 oe M1 One step shown to x + 2y ⩽ 30 A1 3x + 2y = 30 ruled B2 Solid line B1 for line passing through (0, 15) or (10, 0) y = x ruled B1 Solid line Correct region indicated B1 y for an integer point in the region (x > 0 and y > 0)",
+          "image": "/papers/mathematics-0580-2020/q6-6b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "[ BC =] 80 + 115 – 2 × 80 × cos 72 oe M1 118.06... A2 A1 for 13939... May/June 2020 Question Answer Marks Partial Marks M2 for [sin B =] 115 sin 72 118.1 × oe or M1 for 115118.1 sinsin 72B = oe M1 for 180 + 75 oe M1 for their speed in m/s × 60 × 60 ÷ 1000 M2 for distance =sin72 oe or M1 for distance required is perpendicular to AC soi [centre] (180, 0) 2 B1 for rotational [symmetry] and 131.4 or 131.40 to 131.41 3 B2 for 48.6 or 48.59 to 48.60 or 131.4 or 131.40 to 131.41 or M1 for sin x = 0.75 or better If 0 scored, SC1 for two answers adding to 180 – 11 2 M1 for (x + 5) + k or ( x + their 5) + 14 – (their 5) or a = 5 minimum indicated at (–5, –11) with no part of graph in 4 th quadrant 3 FT their (x + 5) – 11 provided in that form B1 for U shape curve B1FT for turning point at (–5, k) or ( k, –11) M2 for 8π2 ××× + 16 or M1 for 8π2 ××× M3 for [] [] π4 8π × ×× oe or M2 for r = [] [] π4 8π × ×× oe or M1 for ×π× oe seen May/June 2020 Question Answer Marks Partial Marks M1 for ×2[×π]×8 = 2[×π]× r or better or for [×π]×8 = [π×] × 8 r or better M3 for ()() their c i π×× 8aius–rdtheir or M2 for 8aius–rdtheir or M1 for (their (c)(i)) + h = 8 M2 for ( 4 10) + (4 – –3)– oe or M1 for (–4 –10) + (4 – – 3) oe 10 4 –– –– [= –2] oe M1 10 = –2(–3) + c Or –4 = –2(4) + c and correct completion to y = –2x + 4 A1 y = x + oe 4 M1 for grad = ½ soi M1 for [midpoint =] (½, 3) M1 for substitution of (1/2, 3) into their y = mx + c oe ,  −−   oe and (–5, 50) 6 B2 for 3x + 16x + 5 Or B1 for one correct M1 for derivative = 0 or their derivative = 0 M1 for [x =] – and [ x =] –5 B1 for – and 50 ,  −−   minimum (–5, 50) maximum with correct reasons 3 B2 for one correct with reason or M1 for correct attempt e.g. 2 nd derivatives, gradients or sketching",
+          "image": "/papers/mathematics-0580-2020/q7-7a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit4-2020-06-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

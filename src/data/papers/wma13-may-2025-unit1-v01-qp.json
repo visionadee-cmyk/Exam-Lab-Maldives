@@ -1,0 +1,237 @@
+{
+  "paperId": "wma13-may-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-may-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "May 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) 2 1 2 1 gf 1 g 3 1 1 3 1 1     = = −      +  +     M1 = oe A1 (2) (b) ( ) f0 x ... or ( ) f x  B1 ( ) 0f x  „ B1 (2) Notes: (a) M1: Correct order of operations so requires an attempt to find f (1) and then apply g to their f (1) Allow for an attempt to substitute x = 1 into x x  −  +  A1: Correct value. Allow equivalents e.g. 3.75, Correct answer only scores both marks. (b) Allow the use of y or f but not x in place of f (x) for both marks. B1: One correct bound e.g. either ( ) f0 x ... or ( ) f x  which may be seen embedded in another inequality. Allow exact equivalents for including 0.6 • B1: Correct range. Allow equivalent notation e.g. 0f,0,, 0,,>0 yy            „... Allow written as separate inequalities e.g. ()()()() f0, f,f0 and f xxxx...... but not e.g. ( ) ( ) f 0 or f xx  ... Allow y or f for f (x). Allow exact equivalents for including 0.6 • (c) ( ) x y xy y x xy x y x y y x =  + =  − = −  − = − + or ( ) y x xy x y xy y x y x x y =  + =  − = −  − = − + M1 ( ) f x x x − = − A1 (2) (d) ( ) ( ) ff xx − = or () fxx − = or ( ) f xx = \"\" 2 3 xx xx = −+ or \"\" x x x = − or x x x = + ()() 312 2 3x xxx + =− or () 23x xx=− or () 231x x x=+ ... x = M1 0, x = A1 (2) Total 8 (c) M1: Attempts to change the subject. If making x the subject, they must proceed as far as getting the two x terms on one side of the equation and the term not in x on the other and factorise out the x. If making y the subject, they must swap x and y first and then proceed as far as getting the two y terms on one side of the equation and the term not in y on the other and factorise out the y. A1: Correct expression ( ) ( ) f x x x − = − oe e.g. ( ) ( ) f x x x − − = − Accept equivalent expressions and isw after a correct answer is seen. Do not be concerned with the lhs and just look for the correct expression in terms of x. You can also ignore any reference to a domain as this is not required. (d) M1: Sets up one of the required equatio",
+          "image": "/papers/wma13-may-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "25 R = B1 tan ...  =  = M1 1.287  = A1 (3) (b)(i) ( ) Min 90 3 \"25\" = −   − M1 = A1 (b)(ii) ( ) \"1.287\" ,... ... xx  + =  = M1 \"1.287\" 0.927 x  −  = = A1 (4) Total 7 Notes: (a) B1: Correct value. May be seen embedded in e.g. ( ) ( ) ( ) f 25cos ... . xx =+ Condone e.g. ( ) R = + − = Do not allow  unless the −25 is rejected. M1: Allow for: tan , tan , cos , sin their their RR     =  =  =  =  leading to a value for α. If no method is shown it may be implied by their value for α as awrt 1.3 rads or awrt 74° A1: Awrt 1.287 Isw once the mark is awarded. Must be in radians. May be seen embedded in e.g. ( ) ( ) ( ) f ...cos 1.287 . xx =+ Apply isw if correct R and α are seen followed by e.g. ( ) ( ) ( ) f 25cos 1.287 . xx =− Mark (b)(i) and (ii) together. (b)(i) M1: Award for . 90 3 Their R + May be implied by their value (which may be a decimal) and may be seen embedded in e.g. coordinates 1.2871 , −    which would score (i) M1 A1 and (ii) M1 A1: For only. Note that both marks are available in (b)(i) even if their α is incorrect. (b)(ii) Note that (b)(ii) can be marked independently. M1: For an attempt to solve \"1.287\" x  = to obtain a value for x. May be implied by awrt 0.927 Condone a sign slip but the order of operations must be essentially correct e.g. \"1.287\" 2\"1.287\"2\"1.287\" xxx    =  =  = Condone an attempt to solve e.g. 2\"74 \" 180x  =  but not mixed units e.g. 2\"1.287\" 180x= A1: For awrt 0.927 Number Scheme Marks",
+          "image": "/papers/wma13-may-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Show that f()x x x \u001f \u001e 7 3 x > 3 (3) (b) Hence find f ʹ(x) giving your answer in simplest form. (2) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ __________________________________",
+      "text": "3 (a) Show that f()x x x \u001f \u001e 7 3 x > 3 (3) (b) Hence find f ʹ(x) giving your answer in simplest form. (2) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ __________________________________",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Show that f()x x x \u001f \u001e 7 3 x > 3 (3) (b) Hence find f ʹ(x) giving your answer in simplest form. (2) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ __________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "10 log log 3.5 yx =  − M1 log log yx = − − A1 (2) Notes: M1: Obtains an equation of the form log log 3.5 yx =  − oe e.g. log log log 0.01 yx = − + Note yx = − − or log 3.5 yx =  − or log yx = − − score M0 If this is attempted via simultaneous equations e.g. 3.5 , m c c = − + − = it is scored for reaching a gradient of 3.5  which may be implied by awrt 0.57 and then loglog2 3.5 yx= − as above. Condone log or lg for log but not ln or any other incorrect base. A1: Correct equation loglog2 yx= −− or equivalent. e.g. 7 log 4 log 14 0, yx + + = log log log 0.01 yx = − + Condone log log 3.5 yx = − − and isw once a correct equation is seen. Condone log or lg for log but not ln (b) loglog2 yx= −−  log log log or or x x x y y y −    − −− −     −     = = =  or e.g. log log log y yx x − − = −  = − or e.g. log log log y x yx = − −  = − M1 log log or x x y y y x −   − −−  −−  = =   =  or e.g. log y x y x − −− − =  = or log yx yx −− =  = dM1 yx − = oe A1 (3) Total 5 Do not allow marks for part (a) to be scored in part (b) Main method: Starting from an equation of the form loglogy mx c=+ where m and c are non-zero. M1: Correctly applies lhs rhs = to their log log y m x c =+ including the use of log y y = e.g. log log log m x c y m x c y + = +  = or log log log mx c y m x c y = +  =  or combines their log y and logmx correctly to obtain log m yx c = or equivalent e.g. log log log log log log log mm m y y m x c y x c y x c c x = +  = +  − =  =  May be implied by their work. Note that e.g. log log log x y x y − = − −  = − scores M0 dM1: Depends on the previous method mark. Complete and correct work to obtain an equation in x and y only or for obtaining values for p and q which must not involve logs. You can condone sign slips with their constant term but the log work must be correct. A1: Correct equation in the form required yx − = or e.g. 0.01 yx − = or e.g. yx − − = or e.g. x y − = from correct work. Allow equivalent exact values for q e.",
+          "image": "/papers/wma13-may-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) x x x xx x x x x x +− += + − + + − or e.g. ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) x x x x x x x x xx x x x x x x x x x + − + + + − + += + − + + + − + + − M1A1 ( ) ( ) ( ) ( ) ( ) ( ) ( ) x x x x x x x x x x x x x x +− + − + == + − + − + − ( ) xx + = ( ) x + ( ) ( ) x x x = − − * A1* (3) Do not allow a mis-read of the numerators of the fractions e.g. x x + as x + or x xx +− as xx +− M1: Factorises the denominator of the first term to obtain ( ) ( ) xx + and attempts to combine the two fractions using a common denominator to obtain ( ) ( ) ( ) ... ... oe x x x xx x x x x x + += + − + +  Alternatively multiplies numerator and denominator of both fractions by suitable expressions and attempts to combine the two fractions e.g. ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ... ... x x x x x x x x xx x x x x x x x x x + − + + + − + += + − + + + − + + − A1: For a correct unsimplified fraction. Condone missing brackets if they are recovered. A1*: Achieves the printed answer with sufficient working shown. The factorisation required for the cancelling needs to be seen within their fraction so that e.g. ( ) ( ) ( ) ( ) ( ) ( ) x x x x x x x x x x x x x x x x +− + + = = = + − + + − + − − scores M1A1A0* Do not allow just ( ) xx + ( ) x + ( ) x − without the printed answer written down. For reference if they take the more complicated method, the correct working to reach the printed could be as follows: ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) * x x x x x x x x x x x x x x x x x x x x x x + + + − + + ++ = = = = + + − + + − − + + − (b) ( ) ( ) ( ) ( ) ( ) 7 7 ff xx x xx x x −  −   =  = − − M1 ( ) ( ) ( ) ( ) ff x xx x x  =  = − − − A1 (2) (b) ALT ( ) ( ) ( ) ( ) f f x xx xx x  = = +  = − −− − M1A1 Total 5 (b) M1: Attempts to differentiate using the quotient rule or product rule. For the quotient rule it requires achieving () () () f,0 xx x x   −−  = − If they use a substitution then similar conditions apply e.g. ( ) ( ) f , uu u x u u   −+ ",
+          "image": "/papers/wma13-may-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5i",
+          "text": "Part 5i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 cos 6 1 2 sin 3 sin 3 cos 6 x x x x = −  = − sin 3 d cos 6 d x x x x  =−      M1 ( ) sin 6 x x c = − + A1 (2) (ii) ( ) ( ) ( ) 4 d x x x x c + = + +  M1A1 (2) Total 4 Notes: (i) M1: Uses cos 6 1 2 sin 3 xx =   in an attempt to obtain an integrable form. An alternative would be to change sin 3 d xx  to () 1 cos 3 dxx−  and then use cos 62 cos 31xx=  in an attempt to obtain an integrable form. May be implied by an answer of ( ) sin 6 x x c  ++ A1: Correct integration. Condone the omission of “+ c” Condone spurious notation e.g. sin 3 d sin 6 d x x x x x == −  (ii) M1: Obtains ( ) ( ) ( ) 4 d x x x k x c + = + +  May be implied by e.g. ( ) ( ) ( ) 4 d x x x x x c x + = +  +  Note this may also be implied by an attempt at substitution e.g. ( ) ( ) d 4 d d d d x u x x x x x x u xu u u c ux = +  + = + = = +    Score M1 for a complete method leading to ( ) ku c + A1: Correct integration. Condone the omission of “+ c” Allow equivalent correct expressions but do not allow () xx x + without the x’s cancelled. Condone spurious notation e.g. ()() 4 d4 d x xxxx+=+  Number Scheme Marks",
+          "image": "/papers/wma13-may-2025/q5-5i.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-13.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "75,075 21...tAA==  = +  = M1 A = A1 (2) (b) 21 54e 25 21 54e kt k  −− = +  = + M1 54e e ln ... kk kk −− =  =  − =  = M1 ln 0.521 k = − = A1 (3) Notes: (a) M1: Substitutes θ = 75 and t = 0 into the given equation, uses e1 = and proceeds to find a value for A. Look for 75 21 ... AA = +   = A1: For A = 54 Sight of 54 with no incorrect working scores both marks. (b) M1: Uses θ = 25 and t = 5 with their A in e kt A   =+ so e.g. 25 21 54e k  =+ is all that is required. M1: Proceeds from an equation of the form e k   = where   to ln ... kk   =  = to obtain a value for k. Condone slips but the log work must be correct. Must be using ln and not e.g. log which for reference gives k = 0.226 May be implied by the correct exact value for k following through their A. A1: For awrt 0.521 from correct and sufficient work. Allow the exact value e.g. ln − and apply isw if subsequently rounded incorrectly. May be seen embedded e.g. 0.521 21 54e t  − =+ Minimum for full marks in (b) is: 25 21 54e ln k k − = +  = − 25 21 54e e 0.521 kk k −− = +  =  = scores M1dM0A0 25 21 54e 0.521 k k − = +  = scores M1dM0A0 Note that some candidates are using θ = 50 and t = 5 leading to k = 0.124 and this scores a maximum of M0M1A0 in (b) (c) 0.521 0.521 d 21 54e 28.1...e d tt t   −− = +  = − M1 0.521 0.521 28.1...e e 0.521 ln 28.1... 28.1... TT T −−  − = −  =  − =   ln 0.521 28.1... T   = −   dM1 2.19 = A1 (3) (c) M1: Differentiates to obtain d e d kt t   − = where α ≠ A dM1: Depends on the previous mark. Sets their d d t  = − 9 or sets d their d t   −=   and proceeds to obtain a value for t (or T). You do not need to be concerned about the processing as long as they reach a value. For this mark they must have obtained d e d kt t   − = with 0 and k > 0 Do not condone work where candidates ignore/cross out signs to make their equation solvable. A1: For awrt 2.19 Just look for this value so ignore any units, correct or incorrect, and apply isw onc",
+          "image": "/papers/wma13-may-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d e sin 3 3e cos 3 2 e sin 3 d x x x y y x x x x x − − − =  = − M1A1 3e cos 3 2 e sin 3 3cos 3 2 sin 3 xx x x x x x x −− − =  − = 3cos 32 sin 3tan 3 xxxx x == dM1 arctan x x  =   * A1* (4) (b)(i) 0.4 arctan 2 0.4 xx  =  =    M1 ( ) 0.4367 x = A1 (ii) ( ) 0.4307 x = A1 (3) Notes: (a) M1: Differentiates using the product rule to obtain e cos 3 e sin 3 , , xx x x x     −− + A1: Correct derivative in any form dM1: Depends on the first method mark. Sets their d d y x = (which may be implied), cancels e x − and rearranges to tan 3 ... x = A1*: Correct proof with no errors seen. Allow e.g. tan − or e.g. artan for arctan and allow e.g. arctan x x = Ignore any reference or attempts to solve e0 x − = (b) M1: Attempts to substitute x = 0.4 into the formula. Allow if seen embedded in the formula or may be implied by awrt 0.44 x = A1: Awrt 0.4367 A1: 0.4307 cao not awrt 0.4307 Both values correct as defined with no working scores M1A1A1 (c) e.g. ( ) f arctan xx x  =−   ( ) ( ) f 0.4305 0.4305 arctan 6.38 10 2 0.4305 −  = − =     ( ) ( ) f 0.4295 0.4295 arctan 1.141... 10 2 0.4295 −  = − = −     or e.g. ( ) f 3e cos 3 2 e sin 3 xx x x x x −− =− ( ) ( ) ( ) ( ) ( ) ( ) ( ) 0.4305 0.4305 f 0.4305 3e cos 3 0.4305 2 0.4305 e sin 3 0.4305 4.9 68... 10 −− − = − = −  ( ) ( ) ( ) ( ) ( ) ( ) ( ) 0.4295 0.4295 f 0.4295 3e cos 3 0.4295 2 0.4295 e sin 3 0.4295 8.8 85... 10 −− − = − =  M1 Sign change therefore x is 0.430 to 3dp A1 (2) Total 9 (c) M1: Chooses a suitable function and attempts its value at both 0.4305 and 0.4295 For the attempt we need to see embedded values as in scheme or one value correct to 1sf for their suitable function. The function they are using must be seen or implied by embedded values. Allowable functions are: • arctan x x  −   or multiples of this • 3e cos 3 2 e sin 3 xx x x x −− − or multiples of this following through on their d d y x • 3cos 3 2 sin 3 x x x − or multiples of this following through on their d",
+          "image": "/papers/wma13-may-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() tan 2tan tan 3tan 2 1 tan 2 tan xx xx x xx + +  − or e.g. ( ) ( ) sin 2 sin 3 sin 2 cos cos 2 sin tan 2 tan tan 3 cos 3 cos 2 cos 2 cos sin 2 sin 1 tan 2 tan xx x x x x x x x x x x x x x x x x x + ++     + − − M1 2 tan tan tan 2 tan 1 tan 2 tan 1 tan 2 tan tan 1 tan x x xx x x xx x x + + −  − − − dM1 2 tan tan 2 tan tan tan 1 tan 2 tan 1 tan 2 tan tan 1 tan x x x x x x x xx x x + +− −  −− − − 3 tan tan 1 3 tan xx x − − * A1* (3) Condone use of a different variable e.g.  for x. Condone the use of mixed variables for the M marks as long as the intention is clear. Condone clear use of “tan” written differently e.g. “tg” M1: Writes tan 3x as tan (2x + x) which may be implied and applies the addition formula for tan (A + B) to obtain an expression in terms of tan x and tan 2 x only. Condone one sign slip only. May also reach this point by writing tan 3 x as sin 3 cos 3 x x and then uses the addition formulae for sin (A + B) and cos(A + B) to obtain an expression in terms of tan x and tan 2 x only. Condone one sign slip only. dM1: Replaces 2 tan tan 2 with 1 tan x x x − to express tan 3x in terms of tan x only. A1*: Reaches the right hand side with sufficient working shown. For this mark condone minor notational errors (e.g. a missing x) but not consistent poor notation throughout such as mixed variables or writing tan x as tan x Attempts to use higher multiples of x e.g. ( ) tan 3 tan 4 x x x − should be sent to review. Way 2 ( ) ( ) sin 2 sin 3 sin 2 cos cos 2 sin tan 3 cos 3 cos 2 cos 2 cos sin 2 sin xx x x x x x x x x x x x x x + +    +− () () 2 sin coscossinsin cossincos2 sincos xxxxx xxxxx +−  −− M1 2 sin cos cos sin sin 3sin cos sin cos sin cos 2 sin cos cos 3sin cos x x x x x x x x x x x x x x x x + − −  − − − dM1 3 tan tan 1 3 tan xx x −  − * A1* Condone use of a different variable e.g.  for x. Condone the use of mixed variables for the M marks as long as the intention is clear. M1: Writes tan 3x as sin 3 cos 3 x x and then uses the addition ",
+          "image": "/papers/wma13-may-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 sin 3 , 2 ,... ... x y y y    =  + =  + =  =   M1 y  = or y  = A1 y  = and y  = A1 (3) Condone any confusion about which point is which and just look for the correct values. Look for answers given in the body of the question or on Figure 2 M1: Correct strategy to find y at A or B. Requires an attempt to solve either y   += or y   += May be implied by at least one correct value and may be seen embedded e.g. 0,, 0,        Condone e.g. , 0 , , 0              Allow equivalent work e.g. , y y y       + =  = −  = − + − + May be implied by decimal answers e.g. awrt 0.79 or awrt 1.8 A1: One correct value. Allow simplified or unsimplified and may be seen embedded e.g. 0,, 0,        Condone unsimplified for this mark e.g. y    =−   for  or e.g. y  =− for  A1: Both correct and simplified and may be seen embedded e.g. 0, , 0,              Condone e.g. , 0 , , 0              and condone unsimplified as long as they are single fractions e.g.  Alternative: sin 3 sin 3 cos cos 3 sin tan 3 , y y y y y       + =  + =  = −  =   Score M1 for an attempt to solve either y  = or y  = and then A1A1 as above. (b) d sin 3 3cos 3 2 cos 3 d x x y y y y           = +  =  + = +               B1 d1d11 dd 2 cos 34 cos3 4 1 sin3 yy xx yy y     ===      ++ −+       M1 x =   −      dM1 x = − A1 (4) B1: Correct d d x y or d d y x in any form. Do not condone missing brackets e.g. 2 cos 3 y  + unless recovered or implied by subsequent work. M1: For any 2 of the following applied to their d d x y : • finds reciprocal (may have already happened if they find d d y x ) • squares • applies cos 1 sin yy      + = − +         Note that this mark (and the next one) may be implied by equivalent work e.g. 4 9 sin 3 sin 3 cos 3 xx x y y y    −       = +  + =  + =            ",
+          "image": "/papers/wma13-may-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2025/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 9
+  },
+  "assets": {
+    "basePath": "/papers/wma13-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-may-2025/page-01.png",
+      "/papers/wma13-may-2025/page-02.png",
+      "/papers/wma13-may-2025/page-03.png",
+      "/papers/wma13-may-2025/page-04.png",
+      "/papers/wma13-may-2025/page-05.png",
+      "/papers/wma13-may-2025/page-06.png",
+      "/papers/wma13-may-2025/page-07.png",
+      "/papers/wma13-may-2025/page-08.png",
+      "/papers/wma13-may-2025/page-09.png",
+      "/papers/wma13-may-2025/page-10.png",
+      "/papers/wma13-may-2025/page-11.png",
+      "/papers/wma13-may-2025/page-12.png",
+      "/papers/wma13-may-2025/page-13.png",
+      "/papers/wma13-may-2025/page-14.png",
+      "/papers/wma13-may-2025/page-15.png",
+      "/papers/wma13-may-2025/page-16.png",
+      "/papers/wma13-may-2025/page-17.png",
+      "/papers/wma13-may-2025/page-18.png",
+      "/papers/wma13-may-2025/page-19.png",
+      "/papers/wma13-may-2025/page-20.png",
+      "/papers/wma13-may-2025/page-21.png",
+      "/papers/wma13-may-2025/page-22.png",
+      "/papers/wma13-may-2025/page-23.png",
+      "/papers/wma13-may-2025/page-24.png",
+      "/papers/wma13-may-2025/page-25.png",
+      "/papers/wma13-may-2025/page-26.png",
+      "/papers/wma13-may-2025/page-27.png",
+      "/papers/wma13-may-2025/page-28.png",
+      "/papers/wma13-may-2025/page-29.png",
+      "/papers/wma13-may-2025/page-30.png",
+      "/papers/wma13-may-2025/page-31.png",
+      "/papers/wma13-may-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

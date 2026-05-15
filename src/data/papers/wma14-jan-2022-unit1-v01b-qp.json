@@ -1,0 +1,163 @@
+{
+  "paperId": "wma14-jan-2022-unit1-v01b-qp",
+  "pairedMarkSchemeId": "wma14-jan-2022-unit1-v01b-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "January 2022",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() ( ) ... 1 41...... xx+=+ + M1 ( ) ( ) ( ) 1 4...4... xx − +=++ M1 1... x=++ or ... x = − A1 () 1 41... xxx + =+− + A1 (4) (b) . 3.. 4x  +× =  +   =  or  −       + M1 13 1   −    +    ≈×      dM1 = A1 (3) (7 marks) Notes: (a) M1: For ( ) ... x± . Allow if the 4 and/or the power of x is incorrect/missing for this mark. M1: For the correct structure for the third term. Look for the correct binomial coefficient combined with the correct power of 4x e.g. ( ) ( ) x − but condone missing brackets e.g. ( ) x − A1: For 1... x++ or for ... x − . Allow mixed fractions e.g. for but do not allow ‘+−’ for ‘−’. A1: For 1... xx+− + . Ignore any extra terms. (b) M1: Attempts  +×   and reaches k (this will usually be seen as e.g. ) or substitutes x = into their expansion from part (a). dM1: Attempts 3 ́ (their expansion from part (a) with x = substituted) Allow if they have included more terms in their expansion for both M’s. You need to be convinced that they have attempted this calculation and not just found the cube root of 31 on their calculator e.g. 3.1414... A1: Cao. Correct fraction. Question Scheme Marks",
+          "image": "/papers/wma14-jan-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6 3 2 sin 7c2os 22 xty t t ππ =+= − +   712sin y t = +− M1 sin x ty x − = ⇒= −  −   M1A1 ( ) ()()() () y xxxx x ⇒ === −+ +−− + −− * M1A1* , 15 so tt xx ππ  ⇒=⇒=−=   =   p = 1 and q = 5 B1 (6) (a) Way 2 712sin y t = +− M1 ()() 16 4 sin4 2 sin4 2 sin y t tt == − +− M1A1 ()() () ()() * xx xx == −+ +− − − M1A1* , 15 so ttxx ππ  ⇒=⇒=−=   =   p = 1 and q = 5 B1 (a) Way 3 ()() ()() 714 2 sin4 2 sin y xxtt == −+ − + M1 16 4 sint = − M1A1 1 cos 2 16 4 t = −  −   M1 * 16 2 2 cos 214 2 cos 27 cos 2 y ttt ==== −+++ A1* , 15 so ttxx ππ  ⇒=⇒=−=   =   p = 1 and q = 5 B1 (a) Way 4 cos 271 2 sin7 7 cos 2 y tt tyy =⇒ = −⇒−= − + M1 sin7 1 2 xx t y −−  = ⇒ −=−   M1A1 ()() 67* 67 7 1 xxy yxxx x =− + +⇒== −+ + − + ⇒ M1A1* , 15 so ttxx ππ  ⇒=⇒=−=   =   p = 1 and q = 5 B1 (b) ( 7) (1)71 AB xx x x =+ −+ − + () () .121..,...7AxBxAB⇒+−⇒== += M1 So ( ) ( ) ( ) 2 12 7 y xx =− +− oe A1A1 (3) (9 marks) Notes: (a) M1: Applies cos 21 2 sintt=±± to get y in terms of sin t. This may be implied if they obtain cos 2t in terms of x with no explicit sight of sin t. M1: Rearranges equation for x and substitutes into equation for y. A1: Correct equation in terms of x and y only. M1: Simplifies and factorises denominator (usual rules). May have the left in the denominator, e.g. () () 66 6 6 y xxxxx xx ====  − − − +− − ++ −+ −   A1*: Correct result reached with no errors seen. B1: Correct values for p and q or correct inequality. Can score anywhere in their response but do not allow 15t  (a) Way 2 M1: Applies cos 21 2 sintt=±± to get y in terms of sin t M1: Uses the difference of 2 squares in the denominator A1: Correct equation with the square completed M1: Substitutes for sin t in terms of x A1*: Correct result reached with no errors seen. B1: Correct values for p and q or correct inequality. Can score anywhere in their response. (a) Way 3 M1: Substitutes for x in terms of t into the given expression for y M1: Expands denominator. A1: Correct expression",
+          "image": "/papers/wma14-jan-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Show that the volume, V cm 3 , of the doorknob is given by V = Kxxx x22 0 4 816−+ () ∫ ed where K is a constant to be found. (3) (b) Hence, find the exact value of the volume of the doorknob. Give your answer in the form pπ (e q + r) cm 3 where p, q and r are simplified rational numbers to be found. (5) _________________________________________________________",
+      "text": "4 (a) Show that the volume, V cm 3 , of the doorknob is given by V = Kxxx x22 0 4 816−+ () ∫ ed where K is a constant to be found. (3) (b) Hence, find the exact value of the volume of the doorknob. Give your answer in the form pπ (e q + r) cm 3 where p, q and r are simplified rational numbers to be found. (5) _________________________________________________________",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Show that the volume, V cm 3 , of the doorknob is given by V = Kxxx x22 0 4 816−+ () ∫ ed where K is a constant to be found. (3) (b) Hence, find the exact value of the volume of the doorknob. Give your answer in the form pπ (e q + r) cm 3 where p, q and r are simplified rational numbers to be found. (5) _________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Area of one face sin 6 0xxx= × ×°= oe M1 So surface area of icosahedron is xx= × * A1* (2) (b) d d x A x = and () d d2 x V x =+ M1 . ddd d dd . ddd . d VVV AAx xA xx ×===÷ (oe) M1 ( ) () * 15 3 x x x+ = × + = A1* (3) (c) d 0.025 d A t = B1 ( ) d 0.025 ... dd d dd x A t VV tA + ×=× == When x = 2, () 0.025 ... d d V t + ×== M1 awrt 0.019 (cm s −1 ) A1 (3) (8 marks) Notes: (a) M1: Any correct method to establish a surd form for the area of one face. Must evaluate trigonometric terms. Alternatives include e.g. xxxxx  −   ××= A1*: Correct result achieved after showing side area of one face. Examples: Area of one face sin 603 320xSAxxxx=×===×× °⇒ scores M1 A1 sin 003 256SxAxx  ×   =××  = scores M1 A0 for lack of working (b) M1: Attempts derivatives of both A and V wrt x. E.g. d d x A x α  =   and d dx x V β  =   . Note that () x+ is sometimes expanded first as e.g. xx+ and allow this mark if either term is differentiated to xβ M1: Applies the correct chain rule with their derivatives. (Condone poor notation – see below) A1*: Applies the chain rule to achieve the given result, with suitable intermediate step seen with d ... d V A = appearing somewhere in their solution. Condone poor notation e.g. allow d d x A t = and () , d 2d V t x=+ dd dd d d VV At t A ×= etc. for full marks. Alt: M1: E liminates x from the two equations () A V  =+   M1: Attempts to differentiate () d31 d12 AV A =  ××   +  − look for correct treatment of the as well as correct power. A1: Achieves correct result with no errors. (c) B1: Interprets the rate of change correctly to state or clearly imply by working that d 0.025 d A t = M1: Applies the chain rule appropriately to find a value for d d V t using x = 2 A1: awrt 0.019 condone lack of units. Question Scheme Marks",
+          "image": "/papers/wma14-jan-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() d d t x t t − −  −×− =  −  =   M1 ( ) ( ) ( ) ( ) ( ) \" \" d2 dd d xt x t A xt ytt t tt  =  == =   == − × +− ∫∫ M1 ( ) ( ) ()() ( ) ( ) 2or e. .dd g2 1 16 tt tt tt t    = −+ −− − ∫∫ Depends on both previous M marks. ddM1 d 81 1 t t t = − ∫ A1 (4) (b) d d u t t = − or d32 dutt= − oe or () () () 11d1 64d8 816tu t tutuu u − =⇒ = − ⇒= − ⇒ =− − − B1 () ( ) ( ) d 2d A u tu t u t t − − − == ∫∫ or () () ( ) ( ) d d Auu u u t tt t − ==−−  −   × − ⌠  ⌡ ∫ M1 ( ) ( ) 81d kuuu − =− ∫ A1ft ( ) ( ) uu K   =−    M1 0162 8181...   =−− − =     Depends on all previous M marks. ddM1 = A1 (6) (10 marks) Notes: (a) M1: Attempts d d x t achieving the form () 94kt − − oe M1: Applies the correct formula for the area, d d d t x Ay t = ∫ , with y and their d d x t (no need for limits for this mark and no need for “dt”). ddM1: Combines terms to a single fraction with one square root. (no need for limits for this mark and no need for “dt”). Depends on both previous M marks. A1: Applies difference of squares, or expands, and deals with limits correctly to achieve correct result from correct working. The “dt” must have made at least one appearance before the final line. (b) B1: Correct statement of d d u t or d d t u or any correct equation connecting du with dt M1: Complete substitution made into the integrand given in part (a) with their K or the letter K or a made up K e.g. K = 1 to obtain an integral in terms of u only. Don’t be concerned with the limits at this stage. Condone the omission of the “du”. A1ft: For any multiple of 81d .uuu −    − ∫ L imits are not needed. Condone the omission of the “du”. M1: Integrates an expression of the form klu AuuBu − ++→ ddM1: Applies correct limits to their integral either way round. Correct limits are 0 and 81 if substituting into their integral in terms of u or 0 and if reverting to t. Depends on all previous M marks. A1: Correct answer. Correct work leading to − scores A0 but allow “hence ar",
+          "image": "/papers/wma14-jan-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) ( ) (4)ed x xVxπ    −= ∫ M1 ( ) .f)() de d(4.. x xxxx=−= ∫∫ M1 ( ) ed x Vxxx π =−+ ∫ A1 (3) (b) () e \"\" (816) e 28d xx x xxx π  =   −×  −+ −      ∫ M1 A1 () () eee \"\" d xxx xxxx π  =−−   −+×       −   ∫ ( ) () \"\" eee xxx xxx π  =   −−  −+   +     Depends on the first method mark. dM1 () () \"\"\"\" ee e e xxx Vxxx ππ  =− − + =++ − −−    −+   Depends on both previous method marks. ddM1 () 1e4 π =− ( cm ) A1 (5) (b) Way 2 () e 4( e \"\" 4) d x x xxx π  =   −  −+      ∫ M1 A1 ()() \"\" e eed x xx xxx π  =   +   −+  −   ∫ ()() \"\" e ee x xx xx π  = −+     −+   Depends on the first method mark. dM1 ()() 1 111 \"\"\"\" e eee x xx xx ππ   =     =− +− +  −−− Depends on both previous method marks. ddM1 () 1e4 π =− (cm ) A1 (b) Way 3 () 444 4 eded8ed16e816d xx x x xxxx xxxx−−+=+ ∫ ∫∫∫ ee d... \"\" xx xx x π   ×+  =    −  ∫ M1A1 44 4 ed8ed16ed xxx x x xxx −+ ∫∫∫ e eeee 8dd8e \"\" xxxxx x xxxx x π   =−−     ×−×−+     ∫∫ Depends on the first method mark. dM1 e9 e41e414 xx x e x ee xππ   − + = −+ −     Depends on both previous method marks. ddM1 ( ) e4 π =− (cm ) A1 (8 marks) Notes: (a) M1: Sets up the volume using the volume formula, but allow limits and π and the “dx” to be missing. No need to square f(x) for this mark as long as the intent to do so is clear. There should be an integral M1: Attempts to square f(x) (need not be part of an integral). The power of e should be correct and the bracket expanded, but allow if the is not squared. A1: Correct expression for the integral, π and limits must be included, and no errors seen in working so the “dx” must be present throughout. (b) M1: Attempts integration by parts the correct way at least once on the given integral to obtain () () 816 ee d xx ax b xxxαβ−−+ ± ∫ A1: Correct first application of parts: () ( ee 2816)8d xx xxxx−×−+ − ∫ or equivalent. dM1: Attempts integ",
+          "image": "/papers/wma14-jan-2022/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Attempts       −=      ±    ±−    M1 λ       = +−          r or λ       = +       −    r oe A1 (2) (b) Meet if 03 1 54 9 λμ         −= +        +        so μ λμ λμ = +   −   = ++ =  + M1 From first equation 3μ= Alt: solves equations 2 and 3 to give either μ= or λ= A1 Then need 5 535 λ −× == − from 2 nd equation, 2 9 329 λ +× == from 3 rd equation Alt: checks their μ in the first equation M1 Values of λ do not agree and hence lines do not meet. A1 (4) (c) OC     −=        =−     −    M1 ACOC OA −         = − =−− =−         −−        Accept ±. Depends on first mark. dM1 () 4 110 57 9 16 100 49 1 25 81 AC AC ± ++ − × +− × +− × = ± + + ++ ++ i jk i jk    Depends on both previous marks. ddM1A arccos28.3 165 107 θ − ⇒== ° or e.g. 90arcsin28.3 165 107 θ − ⇒ = °−= ° A1 (5) (11 marks) Notes: (a) M1: Attempts the difference between the given two vectors. Implied by 2 out of three correct coordinates if no method is shown. Can be either way round. A1: Any correct equation for the line in the form given and must have “r = ....”. Two examples are shown in the scheme, but they may use any point on the line as the starting point, and any multiple of the direction vector. Allow in i, j, k form but not e.g. λ       = +−          i rjj kk but condone missing brackets on the position vector so condone e.g. λ   =+−    r but not on the direction so λ   = +−    r is A0 (b) M1: Equates their line and the given line and extracts at least one equation in λ and μ A1: “Correct” value for one parameter. This will depend on which equation(s) they solve – see main scheme but must follow M1. M1: Substitutes into both other equations to compare results. A1: Correct values for λ found with conclusion that the lines do not meet. Alt: If equatio",
+          "image": "/papers/wma14-jan-2022/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() () d 1 2 ln1 2 ln d 2 ln y y yy y K y β α −− + =×+=+ M1 ( ) 1 2 lnyy − + = oe A1 (2) (b) () d 3cosec(2 )1 2 ln d y xy y x = + ...dsin(2 ) d y kxx ⇒= ∫∫ or () d...d 1 2 ln k yx yy = + ∫∫ and ...dsin(2 ) d...cos 2y kxxAx⇒ =⇒= ∫∫ oe or ( ) () . d... l d 1 2 ln .. 1 2n k yx y A yy ⇒ + ⇒ + == ∫∫ M1 ()() dsin(2 ) dc os n 121lln A y BxxDx y C yy ⇒= ⇒= ++ ∫∫ oe M1 One side integrated correctly () ()( )() , 4 1 2 ln 41 2 dd 2 ln1 2 lnln yy yyyyyy = ++ −=− ++ ∫∫ or cos(2 ) oe,cos(2 ) sin(2 ) dsin(2 ) d xxxxxx==−− ∫∫ oe A1 () ( ) cos(2 ) 4 1 2 ln xc y − =−+ + or () ( ) cos(2 ) 4 1 2 ln xc y − =−+ + A1 (4) (c) () cos... 4 1 2 ln123 1, yxcc ππ  ⇒= =−=−+⇒=  +  M1 () cos(2 ) 4 1 2 ln x y − =−− + or () cos(2 ) 4 1 2 ln x y − =−− + A1 () () ( ) cos(2 )cos 2cos 4 1 2 ln4 1 2 ln xxx yy −=−−⇒=+= ++ M1 ( ) 1 2 lnlnsec sec1 yyx x  ⇒+⇒ =−    =    Depends on both previous method marks. ddM1 sec e x y − ⇒= A1 (5) (11 marks) Notes: (a) M1: Differentiates to achieve the form ( ) 1 2 ln K yy + . You can ignore what they call it so just look for the expression. A1: Correct derivative, accept any equivalent form, need not be simplified. You can ignore what they call it so just look for the expression. (b) M1: Attempts to separate the variables with one side correct ignoring coefficients and with at least one side integrated to the correct form. The separation may have cosec 2 k x rather than sin 2 . kx Do not be concerned about the presence or absence of the “dx” and “dy” or even if they are wrongly position – just look for the expressions appearing on either side. M1: Attempt to separate the variables with both sides correct ignoring coefficients and with both sides integrated to the correct form. The separation may have cosec 2 k x rather than sin 2 .kx Do not be concerned about the presence or absence of the “dx” and “dy” or even if they are wrongly position – just look for the expressions appearing on either side. A1: One side integrated correctly. For the LHS this will be",
+          "image": "/papers/wma14-jan-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma14-jan-2022/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wma14-jan-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2022-unit1-2022-01-01-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 1 initial and other temperature boxes completed correctly and results comparable to supervisor’s and Experiment 1 maximum greater than Experiment 2 maximum",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 2 initial and other temperature boxes completed correctly and comparable to supervisor’s and temperatures stop rising",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted best-fit smooth line graphs labels 2 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph shown clearly 1 1 / litmus / suitable named indicator solution N is a stronger acid / has a higher pH 1 1 / temperature changes / results would be smaller OR larger / double volume needed to reach same temperature changes",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "polystyrene is an insulator / copper is a (good) conductor",
+          "image": "/papers/chemistry-0620-2016/q1-1h.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source of error: heat losses / using a measuring cylinder improvement: lag / insulate / use burette; 1 1 Page 3 Mark Scheme Syllabus Paper 0620 52 Mark / liquefies / dissolves / bubbles condensation / drops of liquid cobalt( II ) chloride paper turns colourless / light pink 1 1 1 / colour precipitate dissolves / clears 1 1 1 / no change precipitate 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not a transition element (cation) / contains water not any named metal that gives a positive flame test sulfate 1 1 Page 4 Mark Scheme Syllabus Paper 0620 52 Mark method adding Agri Lime to acid add weighed amount / known mass of Agri Lime Q to a known volume of acid with a named indicator added to the acid until the indicator changes colour note the mass of Agri Lime Q added repeat with Agri Lime R conclusion, e.g. ‘the experiment using the smaller amount of Agri Lime is better’ OR method adding acid to Agri Lime use weighed amount / known mass of Agri Lime Q add acid to it gradually / from a burette with a named indicator added to the acid until the indicator changes colour note volume of acid added repeat with Agri Lime R conclusion, e.g. ‘the experiment using the larger volume of acid is better’",
+          "image": "/papers/chemistry-0620-2016/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

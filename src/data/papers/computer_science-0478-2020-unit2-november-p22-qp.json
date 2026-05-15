@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-0478-2020-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2020",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "IF ComponentFlag = False THEN OUTPUT \"Your RAM Item Code doesn’t exist, please try again\" ENDIF ENDWHILE OUTPUT \"Which type of Primary Hard Disk Drive would you like? Input the Item Code\" ComponentFlag ← False WHILE ComponentFlag = False INPUT PHDDCode Count ← 5 WHILE Count<8 DO IF PHDDCode = ComponentCode[Count] THEN HDDIndex ← Count ComponentFlag ← True Count ← 8 ENDIF Count ← Count + 1 ENDWHILE IF ComponentFlag = False THEN OUTPUT \"Your Primary HDD Item Code doesn’t exist, please try again\" ENDIF ENDWHILE TotalPrice ← 200 + ComponentPrice[CaseIndex] + ComponentPrice[RAMIndex] + ComponentPrice[HDDIndex] OUTPUT \"Your computer consists of \", Description[CaseIndex], \" case, \", Description[RAMIndex], \" RAM and \", Description[HDDIndex], \" Primary Hard Disk Drive.\" OUTPUT \"The total price of your computer is $\", TotalPrice MP1 Explanation of how the number of additional parts is stored MP2 Explanation of counting of additional parts being added to the system MP3 Explanation of determination of additional parts being 1, or more than 1 MP4 Explanation of using the correct percentage discount MP5 Explanation of calculating the money saved and finding the new price MP6 Explanation of correct output of money saved and new price MP1 Prompt and input to ask buyer how many computers they wish to purchase (at the start) // When the first computer is complete, prompt and input to ask if they would like to purchase another computer MP2 Introduce an appropriate loop structure MP3 New storage for more than one computer // Enable the ordering of multiple computers of the same specification October/November Question Answer Marks Section B Statement true () false () A subroutine is called from within a program.  A subroutine is not a complete program.  A subroutine is a self-contained piece of code.  A subroutine must return a value to the code from which it was called.  Two marks for four correct rows One mark for any two correct rows Question Answer Marks 3 One mark for each co",
+          "image": "/papers/computer_science-0478-2020/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Flag Count Num [0] Num [1] Num [2] Num [3] Num [4] Store 45 56 30 12 15 0 0 45 1 45 3 12 0 0 One mark – Flag column One mark – Count column One mark – Num[0] and Num[1] columns One mark – Num[2], Num[3] and Num[4] columns One mark – Store column • The algorithm sorts/orders numbers • ... into descending order / from largest to smallest Question Answer Marks 6 Input/Output Decision One mark for each correct symbol October/November Question Answer Marks PartNum The data stored in this field is unique for each record",
+          "image": "/papers/computer_science-0478-2020/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: PartNum Description Cost Quantity Table: AUDIOPARTS AUDIOPARTS AUDIOPARTS AUDIOPARTS Sort: Descending Show:     Criteria: <10 or: One mark for correct field and table rows One mark for sort row One mark for show row One mark for correct criteria",
+          "image": "/papers/computer_science-0478-2020/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit2-2020-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

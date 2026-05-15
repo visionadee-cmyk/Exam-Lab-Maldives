@@ -1,0 +1,59 @@
+{
+  "paperId": "physics-0625-2020-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I , V and R present with R less than R",
+          "image": "/papers/physics-0625-2020/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I , V and R present with R less than R or R R correct and to 2 or 3 significant figures Justification with suitable numbers quoted",
+          "image": "/papers/physics-0625-2020/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Change potential difference or current A djust power supply or insert a variable resisto r Normal at 90° and in centre of MR AB at 30° below MR and to left of normal at least 5.0 cm from P Neat line joining P and P Line extended at least 7.0 cm beyond MR a and b correctly measured to ± mm a = b to ± mm and P in approximately correct positions 0625/51 May/June 2020 x correctly measured to ± mm x = 5.7 – 6.3 cm one from: Thickness to mirror Thickness of lines Difficulty in judging exact lining up of pins. MP1 Diagram to show container and thermomete r MP2 Hot water in a container. Record initial temperature and take temperature at intervals as it cools MP3 Repeat with at least three other colours Any two from: MP4 Same starting temperature Same room temperature MP5 Use of a lid At least three named colours Same thickness of paint MP6 Table with clear columns for temperature and / or time (to match method), with appropriate units MP7 Conclusion: Greatest temperature drop shows best radiator (o r reverse argument)",
+          "image": "/papers/physics-0625-2020/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit5-2020-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

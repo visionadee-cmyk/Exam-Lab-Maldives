@@ -1,0 +1,51 @@
+{
+  "paperId": "wbi11-jan-2022-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2022-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "January 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer including the following points : • {all 3 / both} inhibit bacterial growth in all (4) bacteria (1) • methanol extract more effective than both chemicals (1) • (in each case) the effect of the methanol extract is more than the sum of the effect of the two chemicals (1) • there may be other anti-microbial chemicals in the methanol extract / the two chemicals work together to produce an effects greater than their sum (synergy) (1) (4) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer including three of the following: Placebos • it is used as a control / more validity (1) • to {eliminate} / account for} a psychological effect (of taking the drug) (1) Double-blind trials • so that {doctor / scientist} does not know if the treatment contains the (new) drug or not (1) • to remove bias from results (1) e.g. comparison with the actual drug Accept to {eliminate} / account for} a psychological effect (of administering the drug) (3) Number Answer Additional Guidance Mark An answer that includes the following steps: • reading of diameter using scale (1) • width calculated (1) Example of calculation: 19 units So actual width is 19 x 3 = 57 (μm) correct answer with no working gains both Accept diameters from 15 to 20 units (2) Number Answer Additional Guidance Mark An answer that includes the following points : • xylem (1) • sclerenchyma (1) Mark first answer on each line (2) Number Answer Additional Guidance Mark • fibre variables taken into account (1) • appropriate environmental variable controlled (1) • appropriate description of how masses are added (1) • adding masses until fibre breaks / measure the mass that {breaks the fibre / that the fibre can hold before breaking} (1) e.g. length, age, mass, hydration level, plant extracted from e.g. temperature, humidity, distance between stands e.g. one at a time, gently (4) Number Answer Additional Guidance Mark following features: A axes correct (x – diameter, y – tensile strength) (1) L axes correctly labelled and with units (1) P correct plotting on a linear scale on y (1) S points joined with straight lines. (1) (4) Tensile Strength / Mpa Diameter / μm Number Answer Additional Mark An answer including three of the following points : • the larger the diameter the less tensile strength / negative correlation (1) • non-linear (1) • steepest decrease {between 21 μm and 25 μm / up to 25 μm} (1) • less steep from {25–81 μm / 81-84 μm } (1) Accept reverse (3) Number Answer Additional Guidance Mark • al",
+          "image": "/papers/wbi11-jan-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2022/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2022-unit3-2022-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

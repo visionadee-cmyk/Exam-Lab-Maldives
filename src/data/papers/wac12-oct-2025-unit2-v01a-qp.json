@@ -1,0 +1,93 @@
+{
+  "paperId": "wac12-oct-2025-unit2-v01a-qp",
+  "pairedMarkSchemeId": "wac12-oct-2025-unit2-v01a-ms",
+  "subjectId": "accounting_ial_pearson",
+  "code": "WAC12/01A",
+  "session": "October 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Calculate the net present value of the theatre contract for Two Masks plc. (18) (b) Calculate the internal rate of return of the theatre contract for Two Masks plc. (6) (c) Evaluate whether Two Masks plc should undertake the contract to run the theatre. (6) (Total for Question 6 = 30 marks) TOTAL FOR SECTION B = 90 MARKS TOTAL FOR PAPER = 200 MARKS   11 P87402A BLANK PAGE 12 P8",
+      "text": "6 (a) Calculate the net present value of the theatre contract for Two Masks plc. (18) (b) Calculate the internal rate of return of the theatre contract for Two Masks plc. (6) (c) Evaluate whether Two Masks plc should undertake the contract to run the theatre. (6) (Total for Question 6 = 30 marks) TOTAL FOR SECTION B = 90 MARKS TOTAL FOR PAPER = 200 MARKS   11 P87402A BLANK PAGE 12 P8",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "6 (a) Calculate the net present value of the theatre contract for Two Masks plc. (18) (b) Calculate the internal rate of return of the theatre contract for Two Masks plc. (6) (c) Evaluate whether Two Masks plc should undertake the contract to run the theatre. (6) (Total for Question 6 = 30 marks) TOTAL FOR SECTION B = 90 MARKS TOTAL FOR PAPER = 200 MARKS   11 P87402A BLANK PAGE 12 P8",
+          "marks": 1,
+          "type": "structured",
+          "answer": "AO1 (5), AO2 (12), AO3 (1) AO1: Five marks for totals of customers, revenue, costs, annual net cash flow and discounted cash flow. AO2: Twelve marks for customers for seating areas, revenue sources, itemised costs, depreciation, overheads and discounted cash flows. AO3: One mark for deducting monthly depreciation. Workings Occupancy Ticket Customers Seats Rate Occupancy Price Total Stalls 300 80% 240 £15 £3 600 both Balcony 100 55% 55 £20 £1 100 (1) AO2 Upper Circle 150 30% 45 £12 £540 (1) AO2 Total £5 240 (1of) AO1 Revenues per year Rate Price Performances Tickets £5 240 72 £377 280 (1of) AO2 Programmes 340 30% £2 72 £14 688 (1of) AO2 Refreshments 340 75% £4 72 £73 440 (1of) AO2 Total Revenue £465 408 (1of) AO1 Costs per year Months Performances Staff Production £1 750 £126 000 (1) AO2 Wages £16 000 £192 000 (1) AO2 Overheads £3 600 12 £43 200 (1) AO2 Total Costs £361 200 (1of) AO1 Workings per year Annual Monthly Restoration Years Depreciation Depreciation £240 000 5 £48 000 £4000 (1) AO2 Monthly overheads Total Less Deprctn £7 600 -£4 000 (1of)AO3 £3 600 (1of) AO2 NPV Discount Discounted Cash Flows Inflows Outflows Net Cash Flow Factor 8% Cash Flow Year 0 -240000 1 -£240 000 Year 1 £465 408 £361 200 £104 208 (1of)AO1 0.926 £96 497 All 3 Year 2 £465 408 £361 200 £104 208 0.857 £89 306 (1of) AO2 Year 3 £465 408 £361 200 £104 208 0.794 £82 741 Year 4 £465 408 £361 200 £104 208 0.735 £76 593 All 3 Year 5 £465 408 £361 200 £104 208 0.681 £70 966 (1of) AO2 £281 040 £176103 (1of) AO1 18 marks Number Answer Mark 6 (b) AO3 (6) AO3: Six marks for calculating the internal rate of return. (6) Internal rate of Return = Lower rate + (% difference between rates) x (NPV using lower % rate) (Difference between NPVs) = 8% (1) AO3+ ((12 – 8)(1) AO3 x _ 176 103) (1of) AO3 (176 103 (1of) AO3 - 135 670)(1of) AO3 = 8% + (4 x 4.355) = 25.42% (1of)AO3 Number Indicative Content Mark 6 (c) AO4 (6) Answers may include: Case For Investment The internal rate of return is 25.42% (o/f), which i",
+          "image": "/papers/wac12-oct-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wac12-oct-2025/page-30.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wac12-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Accounting-WAC11/Accounting-WAC11-2025-unit2-2025-10-qp.pdf",
+    "pageImages": [
+      "/papers/wac12-oct-2025/page-01.png",
+      "/papers/wac12-oct-2025/page-02.png",
+      "/papers/wac12-oct-2025/page-03.png",
+      "/papers/wac12-oct-2025/page-04.png",
+      "/papers/wac12-oct-2025/page-05.png",
+      "/papers/wac12-oct-2025/page-06.png",
+      "/papers/wac12-oct-2025/page-07.png",
+      "/papers/wac12-oct-2025/page-08.png",
+      "/papers/wac12-oct-2025/page-09.png",
+      "/papers/wac12-oct-2025/page-10.png",
+      "/papers/wac12-oct-2025/page-11.png",
+      "/papers/wac12-oct-2025/page-12.png",
+      "/papers/wac12-oct-2025/page-13.png",
+      "/papers/wac12-oct-2025/page-14.png",
+      "/papers/wac12-oct-2025/page-15.png",
+      "/papers/wac12-oct-2025/page-16.png",
+      "/papers/wac12-oct-2025/page-17.png",
+      "/papers/wac12-oct-2025/page-18.png",
+      "/papers/wac12-oct-2025/page-19.png",
+      "/papers/wac12-oct-2025/page-20.png",
+      "/papers/wac12-oct-2025/page-21.png",
+      "/papers/wac12-oct-2025/page-22.png",
+      "/papers/wac12-oct-2025/page-23.png",
+      "/papers/wac12-oct-2025/page-24.png",
+      "/papers/wac12-oct-2025/page-25.png",
+      "/papers/wac12-oct-2025/page-26.png",
+      "/papers/wac12-oct-2025/page-27.png",
+      "/papers/wac12-oct-2025/page-28.png",
+      "/papers/wac12-oct-2025/page-29.png",
+      "/papers/wac12-oct-2025/page-30.png",
+      "/papers/wac12-oct-2025/page-31.png",
+      "/papers/wac12-oct-2025/page-32.png",
+      "/papers/wac12-oct-2025/page-33.png",
+      "/papers/wac12-oct-2025/page-34.png",
+      "/papers/wac12-oct-2025/page-35.png",
+      "/papers/wac12-oct-2025/page-36.png",
+      "/papers/wac12-oct-2025/page-37.png",
+      "/papers/wac12-oct-2025/page-38.png",
+      "/papers/wac12-oct-2025/page-39.png",
+      "/papers/wac12-oct-2025/page-40.png",
+      "/papers/wac12-oct-2025/page-41.png",
+      "/papers/wac12-oct-2025/page-42.png",
+      "/papers/wac12-oct-2025/page-43.png",
+      "/papers/wac12-oct-2025/page-44.png",
+      "/papers/wac12-oct-2025/page-45.png",
+      "/papers/wac12-oct-2025/page-46.png",
+      "/papers/wac12-oct-2025/page-47.png",
+      "/papers/wac12-oct-2025/page-48.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

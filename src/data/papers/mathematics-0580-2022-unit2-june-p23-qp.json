@@ -1,0 +1,91 @@
+{
+  "paperId": "mathematics-0580-2022-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2022-unit2-june-p23-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/23",
+  "session": "May/June 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0 (3 4) 7 8 1 1 1 2 2 7 8 2 1 3 2 B1 for two rows correct or for fully correct unordered stem-and-leaf diagram or for a correct diagram with one error or omission 5 0, 3, 8 2 B1 for 2 correct terms in correct position or SC1 for −1, 0, 3",
+          "image": "/papers/mathematics-0580-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2022/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y –2 or y final answer positive gradient  or 18 18  oe M1 cao A1 9 18 2 M1 for 300 60  oe or B1 for figs 18 in their answer 10 40 1 11 DE 1 May/June 2022 Question Answer Marks Partial Marks 12 0.14 oe nfww 4 M3 for 50 2 with at least 2 out of 3 values correct and for the one incorrect value: f must be 1, 2 or 7 m must be a multiple of 50 p must be prime OR B1 for f = 14 B1 for m = 50 B1 for p = 2 If 0 scored SC1 for a correct multiple for m, factor for f or prime for p 3p(6x – 9) or 9p(2x – 3) seen and spoilt or t(m + n) – [1](m + n) or correct answer seen and spoil t 14 3n + 5 oe final answer 2 M1 for correctly finding second differences or an answer that is a quadratic sequence x ⩾ 2 final answer 2 M1 for 12x – 4x ≥ 13 + 3 oe 16 D B C B1 or 0.333... B1 150 B2 or M1 for 30 10  17 ADC and ADB and 90 AD RHS 3 B1 for each correct line May/June 2022 Question Answer Marks Partial Marks 18 252 3 M2 for 180 ÷ (7 – 2) oe OR M1 for 180 – x + y = 360 oe M1 for correct use of ratio = 675 or better",
+          "image": "/papers/mathematics-0580-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2022/q6.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 72 x final answer",
+          "image": "/papers/mathematics-0580-2022/q19-19b.png"
+        },
+        {
+          "id": "19c",
+          "text": "Part 19c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 or 0.5 B3 for answer OR B2 for 5 2 x or M1 for correct first step for h –1 (x) e.g. x = y 572yx y +  x M1FT for  25 2    x x oe with common denominato r 20 90.2 or 90.18... 4 B3 for 9.82[%] OR M3 for            k kk oe or M2 for        k k oe or      k k or 100× (k – mπk ) ÷ k or M1 for      ck oe or for (k – mπk ) ÷ k or for 100× (k – mk ) ÷ k May/June 2022 Question Answer Marks Partial Marks 21 13.75 14.85 3 B2 for one correct answer or both correct answers seen in working then rounded to 3sf or both correct but reversed or M1 for 2 correct seen from 23 + 0.5, 23 – 0.5, 8.7 + 0.05 or 8.7 – 0.05 or better 5 x x final answer nfww 3 B1 for x(5 – x) B1 for (5 – x)(5 + x) or 23 221.8 or 221.81... and 318.2 or 318.18 to 318.19 3 B2 for one correct or M1 for sin x = – oe If 0 scored, SC1 for two reflex angles with a sum of 540 or two non-reflex angles with a sum of 180 24 2.8 3 M1 for    k y x M1 for  4–1  their k y OR M2 for y(4 – 1) = 9.45(3 – 1) 25 81 3 M2 for 27m or better or M1 for  m m or better or  m = 27 If 0 scored SC1 for answer",
+          "image": "/papers/mathematics-0580-2022/q19-19c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2022/q19.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2022-unit2-2022-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

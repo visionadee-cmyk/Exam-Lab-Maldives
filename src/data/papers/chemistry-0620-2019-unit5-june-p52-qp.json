@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-june-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all 4 time boxes completed M2 in seconds M3 Time increasing down table",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: • fizz / bubbles / effervescence • tube feels hot • magnesium disappears/gets smaller • (lighted splint) ‘pops’",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 appropriate – axis scale M2 all points plotted correctly M3 best fit smooth line graph",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 extrapolation of graph line shown M2 value from graph given M3 s (length) is a control variable / results would be lower / smaller / less (because less magnesium is used) 0620/52 May/June 2019 M1 gas syringe / measuring cylinder over water (must relate to measurements) measurements: M2 volume of gas M3 time / redox / displacement / H 0620/52 May/June 2019 tests on solid L / mauve / pink",
+          "image": "/papers/chemistry-0620-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (solid turns into) liquid M2 condensation / drops (on side of tube) / steam M3 (blue) cobalt( II ) chloride paper turns pink",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any pH in the range 0 to 4 inclusive • (red) litmus • turns blue • Pungent smell",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "no reaction / change / precipitate",
+          "image": "/papers/chemistry-0620-2019/q2-2f.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iron( III ) / Fe 3+ ammonium / NH + sulfate / SO 2– FeNH (SO ) scores all 3 0620/52 May/June 2019 Any six points from: M1 crush / powder azurite / ore / lumps M2 using a suitable method e.g. pestle and / or mortar, hammer M3 heat add (dilute) acid M4 in crucible / test-tube / boiling tube / etc. suitable strong acid named M5 with carbon / coke / iron / zinc / aluminium / magnesium / CO / hydrogen electrolysis (of solution) add iron / zinc / magnesium / aluminium M6 reduction / redox / displacem ent at negative electrode / cathode displacement / redox M7 brown / pink (solid forms)",
+          "image": "/papers/chemistry-0620-2019/q2-2i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

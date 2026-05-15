@@ -13,7 +13,7 @@
       "type": "structured",
       "totalMarks": 5,
       "question": "The diagram shows a prokaryotic cell, drawn by a student.",
-      "image": "/papers/wbi12-jan2020/q1_prokaryotic_cell.png",
+      "image": "/papers/wbi12-jan-2020/page-03.png",
       "parts": [
         {
           "id": "1a_i",
@@ -21,13 +21,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "W" },
-            { "id": "B", "text": "X" },
-            { "id": "C", "text": "Y" },
-            { "id": "D", "text": "Z" }
+            {
+              "id": "A",
+              "text": "W"
+            },
+            {
+              "id": "B",
+              "text": "X"
+            },
+            {
+              "id": "C",
+              "text": "Y"
+            },
+            {
+              "id": "D",
+              "text": "Z"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "X"]
+          "keywords": [
+            "B",
+            "X"
+          ],
+          "image": "/papers/wbi12-jan-2020/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -35,13 +51,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "V" },
-            { "id": "B", "text": "X" },
-            { "id": "C", "text": "Y" },
-            { "id": "D", "text": "Z" }
+            {
+              "id": "A",
+              "text": "V"
+            },
+            {
+              "id": "B",
+              "text": "X"
+            },
+            {
+              "id": "C",
+              "text": "Y"
+            },
+            {
+              "id": "D",
+              "text": "Z"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "Z", "pilus"]
+          "keywords": [
+            "D",
+            "Z",
+            "pilus"
+          ],
+          "image": "/papers/wbi12-jan-2020/q1-1a_ii.png"
         },
         {
           "id": "1a_iii",
@@ -49,7 +82,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "They are smaller / 70S (eukaryotic are 80S)",
-          "keywords": ["smaller", "70S", "80S", "Svedberg"]
+          "keywords": [
+            "smaller",
+            "70S",
+            "80S",
+            "Svedberg"
+          ],
+          "image": "/papers/wbi12-jan-2020/q1-1a_iii.png"
         },
         {
           "id": "1b",
@@ -57,7 +96,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Capsule: protection / prevents desiccation / adhesion / immune evasion; Flagellum: movement / locomotion",
-          "keywords": ["protection", "movement", "adhesion", "locomotion", "desiccation"]
+          "keywords": [
+            "protection",
+            "movement",
+            "adhesion",
+            "locomotion",
+            "desiccation"
+          ],
+          "image": "/papers/wbi12-jan-2020/q1-1b.png"
         }
       ]
     },
@@ -67,7 +113,7 @@
       "type": "structured",
       "totalMarks": 5,
       "question": "The diagram shows three structures that form after the fertilisation of an egg cell.",
-      "image": "/papers/wbi12-jan2020/q2_fertilisation_diagram.png",
+      "image": "/papers/wbi12-jan-2020/page-05.png",
       "parts": [
         {
           "id": "2a",
@@ -75,7 +121,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "They are produced by mitosis; no crossing over / genetic recombination; no independent assortment; each cell receives identical genetic material to the zygote",
-          "keywords": ["mitosis", "identical", "no crossing over", "recombination", "zygote"]
+          "keywords": [
+            "mitosis",
+            "identical",
+            "no crossing over",
+            "recombination",
+            "zygote"
+          ],
+          "image": "/papers/wbi12-jan-2020/q2-2a.png"
         },
         {
           "id": "2b_i",
@@ -83,7 +136,10 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Blastocyst",
-          "keywords": ["blastocyst"]
+          "keywords": [
+            "blastocyst"
+          ],
+          "image": "/papers/wbi12-jan-2020/q2-2b_i.png"
         },
         {
           "id": "2b_ii",
@@ -91,7 +147,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Pluripotent stem cells can differentiate into heart muscle cells / cardiomyocytes; they can replace damaged tissue / repair heart muscle; can restore function / contractility",
-          "keywords": ["differentiate", "heart muscle", "cardiomyocytes", "replace", "repair", "tissue"]
+          "keywords": [
+            "differentiate",
+            "heart muscle",
+            "cardiomyocytes",
+            "replace",
+            "repair",
+            "tissue"
+          ],
+          "image": "/papers/wbi12-jan-2020/q2-2b_ii.png"
         }
       ]
     },
@@ -107,24 +171,45 @@
           "text": "The photograph shows some Chinese white kidney beans. The mass of individual Chinese white kidney beans varies. This is partly due to polygenic inheritance. State what is meant by the term polygenic inheritance.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q3_kidney_beans.png",
+          "image": "/papers/wbi12-jan-2020/q3-3a_i.png",
           "answer": "A characteristic controlled by two or more genes; each gene contributes to the phenotype; results in continuous variation",
-          "keywords": ["two or more genes", "continuous variation", "phenotype", "contribute"]
+          "keywords": [
+            "two or more genes",
+            "continuous variation",
+            "phenotype",
+            "contribute"
+          ]
         },
         {
           "id": "3a_ii",
           "text": "Which of the following graphs represents the distribution of mass of these beans?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi12-jan2020/q3_distribution_graphs.png",
+          "image": "/papers/wbi12-jan-2020/q3-3a_ii.png",
           "options": [
-            { "id": "A", "text": "Graph A" },
-            { "id": "B", "text": "Graph B" },
-            { "id": "C", "text": "Graph C" },
-            { "id": "D", "text": "Graph D" }
+            {
+              "id": "A",
+              "text": "Graph A"
+            },
+            {
+              "id": "B",
+              "text": "Graph B"
+            },
+            {
+              "id": "C",
+              "text": "Graph C"
+            },
+            {
+              "id": "D",
+              "text": "Graph D"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "normal distribution", "bell curve"]
+          "keywords": [
+            "B",
+            "normal distribution",
+            "bell curve"
+          ]
         },
         {
           "id": "3b_i",
@@ -132,7 +217,11 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "1.61 m / 161 cm",
-          "keywords": ["1.61", "161"]
+          "keywords": [
+            "1.61",
+            "161"
+          ],
+          "image": "/papers/wbi12-jan-2020/q3-3b_i.png"
         },
         {
           "id": "3b_ii",
@@ -140,9 +229,18 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Environmental factors affect height (nutrition, diet, exercise, health); the prediction is only an estimate / not exact; genetic variation / recombination; mutation; other genes may be involved",
-          "keywords": ["environment", "nutrition", "exercise", "estimate", "genetic variation", "mutation"]
+          "keywords": [
+            "environment",
+            "nutrition",
+            "exercise",
+            "estimate",
+            "genetic variation",
+            "mutation"
+          ],
+          "image": "/papers/wbi12-jan-2020/q3-3b_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-jan-2020/page-08.png"
     },
     {
       "id": "q4",
@@ -150,7 +248,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "Tendrils are produced by climbing plants, such as pea plants. The photograph shows the tendrils on a growing pea shoot. A tendril is a modified leaf that can coil around anything it touches. Cells in the tip of the tendril divide by mitosis.",
-      "image": "/papers/wbi12-jan2020/q4_tendril_photo.png",
+      "image": "/papers/wbi12-jan-2020/page-12.png",
       "parts": [
         {
           "id": "4a_i",
@@ -158,31 +256,60 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "To make chromosomes visible / to identify stages of mitosis / chromosomes are normally colourless",
-          "keywords": ["chromosomes", "visible", "stages", "mitosis", "colourless"]
+          "keywords": [
+            "chromosomes",
+            "visible",
+            "stages",
+            "mitosis",
+            "colourless"
+          ],
+          "image": "/papers/wbi12-jan-2020/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
           "text": "The photograph shows these cells, as seen using a light microscope. Which labelled cell is in the metaphase stage of mitosis?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi12-jan2020/q4_mitosis_photo.png",
+          "image": "/papers/wbi12-jan-2020/q4-4a_ii.png",
           "options": [
-            { "id": "A", "text": "P" },
-            { "id": "B", "text": "Q" },
-            { "id": "C", "text": "R" },
-            { "id": "D", "text": "S" }
+            {
+              "id": "A",
+              "text": "P"
+            },
+            {
+              "id": "B",
+              "text": "Q"
+            },
+            {
+              "id": "C",
+              "text": "R"
+            },
+            {
+              "id": "D",
+              "text": "S"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "S", "metaphase"]
+          "keywords": [
+            "D",
+            "S",
+            "metaphase"
+          ]
         },
         {
           "id": "4a_iii",
           "text": "The table shows the results of this investigation. Calculate the mitotic index.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q4_mitotic_index_table.png",
+          "image": "/papers/wbi12-jan-2020/q4-4a_iii.png",
           "answer": "Mitotic cells = 15 + 3 + 10 + 5 = 33; Total cells = 117 + 15 + 3 + 10 + 5 = 150; Mitotic index = 33/150 = 0.22",
-          "keywords": ["33", "150", "0.22", "33/150", "mitotic index"]
+          "keywords": [
+            "33",
+            "150",
+            "0.22",
+            "33/150",
+            "mitotic index"
+          ]
         },
         {
           "id": "4b",
@@ -190,7 +317,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Allows plant to climb / gain height; access more light for photosynthesis; provides support and reduces risk of damage / collapse; helps compete with other plants",
-          "keywords": ["climb", "height", "light", "photosynthesis", "support", "compete"]
+          "keywords": [
+            "climb",
+            "height",
+            "light",
+            "photosynthesis",
+            "support",
+            "compete"
+          ],
+          "image": "/papers/wbi12-jan-2020/q4-4b.png"
         },
         {
           "id": "4c",
@@ -198,7 +333,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Independent assortment of homologous chromosomes in meiosis I produces different combinations; separation of sister chromatids in meiosis II produces genetically different gametes; fertilisation is random so different gametes combine to give variation",
-          "keywords": ["independent assortment", "homologous", "meiosis I", "meiosis II", "random fertilisation", "variation"]
+          "keywords": [
+            "independent assortment",
+            "homologous",
+            "meiosis I",
+            "meiosis II",
+            "random fertilisation",
+            "variation"
+          ],
+          "image": "/papers/wbi12-jan-2020/q4-4c.png"
         }
       ]
     },
@@ -208,7 +351,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "The photograph shows a Madagascan pygmy kingfisher (Ceyx madagascariensis).",
-      "image": "/papers/wbi12-jan2020/q5_kingfisher_photo.png",
+      "image": "/papers/wbi12-jan-2020/page-15.png",
       "parts": [
         {
           "id": "5a_i",
@@ -216,7 +359,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "It is found only in Madagascar / restricted to that region",
-          "keywords": ["only", "Madagascar", "restricted", "region"]
+          "keywords": [
+            "only",
+            "Madagascar",
+            "restricted",
+            "region"
+          ],
+          "image": "/papers/wbi12-jan-2020/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -224,16 +373,25 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Eukaryota",
-          "keywords": ["Eukaryota", "eukaryote"]
+          "keywords": [
+            "Eukaryota",
+            "eukaryote"
+          ],
+          "image": "/papers/wbi12-jan-2020/q5-5a_ii.png"
         },
         {
           "id": "5b_i",
           "text": "A scientist recently collected new data about the classification of kingfishers, using molecular evidence. The data were used to propose the reclassification of some kingfishers, including Ceyx madagascariensis. The diagrams show an old classification and the proposed reclassification of five species of kingfishers. Using the proposed reclassification, explain which species of kingfisher are most closely related to Ceyx madagascariensis.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q5b_classification_trees.png",
+          "image": "/papers/wbi12-jan-2020/q5-5b_i.png",
           "answer": "Alcedo leucogaster and Alcedo cristata; they share the most recent common ancestor with Ceyx madagascariensis on the proposed tree",
-          "keywords": ["Alcedo leucogaster", "Alcedo cristata", "common ancestor", "most closely related"]
+          "keywords": [
+            "Alcedo leucogaster",
+            "Alcedo cristata",
+            "common ancestor",
+            "most closely related"
+          ]
         },
         {
           "id": "5b_ii",
@@ -241,7 +399,17 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Molecular evidence (e.g. DNA/base sequence or amino acid sequence comparisons) can be used to determine relatedness; more similar sequences indicate a more recent common ancestor. This can show that species that look similar may not be most closely related, and that Ceyx madagascariensis may be closer to Alcedo species than to other Ceyx species. Scientists would publish methods and results; other scientists would review (peer review) and replicate/verify analyses; conclusions accepted only after scrutiny of data, reliability, sample size, and agreement with other evidence.",
-          "keywords": ["DNA", "sequence", "similar", "common ancestor", "molecular", "peer review", "replicate", "reclassification"]
+          "keywords": [
+            "DNA",
+            "sequence",
+            "similar",
+            "common ancestor",
+            "molecular",
+            "peer review",
+            "replicate",
+            "reclassification"
+          ],
+          "image": "/papers/wbi12-jan-2020/q5-5b_ii.png"
         }
       ]
     },
@@ -251,16 +419,20 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "The photograph shows kenaf plants growing on a farm in Nigeria. Kenaf is grown mainly in parts of Africa and southern Asia. Fibres from the stems of these plants are used to make paper. Fibres are obtained from the xylem and the phloem.",
-      "image": "/papers/wbi12-jan2020/q6_kenaf_photo.png",
+      "image": "/papers/wbi12-jan-2020/page-21.png",
       "parts": [
         {
           "id": "6a_i",
           "text": "The diagram shows a transverse section through the stem of a plant. Label the diagram to show the position of the xylem and the phloem.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q6a_transverse_section.png",
+          "image": "/papers/wbi12-jan-2020/q6-6a_i.png",
           "answer": "Xylem on the inner side of each vascular bundle; phloem on the outer side",
-          "keywords": ["xylem inner", "phloem outer", "vascular bundle"]
+          "keywords": [
+            "xylem inner",
+            "phloem outer",
+            "vascular bundle"
+          ]
         },
         {
           "id": "6a_ii",
@@ -268,22 +440,45 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "1" },
-            { "id": "B", "text": "2" },
-            { "id": "C", "text": "3" },
-            { "id": "D", "text": "4" }
+            {
+              "id": "A",
+              "text": "1"
+            },
+            {
+              "id": "B",
+              "text": "2"
+            },
+            {
+              "id": "C",
+              "text": "3"
+            },
+            {
+              "id": "D",
+              "text": "4"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "1"]
+          "keywords": [
+            "A",
+            "1"
+          ],
+          "image": "/papers/wbi12-jan-2020/q6-6a_ii.png"
         },
         {
           "id": "6b_i",
           "text": "In an investigation, three rows of kenaf plants were grown in separate containers in a glasshouse. The temperature, light intensity, soil quality and soil quantity were controlled. The diagram shows how each row was treated. The table shows the means and standard deviations of the measurements of the fibres extracted from the plants at the end of this investigation. Calculate the percentage decrease in the mean diameter of the fibres from plants in row 2 compared with those from plants in row 1.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q6b_water_stress_table.png",
+          "image": "/papers/wbi12-jan-2020/q6-6b_i.png",
           "answer": "Decrease = 26.95 − 21.62 = 5.33; Percentage decrease = (5.33 / 26.95) × 100 = 19.8% (≈ 20%)",
-          "keywords": ["5.33", "19.8", "20", "percentage", "26.95", "21.62"]
+          "keywords": [
+            "5.33",
+            "19.8",
+            "20",
+            "percentage",
+            "26.95",
+            "21.62"
+          ]
         },
         {
           "id": "6b_ii",
@@ -291,22 +486,49 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Water stress reduced fibre size. Row 2 (water reduced after 1 month) had the smallest mean length (0.64 mm), diameter (21.62 μm) and wall thickness (2.85 μm) compared with row 1 (0.91 mm, 26.95 μm, 3.44 μm). Row 3 values were intermediate (0.81 mm, 26.48 μm, 3.23 μm), suggesting stress later has less effect. Differences are larger than the standard deviations, supporting a real effect.",
-          "keywords": ["row 2", "row 1", "row 3", "diameter", "wall thickness", "length", "standard deviation", "water stress"]
+          "keywords": [
+            "row 2",
+            "row 1",
+            "row 3",
+            "diameter",
+            "wall thickness",
+            "length",
+            "standard deviation",
+            "water stress"
+          ],
+          "image": "/papers/wbi12-jan-2020/q6-6b_ii.png"
         },
         {
           "id": "6c",
           "text": "The walls of xylem vessels contain cellulose. Which of the following shows the structure of part of a cellulose molecule?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi12-jan2020/q6c_cellulose_structures.png",
+          "image": "/papers/wbi12-jan-2020/q6-6c.png",
           "options": [
-            { "id": "A", "text": "A" },
-            { "id": "B", "text": "B" },
-            { "id": "C", "text": "C" },
-            { "id": "D", "text": "D" }
+            {
+              "id": "A",
+              "text": "A"
+            },
+            {
+              "id": "B",
+              "text": "B"
+            },
+            {
+              "id": "C",
+              "text": "C"
+            },
+            {
+              "id": "D",
+              "text": "D"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "beta-1,4", "cellulose", "straight chain"]
+          "keywords": [
+            "B",
+            "beta-1,4",
+            "cellulose",
+            "straight chain"
+          ]
         }
       ]
     },
@@ -316,7 +538,7 @@
       "type": "structured",
       "totalMarks": 15,
       "question": "The photograph shows an electron micrograph of a cell. This cell is a beta cell from a human pancreas. Beta cells produce and secrete insulin.",
-      "image": "/papers/wbi12-jan2020/q7_beta_cell_em.png",
+      "image": "/papers/wbi12-jan-2020/page-25.png",
       "parts": [
         {
           "id": "7a",
@@ -324,13 +546,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "P" },
-            { "id": "B", "text": "Q" },
-            { "id": "C", "text": "R" },
-            { "id": "D", "text": "S" }
+            {
+              "id": "A",
+              "text": "P"
+            },
+            {
+              "id": "B",
+              "text": "Q"
+            },
+            {
+              "id": "C",
+              "text": "R"
+            },
+            {
+              "id": "D",
+              "text": "S"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "Q", "nucleolus"]
+          "keywords": [
+            "B",
+            "Q",
+            "nucleolus"
+          ],
+          "image": "/papers/wbi12-jan-2020/q7-7a.png"
         },
         {
           "id": "7b",
@@ -338,7 +577,17 @@
           "marks": 5,
           "type": "short_answer",
           "answer": "Insulin is synthesised on ribosomes attached to RER and enters the RER lumen; it is transported in vesicles to the Golgi apparatus; in the Golgi, it is modified and packaged into secretory vesicles; vesicles move to the cell surface membrane (by motor proteins on microtubules); vesicle fuses with membrane (exocytosis) and insulin is released outside the cell",
-          "keywords": ["ribosomes", "RER", "vesicles", "Golgi", "secretory vesicles", "exocytosis", "fuses", "released"]
+          "keywords": [
+            "ribosomes",
+            "RER",
+            "vesicles",
+            "Golgi",
+            "secretory vesicles",
+            "exocytosis",
+            "fuses",
+            "released"
+          ],
+          "image": "/papers/wbi12-jan-2020/q7-7b.png"
         },
         {
           "id": "7c",
@@ -346,7 +595,16 @@
           "marks": 5,
           "type": "short_answer",
           "answer": "Beta cells contain the gene for insulin and have the necessary regulatory factors to express it; they have RER and Golgi to synthesise and process proteins; red blood cells are enucleated (no nucleus) so lack the insulin gene and any genes for protein synthesis machinery; red blood cells are specialised for oxygen transport and have lost most organelles",
-          "keywords": ["gene", "express", "RER", "Golgi", "enucleated", "no nucleus", "oxygen transport"]
+          "keywords": [
+            "gene",
+            "express",
+            "RER",
+            "Golgi",
+            "enucleated",
+            "no nucleus",
+            "oxygen transport"
+          ],
+          "image": "/papers/wbi12-jan-2020/q7-7c.png"
         },
         {
           "id": "7d",
@@ -354,7 +612,15 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Mitochondria carry out aerobic respiration to produce ATP; ATP is required for active transport (e.g. moving ions across membranes); ATP is needed for vesicle formation, movement (motor proteins) and fusion during exocytosis; ATP powers protein synthesis on ribosomes",
-          "keywords": ["ATP", "aerobic respiration", "active transport", "vesicle", "exocytosis", "protein synthesis"]
+          "keywords": [
+            "ATP",
+            "aerobic respiration",
+            "active transport",
+            "vesicle",
+            "exocytosis",
+            "protein synthesis"
+          ],
+          "image": "/papers/wbi12-jan-2020/q7-7d.png"
         }
       ]
     },
@@ -364,7 +630,7 @@
       "type": "structured",
       "totalMarks": 14,
       "question": "The photograph shows a river and mangrove trees in Bhitarkanika National Park in India.",
-      "image": "/papers/wbi12-jan2020/q8_mangrove_river_photo.png",
+      "image": "/papers/wbi12-jan-2020/page-29.png",
       "parts": [
         {
           "id": "8a_i",
@@ -372,13 +638,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "the number of animal species" },
-            { "id": "B", "text": "the number of plant species" },
-            { "id": "C", "text": "the number of organisms in each of the species" },
-            { "id": "D", "text": "the number of species" }
+            {
+              "id": "A",
+              "text": "the number of animal species"
+            },
+            {
+              "id": "B",
+              "text": "the number of plant species"
+            },
+            {
+              "id": "C",
+              "text": "the number of organisms in each of the species"
+            },
+            {
+              "id": "D",
+              "text": "the number of species"
+            }
           ],
           "answer": "D",
-          "keywords": ["D", "number of species", "species richness"]
+          "keywords": [
+            "D",
+            "number of species",
+            "species richness"
+          ],
+          "image": "/papers/wbi12-jan-2020/q8-8a_i.png"
         },
         {
           "id": "8a_ii",
@@ -386,7 +669,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Calculate species diversity index (e.g. Simpson's index) which accounts for richness and evenness; or measure evenness / relative abundance using quadrats/transects",
-          "keywords": ["Simpson", "diversity index", "evenness", "relative abundance", "quadrat", "transect"]
+          "keywords": [
+            "Simpson",
+            "diversity index",
+            "evenness",
+            "relative abundance",
+            "quadrat",
+            "transect"
+          ],
+          "image": "/papers/wbi12-jan-2020/q8-8a_ii.png"
         },
         {
           "id": "8b",
@@ -394,16 +685,30 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Habitat loss / degradation (deforestation, mangrove removal, river pollution); hunting/poaching; reduced prey availability; human-wildlife conflict; climate change affecting nesting success",
-          "keywords": ["habitat loss", "pollution", "poaching", "prey", "conflict", "climate"]
+          "keywords": [
+            "habitat loss",
+            "pollution",
+            "poaching",
+            "prey",
+            "conflict",
+            "climate"
+          ],
+          "image": "/papers/wbi12-jan-2020/q8-8b.png"
         },
         {
           "id": "8c_i",
           "text": "Scientists are involved in conservation projects to increase the numbers of endangered saltwater crocodiles, without causing a reduction in the genetic diversity of future populations. One project involves collecting the eggs from nests in different parts of Bhitarkanika National Park. The eggs are incubated at a suitable temperature. The incubation temperature influences the sex of the developing crocodiles. The graph shows the effect of temperature on the percentage of crocodiles that hatch as male. Calculate the number of female crocodiles that would develop from 350 eggs incubated at 32°C.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jan2020/q8c_temperature_graph.png",
+          "image": "/papers/wbi12-jan-2020/q8-8c_i.png",
           "answer": "At 32°C, about 25% hatch as male, so 75% are female; females = 0.75 × 350 = 262.5 ≈ 263",
-          "keywords": ["263", "262.5", "75%", "female", "32"]
+          "keywords": [
+            "263",
+            "262.5",
+            "75%",
+            "female",
+            "32"
+          ]
         },
         {
           "id": "8c_ii",
@@ -411,9 +716,58 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Collecting and incubating eggs increases survival compared with natural nests (reduces predation / flooding), so more hatchlings are released. Use incubation temperatures that produce more females (e.g. 32–33°C gives low % males, so more females) to boost breeding population quickly. To maintain genetic diversity, collect eggs from many nests in different parts of the park (many parents), avoid selecting eggs from just one area, and release offspring back into the population to increase effective population size and reduce inbreeding.",
-          "keywords": ["survival", "predation", "incubation", "more females", "many nests", "genetic diversity", "inbreeding", "effective population size"]
+          "keywords": [
+            "survival",
+            "predation",
+            "incubation",
+            "more females",
+            "many nests",
+            "genetic diversity",
+            "inbreeding",
+            "effective population size"
+          ],
+          "image": "/papers/wbi12-jan-2020/q8-8c_ii.png"
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi12-jan-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2020-unit2-2020-01-qp.pdf",
+    "pageImages": [
+      "/papers/wbi12-jan-2020/page-01.png",
+      "/papers/wbi12-jan-2020/page-02.png",
+      "/papers/wbi12-jan-2020/page-03.png",
+      "/papers/wbi12-jan-2020/page-04.png",
+      "/papers/wbi12-jan-2020/page-05.png",
+      "/papers/wbi12-jan-2020/page-06.png",
+      "/papers/wbi12-jan-2020/page-07.png",
+      "/papers/wbi12-jan-2020/page-08.png",
+      "/papers/wbi12-jan-2020/page-09.png",
+      "/papers/wbi12-jan-2020/page-10.png",
+      "/papers/wbi12-jan-2020/page-11.png",
+      "/papers/wbi12-jan-2020/page-12.png",
+      "/papers/wbi12-jan-2020/page-13.png",
+      "/papers/wbi12-jan-2020/page-14.png",
+      "/papers/wbi12-jan-2020/page-15.png",
+      "/papers/wbi12-jan-2020/page-16.png",
+      "/papers/wbi12-jan-2020/page-17.png",
+      "/papers/wbi12-jan-2020/page-18.png",
+      "/papers/wbi12-jan-2020/page-19.png",
+      "/papers/wbi12-jan-2020/page-20.png",
+      "/papers/wbi12-jan-2020/page-21.png",
+      "/papers/wbi12-jan-2020/page-22.png",
+      "/papers/wbi12-jan-2020/page-23.png",
+      "/papers/wbi12-jan-2020/page-24.png",
+      "/papers/wbi12-jan-2020/page-25.png",
+      "/papers/wbi12-jan-2020/page-26.png",
+      "/papers/wbi12-jan-2020/page-27.png",
+      "/papers/wbi12-jan-2020/page-28.png",
+      "/papers/wbi12-jan-2020/page-29.png",
+      "/papers/wbi12-jan-2020/page-30.png",
+      "/papers/wbi12-jan-2020/page-31.png",
+      "/papers/wbi12-jan-2020/page-32.png"
+    ]
+  },
+  "unit": "Unit 2"
 }

@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2025-unit4-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit4-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/41",
+  "session": "October/November 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "particle relative mass relative charge proton 1 neutron 1 0 / nil electron – 1 ✓(1) ✓(1) M2 but different numbers of neutrons M2 16 and 18 M3 50 and 22 and to the left of the symbol M4 Ti M5 2+",
+          "image": "/papers/chemistry-0620-2025/q1-1a.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 mol Ar = 2.0  40 = 0.05 (mol) M2 number of atoms = 0.05  6.02  10 = 3.01  10 October/November 2025 Question Answer Marks M2 positive ions / cations M3 sea of electrons / mobile electrons / delocalised electrons M4 attraction between positive ions and electrons M2 solid dissolves M3 solution turns blue hydrogen (1) 2Ca + O2 → 2CaO M1 CaO as only product M2 correct equation M1 3.28  164 = 0.02(00) M2 1.44  18 = 0.08(00) M3 = M2  M1 = 4 October/November 2025 Question Answer Marks M2 state symbols (aq) and (l)",
+          "image": "/papers/chemistry-0620-2025/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.0100  1000  40 = 0.25(0)",
+          "image": "/papers/chemistry-0620-2025/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 mol H2SO4 needed = 0.0100  2 = 0.005(00) M2 vol of H2SO4 needed = 0.005(00)  0.200  1000 = 25 (cm ) M2 orange M2 at a specified temperature October/November 2025 Question Answer Marks M2 label of SO2(g) + 4HF(g) on product line M3 upward arrow labelled Ea from energy level of reactants to the highest point of the curve M4 one downward arrow labelled H AND energy change starting from energy level of reactants and finishing at energy level of products",
+          "image": "/papers/chemistry-0620-2025/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 = (4  S–F) + (4  O–H) = (4  330) + (4  460) = 3160 M2 bond energy of products – 3160 = –54 = 3160 – (–54) = 3214 M3 (2  S=O) + (4  H–F) = 3214 therefore 2  S=O = 3214 – (4  570) = 934 M4 S=O = M3  2 = 934  2 = 467 M1 (position of) equilibrium moves to left hand side M2 reaction is exothermic increased pressure: M3 (position of) equilibrium moves to left hand side M4 less (gaseous) moles on left hand side M5 no change / catalyst does not affect position of equilibrium M2 frequency of collisions between particles decreases M3 lower percentage/proportion/fraction of collisions / particles have energy greater than / equal to activation energy October/November 2025 Question Answer Marks M1 25–35 M2 300 M3 yeast M4 acid M5 absence of oxygen M6 60 atm C6H12O6 → 2C2H5OH + 2CO2 M1 C6H12O6 as the only reactant on left M2 correct equation C2H4 + H2O → C2H5OH M1 both C2H4 + H2O only on left M2 correct equation October/November 2025 Question Answer Marks M1 any one correct fully displayed ester link between any two blocks M2 three fully displayed inter-block ester links with correct orientation M3 fully correct diagram showing two complete repeat units of polyester including continuation bonds",
+          "image": "/papers/chemistry-0620-2025/q4-4b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit4-2025-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

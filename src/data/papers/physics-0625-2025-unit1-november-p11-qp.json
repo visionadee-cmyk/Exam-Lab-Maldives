@@ -1,0 +1,673 @@
+{
+  "paperId": "physics-0625-2025-unit1-november-p11-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit1-november-p11-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "October/November 2025",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which measuring instrument is used to determine the volume of water in a cup? A clock, B measuring cylinder, C ruler, D thermometer",
+      "text": "Which measuring instrument is used to determine the volume of water in a cup? A clock, B measuring cylinder, C ruler, D thermometer",
+      "options": [
+        "A clock",
+        "B measuring cylinder",
+        "C ruler",
+        "D thermometer"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show distance–time graphs for four objects. Which object is moving with increasing speed? distance time A 0 0 distance time B distance time C distance time D 0 0 0 0 0 0",
+      "text": "The diagrams show distance–time graphs for four objects. Which object is moving with increasing speed? distance time A 0 0 distance time B distance time C distance time D 0 0 0 0 0 0",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A space station orbits above the Earth. There is an astronaut in the space station. In the space station, the acceleration of free fall is 7.5 m / s 2 . On Earth, the acceleration of free fall is 9.8 m / s 2 . Which row about the astronaut’s mass and weight in the space station is correct? mass of astronaut weight of astronaut A same as on the Earth less than on the Earth, B same as on the Earth     greater than on the Earth, C lower than on the Earth less than on the Earth, D lower than on the Earth    greater than on the Earth 3",
+      "text": "A space station orbits above the Earth. There is an astronaut in the space station. In the space station, the acceleration of free fall is 7.5 m / s 2 . On Earth, the acceleration of free fall is 9.8 m / s 2 . Which row about the astronaut’s mass and weight in the space station is correct? mass of astronaut weight of astronaut A same as on the Earth less than on the Earth, B same as on the Earth     greater than on the Earth, C lower than on the Earth less than on the Earth, D lower than on the Earth    greater than on the Earth 3",
+      "options": [
+        "A same as on the Earth less than on the Earth",
+        "B same as on the Earth     greater than on the Earth",
+        "C lower than on the Earth less than on the Earth",
+        "D lower than on the Earth    greater than on the Earth 3"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student is asked to predict whether a solid floats in a liquid. Which information does the student require? A the density of the liquid and the mass of the solid, B the density of the solid and the density of the liquid, C the density of the solid and the mass of the liquid, D the mass of the solid and the mass of the liquid",
+      "text": "A student is asked to predict whether a solid floats in a liquid. Which information does the student require? A the density of the liquid and the mass of the solid, B the density of the solid and the density of the liquid, C the density of the solid and the mass of the liquid, D the mass of the solid and the mass of the liquid",
+      "options": [
+        "A the density of the liquid and the mass of the solid",
+        "B the density of the solid and the density of the liquid",
+        "C the density of the solid and the mass of the liquid",
+        "D the mass of the solid and the mass of the liquid"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which property of an object never changes when a force acts on the object? A mass, B shape, C size, D speed",
+      "text": "Which property of an object never changes when a force acts on the object? A mass, B shape, C size, D speed",
+      "options": [
+        "A mass",
+        "B shape",
+        "C size",
+        "D speed"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car is travelling along a straight horizontal road. The speed–time graph is shown. In which labelled part of the journey is the resultant force on the car zero? 0 0 speed time A B C D",
+      "text": "A car is travelling along a straight horizontal road. The speed–time graph is shown. In which labelled part of the journey is the resultant force on the car zero? 0 0 speed time A B C D",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which list contains only energy stores? A electrostatic, kinetic, light, B electrostatic, kinetic, nuclear, C electrostatic, light, nuclear, D kinetic, light, nuclear 4",
+      "text": "Which list contains only energy stores? A electrostatic, kinetic, light, B electrostatic, kinetic, nuclear, C electrostatic, light, nuclear, D kinetic, light, nuclear 4",
+      "options": [
+        "A electrostatic, kinetic, light",
+        "B electrostatic, kinetic, nuclear",
+        "C electrostatic, light, nuclear",
+        "D kinetic, light, nuclear 4"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What needs to be known to calculate the work done by a force acting on an object? the size of the force the distance the force moves the object the time for which the force acts A \u0016 \u0016 \u0016 key, B \u0016 \u0016 \u001a \u0016 = needed, C \u0016 \u001a \u0016 \u001a = not needed, D \u0016 \u001a \u001a",
+      "text": "What needs to be known to calculate the work done by a force acting on an object? the size of the force the distance the force moves the object the time for which the force acts A \u0016 \u0016 \u0016 key, B \u0016 \u0016 \u001a \u0016 = needed, C \u0016 \u001a \u0016 \u001a = not needed, D \u0016 \u001a \u001a",
+      "options": [
+        "A \u0016 \u0016 \u0016 key",
+        "B \u0016 \u0016 \u001a \u0016 = needed",
+        "C \u0016 \u001a \u0016 \u001a = not needed",
+        "D \u0016 \u001a \u001a"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Different energy resources are used to produce electricity on a small island. The chart shows the percentages of each energy resource used in 2000 and in 2024. percentage 100 90 80 70 60 50 40 30 20 10 0 year 2000 2024 key = gas = coal = wind Which row correctly describes any changes in the percentage for 2024 compared with 2000? percentage of energy resource used coal renewable A decrease no change, B no change increase, C decrease increase, D no change no change 5",
+      "text": "Different energy resources are used to produce electricity on a small island. The chart shows the percentages of each energy resource used in 2000 and in 2024. percentage 100 90 80 70 60 50 40 30 20 10 0 year 2000 2024 key = gas = coal = wind Which row correctly describes any changes in the percentage for 2024 compared with 2000? percentage of energy resource used coal renewable A decrease no change, B no change increase, C decrease increase, D no change no change 5",
+      "options": [
+        "A decrease no change",
+        "B no change increase",
+        "C decrease increase",
+        "D no change no change 5"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which situation is not explained by the equation P = ? A F A using a longer spanner than normal to undo a tight nut, B hammering a nail into a piece of wood, C tractors using wide tyres in a muddy field, D a sharp kitchen knife cutting vegetables more easily than a blunt one",
+      "text": "Which situation is not explained by the equation P = ? A F A using a longer spanner than normal to undo a tight nut, B hammering a nail into a piece of wood, C tractors using wide tyres in a muddy field, D a sharp kitchen knife cutting vegetables more easily than a blunt one",
+      "options": [
+        "A using a longer spanner than normal to undo a tight nut",
+        "B hammering a nail into a piece of wood",
+        "C tractors using wide tyres in a muddy field",
+        "D a sharp kitchen knife cutting vegetables more easily than a blunt one"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A substance is heated. The substance changes state from a liquid to a gas. When the gas is cooled, it first becomes a liquid and finally a solid. What is the order of changes of state for this substance? A condensation  melting  freezing, B vaporisation  condensation  melting, C vaporisation  condensation  freezing, D melting  vaporisation  freezing",
+      "text": "A substance is heated. The substance changes state from a liquid to a gas. When the gas is cooled, it first becomes a liquid and finally a solid. What is the order of changes of state for this substance? A condensation  melting  freezing, B vaporisation  condensation  melting, C vaporisation  condensation  freezing, D melting  vaporisation  freezing",
+      "options": [
+        "A condensation  melting  freezing",
+        "B vaporisation  condensation  melting",
+        "C vaporisation  condensation  freezing",
+        "D melting  vaporisation  freezing"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A glass bottle containing warm air is sealed with a screw cap and then cooled in cold water. air cap cold water The contraction of the glass bottle can be ignored. What remains the same during the cooling? A the air pressure inside the bottle, B the energy of the air particles in the bottle, C the force on the cap made by the air particles in the bottle, D the volume of air in the bottle 6",
+      "text": "A glass bottle containing warm air is sealed with a screw cap and then cooled in cold water. air cap cold water The contraction of the glass bottle can be ignored. What remains the same during the cooling? A the air pressure inside the bottle, B the energy of the air particles in the bottle, C the force on the cap made by the air particles in the bottle, D the volume of air in the bottle 6",
+      "options": [
+        "A the air pressure inside the bottle",
+        "B the energy of the air particles in the bottle",
+        "C the force on the cap made by the air particles in the bottle",
+        "D the volume of air in the bottle 6"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A gas is stored in a container of constant volume. The temperature of the gas is increased. What happens to the particles of the gas? A The distance between the particles increases., B The mass of the particles increases., C The number of particles increases., D The speed of the particles increases.",
+      "text": "A gas is stored in a container of constant volume. The temperature of the gas is increased. What happens to the particles of the gas? A The distance between the particles increases., B The mass of the particles increases., C The number of particles increases., D The speed of the particles increases.",
+      "options": [
+        "A The distance between the particles increases.",
+        "B The mass of the particles increases.",
+        "C The number of particles increases.",
+        "D The speed of the particles increases."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "One end of a shiny metal rod is heated, and the other end quickly gets hot. Which statement describes why the other end quickly gets hot? A Metals are good thermal conductors., B Metals are poor thermal conductors., C Shiny surfaces are good emitters of infrared radiation., D Shiny surfaces are poor emitters of infrared radiation.",
+      "text": "One end of a shiny metal rod is heated, and the other end quickly gets hot. Which statement describes why the other end quickly gets hot? A Metals are good thermal conductors., B Metals are poor thermal conductors., C Shiny surfaces are good emitters of infrared radiation., D Shiny surfaces are poor emitters of infrared radiation.",
+      "options": [
+        "A Metals are good thermal conductors.",
+        "B Metals are poor thermal conductors.",
+        "C Shiny surfaces are good emitters of infrared radiation.",
+        "D Shiny surfaces are poor emitters of infrared radiation."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Vacuum flasks usually have silvered walls that help to keep the contents of the flask hot. Why are the walls silvered? A to absorb thermal energy from the air around the flask, B to increase the rate of convection inside the flask, C to reduce energy loss to the surroundings by conduction, D to reflect thermal radiation back into the flask",
+      "text": "Vacuum flasks usually have silvered walls that help to keep the contents of the flask hot. Why are the walls silvered? A to absorb thermal energy from the air around the flask, B to increase the rate of convection inside the flask, C to reduce energy loss to the surroundings by conduction, D to reflect thermal radiation back into the flask",
+      "options": [
+        "A to absorb thermal energy from the air around the flask",
+        "B to increase the rate of convection inside the flask",
+        "C to reduce energy loss to the surroundings by conduction",
+        "D to reflect thermal radiation back into the flask"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The temperature of the air in the atmosphere around us increases. Which  row  describes  the  change  in  the  density  of  the  air  and  which  form  of  thermal  energy transfer occurs as a result of this change? what happens to the density of the air thermal energy transfer that occurs as a result A decreases conduction, B decreases convection, C increases conduction, D increases convection 7",
+      "text": "The temperature of the air in the atmosphere around us increases. Which  row  describes  the  change  in  the  density  of  the  air  and  which  form  of  thermal  energy transfer occurs as a result of this change? what happens to the density of the air thermal energy transfer that occurs as a result A decreases conduction, B decreases convection, C increases conduction, D increases convection 7",
+      "options": [
+        "A decreases conduction",
+        "B decreases convection",
+        "C increases conduction",
+        "D increases convection 7"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student draws a diagram to show two different properties of a water wave. The arrows show the wave directions. shallow water deep water Which two wave properties does the diagram show? A refraction and diffraction, B reflection and dispersion, C reflection and diffraction, D reflection and refraction",
+      "text": "A student draws a diagram to show two different properties of a water wave. The arrows show the wave directions. shallow water deep water Which two wave properties does the diagram show? A refraction and diffraction, B reflection and dispersion, C reflection and diffraction, D reflection and refraction",
+      "options": [
+        "A refraction and diffraction",
+        "B reflection and dispersion",
+        "C reflection and diffraction",
+        "D reflection and refraction"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A seismic wave consists of vibrations that are parallel to the direction of propagation. What is the type of wave and what is the name of the seismic wave? type of wave name of seismic wave A longitudinal P-wave, B longitudinal S-wave, C transverse P-wave, D transverse S-wave",
+      "text": "A seismic wave consists of vibrations that are parallel to the direction of propagation. What is the type of wave and what is the name of the seismic wave? type of wave name of seismic wave A longitudinal P-wave, B longitudinal S-wave, C transverse P-wave, D transverse S-wave",
+      "options": [
+        "A longitudinal P-wave",
+        "B longitudinal S-wave",
+        "C transverse P-wave",
+        "D transverse S-wave"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A person stands 1.0 m in front of a plane mirror. The mirror is moved away from the person at a speed of 1.0 m / s. Which statement is correct? A The image moves away from the person at a speed of 1.0 m / s., B The image moves away from the person at a speed of 2.0 m / s., C The image moves towards the person at a speed of 1.0 m / s., D The image moves towards the person at a speed of 2.0 m / s. 8",
+      "text": "A person stands 1.0 m in front of a plane mirror. The mirror is moved away from the person at a speed of 1.0 m / s. Which statement is correct? A The image moves away from the person at a speed of 1.0 m / s., B The image moves away from the person at a speed of 2.0 m / s., C The image moves towards the person at a speed of 1.0 m / s., D The image moves towards the person at a speed of 2.0 m / s. 8",
+      "options": [
+        "A The image moves away from the person at a speed of 1.0 m / s.",
+        "B The image moves away from the person at a speed of 2.0 m / s.",
+        "C The image moves towards the person at a speed of 1.0 m / s.",
+        "D The image moves towards the person at a speed of 2.0 m / s. 8"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light passes from air into a rectangular transparent block. 50° 65° 25° 40° not to scale ray of light air rectangular transparent block What is the angle of refraction? A 25° B   40° C   50° D   65°",
+      "text": "A ray of light passes from air into a rectangular transparent block. 50° 65° 25° 40° not to scale ray of light air rectangular transparent block What is the angle of refraction? A 25° B   40° C   50° D   65°",
+      "options": [
+        "A 25° B   40° C   50° D   65°"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the formation of an image by a thin converging lens. Which terms describe the image? A diminished and upright, B real and inverted, C virtual and diminished, D virtual and inverted",
+      "text": "The diagram shows the formation of an image by a thin converging lens. Which terms describe the image? A diminished and upright, B real and inverted, C virtual and diminished, D virtual and inverted",
+      "options": [
+        "A diminished and upright",
+        "B real and inverted",
+        "C virtual and diminished",
+        "D virtual and inverted"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Valuable objects are often marked with a special ink. In visible light, the ink cannot be seen. The ink can be seen when exposed to the right type of electromagnetic waves. Which type of electromagnetic waves are used for this type of security marking? A infrared, B microwaves, C ultraviolet, D X-rays 9",
+      "text": "Valuable objects are often marked with a special ink. In visible light, the ink cannot be seen. The ink can be seen when exposed to the right type of electromagnetic waves. Which type of electromagnetic waves are used for this type of security marking? A infrared, B microwaves, C ultraviolet, D X-rays 9",
+      "options": [
+        "A infrared",
+        "B microwaves",
+        "C ultraviolet",
+        "D X-rays 9"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A siren is emitting a sound. As time passes, the sound becomes louder and higher pitched. What is happening to the amplitude and to the frequency of the emitted sound wave? amplitude frequency A decreasing decreasing, B decreasing increasing, C increasing decreasing, D increasing increasing",
+      "text": "A siren is emitting a sound. As time passes, the sound becomes louder and higher pitched. What is happening to the amplitude and to the frequency of the emitted sound wave? amplitude frequency A decreasing decreasing, B decreasing increasing, C increasing decreasing, D increasing increasing",
+      "options": [
+        "A decreasing decreasing",
+        "B decreasing increasing",
+        "C increasing decreasing",
+        "D increasing increasing"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plotting compass is placed at position X near to a bar magnet. The diagram shows the direction in which the compass points. X Y Which diagram shows the direction in which the plotting compass placed at position Y points? ABCD",
+      "text": "A plotting compass is placed at position X near to a bar magnet. The diagram shows the direction in which the compass points. X Y Which diagram shows the direction in which the plotting compass placed at position Y points? ABCD",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student rubs a plastic rod with a cloth. Electrons move from the cloth to the rod. Which statement about the rod is correct? A It is negatively charged and is attracted by a negatively charged object., B It is negatively charged and is attracted by a positively charged object., C It is positively charged and is attracted by a negatively charged object., D It is positively charged and is attracted by a positively charged object. 10",
+      "text": "A student rubs a plastic rod with a cloth. Electrons move from the cloth to the rod. Which statement about the rod is correct? A It is negatively charged and is attracted by a negatively charged object., B It is negatively charged and is attracted by a positively charged object., C It is positively charged and is attracted by a negatively charged object., D It is positively charged and is attracted by a positively charged object. 10",
+      "options": [
+        "A It is negatively charged and is attracted by a negatively charged object.",
+        "B It is negatively charged and is attracted by a positively charged object.",
+        "C It is positively charged and is attracted by a negatively charged object.",
+        "D It is positively charged and is attracted by a positively charged object. 10"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which expression is used to calculate electrical resistance? A charge  potential difference, B current  potential difference, C potential difference  charge, D potential difference  current",
+      "text": "Which expression is used to calculate electrical resistance? A charge  potential difference, B current  potential difference, C potential difference  charge, D potential difference  current",
+      "options": [
+        "A charge  potential difference",
+        "B current  potential difference",
+        "C potential difference  charge",
+        "D potential difference  current"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows part of an electric circuit. The reading on the voltmeter is 16 V. The current in the resistor is 8.0 A. V PQ 8.0 A One coulomb of charge flows from P to Q through the resistor. How much energy is transferred in the resistor? A 2.0 J B 8.0 J C 16 J D 128 J",
+      "text": "The diagram shows part of an electric circuit. The reading on the voltmeter is 16 V. The current in the resistor is 8.0 A. V PQ 8.0 A One coulomb of charge flows from P to Q through the resistor. How much energy is transferred in the resistor? A 2.0 J B 8.0 J C 16 J D 128 J",
+      "options": [
+        "A 2.0 J B 8.0 J C 16 J D 128 J"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the combined resistance of a 3.0  resistor and a 6.0  resistor connected in parallel? A 2.0  B 4.5  C 9.0  D 18 ",
+      "text": "What is the combined resistance of a 3.0  resistor and a 6.0  resistor connected in parallel? A 2.0  B 4.5  C 9.0  D 18 ",
+      "options": [
+        "A 2.0  B 4.5  C 9.0  D 18 "
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A 5.0  resistor is connected in series with a 10  resistor. There is a constant current in the 5.0  resistor. Which statement about the two resistors is correct? A The current is greater in the 5.0  resistor., B The current is greater in the 10  resistor., C The potential difference (p.d.) is greater across the 5.0  resistor., D The potential difference (p.d.) is greater across the 10  resistor.",
+      "text": "A 5.0  resistor is connected in series with a 10  resistor. There is a constant current in the 5.0  resistor. Which statement about the two resistors is correct? A The current is greater in the 5.0  resistor., B The current is greater in the 10  resistor., C The potential difference (p.d.) is greater across the 5.0  resistor., D The potential difference (p.d.) is greater across the 10  resistor.",
+      "options": [
+        "A The current is greater in the 5.0  resistor.",
+        "B The current is greater in the 10  resistor.",
+        "C The potential difference (p.d.) is greater across the 5.0  resistor.",
+        "D The potential difference (p.d.) is greater across the 10  resistor."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement explains where the switch for an electric lamp is connected? A The switch is in either the live wire or in the neutral wire as both wires carry the current., B The switch is in the earth wire to prevent the fuse from blowing when the lamp is in use., C The switch is in the live wire so that the lamp is disconnected from the mains supply when the switch is off., D The switch is in the neutral wire to prevent current leakage when the lamp is switched off. 11",
+      "text": "Which statement explains where the switch for an electric lamp is connected? A The switch is in either the live wire or in the neutral wire as both wires carry the current., B The switch is in the earth wire to prevent the fuse from blowing when the lamp is in use., C The switch is in the live wire so that the lamp is disconnected from the mains supply when the switch is off., D The switch is in the neutral wire to prevent current leakage when the lamp is switched off. 11",
+      "options": [
+        "A The switch is in either the live wire or in the neutral wire as both wires carry the current.",
+        "B The switch is in the earth wire to prevent the fuse from blowing when the lamp is in use.",
+        "C The switch is in the live wire so that the lamp is disconnected from the mains supply when the switch is off.",
+        "D The switch is in the neutral wire to prevent current leakage when the lamp is switched off. 11"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a magnet moving towards a coil of wire. SN magnet moves towards coil permanent magnet coil of wire sensitive voltmeter When the magnet moves towards the coil of wire, an electromotive force (e.m.f.) is induced. Students are asked for one change that will increase the magnitude of the induced e.m.f. Three changes are proposed. 1   Move the magnet more quickly. 2   Use a stronger magnet. 3   Increase the number of turns on the coil. Which changes, on their own, will increase the magnitude of the induced e.m.f.? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "text": "The diagram shows a magnet moving towards a coil of wire. SN magnet moves towards coil permanent magnet coil of wire sensitive voltmeter When the magnet moves towards the coil of wire, an electromotive force (e.m.f.) is induced. Students are asked for one change that will increase the magnitude of the induced e.m.f. Three changes are proposed. 1   Move the magnet more quickly. 2   Use a stronger magnet. 3   Increase the number of turns on the coil. Which changes, on their own, will increase the magnitude of the induced e.m.f.? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is used to identify the pattern and direction of the magnetic field due to the current in a straight wire? A an ammeter, B a compass, C iron filings, D a voltmeter",
+      "text": "What is used to identify the pattern and direction of the magnetic field due to the current in a straight wire? A an ammeter, B a compass, C iron filings, D a voltmeter",
+      "options": [
+        "A an ammeter",
+        "B a compass",
+        "C iron filings",
+        "D a voltmeter"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which description of the structure of an atom is correct? A negatively charged electrons surrounding an uncharged nucleus, B negatively charged electrons surrounding a positively charged nucleus, C positively charged electrons surrounding an uncharged nucleus, D positively charged electrons surrounding a negatively charged nucleus 12",
+      "text": "Which description of the structure of an atom is correct? A negatively charged electrons surrounding an uncharged nucleus, B negatively charged electrons surrounding a positively charged nucleus, C positively charged electrons surrounding an uncharged nucleus, D positively charged electrons surrounding a negatively charged nucleus 12",
+      "options": [
+        "A negatively charged electrons surrounding an uncharged nucleus",
+        "B negatively charged electrons surrounding a positively charged nucleus",
+        "C positively charged electrons surrounding an uncharged nucleus",
+        "D positively charged electrons surrounding a negatively charged nucleus 12"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A radioactive source is placed 20 mm in front of a detector. The count rate from the source is 2000 counts / minute. With  a  thin  sheet  of  paper  between  the  source  and  the  detector,  the  count  rate  is 2000 counts / minute. With a sheet of aluminium 5 mm thick between the source and the detector, the count rate is 1200 counts / minute. Which radioactive emissions are coming from the source? A alpha, beta and gamma, B alpha only, C beta and gamma only, D beta only",
+      "text": "A radioactive source is placed 20 mm in front of a detector. The count rate from the source is 2000 counts / minute. With  a  thin  sheet  of  paper  between  the  source  and  the  detector,  the  count  rate  is 2000 counts / minute. With a sheet of aluminium 5 mm thick between the source and the detector, the count rate is 1200 counts / minute. Which radioactive emissions are coming from the source? A alpha, beta and gamma, B alpha only, C beta and gamma only, D beta only",
+      "options": [
+        "A alpha, beta and gamma",
+        "B alpha only",
+        "C beta and gamma only",
+        "D beta only"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which type of radiation is measured using a detector connected to a counter? A visible light, B ionising nuclear, C microwave, D thermal",
+      "text": "Which type of radiation is measured using a detector connected to a counter? A visible light, B ionising nuclear, C microwave, D thermal",
+      "options": [
+        "A visible light",
+        "B ionising nuclear",
+        "C microwave",
+        "D thermal"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sample of a radioactive isotope contains 100 nuclei of the isotope. The graph shows the number of nuclei of that isotope that remain in the sample as time passes. 100 75 50 25 0 number of nuclei time / hours 012345678 What is the half-life of the radioactive isotope? A 1 hour, B 4 hours, C 6 nuclei, D 50 nuclei 13",
+      "text": "A sample of a radioactive isotope contains 100 nuclei of the isotope. The graph shows the number of nuclei of that isotope that remain in the sample as time passes. 100 75 50 25 0 number of nuclei time / hours 012345678 What is the half-life of the radioactive isotope? A 1 hour, B 4 hours, C 6 nuclei, D 50 nuclei 13",
+      "options": [
+        "A 1 hour",
+        "B 4 hours",
+        "C 6 nuclei",
+        "D 50 nuclei 13"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher does an experiment to measure radiation passing through a lead sheet. radioactive source lead sheet 146 counter detector Three students suggest how the teacher can reduce the risk to her health. student 1   Move the radioactive source with her bare hands. student 2   Stay as close as possible to the radioactive source during the experiment. student 3   Minimise the time of the experiment. Which students are correct? A 1, 2 and 3 B   1 and 2 only C   2 only D   3 only",
+      "text": "A teacher does an experiment to measure radiation passing through a lead sheet. radioactive source lead sheet 146 counter detector Three students suggest how the teacher can reduce the risk to her health. student 1   Move the radioactive source with her bare hands. student 2   Stay as close as possible to the radioactive source during the experiment. student 3   Minimise the time of the experiment. Which students are correct? A 1, 2 and 3 B   1 and 2 only C   2 only D   3 only",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   2 only D   3 only"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents three objects, X, Y and Z, in space. Object Y orbits object X. Object Z orbits object Y. X Y Z Which types of object are X, Y and Z? object X object Y object Z A planet moon star, B planet star moon, C star planet moon, D star moon planet 14",
+      "text": "The diagram represents three objects, X, Y and Z, in space. Object Y orbits object X. Object Z orbits object Y. X Y Z Which types of object are X, Y and Z? object X object Y object Z A planet moon star, B planet star moon, C star planet moon, D star moon planet 14",
+      "options": [
+        "A planet moon star",
+        "B planet star moon",
+        "C star planet moon",
+        "D star moon planet 14"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the Sun is correct? A The Sun consists of mainly carbon and nitrogen., B The Sun is the largest planet in the Solar System., C The Sun is a medium-sized star., D The  Sun  radiates  most  of  its  energy  in  the  gamma-ray  region  of  the  electromagnetic spectrum.",
+      "text": "Which statement about the Sun is correct? A The Sun consists of mainly carbon and nitrogen., B The Sun is the largest planet in the Solar System., C The Sun is a medium-sized star., D The  Sun  radiates  most  of  its  energy  in  the  gamma-ray  region  of  the  electromagnetic spectrum.",
+      "options": [
+        "A The Sun consists of mainly carbon and nitrogen.",
+        "B The Sun is the largest planet in the Solar System.",
+        "C The Sun is a medium-sized star.",
+        "D The  Sun  radiates  most  of  its  energy  in  the  gamma-ray  region  of  the  electromagnetic spectrum."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the name of the galaxy that contains the Sun? A Andromeda, B Milky Way, C Red Shift, D Universe 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "What is the name of the galaxy that contains the Sun? A Andromeda, B Milky Way, C Red Shift, D Universe 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A Andromeda",
+        "B Milky Way",
+        "C Red Shift",
+        "D Universe 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit1-2025-11-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

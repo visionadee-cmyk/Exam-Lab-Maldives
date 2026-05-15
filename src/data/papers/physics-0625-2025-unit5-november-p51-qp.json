@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2025-unit5-november-p51-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-november-p51-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Incident ray at 30°  2° to left of normal P1 P2 separation at least 5.0 cm Refracted ray in correct quadrant",
+          "image": "/papers/physics-0625-2025/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = value correctly measured to  2°  = 30°  2° Range to spread over at least 30° October/November 2025 Question Answer Marks 4 MP1 APPARATUS: A suitable timer AND a thermometer (so same initial temp.) MP2 MEASURE time taken to heat water to boiling point MP3 INVESTIGATION: Repeat a correct investigation for other heaters TWO VARIABLES TO KEEP CONSTANT: MP4 Initial temperature of water MP5 Volume / mass / amount of water MP6 TABLE with clear columns for heater and time with unit. MP7 CONCLUSION: Construct a bar chart with heater against heating time OR compare times for each heater to see if / how / whether the heater affects the time (to reach b.p.). OR see if the differences are significant / large / beyond experimental accuracy or wtte. October/November 2025 Q2. Additional graph notes: NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled). So maximum 1. If axes are wrong way round, the other 3 marks are still available. NOTE: If d plotted against V. Penalise first mark, then proceed with marking. If V plotted against R. Penalise first and third mark. But second and fourth marks available. Guidance on significant figures. Some questions are intended to assess this, and give the number of figures which are acceptable in the final answer. Where the mark scheme does not mention them, accept any number of significant figures from two upwards so long as the answer rounds to the value in the mark scheme. This includes recurring notation. Guidance on rounding errors. A rounding error in an answer should be penalised, but only where it occurs within one of the first three figures. Beyond that it may be ignored.",
+          "image": "/papers/physics-0625-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-11-51-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

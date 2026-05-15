@@ -1,0 +1,43 @@
+{
+  "paperId": "business-0450-2021-unit2-november-qp",
+  "pairedMarkSchemeId": "business-0450-2021-unit2-november-ms",
+  "subjectId": "business_igcse",
+  "code": "0450/",
+  "session": "October/November 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Conclusion • It depends on the extent to which the increase in employment leads to increased sales of SSM soap powder. If there is a large increase in the number of people employed, then disposable incomes will increase significantly and may lead to consumers spending a higher amount on luxury items such as washing machines and therefore soap powder – higher profit for SSM. An increase in inflation is likely to have less effect on profit as an increase in costs may be matched by an increase in prices. • Whether SSM has an increase in its profit may depend on whether the products in country Y are competitive with products from other countries due to the different inflation rates. If they are, then SSM revenue from the sales of its products for washing clothes may increase possibly leading to higher profit. This will depend on whether SSM can remain competitive.",
+          "image": "/papers/business-0450-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/business-0450-2021/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/business-0450-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/BusinessStudies-0450/BusinessStudies-0450-2021-unit2-2021-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

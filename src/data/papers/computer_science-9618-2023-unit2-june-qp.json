@@ -1,0 +1,71 @@
+{
+  "paperId": "computer_science-9618-2023-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit2-june-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "May/June 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per point: 1 Both prompts 2 Both inputs using correct identifiers as given in question, MyChar and MyCount 3 Initialise MyString to empty string and subsequent output after loop 4 Loop MyCount iterations including decrement MyCount 5 Use of Concatenate or equivalent pseudocode statement inside loop Max 4 Marks DECLARE StartDate : DATE One mark for each underlined part of assignment: StartDate  SETDATE (15, 11, 2005) May/June 2023 Question Answer Marks Structure: Record One mark for each point Advantage:  A set of data / all data related to one customer  of different types  is held under a single identifier/entity One mark per underlined word 1 Reference to the use of constants or variables for the two threshold values of 10 and 100 // Input amount spent (by customer and store in a numeric variable) 2 Work out one band that amount maps to 3 Work out all bands that amount maps to 4 Calculate rounded value of amount / whole number part of amount 5 Calculate the points by multiplying the (rounded) amount by the appropriate value for appropriate band /all bands 6 Output the number of points Note: Max 5 from available points May/June 2023 Question Answer Marks Function Replace(OldString : STRING, Char1, Char2 : CHAR) __ RETURNS : STRING DECLARE NewString : STRING DECLARE ThisChar : CHAR DECLARE Index : INTEGER NewString  \"\" FOR Index  1 TO LENGTH(OldString) ThisChar  MID(OldString, Index, 1) IF ThisChar = Char1 THEN ThisChar  Char2 ENDIF NewString  NewString & ThisChar NEXT Index RETURN NewString ENDFUNCTION Mark as follows: 1 Function heading and ending, including parameters and return type 2 Declaration of local variables used including loop counter 3 Loop for length of OldString 4 Extract char and test in a loop 5 Use of concatenate to build NewString replace char if necessary, in a loop 6 Return NewString after reasonable attempt Question Answer Marks 1 No working software until late in the life cycle so slower to market than competitors // Does not ",
+          "image": "/papers/computer_science-9618-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q2.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION IsNewSupp(ThisString : STRING) RETURNS BOOLEAN DECLARE Index : INTEGER DECLARE ThisChar : CHAR IF LENGTH(ThisString) <> 5 THEN RETURN FALSE // invalid SupplierCode length ENDIF IF SuppExists(ThisString) THEN RETURN FALSE // SupplierCode already exists ENDIF FOR Index  1 TO 5 ThisChar  TO_LOWER(MID(ThisString, Index, 1)) IF ThisChar < 'a' OR ThisChar > 'z'THEN RETURN FALSE ENDIF NEXT Index RETURN TRUE ENDFUNCTION Mark as follows: 1 Check ThisString is exactly 5 characters in length 2 Use of SuppExists() with a string of 5 characters as a parameter 3 Loop for 5 iterations // loops for length of string parameter 4 Extract a character in a loop 5 Test if char is alphabetic in a loop 6 ...catering for both upper and lower case 7 Return Boolean following a reasonable attempt May/June 2023 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION CheckNewItem(NewLine : STRING) RETURNS BOOLEAN DECLARE NotFound : BOOLEAN DECLARE NewItemNum, ThisItemNum, ThisLine : STRING NotFound  TRUE OPENFILE \"Stock.txt\" FOR READ NewItemNum  LEFT(NewLine, 4) ThisItemNum  \"0000\" //rogue initial value WHILE NOT EOF(\"Stock.txt\") AND NotFound = TRUE AND__ ThisItemNum < NewItemNum READFILE(\"Stock.txt\", ThisLine) //brackets optional ThisItemNum  LEFT(ThisLine, 4) IF ThisItemNum = NewItemNum THEN NotFound  FALSE ENDIF ENDWHILE CLOSEFILE \"Stock.txt\" RETURN NotFound ENDFUNCTION Mark as follows: 1 Open Stock.txt in READ mode and subsequently close 2 Extract NewItemNum from parameter 3 Conditional loop until EOF(\"Stock.txt\") 4 ... OR NewItemNum found 5 ... OR when ThisItemNum < NewItemNum 6 Read a line from Stock.txt AND extract ThisItemNum in a loop 7 If ThisItemNum = NewItemNum then terminate loop / set flag in a loop 8 Return Boolean after reasonable attempt Max 7 marks Max 6 if function wrapper (heading and ending) missing or incorrect  A dummy/simple module is written to replace the module that does not work properly  The dummy/simple module will return an expected value // will output a message to show it has been called May/June 2023 Question Answer Marks  The algorithm / search / iteration can stop /only iterates  if the current value read from the file // current line in file  is greater than the value being searched fo r",
+          "image": "/papers/computer_science-9618-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

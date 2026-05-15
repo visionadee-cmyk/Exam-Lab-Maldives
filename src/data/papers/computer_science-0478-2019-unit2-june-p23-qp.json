@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All variables, constants and other identifiers must have meaningful names. Describe the data structures you have used in Task 1 to record the items available that day. Include some sample data for each data structure you have described. ............................................................................................................................................",
+      "text": "1 (a) All variables, constants and other identifiers must have meaningful names. Describe the data structures you have used in Task 1 to record the items available that day. Include some sample data for each data structure you have described. ............................................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Keep a counter/number • Add one every time a new item code is added or • Keep a list of item codes used • Using a loop check item codes is not already in the list before a new item code is added",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Check items in stock array • « with a value of 10 or less • Display these values in a different way e.g. in red May/June 2019 Question Answer Marks MP1 Enter the item code MP2 «and check if valid MP3 Enter number to purchase and check if less than or equal to number in stock for that item number MP4 Display error message(s) if needed MP5 Calculate price to pay MP6 Using the number to purchase calculate discount « MP7 Check for new customer AND $50 spend/returning customer eligibility « MP8 « application of discount(s) if available MP9 Check order confirmed « MP10 « update appropriate stock level Sample answer REPEAT PRINT \"Enter Item Code\" INPUT ItemCode Found ← False Count ← 1 REPEAT IF ItemCode = ItemList(Count} THEN Found ← True ENDIF Count ← Count + 1 UNTIL Found OR Count = NoItems UNTIL Found REPEAT PRINT \"Enter Number to purchase\" INPUT Number UNTIL Number > 0 and Number <= Stock(ItemCode) PriceToPay ← Number * Price (ItemCode) IF Number >= 10 AND Number < 20 THEN PriceToPay ← PriceToPay * 0.95 ENDIF IF Number >= 20 AND Number < 50 THEN PriceToPay ← PriceToPay * 0.9 ENDIF IF Number >= 50 AND Number < 100 THEN PriceToPay ← PriceToPay * 0.75 ENDIF IF Number >= 100 AND Number < 500 THEN PriceToPay ← PriceToPay * 0.65 ENDIF IF Number >= 500 THEN PriceToPay ← PriceToPay * 0.5 ENDIF PRINT \"Enter Value of discount voucher, 0 if no voucher\" INPUT Voucher PriceToPay ← PriceToPay – Voucher PRINT \"Price to pay is \", PriceToPay PRINT \"Order confirmed? Y/N\" INPUT Confirm IF Confirm = \"Y\" THEN Stock(ItemCode) ← Stock(ItemCode) – Number ENDIF May/June 2019 Question Answer Marks Five from: MP1 Search item arrays MP2 For stock level = 0 « MP3 « list these as sold out MP4 Check stock level at end of day with original stock level//search items sold arrays MP5 « if the same, display/store item code as not sold//if 0, display/store item code as not sold MP6 « update largest value if greater than existing greatest value « //use max function on items sold array « //other method to",
+          "image": "/papers/computer_science-0478-2019/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) An algorithm has been written in pseudocode to input the weight of 500 items and reject any that are over-weight or under-weight, then print the percentage rejected. Count 1 Reject 0 Over 62 Under 58 REPEAT INPUT ItemWeight IF ItemWeight > Over AND ItemWeight < Under THEN Reject",
+      "text": "2 (a) An algorithm has been written in pseudocode to input the weight of 500 items and reject any that are over-weight or under-weight, then print the percentage rejected. Count 1 Reject 0 Over 62 Under 58 REPEAT INPUT ItemWeight IF ItemWeight > Over AND ItemWeight < Under THEN Reject",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Add Accept ← 0 at start MP2 Add ELSE Accept ← Accept + 1 after THEN AND Over and Under defined/position described OR Add Accept ← Accept + 1 after THEN AND Replace IF statement with ...<= Over AND ...>= UNDER« /position described MP3 Add Accept ← Accept/5 after UNTIL AND correct loop/position described MP4 ADD IF Accept < 50 THEN PRINT \"Less than 50% accepted\" at end Accept ← 0 Count ← 1 // 0 Reject ← 0 Over ← 62 Under ← 58 REPEAT INPUT ItemWeight IF ItemWeight > Over OR ItemWeight < Under // IF ItemWeight <= Over AND ItemWeight >= Under THEN Reject ← Reject + 1 ELSE Accept ← Accept + 1//ELSE not required ENDIF Count ← Count + 1 UNTIL Count > 500 // >= 500 Accept ← Accept / 5 IF Accept < 50 THEN PRINT \"Less than 50% accepted\" ENDIF May/June 2019 Question Answer Marks TreadReject Count Depth OUTPUT 0 1 2 1.7 3 1.9 1 4 1.4 5 1.8 6 2.0 Car is potentially roadworthy TreadReject Count Depth OUTPUT 0 1 1 2 1.2 3 1.9 2 4 1.4 5 1.8 6 2.4 Car is not roadworthy 1 mark for each correct pairs of columns. May/June 2019 Question Answer Marks Statements Validation Verification Range check Double entry Check digit Presence check 1 mark for each correct row Question Answer Marks • FOR ... TO ... NEXT • fixed number of repetitions • REPEAT ... UNTIL • always executed // condition tested at end • WHILE ... DO ... ENDWHILE • may not be executed // condition tested at beginning Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: Train number not displayed Departure time before 8:30 Criteria of =Y for Platform not required/incorrect All late trains will be shown/the condition should be on the line above 4 marks, one mark for each correct column Field: Train Number Platform Departure Time Status Table:TRAIN TRAIN TRAIN TRAIN Sort: Show:; ;  Criteria: > 08:30 = \"Late\" or:",
+          "image": "/papers/computer_science-0478-2019/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

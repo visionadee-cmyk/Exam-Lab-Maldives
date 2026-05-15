@@ -1,0 +1,79 @@
+{
+  "paperId": "wph11-oct-2025-unit3-qp",
+  "pairedMarkSchemeId": "wph11-oct-2025-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The micrometer screw gauge may break the glass tube Use the ratchet to tighten the micrometer Or wear gloves to protect hands from broken glass Or wear eye protection to protect eyes from broken glass (1) (1) Must refer to use of the micrometer causing the glass to break, not just a general comment e.g. “the students may break the tube”. Statements about gloves or eye protection must refer to broken/shattered glass.",
+          "image": "/papers/wph11-oct-2025/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Check (and correct) for zero error (of the micrometer) To eliminate systematic error (1) (1) Ignore references random/parallax errors e.g. “read at eye-level” Accept “to reduce systematic error” Calculation of mean Mean diameter = 3.20 mm, rounded to 3 s.f. (2 d.p.) (1) (1) For MP1 – accept a calculation discarding a value as an anomaly and correctly calculates the mean of the remaining 4 values. For MP2 – this answer only, rounded as shown. Example of calculation Mean diameter = ( 3.19 + 3.22 + 3.19 + 3.21 + 3.20 ) mm Mean diameter = 3.202 mm Calculation of half the range of d values Or calculates the difference between furthest d value and the mean Percentage uncertainty = 0.5% (0.47%), rounded to 1 or 2 s.f. only MP2 is dependent on MP1 (1) (1) Allow e.c.f. from the mean calculation in (c)(i) Furthest from mean gives 0.63% / 0.6% Accept the rounding 0.015 mm uncertainty to 0.02 mm which gives 0.63% / 0.6% Example of calculation Half range = ( 3.22 − 3.19 ) mm = 0.015 mm Percentage uncertainty = 0.015 mm 3.20 mm ×100 = 0.47% Total for question 1 8 Number Answer Additional Guidance Mark Superposition of waves takes place Waves destructively interfere as waves arrive in antiphase Or waves destructively interfere as waves meeting have a path difference of (푛푛+ )휆휆 Or waves destructively interfere as a peak and trough meet (1) (1) Accept the waves superpose Accept a phase difference of 180 ̊ or π radians. Do not accept “out of phase” without an angle. Accept specific path difference (e.g. 휆휆 , 3휆휆 ) Width of receiver makes it difficult to judge where to measure to Or difficult to judge where the centre of the receiver is Or difficulty in judging when the intensity has reached a minimum Not moving the receiver in a straight line parallel to the plates Or when measuring the calipers may not be parallel to the plates Or when measuring the calipers may not be perpendicular to the receiver (1) (1) Ignore references to zero error, systematic error, parallax error and random",
+          "image": "/papers/wph11-oct-2025/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculates percentage uncertainty using (half) resolution Percentage uncertainty = 0.3 (%) Example of calculation Percentage uncertainty = 0.05 mV 16.2 mV ×100= 0.31% (1) (1) For MP1 only, accept use of resolution (0.1 mV) giving 0.6% (0.62%) The metre rule would bend (under its own weight) Or the weight of the rule is causing strain Which is systematic error Or which increases the strain gauge resistance, (which increases V) MP2 is dependent on MP1 (1) (1) Accept idea that the strain gauge bends Accept “to eliminate zero error” Use of W = mg Use of 휀휀= 6푊푊푊푊 퐸퐸퐸퐸푡푡 ε = 1.49 × 10 −3 (1) (1) (1) Example of calculation W = 0.500 kg × 9.81 m s −2 = 4.905 N 휀휀= 6푊푊푊푊 퐸퐸퐸퐸푡푡 휀휀= 6 × 4.905 N × 0.513 m 11.9 ×10 Pa× 0.0253 m × ( 0.0058 m ) 휀휀= 1.49×10 −3 Max THREE from There are not enough sets of data (to plot a graph) No repeats are shown Inconsistent significant figures in values of ε There is an inconsistent pattern in the values of V Or V must increase as mass increases, so there must be an incorrect value (1) (1) (1) (1) Accept an identified V value with reason, e.g. “520 mV is an anomaly, as it does not fit the pattern” Number Answer Additional Guidance Mark",
+          "image": "/papers/wph11-oct-2025/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Max TWO from To ensure the stress/force/strain on the aeroplane wings are within safe limits Or to check how strong the wings are To check the wings are not bending excessively To make improvements to the design of the wings Or to choose suitable materials that can handle the stress/strain/force (1) (1) (1) Accept alternate wording, e.g. “to see how much force it can withstand before breaking” Total for question 3 12 Number Answer Additional Guidance Mark Start the stopwatch as soon as the cylinder is released Or check the stopwatch is starting from zero Repeat (at same height) and calculate a mean (value of t) View the motion of the cylinder from the side Or v iew the motion of the cylinder from above Or add a marker to the top/bottom of the ramp Or record cylinder and stopwatch using a video camera and review in slow motion (1) (1) (1) Ignore reference to light gates, this question is about a stopwatch method. The next question is about light gates. Max THREE from ADVANTAGES Light gates are instantaneous Or light gates avoid (human) reaction time Or light gates would be triggered automatically (by the edge of the cylinder) Light gates may reduce uncertainty in time Or light gates would lead to a smaller spread of times DISADVANTAGES Light gate would be triggered when the cylinder is already moving Light gates need to be adjusted at the same height above the ramp Or light gates need to be adjusted to be perpendicular to the edge of the ramp Or using light gates would require additional equipment to be set up (1) (1) (1) (1) Accept “time would be more accurate” Accept “repeat readings would be more precise” Accept “light gates would be more time consuming to set up correctly” Accept named equipment, e.g. datalogger, computer, etc 푡푡 =� 푔푔 3푠푠 �ℎ−푅푅 compares to y = mx + c where the gradient is 푔푔 3푠푠 So, g = gradient × 3s (1) (1) Number Answer Additional Guidance Mark All values correct All values given to 3 d.p. (allow 3 sf for the last two values) (1) (1) h / m t /",
+          "image": "/papers/wph11-oct-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit3-2025-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

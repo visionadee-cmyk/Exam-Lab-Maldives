@@ -1,0 +1,217 @@
+{
+  "paperId": "wma12-oct-2020-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-oct-2020-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "October 2020",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1023 22222... 12 3 444 4 xxx x    − =+−+− +− +       Attempts the binomial expansion to get the third and/or fourth term with an acceptable structure. The correct binomial coefficient must be combined with the correct power of x and the correct power of 2 but condone omission of brackets. You can ignore the signs between the terms and allow the terms to be listed. Allow for e.g. x   ±±     or C2 x  ±±   but condone omission of brackets. NB C45,C120== NB CCandCC== Alternative: 1010 910 9 8 22121... 488283!8 x xxxx  ×××     −= −= −+ −+ −+            Score M1 for 10 9 2...... x  ×  ± −+      or 10 9 8 2...... 3!8 x  ××  ±−+      M1 1024 1280720240 xx x=−+− 1024 1280x− B1 720x or −240x A1 720x and −240x A1 Note that if any of the “−”’s are “+ −“’s then penalise once on the first occurrence Allow the terms to be listed e.g. 1024, 1280 , 720 , 240xxx−− Apply isw once a correct answer is seen. Ignore any extra terms (4) (b) xxx  − =−+   or 33 1 xxx −−+ Correct expansion. May be implied by their work to find the constant. B1 () () 3291024 1280720240... x xx x xxx     − − = −+− + − +         constant term ( ) 9 10241280720 xx xx =× −− + This mark depends on having obtained an expression of the form BC A xx ++ for x  −   and at least a 3-term quadratic expression from part (a) so award for: \"1024\"\" 1280\"\"720\" AB C×+ ×− + × A, B, C non-zero. Allow 1 sign error on their values. May be seen as part of a complete expansion but there must be an attempt to calculate the value of the constant term with the above conditions. For reference, true value calculation is: 9216 + 7680 + 720 M1 = 17616 Correct value. Must be “extracted” if a complete expansion is found above. A1 (3) Total 7 Number Scheme Notes",
+          "image": "/papers/wma12-oct-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x − 0.25 0 0.25 0.5 0.75 y 0.462 0.577 0.653 0.686 0.698 Allow awrt these values and look for the values appearing in the body of the script or within their calculation in part (b). Also allow exact value for the 0.577 e.g. or B1 (1) (b) 0.25h= Correct strip width. May be implied by or 0.25 × B1 () {} \"0.25\" 0.462 0.698 2 \"0.577 \" 0.653 \"0.686\" A≈ ×++ ++ Correct application of the trapezium rule with their h Must be a correct application of the rule so e.g. () \"0.25\" 0.462 0.698 2 \"0.577 \" 0.653 \"0.686\" A ≈ ××++ ++ Scores M0 unless any missing brackets are implied by subsequent work. () { \"0.25\" 0.462 0.698 2 \"0.577 \" 0.653 \"0.686\" A≈×++ ++ Would also score M0 unless the closing bracket was implied by subsequent work Condone copying slips e.g. 0.426 instead of 0.462. Must use all the y-values. Repeated or missing y-values scores M0. Allow separate trapezia e.g. ()()()() 1 11 1 \"0.25\" 0.462 \"0.577 \"\"0.25\" \"0.577 \" 0.653\"0.25\" 0.653 \"0.686\"\"0.25\" \"0.686\" 0.698 2 22 2 A≈×++×+ +×++×+ Allow use of the function e.g. 0.250.7500.250.5 1 2222 2 0.252 5( 0.25)35(0.75)35(0)35(0.25)35(0.5)3 A − ≈     ×++++   −+++++    M1 = awrt 0.624 or oe e.g. accept awrt 0.624 or exact fraction but isw if necessary A1 Note that the calculator answer for the integral is 0.6265569683... (3) Total 4 Number Scheme Notes",
+          "image": "/papers/wma12-oct-2020/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( )( ) 4444108ab− −− + − + =− Attempts to set f ( 4)108−=− to obtain an equation in a and b. Score when you see “– 4” embedded in the equation or 2 correct terms (excluding the “+ 4”) on lhs. May be implied by e.g. 6416 44108ab− − − +=− Condone minor slips on the lhs e.g. one sign error between terms but must use − 108 M1 As an alternative for the first mark we will condone an attempt at long division. This requires a complete method to divide (ax – x + bx + 4) by (x + 4) to obtain a remainder in terms of a and b which is then equated to −108 For reference, the quotient is ax – (1+4a)x + 16a + b + 4 and the remainder is –4b – 64a – 12 6416 44108ab − − − +=− 1624 *ab⇒ += Correct equation obtained with no errors and at least one line of intermediate working if starting with e.g. ( ) ( )( ) 4444108ab− −− + − + =− A1* (2) (b) 11 1 22 2 ab    − + +=       Attempts to set f0  =   to obtain an equation in a and b. Condone slips. Score when you see “ ” embedded in the equation or 2 correct terms (excluding the “+ 4”) on lhs. May be implied by e.g. ab −++= The “= 0” may be implied when they attempt to solve simultaneously below M1 An alternative for the first mark is to attempt long division. This requires a complete method to divide (ax – x + bx + 4) by (2x – 1) to obtain a remainder in a and b which is then equated to 0 For reference, the quotient is aaba xx   + − + −+     and the remainder is 4 28 ba ++ 1624ab+= , 430ab+=− ...,... ab⇒= = Attempts to solve 1624ab+= simultaneously with their equation in a and b. This may be implied if values of a and b are obtained (e.g. calculator) M1 a = 2, b = −8 Correct values A1 (3) (c) ( ) f284x xx x= −−+ ( ) f6 28xxx ′ ⇒ = −− Correct derivative (follow through their a and b). Allow unsimplified and apply isw if necessary. Allow with the letters “a” and “b” and a “made up” “a” and “b”. B1ft (1) (d) 6 2 80 xx− −= ( )() 3 4 10xx⇒ − += ...x⇒= Sets their f ′(x) = 0 (may be implied) and solves a 3 te",
+          "image": "/papers/wma12-oct-2020/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 10040 15t= + −× Uses a + (n – 1)d with a = 100, d = 5 and n = 40. This may be implied by a correct expression e.g. 100 + 39 ́5 M1 = (£)295 Cao. Correct answer with no working scores both marks. A1 (2) (b) ( )() () 60 2 10060 15 S=× + −× or ( ) 10060 15 395 l = + −×= ( )() 60 100 395 S=+ Uses a correct sum formula with a = 100, d = 5 and n = 60 or n = 40. May be implied by a correct numerical expression. If using () na l+ with n = 40 you may see ( )() 40 100 295 + using their result from (a) and this scores M1 also. M1 Correct numerical expression with n = 60. If there are any missing brackets then this mark should be withheld unless the correct expression is implied by their answer. A1 = (£)14 850 Cao. Correct answer with no working scores 3 marks. Apply isw if necessary and award this mark once a correct answer is seen. A1 (3) (c) () () 2 60011018200 nn× + − ×− = Attempts to use a correct sum formula with a = 600, d = −10 and sets = 18 200. Condone poor use of brackets. M1 Correct equation which may be implied by subsequent work. A1 6005518200nn n− += 560518200 0nn−+ = 1213640 0nn −+ = * Obtains the printed answer with at least one intermediate line and no errors. Allow other variables to be used for n but the final answer must be as printed including “= 0” A1* (3) (d) () () nn− −= ( ) 56, 65n⇒= Attempts to solve the given quadratic. This may be implied by correct answers. Apply general guidance if necessary but must reach at least one value for n. (Allow them to use x rather than n) M1 Correct values (ignore how they are labelled e.g. allow x = ...) A1 (2) (e) E.g. (n =) 65 because e.g. the money has already been saved after 56 months States (n =) 65 and gives a suitable reason – see below for examples of acceptable comments. There must be no contradictory statements and any calculations must be correct. B1 (1) Total 11 Acceptable comments for 5(e): n = 65 means t = 600 – 10 ́64 = –40 which is not possible/doesn’t make sense/etc. n = 65 because Lina will have s",
+          "image": "/papers/wma12-oct-2020/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "32 6 9 2 71xxxx − +=− + − ...⇒ Sets C = C , and collects terms M1 () 213100xx x⇒± + − + = Correct cubic equation. The “= 0” may be implied by their attempt to solve. A1 Examples: ( ) () 213101......(1)(...)(..)...xx xx x xx x xx+ − + = − + + = − + + ⇒= Attempts to factorise using (x – 1) as a factor or uses long division by (x – 1) to obtain a quadratic factor and proceeds to solve quadratic or factorise and solve NB ( ) () xx xx xx+ − +=− +− or 21310 (1)(...)(..)...xx xx x xx+ − + = − + + ⇒= Attempts 3 factors directly (by considering roots) or 21310 0...xx xx+ − + =⇒= Solves (using calculator) to obtain 3 roots (may need to check if cubic incorrect) M1 ( ) 2,5 or2, 5xy= = Correct values from a correct cubic. Allow as a coordinate pair or written separately. If there are any errors in the algebra e.g. wrong factors, wrong working etc. this mark should be withheld even if they have (2, 5) and score as M1A1B1(Second M on EPEN)A0 A1 Special Case If you see: 6 9 2 71xxxx− +=− + − 21310 0xx x⇒+ − += ( ) 2,5 or2, 5xy ⇒= = Score M1A1B1(Second M on EPEN)A0 (4) (b) 1nn xx + → For increasing any power of x by 1 for C or C or for ± (C – C ) M1 ( ) {} ( ) 27169 d21310 dxx xx xxx x x± − + −− − + =± − − + − ∫∫ 43 2 43 2 xx x x  =±− − + −   or ()() {} 27 1d6 9 dxx x xx x± − +− − −+ ∫∫ 3 242 xxxx xx   =±− + − − − +     or () () 27 1d,6 9 d9 3 242 xxxx xx xxxx xx− +− =− + −−+ =− + ∫∫ dM1: For correct integration of 1 term for C and one term for C or for correct integration for 2 terms of their ± (C – C ) A1: Fully correct integration of both C and C or for ± (C – C ). Award this mark as soon as fully correct integration is seen and ignore subsequent work. dM1A1 ( ) ( ) ( ) ( ) ( ) ( ) 3 232 2 213 22 113 1 10 210 1 4 3243 2   =− − +− −− − +−   Fully correct strategy for the area. Depends on both previous M marks. Uses the limits “2” and 1 in their “changed” expression(s) and subtracts either way round. ddM1 = If the attempt is correct apart from subtracting",
+          "image": "/papers/wma12-oct-2020/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-19.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7i",
+          "text": "Part 7i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1sin1 tan sin tancos cos θ θ θ θθ θ +=+ or 1sincos tan tancossin θθ θ θ θθ +=+ Uses sin tan cos θ θ θ ≡ on both terms M1 sincossincos cossinsin cos θθ θ θ θ θ θθ + += or sincos sin cossin cos θθ θθ θθ + Uses sin tan cos θ θ θ ≡ and 1cos tansin θ θθ ≡ and attempts common denominator of sinθcosθ with a 2 term numerator one of which is correct. Or attempts 2 separate fractions with a denominator of sinθcosθ one of which is correct. Depends on the first mark. dM1 * sin cos θθ = or cos sinθθ Correct proof with no notation errors or missing variables but allow “≡” instead of “=”. If there are any spurious “= 0”’s alongside the proof score A0. A1* (3) Alternative 1 for (i) 1tan1tan1 tanor tantantantan θθ θ θ θ θθ  + +=+   Attempts common denominator of tanθ M1 sec1cos tancossin θθ θ θθ ==× Or sin 1cos cos sin cossin cos θ θ θ θ θθ θ + ==× Applies appropriate and correct identities to obtain in terms of sinθ and cosθ only and eliminates “double decker” fractions if necessary dM1 * sin cos θθ = or cos sinθθ Correct proof with no notation errors or missing variables but allow “≡” instead of “=”. If there are any spurious “= 0”’s alongside the proof score A0. A1* Alternative 2 for (i) 11sin1 tancos tansin coscoscos θ θθ θ θθ θθ += ⇒ += Uses sin tan cos θ θ θ ≡ and multiplies through by sinθ or cosθ M1 sincos1θθ⇒+= Uses sin tan cos θ θ θ ≡ and multiplies through by sinθ and cosθ dM1 sincos1θθ+= is true hence proved Fully correct work reaching a correct identity with a conclusion. If there are any spurious “= 0”’s alongside the proof score A0. A1* (ii) () 3 cos 2101x + °= () cos 210 x⇒+ °= () ( ) cos 210 x ⇒+ °=± Divides by 3 and takes square root of both sides. The “±” is not required. M1 ( ) 210cos\"\" x −  + °=±    ( ) cos\"\"10 x −  ± −°   ⇒= Applies ( ) cos\"\"10 x −  ± ±°   = You may need to check their values if no working is shown. M1 For reference 21054.735..., 125.264...x+ °= 22.4x= ° or 57.6x= ° Awrt one of these A1 22.4x= ° and 57.6x= ° Awrt both ",
+          "image": "/papers/wma12-oct-2020/q7-7i.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-23.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 ... n n Sa arar − =+ ++ ... n n rSar arar = + ++ Writes down at least 3 correct terms of a geometric series and multiplies their sequence by r. There may be extra incorrect terms but allow this mark if there are 3 correct terms in both sequences and at least one “+” in both sequences but see special case below M1 n nn SrSa ar−=− or n nn rSSara −= − Obtains either equation where both S n and rSn had the correct first and last terms and at least one other correct term but no incorrect terms. Both sides must be seen unfactorised. A1(M1 on EPEN) ( ) () () n n nn ar rS arS r − − = − ⇒= − * Factorises both sides and divides by 1 – r to obtain the printed answer Should be as printed but allow e.g. () ( ) n n ar S r − = − but not () ( ) n n ar S r − = − unless followed by correct version A1* Special case: If terms are listed rather than added and the working is otherwise correct score 110 See next page for proof by induction. (3) Alternative for (a): ... n n Sa arar − =+ ++ ( )( ) () 11... n n r Sr a arar − − =− + ++ or ( ) () ( ) 1... n n r a arar S r − − + ++ = − Writes down at least 3 correct terms of a geometric series and multiplies both sides by 1 – r or multiplies the right hand side by r r − − There may be extra incorrect terms but allow this mark if there are 3 correct terms M1 ( ) n n r Sa ar−=− or n n a ar S r − = − Obtains the above equation where S n had the correct first and last terms and at least one other correct term and no incorrect terms. Right hand side must be seen unfactorised unless the “a” was factored out earlier A1 (M1 on EPEN) ( ) () nn n r Sa arar− =−=− () * n n ar S r − ⇒= − or n n a ar S r − = − () * n n ar S r − ⇒= − Should be as printed but allow e.g. ( ) ( ) n n ar S r − = − but not () ( ) n n ar S r − = − unless followed by correct version A1* (b) Mark (b) and (c) together 20.4820.48 rr=− ⇒=− Correct strategy for r. Allow for dividing the 2 given terms either way round and attempting to cube root. M1 = −0.4 Correct value (and no others) ",
+          "image": "/papers/wma12-oct-2020/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-27.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9i",
+          "text": "Part 9i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 4 log 81 = or 4 log 3= May be implied by e.g. () log43 or 81 xx xx ++ =⇒= −− B1 Examples: () log5log 81 log x x + +− = or ()() 33 3 log5log 21log x xx x + +−−= − or ()() log 21log 81 log 81 21xx−+ =− This mark is for combining 2 log terms correctly and can be awarded following an incorrect rearrangement e.g. ()()()() log54 log 21log5log 214xxx x+−=−⇒ ++−= ()() log 215...xx⇒− += M1 x x + = − Obtains this equation in any form e.g. x x + = − A1 x= Cao A1 Condone the omission of the base throughout (4) Alternative for first 3 marks: () () ( ) () log54log 21 log54 log 2133 xx xx +−− + −=−⇒= ( ) log5 33 2121 x x xx + − + ⇒× = −⇒ = − Score B1 for sight of 3 -4 and M1 for applying 3 33 abab ±± = × and A1 as above (a) Special Case ( )() () () log5 log5log 214481 log 2121161 x x xxx xx + + + −−=⇒=⇒ = ⇒= −− Scores B1(implied) M0 A0 A1 (ii)(a) 3 33 yy+ = × or 22 2oror 2 4or yyy yy −−− =×× One correct index law seen or implied anywhere in their working B1 3227 32 2... yy y y+−− × = × ×× = Applies both correct index laws to the lhs of the equation M1(B1 on EPEN) 27 2 yy− ×= × or 427 2 y y = × or y y = Isolates the terms in y (as powers of 3 and 2(or 4)) on the lhs and the constants on the rhs. There must be no incorrect work to combine terms e.g. yy ×= etc. M1 () 0.752 y = * Cso. Reaches the given answer with no errors and all steps shown with 2 2y appearing as 4 y at some point. A1* (4) Alternative 1 for (ii)(a) using logs: ( ) log 32log 3log 2 yy yy+−+− ×= + Or ( ) log 33 log 3 y y + = + Or ( ) log 21 2log 2 y y − = − One correct log law seen or implied anywhere in their working. No bracketing errors allowed for this mark. B1 ()() log 3log 23 log 31 2log 2 yy yy +− += + +− Applies the correct log laws to the lhs. You can condone missing brackets around the y + 3 and/or 1 – 2y M1(B1 on EPEN) () () 3 log 31 2log 2 log108log 3log 2log108 3 log 3 log 2 yy yy+ +−= ⇒ − = − − loglog y y ⇒= × Proceeds to isolate the terms in y on the lhs and combines the constants on the rhs or e.g. ",
+          "image": "/papers/wma12-oct-2020/q9-9i.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2020/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma12-oct-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2020-unit1-2020-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-oct-2020/page-01.png",
+      "/papers/wma12-oct-2020/page-02.png",
+      "/papers/wma12-oct-2020/page-03.png",
+      "/papers/wma12-oct-2020/page-04.png",
+      "/papers/wma12-oct-2020/page-05.png",
+      "/papers/wma12-oct-2020/page-06.png",
+      "/papers/wma12-oct-2020/page-07.png",
+      "/papers/wma12-oct-2020/page-08.png",
+      "/papers/wma12-oct-2020/page-09.png",
+      "/papers/wma12-oct-2020/page-10.png",
+      "/papers/wma12-oct-2020/page-11.png",
+      "/papers/wma12-oct-2020/page-12.png",
+      "/papers/wma12-oct-2020/page-13.png",
+      "/papers/wma12-oct-2020/page-14.png",
+      "/papers/wma12-oct-2020/page-15.png",
+      "/papers/wma12-oct-2020/page-16.png",
+      "/papers/wma12-oct-2020/page-17.png",
+      "/papers/wma12-oct-2020/page-18.png",
+      "/papers/wma12-oct-2020/page-19.png",
+      "/papers/wma12-oct-2020/page-20.png",
+      "/papers/wma12-oct-2020/page-21.png",
+      "/papers/wma12-oct-2020/page-22.png",
+      "/papers/wma12-oct-2020/page-23.png",
+      "/papers/wma12-oct-2020/page-24.png",
+      "/papers/wma12-oct-2020/page-25.png",
+      "/papers/wma12-oct-2020/page-26.png",
+      "/papers/wma12-oct-2020/page-27.png",
+      "/papers/wma12-oct-2020/page-28.png",
+      "/papers/wma12-oct-2020/page-29.png",
+      "/papers/wma12-oct-2020/page-30.png",
+      "/papers/wma12-oct-2020/page-31.png",
+      "/papers/wma12-oct-2020/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

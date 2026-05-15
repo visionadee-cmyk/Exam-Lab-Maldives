@@ -1,0 +1,147 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(conical) flask (1) gas jar (1)",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "no bung in second flask (1) gas jar should not be inverted (1)",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to dry the gas / remove water turns white/bleaches (1)",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "chlorine / gas is poisonous / toxic 0620/61 May/June 2019",
+          "image": "/papers/chemistry-0620-2019/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results volumes of aqueous sodium carbonate boxes completed correctly 1, 2, 4, 5, 6, 7, 8 (1) heights of solid boxes completed 12, 24, 48, 60, 73, 73, 73 (1) in mm (1)",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x-axis labelled as “volume of aqueous sodium carbonate / cm (1) all 7 points plotted correctly (2) two intersecting straight line graphs drawn with a ruler (1)",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "working shown on graph in correct place (1) value from graph (1)",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "height increases / proportional to volume / more solid (1) level off / becomes constant (1)",
+          "image": "/papers/chemistry-0620-2019/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "same heights / at 73 mm (1) all barium nitrate reacted (1)",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use burette / pipette to measure out aqueous barium nitrate / instead of measuring cylinder dry (1) weigh solid (1) and compare 0620/61 May/June 2019 Tests on solution F",
+          "image": "/papers/chemistry-0620-2019/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "bubbles / fizz / effervescence (1) lighted splint / flame (1) pops (1) Tests on solid G carbonate (1) 0620/61 May/June 2019 4 any six from: • weigh nails / use set number of nails • place nails in a suitable container • add water to nails • leave in water for a suitable time ( ≥ 1 week) • observe nails / compare / reweigh nails • repeat with nail with other coverings • nail with least rust / mass increase has best coating Max 6",
+          "image": "/papers/chemistry-0620-2019/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

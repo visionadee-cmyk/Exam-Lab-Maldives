@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2025-unit4-june-p42-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit4-june-p42-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "May/June 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I M2 6 crosses and 2 dots in third shell of S M3 ‘+’ charge on each Na ion on correct answer line and ‘2–‘ charge on S ion on correct answer line p = 37 and 37 n = 48 and 50 e = 37 and 36 May/June 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C2H4 + 3O2 → 2CO2 + 2H2O M1 CO2 + H2O M2 correct equation M2 decreases M3 decreases M4 no change M2 frequency of collisions between particles increases M3 higher percentage / proportion / fraction of collisions / particles have energy greater than / equal to activation energy M2 correct structure M2 volume = 1000  0.2(00) / 0.250 = 800 cm",
+          "image": "/papers/chemistry-0620-2025/q6-6c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit4-2025-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

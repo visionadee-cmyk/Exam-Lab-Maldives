@@ -1,0 +1,151 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-november-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "October/November 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All arrays, variables, constants and other identifiers should have meaningful names. (i) State the name, data type and use of three arrays you have created for Task 1. Array 1 name ..................................................................................................................... Data type .......................................................",
+      "text": "1 (a) All arrays, variables, constants and other identifiers should have meaningful names. (i) State the name, data type and use of three arrays you have created for Task 1. Array 1 name ..................................................................................................................... Data type .......................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "IF Booking36[Cabin] = \"\" THEN OUTPUT \"Week 36 \", \" Cabin \", CabinName[Cabin] \" Capacity \", Capacity[Cabin] ENDIF IF Booking34[Cabin] = \"\" THEN OUTPUT \"Week 37 \", \" Cabin \", CabinName[Cabin] \" Capacity \", Capacity[Cabin] ENDIF IF Booking37[Cabin] = \"\" THEN OUTPUT \"Week 38 \", \" Cabin \", CabinName[Cabin] \" Capacity \", Capacity[Cabin] ENDIF IF Booking39[Cabin] = \"\" THEN OUTPUT \"Week 39 \", \" Cabin \", CabinName[Cabin] \" Capacity \", Capacity[Cabin] ENDIF NEXT Cabin",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Max 2 marks for suitable description of validation related to Task 2 Name or description of check (1 mark) further expansion (1 mark) E.g. Presence check (1 mark) to check value has been input (1 mark) Search list of stored cabin names (1 mark) if found input accepted // if not found input rejected (1 mark) 1 mark for each test data item related to Task 2 (Answers MUST relate to pre-release task and match check described) e.g. Valid test data: Hetty Invalid test data: Henry 0478/23 October/November 2018 four from: • Use the booking code // use a length of stay variable • Explanation of finding the length of stay e.g. counting the number of times the booking code is found • « explanation of how your program checks the length of stay > 2 weeks • Explanation of how your program calculated the discounted cost • Explanation of how your program output the or iginal holiday cost and the discounted cost Section B Integer – 1 mark for description 1 mark for example e.g. Any whole number « « for example a week number / 26 String – 1 mark for description 1 mark for example e.g. Any data item that contains letters and/or numbers and/or special characters « for example someone’s name / def7773@. 0478/23 October/November 2018 Condition controlled loop – 1 mark for each correct answer e.g. WHILE Number > 0 DO ... ENDWHILE // REPEAT ... UNTIL Number > 0 Conditional statement - 1 mark for each correct answer e.g. IF Number = 0 THEN (... ELSE) Number ← 1 ENDIF // CASE Number OF 0: Number ← (... OTHERWISE) ... (ENDCASE) Totalling - 1 mark for each correct answer e.g. Total ← Total + Number",
+          "image": "/papers/computer_science-0478-2018/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each error identified plus suggested correction Line 1 or Total = 100.00 : correction Total = 0(.00) Line 8 or Count = Count + 1 : correction This line should be removed (not required in a FOR loop) // use of REPEAT...UNTIL or WHILE...DO...ENDWHILE Line 7 or PRINT Total /30 : correction This line should be outside the loop (or it will print each iteration)",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct purpose: Find/output average height 0478/23 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Fib Prev2 Prev1 Number OUTPUT 1 0 1 7 1 1 1 6 2 1 2 5 3 2 3 4 5 3 5 3 8 5 8 2 8 < 1 Mark > <-------- 1 Mark --------> <1 Mark> <1 Mark> 0478/23 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Fib Prev2 Prev1 Number OUTPUT 1 0 1 2 1 <-------------- 1 Mark --------------> <-------- 1 Mark -------->",
+          "image": "/papers/computer_science-0478-2018/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct answer: No 1 mark for correct explanation: No field in this table contains unique identifier 0478/23 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct answer Field Data type Tree Type Text Size3 Number Size2 In Boolean/Text",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct row (max 3) and 1 mark for the correct order Peach 9.25 No Plum 8.95 Yes Nectarine 8.50 Yes",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark correct Fields included 1 mark correct Table and Show on all the four fields required 1 mark for correct Sort, must be ascending 1 mark for correct Criteria for the four fields Field: Tree Type Size1 In Size2 In Size 3 In Table: TREETAB TREETAB TREETAB TREETAB Sort: Ascending Show:; ; ; ;  Criteria: =No =No =No or:",
+          "image": "/papers/computer_science-0478-2018/q6-6d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

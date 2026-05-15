@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2022-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Place the metre rule on the pivot at the 50.0 cm mark. • Place object P with its centre on the metre rule at the 10.0 cm mark. (i) Record, in Table 1.1, the distance a from the centre of object P to the pivot. [1] (ii) • Place object Q on the metre rule. • Keep object P at the 10.0 cm mark and adjust the position of object Q until th",
+      "text": "1 (a) • Place the metre rule on the pivot at the 50.0 cm mark. • Place object P with its centre on the metre rule at the 10.0 cm mark. (i) Record, in Table 1.1, the distance a from the centre of object P to the pivot. [1] (ii) • Place object Q on the metre rule. • Keep object P at the 10.0 cm mark and adjust the position of object Q until th",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "axes correctly labelled with quantity A ND unit A ND the right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method clearly shown on graph triangle covering at least ½ of candidate’s line between extreme plots G = 1.8 – 2.2 inclusive I to at least 2 decimal places and < 1 A V to at least 1 decimal place and < 3 V R correct 0625/52 May/June 2022 C in parallel with resistors in series voltmeter across combination A ND the rest of the circuit correct I > I V = V to within 0.5 V (or with supervisor’s value) A ND R correct",
+          "image": "/papers/physics-0625-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R present 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2022/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "measure V and I for each resistor and calculate R OR connect each resistor to the same voltage supply and measure the current OR connect resistors in series and measure the voltage across each of them OR connect resistors in parallel and measure the current through them check to see if the results are equal / close / within 10% u value < 30 cm v = 75 – u to within 1 cm f",
+          "image": "/papers/physics-0625-2022/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "new value o f u < than previous value and > 15 cm v = 85 – u to within 1.0 cm",
+          "image": "/papers/physics-0625-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f A calculation correct f A in range 14 – cm inclusive 0625/52 May/June 2022 two from: use darkened room / bright(er) object move lens slowly (to find sharpest image) move lens back and forth (to find sharpest image) ensure that object, lens and screen are vertical object and (centre of) lens same height (above bench) perpendicular reading/viewing of the ruler scale mark the centre of the lens on its holde r any integer between 5 and 15 (inclusive) (a straight line) is a way of taking an average OR gradient gives an average value for f OR anomalous results can be seen (and repeated or ignored) 0625/52 May/June 2022 method: MP1 place disc between heated cylinder and metal cylinde r / set up apparatus as shown in diagram MP2 measure the time for lower cylinder to reach a certain temperature (rise) /measure the temperature (rise) reached in a certain time MP3 repeat with the other discs MP4, MP5 key variables: any two from: thickness of disc temperature of heated cylinder initial temperature of lower cylinder initial temperature of the disc voltage/current/power of heater time (of heating) (if temperature change is measured) OR temperature change (if time of heating is measured) MP6 table: table with columns for (material of) disc, time / temperature difference (depending on MP2) with units in the headings only MP7 conclusion: (draw a graph/bar chart to) compare temperatures reached (in a certain time) / heating times (for a given temperature rise) with the material of the insulator – the disc with the lowest (final) temperature (difference) / takes the longest time, is the best insulato r 0625/52 May/June 2022 Additional graph notes : NOTE: The principle to apply here is ‘could I draw a signific antly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line. The only mark available in th",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

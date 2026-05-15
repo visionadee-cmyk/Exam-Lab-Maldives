@@ -1,0 +1,655 @@
+{
+  "paperId": "physics-0625-2009-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "physics-0625-2009-unit1-november-p12-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/12",
+  "session": "October/November 2009",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car accelerates from traffic lights. The graph shows the car’s speed plotted against time. time / s 20 10 0 0 speed m / s How far does the car travel before it reaches a constant speed? A 10 m B   20 m C   100 m D   200 m",
+      "text": "A car accelerates from traffic lights. The graph shows the car’s speed plotted against time. time / s 20 10 0 0 speed m / s How far does the car travel before it reaches a constant speed? A 10 m B   20 m C   100 m D   200 m",
+      "options": [
+        "A 10 m B   20 m C   100 m D   200 m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which property of a body can be measured in newtons? A density, B mass, C volume, D weight",
+      "text": "Which property of a body can be measured in newtons? A density, B mass, C volume, D weight",
+      "options": [
+        "A density",
+        "B mass",
+        "C volume",
+        "D weight"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A stopwatch is used to time an athlete running 100 m. The timekeeper forgets to reset the watch to zero before using it to time another athlete running 100 m. 60 30 10 45 5 15 20 25 35 40 50 55 seconds 60 30 10 45 5 15 20 25 35 40 50 55 seconds stopwatch at end of first athlete’s run stopwatch at end of second athlete’s run How long does the second athlete take to run 100 m? A 11.2 s B   11.4 s C   12.4 s D   23.8 s 3",
+      "text": "A stopwatch is used to time an athlete running 100 m. The timekeeper forgets to reset the watch to zero before using it to time another athlete running 100 m. 60 30 10 45 5 15 20 25 35 40 50 55 seconds 60 30 10 45 5 15 20 25 35 40 50 55 seconds stopwatch at end of first athlete’s run stopwatch at end of second athlete’s run How long does the second athlete take to run 100 m? A 11.2 s B   11.4 s C   12.4 s D   23.8 s 3",
+      "options": [
+        "A 11.2 s B   11.4 s C   12.4 s D   23.8 s 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ball is thrown upwards. What effect does the force of gravity have on the ball? A It produces a constant acceleration downwards., B It produces a constant acceleration upwards., C It produces a decreasing acceleration upwards., D It produces an increasing acceleration downwards.",
+      "text": "A ball is thrown upwards. What effect does the force of gravity have on the ball? A It produces a constant acceleration downwards., B It produces a constant acceleration upwards., C It produces a decreasing acceleration upwards., D It produces an increasing acceleration downwards.",
+      "options": [
+        "A It produces a constant acceleration downwards.",
+        "B It produces a constant acceleration upwards.",
+        "C It produces a decreasing acceleration upwards.",
+        "D It produces an increasing acceleration downwards."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show a rectangular box with inside measurements of 5 cm × 6 cm × 4 cm. 4 cm 5 cm 6 cm liquid total mass = 220 gmass = 40 g The box has a mass of 40 g when empty. When filled with a liquid, it has a total mass of 220 g. What is the density of the liquid? A )46(5 220 ×× g / cm 3 B )46(5 ) 40220 ( ×× − g / cm 3 C 220 )46(5×× g / cm 3 D 40)(220 4)6(5 − ×× g / cm 3 4",
+      "text": "The diagrams show a rectangular box with inside measurements of 5 cm × 6 cm × 4 cm. 4 cm 5 cm 6 cm liquid total mass = 220 gmass = 40 g The box has a mass of 40 g when empty. When filled with a liquid, it has a total mass of 220 g. What is the density of the liquid? A )46(5 220 ×× g / cm 3 B )46(5 ) 40220 ( ×× − g / cm 3 C 220 )46(5×× g / cm 3 D 40)(220 4)6(5 − ×× g / cm 3 4",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A cup contains hot liquid. Some of the liquid evaporates as it cools. What happens to the mass and to the weight of the liquid in the cup as it cools? mass          weight A decreases          decreases, B decreases stays the same, C stays the same decreases, D stays the same stays the same",
+      "text": "A cup contains hot liquid. Some of the liquid evaporates as it cools. What happens to the mass and to the weight of the liquid in the cup as it cools? mass          weight A decreases          decreases, B decreases stays the same, C stays the same decreases, D stays the same stays the same",
+      "options": [
+        "A decreases          decreases",
+        "B decreases stays the same",
+        "C stays the same decreases",
+        "D stays the same stays the same"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The object in the diagram is acted upon by the two forces shown. object 3 N2 N What is the effect of these forces? A The object moves to the left with constant speed., B The object moves to the left with constant acceleration., C The object moves to the right with constant speed., D The object moves to the right with constant acceleration.",
+      "text": "The object in the diagram is acted upon by the two forces shown. object 3 N2 N What is the effect of these forces? A The object moves to the left with constant speed., B The object moves to the left with constant acceleration., C The object moves to the right with constant speed., D The object moves to the right with constant acceleration.",
+      "options": [
+        "A The object moves to the left with constant speed.",
+        "B The object moves to the left with constant acceleration.",
+        "C The object moves to the right with constant speed.",
+        "D The object moves to the right with constant acceleration."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Passengers   are   not allowed to stand on the upper deck of double-decker buses. upper deck lower deck Why is this? A They would cause the bus to become unstable., B They would cause the bus to slow down., C They would increase the kinetic energy of the bus., D They would lower the centre of mass of the bus. 5",
+      "text": "Passengers   are   not allowed to stand on the upper deck of double-decker buses. upper deck lower deck Why is this? A They would cause the bus to become unstable., B They would cause the bus to slow down., C They would increase the kinetic energy of the bus., D They would lower the centre of mass of the bus. 5",
+      "options": [
+        "A They would cause the bus to become unstable.",
+        "B They would cause the bus to slow down.",
+        "C They would increase the kinetic energy of the bus.",
+        "D They would lower the centre of mass of the bus. 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows the times taken for four children to run up a set of stairs. Which child’s power is greatest? mass of child / kg         time / s A 40                10, B 40                20, C 60                10, D 60                20",
+      "text": "The table shows the times taken for four children to run up a set of stairs. Which child’s power is greatest? mass of child / kg         time / s A 40                10, B 40                20, C 60                10, D 60                20",
+      "options": [
+        "A 40                10",
+        "B 40                20",
+        "C 60                10",
+        "D 60                20"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a microphone being used in an interview. microphone Which energy change takes place in the microphone? input energy output energy A chemical         electrical, B electrical         chemical, C electrical           sound, D sound           electrical",
+      "text": "The diagram shows a microphone being used in an interview. microphone Which energy change takes place in the microphone? input energy output energy A chemical         electrical, B electrical         chemical, C electrical           sound, D sound           electrical",
+      "options": [
+        "A chemical         electrical",
+        "B electrical         chemical",
+        "C electrical           sound",
+        "D sound           electrical"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show two swimming pools. One contains fresh water and the other contains salt water. Salt water is more dense than fresh water. At which labelled point is the pressure the greatest? A B fresh water (less dense) C D salt water (more dense) water surface water surface 6",
+      "text": "The diagrams show two swimming pools. One contains fresh water and the other contains salt water. Salt water is more dense than fresh water. At which labelled point is the pressure the greatest? A B fresh water (less dense) C D salt water (more dense) water surface water surface 6",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  water  manometer  is  used  to  measure  the  pressure  of  a  gas  supply  to  a  house.  It  gives  a reading of h cm of water. gas supply h cm Why is it better to use water rather than mercury in this manometer? A h would be too large if mercury were used., B h would be too small if mercury were used., C The tube would need to be narrower if mercury were used., D The tube would need to be wider if mercury were used.",
+      "text": "A  water  manometer  is  used  to  measure  the  pressure  of  a  gas  supply  to  a  house.  It  gives  a reading of h cm of water. gas supply h cm Why is it better to use water rather than mercury in this manometer? A h would be too large if mercury were used., B h would be too small if mercury were used., C The tube would need to be narrower if mercury were used., D The tube would need to be wider if mercury were used.",
+      "options": [
+        "A h would be too large if mercury were used.",
+        "B h would be too small if mercury were used.",
+        "C The tube would need to be narrower if mercury were used.",
+        "D The tube would need to be wider if mercury were used."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To mark a temperature scale on a thermometer, standard temperatures known as fixed points are needed. Which of these is a fixed point? A room temperature, B the temperature inside a freezer, C the temperature of pure melting ice, D the temperature of pure warm water",
+      "text": "To mark a temperature scale on a thermometer, standard temperatures known as fixed points are needed. Which of these is a fixed point? A room temperature, B the temperature inside a freezer, C the temperature of pure melting ice, D the temperature of pure warm water",
+      "options": [
+        "A room temperature",
+        "B the temperature inside a freezer",
+        "C the temperature of pure melting ice",
+        "D the temperature of pure warm water"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table gives the melting points and boiling points of glycerine and benzene. melting point    boiling point glycerine         18 °C         290 °C benzene         5.4 °C          80 °C At which temperature will both glycerine and benzene be liquid? A 0 °C B 50 °C C 100 °C D 150 °C 7",
+      "text": "The table gives the melting points and boiling points of glycerine and benzene. melting point    boiling point glycerine         18 °C         290 °C benzene         5.4 °C          80 °C At which temperature will both glycerine and benzene be liquid? A 0 °C B 50 °C C 100 °C D 150 °C 7",
+      "options": [
+        "A 0 °C B 50 °C C 100 °C D 150 °C 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Brownian motion is observed by looking at smoke particles through a microscope. How do the smoke particles move in Brownian motion? A all in the same direction, B at random, C in circles, D vibrating about fixed points",
+      "text": "Brownian motion is observed by looking at smoke particles through a microscope. How do the smoke particles move in Brownian motion? A all in the same direction, B at random, C in circles, D vibrating about fixed points",
+      "options": [
+        "A all in the same direction",
+        "B at random",
+        "C in circles",
+        "D vibrating about fixed points"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A small amount of air is introduced into the vacuum above the mercury in a mercury barometer tube. The mercury level goes down. Why does the mercury level go down? A The air molecules cool the mercury and make it contract., B The air molecules decrease the pressure above the mercury., C The air molecules heat the mercury and make it expand., D The air molecules increase the pressure above the mercury.",
+      "text": "A small amount of air is introduced into the vacuum above the mercury in a mercury barometer tube. The mercury level goes down. Why does the mercury level go down? A The air molecules cool the mercury and make it contract., B The air molecules decrease the pressure above the mercury., C The air molecules heat the mercury and make it expand., D The air molecules increase the pressure above the mercury.",
+      "options": [
+        "A The air molecules cool the mercury and make it contract.",
+        "B The air molecules decrease the pressure above the mercury.",
+        "C The air molecules heat the mercury and make it expand.",
+        "D The air molecules increase the pressure above the mercury."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student warms her hands near a fire. Which waves carry most heat to her hands and are these waves electromagnetic? waves        electromagnetic A infra-red            no, B infra-red            yes, C visible light no, D visible light yes 8",
+      "text": "A student warms her hands near a fire. Which waves carry most heat to her hands and are these waves electromagnetic? waves        electromagnetic A infra-red            no, B infra-red            yes, C visible light no, D visible light yes 8",
+      "options": [
+        "A infra-red            no",
+        "B infra-red            yes",
+        "C visible light no",
+        "D visible light yes 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A beaker contains water at room temperature. X Y water How could a convection current be set up in the water? A cool the water at X, B cool the water at Y, C stir the water at X, D stir the water at Y",
+      "text": "A beaker contains water at room temperature. X Y water How could a convection current be set up in the water? A cool the water at X, B cool the water at Y, C stir the water at X, D stir the water at Y",
+      "options": [
+        "A cool the water at X",
+        "B cool the water at Y",
+        "C stir the water at X",
+        "D stir the water at Y"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which range of frequencies typically can be heard by a 10 year-old child? A 20 Hz – 2000 Hz, B 20 Hz – 20 000 Hz, C 200 Hz – 2000 Hz, D 200 Hz – 20 000 Hz",
+      "text": "Which range of frequencies typically can be heard by a 10 year-old child? A 20 Hz – 2000 Hz, B 20 Hz – 20 000 Hz, C 200 Hz – 2000 Hz, D 200 Hz – 20 000 Hz",
+      "options": [
+        "A 20 Hz – 2000 Hz",
+        "B 20 Hz – 20 000 Hz",
+        "C 200 Hz – 2000 Hz",
+        "D 200 Hz – 20 000 Hz"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Astronaut 1 uses a hammer to mend a satellite in space. Astronaut 2 is nearby. There is no air in space. astronaut 1astronaut 2 hammer Compared with the sound heard if they were working on Earth, what does astronaut 2 hear? A a louder sound, B a quieter sound, C a sound of the same loudness, D no sound at all 9",
+      "text": "Astronaut 1 uses a hammer to mend a satellite in space. Astronaut 2 is nearby. There is no air in space. astronaut 1astronaut 2 hammer Compared with the sound heard if they were working on Earth, what does astronaut 2 hear? A a louder sound, B a quieter sound, C a sound of the same loudness, D no sound at all 9",
+      "options": [
+        "A a louder sound",
+        "B a quieter sound",
+        "C a sound of the same loudness",
+        "D no sound at all 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a wave. Which labelled distance is the wavelength? A B C D",
+      "text": "The diagram shows a wave. Which labelled distance is the wavelength? A B C D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Sound waves travel from a point X to another point Y. XY Which diagram represents the movement of the air molecules, caused by the sound waves, in the region between X and Y. XY D C B A",
+      "text": "Sound waves travel from a point X to another point Y. XY Which diagram represents the movement of the air molecules, caused by the sound waves, in the region between X and Y. XY D C B A",
+      "options": [
+        "D C B A"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object O is placed in front of a converging lens of focal length f. At which point will the top of the image be seen? O f f A B C D 10",
+      "text": "An object O is placed in front of a converging lens of focal length f. At which point will the top of the image be seen? O f f A B C D 10",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light in glass is incident on a boundary with air. Which path does the ray of light take when the angle of incidence i is less than the critical angle? A B C D air glass i ray of light",
+      "text": "A ray of light in glass is incident on a boundary with air. Which path does the ray of light take when the angle of incidence i is less than the critical angle? A B C D air glass i ray of light",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A pupil measures the potential difference across a device and the current in it. Which calculation gives the resistance of the device? A current + potential difference, B current   ÷ potential difference, C potential   difference   ÷ current, D potential   difference   × current",
+      "text": "A pupil measures the potential difference across a device and the current in it. Which calculation gives the resistance of the device? A current + potential difference, B current   ÷ potential difference, C potential   difference   ÷ current, D potential   difference   × current",
+      "options": [
+        "A current + potential difference",
+        "B current   ÷ potential difference",
+        "C potential   difference   ÷ current",
+        "D potential   difference   × current"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student uses a length of wire as a resistor. He discovers that the resistance of the wire is too small. To be certain of making a resistor of higher value, he should use a piece of wire that is A longer and thicker., B longer and thinner., C shorter and thicker., D shorter and thinner.",
+      "text": "A student uses a length of wire as a resistor. He discovers that the resistance of the wire is too small. To be certain of making a resistor of higher value, he should use a piece of wire that is A longer and thicker., B longer and thinner., C shorter and thicker., D shorter and thinner.",
+      "options": [
+        "A longer and thicker.",
+        "B longer and thinner.",
+        "C shorter and thicker.",
+        "D shorter and thinner."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A permanent magnet is brought near to a piece of copper. The copper is not attracted by the magnet. Why is there no attraction? A Copper is ferrous but is only attracted by an electromagnet., B Copper is ferrous but is not attracted by any type of magnet., C Copper is not ferrous and is only attracted by an electromagnet., D Copper is not ferrous and is not attracted by any type of magnet. 11",
+      "text": "A permanent magnet is brought near to a piece of copper. The copper is not attracted by the magnet. Why is there no attraction? A Copper is ferrous but is only attracted by an electromagnet., B Copper is ferrous but is not attracted by any type of magnet., C Copper is not ferrous and is only attracted by an electromagnet., D Copper is not ferrous and is not attracted by any type of magnet. 11",
+      "options": [
+        "A Copper is ferrous but is only attracted by an electromagnet.",
+        "B Copper is ferrous but is not attracted by any type of magnet.",
+        "C Copper is not ferrous and is only attracted by an electromagnet.",
+        "D Copper is not ferrous and is not attracted by any type of magnet. 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four plotting compasses are placed in the magnetic field of two identical bar magnets as shown in the diagram. Which compass is shown pointing in the wrong direction? S                                   N                                   N                                   S A C D B",
+      "text": "Four plotting compasses are placed in the magnetic field of two identical bar magnets as shown in the diagram. Which compass is shown pointing in the wrong direction? S                                   N                                   N                                   S A C D B",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a torch containing two cells, a switch and a lamp. plastic case brass connecting strip switch lamp What is the circuit diagram for the torch? C B A D 12",
+      "text": "The diagram shows a torch containing two cells, a switch and a lamp. plastic case brass connecting strip switch lamp What is the circuit diagram for the torch? C B A D 12",
+      "options": [
+        "C B A D 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a battery connected to two identical resistors. Three ammeters M 1 , M 2 and M 3 are connected in the circuit. M 1 M 2 M 3 A A A Meter M 1 reads 1.0 A. What are the readings on M 2 and on M 3 ? reading on M 2 / A   reading on M 3 / A A 0.5              0.0, B 0.5              0.5, C 0.5              1.0, D 1.0              1.0",
+      "text": "The diagram shows a battery connected to two identical resistors. Three ammeters M 1 , M 2 and M 3 are connected in the circuit. M 1 M 2 M 3 A A A Meter M 1 reads 1.0 A. What are the readings on M 2 and on M 3 ? reading on M 2 / A   reading on M 3 / A A 0.5              0.0, B 0.5              0.5, C 0.5              1.0, D 1.0              1.0",
+      "options": [
+        "A 0.5              0.0",
+        "B 0.5              0.5",
+        "C 0.5              1.0",
+        "D 1.0              1.0"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A certain electrical appliance is powered from a mains supply. The appliance normally uses a current of 3 A, but the current briefly rises to 4 A at the instant the appliance is switched on. The cable to the appliance is designed for currents up to 6 A. The fuses available to protect the cable are rated at 1 A, 3 A, 5 A and 13 A. Which fuse should be used? A 1 A B 3 A C 5 A D 13 A 13",
+      "text": "A certain electrical appliance is powered from a mains supply. The appliance normally uses a current of 3 A, but the current briefly rises to 4 A at the instant the appliance is switched on. The cable to the appliance is designed for currents up to 6 A. The fuses available to protect the cable are rated at 1 A, 3 A, 5 A and 13 A. Which fuse should be used? A 1 A B 3 A C 5 A D 13 A 13",
+      "options": [
+        "A 1 A B 3 A C 5 A D 13 A 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An electrical component X is placed in water, as shown. X thermometer water A When the temperature of the water is increased, the reading on the ammeter increases. What is component X? A a capacitor, B a light-dependent resistor, C a relay, D a thermistor",
+      "text": "An electrical component X is placed in water, as shown. X thermometer water A When the temperature of the water is increased, the reading on the ammeter increases. What is component X? A a capacitor, B a light-dependent resistor, C a relay, D a thermistor",
+      "options": [
+        "A a capacitor",
+        "B a light-dependent resistor",
+        "C a relay",
+        "D a thermistor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which device is designed to allow a small direct current (d.c.) to control a large direct current (d.c.)? A a generator, B a motor, C a relay, D a transformer",
+      "text": "Which device is designed to allow a small direct current (d.c.) to control a large direct current (d.c.)? A a generator, B a motor, C a relay, D a transformer",
+      "options": [
+        "A a generator",
+        "B a motor",
+        "C a relay",
+        "D a transformer"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On a building site, metal scaffolding is firmly embedded in the damp ground. A builder holds a mains-operated electric drill in one hand. With his other hand he holds on to the scaffolding. The power cable of the drill is damaged where it enters the metal casing of the drill. What danger does this present to the builder? A A current could pass through the builder and electrocute him., B A current in the scaffolding could heat it up and burn him., C The large current could blow the fuse and damage the drill., D The large current could make the motor spin too quickly. 14",
+      "text": "On a building site, metal scaffolding is firmly embedded in the damp ground. A builder holds a mains-operated electric drill in one hand. With his other hand he holds on to the scaffolding. The power cable of the drill is damaged where it enters the metal casing of the drill. What danger does this present to the builder? A A current could pass through the builder and electrocute him., B A current in the scaffolding could heat it up and burn him., C The large current could blow the fuse and damage the drill., D The large current could make the motor spin too quickly. 14",
+      "options": [
+        "A A current could pass through the builder and electrocute him.",
+        "B A current in the scaffolding could heat it up and burn him.",
+        "C The large current could blow the fuse and damage the drill.",
+        "D The large current could make the motor spin too quickly. 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a beam of cathode rays entering an electric field. – + beam In which direction is the beam deflected by the field? A downwards, B upwards, C into the page, D out of the page",
+      "text": "The diagram shows a beam of cathode rays entering an electric field. – + beam In which direction is the beam deflected by the field? A downwards, B upwards, C into the page, D out of the page",
+      "options": [
+        "A downwards",
+        "B upwards",
+        "C into the page",
+        "D out of the page"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To create cathode rays in a vacuum, what might be a suitable potential difference to connect between the cathode and anode? A 6 V a.c., B 6 V d.c., C 600 V a.c., D 600 V d.c.",
+      "text": "To create cathode rays in a vacuum, what might be a suitable potential difference to connect between the cathode and anode? A 6 V a.c., B 6 V d.c., C 600 V a.c., D 600 V d.c.",
+      "options": [
+        "A 6 V a.c.",
+        "B 6 V d.c.",
+        "C 600 V a.c.",
+        "D 600 V d.c."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A transformer is to be used to provide a 10 V output from a 100 V supply. 10 V 100 V primary coil secondary coil What are suitable numbers of turns for the primary coil and for the secondary coil? number of turns on the primary coil number of turns on the secondary coil A 100              1000, B 200               110, C 400               490, D 800                80 15",
+      "text": "A transformer is to be used to provide a 10 V output from a 100 V supply. 10 V 100 V primary coil secondary coil What are suitable numbers of turns for the primary coil and for the secondary coil? number of turns on the primary coil number of turns on the secondary coil A 100              1000, B 200               110, C 400               490, D 800                80 15",
+      "options": [
+        "A 100              1000",
+        "B 200               110",
+        "C 400               490",
+        "D 800                80 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "How many neutrons and how many protons are contained in a nucleus of U 238 92 ? neutrons     protons A 92         146, B 146         92, C 146         238, D 238         92",
+      "text": "How many neutrons and how many protons are contained in a nucleus of U 238 92 ? neutrons     protons A 92         146, B 146         92, C 146         238, D 238         92",
+      "options": [
+        "A 92         146",
+        "B 146         92",
+        "C 146         238",
+        "D 238         92"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement explains the meaning of the half-life of a radioactive substance? A half the time taken for half the substance to decay, B half the time taken for the substance to decay completely, C the time taken for half the substance to decay, D the time taken for the substance to decay completely",
+      "text": "Which statement explains the meaning of the half-life of a radioactive substance? A half the time taken for half the substance to decay, B half the time taken for the substance to decay completely, C the time taken for half the substance to decay, D the time taken for the substance to decay completely",
+      "options": [
+        "A half the time taken for half the substance to decay",
+        "B half the time taken for the substance to decay completely",
+        "C the time taken for half the substance to decay",
+        "D the time taken for the substance to decay completely"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the paths of three different types of radiation, X, Y and Z. X Y Z 2 mm of plastic 10 mm of aluminium lead Which row in the table correctly identifies X, Y and Z? X             Y             Z A α-particles β-particles γ-rays, B β-particles α-particles γ-rays, C β-particles γ-rays α-particles, D γ-rays α-particles β-particles 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of 0625/12/O/N/09",
+      "text": "The diagram shows the paths of three different types of radiation, X, Y and Z. X Y Z 2 mm of plastic 10 mm of aluminium lead Which row in the table correctly identifies X, Y and Z? X             Y             Z A α-particles β-particles γ-rays, B β-particles α-particles γ-rays, C β-particles γ-rays α-particles, D γ-rays α-particles β-particles 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of 0625/12/O/N/09",
+      "options": [
+        "A α-particles β-particles γ-rays",
+        "B β-particles α-particles γ-rays",
+        "C β-particles γ-rays α-particles",
+        "D γ-rays α-particles β-particles 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of 0625/12/O/N/09"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2009/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2009",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2009-unit1-2009-11-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "biology-5090-2021-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "biology-5090-2021-unit3-november-p32-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/32",
+  "session": "October/November 2021",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "guard cells at least 30 mm long + delimited; sharp pencil + continuous lines drawn for guard cells and stoma + no shading anywhere; stoma + 6 cells drawn; nuclei shown in all cells drawn + correct position; –15; measurement / 0.07; correct answe r;",
+          "image": "/papers/biology-5090-2021/q3-3a.png"
+        }
+      ],
+      "image": "/papers/biology-5090-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/biology-5090-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit3-2021-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

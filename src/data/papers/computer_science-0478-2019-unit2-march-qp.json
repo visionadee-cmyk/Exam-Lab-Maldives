@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) All variables, constants and other identifiers should have meaningful names. State one constant and one variable that you could have used for Task 1. Give the value that would be assigned to the constant. Give the data type for the variable. Explain what each one could be used for. Constant name ........................................................................",
+      "text": "1 (a) All variables, constants and other identifiers should have meaningful names. State one constant and one variable that you could have used for Task 1. Give the value that would be assigned to the constant. Give the data type for the variable. Explain what each one could be used for. Constant name ........................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) All variables, constants and other identifiers should have meaningful names. State one constant and one variable that you could have used for Task 1. Give the value that would be assigned to the constant. Give the data type for the variable. Explain what each one could be used for. Constant name ........................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Many correct answers, they must be meaningful. The names are examples only. Constant name Max_Extra_Top Value Use Storing the number of extra toppings a pizza can have Variable name NextOrderNo Data type integer Use storing the next order number available two from Store an extra type of base Display another option Change the if statement/validation check to include the third option//extra crispy 0478/22 March 2019 five from: Enter Number of toppings Check number of toppings chosen Display toppings available Provide method of selection Only accept correct selections Error message if topping not found Finish selection There are many possible correct ans wers, this is an example only. Sample answer PRINT \"Pepperoni 1\" PRINT \"Chicken 2\" PRINT \"Extra cheese 3\" PRINT \"Mushrooms 4\" PRINT \"Spinach 5\" PRINT \"Olives 6\" REPEAT PRINT \"How many extra toppings do you want\" INPUT NoTopping UNTIL NoTopping >= 0 and NoTopping <=3 WHILE NoTopping >0 DO PRINT \"Enter Topping \", NoTopping INPUT ToppingType CASE OF ToppingType 1: Pepperoni ← Pepperoni + 1 2: Chicken ← Chicken + 1 3: ExtraCheese ← ExtraCheese + 1 4: Mushrooms ← Mushrooms + 1 5: Spinach ← Spinach + 1 6: Olives ← Olives + 1 OTHERWISE: PRINT \"Error\" ENDCASE 0478/22 March 2019 IF ToppingType >=1 AND ToppingType <=6 THEN PizzaTop[NoTopping] ← ToppingType NoTopping ← NoTopping - 1 ENDIF ENDWHILE Answers must relate to the algorithm provided for (c)(i) Any three from: Display the valid toppings e.g. choose from a menu Check input for each topping is valid « method e.g. using a CASE statement / range check Provide a suitable error message for invalid toppings Provide a method to re-input a topping e.g. use of REPEAT « UNTIL Any four from: How the total of each additional pizza toppings was checked How the largest value was selected How the smallest value was selected How the topping descriptions were recorded for largest/smallest Method used to calculate percentages « « calculation relates to the total number of additional toppin",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) An algorithm has been written in pseudocode to input 50 numbers and total only the positive numbers. Count ← 1 Total ← Count REPEAT INPUT Number IF Number <> 0 THEN Total ← Total + Count ENDIF Count ← Count + 1 UNTIL Count < 50 PRINT Total",
+      "text": "2 (a) An algorithm has been written in pseudocode to input 50 numbers and total only the positive numbers. Count ← 1 Total ← Count REPEAT INPUT Number IF Number <> 0 THEN Total ← Total + Count ENDIF Count ← Count + 1 UNTIL Count < 50 PRINT Total",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) An algorithm has been written in pseudocode to input 50 numbers and total only the positive numbers. Count ← 1 Total ← Count REPEAT INPUT Number IF Number <> 0 THEN Total ← Total + Count ENDIF Count ← Count + 1 UNTIL Count < 50 PRINT Total",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Total ← Count should be Total ← Number <> 0 should be Number > 0 Total ← Total + Count should be Total ← Total + Number UNTIL Count < 50 should be UNTIL Count > 50, UNTIL Count >= 51, UNTIL Count = 51 1 mark for each error identified + suggested correction",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The test should be IF Number > 0 AND Number <20 One mark for both ends of the range and one mark for the AND. 0478/22 March 2019 Senior Adult Child Type OUTPUT 0 0 S S S A C 1 C 2 C 3 A A A A W S S D C 4 Z Seniors 5 Adults 5 Children 4 One mark for each correct column. 0478/22 March 2019 Statements Selection Repetition FOR X ← 1 TO 10 SUM ← SUM + 1 NEXT X WHILE X > 10 DO SUM ← SUM + 1 X ← X - 1 ENDWHILE IF X > 10 THEN SUM ← SUM + 1 X ← X - 1 ENDIF REPEAT SUM ← SUM + 1 X ← X - 1 UNTIL X > 10 Range check 0478/22 March 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "For each of three different data types Data type - 1 mark, Example - 1 mark, Reason - 1 mark There are many possible correct ans wers, this is an example only. Normal data (1 mark) 65 (1 mark) to show that the program accepts this value (1 mark) Erroneous data (1 mark) seventy (1 mark) to show that the program rejects this value (1 mark) Extreme data (1 mark) 89 (1 mark) to show that the program accepts this value (1 mark) Field: Tyre Code Stock Level Width Terrain Table: BIKETYRES BIKETYRES BIKETYRES BIKETYRES Sort: Ascending Show:; ;   Criteria: = 24 = 'Asphalt' or: One mark for each correct column",
+          "image": "/papers/computer_science-0478-2019/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

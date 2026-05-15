@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-may-2022-unit2-qp",
+  "pairedMarkSchemeId": "wph11-may-2022-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "May 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Either Resistance at 54°C = 0.95 - 1.0 (kΩ) Use of resistors in parallel formula Use of V = IR Milliammeter reading = 9.0 (mA) (MP2 can only be awarded if the thermistor resistance is added to 3.0 kΩ prior to using the formula). Or Resistance at 54°C = 0.95 - 1.0 (kΩ) Use of V = IR to calculate current in 2.0 kΩ resistor Use of resistors in series formula and V = IR Milliammeter reading = 9.0 (mA) Example of calculation At 54°C, resistance of thermistor (read from graph) = 1.0 k Ω. 푅푅 푇푇 = 2000 Ω + (3000+ 1000)Ω , so R T = 1333 Ω I = 푉푉 푅푅 = 12 V 1333 Ω = 9.0 m A (1) (1) (1) (1) (1) (1) (1) (1) 12(b(i) Resistance (of thermistor) increases (Thermistor takes a larger share of the pd) so voltmeter reading increases (MP2 dependent on MP1 being awarded) (1) (1) Potential difference (across 2.0 kΩ resistor) is constant Power dissipated (by 2.0 kΩ resistor) remains the same because P = V /R Or Current (in 2.0 kΩ resistor) is constant Power dissipated (by 2.0 kΩ resistor) remains the same because P = I R Or Potential difference and current (for 2.0 kΩ resistor) are both constant Power dissipated (by 2.0 kΩ resistor) remains the same because P = VI (1) (1) (1) (1) (1) (1) Total for question 12 8 Number Answer Mark 13a Correct shape of graph for positive quadrant Correct symmetry in negative quadrant (1) (1) 13bi Use of A = πr Use of I = nqvA v = 1.3 × 10 −2 m s −1 Example of calculation A = πr = π × (0.023 × 10 −3 m) = 1.66 × 10 −9 m v = 퐼퐼 푛푛푛푛푛푛 = 0.44 A ( 1.26 ×10 m −3 ) ( 1.66 × 10 −9 m ) (1.60 ×10 −19 C) = 0.0131 m s −1 (1) (1) (1) 13bii Use of R = V/I Use of R = ρl/A ρ = 9.1 × 10 −7 (Ω m), so approximately 2700°C (MP2 e.c.f. for A value from part b(i)) Example of calculation R = 140 V 0.44 A = 318 Ω ρ = 푅푅푛푛 푙푙 = ( 318 Ω ) (1.66 ×10 −9 m ) 0.580 m = 9.1 × 10 −7 Ω m, so this most closely matches the resistivity value at 2700°C. (1) (1) (1) Total for question 13 8 I V Number Answer Mark 14ai Use of v p = � 퐾퐾+ 퐺퐺 휌휌 Use of v s = � 퐺퐺 휌휌 v p = 6400 m s −1 v s = 3100 m s −",
+          "image": "/papers/wph11-may-2022/q12-12a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2022/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit2-2022-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

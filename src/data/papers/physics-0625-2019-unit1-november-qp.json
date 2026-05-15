@@ -1,0 +1,653 @@
+{
+  "paperId": "physics-0625-2019-unit1-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit1-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "October/November 2019",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student measures the volume of a small irregularly-shaped stone. Which apparatus must be used? A a measuring cylinder containing water and a ruler only, B a measuring cylinder containing water only, C an empty measuring cylinder and a ruler only, D a ruler only",
+      "text": "A student measures the volume of a small irregularly-shaped stone. Which apparatus must be used? A a measuring cylinder containing water and a ruler only, B a measuring cylinder containing water only, C an empty measuring cylinder and a ruler only, D a ruler only",
+      "options": [
+        "A a measuring cylinder containing water and a ruler only",
+        "B a measuring cylinder containing water only",
+        "C an empty measuring cylinder and a ruler only",
+        "D a ruler only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of an object changes with time. 12 8 4 0 0246810 speed m / s time / s How far does the object travel in 10 seconds? A 8 m B 10 m C 40 m D 80 m",
+      "text": "The graph shows how the speed of an object changes with time. 12 8 4 0 0246810 speed m / s time / s How far does the object travel in 10 seconds? A 8 m B 10 m C 40 m D 80 m",
+      "options": [
+        "A 8 m B 10 m C 40 m D 80 m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car travels at an average speed of 60 km / h for 15 minutes. How far does the car travel in 15 minutes? A 4.0 km B 15 km C 240 km D 900 km",
+      "text": "A car travels at an average speed of 60 km / h for 15 minutes. How far does the car travel in 15 minutes? A 4.0 km B 15 km C 240 km D 900 km",
+      "options": [
+        "A 4.0 km B 15 km C 240 km D 900 km"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which quantity is a force due to a gravitational field? A density, B mass, C weight, D volume",
+      "text": "Which quantity is a force due to a gravitational field? A density, B mass, C weight, D volume",
+      "options": [
+        "A density",
+        "B mass",
+        "C weight",
+        "D volume"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The density of air is 1.2 kg / m 3 . A room has dimensions 5.0 m × 4.0 m × 3.0 m. What is the mass of the air in the room?, A 0.02 kg B    0.10 kg C    50 kg D    72 kg 3",
+      "text": "The density of air is 1.2 kg / m 3 . A room has dimensions 5.0 m × 4.0 m × 3.0 m. What is the mass of the air in the room?, A 0.02 kg B    0.10 kg C    50 kg D    72 kg 3",
+      "options": [
+        "A room has dimensions 5.0 m × 4.0 m × 3.0 m. What is the mass of the air in the room?",
+        "A 0.02 kg B    0.10 kg C    50 kg D    72 kg 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student measures the length of a spring. She then attaches different weights to the spring. She measures the length of the spring for each weight. The table shows her results. weight / N        length / mm 0                     520 1.0                   524 2.0                   528 3.0                   533 4.0                   537 5.0                   540 What is the extension of the spring with a weight of 3.0 N attached to it? A 4 mm B 5 mm C 12 mm D 13 mm",
+      "text": "A student measures the length of a spring. She then attaches different weights to the spring. She measures the length of the spring for each weight. The table shows her results. weight / N        length / mm 0                     520 1.0                   524 2.0                   528 3.0                   533 4.0                   537 5.0                   540 What is the extension of the spring with a weight of 3.0 N attached to it? A 4 mm B 5 mm C 12 mm D 13 mm",
+      "options": [
+        "A 4 mm B 5 mm C 12 mm D 13 mm"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement gives a complete description of any object that is in equilibrium? A There are no forces acting., B There is no resultant force., C There is no resultant force and no resultant turning effect., D There is no resultant turning effect.",
+      "text": "Which statement gives a complete description of any object that is in equilibrium? A There are no forces acting., B There is no resultant force., C There is no resultant force and no resultant turning effect., D There is no resultant turning effect.",
+      "options": [
+        "A There are no forces acting.",
+        "B There is no resultant force.",
+        "C There is no resultant force and no resultant turning effect.",
+        "D There is no resultant turning effect."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a lamp. lampshade pole base centre of mass ground Changing which feature increases the stability of the lamp? A a larger lampshade, B a longer pole, C a heavier base, D a higher centre of mass 4",
+      "text": "The diagram shows a lamp. lampshade pole base centre of mass ground Changing which feature increases the stability of the lamp? A a larger lampshade, B a longer pole, C a heavier base, D a higher centre of mass 4",
+      "options": [
+        "A a larger lampshade",
+        "B a longer pole",
+        "C a heavier base",
+        "D a higher centre of mass 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "text": "Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted as the car slows down? A chemical, B elastic, C thermal, D sound",
+      "options": [
+        "A chemical",
+        "B elastic",
+        "C thermal",
+        "D sound"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which   does   not transfer useful energy? A emitting a sound wave, B measuring a temperature, C passing an electric current, D pushing a box along the floor",
+      "text": "Which   does   not transfer useful energy? A emitting a sound wave, B measuring a temperature, C passing an electric current, D pushing a box along the floor",
+      "options": [
+        "A emitting a sound wave",
+        "B measuring a temperature",
+        "C passing an electric current",
+        "D pushing a box along the floor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The power output from solar panels is recorded every day for a month. The graph shows the output recorded. 12345678910111213141516171819202122232425262728293031 power output day of the month Which conclusion can be drawn from this graph? A The power output from the solar panels changes from day to day., B The power output from the solar panels is cheap to produce., C Solar panels create no pollution., D Solar energy is renewable. 5",
+      "text": "The power output from solar panels is recorded every day for a month. The graph shows the output recorded. 12345678910111213141516171819202122232425262728293031 power output day of the month Which conclusion can be drawn from this graph? A The power output from the solar panels changes from day to day., B The power output from the solar panels is cheap to produce., C Solar panels create no pollution., D Solar energy is renewable. 5",
+      "options": [
+        "A The power output from the solar panels changes from day to day.",
+        "B The power output from the solar panels is cheap to produce.",
+        "C Solar panels create no pollution.",
+        "D Solar energy is renewable. 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A drawing pin (thumb tack) has a sharp point at one end and a flat surface at the other end. flat surface sharp point The pin is pushed into a wooden board. How do the pressure and the force at the sharp point compare with the pressure and the force on the flat surface? force at the sharp point pressure at the sharp point A greater than on the flat surface greater than on the flat surface, B greater than on the flat surface less than on the flat surface, C the same as on the flat surface greater than on the flat surface, D the same as on the flat surface less than on the flat surface",
+      "text": "A drawing pin (thumb tack) has a sharp point at one end and a flat surface at the other end. flat surface sharp point The pin is pushed into a wooden board. How do the pressure and the force at the sharp point compare with the pressure and the force on the flat surface? force at the sharp point pressure at the sharp point A greater than on the flat surface greater than on the flat surface, B greater than on the flat surface less than on the flat surface, C the same as on the flat surface greater than on the flat surface, D the same as on the flat surface less than on the flat surface",
+      "options": [
+        "A greater than on the flat surface greater than on the flat surface",
+        "B greater than on the flat surface less than on the flat surface",
+        "C the same as on the flat surface greater than on the flat surface",
+        "D the same as on the flat surface less than on the flat surface"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows four forces. Each force acts on a different surface. Which row shows the least pressure? size of the force / N area of the surface / m 2 A 0.30                          0.040, B 10                               2.0, C 60                             15, D 1200                             40",
+      "text": "The table shows four forces. Each force acts on a different surface. Which row shows the least pressure? size of the force / N area of the surface / m 2 A 0.30                          0.040, B 10                               2.0, C 60                             15, D 1200                             40",
+      "options": [
+        "A 0.30                          0.040",
+        "B 10                               2.0",
+        "C 60                             15",
+        "D 1200                             40"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A test-tube contains 1.0 cm 3 of liquid water at 100 °C. The liquid water boils to form 1600 cm 3 of steam. What is the reason for the large increase in volume? A Steam molecules are bigger than water molecules., B The average distance between the molecules is much greater in the steam., C The molecules do not move until the water turns into a gas., D There are more steam molecules than there were water molecules. 6",
+      "text": "A test-tube contains 1.0 cm 3 of liquid water at 100 °C. The liquid water boils to form 1600 cm 3 of steam. What is the reason for the large increase in volume? A Steam molecules are bigger than water molecules., B The average distance between the molecules is much greater in the steam., C The molecules do not move until the water turns into a gas., D There are more steam molecules than there were water molecules. 6",
+      "options": [
+        "A Steam molecules are bigger than water molecules.",
+        "B The average distance between the molecules is much greater in the steam.",
+        "C The molecules do not move until the water turns into a gas.",
+        "D There are more steam molecules than there were water molecules. 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the evaporation of a liquid is correct? A The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases., B The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases., C The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases., D The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases.",
+      "text": "Which statement about the evaporation of a liquid is correct? A The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases., B The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases., C The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases., D The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases.",
+      "options": [
+        "A The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases.",
+        "B The  least  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases.",
+        "C The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid decreases.",
+        "D The  most  energetic  molecules  escape  from  the  surface  and  the  temperature  of  the  liquid increases."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which effect is caused by thermal expansion? A a metal surface heating up in direct sunlight, B ice-cream melting on a hot day, C a railway track buckling on a hot day, D ice forming on a pond on a cold day",
+      "text": "Which effect is caused by thermal expansion? A a metal surface heating up in direct sunlight, B ice-cream melting on a hot day, C a railway track buckling on a hot day, D ice forming on a pond on a cold day",
+      "options": [
+        "A a metal surface heating up in direct sunlight",
+        "B ice-cream melting on a hot day",
+        "C a railway track buckling on a hot day",
+        "D ice forming on a pond on a cold day"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid-in-glass thermometer uses a change in a property of a liquid to measure temperature. Which property is used? A mass, B thermal capacity, C volume, D weight",
+      "text": "A liquid-in-glass thermometer uses a change in a property of a liquid to measure temperature. Which property is used? A mass, B thermal capacity, C volume, D weight",
+      "options": [
+        "A mass",
+        "B thermal capacity",
+        "C volume",
+        "D weight"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows four labelled changes of state between solid, liquid and gas. solidliquidgas P S Q R Which changes need an energy input? A P and Q B Q and R C R and S D S and P 7",
+      "text": "The diagram shows four labelled changes of state between solid, liquid and gas. solidliquidgas P S Q R Which changes need an energy input? A P and Q B Q and R C R and S D S and P 7",
+      "options": [
+        "A P and Q B Q and R C R and S D S and P 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A glass test-tube containing water is heated at the top. The water at the top boils, but the water at the bottom remains cold. water test-tube heat Which row explains why the water at the bottom of the test-tube remains cold? glass                        water A good thermal conductor good thermal conductor, B good thermal conductor poor thermal conductor, C poor thermal conductor good thermal conductor, D poor thermal conductor poor thermal conductor",
+      "text": "A glass test-tube containing water is heated at the top. The water at the top boils, but the water at the bottom remains cold. water test-tube heat Which row explains why the water at the bottom of the test-tube remains cold? glass                        water A good thermal conductor good thermal conductor, B good thermal conductor poor thermal conductor, C poor thermal conductor good thermal conductor, D poor thermal conductor poor thermal conductor",
+      "options": [
+        "A good thermal conductor good thermal conductor",
+        "B good thermal conductor poor thermal conductor",
+        "C poor thermal conductor good thermal conductor",
+        "D poor thermal conductor poor thermal conductor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In countries where it is usually hot, houses are often painted white. What is the reason for this? A White surfaces are good reflectors of radiant energy., B White surfaces are good transmitters of radiant energy., C White surfaces are good absorbers of radiant energy., D White surfaces are good emitters of radiant energy. 8",
+      "text": "In countries where it is usually hot, houses are often painted white. What is the reason for this? A White surfaces are good reflectors of radiant energy., B White surfaces are good transmitters of radiant energy., C White surfaces are good absorbers of radiant energy., D White surfaces are good emitters of radiant energy. 8",
+      "options": [
+        "A White surfaces are good reflectors of radiant energy.",
+        "B White surfaces are good transmitters of radiant energy.",
+        "C White surfaces are good absorbers of radiant energy.",
+        "D White surfaces are good emitters of radiant energy. 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows wavefronts on the surface of water, viewed from above. region 1 region 2 deep water shallow wate r Which row is correct for the wavefronts moving from region 1 to region 2? name of process the speeds of the wavefronts in regions 1 and 2 are A diffraction                     different, B diffraction                    the                    same, C refraction                     different, D refraction                    the                    same 9",
+      "text": "The diagram shows wavefronts on the surface of water, viewed from above. region 1 region 2 deep water shallow wate r Which row is correct for the wavefronts moving from region 1 to region 2? name of process the speeds of the wavefronts in regions 1 and 2 are A diffraction                     different, B diffraction                    the                    same, C refraction                     different, D refraction                    the                    same 9",
+      "options": [
+        "A diffraction                     different",
+        "B diffraction                    the                    same",
+        "C refraction                     different",
+        "D refraction                    the                    same 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Plane water waves approach a narrow gap in a barrier. Which diagram shows the diffraction pattern that would occur? AB CD",
+      "text": "Plane water waves approach a narrow gap in a barrier. Which diagram shows the diffraction pattern that would occur? AB CD",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the image of a clock in a plane mirror. Which is the actual time? A 04:15    B    04:45    C    07:15    D    07:45 10",
+      "text": "The diagram shows the image of a clock in a plane mirror. Which is the actual time? A 04:15    B    04:45    C    07:15    D    07:45 10",
+      "options": [
+        "A 04:15    B    04:45    C    07:15    D    07:45 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Total internal reflection may occur when light reaches an air-glass boundary. Under which conditions is light totally internally reflected? medium in which light travels towards the boundary angle of incidence A air greater than the critical angle, B air less than the critical angle, C glass greater than the critical angle, D glass less than the critical angle",
+      "text": "Total internal reflection may occur when light reaches an air-glass boundary. Under which conditions is light totally internally reflected? medium in which light travels towards the boundary angle of incidence A air greater than the critical angle, B air less than the critical angle, C glass greater than the critical angle, D glass less than the critical angle",
+      "options": [
+        "A air greater than the critical angle",
+        "B air less than the critical angle",
+        "C glass greater than the critical angle",
+        "D glass less than the critical angle"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the electromagnetic spectrum. γ-raysX-raysultravioletvisible lightinfraredmicrowaves radio waves increasing ...................... A word is missing from the label below the spectrum. Which word is missing?, A amplitude, B frequency, C speed, D wavelength",
+      "text": "The diagram shows the electromagnetic spectrum. γ-raysX-raysultravioletvisible lightinfraredmicrowaves radio waves increasing ...................... A word is missing from the label below the spectrum. Which word is missing?, A amplitude, B frequency, C speed, D wavelength",
+      "options": [
+        "A word is missing from the label below the spectrum. Which word is missing?",
+        "A amplitude",
+        "B frequency",
+        "C speed",
+        "D wavelength"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A man hears a starting pistol fire 1.5 seconds after he sees a puff of smoke from the pistol. The sound and the smoke are made at the same time. The starting pistol is 450 metres away from the man. What is the speed of sound calculated from this observation? A 150 m / s B    300 m / s C    330 m / s D    625 m / s 11",
+      "text": "A man hears a starting pistol fire 1.5 seconds after he sees a puff of smoke from the pistol. The sound and the smoke are made at the same time. The starting pistol is 450 metres away from the man. What is the speed of sound calculated from this observation? A 150 m / s B    300 m / s C    330 m / s D    625 m / s 11",
+      "options": [
+        "A 150 m / s B    300 m / s C    330 m / s D    625 m / s 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student has a bar magnet. He brings the magnet close to an object. The magnet and the object repel each other. What must the object be? A another permanent magnet, B any magnetic material, C a block of wood, D a piece of copper",
+      "text": "A student has a bar magnet. He brings the magnet close to an object. The magnet and the object repel each other. What must the object be? A another permanent magnet, B any magnetic material, C a block of wood, D a piece of copper",
+      "options": [
+        "A another permanent magnet",
+        "B any magnetic material",
+        "C a block of wood",
+        "D a piece of copper"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two soft-iron rods are placed end-to-end inside a coil. The coil is connected to a battery. soft-iron rodsoft-iron rod coil The connections from the battery to the coil are now reversed. What happens to the soft-iron rods in each case? battery connections as shown battery connections reversed A rods attract rods attract, B rods attract rods repel, C rods repel rods attract, D rods repel rods repel 12",
+      "text": "Two soft-iron rods are placed end-to-end inside a coil. The coil is connected to a battery. soft-iron rodsoft-iron rod coil The connections from the battery to the coil are now reversed. What happens to the soft-iron rods in each case? battery connections as shown battery connections reversed A rods attract rods attract, B rods attract rods repel, C rods repel rods attract, D rods repel rods repel 12",
+      "options": [
+        "A rods attract rods attract",
+        "B rods attract rods repel",
+        "C rods repel rods attract",
+        "D rods repel rods repel 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plastic rod is rubbed with a dry cloth. The rod becomes positively charged. Why has the rod become positively charged? A It has gained electrons., B It has gained neutrons., C It has lost electrons., D It has lost neutrons.",
+      "text": "A plastic rod is rubbed with a dry cloth. The rod becomes positively charged. Why has the rod become positively charged? A It has gained electrons., B It has gained neutrons., C It has lost electrons., D It has lost neutrons.",
+      "options": [
+        "A It has gained electrons.",
+        "B It has gained neutrons.",
+        "C It has lost electrons.",
+        "D It has lost neutrons."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher asks her class “What quantity can be recorded in volts?”. Student 1 says “The potential difference across a resistor”. Student 2 says “The rating of a fuse”. Student 3 says “The electromotive force of a battery”. Which students are correct? A 1    only    B    1 and 2 C    1 and 3 D    2 and 3 13",
+      "text": "A teacher asks her class “What quantity can be recorded in volts?”. Student 1 says “The potential difference across a resistor”. Student 2 says “The rating of a fuse”. Student 3 says “The electromotive force of a battery”. Which students are correct? A 1    only    B    1 and 2 C    1 and 3 D    2 and 3 13",
+      "options": [
+        "A 1    only    B    1 and 2 C    1 and 3 D    2 and 3 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit shows two lamps connected to a d.c. supply. The same lamps and power supply are arranged in different ways, as shown. PQR In which circuits will the lamps be the same brightness as in the original circuit? A Q    only    B    P and Q only C    P and R only D    P, Q and R",
+      "text": "The circuit shows two lamps connected to a d.c. supply. The same lamps and power supply are arranged in different ways, as shown. PQR In which circuits will the lamps be the same brightness as in the original circuit? A Q    only    B    P and Q only C    P and R only D    P, Q and R",
+      "options": [
+        "A Q    only    B    P and Q only C    P and R only D    P, Q and R"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Identical resistors are connected together to form arrangements X, Y and Z. XYZ What is the correct order of the resistances of the arrangements from the largest to the smallest? A X → Y → Z, B Y → X → Z, C Z → X → Y, D Z → Y → X 14",
+      "text": "Identical resistors are connected together to form arrangements X, Y and Z. XYZ What is the correct order of the resistances of the arrangements from the largest to the smallest? A X → Y → Z, B Y → X → Z, C Z → X → Y, D Z → Y → X 14",
+      "options": [
+        "A X → Y → Z",
+        "B Y → X → Z",
+        "C Z → X → Y",
+        "D Z → Y → X 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student uses 100 cm of resistance wire XY in a circuit to make a potential divider. V Y X sliding contact l He changes the length of wire l by moving the sliding contact along the resistance wire. Which graph shows how the voltmeter reading changes as the length of wire l is increased from zero to 100 cm? voltmeter reading / V l / cm 0 0 A 100 voltmeter reading / V l / cm 0 0 B 100 voltmeter reading / V l / cm 0 0 C 100 voltmeter reading / V l / cm 0 0 D 100",
+      "text": "A student uses 100 cm of resistance wire XY in a circuit to make a potential divider. V Y X sliding contact l He changes the length of wire l by moving the sliding contact along the resistance wire. Which graph shows how the voltmeter reading changes as the length of wire l is increased from zero to 100 cm? voltmeter reading / V l / cm 0 0 A 100 voltmeter reading / V l / cm 0 0 B 100 voltmeter reading / V l / cm 0 0 C 100 voltmeter reading / V l / cm 0 0 D 100",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Where must a fuse be connected in a mains electric circuit? A the earth wire only, B the live wire only, C the neutral wire only, D the live wire and the earth wire 15",
+      "text": "Where must a fuse be connected in a mains electric circuit? A the earth wire only, B the live wire only, C the neutral wire only, D the live wire and the earth wire 15",
+      "options": [
+        "A the earth wire only",
+        "B the live wire only",
+        "C the neutral wire only",
+        "D the live wire and the earth wire 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student investigates the output voltage induced across a coil of wire by a bar magnet. When will the induced voltage have the greatest value? A The student slowly moves the bar magnet into the coil of wire., B The student leaves the bar magnet stationary in the coil of wire., C The student quickly removes the bar magnet from the coil of wire., D The student places the bar magnet at rest outside the coil of wire.",
+      "text": "A student investigates the output voltage induced across a coil of wire by a bar magnet. When will the induced voltage have the greatest value? A The student slowly moves the bar magnet into the coil of wire., B The student leaves the bar magnet stationary in the coil of wire., C The student quickly removes the bar magnet from the coil of wire., D The student places the bar magnet at rest outside the coil of wire.",
+      "options": [
+        "A The student slowly moves the bar magnet into the coil of wire.",
+        "B The student leaves the bar magnet stationary in the coil of wire.",
+        "C The student quickly removes the bar magnet from the coil of wire.",
+        "D The student places the bar magnet at rest outside the coil of wire."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current in a wire. The direction of the current is out of the page. Which diagram shows the magnetic field pattern produced? AB CD key wire carrying a current out of the page",
+      "text": "There is a current in a wire. The direction of the current is out of the page. Which diagram shows the magnetic field pattern produced? AB CD key wire carrying a current out of the page",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows a possible structure of a neutral atom? DC BA key proton neutron electron 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "text": "Which diagram shows a possible structure of a neutral atom? DC BA key proton neutron electron 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A nuclide of cobalt contains 27 protons and 32 neutrons. Which symbol represents this nuclide? A 27 59 Co B 32 27 Co C 32 59 Co D 59 27 Co",
+      "text": "A nuclide of cobalt contains 27 protons and 32 neutrons. Which symbol represents this nuclide? A 27 59 Co B 32 27 Co C 32 59 Co D 59 27 Co",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An isotope of radon is radioactive. It decays by emitting an α-particle. What happens to the nucleus of a radon atom during the emission of the α-particle? A It becomes the nucleus of a different isotope of radon with fewer neutrons., B It becomes the nucleus of a different isotope of radon with more neutrons., C It becomes the nucleus of an element with a higher proton number., D It becomes the nucleus of an element with a lower proton number.",
+      "text": "An isotope of radon is radioactive. It decays by emitting an α-particle. What happens to the nucleus of a radon atom during the emission of the α-particle? A It becomes the nucleus of a different isotope of radon with fewer neutrons., B It becomes the nucleus of a different isotope of radon with more neutrons., C It becomes the nucleus of an element with a higher proton number., D It becomes the nucleus of an element with a lower proton number.",
+      "options": [
+        "A It becomes the nucleus of a different isotope of radon with fewer neutrons.",
+        "B It becomes the nucleus of a different isotope of radon with more neutrons.",
+        "C It becomes the nucleus of an element with a higher proton number.",
+        "D It becomes the nucleus of an element with a lower proton number."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why are some radioactive sources stored in boxes made from lead? A Lead absorbs emissions from the radioactive sources., B Lead decreases the half-life of radioactive sources., C Lead increases the half-life of radioactive sources., D Lead repels emissions from the radioactive sources.",
+      "text": "Why are some radioactive sources stored in boxes made from lead? A Lead absorbs emissions from the radioactive sources., B Lead decreases the half-life of radioactive sources., C Lead increases the half-life of radioactive sources., D Lead repels emissions from the radioactive sources.",
+      "options": [
+        "A Lead absorbs emissions from the radioactive sources.",
+        "B Lead decreases the half-life of radioactive sources.",
+        "C Lead increases the half-life of radioactive sources.",
+        "D Lead repels emissions from the radioactive sources."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2019/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit1-2019-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

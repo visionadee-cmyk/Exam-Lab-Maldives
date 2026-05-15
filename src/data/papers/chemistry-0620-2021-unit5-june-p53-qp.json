@@ -1,0 +1,79 @@
+{
+  "paperId": "chemistry-0620-2021-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all experiments have volume of sulfuric acid of 25 cm all volumes of water correct (30, 20, 10, 5, 0) and all volumes in table given to the same precision volumes of gas increase as table descended. volume of gas for experiment 5 comparable to supervisors y -axis plotting – all 5 correct scores 2, 4 corrects scores 1 suitable best fit line",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate extrapolation of line to 35 correct reading from extrapolation correct calculation of volume for experiment 3 ÷ cm / s r / takes more time",
+          "image": "/papers/chemistry-0620-2021/q1-1c.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: • the reaction can be started by tipping the flask • do not have to replace/remove the bung • so no gas escapes (while the bung is being removed / replaced) 0620/53 May/June 2021 Tests on solid I dissolves in excess remains / does not dissolve",
+          "image": "/papers/chemistry-0620-2021/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "white ppt / fizzing III ) / Cr 3+ chloride / C l – Tests on solid J / effervescence / bubbling limewater turns milky / CO / no reaction / remains colourless / blue ppt / K + carbonate / CO 2– 0620/53 May/June 2021 any 6 from: • specified / set volume / mass of water • measure start temperature of water • heat water using spirit burner for all three fuels and • start timing when heating started • heat to set temperature / set temperature rise • record time • shortest time gives out most energy OR • measure mass of fuel (plus spirit burner) at start • heat to set temperature / set temperature rise • measure mass of fuel (plus sprit burner) at end (and subtract from first mass to fine mass of fuel used) • smallest mass used gives out most energy OR • put specified mass / volume of fuel in spirit burner • burn until burner goes out • measure final temperature of water and calculate temperature rise • highest temperature (rise) gives out most energy OR • heat water for a specified time • measure final temp of water • calculate temperature rise • highest temperature (rise) is fuel that gives out most energy 0620/53 May/June 2021 SUMMARY TABLE time to heat to a set temp mass of fuel to heat to a set temp temp change when fuel runs out temp change in specified time time to boil MP1 specified / set / measured volume / mass of wate r MP2 measured start temperature of wate r MP3 heat water using spirit burner for all three fuels MP4 start timing when heating started measure mass of fuel (plus spirit burner) at start put specified mass / volume of fuel in spirit burner stops start timing when heating started start timing when heating started MP5 heat to set temperature / set temperature rise heat to set temperature / set temperature rise burn until it goes out heat for specified time heat until boiling MP6 record time measure mass of fuel (plus spirit burner) at end (and subtract from first mass to find mass of fuel used) measure final temperature of water and calculate tempera",
+          "image": "/papers/chemistry-0620-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit5-2021-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

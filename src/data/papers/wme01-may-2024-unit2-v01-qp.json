@@ -1,0 +1,210 @@
+{
+  "paperId": "wme01-may-2024-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-may-2024-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "May 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 16,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "4 (a) find, in terms of m and g, the tension in the rope. (7) The rope is now removed and the box is placed at rest on the plane. The box is then projected horizontally along the plane with speed u. The box is again modelled as a particle. When the box has moved a distance d along the plane, the speed of the box is 1 2 u . (b) Find d in terms of u and g. (5) _____________________________",
+      "text": "4 (a) find, in terms of m and g, the tension in the rope. (7) The rope is now removed and the box is placed at rest on the plane. The box is then projected horizontally along the plane with speed u. The box is again modelled as a particle. When the box has moved a distance d along the plane, the speed of the box is 1 2 u . (b) Find d in terms of u and g. (5) _____________________________",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) find, in terms of m and g, the tension in the rope. (7) The rope is now removed and the box is placed at rest on the plane. The box is then projected horizontally along the plane with speed u. The box is again modelled as a particle. When the box has moved a distance d along the plane, the speed of the box is 1 2 u . (b) Find d in terms of u and g. (5) _____________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: For an equation in M only, with correct number of terms, condone sign errors and missing g’s A1: Correct equation A1: cao",
+          "image": "/papers/wme01-may-2024/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: For an equation in C R only, with correct number of terms, condone sign errors and missing g’s A1: Correct equation A1: g , 51 or 51.0 Number Scheme Marks",
+          "image": "/papers/wme01-may-2024/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2024/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 9.8 5 s =   M1 = 123 or 120 (m) A1 (2)",
+          "image": "/papers/wme01-may-2024/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "9.8 5 49 v =  = OR 2 9.8 122.5 v =   = 49 OR 122.5 5 9.8 5 v = −   => v = 49 B1 2503200250ga−=  M1A1 Correct value for their a ( 3 or 3− ) A1 2 3 (520 122.5) v = −   − M1 A1ft v = 4 ( m s − ) A1 (7) N.B. They may do (c) first and then use their t value to obtain v: 49 ( 3 15) v = + −  OR (520 122.5) 15 ( 3) 15 v − = −  −  M1A1ft v = 4 ( m s − ) A1",
+          "image": "/papers/wme01-may-2024/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 49 3 t =− OR (49 4) (520 122.5) t + −= OR (520 122.5) tt − = −  OR (520 122.5) tt − = +  M1 t = 15 (other root of quadratic is which leads to v < 0) A1 Total time = 5 + 15 = 20 (s) A1ft (3)",
+          "image": "/papers/wme01-may-2024/q5-5c.png"
+        },
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "49 B1 shape B1 ft figs (2) (14) Notes A1: cao (b) B1: 49 or -49. Allow 5g or -5g or 49 (2401) seen. M1: Equation of motion, correct terms, condone sign errors A1: Correct equation (allow + or − ) A1: cao M1: Complete method to find speed at ground (must have found a new a) M0 if they use u = 0 either explicitly in (b) or implicitly, by using it in (c) to get the time, which is then used in (b). A1ft: Correct equation, ft on their s, v and a . N.B. This mark can be awarded even if it leads to a negative value for v A1: cao (c) M1: Complete method to find time from when the parachute opens to when P lands on the ground (must have found and use a new a) M0 if they use s = 520 and/or u = 0 A1:cao. A1ft: Their t + 5 N.B. The final answer should be rounded to 2 or 3 sf, if they haven’t already been penalised following use of g= 9.8 earlier in the question. (d) B1: Correct shape (B0 if continuous vertical line at the end or graph ends on the t- axis) B1ft:Correct figs, ft on their 49, 4 and 20, but B0ft if they just assume it stops as it reaches the ground. The ft is only available if the graph has just 2 straight lines, one starting at the origin with positive gradient and the second line has negative gradient with second line not meeting the t-axis. This B1ft is available if the graph has a vertical line at the end but is otherwise correct. Number Scheme Marks",
+          "image": "/papers/wme01-may-2024/q5-5d.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: Vertical resolution, with correct terms, condone sign errors and sin/cos confusion. Allow if they use sin( ) or similar. A1: Correct equation M1: Horizontal resolution, with correct terms, condone sign errors and sin/cos confusion. Allow if they use cos( ) or similar. A1: Correct equation B1: Seen anywhere, including on a diagram DM1: Dependent on both M’s A1:cao. Accept 0.33 mg or better. B1: F ma = where F is friction, (allow + or − ) OR Fd DM1: Complete method, dependent on the previous B mark, using a new dimensionally correct acceleration, to produce an equation, with correct no. of terms, in d, u and g, condone sign errors. OR, using work-energy principle using Fd , where F is friction, to produce an equation, with correct no. of terms, in d, u and g, condone sign errors A1: Correct equation A1: cao (must be d = , seen or implied, but allow s in the working) Number Scheme Marks N.B. Answers to (a) and (b) should be in terms of i and j, but only penalise once. Column vectors can be used in working.",
+          "image": "/papers/wme01-may-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: Condone sign errors and sin/cos confusion but both components must be resolved. Allow if they use cos( ) or similar. If + ij appears without working, award M1A0. A1: cao A1ft: ft on their answer to (a)",
+          "image": "/papers/wme01-may-2024/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) (10 5 ) + (16 12 ) t = + + s i j i j or (10 16 ) (5 12 ) tt + + + ij M1 A1 ft (2)",
+          "image": "/papers/wme01-may-2024/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: Allow − rs . r and s must be substituted. A1*: Correct given answer, correctly obtained N.B. Need to see AB at the start or finish for the A1* and answer must be exactly as printed, ignoring [] and km.",
+          "image": "/papers/wme01-may-2024/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: They may use =rs with both i and j cpts equated. A1: Need both t values. Accept 0.42 or better and 1.25. A1*: Correct conclusion A1: cao M1: Sub their calculated t value into AB or BA , seen or implied, oe. Note that this is an independent M mark. A1: cao Number Scheme Marks 8. N.B. In parts (a) and (c), g = 9.8 could appear in the working but final answers must be using g. In (b), g = 9.8 could be used in their answer. In (d), g = 9.8 could appear throughout in the working. N.B. For any equation of motion, if they use an incorrect mass in the ‘ma’ term, award M0 for the equation. However, if the correct mass has been used in (c), treat an error in the ‘ma’ term in (d) as a slip.",
+          "image": "/papers/wme01-may-2024/q7-7d.png"
+        },
+        {
+          "id": "7e",
+          "text": "Part 7e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "10 24 tt − = − oe M1 t = or 0.69 or better A1 (10 24 ) (12 15) AB  = −  +  −   ij (km) M1 AB = , 9.4 or better (km) A1 (4) (13) Notes",
+          "image": "/papers/wme01-may-2024/q7-7e.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1: Resolve perp to the plane, correct terms, condone cos/sin confusion and sign errors. Allow if they use cos( ) or similar. A1: Correct equation A1*: Correct given answer correctly obtained, must see A1: Correct equation allow F, condone sign errors and sin/cos confusion. ) Allow if they sin ( use or similar. A1: Correct equation M1: Solve for a in terms of g, need to see trig substituted and must be solving 2 equations in T and a OR using a whole system equation with correct terms. A1*: Correct given answer correctly obtained, must see N.B. Allow a full verification, using the equations of motion for A and B OR the whole system equation. M1:Equation of motion for A, correct terms, condone sign errors and sin/cos confusion A1: Correct acceleration or deceleration of A M1: Complete method to find an equation in d, g and h only, using a new calculated a A1: cao A1ft: Their d (which must be a multiple of h) + h. N.B. This mark is only dependent on the previous M. OR: Using Work-energy B1: cao M1: PE gain of A, condone sign errors and sin/cos confusion A1: Correct PE gain M1: Use of work-energy principle to obtain an equation in m, d, g and h only, using their PE expression A1: cao A1ft: Their d (which must be a multiple of h) + h, with the final answer of the form kh. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-may-2024/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "33 mg T ma −= M1A1 (2)",
+          "image": "/papers/wme01-may-2024/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 sin mg T mg ma  − − = ( mg T ma −= ) OR: sin mg mg mg ma  − − = M1A1 Solve for a in terms of g N.B. Must reach a = kg from their equations M1 a = g * A1* (4)",
+          "image": "/papers/wme01-may-2024/q8-8c.png"
+        },
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 gh v= B1 2sin2 mg mgma−−=  OR PE Gain = sin mgd  M1 g a  = = mgd A1 gh g d = −   mgd gh mgd m =   − M1 dh = dh = A1 Total distance = h h h += A1 ft (6) (15) Notes N.B. For (a) and (c), if fractions for the trig ratios are not seen or implied, only penalise once.",
+          "image": "/papers/wme01-may-2024/q8-8d.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 16,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/wme01-may-2024"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,79 @@
+{
+  "paperId": "physics-0625-2018-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The metre rule is fixed in position close to the spring. Do not change the position of the metre rule. (i) Use the set-square provided to take readings from the metre rule in order to determine the length l 0 of the coiled part of the spring. Record of readings taken .......................................................................",
+      "text": "1 (a) The metre rule is fixed in position close to the spring. Do not change the position of the metre rule. (i) Use the set-square provided to take readings from the metre rule in order to determine the length l 0 of the coiled part of the spring. Record of readings taken .......................................................................",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method used and seen on graph at least half of candidate’s line used",
+          "image": "/papers/physics-0625-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "k correct to 2 or 3 significant figures 0625/52 October/November 2018 V T to at least 1 d.p. and < 4 V I T to at least 2 d.p. and < 1 A P T correct V X < V T and I X present P X present and units V, A and W V Y < V T and I present P Y present and P X + P Y = P T within 10%",
+          "image": "/papers/physics-0625-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matches results idea of within (or beyond) limits of experimental accuracy explained, e.g. close enough, very close, too far apart",
+          "image": "/papers/physics-0625-2018/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lamps and voltmeter in parallel correct symbols for lamps, ammeter and voltmeter in correct circuit 0625/52 October/November 2018 normal through block normal at centre of AB P and P at minimum distance apart of 5.0 cm a correct to ± mm b correct to ± mm and both with correct unit n correct, 2 or 3 significant figures with no unit n = 1.4 to 1.6 second set of lines seen on trace in approximately the correct positions and a and b recorded n within 10% of value in (b) two from: lining up the pins exactly / seeing pins clearly drawing accurate, thin lines getting pins vertical / bent pins placing block accurately on drawn outline / the outline is larger than the block 0625/52 October/November 2018 method: MP1 measure room / starting temperature MP2 measure the time to raise water temperature to boiling point MP3 repeat with the other two containers control variables: MP4 any two from: same starting temperature / same room temperature same volume / mass / amount of water MP5 keep Bunsen burner flame constant / same distance from flame to bottom of beaker table: MP6 table to show container and heating time conclusion: MP7 comparison of heating times and suitable comment made",
+          "image": "/papers/physics-0625-2018/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit5-2018-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

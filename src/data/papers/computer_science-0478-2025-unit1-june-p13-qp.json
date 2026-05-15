@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-0478-2025-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It is not directly accessed by the CPU. • It stores data permanently until it is deleted by the user // non-volatile. Term Description MAC address This is the address given to a network interface card (NIC) when it is manufactured. register A component in the central processing unit (CPU) that is used to temporarily store data. clock It controls the number of fetch-decode-execute cycles that are performed per second. control unit A component in the CPU that manages the flow of data around the CPU // A component that decodes the instructions core This is a processing unit within the CPU that can fetch, decode and execute instructions. May/June 2025 Question Answer Marks • Program counter // PC • Memory address register // MAR • Memory data register // MDR • Current instruction register // CIR",
+          "image": "/papers/computer_science-0478-2025/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Control bus • Data bus May/June 2025 Question Answer Marks • It assigns a priority to an interrupt. • It uses an interrupt handler / interrupt service routine to process the interrupt. • Maintains/organises the interrupt queue Examples: • managing files • providing an interface • managing peripherals and drivers • managing memory • managing multitasking • providing a platform for running applications • providing system security • managing user accounts Examples: • key press on a keyboard • button clicks on a mouse • printer out of ink Examples: • division by zero • two processes trying to access the same memory location May/June 2025 Question Answer Marks • storing a database of URLs and matching IP addresses • search its database for the matching IP address. • send the URL to another DNS if URL cannot be found. • return the IP address to the web browser May/June 2025 Question Answer Marks • A perpetrator/third party sending malware // user downloads/installs malware • Each computer is turned into a bot ... • ... to create a botnet. • Third party initiates the attack. • All the bots send a request at once to the web server. • ... crashing the web server. Example: • Hide a public IP address • Caching third party Bot Bot Bot Bot web server Third party sends malware. Malware turns computers into bots. Botnet Requests Web server cannot handle all the requests and crashes. May/June 2025 Question Answer Marks Examples: • Store user’s login details. • Store user’s payment details. • Store user’s preferences. • Use for targeted advertising. Examples: • Storing bookmarks/favourites • Recording user history • Allowing use of multiple tabs • Providing navigation tools • Providing an address bar May/June 2025 Question Answer Marks Examples: • Microprocessor • Actuator • Storage/memory Examples: • Humidity • Light • Level • Infrared • A microprocessor is used. • Microprocessor received data from the sensor. • Microprocessor compares data against preset data of 40. • If the dat",
+          "image": "/papers/computer_science-0478-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q3.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It can suffer Interference/crosstalk. • ... that could have caused data loss/gained/changed. • odd/even • even/odd (must be opposite of MP1) • bit • echo check • automatic repeat query (ARQ) • timeout • positive/negative or negative/positive A parity check is set to be odd or even. A parity bit is added to each byte before transmission to make it match the set parity. An echo check involves comparing the data sent to the data received back from the receiving device. An automatic repeat query (ARQ) uses acknowledgement and timeout. The acknowledgement system can be positive or negative.",
+          "image": "/papers/computer_science-0478-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit1-2025-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

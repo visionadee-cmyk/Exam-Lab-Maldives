@@ -1,0 +1,91 @@
+{
+  "paperId": "physics-0625-2018-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) • Place the screen a distance D = 70.0 cm from the illuminated object. • Place the lens between the object and the screen so that the lens is very close to the screen. • Move the lens slowly away from the screen until a clearly focused image is formed on the screen. (i) • Measure, and record in Table 3.1, t",
+      "text": "1 (a) • Place the screen a distance D = 70.0 cm from the illuminated object. • Place the lens between the object and the screen so that the lens is very close to the screen. • Move the lens slowly away from the screen until a clearly focused image is formed on the screen. (i) • Measure, and record in Table 3.1, t",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of additional d values OR use a larger d value Count more swings one from: Perpendicular viewing of rule Counting beginning with zero (owtte) Use of fiducial mark (owtte) Use of set-square or horizontal rule to aid measurement of d Use rule close to/touching the rule Time taken from centre of swing, (not extremities) 0625/51 May/June 2018 V to at least 1 dp and < 4 V I to at least 2 dp and < 1 A R R present within 10% of R R present and V, A, Ω at least once and not contradicted R correct and to 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2018/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement matches readings (Expect YES) Justification to include the idea of within the limits of exper imental accuracy (but accept beyond limits, if ecf allowed for statement matching readings)",
+          "image": "/papers/physics-0625-2018/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 resistors in parallel Correct variable resistor symbol Other symbols and circuit correct 0625/51 May/June 2018 First u 45 to 51 (cm) and first v 19 to 25 u values > v values uv values correct Axes correctly labelled and right way round Suitable scales All plots correct to ½ small square Good line judgement, single, thin, continuous line",
+          "image": "/papers/physics-0625-2018/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Triangle method clearly shown on graph Triangle using at least half of candidate’s line two from: Finding exact position that gives clearest image Measuring to centre of lens Room too bright/lamp too dim 0625/51 May/June 2018 Method to include: Hot water in copper can, time taken for temperature to drop Correct use of at least 3 larger outer containers, separately Some indication that size of air gap is measured Any two from: Use of something to cover air gap Use of lid on copper can Same starting temperature Same room temperature Same volume of hot water Use of ‘control’ with no outer container Inner container standing on an insulator Uniform air gap all round Table with clear columns for temperature and / or time (to match method) and air-gap, with appropriate units Conclusion: Least temperature drop OR longest time for temperature to drop shows lowest cooling rate OR best insulation OR plot temperature against time and least gradient shows lowest cooling rate (ora) 0625/51 May/June 2018 Additional graph notes : NOTE: The principle to apply here is ‘could I draw a signific antly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2018/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit5-2018-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

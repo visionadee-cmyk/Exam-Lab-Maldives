@@ -1,0 +1,155 @@
+{
+  "paperId": "physics-0625-2019-unit6-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit6-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/62",
+  "session": "February/March 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) The student carries out an initial experiment. He draws lines AB and CD as shown in Fig. 1.1. He then draws a line EF through a point N as shown in Fig. 1.1 and at an angle θ to line AB. (i) Measure the angle θ. θ = ........................................................ [1] (ii) Draw a normal to line AB",
+      "text": "1 (a) The student carries out an initial experiment. He draws lines AB and CD as shown in Fig. 1.1. He then draws a line EF through a point N as shown in Fig. 1.1 and at an angle θ to line AB. (i) Measure the angle θ. θ = ........................................................ [1] (ii) Draw a normal to line AB",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not at a suitable distance and should be far (as possible) from N",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines present, neat and labelled correctly a = 10.2 (cm) ± 0.1 (cm)",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "graph: • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square, precise plots • well judged line and thin continuous line",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable reason e.g.: ray has finite thickness – (difficult to mark position of ray precisely), reflecting surface of mirror at rear, inaccuracies have more effect for smaller angles, small variations in mirror angle have significant effect on ‘ a ’",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "reflect ray below NL at same angles and take averages 0625/62 March 2019",
+          "image": "/papers/physics-0625-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ R = 23 (°C)",
+          "image": "/papers/physics-0625-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "s, °C, °C all correct 30, 60, 90, 120, 150, 180",
+          "image": "/papers/physics-0625-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lid is more effective correct mention of comparative temperature change over 180 s, supporting conclusion",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "additional experiment with both insulation and lid / neither insulation nor lid compare result of (previous) experiment with additional / only one factor changed in (each) comparison x A = 0.081 °C / s cooling more rapid at higher temperatures comparison of temperature difference over first 30 s and last 30 s supporting statement 0625/62 March 2019 correct voltmeter symbol in parallel with P and Q V = 2.6 (V) I = 0.36 (A)",
+          "image": "/papers/physics-0625-2019/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct units: V, A correct calculations of R consistent 2 or consistent 3 sig. figs. correct calculations or R / l",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R = 2.0 ( Ω ) and clear method seen e.g. proportion from other value(s) of R or use of R / l value(s) one from: difficult to judge position of crocodile clip, difficult to measure wire to nearest mm, contact between wire and crocodile clip not precise, difficult to interpolate readings on meters between marks",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct symbol for variable resistor in series and with all circuit elements in correct arrangement 0625/62 March 2019 MP1 apparatus: means of measuring dependent variable (e.g. stop watch / rule / protractor) MP2 method (one from): workable means of providing air resistance (e.g. fix card to rod / bob), allow pendulum to swing, suitable measurement (e.g. period, amplitude) MP3 repeat for different value of independent variable (e.g. area of card) MP4 control variable (one from): length of pendulum, angle of release, mass of bob MP5 table: suitable clear format with column headings and units MP6 analysis: compare readings to see if change in air resistance produces change in dependent variable (e.g. change in area of card changes period) / plot graph 0625/62 March 2019 MP7 additional point (one from): time 10 oscillations / swings (and calculate period), small angle of swing, at least 5 sets of data taken, repeat each measurement and take average, adjust mass of pendulum to compensate for changing mass of card, repeat with different length of pendulum / mass of bob, length measured to centre of bob / centre of gravity of pendulum, use of fiducial aid",
+          "image": "/papers/physics-0625-2019/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit6-2019-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

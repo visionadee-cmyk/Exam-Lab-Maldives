@@ -1,0 +1,237 @@
+{
+  "paperId": "wma13-jan-2021-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-jan-2021-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "January 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Shape (two way stretch) Maximum at (0.5, 6) Minimum at (1.5, 0) B1 B1 B1 (3) (ii) Shape and position Minimum at (−3, −1) and maximum at (−1, 1) Crosses y-axis at (0, −1) B1 B1 B1 (3) Total 6 (i) B1: Same shape passing through the origin with evidence of a two way stretch. Minimum must be on the x-axis and the graph must be in quadrants 1 and 3 Evidence is ( ) ( ) 3,0,0a→ where 3a≠ and ( ) ( ) 1, 2,bc→ where 1b≠ and 2c≠ Condone slips of the pen and mark positively but the curve should neither bend back significantly at either end nor consist of three straight lines B1: Maximum at (0.5, 6). Condone a '' ∧ '' shape to the curve here. There must be a sketch for this to be awarded. The maximum point may be implied by the sight of 0.5 and 6 being marked on the correct axes in the correct position. B1: Minimum at (1.5, 0). Condone a '' ∨ '' shape to the curve here. There must be a sketch for this to be awarded. Allow this with 1.5 marked on the x-axis (at the minimum point) and condone marked (0, 1.5) on the x-axis (ii) B1: Reflection in the y-axis followed by a vertical translation. Look for a x− shaped crossing the y-axis but not at the origin with turning points to the left of the y - axis. Don't be concerned about the coordinates or relative ''heights'' of the turning points or the y intercept for this mark. See conditions for shape in (i). B1: A minimum at (−3, −1) and a maximum at (−1, 1) and at only these points. These may be implied. See part i second B mark. They must be in the correct quadrants and be turnng points, not just points on the curve B1: Award for a curve crossing the y-axis at (0, −1) . May be awarded for a curve stopping at the y-axis at (0, −1) There must be a sketch for this to be awarded. Allow this with -1 marked on the y-axis and condone marked (-1, 0) on the y-axis 3f (2 )yx = f( ) 1 yx=−− Number Scheme",
+          "image": "/papers/wma13-jan-2021/q2-2i.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() 2 3525 1xxx x− −= − + B1 ()() ()() ()() 3 125225526 1 2 3 512 5 xx x x x xx xxxx x + −−− −+ + −+ −+= + −−+ − M1 A1 ()() ()() 41 1 125 25 xx x xx x ++ + == +− − A1 (4) (b) Correct attempt at inverse ... x yx x + = ⇒= − M1 ( ) f x x x − + = − A1 (2) (c) x << M1 A1 (2) Total 8 (a) B1: Correct factorisation, can be scored anywhere. Sight of ()() 2 3525 1xxx x− −= − + Condone ()() 22.51xx−+ M1: Attempts to combine all three terms using a common denominator. Allow the terms to be separate. There must be an attempt to adapt the numerators of the first two terms, one of them must be adapted correctly. So allow for example ()() () ()() 3 125225526 1 2 3 512 5 xx x x x xx xxxx x + −−−×−++ −+ −+= + −−+ − This may be done in stages but is only scored when all three terms are combined. Condone a fraction where the denominator () () 12 3 5x xx+ −− is used. (In this case there must be an attempt to adapt the numerators of the all terms and two of the three numerators must be adapted correctly) () () ( ) () () () () () ( )( ) ( ) () 2 22 3 12 3522 35 12 3 5 12 3 512 3 512 3 5 x xxxxx xx xx xxx x xxx xxx xx + −− − −− ++ −+ −+=−+ + −− + −− + −− + −− ** A1: Correct fraction with denominator ()() 12 5xx+− or equivalent such as 2 35xx−− Allow this to be given separately () () () () ()() ()() ()() 3 125225 1 2 3 512 512 512 5 xx x x xxx x xx xx xx xx +− − − −++ −+=−+ + −− +− +− +− If ** was given then they must proceed to () () () () 145 1 12 3 5 x xx x xx + ++ + −− A1: Correct fraction (or correct values). Proceeds to x x + − via ()() ()() 41 1 12 5 xx xx ++ +− oe. (b) M1: Attempts at the method for finding the inverse. Score for an attempt to change the subject for their ax b y cx d + = + or possibly ae y ccx d = ± + Look for a minimum of cross multiplying by cx d+ and proceeding to a form g( )xy= Some candidates may swap x and y first e.g ay b x cy d + = + and proceed to y =.. which is fine (same conditions) Allow this to be scored if one (but not more) of a, b or d = 0 Allow thi",
+          "image": "/papers/wma13-jan-2021/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-09.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Either a x= − or ya= Correct coordinates , a a  −   B1 B1 (2) (b) V shape in Quad 1 and 2 with the vertex on the negative x-axis Intersects/meets axes at (0, 5a) and (−5a, 0) B1 B1 (2) (c) Attempts to solve a correct equation E.g. either 53...x axaa x+ =− −+⇒= or 53...x a xaa x+ = ++⇒= M1 xa= − or xa= A1 xa = − and xa= A1 ......xy=⇒= using either equation dM1 ,and, 442 2 aaa a    −       A1 (5) Total 9 (a) B1: One of a x = − or ya= B1: Both coordinates correct. Allow this to be written separately as a x= − and ya= (b) B1: Correct shape and position in both quadrant 1 and quadrant 2. Condone an asymmetric graph but the vertex must be on the negative x - axis. Condone a free hand sketch as long as the intention was to have two straight lines. Ignore any ''dotted'' lines B1: Correct intercepts given as coordinates or as marked in the scheme. Must be on the correct axes in the correct positions. Condone for example (5a, 0) for (0, 5a) if marked on the correct axis. Additional intersections is B0 If the graph is only in quadrant 2 this can be scored for meeting the axes at (- 5a, 0) and (0, 5a) (c) M1: Attempts to solve either of the correct equations. (Ones that don't involve a modulus) Allow 53xa x+=− for 53x axaa+ =− −+ and 5 32xa xa+=+ for 53x a xaa+ = ++ Do not condone attempts where a candidate incorrectly combines the modulus terms even if it leads to a correct value for x. E.g. 3523xa x a ax a+ − + =−⇒ = ⇒ scores M0 A1: One correct value for x. Either xa = − or xa= (following a correct non modulus equation) Allow this mark even if the candidate subsequently rejects the solution A1: Both values correct xa= − and xa= with no additional values given This cannot be scored if the candidate rejects either of these solutions dM1: Correct method to obtain at least one y value using either equation in y. Evidence would be embedded values leading to y = which may be unsimplified or a correct calculation for their x A1: Both sets of coordinates ,and, 442 2",
+          "image": "/papers/wma13-jan-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "18180 1...AA= − ×⇒ = M1 198A= A1 (2) (b) 90 198 180e180e108 kk−− =−⇒= M1, A1 e5ln 0.6... k kk − = ⇒− =⇒ = dM1 ln k= − or ln k= A1 (4) (c) 9ln 198 180e... θθ −× = −⇒= M1 126 C θ= ° (awrt) A1 (2) (d) ln d15 180lne... d53 t t −    =−−=      θ B1ft ln d15 180lne... d53t −    =−−=      θ M1 = 7.33 °C min − (awrt) A 1 (3) Total 11 (a) M1: Substitutes θ = 18 and t = 0 uses e1 = and proceeds to find a value for A. Look for 18180 1...AA= − ×⇒ = A1: 198A= . Condone 198 CA= ° . Sight of 198 is sufficient to award both marks. (b) M1: Substitutes θ = 90 and t = 5 with their value for A and proceeds to an equation of the form e k PQ ± = A1: Correct equation 180e108 k − = o.e. dM1: Correct order of operations using ln's to make k the subject. Do not award if taking log 's. ( log0.22.. = − ) e5ln... k P PQkk Q ±  = ⇒± =⇒ =   with P Q > OR eln5ln... k PQ Pk Qk ± =⇒ ± = ⇒= with ,0PQ > It would be implied by a decimal equivalent to 3sf. So for correct values accept awrt 0.102k = A1: Cao. Allow equivalent correct exact answers in the required form. E.g. 0.2 ln 0.6k= − and ln k= (c) M1: Substitutes their A and their k with t = 9 to find a value for θ. Sight of embedded values is sufficient evidence and condone sign slips which may be common. A1: Awrt 126 C ° but condone a lack of units. Sight of awrt 126 following awrt 0.102k= is sufficient to award both marks. (d) B1ft: Correct differentiation. Follow through their k (even as a decimal or as ''k'') . Allow for 180 e kt k − M1: Substitutes t = 9 into a function of the form d e d kt t −  =   θ β following through on their k. Condone dd dd y tx = θ A1: Awrt 7.33 Ignore units. Award B0 M1 A1 for candidates who achieve awrt 7.33± following a sign error in their d dt θ ............................................................................................................................................................................... Answers without working in (d). The rubric states that candidates",
+          "image": "/papers/wma13-jan-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) () fcossin xx xx  ′ =−   M1 A1 (2) (b) ( ) f0cossin01tan0 xxx x xx  ′ = ⇒−= ⇒−=   M1 tan x x  = ⇒   3 arctanx x  =   * A1* (2) (c) 3 arctan 2.5 x  ==   awrt 2.6 M1 awrt 2.628x= and awrt 2.586x= A1 (2) (d) ( )() ()() 2.581512.5815 f 2.5815cos2.5815 sin0.000345... 2.580512.5805 f 2.5805cos2.5805 sin0.000346...  ′ =−=−    ′ =−=   Chooses a suitable interval and attempts both values M1 (Both values correct ) Sign change and continuous, therefore root A1 (2) Total 8 (a) M1: Attempts the product rule and obtains a derivative of the form cossin xx x  ±   αβ If the rule is stated or implied to be ''vuuv− it is M0 A1: cossin xx x  −   which may be unsimplified (b) M1: Sets their ( ) fcossin0 xx xx  ′ =±=   αβ and proceeds to an equation involving tan x    A1*: CSO Proceeds to 3 arctanx x  =   following an intermediate line of tan x x  =   or tan x x  =      Do not condone tan − notation unless correct notation is also given. (c) M1: Uses a formula of the type arctanx x  =×   αβ with the 2.5 to find the value of x correct to one dp. So when 3 arctanx x  =   M1 is scored for x = awrt 2.6 and when 3 arctanx x  =   M1 is scored for x = awrt 1.1 A1: awrt 2.628x= and awrt 2.586x= (d) M1: Chooses a suitable function for their ( ) f0x ′ = and attempts its value at both 2.5815 and 2.5805 . For the attempt we need to see embedded values as in scheme or one value correct to 1sf for their ( ) fx ′ Allowable functions are f ( )cossin xx xx  ′ =−   and multiples of this. See scheme. Follow through on their cossin xx x  −   Allow the function to be stated as just f( ) x ′ (or mistakenly written as f (x)) as long as one of f (2.5805) ... ′ = or f (2.5815) ... ′ = is correct to 1sf Other functions are possible, for example h( )3 arctanxx x  = −   and multiples of this. Follow through on their arctan k xk ",
+          "image": "/papers/wma13-jan-2021/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-19.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses sin 22 sin cosxxx= AND cos 21 2 sinxx= − o.e. in sin 2cos 2 cossin xx xx + M1 sin 2cos 22 sin cos1 2 sin cossincossin xxxxx xxxx − += + 2 sin cosxx = cos x 12 sin sinx +− sin x x = = cosec * sin x x dM1 A1* (3) (b) Uses part (a) 7 cosec 23 cot 2⇒+= θθ B1 Either Uses 1 cot 2cosec 2±±=±θθ → 3TQ in cosec 2θ Or alternatively replaces cosec2θ with 1/sin2θ , cot 2θ with cos 2θ/sin 2θ, multiplies by sin 2θ and uses ±cos 2θ = ±1± sin 2θ → 3TQ in sin 2θ M1 3cosec 2cosec 210 0θθ −−= or 10sin 2sin 23 0θθ+ −= A1 ()() 3cosec 25 cosec 220θθ+−= or ()() 5 sin 23 2sin 210θθ+−= cosec 2, 2 θ⇒=− or sin 2, θ⇒=− sin 2,... ⇒ =− ⇒= θθ dM1 () ( ) 0.262 ,1.31 ,0.322,1.25 ππ θ =−− (awrt these values) A1, A1 (6) Total 9 sin 2cos 22 sin cos cossin xxxx xx += cosx () 2 22 cos 2 sin 2 sincossin sin sincos1 sinsin cosec x x x xx x xx xx x + +− = + == = Alt part (a) M1: For using compound angle formula () sin sin 2cos cos 2cos 2xxxxxx+=− dM1: As in the main scheme, it is for adopting a valid approach that can be followed and completing the proof A1: Correct proof showing all necessary steps (See below) with no errors or omissions sin 2cos 2sin sin 2cos cos 2 cossinsin cos cos(2) sin cos cos xx xx x x xxxx xx xx x + += − = = sin cosxx cosecx= ........................................................................................................................................................................ (b) B1: States 7 cosec 23 cot 2+=θθ or exact equivalent which may be implied by subsequent work OR 7 cosec 3 cotxx+= with x =θ Watch for and do not allow 7 cosec3 cot+= θ2θ M1: Attempts to use part (a) and uses 1 cot 2cosec 2 ±±=± θθ to form a 3TQ in cosec 2 θ Condone 3 cot 2θ being replaced by 3cosec 21×±±θ with or without the bracket. Condone when the ''7'' is missing but these attempts will score a maximum of 2 marks. This mark and dM1 The terms don't need to be collected for this mark. Alternatively replaces cosec2θ with 1/sin2θ , cot 2θ with cos 2θ/sin 2θ within an equation of the form",
+          "image": "/papers/wma13-jan-2021/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-23.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States log0.68a = or log0.09 b= M1 4.791.23 ab== or A1 States log0.68a= and log0.09 b = M1 4.791.23 ab == and CSO A1 (4) (b) The percentage of the population with access to the internet at the start of 2005 B1 (1) (c) 4.79 1.23P= × = awrt 38 M1, A1 (2) Total 7 (a) M1: Either states any of log0.68,a= 0.68 a= , awrt 4.8a= or any of log0.09,b= 0.09 b= , awrt 1.2b= A1: Achieves either awrt 4.79awrt 1.23ab==or M1: States a correct equation for both a and b. See first M mark A1: Achieves 4.791.23ab==and with no incorrect work. Implied by 4.79 1.23 t P= × with no incorrect work These are NOT awrt values Examples of incorrect work are • logloglog t PabPa tb =⇒=× • 0.680.09 log0.68 0.0910104.79 1.23 tt PtPP= + ⇒= + ⇒= × (b) B1: A correct interpretation. The emboldened words must be present or stated in a similar way ''The percentage of the population with access to the internet at the start of 2005'' A minimal answer is ''the percentage with access to the internet in 2005'' Also allow ''the initial percentage with internet access''. It is acceptable to state 4.79% of the population had access to the in 2005 (c) M1: For attempting 4.79 1.23× following through on their 4.79 and 1.23, (Ignore subsequent work) Alternatively attempting log0.68 10 0.09...PP= +× ⇒= Condone an attempt at 4.79 1.23× A1: AWRT 38. ISW after sight of awrt 38 and condone misinterpretations such as stating 38 people. (i) M1: Integrates to a form ( ) ln 345xx−+ α where a is a constant . Condone a missing bracket. Do not accept () ln 345f ( )xxx− ++α , e.g. () ln 3452xxx− ++ If the substitution 3 45ux x= −+ is attempted, the mark can be awarded for lnku It is unlikely but () ln345xx−+αβ and () ln 345xx−+ β α are also correct A1: () ln 345 xx −+ o.e. with or without the + c. A bracket or modulus must be present. ISW after a correct answer. Do not penalise () ln 345 xx−+ or ( ) ln 345 / 2 xx −+ if the intention is clear Penalise spurious incorrect notation for the A mark only. So do not allow () ln 345 d xx x",
+          "image": "/papers/wma13-jan-2021/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-27.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9i",
+          "text": "Part 9i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() ( ) dln 345 3 45 2 x xxx c xx − =−+ + −+ ∫ M1, A1 (2) (ii) ( ) () ( ) e1 de1 e1 x x x xc − =− −+ − ∫ M1, A1 (2) Total 4 (a) M1: Differentiates to a form on the rhs of sec 2 tan 2yyα which may be written ...sec 2...sec 2 tan 2yyy × Note that the same scheme can also be applied to students who adapt 3sec 2xy= to 3 tan 23xy=±± A 1: d 12 sec 2 tan 2 d x yy y = . If the lhs is included it must be correct. So d 12 sec 2 tan 2 d y yy x = is M1 A0 Condone this to be unsimplified d 6 sec 22 sec 2 tan 2 d x yyy y =× ISW after sight of correct answer (b) M1: For an attempt to • replace sec 2y with xα • use the identity 1 tan 2sec 2yy±±=± and replaces tan 21y bdx= ±± to obtain an expression for d d x y or d d y x in terms of x only. The expression in part (a) must have had d d x y as a function of both sec 2y and tan 2y o.e. A1ft: Requires a substitution of both sec 2y with x and tan 21 x y= − to obtain a correct expression for d d x y or d d y x in terms of x. Follow through on their d sec 2 tan 2 d x yy y =α Number Scheme Marks",
+          "image": "/papers/wma13-jan-2021/q9-9i.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-31.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d 12 sec 2 tan 2 d x yy y = M1, A1 (2) (b) dd 12sec 21121 d3d33 xxxxx y yy  =−⇒ =−   M1, A1ft d3 d y x xx = − A1 (3) (c) yx π = ⇒= B1 d41 d3 x y = ×× or d1 d y x =  −   M1 Correct N m= − o.e A1 () yx π −=− − dM1 16 364 3 yx π =− ++ A1 (5) Total 10 For a correct d d x y it is awarded for d1 d y x xx = − A1: Correct answer in the required form. Allow equivalents e.g. xx− . Form required is p qx x− where p is irrational and q is an integer ........................................................................................................................................................................................ Alt method for (a) and (b) which can be marked in a similar way (a) M1 A1: ( ) () d 3 cos 212 cos 2sin 2 d x x yyy y −− =⇒= (b) If () 3 cos 2cos 2xy y x − = ⇒= Score in a similar way to the main scheme M1 A1: () d12 sin 2 d cos 2 x xy x y y x − ==    ............................................................................................................................................................... Alt (b) via arccos 13d1 13 arccos 2d22 x y yx xx − − =⇒=×    M1: For d1 d x y x x − α − =λ×−    A1: Correct and unsimplied A1: Correct and in the required form ........................................................................................................................................................................................ (c) B1: Correct value for x M1: Attempts to find the value of d d x y using their part (a) with y π = the value of d d y x from an inverted d d x y using their part (a) with y π = or the value of d d y x using their part (b) with their value of x found using y π = . These may be called m or f ' and not identified as d d x y or d d y x A1: Correct normal gradient dM1: Attempt at the equation of normal at y π = . The gradient should be either an attempt at the value of d d x y − at y= π for their d d x y or an attempt at the negative reciprocal of their d d y x at their ''4''",
+          "image": "/papers/wma13-jan-2021/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2021/page-10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 9
+  },
+  "assets": {
+    "basePath": "/papers/wma13-jan-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2021-unit1-2021-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-jan-2021/page-01.png",
+      "/papers/wma13-jan-2021/page-02.png",
+      "/papers/wma13-jan-2021/page-03.png",
+      "/papers/wma13-jan-2021/page-04.png",
+      "/papers/wma13-jan-2021/page-05.png",
+      "/papers/wma13-jan-2021/page-06.png",
+      "/papers/wma13-jan-2021/page-07.png",
+      "/papers/wma13-jan-2021/page-08.png",
+      "/papers/wma13-jan-2021/page-09.png",
+      "/papers/wma13-jan-2021/page-10.png",
+      "/papers/wma13-jan-2021/page-11.png",
+      "/papers/wma13-jan-2021/page-12.png",
+      "/papers/wma13-jan-2021/page-13.png",
+      "/papers/wma13-jan-2021/page-14.png",
+      "/papers/wma13-jan-2021/page-15.png",
+      "/papers/wma13-jan-2021/page-16.png",
+      "/papers/wma13-jan-2021/page-17.png",
+      "/papers/wma13-jan-2021/page-18.png",
+      "/papers/wma13-jan-2021/page-19.png",
+      "/papers/wma13-jan-2021/page-20.png",
+      "/papers/wma13-jan-2021/page-21.png",
+      "/papers/wma13-jan-2021/page-22.png",
+      "/papers/wma13-jan-2021/page-23.png",
+      "/papers/wma13-jan-2021/page-24.png",
+      "/papers/wma13-jan-2021/page-25.png",
+      "/papers/wma13-jan-2021/page-26.png",
+      "/papers/wma13-jan-2021/page-27.png",
+      "/papers/wma13-jan-2021/page-28.png",
+      "/papers/wma13-jan-2021/page-29.png",
+      "/papers/wma13-jan-2021/page-30.png",
+      "/papers/wma13-jan-2021/page-31.png",
+      "/papers/wma13-jan-2021/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

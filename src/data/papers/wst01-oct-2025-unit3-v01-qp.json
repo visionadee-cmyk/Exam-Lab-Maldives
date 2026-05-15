@@ -1,0 +1,157 @@
+{
+  "paperId": "wst01-oct-2025-unit3-v01-qp",
+  "pairedMarkSchemeId": "wst01-oct-2025-unit3-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WST01/01",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "  1160 4160 S hw  =− or   S ww =− M1   S hw = A1   S ww = A1 (3) (b) \"935\" 0.9481... 286 \"3400\" r ==  awrt 0.948 M1A1 (2) (c)   \"935\" 3.269... b == M1   \"3.269...\" 45.96... a = −  = M1 46.0 3.27 wh =+ * A1* (3) (d) [On average] for each/1 [cm] increase in height/h the weight/w increases by “3.27”[kg] B1 (1) (e)(i) 546.31 awrt 546 B1 (ii) 601.9 awrt 602 B1 (2) (f) The 1 st estimate is more reliable estimate since... • The 1 st estimate is an interpolation/The 2 nd is an extrapolation • 153(height) is within data range/170 is not within data range • 153 is closer to the mean(height)/170 is further from the mean B1 (1) Notes Total 12 (a) M1 for a correct expression for S hw or S ww implied by either correct A1 935 cao A1 3400 cao (b) M1 for a valid attempt at r allow ft their values from (a) A1 awrt 0.948 correct answer scores 2 out of 2 (c) M1 for a correct numerical expression to find the value of b M1 for a correct method to find the value of a ft their b Allow 520 \"3.269...\"(145)wh− =− oe for this mark A1* correct solution with both method marks and correct given equation stated. do not award this mark if there is incorrect working seen e.g. a = 45.85 rounding to a = 46.0 do not allow 46 3.27 wh =+ (d) B1 for a correct numerical interpretation which includes height/h and weight/w if units are stated then they must be correct (e)(i) B1 awrt 546 (ii) B1 awrt 602 (f) B1 for 1 st estimate oe and a correct supporting reason. ignore extraneous non-contradictory comments. for 2 nd /3 rd reason, do not allow comments that refer to weights Number Scheme Marks [UQ =] 112 B1 (2) (b) \"95\" 1.5 (\"112\" \"95\") −  − or \"112\" 1.5 (\"112\" \"95\") +  − M1 \"95\" 1.5 (\"112\" \"95\") −  − and \"112\" 1.5 (\"112\" \"95\") +  − A1ft So only outlier is 139 A1 (3) (c) M1M1 M1A1ft (4) (d) (Club B has) positive (skew) M1 So club B weights are more varied above the median (than below the median) A1 (2) Notes Total 11 (a) B1 correct lower quartile 95 cao B1 correct upper quartile 112 cao (b",
+          "image": "/papers/wst01-oct-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wst01-oct-2025/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() P Yy==   [ y = ] 1, 2, 3, 4, 5, 6 B1dB1 (2) (b) [Discrete] uniform [distribution] B1 (1) (c) () E[ 3.5] Y + == or ( ) 1 2 3 4 5 6 E [ 3.5] Y + + + + + == 4Y + 3 : 7, 11, 15, 19, 23, 27 M1 E(4 3) 4 \"3.5\" 3 Y + =  + \"7 \" \"27 \" E(4 3) Y + += or \"7\" \"11\" \"15\" \"19\" \"23\" \"27\" + + + + + M1 17 A1 (3) Total 6 (a) B1 for identifying ( ) P Yy == as the only probability Ignore labels. (May be seen in a table). Must be seen in part (a). Stating or using Normal, Binomial (or other distribution) is B0 dB1 Dep on previous B1 for y = 1, 2, 3, 4, 5, 6 Ignore labels. (May be seen in a table) Must be seen in part (a). SC Use of inaccurate value for can score B0B1 if otherwise fully correct e.g. 1 2 3 4 5 6 0.167 0.167 0.167 0.167 0.167 0.167 (b) B1 do not allow continuous uniform [distribution] do not allow Normal uniform (c) M1 a correct method to find E(Y) (implied by 3.5) or sight of 7, 11, 15, 19, 23, 27 (allow one slip)  +  +  +  +  +  is M0 M1 use of 4E( ) 3 Y + ft their E( )Y must be clear that they are using their E(Y) e.g.  +   is M0 or a correct method to find E(4Y + 3) ft their 7, 11, 15, 19, 23, 27 A1 cao 17 scores 3/3 Number Scheme Marks –0.05 + a + 2b + 1.05 = 1.8 [a + 2b = 0.8] M1 b = 0.3 a = 0.2 A1 (3) (b) [x] –1 0 1 2 3 [F(x)] 0.0 0.15 0.35 0.65 1 B1B1ft (2) (c) 0.15 B1 (1) (d) E( ) 1 0.05 1 \"0.2\" X =  +  + 4 \"0.3\" 9 0.35[ 4.6] +  = E(5 3 ) 8 0.05 5 0.1 X − =  +  + 2 \"0.2\" 1 \"0.3\" 4 0.35[ 0.4]  −  −  = − or E(5 3 ) 5 3 1.8[ 0.4] X − = −  = − M1 Var( ) \"4.6\" 1.8 1.36 X = − = E(5 3 ) 64 0.05 25 0.1 X − =  +  + 4 \"0.2\" 1 \"0.3\" 16 0.35[ 12.4]  +  +  = M1 Var(5 – 3X) = 9 × “1.36” Var(5 – 3X) = “12.4” – (“–0.4”) M1 = 12.24 = 12.24 awrt 12.2 A1 (4) Notes Total 10 (a) M1 for either correct equation in a and b M1 for both correct equations in a and b A1 both a = 0.2 oe and b = 0.3 oe correct answers score 3 out of 3 unless from obvious incorrect working In part (b) and (d) working labelled in script takes priority. Look out for working shown u",
+          "image": "/papers/wst01-oct-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wst01-oct-2025/page-03.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P( ) 0.6 A = P( ) 0.24 0.09 Bx = + + P( ) 0.24 AB = M1 ( ) 0.6 0.33 0.24 x += M1 x = 0.07 A1 (3) (b) ( ) 0.24 \"0.07\" P| 0.6 \"0.07\" BC z +  == ++ M1 z = 0.08 A1 (2) (c) y = 1 – 0.36 – 0.24 – “0.07” – 0.09 – “0.08” M1 y = 0.16 A1ft (2) (d)(i) 0.36 B1 (ii) 0.67 B1ft (2) Notes Total 9 (a) M1 for at least 2 of the 3 correct probabilities/probability expressions seen or used (implied by 2 nd M1) 0.24 0.09 x ++ may be implied by embedded working e.g. x = “P(B)”– 0.24 – 0.09 M1 for use of P( ) P( ) P( ) ABAB  =  oe to form a correct equation in x A1 oe correct answer scores 3/3 (b) M1 for a correct conditional probability equation ft “their x” substituted or just x allow ( ) 0.24 \"0.07\" P| 1 0.09 BC y +  == −− A1 oe correct answer scores 2 out of 2 (c) M1 for a correct expression to find y ft their x and their z values substituted where x and z are probabilities do not allow blank/no answers for x and/or z as zero may be implied by x + y + z = 0.31 with x, y, and z as probabilities A1ft ft their x and their z x + y + z = 0.31 where x, y, and z are probabilities (d)(i) B1 oe (ii) B1ft 0.67 oe or 0.6 + “their x” ft “their x” where “their x” and 0.6 + “their x” are probabilities Number Scheme Marks",
+          "image": "/papers/wst01-oct-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wst01-oct-2025/page-05.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "  54.4 51 48.45 51 P(48.45 54.4) P P 1.7 1.7 WZZ −−       =  −          M1M1   0.9772 0.0668 − = 0.9104 Cal: 0.91044... awrt 0.910 A1 (3) (b) ()() P 53.5554.4\"0.9772\" 1 \"0.0668\"W =− −   [= 0.044] Calc:0.044057.... M1   \"0.044\" P( 53.55 | 48.45 54.4) \"0.9104\" WW    = M1 = 0.04833 awrt 0.0483/0.0484 A1 (3) (c) 64.58 0.5244   − =− (Calc: – 0.524400...) M1 69.46 1.2816   − = (Calc: 1.281551) M1 4.88 1.806  = 2.702...  = awrt 2.7 65.996...  = awrt 66 dM1A1 (4) Notes Total 10 (a) M1 Standardising with 54.4, 51 and 1.7 (implied by ±2) or standardising with 48.45, 51 and 1.7 (implied by ±1.5) using 1.7 is M0 M1 Standardising with 54.4, 51 and 1.7 and 48.45, 51 and 1.7 and attempt to find correct probability using p – q oe (where 0.5 < p < 1 and 0 < q < 0.5) or p – (1 – r) oe (where 0.5 < p < 1 and 0.5 < r < 1) If 1 st M1 scored, then may be implied by correct answer A1 awrt 0.910 condone 0.91 correct answer with no working scores 0 (b) M1 for a valid attempt to find P(53.55 54.4) W  e.g. ( ) \"0.9772\" 1 \"0.0668\" −− May be implied by awrt 0.044/0.0441 M1 for a conditional probability in the form \"0.9104\" p where 0 < p < “0.9104” assuming independence is M0 e.g. \"0.9104\" \"0.9104\" p  A1 awrt 0.0483/0.0484 No fractions (c) M1 for standardising 64.58 and setting equal to z value where 0.5 < |z| < 0.6 or for standardising 69.46 and setting equal to z value where 1 < |z| < 1.5 M1 for standardising 64.58 and setting equal to z value where – 0.6 < z < – 0.5 oe with compatible signs and for standardising 69.46 and setting equal to z value where 1 < z < 1.5 oe with compatible signs dM1 Dep on 1 st M1 for attempting to solve their two linear equations (using substitution or elimination) leading to an equation in one variable Implied by either awrt 2.7  = or awrt 66  = A1 both awrt 2.7  = and awrt 66  = and both 0.5244 (or better) and 1.2816 (or better) seen Number Scheme Marks",
+          "image": "/papers/wst01-oct-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wst01-oct-2025/page-06.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) find the value of a and the value of b (3) (b) Specify the cumula tive distribution function F(x) for x = –1, 0, 1, 2 and 3 (2) (c) Find P(2X < 1) (1) (d) Find Var (5 – 3X ) You must show your working. (4) _____________________________________________________________________________________ _____________________________________________________________________________________ ____",
+      "text": "8 (a) find the value of a and the value of b (3) (b) Specify the cumula tive distribution function F(x) for x = –1, 0, 1, 2 and 3 (2) (c) Find P(2X < 1) (1) (d) Find Var (5 – 3X ) You must show your working. (4) _____________________________________________________________________________________ _____________________________________________________________________________________ ____",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "8 (a) find the value of a and the value of b (3) (b) Specify the cumula tive distribution function F(x) for x = –1, 0, 1, 2 and 3 (2) (c) Find P(2X < 1) (1) (d) Find Var (5 – 3X ) You must show your working. (4) _____________________________________________________________________________________ _____________________________________________________________________________________ ____",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 1 * 2 5 6 10 3 20  +  +  = B1* (1) (b) 1 1 2 5 *    ==    or 6 10 3 20 1*  +  −= M1A1* (2) (c) B1B1 M1A1 (4) Notes Total 7 (a) B1* for a correct expression which is the sum of three products of probabilities leading to the given answer allow + + = (b) M1 for 1 1 2 5  =   (do not award if embedded in an incorrect calculation) or use of 1 – .... with 6 10 3 20  +  A1* for a fully correct expression leading to the given answer (c) B1 for oe in the correct place on the tree diagram B1 for oe and oe in the correct place on the tree diagram M1 for   =   oe or 6 10   =   oe or 1 19 3 20   =   oe implied by 1 correct probability in the correct place on tree diagram A1 for oe and oe and oe in the correct place on tree diagram",
+          "image": "/papers/wst01-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wst01-oct-2025/page-07.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/wst01-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA13-2025-unit3-2025-10-01A-qp.pdf",
+    "pageImages": [
+      "/papers/wst01-oct-2025/page-01.png",
+      "/papers/wst01-oct-2025/page-02.png",
+      "/papers/wst01-oct-2025/page-03.png",
+      "/papers/wst01-oct-2025/page-04.png",
+      "/papers/wst01-oct-2025/page-05.png",
+      "/papers/wst01-oct-2025/page-06.png",
+      "/papers/wst01-oct-2025/page-07.png",
+      "/papers/wst01-oct-2025/page-08.png",
+      "/papers/wst01-oct-2025/page-09.png",
+      "/papers/wst01-oct-2025/page-10.png",
+      "/papers/wst01-oct-2025/page-11.png",
+      "/papers/wst01-oct-2025/page-12.png",
+      "/papers/wst01-oct-2025/page-13.png",
+      "/papers/wst01-oct-2025/page-14.png",
+      "/papers/wst01-oct-2025/page-15.png",
+      "/papers/wst01-oct-2025/page-16.png",
+      "/papers/wst01-oct-2025/page-17.png",
+      "/papers/wst01-oct-2025/page-18.png",
+      "/papers/wst01-oct-2025/page-19.png",
+      "/papers/wst01-oct-2025/page-20.png",
+      "/papers/wst01-oct-2025/page-21.png",
+      "/papers/wst01-oct-2025/page-22.png",
+      "/papers/wst01-oct-2025/page-23.png",
+      "/papers/wst01-oct-2025/page-24.png",
+      "/papers/wst01-oct-2025/page-25.png",
+      "/papers/wst01-oct-2025/page-26.png",
+      "/papers/wst01-oct-2025/page-27.png",
+      "/papers/wst01-oct-2025/page-28.png",
+      "/papers/wst01-oct-2025/page-29.png",
+      "/papers/wst01-oct-2025/page-30.png",
+      "/papers/wst01-oct-2025/page-31.png",
+      "/papers/wst01-oct-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,632 @@
+{
+  "paperId": "physics-0625-2023-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit2-november-p23-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/23",
+  "session": "October/November 2023",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "How many of the quantities shown are scalars? mass      momentum      density      energy A 1    B    2    C    3    D    4",
+      "text": "How many of the quantities shown are scalars? mass      momentum      density      energy A 1    B    2    C    3    D    4",
+      "options": [
+        "A 1    B    2    C    3    D    4"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A train is on a straight track. The graph shows how a quantity y varies with time. y time 0 0 Which statements can be true? 1     The train is stationary and y represents the distance from the last station. 2     The train is moving and y represents the distance from the last station.",
+      "text": "A train is on a straight track. The graph shows how a quantity y varies with time. y time 0 0 Which statements can be true? 1     The train is stationary and y represents the distance from the last station. 2     The train is moving and y represents the distance from the last station.",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The train is stationary and y represents the speed of the train.",
+      "text": "The train is stationary and y represents the speed of the train.",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The train is moving and y represents the speed of the train. A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 3     The diagram shows a speed–time graph for a moving object. speed time 0 0 Which description of the object’s motion is correct?, A decreasing    acceleration, B decreasing    speed, C constant    acceleration, D constant    speed 3 4     The mass of air hitting the blades of a wind turbine each second is 1.5 × 10 4 kg. The speed of the air is 4.0 m / s. The density of air is 1.2 kg / m 3 . Which  row  gives  the  volume  of  the  air  hitting  the  blades  each  second  and  the  kinetic  energy  of the air hitting the blades each second? volume of air each second / m 3 kinetic energy each second / J, A 13 000                          72 000, B 13 000                        120 000, C 18 000                          72 000, D 18 000                        120 000",
+      "text": "The train is moving and y represents the speed of the train. A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 3     The diagram shows a speed–time graph for a moving object. speed time 0 0 Which description of the object’s motion is correct?, A decreasing    acceleration, B decreasing    speed, C constant    acceleration, D constant    speed 3 4     The mass of air hitting the blades of a wind turbine each second is 1.5 × 10 4 kg. The speed of the air is 4.0 m / s. The density of air is 1.2 kg / m 3 . Which  row  gives  the  volume  of  the  air  hitting  the  blades  each  second  and  the  kinetic  energy  of the air hitting the blades each second? volume of air each second / m 3 kinetic energy each second / J, A 13 000                          72 000, B 13 000                        120 000, C 18 000                          72 000, D 18 000                        120 000",
+      "options": [
+        "A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 3     The diagram shows a speed–time graph for a moving object. speed time 0 0 Which description of the object’s motion is correct?",
+        "A decreasing    acceleration",
+        "B decreasing    speed",
+        "C constant    acceleration",
+        "D constant    speed 3 4     The mass of air hitting the blades of a wind turbine each second is 1.5 × 10 4 kg. The speed of the air is 4.0 m / s. The density of air is 1.2 kg / m 3 . Which  row  gives  the  volume  of  the  air  hitting  the  blades  each  second  and  the  kinetic  energy  of the air hitting the blades each second? volume of air each second / m 3 kinetic energy each second / J",
+        "A 13 000                          72 000",
+        "B 13 000                        120 000",
+        "C 18 000                          72 000",
+        "D 18 000                        120 000"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object moves in a circle at constant speed. Which statement about the force needed on the object is correct? A A force away from the centre of the circle keeps the object moving in the circle., B A force in the direction of motion of the object keeps it moving in the circle., C A force towards the centre of the circle keeps the object moving in the circle., D No force is needed to keep the object moving at constant speed in the circle. 4",
+      "text": "An object moves in a circle at constant speed. Which statement about the force needed on the object is correct? A A force away from the centre of the circle keeps the object moving in the circle., B A force in the direction of motion of the object keeps it moving in the circle., C A force towards the centre of the circle keeps the object moving in the circle., D No force is needed to keep the object moving at constant speed in the circle. 4",
+      "options": [
+        "A A force away from the centre of the circle keeps the object moving in the circle.",
+        "B A force in the direction of motion of the object keeps it moving in the circle.",
+        "C A force towards the centre of the circle keeps the object moving in the circle.",
+        "D No force is needed to keep the object moving at constant speed in the circle. 4"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A uniform rod rests on a pivot at its centre. The rod is not attached to the pivot. Forces are then applied to the rod in four different ways, as shown. The weight of the rod can be ignored. Which diagram shows the rod in equilibrium? A 100 N 100 N B 100 N100 N C 100 N100 N D 100 N100 N 100 N",
+      "text": "A uniform rod rests on a pivot at its centre. The rod is not attached to the pivot. Forces are then applied to the rod in four different ways, as shown. The weight of the rod can be ignored. Which diagram shows the rod in equilibrium? A 100 N 100 N B 100 N100 N C 100 N100 N D 100 N100 N 100 N",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car of mass 1200 kg is travelling along a straight horizontal road. Which impulse is needed to accelerate the car from 5.0 m / s to 10 m / s? A 6000 N s B    12 000 N s C    15 000 N s D    18 000 N s 5",
+      "text": "A car of mass 1200 kg is travelling along a straight horizontal road. Which impulse is needed to accelerate the car from 5.0 m / s to 10 m / s? A 6000 N s B    12 000 N s C    15 000 N s D    18 000 N s 5",
+      "options": [
+        "A 6000 N s B    12 000 N s C    15 000 N s D    18 000 N s 5"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mass bounces up and down on a steel spring. The diagram shows the mass and the spring at different points during the motion. highest point lowest point mass moving down mass moving up At  which  point  is  the  least  energy  in  the  gravitational  potential  store  of  the  mass  and  at  which point is the most energy in the elastic store of the spring? least energy in gravitational potential store of the mass most energy in the elastic store of the spring A mass moving down mass moving up, B mass moving down lowest point, C lowest point mass moving up, D lowest point lowest point",
+      "text": "A mass bounces up and down on a steel spring. The diagram shows the mass and the spring at different points during the motion. highest point lowest point mass moving down mass moving up At  which  point  is  the  least  energy  in  the  gravitational  potential  store  of  the  mass  and  at  which point is the most energy in the elastic store of the spring? least energy in gravitational potential store of the mass most energy in the elastic store of the spring A mass moving down mass moving up, B mass moving down lowest point, C lowest point mass moving up, D lowest point lowest point",
+      "options": [
+        "A mass moving down mass moving up",
+        "B mass moving down lowest point",
+        "C lowest point mass moving up",
+        "D lowest point lowest point"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A boy uses a rope to pull an object of mass m up a slope. The rope is parallel to the slope. The tension in the rope is constant and of value F. The object moves a distance d along the slope and rises through a height h. How much work is done by the boy? A F × d, B F × h, C m × g × h × d, D m × g × h 2 6",
+      "text": "A boy uses a rope to pull an object of mass m up a slope. The rope is parallel to the slope. The tension in the rope is constant and of value F. The object moves a distance d along the slope and rises through a height h. How much work is done by the boy? A F × d, B F × h, C m × g × h × d, D m × g × h 2 6",
+      "options": [
+        "A F × d",
+        "B F × h",
+        "C m × g × h × d",
+        "D m × g × h 2 6"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A microwave oven is rated at 900 watts. Which statement correctly describes the meaning of this value? A 900 joules are transferred every second., B 900 amperes are transferred every second., C 900 volts are transferred every second., D 900 ohms are transferred every second.",
+      "text": "A microwave oven is rated at 900 watts. Which statement correctly describes the meaning of this value? A 900 joules are transferred every second., B 900 amperes are transferred every second., C 900 volts are transferred every second., D 900 ohms are transferred every second.",
+      "options": [
+        "A 900 joules are transferred every second.",
+        "B 900 amperes are transferred every second.",
+        "C 900 volts are transferred every second.",
+        "D 900 ohms are transferred every second."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An  object  is  immersed  in  a  liquid  of  density ρ.  The  pressure  at  this  depth  due  to  the  liquid  is  p. The gravitational field strength is g. What is the equation for the depth h of the object beneath the surface? A h = p ρ g B h = p g ρ, C h = g p ρ, D h = ρ pg",
+      "text": "An  object  is  immersed  in  a  liquid  of  density ρ.  The  pressure  at  this  depth  due  to  the  liquid  is  p. The gravitational field strength is g. What is the equation for the depth h of the object beneath the surface? A h = p ρ g B h = p g ρ, C h = g p ρ, D h = ρ pg",
+      "options": [
+        "A h = p ρ g B h = p g ρ",
+        "C h = g p ρ",
+        "D h = ρ pg"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sealed bottle of constant volume contains air. The air in the bottle is heated by the Sun. What is the effect on the average speed of the air particles in the bottle and the average distance between them? average speed of air particles average distance between air particles A decreases                decreases, B decreases stays the same, C increases                 increases, D increases stays the same 7",
+      "text": "A sealed bottle of constant volume contains air. The air in the bottle is heated by the Sun. What is the effect on the average speed of the air particles in the bottle and the average distance between them? average speed of air particles average distance between air particles A decreases                decreases, B decreases stays the same, C increases                 increases, D increases stays the same 7",
+      "options": [
+        "A decreases                decreases",
+        "B decreases stays the same",
+        "C increases                 increases",
+        "D increases stays the same 7"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In  an  experiment  to  investigate  the  relationship  between  the  volume  of  a  sample  of  air  and  its pressure, the volume of the sample is decreased and its pressure is measured continuously. Curve X on the graph shows the results that would be expected for a fixed mass of air at constant temperature. Curve Y shows the results that are obtained in this particular experiment. 0 0 volume pressure X Y Which row shows two possible reasons why curve Y is different from curve X? 1                                      2 A the temperature of the air increases as the volume is decreased air leaks into the container as the volume is decreased B the temperature of the air increases as the volume is decreased air leaks out of the container as the volume is decreased C the temperature of the air decreases as the volume is decreased air leaks into the container as the volume is decreased D the temperature of the air decreases as the volume is decreased air leaks out of the container as the volume is decreased",
+      "text": "In  an  experiment  to  investigate  the  relationship  between  the  volume  of  a  sample  of  air  and  its pressure, the volume of the sample is decreased and its pressure is measured continuously. Curve X on the graph shows the results that would be expected for a fixed mass of air at constant temperature. Curve Y shows the results that are obtained in this particular experiment. 0 0 volume pressure X Y Which row shows two possible reasons why curve Y is different from curve X? 1                                      2 A the temperature of the air increases as the volume is decreased air leaks into the container as the volume is decreased B the temperature of the air increases as the volume is decreased air leaks out of the container as the volume is decreased C the temperature of the air decreases as the volume is decreased air leaks into the container as the volume is decreased D the temperature of the air decreases as the volume is decreased air leaks out of the container as the volume is decreased",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student splashes water on to her face. Here are three statements about the effects. P     The water uses energy to evaporate. Q    The water gains energy from the student. R    The face of the student cools. Which statements are correct? A P and Q only B    P and R only C    Q and R only D    P, Q and R 8",
+      "text": "A student splashes water on to her face. Here are three statements about the effects. P     The water uses energy to evaporate. Q    The water gains energy from the student. R    The face of the student cools. Which statements are correct? A P and Q only B    P and R only C    Q and R only D    P, Q and R 8",
+      "options": [
+        "A P and Q only B    P and R only C    Q and R only D    P, Q and R 8"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four containers each contain water. More water at the same temperature is added to each container. From which container does water now evaporate more slowly than it did before? ABCD",
+      "text": "Four containers each contain water. More water at the same temperature is added to each container. From which container does water now evaporate more slowly than it did before? ABCD",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A cupboard is placed in front of a heater. Air can move through a gap under the cupboard. wall floor heater cupboard air moves through gap Which row describes the temperature and the direction of movement of the air in the gap? air temperature air direction A cool away from the heater, B cool towards the heater, C warm away from the heater, D warm towards the heater 9",
+      "text": "A cupboard is placed in front of a heater. Air can move through a gap under the cupboard. wall floor heater cupboard air moves through gap Which row describes the temperature and the direction of movement of the air in the gap? air temperature air direction A cool away from the heater, B cool towards the heater, C warm away from the heater, D warm towards the heater 9",
+      "options": [
+        "A cool away from the heater",
+        "B cool towards the heater",
+        "C warm away from the heater",
+        "D warm towards the heater 9"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light  diffracts  when  it  enters  a  telescope.  This  causes  the  image  to  blur  slightly.  The  amount  of diffraction depends on the diameter of the hole through which the light enters the telescope and the wavelength of the light. Which combination for diameter and wavelength will result in the sharpest image (least blurring)? diameter           wavelength A large                    long, B large                   short, C small                   long, D small                   short",
+      "text": "Light  diffracts  when  it  enters  a  telescope.  This  causes  the  image  to  blur  slightly.  The  amount  of diffraction depends on the diameter of the hole through which the light enters the telescope and the wavelength of the light. Which combination for diameter and wavelength will result in the sharpest image (least blurring)? diameter           wavelength A large                    long, B large                   short, C small                   long, D small                   short",
+      "options": [
+        "A large                    long",
+        "B large                   short",
+        "C small                   long",
+        "D small                   short"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a transverse wave. P Q S R Which row identifies the amplitude and the wavelength of the wave? amplitude          wavelength A P                       R, B P                       S, C Q                       R, D Q                       S 10",
+      "text": "The diagram shows a transverse wave. P Q S R Which row identifies the amplitude and the wavelength of the wave? amplitude          wavelength A P                       R, B P                       S, C Q                       R, D Q                       S 10",
+      "options": [
+        "A P                       R",
+        "B P                       S",
+        "C Q                       R",
+        "D Q                       S 10"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the effect of a prism on white light. Some  light  is  reflected  on  striking  the  prism  and  some  is  refracted  and  dispersed  to  form  a spectrum. reflected light white light spectrum What happens if monochromatic light is used instead of white light? A The light changes colour as it passes through the prism., B The light forms a brighter spectrum., C There is no reflected light., D There is no dispersion of the emerging light.",
+      "text": "The diagram shows the effect of a prism on white light. Some  light  is  reflected  on  striking  the  prism  and  some  is  refracted  and  dispersed  to  form  a spectrum. reflected light white light spectrum What happens if monochromatic light is used instead of white light? A The light changes colour as it passes through the prism., B The light forms a brighter spectrum., C There is no reflected light., D There is no dispersion of the emerging light.",
+      "options": [
+        "A The light changes colour as it passes through the prism.",
+        "B The light forms a brighter spectrum.",
+        "C There is no reflected light.",
+        "D There is no dispersion of the emerging light."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of light incident on a plane mirror. 35\u0001 mirror The angle between the ray and the mirror is 35°. The ray is reflected by the mirror. What is the angle of reflection? A 35° B    55° C    70° D    110° 11",
+      "text": "The diagram shows a ray of light incident on a plane mirror. 35\u0001 mirror The angle between the ray and the mirror is 35°. The ray is reflected by the mirror. What is the angle of reflection? A 35° B    55° C    70° D    110° 11",
+      "options": [
+        "A 35° B    55° C    70° D    110° 11"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  thin  converging  lens  in  a  camera  produces  a  real  image  on  a  photo-sensitive  surface,  as shown. At which position is the image of the top of the object formed? object top A B C D thin converging lens photo-sensitive surface",
+      "text": "A  thin  converging  lens  in  a  camera  produces  a  real  image  on  a  photo-sensitive  surface,  as shown. At which position is the image of the top of the object formed? object top A B C D thin converging lens photo-sensitive surface",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light  is  travelling  through  air.  It  strikes  a  glass  block  at  an  angle  of  incidence  of  45°.  The  glass has a refractive index of 1.4. What is the angle of refraction of the light as it enters the glass? A 29° B    30° C    32° D    82°",
+      "text": "Light  is  travelling  through  air.  It  strikes  a  glass  block  at  an  angle  of  incidence  of  45°.  The  glass has a refractive index of 1.4. What is the angle of refraction of the light as it enters the glass? A 29° B    30° C    32° D    82°",
+      "options": [
+        "A 29° B    30° C    32° D    82°"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row gives approximate values for the speed of sound in copper, water and air? speed of sound in copper m / s speed of sound in water m / s speed of sound in air m / s A 4500                                      1500                                        350, B 350                                      4500                                      1500, C 1500                                      4500                                        350, D 4500                                        350                                        1500",
+      "text": "Which row gives approximate values for the speed of sound in copper, water and air? speed of sound in copper m / s speed of sound in water m / s speed of sound in air m / s A 4500                                      1500                                        350, B 350                                      4500                                      1500, C 1500                                      4500                                        350, D 4500                                        350                                        1500",
+      "options": [
+        "A 4500                                      1500                                        350",
+        "B 350                                      4500                                      1500",
+        "C 1500                                      4500                                        350",
+        "D 4500                                        350                                        1500"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which metal can be attracted by a magnet? A zinc, B lead, C iron, D copper 12",
+      "text": "Which metal can be attracted by a magnet? A zinc, B lead, C iron, D copper 12",
+      "options": [
+        "A zinc",
+        "B lead",
+        "C iron",
+        "D copper 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an electric circuit. A In which direction do free electrons flow around this circuit and what quantity does the ammeter measure? direction of electron flow quantity measured by the ammeter A anticlockwise charge passing each point in the circuit per unit time B anticlockwise total charge passing through the ammeter C clockwise charge passing each point in the circuit per unit time D clockwise total charge passing through the ammeter",
+      "text": "The diagram shows an electric circuit. A In which direction do free electrons flow around this circuit and what quantity does the ammeter measure? direction of electron flow quantity measured by the ammeter A anticlockwise charge passing each point in the circuit per unit time B anticlockwise total charge passing through the ammeter C clockwise charge passing each point in the circuit per unit time D clockwise total charge passing through the ammeter",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which substances both contain large concentrations of free electrons? A aluminium and glass, B copper    and    water, C copper    and    nylon, D silver and gold",
+      "text": "Which substances both contain large concentrations of free electrons? A aluminium and glass, B copper    and    water, C copper    and    nylon, D silver and gold",
+      "options": [
+        "A aluminium and glass",
+        "B copper    and    water",
+        "C copper    and    nylon",
+        "D silver and gold"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A resistance wire of length L melts and has to be replaced with a wire of the same material and the same resistance. The only wire available has twice the diameter of the broken wire. Which length of this wire should be used? A 4 L B 2 L C 2L D 4L 13",
+      "text": "A resistance wire of length L melts and has to be replaced with a wire of the same material and the same resistance. The only wire available has twice the diameter of the broken wire. Which length of this wire should be used? A 4 L B 2 L C 2L D 4L 13",
+      "options": [
+        "C 2L D 4L 13"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher wishes to show the production of electrostatic charges. She holds a rod and rubs it with a cotton cloth. A copper rod, a glass rod, a plastic rod and a steel rod are available. Which two rods would both be suitable to use? A a copper rod and a glass rod, B a glass rod and a plastic rod, C a plastic rod and a copper rod, D a plastic rod and a steel rod",
+      "text": "A teacher wishes to show the production of electrostatic charges. She holds a rod and rubs it with a cotton cloth. A copper rod, a glass rod, a plastic rod and a steel rod are available. Which two rods would both be suitable to use? A a copper rod and a glass rod, B a glass rod and a plastic rod, C a plastic rod and a copper rod, D a plastic rod and a steel rod",
+      "options": [
+        "A a copper rod and a glass rod",
+        "B a glass rod and a plastic rod",
+        "C a plastic rod and a copper rod",
+        "D a plastic rod and a steel rod"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two resistors, with resistances R 1 and R 2 , are used as a potential divider. V 1 V 2 R 1 R 2 What is the relationship between R 1 , R 2 and potential differences V 1 and V 2 ? A R 1 × R 2 = V 1 × V 2, B R 1 × V 1 = R 2 × V 2 C 2 1 R R = V 1 × V 2 D 2 1 R R = 2 1 V V 14",
+      "text": "Two resistors, with resistances R 1 and R 2 , are used as a potential divider. V 1 V 2 R 1 R 2 What is the relationship between R 1 , R 2 and potential differences V 1 and V 2 ? A R 1 × R 2 = V 1 × V 2, B R 1 × V 1 = R 2 × V 2 C 2 1 R R = V 1 × V 2 D 2 1 R R = 2 1 V V 14",
+      "options": [
+        "A R 1 × R 2 = V 1 × V 2",
+        "B R 1 × V 1 = R 2 × V 2 C 2 1 R R = V 1 × V 2 D 2 1 R R = 2 1 V V 14"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a light-dependent resistor (LDR) connected in a potential divider circuit. V The brightness of the light falling on the LDR is increased. Which  row  shows  what  happens  to  the  resistance  of  the  LDR  and  what  happens  to  the  reading on the voltmeter? resistance of LDR reading on voltmeter A decreases                        decreases, B decreases                         increases, C increases                         decreases, D increases                         increases",
+      "text": "The diagram shows a light-dependent resistor (LDR) connected in a potential divider circuit. V The brightness of the light falling on the LDR is increased. Which  row  shows  what  happens  to  the  resistance  of  the  LDR  and  what  happens  to  the  reading on the voltmeter? resistance of LDR reading on voltmeter A decreases                        decreases, B decreases                         increases, C increases                         decreases, D increases                         increases",
+      "options": [
+        "A decreases                        decreases",
+        "B decreases                         increases",
+        "C increases                         decreases",
+        "D increases                         increases"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A simple a.c. generator has a coil rotating in a magnetic field. What  happens  to  the  peak  electromotive  force  (e.m.f.)  and  to  the  frequency  of  the  a.c.  output when the coil is rotated faster? peak         e.m.f.          frequency A greater                greater, B greater             no             change, C no change greater, D no change no change 15",
+      "text": "A simple a.c. generator has a coil rotating in a magnetic field. What  happens  to  the  peak  electromotive  force  (e.m.f.)  and  to  the  frequency  of  the  a.c.  output when the coil is rotated faster? peak         e.m.f.          frequency A greater                greater, B greater             no             change, C no change greater, D no change no change 15",
+      "options": [
+        "A greater                greater",
+        "B greater             no             change",
+        "C no change greater",
+        "D no change no change 15"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A current passes along a wire placed between the poles of a permanent magnet. The wire experiences a force due to the magnetic field. NS What will change the direction of this force? A increasing the current, B reversing the current, C increasing the strength of the magnetic field, D using an electromagnet with the same polarity as the permanent magnet",
+      "text": "A current passes along a wire placed between the poles of a permanent magnet. The wire experiences a force due to the magnetic field. NS What will change the direction of this force? A increasing the current, B reversing the current, C increasing the strength of the magnetic field, D using an electromagnet with the same polarity as the permanent magnet",
+      "options": [
+        "A increasing the current",
+        "B reversing the current",
+        "C increasing the strength of the magnetic field",
+        "D using an electromagnet with the same polarity as the permanent magnet"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is a transformer used for? A changing a direct current into an alternating current, B changing the magnitude of an alternating voltage, C reducing the frequency of an alternating current, D switching off the current in a circuit when there is a fault 16",
+      "text": "What is a transformer used for? A changing a direct current into an alternating current, B changing the magnitude of an alternating voltage, C reducing the frequency of an alternating current, D switching off the current in a circuit when there is a fault 16",
+      "options": [
+        "A changing a direct current into an alternating current",
+        "B changing the magnitude of an alternating voltage",
+        "C reducing the frequency of an alternating current",
+        "D switching off the current in a circuit when there is a fault 16"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  scattering  of  α-particles  by  a  thin  gold  foil  provides  evidence  for  the  nuclear  model  of  the atom. Two α-particles of the same energy are incident on a nucleus of gold. Which  diagram  shows  the  correct  paths  followed  by  the  α-particles  as  they  pass  close  to  the nucleus? AB CD gold nucleus path of \u0002-particle",
+      "text": "The  scattering  of  α-particles  by  a  thin  gold  foil  provides  evidence  for  the  nuclear  model  of  the atom. Two α-particles of the same energy are incident on a nucleus of gold. Which  diagram  shows  the  correct  paths  followed  by  the  α-particles  as  they  pass  close  to  the nucleus? AB CD gold nucleus path of \u0002-particle",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The half-life of carbon-14 is 5700 years. An object containing carbon-14 has a count rate of 100 counts / minute when it is first formed. The graph shows how the count rate decreases over time. Which point on the graph corresponds to a time 11 400 years after the formation of the object? 100 0 0 time count rate counts / minute A B C D 17",
+      "text": "The half-life of carbon-14 is 5700 years. An object containing carbon-14 has a count rate of 100 counts / minute when it is first formed. The graph shows how the count rate decreases over time. Which point on the graph corresponds to a time 11 400 years after the formation of the object? 100 0 0 time count rate counts / minute A B C D 17",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why  are  beta-particles  deflected  more  strongly  than  alpha-particles  when  they  enter  an  electric field? A Beta-particles have less mass than alpha-particles., B Beta-particles are negatively charged., C Beta-particles have lower velocities than alpha-particles., D Beta-particles have more ionising power than alpha-particles.",
+      "text": "Why  are  beta-particles  deflected  more  strongly  than  alpha-particles  when  they  enter  an  electric field? A Beta-particles have less mass than alpha-particles., B Beta-particles are negatively charged., C Beta-particles have lower velocities than alpha-particles., D Beta-particles have more ionising power than alpha-particles.",
+      "options": [
+        "A Beta-particles have less mass than alpha-particles.",
+        "B Beta-particles are negatively charged.",
+        "C Beta-particles have lower velocities than alpha-particles.",
+        "D Beta-particles have more ionising power than alpha-particles."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement describes how nuclear energy is released by fission in a nuclear power station? A Atoms join together to make molecules., B Heavy nuclei split into lighter nuclei., C Light nuclei join together to form heavier nuclei., D Molecules break down into atoms.",
+      "text": "Which statement describes how nuclear energy is released by fission in a nuclear power station? A Atoms join together to make molecules., B Heavy nuclei split into lighter nuclei., C Light nuclei join together to form heavier nuclei., D Molecules break down into atoms.",
+      "options": [
+        "A Atoms join together to make molecules.",
+        "B Heavy nuclei split into lighter nuclei.",
+        "C Light nuclei join together to form heavier nuclei.",
+        "D Molecules break down into atoms."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a star S and the initial arrangement of three planets, X, Y and Z. X S Y Z clockwise NOT TO SCALE Each planet orbits clockwise in a circle about S. The time for one orbit of Y is three times the time taken for one orbit of X. The time for one orbit of Z is twice the time taken for one orbit of Y. Starting  from  the  initial  arrangement,  which  diagram  shows  the  positions  of  the  planets  after  X has made one complete orbit? X S Y Z X S Y Z X S Y Z X S ABCD Y Z 18",
+      "text": "The diagram shows a star S and the initial arrangement of three planets, X, Y and Z. X S Y Z clockwise NOT TO SCALE Each planet orbits clockwise in a circle about S. The time for one orbit of Y is three times the time taken for one orbit of X. The time for one orbit of Z is twice the time taken for one orbit of Y. Starting  from  the  initial  arrangement,  which  diagram  shows  the  positions  of  the  planets  after  X has made one complete orbit? X S Y Z X S Y Z X S Y Z X S ABCD Y Z 18",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The nearest star to the Sun is about four light-years away from the Earth. A student makes three statements about the star. 1     Light from the star takes about four years to reach the Earth. 2     Light from the Sun takes about four years to travel to the star and back to the Earth. 3     The star is outside our galaxy. Which statements are correct?, A 1, 2 and 3 B    1 and 3 only C    1    only    D    2 and 3 only",
+      "text": "The nearest star to the Sun is about four light-years away from the Earth. A student makes three statements about the star. 1     Light from the star takes about four years to reach the Earth. 2     Light from the Sun takes about four years to travel to the star and back to the Earth. 3     The star is outside our galaxy. Which statements are correct?, A 1, 2 and 3 B    1 and 3 only C    1    only    D    2 and 3 only",
+      "options": [
+        "A student makes three statements about the star. 1     Light from the star takes about four years to reach the Earth. 2     Light from the Sun takes about four years to travel to the star and back to the Earth. 3     The star is outside our galaxy. Which statements are correct?",
+        "A 1, 2 and 3 B    1 and 3 only C    1    only    D    2 and 3 only"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A planet orbits the Sun with orbital period T. The average radius of the orbit is r. What is the average orbital speed of the planet? A 2πrT B T rπ2 C r T π2 D T r 2 π 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "A planet orbits the Sun with orbital period T. The average radius of the orbit is r. What is the average orbital speed of the planet? A 2πrT B T rπ2 C r T π2 D T r 2 π 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A 2πrT B T rπ2 C r T π2 D T r 2 π 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit2-2023-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

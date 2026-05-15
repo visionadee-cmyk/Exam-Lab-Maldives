@@ -1,0 +1,77 @@
+{
+  "paperId": "wma13-may-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-may-2023-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "May 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "cos 2sin 2cos 22sin cos sincossincos xxxxx xxxx +=+ (One Correct identity) B1 1 2 sin2 sin cos sin xxx x − =+ cosx M1 12 sin sinx =− sin x x 2 sincosec sin xx x +== * A1* (3) (b) E.g. Equation is cosec6 cot46 cot41 cot=−=−+ M1 E.g. cot6 cot5 0−+ = A1 E.g. tan = ,1  dM1 =0.197,   A1, A1 (5) (c) cosec cot dcosecxx xx      =−   M1 22=− A1 (2) 10 marks Notes (a) There are lots of ways of proving this statement. In general score as follows B1 For applying at least one CORRECT double or compound angle identity during the proof or for forming a CORRECT single fraction initially. M1 For a correct overall strategy, e.g. applying double angle identities to reduce terms to single angle arguments and cancelling down terms to eliminate cos x terms (score at the stage cos x terms could be eliminated), or attempting a single fraction and applying relevant identities to achieve single angle argument with common factor cos x in the numerator. Allow slips in signs, such as ncos 212sixx= for the M but otherwise identities used must be correct. A1* Fully correct proof showing all necessary steps, though the left hand side may be implied (and may follow initial lines of aside working). Must see the c o si ec n sx x → during the proof . Do not penalise minor notational slips such as missing an x in one term. (b) M1 Correctly applies the result of (a) and attempts to use relevant identities, allowing sign errors e.g. 1 cotcosec = to produce an equation in cot or other single trig term only. An alternative is ()() 1cos 6436 s1 6 sin cossin1 4 sin1 sinin sinsin      =− +−=−= A1 Correct quadratic cot6 cot5 0−+ = or 5tan6 tan1 0−+ = . In the alternative, a correct quadratic in sin θ or cos θ e.g. 28sin1 052sin−+ = . The “=0” may be implied by an attempt to solve. May be implied by correct solutions following an unsimplified quadratic. dM1 Attempts to solve quadratic to find at least one value for their trig term used. Usual rules, may use calculator. ",
+          "image": "/papers/wma13-may-2023/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2023/page-25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma13-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2023-unit1-2023-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-may-2023/page-01.png",
+      "/papers/wma13-may-2023/page-02.png",
+      "/papers/wma13-may-2023/page-03.png",
+      "/papers/wma13-may-2023/page-04.png",
+      "/papers/wma13-may-2023/page-05.png",
+      "/papers/wma13-may-2023/page-06.png",
+      "/papers/wma13-may-2023/page-07.png",
+      "/papers/wma13-may-2023/page-08.png",
+      "/papers/wma13-may-2023/page-09.png",
+      "/papers/wma13-may-2023/page-10.png",
+      "/papers/wma13-may-2023/page-11.png",
+      "/papers/wma13-may-2023/page-12.png",
+      "/papers/wma13-may-2023/page-13.png",
+      "/papers/wma13-may-2023/page-14.png",
+      "/papers/wma13-may-2023/page-15.png",
+      "/papers/wma13-may-2023/page-16.png",
+      "/papers/wma13-may-2023/page-17.png",
+      "/papers/wma13-may-2023/page-18.png",
+      "/papers/wma13-may-2023/page-19.png",
+      "/papers/wma13-may-2023/page-20.png",
+      "/papers/wma13-may-2023/page-21.png",
+      "/papers/wma13-may-2023/page-22.png",
+      "/papers/wma13-may-2023/page-23.png",
+      "/papers/wma13-may-2023/page-24.png",
+      "/papers/wma13-may-2023/page-25.png",
+      "/papers/wma13-may-2023/page-26.png",
+      "/papers/wma13-may-2023/page-27.png",
+      "/papers/wma13-may-2023/page-28.png",
+      "/papers/wma13-may-2023/page-29.png",
+      "/papers/wma13-may-2023/page-30.png",
+      "/papers/wma13-may-2023/page-31.png",
+      "/papers/wma13-may-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

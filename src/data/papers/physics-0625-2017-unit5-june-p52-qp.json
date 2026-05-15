@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2017-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2017-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Place the load P on the metre rule at the 5.0 cm mark. Place the metre rule on the pivot at the 45.0 cm mark. Place load Q on the rule and adjust its position so that the metre rule is as near as possible to being balanced. • Record, in Table 2.1, the distance a between the centre of load P and the pivot. • Measure and record in the table the dist",
+      "text": "1 (a) Place the load P on the metre rule at the 5.0 cm mark. Place the metre rule on the pivot at the 45.0 cm mark. Place load Q on the rule and adjust its position so that the metre rule is as near as possible to being balanced. • Record, in Table 2.1, the distance a between the centre of load P and the pivot. • Measure and record in the table the dist",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to match results",
+          "image": "/papers/physics-0625-2017/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "different heating effects on wires different interpolation of readings between marks on meters difficult to measure length of wire to nearest mm/to judge the position of the sliding contact cell may run down/power of cell may be less Any 2 × 1 mark each Total: 0625/52 May/June 2017",
+          "image": "/papers/physics-0625-2017/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a values 40 cm, 35 cm, 30 cm, 25 cm, 20 cm b values all less than 50 cm and decreasing axes correctly labelled suitable scales all plots correct to ½ small square good line judgement, thin, continuous line line does not pass through origin g to 200 g and mX seen Qb + mX must be between 36 and 40 inclusive",
+          "image": "/papers/physics-0625-2017/q2-2a.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not taken the weight of the rule/moment of the weight into account/the pivot is not at the centre of the rule Total: 0625/52 May/June 2017 normal in centre of AB and CD (by eye) and FE at 40° to normal first P P distance at least 5 cm P line correctly drawn α correctly measured to ± 2° x correct to 2 mm",
+          "image": "/papers/physics-0625-2017/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "α and β values 38 – 42 correct units for x and y all lines present and in approximately correct positions and neat",
+          "image": "/papers/physics-0625-2017/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matches readings (expect YES) justification to include the idea of within (or beyond, ecf) the limits of experimental accuracy",
+          "image": "/papers/physics-0625-2017/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one from: large pin separation/pins must be >5 cm apart ensure pins vertical/upright/perpendicular to the paper view bases of pins use thin pencil lines/thin pins Total: 0625/52 May/June 2017 method to include: MP1 measurements of temperature of hot water over a period of ti me/measurement of temperature at start and end of a specified cooling time/measurement of time for a specified temperature drop MP2 repeat using variety of fan speeds (blowing air over water surface) MP3 MP4 two from: room temperature initial temperature of hot water volume/mass/amount of hot water distance of beaker to fan for each speed setting time of cooling temperature drop MP5 table with columns for fan speed, time and temperature with units MP6 compare readings to find which fan speed produces the greatest temperature drop/takes least time/plot a graph MP7 in the same time/for the same temperature drop/compare slopes Total:",
+          "image": "/papers/physics-0625-2017/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2017-unit5-2017-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

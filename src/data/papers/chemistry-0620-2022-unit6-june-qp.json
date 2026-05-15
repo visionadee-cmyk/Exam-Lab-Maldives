@@ -1,0 +1,147 @@
+{
+  "paperId": "chemistry-0620-2022-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W (filter) funnel X test-tube / boiling tube",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to cool (the steam to form water) / to turn steam to wate r / to condense (the steam) / so water condenses",
+          "image": "/papers/chemistry-0620-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "measure boiling point = 100 (°C) or measure freezing point = 0 (°C) r / calcium hydroxide (solution) or hydrogen",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use (acidified) potassium manganate( VII ) changes from purple to colourless",
+          "image": "/papers/chemistry-0620-2022/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "both temperatures recorded correctly (25.0, 34.0) all eight measuring cylinder volumes correct (27, 48, 65, 78, 86, 89, 90, 90)",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "both temperatures recorded correctly (25.5, 31.0) both temperatures recorded 1 dp in (b) all eight measuring cylinder volumes correct (12, 23, 33, 42, 50, 57, 62, 65) 0620/61 May/June 2022",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y-axis scale in linear and points extend over halfway up scale all points for Experiment 1 and 2 plotted correctly two best fit curves lines both extended to (0,0) and are labelled",
+          "image": "/papers/chemistry-0620-2022/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct working shown on graph correct reading from their working shown on graph. cm C is more concentrated than solution D as reaction is faste r / stays the same use a water bath",
+          "image": "/papers/chemistry-0620-2022/q2-2d.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "minimise gas loss / escape / data so) bette r / smoother graph / curve / line",
+          "image": "/papers/chemistry-0620-2022/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(red) litmus becomes blue ammonia / NH / (remains) colourless 0620/61 May/June 2022",
+          "image": "/papers/chemistry-0620-2022/q3-3a.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any in range 2 – / H +  filter the water (1) and any five from:  specified volume of water / filtrate  placed in a suitable container and heated in this container (evaporating basin / beaker)  heat/warm (to evaporate water)  (heat) until all water gone / to dryness / to constant mass  find mass of solid left  concentration = mass   volume used",
+          "image": "/papers/chemistry-0620-2022/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit6-2022-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

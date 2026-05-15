@@ -1,0 +1,117 @@
+{
+  "paperId": "wma12-jan-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-jan-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "January 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or uses ( ) 5, 4M= or grad AB = o.e. B1 States or uses ( ) 5, 4M= and grad AB = o.e. B1 Equation of l is ( ) 43 5yx−=− − M1 319yx=−+ A1 (4) (b) 2k= − B1 ft (1) (c) Attempts radius or radius E.g. () () 11 762− + −− M1 States ( ) () () () 2 22 2 7' 2 '11 762xy−++ =−+−− dM1 ( ) ( ) 7280xy− ++ = A1 (3) (8 marks) (a) B1: States or uses ( ) 5, 4M= or grad AB = o.e. such as Note that gradient AB may be implied by use of a gradient for l of 3− o.e. B1: States or uses ( ) 5, 4M= and grad AB = o.e. such as Note that gradient AB may be implied by use of a gradient for l of 3− o.e. M1: Attempts equation of l using their M and their correctly adapted gradient. The gradient used must be the negative reciprocal of their gradient of AB. If it just appears without any working it must be correct. If the form ymx c= + is used this mark is only scored when they proceed as far as c = ... A1: CAO 319yx=−+ (b) B1ft: 2k= − or follow through on the value of their ' 3 ' 7 '19 '−×+ Allow this to be scored if the coordinates of P are given. For example, as () 7, 2− or even 2y= − following use of 7 (c) M1: Attempts either the radius or the radius using their ( ) 7,k and one of the given points E.g. () () 11 76 ' 2 '− + −− or ( ) () 71'2'2  −− + − −   It does not need to be correctly identified as r or r dM1: Attempts equation of circle using their radius and their ( ) 7,k Note that ( ) () () () 2 22 2 7''11 76 ''xykk−+− =−+− would score M1 dM1 A1: ( ) ( ) 7280xy− ++ = The rhs of the equation must be simplified and ISW after a correct answer. Alt (c) M1: Writes equation of circle as 142 ' 'x yxky+− − =λ following through on their k dM1: Substitutes ( ) 1, 2− or ( ) 1 1, 6 into the equation of the circle and finds a value for λ A1: 14427xy xy+− += Number Scheme 7 (i) () {} log 4 log 9 2 log 5 log 6 log 7 log 8 ++ +++ B1 ( ) log 4 9log(5 6 7 8) =× + ××× log10080= M1 A1 (3) (ii) ( )() 2 log 5log251aa−− + = ( )( ) 2 log 5log 5aa−= − OR 1 log 5= B1 ( ) () log1 a a − = + M1 15100 0aa−−= A",
+          "image": "/papers/wma12-jan-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2025/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8i",
+          "text": "Part 8i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Provides a counter example E.g. 2 84×= B1 (1) (ii) Knows that odd numbers are of the form () 21,kk+∈N B1 Attempts () () 213 212 ....kk+ + ++= M1 812126kkk=+ ++ A1 ( ) 42 3 3 12kkk=× + + ++ Which is even but not a multiple of 4. Hence proven A1* (4) (5 marks) (i) B1: Provides a counter example and shows that the statement is not always true. The correct result must be written out showing that it is rational (that is, giving it in a rational form) So 2816×= is insufficient but π ×= π is acceptable (ii) A proof attempted by substituting odd numbers n = 1, 3, 5 etc into 32nn++ will not score any marks B1: Knows that odd numbers are of the form 21k± using any variable apart from n Other variations may be used, for example 23k± , 25,k± etc but will be much less common. Note that use of 41k+ is flawed as it doesn’t pick up all the odd numbers so on its own scores B0 M1: Attempts to expand () () 21 3212kk+ + ++ or () () 21 3212kk− + −+ using any variable including n. Generally, look for a minimum of () () 21 3212kk+ + ++→ a cubic expression in k As with the B mark, other variations may be used, for example 23k± but will be much less common. The use of 41nk= + in 32nn++ and expanded to a cubic form can be awarded this M mark only A1: A correct expansion for () () 21 3212kk+ + ++ Allow the use of any variable including n Look for 812126kkk+ ++ ... but ...allow any correct expression that allows the problem to be solved e.g. () ( ) 42 11 2k kk+ +++ FYI the correct expansion for () () 21 3212kk− + −+ is 812122kkk− +− A1*: Requires the candidate to have fully correct algebra, scored all 3 previous marks and 1) prove/show that the result is even 2) prove/show that the result is not a multiple of 4 3) give a minimal conclusion Examples of expressions, for 21,nk= + that show the result is even; • 812126kkk+ ++ with a statement saying that it is a sum of even numbers • ( ) 3 232 81212624663k k kkkk+ + + ÷= + + + • 812126kkk+ + += ( ) 2466 3kkk+ ++ Examples of expressions, for 21,nk=",
+          "image": "/papers/wma12-jan-2025/q8-8i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2025/page-25.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "53 9d9 5d2 y yx xx x x = − ⇒= − M1, A1 ( ) xxx− =⇒= dM1 () 16, 460.8 A1, A1 (5) (b) 5025xx− =⇒= M1, A1 (2) (c) 9d3 xxx xx−=− ∫ M1A1 Shaded area = () 25 16460.83 xx   −× − −   M1, dM1 =1312.7 A1 (5) (12 marks) (a) M1: Attempts to differentiate. In most cases this will involve multiplying out and differentiating each term. Look for a sum of two terms with one correct index. So, score for either d ....... d y yaxpx x = ±⇒ = ± or d ...... d y ybxqx x =± ⇒=± It is possible to differentiate using the product rule. In this case look for the correct form. E.g () () d 5......... 5d xx y yx xx x x − − =⇒=− ×+ × You may see attempts using the product or quotient rules so look carefully at what is written A1: d9 d2 y xx x = − o.e but allow this un-simplified. FYI, using the product rule, the correct unsimplified answer is () 55 2 xx xx − − × + ×− dM1: Sets their 0px qx±= or 0px qx±= (from a slip on the fractional index) and proceeds using correct index work to x ± α=β Other methods exist, such as squaring, but look for correct index work with the coefficients squared as well. The demand of candidates is to show their working and it will be applied in this question on this mark. If candidates go from xx−= to 16x= without intermediate working they will lose this mark. They can be awarded the next two marks however. A1: x coordinate of 16 following correct differentiation and 0= d d y x . Note that errors stemming from a misunderstanding of the 5÷ can lead to 16x= but should be scored A0 A1: () 16, 460.8 following award of previous A1. Allow this to be scored from correct coordinate in part (c) Also allow this to be given separately as 16x= , y= o.e. (b) M1: Deduces that 50x−= or 5x= . Squaring methods are also possible (with coefficients squared) usually leading to 250x−= o.e. A1: 25x= following award of the M1 25 on its own without any working scores M0 A0 (c) In epen this is marked M, A, M, A, A but is now being scored M, A, M, dM, A Method integrating just curve M1: At",
+          "image": "/papers/wma12-jan-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2025/page-27.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wma12-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-jan-2025/page-01.png",
+      "/papers/wma12-jan-2025/page-02.png",
+      "/papers/wma12-jan-2025/page-03.png",
+      "/papers/wma12-jan-2025/page-04.png",
+      "/papers/wma12-jan-2025/page-05.png",
+      "/papers/wma12-jan-2025/page-06.png",
+      "/papers/wma12-jan-2025/page-07.png",
+      "/papers/wma12-jan-2025/page-08.png",
+      "/papers/wma12-jan-2025/page-09.png",
+      "/papers/wma12-jan-2025/page-10.png",
+      "/papers/wma12-jan-2025/page-11.png",
+      "/papers/wma12-jan-2025/page-12.png",
+      "/papers/wma12-jan-2025/page-13.png",
+      "/papers/wma12-jan-2025/page-14.png",
+      "/papers/wma12-jan-2025/page-15.png",
+      "/papers/wma12-jan-2025/page-16.png",
+      "/papers/wma12-jan-2025/page-17.png",
+      "/papers/wma12-jan-2025/page-18.png",
+      "/papers/wma12-jan-2025/page-19.png",
+      "/papers/wma12-jan-2025/page-20.png",
+      "/papers/wma12-jan-2025/page-21.png",
+      "/papers/wma12-jan-2025/page-22.png",
+      "/papers/wma12-jan-2025/page-23.png",
+      "/papers/wma12-jan-2025/page-24.png",
+      "/papers/wma12-jan-2025/page-25.png",
+      "/papers/wma12-jan-2025/page-26.png",
+      "/papers/wma12-jan-2025/page-27.png",
+      "/papers/wma12-jan-2025/page-28.png",
+      "/papers/wma12-jan-2025/page-29.png",
+      "/papers/wma12-jan-2025/page-30.png",
+      "/papers/wma12-jan-2025/page-31.png",
+      "/papers/wma12-jan-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

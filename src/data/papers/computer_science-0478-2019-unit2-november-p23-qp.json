@@ -1,0 +1,99 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-november-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "October/November 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Conditional / selection statement MP1 CASE statement with identifier Response MP2 Correct structure used for choices« MP3 «. correct statements used for choices MP4 OTHERWISE and correct statement MP5 Single ENDCASE included e.g. CASE OF Response // CASE Response OF 1 : X ← X + Y 2 : X ← X - Y 3 : X ← X * Y 4 : X ← X / Y OTHERWISE OUTPUT ′′No response′′ ENDCASE Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "First Last UserIn Middle Found OUTPUT 0 16 FALSE 0 16 10 8 FALSE 0 7 10 3 FALSE 4 7 10 5 TRUE TRUE One mark per correct column October/November Question Answer Marks • Search for the value input « • « using an array« • « of sorted data Question Answer Marks One mark for each correct symbol and name / description / example of use (maximum four marks) Symbol Description of use Terminator – start / end the flowchart Process – to show calculations, etc. Input / Output Decision – to show condition Continuation – to extend the flowchart and allow it to join up October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Number of Fields: 4 • Number of Records: 32",
+          "image": "/papers/computer_science-0478-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• No field is suitable as a primary key « • « because none of the data would be unique // duplicates could occur",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: FirstName LastName Y10TestScore Table: MARKBOOK MARKBOOK MARKBOOK Sort: Descending Show:; ; ;  Criteria: >=50 or: One mark for each completely correct column down to and including ‘Show’ row (maximum three marks) One mark for correct search criteria rows",
+          "image": "/papers/computer_science-0478-2019/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

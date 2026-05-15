@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-may-2024-unit6-qp",
+  "pairedMarkSchemeId": "wbi11-may-2024-unit6-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI16/01",
+  "session": "May 2024",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x 2.5 Cleri (1) Number Answer Additional Guidance Mark Clip with 3bii • calculation of observed values (1) • calculation of (O – E) (1) E • calculation of chi-squared value (1) Observed value Expected value Smooth light 12 20 Rough light 15 20 Smooth dark 24 20 Rough dark 29 20 Accept MP1 one correct substitution into part of calculation Accept MP2 for one value eg 3.20 Accept: 3.20 / 1.25 / 0.80 / 4.05 for MP1 and 2 9.3 /9.30 /9.300 correct answer only gains 3 marks Accept ECF for MP2 and 3 Exp (3) Number Answer Additional Guidance Mark Clip with 3bi An answer including three of the following • calculated value (9.3) is more than a critical value stated/indicated from the table (1) • therefore reject the null hypothesis (1) • top shells show a preference (1) • Suitable comment on preference (1) Accept any stated value againt any critical value with correct reasoning for all MP’s e.g. top shells prefer dark to light / no preference for rough or smooth Exp (3) Number Answer Additional Guidance Mark • leave them for longer so that they have time to {move around / select their preferred habitat} (1) • put more than five molluscs into each area so that there is more data to analyse (1) • controlled temperature so they move {in the same way/at the same speed} (1) • cover the light side with a transparent covering eg glass so that {both sides are covered / you are not comparing covered and uncovered} (1) • use a round tray so that the molluscs do not collect in corners (1) Exp (3) (Total for question 3 = 9 marks) Number Answer Additional Guidance Mark • find a suitable pre-treatment for seeds (1) • find suitable conditions for {germination/growth/respiration} of seeds (1) • find a suitable time for seeds to (start) {germination/growth/respiring} (1) • find a suitable timescale to measure distance moved by bubble (1) Accept soaking time / number of times to rinse seeds /other valid example Accept temperature / light wavelength/daylength Accept time to produce a measurable ",
+          "image": "/papers/wbi11-may-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2024-unit6-2024-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

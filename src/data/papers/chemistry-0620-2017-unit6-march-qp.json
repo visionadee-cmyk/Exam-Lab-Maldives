@@ -1,0 +1,131 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "February/March 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "diagram of test-tube over either electrode containing liquid",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "test: glowing splint result: relights oxygen reacted with carbon",
+          "image": "/papers/chemistry-0620-2017/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solution became more acidic / more concentrated water was broken down / electrolysed",
+          "image": "/papers/chemistry-0620-2017/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings completed correctly: 29.6; 4.1 difference completed correctly: 25.5",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings and difference completed correctly: 29.1; 24.0; 5.1 all readings to 1 d.p. O greater volume of acid was used in the titration / March 2017 five times as concentrated unit: cm",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "effect on volume: no effect reason: temperature would only affect the rate / burette repeat experiments (and compare / average)",
+          "image": "/papers/chemistry-0620-2017/q2-2f.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 fair test to equal volumes of each sodium hydroxide solution / solutions O and P add an equal volume / measured volumes of aqueous calcium chloride M2 dependent variable measured measure mass / height of precipitate formed / volume of calcium chloride used M3 conclusion the more concentrated sodium hydroxide soluti on would form the most precipitate (mass / height) / would require a smaller volume of calcium chloride / March 2017 precipitate (white precipitate) dissolves (white precipitate) dissolves precipitate iodide",
+          "image": "/papers/chemistry-0620-2017/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 4 from: M1 measure initial temperature of (solid) ammonium chloride / barium hydroxide M2 add barium hydroxide / ammonium chloride / other solid AND mix / stir M3 use a thermometer M4 measure the temperature of the mixture / final temperature M5 temperature decreases / test-tube feels cold",
+          "image": "/papers/chemistry-0620-2017/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 add (aqueous) sodium hydroxide (and warm) M2 gas produced turns (red) litmus blue",
+          "image": "/papers/chemistry-0620-2017/q4-4b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

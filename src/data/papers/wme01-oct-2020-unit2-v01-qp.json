@@ -1,0 +1,258 @@
+{
+  "paperId": "wme01-oct-2020-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-oct-2020-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "October 2020",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 19,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct number of terms, dimensionally correct, condone sign errors Allow even if they assume that both are moving with the same speed after the collision. A1 Correct equation, allow cancelled m’s or consistent extra g’s A1 Correct answer (must be positive as it’s a speed) and a single term.",
+          "image": "/papers/wme01-oct-2020/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Dimensionally correct imp-momentum equation (M0 if g is included), with correct terms, condone sign errors, but must be a difference of momenta and must be using EITHER m and 4u and their v P OR 2m and u and their v Q A1ft Correct expression, in terms of m and u, follow their v P or v Q A0ft if they assume that both move with the same speed after the collision A1 cao Must be positive as it’s a magnitude",
+          "image": "/papers/wme01-oct-2020/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Any clear equivalent Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find the total time A1 M(A)1 There are now two A marks for the equation(s) that they use, -1 for each error. A1 Correct answer N.B. If using a quadratic, ignore the other solution, even if it’s incorrect. If they combine the 2 solutions in some way, A0",
+          "image": "/papers/wme01-oct-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find the speed A1 Correct equation(s) A1 Correct answer must be positive",
+          "image": "/papers/wme01-oct-2020/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "2 (c) Find a in terms of i and j (3) (d) Find the value of t when P is moving in the direction of the vector (−5i + 8j) (4) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ______________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Method to find a relevant distance A1 A correct relevant distance M1 Method to find the total distance A1 Correct answer",
+          "image": "/papers/wme01-oct-2020/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Straight line starting on the v-axis and crossing the t-axis (line may be reflected in the t-axis) (B0 if solid vertical line at t = 4) B1 Correct appropriate coordinates (start point) Allow these to be marked on the axes. B1ft Correct appropriate coordinates (end point) ft on their answers to (a) and (b) Allow these to be marked on the axes. Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Allow sin/cos confusion A1 Correct answer. Allow 8g.",
+          "image": "/papers/wme01-oct-2020/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 0.5FR = seen anywhere M1 Correct number of terms, with 10g resolved A1 Correct equation or inequality A1 Correct answer. Allow 10g. For any inequality which never becomes an equation, usual rules: Max M1A1A0 for 10 sinPgFα≤+",
+          "image": "/papers/wme01-oct-2020/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct number of terms, with 10g resolved A1 Correct answer. Allow 2g For any inequality which never becomes an equation, usual rules: Max M1A0 Number Scheme Marks 4. T T = 0 1.875m 0.625m 3.5m 2m A X C G D B 64g Mg Use of T = 0 M1 ( ), 640.625(2.5) M CgMg d×= − OR e.g. ( ), 640.625M CgMgx×= M1 A1 Other equations: (T would then have to be eliminated to give an equation in M and d only, to earn the M mark) ( ), 641.8752.5 ( ), 64(1.875)(2.5) ( ), 644.125(6) 3.5 ( ), 646.125(8) 5.5 ( ),(1.875) 0.625 TMgg M AgMgdT MGg dT d M DgMgdT M BgMgdT M X Mg dT = + ×+= ×− =×− × + −= × + −= −= S = 0 S 2.5m 3.5m 1.5m 0.5m A C G D Y B Mg 48g Use of S = 0 M1 ( ), 481.5(6)M DgMgd×= − OR e.g. ( ), 481.5(3.5)M DgMgx×= − M1 A1 Other equations: (S would then have to be eliminated to give an equation in M and d only, to earn the M mark) ( ), 487.56 ( ), 485(2.5) 3.5 ( ), 48(7.5)(6) ( ), 480.5(8)2 ( ),(7.5) 1.5 SMgg M AgMgdS M CgMg dS MGgd Sd M BgMgdS M Y MgdS = + ×+ = ×+ − = × − =×− × + −= −= Solve for M DM1 M = 32 exact answer. A1 (8) (8) Notes for Question 4 M1 T = 0 seen or implied M1 Correct number of terms, dimensionally correct equation in M and one unknown length. (allow without g’s, omission of a length is an M error) A1 Correct equation in M and d only or another unknown length. M1 S = 0 seen or implied M1 Correct number of terms, dimensionally correct equation in M and same unknown length. (allow without g’s, omission of a length is an M error) A1 Correct equation in M and d only or same unknown length. DM1 Solving for M, dependent on all previous M marks A1 Correct exact answer Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Allow column vectors M1 Finding the magnitude of their v A1 Correct answer",
+          "image": "/papers/wme01-oct-2020/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 For a relevant trig equation A1ft A correct equation follow through on their v A1 Correct answer (must be in degrees to nearest degree)",
+          "image": "/papers/wme01-oct-2020/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Collecting terms in t and constant terms (may be implied) M1 Rearranging to required form A1 Correct answer (isw if they find the magnitude) OR: M1 Finding the initial velocity or some other specific velocity M1 Use of t − = vu a with t = 2 (or possibly another appropriate value) A1 Correct answer (isw if they find the magnitude)",
+          "image": "/papers/wme01-oct-2020/q5-5c.png"
+        },
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Attempt at equation in t only, using ratio of components, allow reciprocal and a sign error A1 Correct equation M1 Solve for t (equation must have come from considering ratios) A1 Correct answer Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q5-5d.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Using equation(s) of motion to give an equation in a only, with correct number of terms and 500g resolved, condone sign errors A1 Equation with at most one error A1 Correct equation A1 Correct answer",
+          "image": "/papers/wme01-oct-2020/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Using an equation of motion to give an equation in D and a only, with correct number of terms and 500g (or 1500g) resolved, condone sign errors A1 Equation with at most one error (a does not need to be substituted) Treat omission of g as one error A1 Correct equation A1 Correct answer Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q6-6b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "55mg Tma−= OR 55mg Tma−=− M1 A1 33Tmgma−= 33Tmgma−=− M1 A1 Solve for T DM1 T = mg oe (allow unsimplified and not in terms of mg at this stage) A1 Force on pulley = 2T M1 mg oe (must be a single positive term) A1 (8) (b) The tension is the same on both sides of the pulley. B1 Tension is same across the pulley (1) (9) Notes for Question 7 7.(a) M1 Correct number of terms, condone sign errors (M0 if m’s missing) A1 Correct equation M1 Correct number of terms, condone sign errors (M0 if m’s missing) A1 Correct equation DM1 Solve for T , dependent on previous two M marks, and must be in terms of m. A1 Correct expression for T M1 Correct method A1 Correct answer (b) B1 Any equivalent statement. B0 if any incorrect extras B0 if pulley not mentioned. Number Scheme Marks",
+          "image": "/papers/wme01-oct-2020/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find distance travelled in first 4 s Must be area of a triangle from a v-t graph A1 Correct answer",
+          "image": "/papers/wme01-oct-2020/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Both speeds seen anywhere e.g. on a diagram or in part (a) M1 Complete method to find total distance travelled in next 20 s Must be area of a trapezium from a v-t graph (they may use a rectangle + triangle) A1 ft Correct unsimplified distance, ft on their 12 M1 Complete method to find total distance travelled in next 2 s Must be area of a trapezium from a v-t graph (they may use a rectangle + triangle) A1 ft Correct unsimplified distance, ft on their 42 A1 cao for total distance Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-oct-2020/q8-8b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2020/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 19,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-oct-2020"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,653 @@
+{
+  "paperId": "physics-0625-2021-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit2-june-p23-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/23",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a plastic rod alongside a ruler. 01020 cm plastic rod What is the length of the rod? A 2.5 cm B 3.5 cm C 7.0 cm D 9.0 cm",
+      "text": "The diagram shows a plastic rod alongside a ruler. 01020 cm plastic rod What is the length of the rod? A 2.5 cm B 3.5 cm C 7.0 cm D 9.0 cm",
+      "options": [
+        "A 2.5 cm B 3.5 cm C 7.0 cm D 9.0 cm"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four balls with different masses are dropped from the heights shown. Air resistance may be ignored. Which ball has the smallest average speed? 4.0 kg A 1.0 m 3.0 kg B 2.0 m 2.0 kg C 3.0 m 1.0 kg D 4.0 m ground",
+      "text": "Four balls with different masses are dropped from the heights shown. Air resistance may be ignored. Which ball has the smallest average speed? 4.0 kg A 1.0 m 3.0 kg B 2.0 m 2.0 kg C 3.0 m 1.0 kg D 4.0 m ground",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A cyclist rides 300 m up a slope in 50 s. She then rides down the slope in 25 s. What is her average speed for the whole journey? A 4.0 m / s B 8.0 m / s C 9.0 m / s D 16 m / s",
+      "text": "A cyclist rides 300 m up a slope in 50 s. She then rides down the slope in 25 s. What is her average speed for the whole journey? A 4.0 m / s B 8.0 m / s C 9.0 m / s D 16 m / s",
+      "options": [
+        "A 4.0 m / s B 8.0 m / s C 9.0 m / s D 16 m / s"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is on the surface of the Earth. Which statement describes the weight of the object? A the quantity of material that the object contains, B the quantity of space that the object takes up, C the gravitational force acting on the object, D the object’s resistance to a change in its motion 3",
+      "text": "An object is on the surface of the Earth. Which statement describes the weight of the object? A the quantity of material that the object contains, B the quantity of space that the object takes up, C the gravitational force acting on the object, D the object’s resistance to a change in its motion 3",
+      "options": [
+        "A the quantity of material that the object contains",
+        "B the quantity of space that the object takes up",
+        "C the gravitational force acting on the object",
+        "D the object’s resistance to a change in its motion 3"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The tank shown has the dimensions 5.0 m  4.0 m  4.0 m. It is completely filled with water of density 1000 kg / m 3 . 5.0 m 4.0 m4.0 m What is the mass of water in the tank? A 12.5 kg B 62.5 kg C 16 000 kg D 80 000 kg",
+      "text": "The tank shown has the dimensions 5.0 m  4.0 m  4.0 m. It is completely filled with water of density 1000 kg / m 3 . 5.0 m 4.0 m4.0 m What is the mass of water in the tank? A 12.5 kg B 62.5 kg C 16 000 kg D 80 000 kg",
+      "options": [
+        "A 12.5 kg B 62.5 kg C 16 000 kg D 80 000 kg"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The extension–load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is suspended from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N 4",
+      "text": "The extension–load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is suspended from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N 4",
+      "options": [
+        "A 1.4 N B 1.6 N C 2.6 N D 3.0 N 4"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car of mass 1200 kg is travelling along a horizontal road. driving force = 4000 N total frictional force = 1000 N direction of motion What is the acceleration of the car? A 0.83 m / s 2, B 1.2 m / s 2, C 2.5 m / s 2, D 3.3 m / s 2",
+      "text": "A car of mass 1200 kg is travelling along a horizontal road. driving force = 4000 N total frictional force = 1000 N direction of motion What is the acceleration of the car? A 0.83 m / s 2, B 1.2 m / s 2, C 2.5 m / s 2, D 3.3 m / s 2",
+      "options": [
+        "A 0.83 m / s 2",
+        "B 1.2 m / s 2",
+        "C 2.5 m / s 2",
+        "D 3.3 m / s 2"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Object X moves to the right along a frictionless surface towards a stationary object Y, as shown. X Y direction of travel They make a noise as they collide and then both objects move to the right. Which equation is correct? A change in momentum of X = change in momentum of Y, B impulse of force acting on X = impulse of force acting on Y, C kinetic energy of X before collision = (kinetic energy of X + kinetic energy of Y) after collision, D momentum of X before collision = (momentum of X + momentum of Y) after collision",
+      "text": "Object X moves to the right along a frictionless surface towards a stationary object Y, as shown. X Y direction of travel They make a noise as they collide and then both objects move to the right. Which equation is correct? A change in momentum of X = change in momentum of Y, B impulse of force acting on X = impulse of force acting on Y, C kinetic energy of X before collision = (kinetic energy of X + kinetic energy of Y) after collision, D momentum of X before collision = (momentum of X + momentum of Y) after collision",
+      "options": [
+        "A change in momentum of X = change in momentum of Y",
+        "B impulse of force acting on X = impulse of force acting on Y",
+        "C kinetic energy of X before collision = (kinetic energy of X + kinetic energy of Y) after collision",
+        "D momentum of X before collision = (momentum of X + momentum of Y) after collision"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A stream flows out of a lake and down the side of a hill. What best describes the change in energy stores? A kinetic energy  chemical energy + internal energy, B gravitational potential energy  kinetic energy + internal energy, C gravitational potential energy + kinetic energy  internal energy, D kinetic energy  internal energy + gravitational potential energy 5",
+      "text": "A stream flows out of a lake and down the side of a hill. What best describes the change in energy stores? A kinetic energy  chemical energy + internal energy, B gravitational potential energy  kinetic energy + internal energy, C gravitational potential energy + kinetic energy  internal energy, D kinetic energy  internal energy + gravitational potential energy 5",
+      "options": [
+        "A kinetic energy  chemical energy + internal energy",
+        "B gravitational potential energy  kinetic energy + internal energy",
+        "C gravitational potential energy + kinetic energy  internal energy",
+        "D kinetic energy  internal energy + gravitational potential energy 5"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The energy input to a device is E. The amount of energy wasted by the device is W. Which expression gives the efficiency of the device? A WE W   100% B W E  100% C EW E   100% D EW W   100%",
+      "text": "The energy input to a device is E. The amount of energy wasted by the device is W. Which expression gives the efficiency of the device? A WE W   100% B W E  100% C EW E   100% D EW W   100%",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A builder lifts 30 bricks from the ground onto a platform 2.0 m high. Each brick has a mass of 4.0 kg. What is the work done against gravity by the builder in lifting the bricks onto the platform? A 80 J B 120 J C 240 J D   2400 J",
+      "text": "A builder lifts 30 bricks from the ground onto a platform 2.0 m high. Each brick has a mass of 4.0 kg. What is the work done against gravity by the builder in lifting the bricks onto the platform? A 80 J B 120 J C 240 J D   2400 J",
+      "options": [
+        "A 80 J B 120 J C 240 J D   2400 J"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A book has a mass of 400 g. The surface of the book in contact with a table has dimensions 0.10 m  0.20 m. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the table due to the book? A 0.08 N / m 2, B 8.0 N / m 2, C 20 N / m 2, D 200 N / m 2",
+      "text": "A book has a mass of 400 g. The surface of the book in contact with a table has dimensions 0.10 m  0.20 m. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the table due to the book? A 0.08 N / m 2, B 8.0 N / m 2, C 20 N / m 2, D 200 N / m 2",
+      "options": [
+        "A 0.08 N / m 2",
+        "B 8.0 N / m 2",
+        "C 20 N / m 2",
+        "D 200 N / m 2"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a tank full of water. h The mass of water in the tank is m. The density of the water is . The height of water in the tank is h. Which equation gives the pressure p due to the water at the bottom of the tank? A p = h g B p = mgh C p = m g D p = m h 6",
+      "text": "The diagram shows a tank full of water. h The mass of water in the tank is m. The density of the water is . The height of water in the tank is h. Which equation gives the pressure p due to the water at the bottom of the tank? A p = h g B p = mgh C p = m g D p = m h 6",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid at room temperature is put on a metal surface which is also at room temperature. A student blows gently across the liquid and its temperature decreases. What causes the liquid to become cooler?, A Bubbles of water vapour form in the liquid and go into the air., B The moving air reduces the kinetic energy of all the particles in the liquid., C Thermal energy flows from the liquid into the metal., D The more energetic particles in the liquid escape into the air.",
+      "text": "A liquid at room temperature is put on a metal surface which is also at room temperature. A student blows gently across the liquid and its temperature decreases. What causes the liquid to become cooler?, A Bubbles of water vapour form in the liquid and go into the air., B The moving air reduces the kinetic energy of all the particles in the liquid., C Thermal energy flows from the liquid into the metal., D The more energetic particles in the liquid escape into the air.",
+      "options": [
+        "A student blows gently across the liquid and its temperature decreases. What causes the liquid to become cooler?",
+        "A Bubbles of water vapour form in the liquid and go into the air.",
+        "B The moving air reduces the kinetic energy of all the particles in the liquid.",
+        "C Thermal energy flows from the liquid into the metal.",
+        "D The more energetic particles in the liquid escape into the air."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains 7",
+      "text": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains 7",
+      "options": [
+        "A pollen grains being hit by other pollen grains",
+        "B pollen grains being hit by water molecules",
+        "C water molecules being hit by other water molecules",
+        "D water molecules being hit by pollen grains 7"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The liquid level in a thermometer rises when the thermometer is placed in hot water. What causes this? A The liquid contracts., B The liquid evaporates., C The liquid expands., D The liquid freezes.",
+      "text": "The liquid level in a thermometer rises when the thermometer is placed in hot water. What causes this? A The liquid contracts., B The liquid evaporates., C The liquid expands., D The liquid freezes.",
+      "options": [
+        "A The liquid contracts.",
+        "B The liquid evaporates.",
+        "C The liquid expands.",
+        "D The liquid freezes."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student calculates the energy needed to raise the temperature of  an aluminium block from 50 C to 60 C. He then does an experiment to measure the energy used to do this. Which statement about the measured energy is correct? A The measured energy will be greater than the calculated energy because some energy is transferred to the surroundings., B The measured energy will be greater than the calculated energy because the block absorbs energy from the surroundings., C The measured energy will be less than the calculated energy because the mass of the block decreases as it gets warmer., D The measured energy will be less than the calculated energy because the thermal capacity of the block is low.",
+      "text": "A student calculates the energy needed to raise the temperature of  an aluminium block from 50 C to 60 C. He then does an experiment to measure the energy used to do this. Which statement about the measured energy is correct? A The measured energy will be greater than the calculated energy because some energy is transferred to the surroundings., B The measured energy will be greater than the calculated energy because the block absorbs energy from the surroundings., C The measured energy will be less than the calculated energy because the mass of the block decreases as it gets warmer., D The measured energy will be less than the calculated energy because the thermal capacity of the block is low.",
+      "options": [
+        "A The measured energy will be greater than the calculated energy because some energy is transferred to the surroundings.",
+        "B The measured energy will be greater than the calculated energy because the block absorbs energy from the surroundings.",
+        "C The measured energy will be less than the calculated energy because the mass of the block decreases as it gets warmer.",
+        "D The measured energy will be less than the calculated energy because the thermal capacity of the block is low."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row correctly describes a liquid that is boiling? bubbles seen where it takes place in the liquid A no surface only, B no throughout liquid, C yes surface only, D yes throughout liquid 8",
+      "text": "Which row correctly describes a liquid that is boiling? bubbles seen where it takes place in the liquid A no surface only, B no throughout liquid, C yes surface only, D yes throughout liquid 8",
+      "options": [
+        "A no surface only",
+        "B no throughout liquid",
+        "C yes surface only",
+        "D yes throughout liquid 8"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three students are planning an experiment to test thermal conduction in different materials. The students each propose a hypothesis. 1   I think the copper rod will be a good thermal conductor because it is a metal. 2   I think the glass rod will be a good thermal conductor because it has free electrons which vibrate and transfer energy quickly. 3   I think the wooden rod will be a poor thermal conductor because it can only transfer energy along the rod by vibrating the lattice particles. Which of their hypotheses are correct? A 1 and 2 only B   1 and 3 only C   2 and 3 only D   1, 2 and 3",
+      "text": "Three students are planning an experiment to test thermal conduction in different materials. The students each propose a hypothesis. 1   I think the copper rod will be a good thermal conductor because it is a metal. 2   I think the glass rod will be a good thermal conductor because it has free electrons which vibrate and transfer energy quickly. 3   I think the wooden rod will be a poor thermal conductor because it can only transfer energy along the rod by vibrating the lattice particles. Which of their hypotheses are correct? A 1 and 2 only B   1 and 3 only C   2 and 3 only D   1, 2 and 3",
+      "options": [
+        "A 1 and 2 only B   1 and 3 only C   2 and 3 only D   1, 2 and 3"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A copper plate is shiny on one side and is painted dull black on the other side. The plate is heated to a high temperature. A person places his hands at equal distances from either side of the plate, close to the plate, but not touching it. shinydull black very hot copper plate Why does the hand near the dull black surface of the plate feel much hotter than the hand near the shiny surface? A The dull black surface is a better emitter of radiation than the shiny surface., B The dull black surface is a better conductor of radiation than the shiny surface., C The dull black surface is a better reflector of radiation than the shiny surface., D The dull black surface is at a higher temperature than the shiny surface. 9",
+      "text": "A copper plate is shiny on one side and is painted dull black on the other side. The plate is heated to a high temperature. A person places his hands at equal distances from either side of the plate, close to the plate, but not touching it. shinydull black very hot copper plate Why does the hand near the dull black surface of the plate feel much hotter than the hand near the shiny surface? A The dull black surface is a better emitter of radiation than the shiny surface., B The dull black surface is a better conductor of radiation than the shiny surface., C The dull black surface is a better reflector of radiation than the shiny surface., D The dull black surface is at a higher temperature than the shiny surface. 9",
+      "options": [
+        "A The dull black surface is a better emitter of radiation than the shiny surface.",
+        "B The dull black surface is a better conductor of radiation than the shiny surface.",
+        "C The dull black surface is a better reflector of radiation than the shiny surface.",
+        "D The dull black surface is at a higher temperature than the shiny surface. 9"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A water wave passes into a region where the wave travels more slowly. As  it  passes  into  the  slow  region,  what  happens  to  the  frequency  and  what  happens  to  the wavelength of the wave? frequency wavelength A decreases remains the same, B increases remains the same, C remains the same decreases, D remains the same increases",
+      "text": "A water wave passes into a region where the wave travels more slowly. As  it  passes  into  the  slow  region,  what  happens  to  the  frequency  and  what  happens  to  the wavelength of the wave? frequency wavelength A decreases remains the same, B increases remains the same, C remains the same decreases, D remains the same increases",
+      "options": [
+        "A decreases remains the same",
+        "B increases remains the same",
+        "C remains the same decreases",
+        "D remains the same increases"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light travelling at a speed of 3.0  10 8 m / s strikes the surface of a glass block and undergoes refraction as it enters the block. The diagram shows a ray of this light before and after it enters the block. 33\u0001 55\u0001 glass block What is the speed of light in the glass? A 1.8  10 8 m / s, B 2.0  10 8 m / s, C 4.5  10 8 m / s, D 5.0  10 8 m / s",
+      "text": "Light travelling at a speed of 3.0  10 8 m / s strikes the surface of a glass block and undergoes refraction as it enters the block. The diagram shows a ray of this light before and after it enters the block. 33\u0001 55\u0001 glass block What is the speed of light in the glass? A 1.8  10 8 m / s, B 2.0  10 8 m / s, C 4.5  10 8 m / s, D 5.0  10 8 m / s",
+      "options": [
+        "A 1.8  10 8 m / s",
+        "B 2.0  10 8 m / s",
+        "C 4.5  10 8 m / s",
+        "D 5.0  10 8 m / s"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A beam of light is monochromatic. What does monochromatic mean? A All the waves in the beam must have the same frequency only., B All the waves in the beam must have the same amplitude only., C All the waves in the beam must have the same speed only., D All the waves in the beam must have the same amplitude, frequency and speed. 10",
+      "text": "A beam of light is monochromatic. What does monochromatic mean? A All the waves in the beam must have the same frequency only., B All the waves in the beam must have the same amplitude only., C All the waves in the beam must have the same speed only., D All the waves in the beam must have the same amplitude, frequency and speed. 10",
+      "options": [
+        "A All the waves in the beam must have the same frequency only.",
+        "B All the waves in the beam must have the same amplitude only.",
+        "C All the waves in the beam must have the same speed only.",
+        "D All the waves in the beam must have the same amplitude, frequency and speed. 10"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is placed in front of a thin converging lens. The diagram shows the paths of two rays from the top of the object. object converging lens An image of the object is formed on a screen to the right of the lens. How does this image compare with the object? A It is larger and inverted., B It is larger and the same way up., C It is smaller and inverted., D It is smaller and the same way up.",
+      "text": "An object is placed in front of a thin converging lens. The diagram shows the paths of two rays from the top of the object. object converging lens An image of the object is formed on a screen to the right of the lens. How does this image compare with the object? A It is larger and inverted., B It is larger and the same way up., C It is smaller and inverted., D It is smaller and the same way up.",
+      "options": [
+        "A It is larger and inverted.",
+        "B It is larger and the same way up.",
+        "C It is smaller and inverted.",
+        "D It is smaller and the same way up."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  row  correctly  describes  what  happens  to  the  frequency  and  to  the  speed  of electromagnetic waves as we move through the spectrum from -rays to radio waves? frequency speed in a vacuum A decreases increases, B decreases remains the same, C increases decreases, D increases remains the same 11",
+      "text": "Which  row  correctly  describes  what  happens  to  the  frequency  and  to  the  speed  of electromagnetic waves as we move through the spectrum from -rays to radio waves? frequency speed in a vacuum A decreases increases, B decreases remains the same, C increases decreases, D increases remains the same 11",
+      "options": [
+        "A decreases increases",
+        "B decreases remains the same",
+        "C increases decreases",
+        "D increases remains the same 11"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a model of a sound wave passing through air in an open tube. Qair particle What is the region Q? A a compression which is a region of high pressure, B a compression which is a region of low pressure, C a rarefaction which is a region of high pressure, D a rarefaction which is a region of low pressure",
+      "text": "The diagram shows a model of a sound wave passing through air in an open tube. Qair particle What is the region Q? A a compression which is a region of high pressure, B a compression which is a region of low pressure, C a rarefaction which is a region of high pressure, D a rarefaction which is a region of low pressure",
+      "options": [
+        "A a compression which is a region of high pressure",
+        "B a compression which is a region of low pressure",
+        "C a rarefaction which is a region of high pressure",
+        "D a rarefaction which is a region of low pressure"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The sound from a loudspeaker must pass through two materials to reach a microphone. material 1    material 2 loudspeakermicrophone Which combination of materials gives the shortest time for the sound to reach the microphone? material 1 material 2 A air hydrogen, B air water, C copper aluminium, D water oil 12",
+      "text": "The sound from a loudspeaker must pass through two materials to reach a microphone. material 1    material 2 loudspeakermicrophone Which combination of materials gives the shortest time for the sound to reach the microphone? material 1 material 2 A air hydrogen, B air water, C copper aluminium, D water oil 12",
+      "options": [
+        "A air hydrogen",
+        "B air water",
+        "C copper aluminium",
+        "D water oil 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A bar magnet picks up two steel bolts. Which diagram shows the magnetic poles induced in the bolts? NS A S N N S NS B S N S N NS C N S S N NS D N S N S",
+      "text": "A bar magnet picks up two steel bolts. Which diagram shows the magnetic poles induced in the bolts? NS A S N N S NS B S N S N NS C N S S N NS D N S N S",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student rubs a plastic rod with a cloth. The rod becomes positively charged. What has happened to the rod? A It has gained electrons., B It has gained protons., C It has lost electrons., D It has lost protons. 13",
+      "text": "A student rubs a plastic rod with a cloth. The rod becomes positively charged. What has happened to the rod? A It has gained electrons., B It has gained protons., C It has lost electrons., D It has lost protons. 13",
+      "options": [
+        "A It has gained electrons.",
+        "B It has gained protons.",
+        "C It has lost electrons.",
+        "D It has lost protons. 13"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An isolated metal sphere is positively charged. It is then brought near to another isolated metal sphere that is neutral. + + + + + + + + + + + + neutral metal sphere positively charged metal sphere left right What happens to the charges on the neutral sphere as the positively charged sphere is brought close to it? A Some positive charges move to the left and some negative charges move to the right., B Some positive charges move to the right and some negative charges move to the left., C Some positive charges move to the right, but the negative charges do not move., D The positive charges do not move, but some negative charges move to the left.",
+      "text": "An isolated metal sphere is positively charged. It is then brought near to another isolated metal sphere that is neutral. + + + + + + + + + + + + neutral metal sphere positively charged metal sphere left right What happens to the charges on the neutral sphere as the positively charged sphere is brought close to it? A Some positive charges move to the left and some negative charges move to the right., B Some positive charges move to the right and some negative charges move to the left., C Some positive charges move to the right, but the negative charges do not move., D The positive charges do not move, but some negative charges move to the left.",
+      "options": [
+        "A Some positive charges move to the left and some negative charges move to the right.",
+        "B Some positive charges move to the right and some negative charges move to the left.",
+        "C Some positive charges move to the right, but the negative charges do not move.",
+        "D The positive charges do not move, but some negative charges move to the left."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit containing a cell, two resistors, a switch and a voltmeter. V When the switch is open the voltmeter reads 1.5 V. When the switch is closed the voltmeter reads 2.0 V. What is the electromotive force (e.m.f.) of the cell? A 0.5 V B 1.5 V C 2.0 V D 3.5 V 14",
+      "text": "The diagram shows a circuit containing a cell, two resistors, a switch and a voltmeter. V When the switch is open the voltmeter reads 1.5 V. When the switch is closed the voltmeter reads 2.0 V. What is the electromotive force (e.m.f.) of the cell? A 0.5 V B 1.5 V C 2.0 V D 3.5 V 14",
+      "options": [
+        "A 0.5 V B 1.5 V C 2.0 V D 3.5 V 14"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A 4.0  resistor and a 12  resistor are connected in parallel. 4.0 Ω 12 Ω What is the effective resistance of this combination of resistors? A 0.33  B 3.0  C 8.0  D 16 ",
+      "text": "A 4.0  resistor and a 12  resistor are connected in parallel. 4.0 Ω 12 Ω What is the effective resistance of this combination of resistors? A 0.33  B 3.0  C 8.0  D 16 ",
+      "options": [
+        "A 0.33  B 3.0  C 8.0  D 16 "
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which combination of two gates will result in the truth table shown? P Q R 0 0 0 0 1 1 1 0 1 1 1 1 A P Q R B P Q R C P Q R D P Q R 15",
+      "text": "Which combination of two gates will result in the truth table shown? P Q R 0 0 0 0 1 1 1 0 1 1 1 1 A P Q R B P Q R C P Q R D P Q R 15",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is inserted into one end of the solenoid. The ammeter shows that there is a small electric current in the solenoid while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod",
+      "text": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is inserted into one end of the solenoid. The ammeter shows that there is a small electric current in the solenoid while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod",
+      "options": [
+        "A a heated copper rod",
+        "B a magnetised steel rod",
+        "C an uncharged nylon rod",
+        "D a radioactive uranium rod"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A 12 V, 36 W lamp shines at normal brightness when connected to a mains transformer. Assume the transformer is 100% efficient. 240 V a.c. mains 12 V 36 W 1200 turns iron core secondary coil Which row shows the number of turns in the secondary coil and the current in the mains wires? number of turns in secondary coil current in the mains wire / A A 60 0.15, B 60 3.0, C 180 0.15, D 180 3.0 16",
+      "text": "A 12 V, 36 W lamp shines at normal brightness when connected to a mains transformer. Assume the transformer is 100% efficient. 240 V a.c. mains 12 V 36 W 1200 turns iron core secondary coil Which row shows the number of turns in the secondary coil and the current in the mains wires? number of turns in secondary coil current in the mains wire / A A 60 0.15, B 60 3.0, C 180 0.15, D 180 3.0 16",
+      "options": [
+        "A 60 0.15",
+        "B 60 3.0",
+        "C 180 0.15",
+        "D 180 3.0 16"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows a wire carrying an electric current into the page. The wire is between the poles of a magnet. A force is produced on the wire acting down towards the bottom of the page. Diagram 2 shows the situation after the current is reversed and the magnet is turned through 90. NS N S diagram 1diagram 2 direction of force In which direction does the force act after these changes?, A towards the top of the page, B towards the bottom of the page, C towards the left-hand side of the page, D towards the right-hand side of the page",
+      "text": "Diagram 1 shows a wire carrying an electric current into the page. The wire is between the poles of a magnet. A force is produced on the wire acting down towards the bottom of the page. Diagram 2 shows the situation after the current is reversed and the magnet is turned through 90. NS N S diagram 1diagram 2 direction of force In which direction does the force act after these changes?, A towards the top of the page, B towards the bottom of the page, C towards the left-hand side of the page, D towards the right-hand side of the page",
+      "options": [
+        "A force is produced on the wire acting down towards the bottom of the page. Diagram 2 shows the situation after the current is reversed and the magnet is turned through 90. NS N S diagram 1diagram 2 direction of force In which direction does the force act after these changes?",
+        "A towards the top of the page",
+        "B towards the bottom of the page",
+        "C towards the left-hand side of the page",
+        "D towards the right-hand side of the page"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The charge on a proton is e. What is the charge on an electron and what is the charge on a neutron? electron neutron A e e, B e 0, C – e – e, D – e 0 17",
+      "text": "The charge on a proton is e. What is the charge on an electron and what is the charge on a neutron? electron neutron A e e, B e 0, C – e – e, D – e 0 17",
+      "options": [
+        "A e e",
+        "B e 0",
+        "C – e – e",
+        "D – e 0 17"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows -particles incident on a thin metal foil. thin metal foil How does the motion of these particles give evidence for the nuclear atom? A Most particles passing through with minimal deflection shows that the atom is mostly empty space., B Most particles passing through with minimal deflection shows that the mass of the atom is uniformly distributed., C Large deflections of some particles shows that the atom is mostly empty space., D Large  deflections  of  some  particles  shows  that  the  charge  in  the  atom  is  uniformly distributed.",
+      "text": "The diagram shows -particles incident on a thin metal foil. thin metal foil How does the motion of these particles give evidence for the nuclear atom? A Most particles passing through with minimal deflection shows that the atom is mostly empty space., B Most particles passing through with minimal deflection shows that the mass of the atom is uniformly distributed., C Large deflections of some particles shows that the atom is mostly empty space., D Large  deflections  of  some  particles  shows  that  the  charge  in  the  atom  is  uniformly distributed.",
+      "options": [
+        "A Most particles passing through with minimal deflection shows that the atom is mostly empty space.",
+        "B Most particles passing through with minimal deflection shows that the mass of the atom is uniformly distributed.",
+        "C Large deflections of some particles shows that the atom is mostly empty space.",
+        "D Large  deflections  of  some  particles  shows  that  the  charge  in  the  atom  is  uniformly distributed."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Radium-226, 226 88 Ra, is an -emitter. It is implanted inside cancerous tumours. It is safe to use as it kills the cancerous cells, but not the healthy ones surrounding the tumour. Which properties of -particles, compared to other emissions, enable this use of radium-226? ionising effect of -particles penetration of -particles A high high, B high low, C low high, D low low 18",
+      "text": "Radium-226, 226 88 Ra, is an -emitter. It is implanted inside cancerous tumours. It is safe to use as it kills the cancerous cells, but not the healthy ones surrounding the tumour. Which properties of -particles, compared to other emissions, enable this use of radium-226? ionising effect of -particles penetration of -particles A high high, B high low, C low high, D low low 18",
+      "options": [
+        "A high high",
+        "B high low",
+        "C low high",
+        "D low low 18"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows the activity of a radioactive source over a period of time. 120 90 60 30 0 012345 activity counts / s time / minutes What is the half-life of the source? A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes 19 20 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "text": "The graph shows the activity of a radioactive source over a period of time. 120 90 60 30 0 012345 activity counts / s time / minutes What is the half-life of the source? A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes 19 20 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "options": [
+        "A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes 19 20 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit2-2021-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

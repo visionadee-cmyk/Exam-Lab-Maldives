@@ -1,0 +1,119 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All variables, arrays, constants and other identifiers should have meaningful names. (i) State the name of one variable you have used for Task 3. Give the data type for the variable. State what it is used for. Variable name ...................................................................................................................",
+      "text": "1 (a) All variables, arrays, constants and other identifiers should have meaningful names. (i) State the name of one variable you have used for Task 3. Give the data type for the variable. State what it is used for. Variable name ...................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Many correct answers. 1 mark for each correct point (max 4). Ensuring uniqueness e.g. • Search list of previously stored identification numbers (1) • To check it has not already been used. (1) Calculation and addition of check digit • Attempt at calculation of check digit from the first three digits // calculation from all four digits to obtain zero remainder (1) • Adding the calculated check digit as a fourth digit // confirming the check digit is valid. (1) four from: 1 Initialisation//Setting up array for race times for this race 2 Loop for all runners 3 Input ID 4 Check for valid ID number 5 Input start time and finish time 6 Calculate run time 7 Store run time in suitable array//Use ID index to store run time in appropriate position 8 Store ID in suitable array//Find index for runner 0478/22 October/November 2018 Counter ← Found ← FALSE WHILE NOT Found = TRUE OUTPUT \"Please enter ID number use 9999 to finish \" INPUT ParkrunID Search ← REPEAT IF ParkrunID = IdNumber[search] THEN Found \u0004 TRUE Search ← Search + 1 UNTIL Search = 21 OR Found = TRUE ENDWHILE RunnerID[Counter] ← ParkRunID WHILE ParkRunID <> 9999 INPUT StartTime INPUT FinishTime RunnerTime[Counter] ← FinishTime – StartTime Counter ← Counter + 1 Found ← FALSE WHILE NOT Found = TRUE OUTPUT \"Please enter ID number (use 9999 to finish) \" INPUT ParkrunID Search ← REPEAT IF ParkrunID = IdNumber[Search] THEN Found ← TRUE Search ← Search + 1 UNTIL Search = 21 OR Found = TRUE ENDWHILE RunnerID[Counter] ← ParkRunID ENDWHILE 0478/22 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct point (max 4). Explanation: 1 Search the results for this park run 2 Separate check for each age range 3 If time recorded is faster 4 « store new fastest time « store the ID/Name for the runner 6 Use ID number/Index to look up name after all runners have been searched 7 Output name and fastest time Programming statements may be used but must be fully explained. 0478/22 October/November 2018 Section B five from: 1 Use of correct variables 2 Input 3 numbers 3 Check all 3 input numbers are different 4 Attempt to find the largest two numbers input 5 Correctly finding the largest two numbers 6 Multiply their two largest numbers together and assign to variable 7 Output the result of the multiplication Sample answer: REPEAT OUTPUT \"Enter three different numbers\" INPUT Number1, Number2, Number3 UNTIL Number1 <> Number2 AND Number2 <> Number3 AND Number3 <> Number1 IF Number3 < Number2 AND Number3 < Number1 THEN Answer ← Number1 * Number2 ENDIF IF Number2 < Number3 AND Number2 < Number1 THEN Answer ← Number1 * Number3 ENDIF IF Number1 < Number2 AND Number1 < Number3 THEN Answer ← Number2 * Number3 ENDIF OUTPUT \"Answer = \", Answer",
+          "image": "/papers/computer_science-0478-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Write an algorithm, using pseudocode, to input three different numbers, multiply the two larger numbers together and output the result. Use the variables: Number1, Number2 and Number3 for your numbers and Answer for your result. ...................................................................................................................................",
+      "text": "2 (a) Write an algorithm, using pseudocode, to input three different numbers, multiply the two larger numbers together and output the result. Use the variables: Number1, Number2 and Number3 for your numbers and Answer for your result. ...................................................................................................................................",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "There are many correct answers. E.g.: 7, 7, 7 (1 mark) « should be rejected as numbers are equal (1 mark) 7, 8, 9 (1 mark) « normal data answer should be 72 (1 mark) 0478/22 October/November 2018 1 mark for each correct line (max 3) Each box must have only one connection. Answers must be given in context. There are many possible answers. E.g.: Selection use of IF statement to check the values of the meter readings (1 mark) IF Reading > 400 and Reading < 900 THEN ... (1 mark) Repetition use of FOR loop to check all 2000 meter readings (1 mark) FOR Meter = 1 TO 2000 ... NEXT (1 mark) 0478/22 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Height Depth Chlorine OK OUTPUT 2.5 True Pool OK to use Height Depth Chlorine OK OUTPUT 4 3 1.5 True Water too deep False Height Depth Chlorine OK OUTPUT 6 3.5 4 True Water too deep False Too much chlorine add more water 1 mark for first 4 columns in each trace table (max 3) 1 mark for the output in each trace table (max 3) one from: Cannot add more water if the water is too deep No validation e.g. allows a negative height/depth/amount of chlorine Tells you to add chlorine when there is no water Runs only once 0478/22 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Many correct answers, an example is gi ven. 1 mark for each correct row (max 4). Field Data type Reference Number Text Size Text Type Text/Boolean Price in $ Number/Currency",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per bullet: • Incorrect field name for Reference Number • Incorrect criteria for Price in $ should be < • Type not checked",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

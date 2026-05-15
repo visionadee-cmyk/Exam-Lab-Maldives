@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-jan-2021-unit4-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2021-unit4-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI14/01",
+  "session": "January 2021",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is B. A is incorrect because bactericidal antibiotics decrease the number of bacteria C is incorrect because antibiotics do not increase the number of bacteria D is incorrect because antibiotics do not increase the number of bacteria (1) number Answer Additional guidance Mark • to compete with (pathogenic) bacteria for {nutrients / named nutrient / space} (1) • so they {reduce / destroy / prevent the growth of} (pathogenic) bacteria (1) IGNORE food ACCEPT produce {toxins / chemicals} ACCEPT so that they do not increase in number and cause disease (2 ) number Answer Additional guidance Mark • (because gut flora contain) bacteria (1) • and antibiotics are not (generally) specific to one type of bacteria (1) ACCEPT antibiotics {can affect different types of bacteria / can be broad spectrum} (2) number Answer Additional guidance Mark • accept a value between 9 × 10 and 1.2 × 10 (1) number Answer Additional guidance Mark • antibiotic P kills all but three types (1) • antibiotic Q only kills two types (1) • antibiotic R has no effect (on gut flora / types A and B) (1) ACCEPT descriptions in terms of resistance and susceptibility but not immunity throughout ACCEPT correct references to bactericidal and bacteriostatic ACCEPT kills 4 types / kills type A but has limited effect on type B ACCEPT results in the presence of a new type / reduces the number of type A and type B (3 ) number Answer Additional guidance Mark • vaccine contains an {inactive / attenuated} form of the {pathogen / virus / bacteria / microorganism} (1) • macrophages engulf and display antigen on cell surface (1) • macrophages will present the antigen to T helper cells (1) • T helper cells will activate {B / T killer} cells (1) • (T / B) memory cells produced (1) ACCEPT antigen (found on the pathogen) / weakened pathogen DO NOT ACCEPT dead {virus / antigen} ACCEPT macrophages become antigen-presenting cells + description to T helper cells ACCEPT description e.g. T helper cells releas",
+          "image": "/papers/wbi11-jan-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2021/q2.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "{more molecules / more bonds / smaller spaces / fewer spaces} so higher {resistance / friction} ACCEPT harder to move for higher resistance (1) number Answer Additional guidance Mark • bacterial {genome / chromosome} / (bacterial) nucleoid (1) • plasmid (1) • in mitochondria / mitochondrial DNA / mtDNA (1) • in chloroplasts / chloroplast DNA / cpDNA (1) IGNORE loops of DNA in bacteria IGNORE mitochondria / chloroplasts unqualified ACCEPT cccDNA (formed by some viruses inside cell nuclei) viral DNA inserted into cell {ecc / extrachromosomal circular} DNA DO NOT ACCEPT ribosomes / in cytoplasm / in viruses (2) number Answer Additional guidance Mark • linear DNA has (3’ and 5’) ends but circular DNA does not (1) • linear DNA is associated with (more) {proteins / histones} than circular DNA (1) • linear DNA will have (unbound) {phosphate / deoxyribose} but circular DNA will not (1) • linear DNA will have (one) fewer phosphodiester bond than circular DNA (with the same number of mononucleotides) (1) ACCEPT converse ACCEPT circular DNA is supercoiled but linear DNA is not ACCEPT converse (2 ) number Answer Additional guidance Mark • linear line that increases with temperature and then decreases (1) • optimum temperature shown at (about) 40 °C (1) ACCEPT carefully hand-drawn line sloping up to optimum NB line does not have to start at the origin NB optimum must be above 30°C and below 45°C (2) number Answer Additional guidance Mark • rate calculated per minute for each (1) • numbers substituted into equation (1) • correct answer to 2 / 3 sig figs wi th no units (1) OR • values at 40 °C and 50 °C chosen • rate calculated per minute for each (1) • numbers substituted into equation (1) • correct answer to 2 / 3 sig figs with no units (1) 50 and 32.5 and 50 and 22.5 (50-32.5) ÷ 5 / 17.5 ÷ 5 / 3.5 and (50-22.5) ÷ 5 / 27.5 ÷ 5 / 5.5 CE from reasonable values read from graph 5.5 ÷ 3.5 / 1.5714 CE if added 10 to a correct rate from mp 2 1.6 / 1.57 ACCEPT correctly rounded value fo",
+          "image": "/papers/wbi11-jan-2021/q7-7c.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2021/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2021-unit4-2021-01-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

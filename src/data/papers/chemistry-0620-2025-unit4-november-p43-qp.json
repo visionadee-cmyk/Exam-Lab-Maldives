@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2025-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit4-november-p43-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/43",
+  "session": "October/November 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "neutron 0 1 proton +1 1 M2 10 M3 17 above 8 to the left of the symbol M4 O M5 2- / -2 / – – C / carbon-12 1 Question Answer Marks M2 high melting point AND/OR high boiling point M3 poor conductor of electricity when solid AND molten October/November 2025 Question Answer Marks M2 only conducts electricity when molten Question Answer Marks Al 3+ + 3e – → Al M1 only Al 3+ + 3e – on the left M2 equation completely correct 2Al + 3Zn 2+ → 2Al 3+ + 3Zn 2+ = +2 M2 Zn = 0 / zero October/November 2025 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2NaOH + Ga2O3 → 2NaGaO2 + H2O M1 NaGaO2 on the right-hand side of an equation M2 equation fully correct M2 Ga2(SO4)3 Question Answer Marks • rates are equal • concentrations are no longer changing M1 decreases M2 decreases M3 no change October/November 2025 Question Answer Marks M1 2490 M2 2670 M3 -180 ALTERNATIVE METHOD M1 850 M2 1030 M3 -180 M2 one lone pair on the N atom (to complete the N octet) M3 three lone pairs on each Cl atom (to complete each Cl octet) M2 effervescence/bubbling/fizzing M1 0.005 ÷ 5  10 -3 (mol) M2 0.0025 ÷ 2.5  10 -3 (mol) M3 60 (cm ) October/November 2025 Question Answer Marks Pb 2+ (aq) + SO4 2– (aq) → PbSO4(s) M1 PbSO4 as the ONLY formula on the right M2 ONLY Pb 2+ and SO4 2– on the left M3 state symbols lead(II) nitrate M2 suitable method of drying • good conductor of electricity • soluble salts • basic oxides • variable oxidation states • coloured compounds • catalyst October/November 2025 Question Answer Marks H 5.56 ÷ 1 O 44.44 ÷ 16 OR 4.17:5.56:2.78 M2 fractions shown dividing all by smallest OR 1.5:2:1 OR 3:4:2 M3 C3H4O2 M2 butan-1-ol October/November 2025 Question Answer Marks M2 displayed formula of but-2-ene OR M1 –NH2 displayed M2 –COOH displayed functional groups can be on either side",
+          "image": "/papers/chemistry-0620-2025/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit4-2025-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

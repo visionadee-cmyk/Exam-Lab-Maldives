@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for description, one mark for normal data and one mark for erroneous data for two checks Validation check (type check) to check that the number entered is a whole number / integer Normal data Erroneous data two // 1.5 Validation check (range check) to check that the value of the number entered is between 1 and 80 / 480 inclusive Normal data Erroneous data 99 // 500 Validation check (presence check) to check that a value has been entered Normal data 34 // any data entered Erroneous data “” // blank // no data entered Validation check (length check) to check that a value has 3 digits or fewer // between 1 and 3 digits Normal data Erroneous data Many correct answers, the data are examples only. 0478/22 May/June 2021 six from: MP1 Input number of tickets MP2 Input train up mountain and train down mountain MP3 Suitable prompts seen for inputs that are included MP4 Check that tickets are available on selected train(s) MP5 If available calculate price of tickets ... MP6 ... calculation includes discount if required MP7 Update total passengers / seats available for a train MP8 Update total passengers / seats available for up train and down train MP9 Update total cost for a train MP10 Update total cost for up train and down train Example answers OUTPUT \"How many tickets\" INPUT NoTickets OUTPUT \"Which Train up the mountain? 1, 2, 3 or 4\" INPUT UpNumber OUTPUT \"Which Train down the mountain? 1, 2, 3 or 4\" INPUT DownNumber IF (DownNumber = 4 AND TrainUp[UpNumber] + NoTickets <= 480 AND TrainDown[DownNumber] + NoTickets <= 640) OR (TrainUp[UpNumber] + NoTickets <= 480 AND TrainDown[DownNumber] + NoTickets <= 480) THEN Cost ← (NoTickets – NoTickets DIV 10) * 50 TrainUp[UpNumber] ← TrainUp[UpNumber] + NoTickets TrainDown[DownNumber] ← TrainUp[DownNumber] + NoTickets TrainUpTotal[UpNumber] ← TrainUpTotal[UpNumber] + Cost / 2 TrainDownTotal[DownNumber] ← TrainDownTotal[DownNumber] + Cost / 2 ENDIF 0478/22 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Yes Yes START OUTPUT \"Tickets\" INPUT Tickets Cost ← (NoTickets – NoTickets DIV 10) * 50 TrainUp[UpNo] ← TrainUp[UpNo] + NoTickets TrainDown[DownNo] ← TrainUp[DownNo] + NoTickets TrainUpTotal[UpNo] ← TrainUpTotal[UpNo] + Cost / 2 TrainDownTotal[DownNo] ← TrainDownTotal[DownNo] + Cost / 2 END Is Tickets <= UpTickets[UpNo] AND Tickets <= DownTickets[DownNo]? No OUTPUT \"Up Train\" INPUT UpNo OUTPUT \"Down Train\" INPUT DownNo 0478/22 May/June 2021 Any five from: MP1 How the program displayed the number of passengers for a journey ... MP2 ... how completed for all trains MP3 How the program displayed the amount of money taken for a journey ... MP4 ... how completed for all trains MP5 How the program calculated the total number of passengers MP6 How the program calculated the total money taken MP7 How the program attempted to select the train journey with the most passengers MP8 How the program attempted to dealt with more than one train being the most popular MP9 How the program displayed the results with suitable messages Programming statements must be given with each explanation. 0478/22 May/June 2021 Section B six from: MP1 Initialisation of large and small variables e.g. Large ← 0 Small ← MP2 Use of a loop for 500 entries // or 499 if initialisation done on first correct entry MP3 Input with prompt MP4 Attempt at checking the range of 1 to 999 for input MP5 ... working range check MP6 Checking for a whole number MP7 Selecting largest number MP8 Selecting smallest number MP9 Calculating the range MP10 Outputting the largest, smallest and range with message Large ← Small ← FOR Count ← 1 TO 500 REPEAT OUTPUT \"Enter a whole number between 1 and 999\" INPUT Number UNTIL Number >= 1 AND Number < 1000 AND Number = Number DIV 1 IF Number < Small THEN Small ← Number ENDIF IF Number > Large THEN Large ← Number ENDIF NEXT Range ← Large – Small OUTPUT \"Largest number is \", Large, \" Smallest number is \", Small, \" Range of numbers is \", Range 0478/22 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Write an algorithm in pseudocode to input 500 positive whole numbers. Each number input must be less than 1000. Find and output the largest number input, the smallest number input and the range (difference between the largest number and smallest number). ...............................................................................................................................",
+      "text": "2 (a) Write an algorithm in pseudocode to input 500 positive whole numbers. Each number input must be less than 1000. Find and output the largest number input, the smallest number input and the range (difference between the largest number and smallest number). ...............................................................................................................................",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for action required and one mark for method used Reduce the amount of numbers entered By decreasing the final value of the loop or Remove the need to input values By using random numbers / a previously populated array",
+          "image": "/papers/computer_science-0478-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) Draw the most appropriate flowchart symbol for each pseudocode statement. Pseudocode statementFlowchart symbol IF Number = 20 PRINT Number Number ← Number + 1 [3] (b) State the type of each pseudocode statement. F",
+      "text": "3 (a) Draw the most appropriate flowchart symbol for each pseudocode statement. Pseudocode statementFlowchart symbol IF Number = 20 PRINT Number Number ← Number + 1 [3] (b) State the type of each pseudocode statement. F",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Draw the most appropriate flowchart symbol for each pseudocode statement. Pseudocode statementFlowchart symbol IF Number = 20 PRINT Number Number ← Number + 1 [3] (b) State the type of each pseudocode statement. F",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Pseudocode statement Flowchart s y mbol IF Number = 20 PRINT Number Number ← Number + 1",
+          "image": "/papers/computer_science-0478-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "IF Number = 20 selection PRINT Number output Number ← Number + 1 counting 0478/22 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct column Password PasswordRepeat OUTPUT (Please enter password) Secret Reject (Please enter password) Secret Reject (Please enter password) VerySecret VerySecret A ccept (Please enter password) Pa55word Pa55word A ccept (Please enter password) Reject 0478/22 May/June 2021 four from: • Position: before INPUT PasswordRepeat // at start • ...use a (variable) counter (for number of tries) or flag • ... initialise variable counter or flag • Position after IF Length(Password) >= 8 THEN or after INPUT PasswordRepeat • ... insert REPEAT/WHILE/( conditional) loop • Position after OUTPUT \"Reject\" • ... add one to counter (for number of tries) • ... output a message \"Try again\" • ... add INPUT PasswordRepeat • Position after OUTPUT \"Accept\" • ... reset flag to show password matched • Position after ENDIF • ... (insert UNTIL/ENDWHILE) to exit the loop after three tries or if the repeated password matches the original",
+          "image": "/papers/computer_science-0478-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for: • Use of FOR loop • Working loop with correct number of Iterations • Correct assignment FOR Count ← 1 TO 20 dataArray[Count] ← NEXT (Count)",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(A FOR loop has) a fixed number of repetitions // No need to manage the loop counter // no need to use another variable for the array index 0478/22 May/June 2021 6 Any three from: • TABLE row not completed • POSITION column not required // POSITION criteria not required • No criteria set in the size column • No criteria set in the flower column Field: SIZE PRICE FLOWER NUMBERSOLD NAME Table: PLANT PLANT PLANT PLANT PLANT Sort: Show:      Criteria: =\"small\" False or: OR Field: SIZE PRICE FLOWER NUMBERSOLD NAME POSITION Table: PLANT PLANT PLANT PLANT PLANT PLANT Sort: Show:       Criteria: =\"small\" = False or: One mark for correct rows Field, Table and Show One mark for correct Criteria row",
+          "image": "/papers/computer_science-0478-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

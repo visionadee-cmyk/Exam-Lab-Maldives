@@ -1,0 +1,43 @@
+{
+  "paperId": "wch11-jan-2025-unit6-qp",
+  "pairedMarkSchemeId": "wch11-jan-2025-unit6-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH16/01",
+  "session": "January 2025",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • calculation of mass of C and H • calculation of mass of oxygen in X • calculation of moles of C, H and O • calculation of ratio and deduction of empirical formula Alternative method • calculation of moles of CO and H O • calculation of moles of C and H • calculation of moles of O • calculation of ratio and deduction of empirical formula (1) (1) (1) (1) Example of calculation Element C H O mass (g) 13.80 × (12÷44) = 3.764 2.82 × (2÷18) = 0.313 4.70 – (3.764 + 0.313) = 0.623 moles (mol) 3.764 ÷12 = 0.314 0.313 ÷ 1 = 0.313 0.623 ÷ 16 = 0.0389 ratio 0.314÷0.0389= 8.07 0.313÷0.0389 = 8.05 0.0389 ÷0.0389 = 1 C H O Correct empirical formula with some working scores 4 marks Empirical formula alone just scores M4 Allow TE throughout 13.8 ÷ 44 = 0.31364 (mol) and 2.82 ÷ 18 = 0.15667 (mol) moles of C = 0.31364 (mol) and moles H = (0.15667 × 2) = 0.31333 (mol) 4.70 – [(0.31364 × 12) + (0.31333 × 1)] = 0.62299 (g) 0.62999 ÷ 16 = 0.03894 (mol) as for M4 in first method Ignore SF except 1SF in M1 to M3 Ignore minor rounding errors (4) Number Answer Additional Guidance Mark • Allow skeletal, structural, displayed or hybrid formulae Allow TE from formula in (b) but must have benzene ring and carbonyl group Ignore names (1) (Total for Question 3 = 9 marks) Number Answer Additional Guidance Mark • colorimetry Allow colorimeter Ignore light detector Comment If second incorrect technique shown and not crossed out then DNA (1) Number Answer Additional Guidance Mark An answer that makes reference to the following points: • axes labelled with units, with time on x axis, concentration (of In 2- ) on y axis • suitable scale where points plotted cover at least half the available space • all points plotted within ±½ a small square and smooth curve drawn (1) (1) (1) Example of graph Allow t/s Do not award T/s (3) Number Answer Additional Guidance Mark • first half-life determined • second half-life determined, consecutive with first Comm",
+          "image": "/papers/wch11-jan-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit6-2025-01-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

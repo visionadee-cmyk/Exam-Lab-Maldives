@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2022-unit3-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit3-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "October/November 2022",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) α (alpha)-particles, β (beta)-particles and γ (gamma)-rays have different characteristics. Complete Table 10.1 by indicating with a tick (3) the correct type of radiation for each characteristic. The first row is done for you. Table 10.1 characteristictype of radiation α (alpha)-particlesβ (beta)-particlesγ (gamma)-rays electromagnetic wave 3 least ionisin",
+      "text": "10 (a) α (alpha)-particles, β (beta)-particles and γ (gamma)-rays have different characteristics. Complete Table 10.1 by indicating with a tick (3) the correct type of radiation for each characteristic. The first row is done for you. Table 10.1 characteristictype of radiation α (alpha)-particlesβ (beta)-particlesγ (gamma)-rays electromagnetic wave 3 least ionisin",
+      "parts": [
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2(.0)  10 (atoms) A3 8(.0) ( 10 ) / 4 OR 8(.0) ( 10 )   C2 28 years = 2 half-lives OR 28 years / 14 = 2 (half-lives) C1",
+          "image": "/papers/physics-0625-2022/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit3-2022-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

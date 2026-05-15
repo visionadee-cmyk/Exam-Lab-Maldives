@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2025-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit6-november-p62-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/62",
+  "session": "October/November 2025",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The student: • draws line LN • labels the mid-point of LN with the letter M • draws a line PR parallel to LN and 10.0 cm below it On Fig. 1.1, draw a normal to LN at the point M. Extend the normal downwards until it crosses the line PR. Label the point at which the normal crosses PR with the letter Q. [1] * 0000800000002 * ,\u0001\u0001\u0001\u0001 \u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0003, ĬÍĊ®Ġ ́íÈõÏĪÅĊÝû ̧þ× ĬăÜòÔĤāĄáôĈ¼ÞďĊģ÷Ă ĥÕõĕõĕĥ",
+      "text": "1 (a) The student: • draws line LN • labels the mid-point of LN with the letter M • draws a line PR parallel to LN and 10.0 cm below it On Fig. 1.1, draw a normal to LN at the point M. Extend the normal downwards until it crosses the line PR. Label the point at which the normal crosses PR with the letter Q. [1] * 0000800000002 * ,\u0001\u0001\u0001\u0001 \u0001\u0001\u0001\u0001\u0001\u0001\u0001\u0003, ĬÍĊ®Ġ ́íÈõÏĪÅĊÝû ̧þ× ĬăÜòÔĤāĄáôĈ¼ÞďĊģ÷Ă ĥÕõĕõĕĥ",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = 10  1 and end of line labelled O MO = 14.0  0.2 cm a = 1.7  0.1 cm b = 10.3  0.1 cm answer to 2 significant figures values from table used to justify statement",
+          "image": "/papers/physics-0625-2025/q1-1b.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "extend the investigation for different values of  effect on a and b/ thickness of light ray/difficult to locate centre of light ray/experiment not done in a dark room Question Answer Marks 0.14 (A) suitable scales (occupying at least ½ the grid) plots correct to  ½ small square and precise plots good best-fit line judgement, thin, continuous line October/November 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "indication on the graph as to how gradient found and correct method of calculation of gradient i.e. y / x at least ½ the distance between the extreme plotted points used (I  0.045) Question Answer Marks 87.0 (C) up/to allow the thermometer to reach the temperature of the hot water/to allow the thermometer (time) to respond/to ensure that the temperature has stopped rising touching the sides/base of the beaker/stir the water before taking a reading 11.5 C R1 = 5.75 / candidate’s (c)(i)  2 C / min R2 = 3.5 (C / min) or 0.0583 (C / s) 45–55 (C) inclusive room temperature/21.5 C October/November 2025 Question Answer Marks 4 variable MP1 valid variable which may affect h stated apparatus MP2 ruler/measuring tape and additional apparatus to measure the independent variable (if not height of release or diameter of ball) method MP3 measure the independent variable and release the ball MP4 measure h and repeat for a new value of independent variable control variable MP5 any significant variable appropriate to the independent variable table MP6 columns with units, for independent variable and dependent variable conclusion MP7 compare readings in the table to see if/how/whether a change in the variable produces a change in h OR plot a (line) graph with axes specified",
+          "image": "/papers/physics-0625-2025/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit6-2025-11-61-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,71 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) The flowchart checks the lengths of a batch of 10 ropes. For the batch to be accepted 90% of the lengths need to be between 24.9 and 25.1 metres. START END Is Count = 10 ? Is Reject <= 1 ? Is Length < 25.1 AND Length > 24.9 ? INPUT Length Reject 0 Count 0 OUTPUT \"Batch accepted\" OUTPUT \"Batch rejected\" No No No Yes Yes Yes Count Count + 1 Reject Reject + 1 9 0478/22/O/N/",
+      "text": "3 (a) The flowchart checks the lengths of a batch of 10 ropes. For the batch to be accepted 90% of the lengths need to be between 24.9 and 25.1 metres. START END Is Count = 10 ? Is Reject <= 1 ? Is Length < 25.1 AND Length > 24.9 ? INPUT Length Reject 0 Count 0 OUTPUT \"Batch accepted\" OUTPUT \"Batch rejected\" No No No Yes Yes Yes Count Count + 1 Reject Reject + 1 9 0478/22/O/N/",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) The flowchart checks the lengths of a batch of 10 ropes. For the batch to be accepted 90% of the lengths need to be between 24.9 and 25.1 metres. START END Is Count = 10 ? Is Reject <= 1 ? Is Length < 25.1 AND Length > 24.9 ? INPUT Length Reject 0 Count 0 OUTPUT \"Batch accepted\" OUTPUT \"Batch rejected\" No No No Yes Yes Yes Count Count + 1 Reject Reject + 1 9 0478/22/O/N/",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Reject Count Length OUTPUT 0 0 0 1 24.88 1 2 25.01 1 3 24.98 1 4 25.00 1 5 25.05 1 6 24.99 1 7 24.97 1 8 25.04 1 9 25.19 2 10 25.07 Batch rejected One mark for each correct column max. 4 • Remove Length < 25.1 AND • Check the reject counter after each incrementation/remove reject check after counter = 10 « • « as soon as Reject = 2 / >1 ... • « reject batch and end October/November Question Answer Marks One mark for each correct line, up to maximum of three marks. Question Answer Marks 5 Totalling: • Adding the weight of each basket to the total weight as each weight is entered • Total = Total + Weight Counting: • Adding one to/incrementing the number of baskets as each weight is entered • BasketCount = BasketCount + 1 October/November Question Answer Marks 6 Constants Two from: • The value cannot be changed accidentally « • « during the execution of the program • Value only needs to be changed once if circumstances change/during the initialisation process Variables Two from: • Stores a value that can change « • « during the execution of the program • Can use a variable without knowing its value Arrays Two from: • A list of items of the same data type « • « stored under a single name • To reduce the number of variables used • Any item can be found using an index number to show its place in the list Question Answer Marks",
+          "image": "/papers/computer_science-0478-2019/q3-3a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Number is repeated/not unique",
+          "image": "/papers/computer_science-0478-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Item number not displayed/Amount column not required • Not Like ‘Delivered’ will also show cancelled items Field: Item number Order number Status Table: SALES SALES SALES Sort: Show:; ;  Criteria: Like \"Not started\" or: Like \"In progress\" • Correct Item number column • Correct Order number column and any additional column not shown • Correct status column",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,147 @@
+{
+  "paperId": "physics-0625-2021-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) Measure the length l 0 of the spring without any load. l 0 = .................................................... cm [1] (b) Suspend a load of weight W = 2.0 N from the spring, as shown in Fig. 1.2. clamp spring load l Fig. 1.2 (i) Measure the stretched length l of the spring. l = .................................................... cm",
+      "text": "1 (a) Measure the length l 0 of the spring without any load. l 0 = .................................................... cm [1] (b) Suspend a load of weight W = 2.0 N from the spring, as shown in Fig. 1.2. clamp spring load l Fig. 1.2 (i) Measure the stretched length l of the spring. l = .................................................... cm",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Measure the length l 0 of the spring without any load. l 0 = .................................................... cm [1] (b) Suspend a load of weight W = 2.0 N from the spring, as shown in Fig. 1.2. clamp spring load l Fig. 1.2 (i) Measure the stretched length l of the spring. l = .................................................... cm",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value to nearest mm suitable value > l o correct calculation of e",
+          "image": "/papers/physics-0625-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l U and e U present W U in range 1.0 to 1.4 and unit (N) correct working shown",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l W < l U and e W present ρ in range 1.0 to 2.0 (g / cm ) correct to 2/3 significant figures",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any valid source of inaccuracy, e.g: part of load U is metal hanger immersed too clay wet when weight measured air holes in clay air bubbles on immersed clay",
+          "image": "/papers/physics-0625-2021/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any valid precaution, e.g: rule close/parallel to spring eye perpendicular to reading/use set square clamp rule through origin 0625/53 May/June 2021",
+          "image": "/papers/physics-0625-2021/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 I values all decreasing and < 1.00 A • axes labelled with quantity and unit • appropriate scales (plots occupying at least grid) • plots all correct to small square and precise plots • well judged line and thin line",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "E in range 1.0 to 2.0 (V) G present and triangle method seen on graph",
+          "image": "/papers/physics-0625-2021/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "obtain more values at other potential differences start V axis at 1.0 (V) to expand scale 0625/53 May/June 2021",
+          "image": "/papers/physics-0625-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ = 20° ± 1° pin separation suitable all lines present and neat",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a and b lengths correct to nearest mm n calculation correct and in range 1.3 to 1.7 n within 10% of n and no unit for eithe r n and suitable explanation: e.g. lengths are larger/less effect of errors/smaller % uncertainty α = 20° ± 2° statement matching results and j ustification matching statement (‘within li mits of experimental accuracy’/owtte)",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one of: difficult to align pins/place pins accurately pins (too) thick lines too thick 0625/53 May/June 2021 4 MP1 apparatus: rule or equivalent MP2 method: identify independent variable detail of deflection measurement and how its measured MP3 repeat for new independent variable MP4 control variable: any variable appropriate to independent variable e.g. width of strip if thickness is the facto r MP5 table: columns, with units, for independent variable, deflection MP6 analysis: compare readings in the table to see if change in factor produce change in deflection plot line graph (with axes specified) MP7 additional point (one from) : at least 5 sets of data taken repeat each measurement and take average 2nd appropriate control variable stated repeat experiment for different variation (e.g. different mass if thickness is factor) use of fiducial aid",
+          "image": "/papers/physics-0625-2021/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

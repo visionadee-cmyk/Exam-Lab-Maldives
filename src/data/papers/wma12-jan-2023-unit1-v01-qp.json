@@ -1,0 +1,197 @@
+{
+  "paperId": "wma12-jan-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-jan-2023-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "January 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.5 h = B1 ( )   2.287 2.834 2 4.470 6.719 7.291 A   + + + + M1 = awrt 10.52 A1 (3) (b)(i) (b)(ii) \"10.52\" 4 A  − M1 = 6.52 A1ft \"10.52\" A  B1ft (3) Total 6 Number Scheme",
+          "image": "/papers/wma12-jan-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) S x xh xh = + + B1 eg V x h h x = =  = or eg hx x = ( ) S x x x   = +   or ( ) Sx x   = +   M1 6* Sx x =+ A1* (3) (b) d d S x xx  =−   B1 (1) (c) xx x − =  = x = M1 x = 6 A1 (2) (d) d d S xx  =+   B1ft d d S x  when x = 6 so minimum B1 (2) (e) ( ) 6 6 648 (cm ) S = + = B1 (1) Total 9 (a) B1 Correct expression for the surface area in any form. It may be implied by a correct expression for the surface area in terms of x which is not the given answer. Once a correct expression is seen then award B1. M1 Uses the given volume in a dimensionally correct formula to obtain h or hx in terms of x and substitutes into their expression for S of the form ... ... xh x + or equivalent e.g. .........xhxhx++ It may be implied by a correct expression for the surface area in terms of x which is not the given answer. A1* Achieves the given answer with no errors including bracketing omissions. As a minimum you must see: • the separate equation for the volume • a substitution before seeing the x term • S= in their solution at some point (or e.g. SA = or surface area = or Area=) Examples: e.g. x x x xx     ++         scores B1M1A0 e.g. xxSx xx  + = +   scores B1M1A0 (does not write a separate equation for the volume) e.g. x h S x x x xx x x     =  = + +         =+ scores B1M1A1 (separate equation for the volume, a substitution before seeing the x term and S = seen in their solution at some point. (b) Mark (b), (c), (d) and (e) altogether B1 d d S x xx  =−   in any form eg xx − − (c) M1 Starts from a derivative of the form Ax Bx − − oe, sets equal to 0 (seen or implied) where AB  , and solves via a correct method to find an expression or value for B x A = (you may need to check this) scores M1. Stating 6 without a correct derivative from (b) is M0. M1 6 cao with no incorrect working seen in their method. Withhold this mark if  seen Minimum acceptable for full marks is xx x − =  = Note this final mark is only possib",
+          "image": "/papers/wma12-jan-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Show that the surface area of the brick, S cm 2 , is given by Sx x =+6 2592 2 (3) (b) Find d d S x (1) (c) Hence find the value of x for which S is stationary. (2) (d) Find d d 2 2 S x and hence show that the value of x found in part (c) gives the minimum value of S. (2) (e) Hence find the minimum surface area of the brick. (1) _________________________________________________",
+      "text": "3 (a) Show that the surface area of the brick, S cm 2 , is given by Sx x =+6 2592 2 (3) (b) Find d d S x (1) (c) Hence find the value of x for which S is stationary. (2) (d) Find d d 2 2 S x and hence show that the value of x found in part (c) gives the minimum value of S. (2) (e) Hence find the minimum surface area of the brick. (1) _________________________________________________",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Show that the surface area of the brick, S cm 2 , is given by Sx x =+6 2592 2 (3) (b) Find d d S x (1) (c) Hence find the value of x for which S is stationary. (2) (d) Find d d 2 2 S x and hence show that the value of x found in part (c) gives the minimum value of S. (2) (e) Hence find the minimum surface area of the brick. (1) _________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "7 ... kx kx kx kx               + = + + + +                             M1 2 2 3 3 128 56 ... kx k x k x = + + + + B1A1A1 (4) (b) k k k k −=− M1 256 0 ... k k k − + =  = dM1 16, k = A1 (3) Total 7 (a) M1 Attempts the binomial expansion up to at least the third term with an acceptable structure for either the rd or 4 th term. The correct binomial coefficient (allowing alternative notation) must be combined with the correct power of x and the correct power of 2 (oe) but condone if brackets are missing. Condone errors on the first or second term. M0 for descending powers. Alternatively writes e.g. 7 6 7 6 5 2 1 2 1 kx kx kx kx kx             + = + = + + +                    which can also score M1 for the expansion up to at least the third term with an acceptable structure for either the rd or 4 th term. They do not have to multiply out the brackets for this mark but the cannot be omitted unless it is later recovered. Condone errors on the first or second term. Condone missing brackets. B1 128 56kx+ . May be listed but must be simplified. Allow 128 1... kx  ++   if the is taken out first. A1 kx or kx . May be listed, does not need to be simplified, but the binomial coefficients must be numerical. Accept () kx or () kx oe e.g. () 10.5kx or () 1.09375kx for this mark only. Common acceptable terms seen are () kx , () kx A1 kx and kx or exact simplified equivalent e.g. 10.5kx and 1.09375kx . May be listed but must have nn kx terms. Note: isw after correct terms are seen if they try to divide or multiply through or set = 0 (b) M1 Uses the given information to usually form a cubic equation in k only (or quadratic if they have cancelled a k from each term) using their coefficients from (a) in the correct positions. e.g. \"\" \"\" \"\" \"56 \" kkkk−=− or \"\" \"56 \" 2\"\" kkk+= Implied by 256 0 kk − + = or equivalent. (The = 0 may be implied by later work) e.g. 1792 0 kk − + = or 56 0 kk − + = Their equatio",
+          "image": "/papers/wma12-jan-2023/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4i",
+          "text": "Part 4i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "E.g. 2 log 9= Eg ()() log 4log 57log x xx x −+ = + M1 E.g. xx =+ x x = + A1 x = A1 (3) (ii) ()() logloglogorlogloglog r r aaaaaa rr yyyyyy ==  =+=+     B1 ( ) ( ) log log log log 2 log log a a a a a a y y y y y y + = +  − = ( ) log 2 log log a a a y y y  − =  = M1 ya = A1 (3) Total 6 (i) Answer on its own with no working score 0 marks. M1 Demonstrates at least one correct law of logarithms. e.g. 2 log 9 = or () log 4log 4 logxx=+ or ( ) ( ) log 4 log 5 log x xx x − + = + ( ) ( ) log 5 log 4 log x xx x + + − = (Do not be concerned with slips on the 2 if manipulating the equation e.g. ( ) ( ) log 4 2 log 5 log x xx x + = +  = + scores M1) A1 For a correct equation in any form with no logs eg x x + = . Must have come from correct log work. A1 only and follows a correct equation with no logs. Note log 57 log 431 x x x + = −  = will only score a maximum of M1A0A0 if they are able to demonstrate at least one correct law of logarithms. (ii) Answer on its own with no working score 0 marks. B1 For either (or both) summation correct () loglogor loglog aaaa yyyy++ or equivalent Can also be awarded for a correct equation: e.g. () loglog aa yy= or () 2 loglog aa yy= or () 3logloglog aaa yyy=+ Sight of either expression or the equation scores even if they make subsequent errors. Poor bracketing may be recovered or implied by later work. Do not penalise the absence of base a on some or all of the log terms for this mark. M1 Proceeds from their quadratic equation in log a y , collects terms, factorises or cancels log a y and obtains log a yk= . They may define log a y in terms of another variable e.g. x such that 2xxx xx k+ = +  = which is acceptable Alternatively, they may change the base and obtain log a yk = e.g. ( ) log log log log log log log log a a a a y a a a y y y y y y y y =  =  =  = Number Scheme",
+          "image": "/papers/wma12-jan-2023/q4-4i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) pq + + − + = M1 eg 27 9 27 3 51* p q p q  + + − + =  + = − A1* (2) (b) ( ) ( ) ( ) ( ) p p p p q − + + − − − + = M1 eg 9 0* p p p p q p p q − + + + + =  + + − = A1* (2) (c) 9 0 p p q + + − = 51 9 9 0 p p p  + − − − = 60 0 pp  − − = M1 p = A1 51 9 qp = − − = − A1 (3) (d) ( ) f x x x x = + − − ( ) ( ) ( ) f 3 ... ... ... x x x x = − + + M1 ( ) g x x x = + + A1 (2) Total 9 (a) M1 Attempts to use the factor theorem by setting f ( 3) 0 = . Score for the values embedded in the expression leading to an equation in p and q. The = 0 may be implied by later work for this mark. Alternatively, there may be other attempts eg to divide algebraically by x − ( 6) ( 3) ( 6) ( 6) ( 3 18) (3 17) (3 17) x p x p x x p x x q xx p x x p x p x p x q p x p p q p q + + + + − + + − + − +− + + − − ++ + − −  − − =  + = − To score the method mark they would need to proceed as far as equating q with their \" 9 51\" p −− to achieve an equation in p and q. With alternative methods look for a correct method, condoning slips and invisible brackets leading to an equation in p and q. A1* Correct proof with no errors including brackets. There must be at least one intermediate stage of working and 0= must be seen at some point in their solution via the factor theorem method. e.g. 3(3) 330951pqp q+ +  − + =  + = − scores M1A0 (no intermediate stage seen) 27 (3) 9 3051 90951pqp qp q+ +  − + =  + + =  + = − scores M1A1 (b) M1 Attempts the remainder theorem by setting ( ) f9 p = oe Award for e.g. ( ) ( ) ( 3) p p p p q − + + − + + = condoning sign slips and invisible brackets. Alternatively, they may attempt to divide algebraically by xp+ leading to a remainder in terms of p , p and q which is equated to 9. Condone slips in their working. 1 3 ( 3) ( 1 3 ) ( 1 3 ) ( 1 3 ) x x p x p x p x x q x px xx x px p x q p x p p + − − + + + − + − + − − + − − + − − With alternative methods look for a correct method, leading to a remainder in terms of p , p and q which is equated to 9 A1* Correct proof wit",
+          "image": "/papers/wma12-jan-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-11.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "12.8 0.8* r == or e.g. 20 0.8 0.8 12.8   = so r = 0.8* B1* (1) (b) 20 0.8 a = M1 = 31.25 A1 (2) (c) ( ) 31.25 1 0.8 1 0.8 n −  − M1 Eg 1 0.8 0.9984 n − 0.8 0.0016 n  dM1 ( ) log 0.0016 0.8 0.0016 log(0.8) n n    or 0.8 0.8 0.0016 log 0.0016 n n    M1 n = A1 (4) Total 7 (a) B1* Correctly demonstrates r = 0.8 oe with no incorrect working seen. If they use 0.8 within their solution there must be either some preamble or concludes 0.8 r = Minimum acceptable is an expression for r which is not 0.8 or an equation involving r with all values substituted in. At some point we must see r being linked with 0.8 either as part of an equation or e.g. with a conclusion r = 0.8 May all be in fractions instead eg 4 4 5 5 r   =  = is B1 Note that 12.8 12.8, 0.8 ar ar r = =  = = is B0 (b) Work seen in (a) must be used or stated in (b) to score. M1 Correct method for the first term. Score for the expression 12.8 0.8  or 20 0.8 oe May be seen as     (Do not penalise invisible brackets for this mark). If a candidate has stated incorrectly 12.8 or20arar== in (a) then allow M1 if they use this correctly to find a for their equation. A1 31.25 or or with no incorrect working seen (c) Note on EPEN this is M1A1M1A1 but we are marking this M1M1M1A1 M1 Attempts to set up an equation or inequality using their first term and r = 0.8 in the sum formula. Score for () \"31.25\" 1 0.8 ...156 1 0.8 n − − (Allow any inequality or = ) May be seen as \" \" 1 ...156 n   −      − dM1 Rearranges to 0.8 ... n AB  where A could be 1 and B could be unsimplified (Allow any inequality or =). Do not be concerned by the mechanics of their rearrangement. It is dependent on the first method mark. May be implied by further work if logarithms are used correctly. M1 Attempts to find n by solving 6the0ir.8 ...0.001 n using logarithms correctly. (May appear as th ei .8 .. r . n or even 5t0h8ei....2r6 n− . Cannot be scored from an unsolvable equation. (Allow any inequality or =). This ca",
+          "image": "/papers/wma12-jan-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) show that r = 0.8 (1) (b) Hence find the value of a. (2) Given that the sum of the first n terms of this sequence is greater than 156 (c) find the smallest possible value of n. (Solutions based entirely on graphical or numerical methods are not acceptable.) (4) _____________________________________________________________________________________ ________________________________________",
+      "text": "8 (a) show that r = 0.8 (1) (b) Hence find the value of a. (2) Given that the sum of the first n terms of this sequence is greater than 156 (c) find the smallest possible value of n. (Solutions based entirely on graphical or numerical methods are not acceptable.) (4) _____________________________________________________________________________________ ________________________________________",
+      "parts": [
+        {
+          "id": "8i",
+          "text": "Part 8i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 5sin 3 0.1 2 0 x + + = () 5sin 30.12x+ = − ( ) sin 3 0.1 x  + = − M1 ( ) sin 3 0.1 x + = − 30.1 sin x −   + =−   sin 0.1 x −  −−   = dM1 0.94, 0.17, 1.15, 1.92 x = − − A1A1 (4) (ii) 2 tan sin cos    =+ 2 sin cos 5 cos     = + M1 ( ) 2 1 cos cos 5 cos     − = + M1 3cos 5 cos 2 0   + − = A1 ( ) cos , 2  =− cos ...  −   = =   M1 () 70.5 , 289.5= A1 (5) Total 9 dM1 Correct strategy for finding x. Allow sin 0.1 n x  −   +     = or e.g. sin 0.1 x  −  −     = May be implied by a correct angle, but they must have proceeded as far as ( ) sin 3 0.1 x + = − before achieving an angle. Must be working in radians OR entirely in degrees (if the 0.1 radians is converted first) It is dependent on the first method mark. A1 Two of awrt 0.94, 0.17, 1.15, 1.92−− . Must be in radians. A1 All of awrt 0.94, 0.17, 1.15, 1.92 −− and no extras in range Beware of 5sin(30.1)215sin0.520.17xxx+ = − + = −  = − which scores 0 marks Note: There are other credit worthy methods such as squaring ( ) 5sin 3 0.1 x + = − and using sin1 cos=   , then solving a quadratic in cos θ. For the first M1 they would have to proceed as far 0.1 ... x += but allow the mark if slips in rearranging are made. (ii) M1 For using sin tan cos    = and attempting to multiply by cos θ (may even be cos θ or higher which is acceptable). Look for the denominator being removed from sin cos   and multiplying at least one other term by cos θ (or cos θ etc). M1 Attempts to use sin 1 cos   =   and proceeds to an equation in cos  only or sin  only A1 ( ) 3cos 5 cos  + − = . Not all need to be on the same side of the equation and condone the omission of = 0 if all on one side. Condone poor notation for cos  eg cos  M1 Solves their 3TQ in cos θ and takes inverse cos of one of their roots to obtain at least one value for θ. As a minimum, expect to see the root(s) to their 3TQ before proceeding to an angle which may need to be checked. Condone their ang",
+          "image": "/papers/wma12-jan-2023/q8-8i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2023/page-21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wma12-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2023-unit1-2023-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-jan-2023/page-01.png",
+      "/papers/wma12-jan-2023/page-02.png",
+      "/papers/wma12-jan-2023/page-03.png",
+      "/papers/wma12-jan-2023/page-04.png",
+      "/papers/wma12-jan-2023/page-05.png",
+      "/papers/wma12-jan-2023/page-06.png",
+      "/papers/wma12-jan-2023/page-07.png",
+      "/papers/wma12-jan-2023/page-08.png",
+      "/papers/wma12-jan-2023/page-09.png",
+      "/papers/wma12-jan-2023/page-10.png",
+      "/papers/wma12-jan-2023/page-11.png",
+      "/papers/wma12-jan-2023/page-12.png",
+      "/papers/wma12-jan-2023/page-13.png",
+      "/papers/wma12-jan-2023/page-14.png",
+      "/papers/wma12-jan-2023/page-15.png",
+      "/papers/wma12-jan-2023/page-16.png",
+      "/papers/wma12-jan-2023/page-17.png",
+      "/papers/wma12-jan-2023/page-18.png",
+      "/papers/wma12-jan-2023/page-19.png",
+      "/papers/wma12-jan-2023/page-20.png",
+      "/papers/wma12-jan-2023/page-21.png",
+      "/papers/wma12-jan-2023/page-22.png",
+      "/papers/wma12-jan-2023/page-23.png",
+      "/papers/wma12-jan-2023/page-24.png",
+      "/papers/wma12-jan-2023/page-25.png",
+      "/papers/wma12-jan-2023/page-26.png",
+      "/papers/wma12-jan-2023/page-27.png",
+      "/papers/wma12-jan-2023/page-28.png",
+      "/papers/wma12-jan-2023/page-29.png",
+      "/papers/wma12-jan-2023/page-30.png",
+      "/papers/wma12-jan-2023/page-31.png",
+      "/papers/wma12-jan-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

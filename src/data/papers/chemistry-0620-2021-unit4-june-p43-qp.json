@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2021-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit4-june-p43-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/43",
+  "session": "May/June 2021",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2Na + F → 2NaF F (1) equation fully correct (1)",
+          "image": "/papers/chemistry-0620-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Na outer shell with 8 crosses (1) F outer shell with 7 dots and 1 cross (1) Na + and F − (1) breakdown by (the passage of) electricity (1) of an ionic compound in molten / aqueous (state) (1) 0620/43 May/June 2021 hydrogen (anode) fluorine (1) (cathode) sodium (1) Na + + e( – ) → Na",
+          "image": "/papers/chemistry-0620-2021/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "one shared pair of electrons and 6 non-bonding electrons on each fluorine atom BOTH melting point is below –195 °C and boiling point is above –195 °C OR –195 °C is in between melting point and boiling point / –220 °C and –188 °C (1) OR BOTH – °C is higher than – °C / melting point AND lower than – °C / boiling point ionic bonds in NaF (1) attraction between molecules in F (1) weaker attraction (between particles) in F ORA (1) rate of forward reaction equals (the rate of the) reverse reaction (1) concentrations of reactants and products are constant (1) same number of gas moles on both sides of the equilibrium / same number of gas molecules on both sides of the equilibrium particles or molecules (forced) closer togethe r / same number of iodine particles or molecules in a smaller volume shifted to the left / slower (1) decrease / slowe r (1) 0620/43 May/June 2021",
+          "image": "/papers/chemistry-0620-2021/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "add zinc carbonate to sulfuric acid until • it stops dissolving OR • no more effervescence (1) filter (zinc carbonate) (1) evaporation of filtrate to form dry crystals (1) ZnCO + H SO → ZnSO + CO + H O CO product in equation (1) rest of equation correct (1) acidified aqueous potassium manganate( VII ) (1) purple to colourless (1) FeSO .7H O (1) H O (1) heat + weigh + repeat (1) until mass is constant (1) M1 0.02 (1) M2 0.72 (1) M3 M2 ÷ 18 = 0.72/18 = 0.04 (1) M4 M3 ÷ M1 = 0.04 ÷ 0.02 = 2 (1) / carbon / carbon monoxide (reaction between) coke / carbon and oxygen 0620/43 May/June 2021 carbon dioxide (1) f ide any two from (copper has): • high density • high melting point • variable oxidation states any two from (copper): • good conductor of electricity • forms a basic oxide • soluble salts / 1 69.77 / 12 18.6 /16 Or evaluation 11.63 5.81 1.16 Or ratio 10 : : 1 (1) C H O (1) M r of CH O =) 30 (1) C H O (1) 0620/43 May/June 2021 name of ester, corresponding to C H O : ethyl methanoate or methyl ethanoate (1) correctly displayed ester linkage (1) fully correct displayed formula corresponding to C H O and matching named este r (1) displayed formula of propanoic acid (1) propanoic acid (1)",
+          "image": "/papers/chemistry-0620-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Step 1: cracking (1) C H → C H + C H (1) Step 2: (catalytic) addition (1) C H + H O → C H OH (1)",
+          "image": "/papers/chemistry-0620-2021/q7-7d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit4-2021-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

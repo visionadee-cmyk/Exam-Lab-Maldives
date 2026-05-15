@@ -1,0 +1,187 @@
+{
+  "paperId": "computer_science-0478-2022-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 13,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three MP1 using an array or variables // lookup // input today ’s date MP2 use a loop / FOR / REPEAT / WHILE statement MP3 ... to output / display today ’s date / today using a suitable message MP4 ... and the 6/7 following dates/days // loop 6/7 times or MP5 using an array or variables // lookup // input today ’s date MP6 array/ variables contains all the days of the week / the next seven days or dates MP7 attempt to output / display available days using a suitable message(s)",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two MP1 method used to allocate a new number, e.g. initialise a variable or counter // select a random number MP2 how it ensured uniqueness, e.g. every booking number is one larger than the previous number // check existing bookings to ensure it hasn’t been used before 0478/22 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "TotalPeople  TotalPeople + NumberOfTickets[Type] NEXT Type ENDIF OUTPUT \"Do you want a family ticket? Y/N\" INPUT Family IF Family = \"Y\" THEN OUTPUT \"How many?\" INPUT NumberOfTickets[4] TotalCost  TotalCost + TicketPrice[4] * NumberOfTickets[4] TotalPeople  TotalPeople + NumberOfTickets[4] * 5 ENDIF OUTPUT \"Do you want a group ticket? Y/N\" INPUT Group IF Group = \"Y\" THEN OUTPUT \"How many people in the group?\" INPUT NumberOfTickets[5] TotalCost  TotalCost + TicketPrice[5] * NumberOfTickets[5] TotalPeople  TotalPeople + NumberOfTickets[5] ENDIF REPEAT OUTPUT \"How many people would like to see the lion feeding?\" INPUT LionFeedingNumber IF TotalPeople >= LionFeedingNumber THEN TotalCost  TotalCost + LionFeedingNumber * LionfeedingPrice ENDIF OUTUT \"How many people would like to see the penguin feeding?\" INPUT PenguinFeedingNumber IF TotalPeople >= PenguinFeedingNumber THEN TotalCost  TotalCost + PenguinFeedingNumber * PenguinfeedingPrice ENDIF UNTIL TotalPeople >= PenguinFeedingNumber AND TotalPeople >= LionFeedingNumber 0478/22 May/June 2022 One mark per mark point, max three MP1 use of selection (or any other method) to identify bookings with 2 or more adults and/or seniors and 2 (allow 3) or more children MP2 calculating new price including family ticket(s) for booking / tickets sold MP3 ... use of condition to compare price of family ticket(s) to price of ordinary tickets / group ticket(s) ... MP4 ... identifying best value / lowest cost 0478/22 May/June 2022 Section B",
+          "image": "/papers/computer_science-0478-2022/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  line 8 / PassCheck  TRUE correction PassCheck  FALSE  line 12 / IF Password <> Password correction IF Password2 <> Password // IF Password <> Password2  line 18 / UNTIL PassCheck OR Attempt <> 3 correction UNTIL PassCheck OR Attempt = 3 / UNTIL PassCheck OR Attempt >= 3",
+          "image": "/papers/computer_science-0478-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark check, one mark matching description, max four Check: validation // length check Description length check // checks number of characters in password Check: verification // double entry Description double entry // comparison that two inputs are the same",
+          "image": "/papers/computer_science-0478-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per set, one mark matching reason, max four Set 1 – any appropriate example e.g. “small” Reason must follow through from the password given e.g. abnormal data will be rejected Set 2 – any different appropriate example e.g. “password” and “password” Reason must be different and follow through from the password given e.g. normal data will be accepted",
+          "image": "/papers/computer_science-0478-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) Describe a one-dimensional array. Include an example of an array declaration. ................................................................................................................................................... ................................................................................................................................................... .........",
+      "text": "3 (a) Describe a one-dimensional array. Include an example of an array declaration. ................................................................................................................................................... ................................................................................................................................................... .........",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Describe a one-dimensional array. Include an example of an array declaration. ................................................................................................................................................... ................................................................................................................................................... .........",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  a list / one column of items  ... of the same data type  ... stored under a single identifier  ... with a single index to identify each element One mark for an example of a declaration  example e.g. DECLARE MyArray[1:10] OF INTEGER 0478/22 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  using a counter to index the array  so that the same code can be repeatedly used to check every element // every element can be checked in a loop",
+          "image": "/papers/computer_science-0478-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct column Counter Hot Cold Serve Temp Error OUTPUT 0 0 0 0 1 1 75 2 2 78 3 3 84 4 1 87 Too Hot 5 2 91 Too Hot 6 4 80 7 5 75 8 6 70 9 7 65 10 1 62 Too Cold -1 30 30 0478/22 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " include a message to explain the value output / e. g. “The percentage of meals not served” // outputting Hot , Cold and Serve",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " updating the Serve variable // Serve  Serve + 1 0478/22 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four  correct rows Field and Table  correct row Show  correct Criteria for SingleUse or/and Uses  correct Criteria for StockLevel less than ReorderLevel Field: ItemNumbe r Description SingleUse StockLevel Table: NURSE NURSE NURSE NURSE Sort: Show:     Criteria: True <[ReorderLevel] or: Or Field: ItemNumbe r Description Uses StockLevel Table: NURSE NURSE NURSE NURSE Sort: Show:     Criteria: = 1 <[ReorderLevel] or:",
+          "image": "/papers/computer_science-0478-2022/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "the field Uses already shows this information // duplication of data // redundant data",
+          "image": "/papers/computer_science-0478-2022/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 13,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit2-2022-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

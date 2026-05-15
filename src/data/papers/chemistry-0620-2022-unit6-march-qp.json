@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2022-unit6-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit6-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "February/March 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "filter (to remove calcium carbonate) heat (to evaporate water) until crystals start to form / point of crystallisation / until saturated (then leave to cool) / until half evaporated",
+          "image": "/papers/chemistry-0620-2022/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all initial temperatures correct (21.0, 21.0, 21.0, 21.5, 21.5, 21.5) all final temperatures correct (25.5, 27.5, 30.0, 32.5, 34.0, 39.5) all temperature changes in calculated correctly (4.5, 6.5, 9.0, 11.0, 12.5, 18.0) all temperature readings and calculated temperature changes are show to 1 dp",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y -axis scale is linear and points extend over halfway up scale all points plotted correctly best fit straight line line extended to (0,0) 0620/62 February/March 2022",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct working shown on graph correct reading from their working shown on graph °C / halved double the volume of water (to be heated)",
+          "image": "/papers/chemistry-0620-2022/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a polystyrene cup / insulation / lid explanation: reduce / less heat lost change: use a burette (for the water) explanation: (more) accurate (than a measuring cylinder) blue precipitate dissolves / forms a solution deep(er) blue",
+          "image": "/papers/chemistry-0620-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any pH in range 8 to 14 / Ca 2+ hydroxide / OH – 0620/62 February/March 2022 1 mark each for any 6 from: • known/specified volume of fizzy drink • warmed/heated • in a suitable container • gas collected in inverted measuring cylinder over water or in a (gas) syringe • until no more gas collected / all carbon dioxide given off / no more bubbles • volume of gas measured / recorded • volume of gas in 1 dm = volume collected × / volume used",
+          "image": "/papers/chemistry-0620-2022/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit6-2022-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

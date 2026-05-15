@@ -1,0 +1,81 @@
+{
+  "paperId": "wch11-jan-2025-unit1-qp",
+  "pairedMarkSchemeId": "wch11-jan-2025-unit1-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH11/01",
+  "session": "January 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 26",
+      "text": "Question 26",
+      "parts": [
+        {
+          "id": "26b",
+          "text": "Part 26b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 2 dots in the S-S overlap • 10 pairs of one dot and one cross in the 10 S-F overlaps (1) (1) Allow bonding electrons to touch / sit on the circles Any extra electron or electrons negates one of the marks (2) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-jan-2025/q26-26b.png"
+        },
+        {
+          "id": "26c",
+          "text": "Part 26c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 4 pairs of one dot and one cross in the S-F overlap • 1 pair of dots on the outer shell of sulfur and 3 pairs of crosses on the outer shell of each fluorine (1) (1) Example of dot-and-cross diagram Allow two separate electrons for the sulfur lone pair Allow fluorine lone pairs shown as unpaired electrons Allow dots and crosses reversed (2) Number Answer Additional Guidance Mark following points: • S F shape with bonds as shown • S F 90º for Do not award 120° • SF shape with at least one dotted or wedged bond • SF 90º / 180º and 120º Allow values 85–90° / 170–180° and 100–120° (1) (1) (1) (1) Ignore lack of degree sign Ignore presence of a lone pair on S in SF4 Molecule Diagram F‒S‒F bond angle SF 90º S F 90º (ignore 180º) SF 90º / 180 º and 120º (4) Number Answer Additional Guidance Mark • sulfur in SF has six bonding pairs (of electrons) (and no lone pairs) • sulfur in SF has four bonding pairs (of electrons) and one lone pair • the (electron) pairs repel to be as far away as possible / maximum separation (1) (1) (1) Bonding pairs needs to be seen once only in the response Ignore references to individual shapes and bond angles, e.g., octahedral, tetrahedral, bipyramidal even if incorrect Allow the (electron) pairs move to minimise repulsion Do not award bonds repel Do not award repulsion of atoms (3) Number Answer Additional Guidance Mark • (SF has) a lone pair of electrons on the sulfur (making SF more reactive than SF ) OR SF is polar (because of its shape) • (in S F ) the S–S bond is weak compared to the S–F bond OR (in S F ) the S–S bond is long compared to the S–F bonds • SF has (six) strong / difficult to break (S–F) bonds OR (the sulfur atom is small) so the six fluorine atoms hinder attack on the sulfur (1) (1) (1) Allow the S–S bond requires less energy to break than an S–F bond Do not award S F has lone pair(s) / is polar Allow SF is octahedral and non-polar Allow the six fluorine atoms block the sulfur Ignore throughout references to intermolecular for",
+          "image": "/papers/wch11-jan-2025/q26-26c.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2025/page-24.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit1-2025-01-qp.pdf",
+    "pageImages": [
+      "/papers/wch11-jan-2025/page-01.png",
+      "/papers/wch11-jan-2025/page-02.png",
+      "/papers/wch11-jan-2025/page-03.png",
+      "/papers/wch11-jan-2025/page-04.png",
+      "/papers/wch11-jan-2025/page-05.png",
+      "/papers/wch11-jan-2025/page-06.png",
+      "/papers/wch11-jan-2025/page-07.png",
+      "/papers/wch11-jan-2025/page-08.png",
+      "/papers/wch11-jan-2025/page-09.png",
+      "/papers/wch11-jan-2025/page-10.png",
+      "/papers/wch11-jan-2025/page-11.png",
+      "/papers/wch11-jan-2025/page-12.png",
+      "/papers/wch11-jan-2025/page-13.png",
+      "/papers/wch11-jan-2025/page-14.png",
+      "/papers/wch11-jan-2025/page-15.png",
+      "/papers/wch11-jan-2025/page-16.png",
+      "/papers/wch11-jan-2025/page-17.png",
+      "/papers/wch11-jan-2025/page-18.png",
+      "/papers/wch11-jan-2025/page-19.png",
+      "/papers/wch11-jan-2025/page-20.png",
+      "/papers/wch11-jan-2025/page-21.png",
+      "/papers/wch11-jan-2025/page-22.png",
+      "/papers/wch11-jan-2025/page-23.png",
+      "/papers/wch11-jan-2025/page-24.png",
+      "/papers/wch11-jan-2025/page-25.png",
+      "/papers/wch11-jan-2025/page-26.png",
+      "/papers/wch11-jan-2025/page-27.png",
+      "/papers/wch11-jan-2025/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2024-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2024",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 iron(II) / Fe 2+ M2 chromium(III) / Cr 3+ October/November 2024 Question Answer Marks M2 chromium(III) AND forms a solution / precipitate dissolves OR M2 iron(II) AND forms a green precipitate / precipitate does not dissolve / (precipitate) becomes brown OR M1 leave to stand / add more (aqueous ammonia) M2 chromium(III) AND remains green / does not turn brown OR M2 iron(II) AND turns brown",
+          "image": "/papers/chemistry-0620-2024/q3-3d.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iodide / I – Question Answer Marks 4 any six from: MP1 crush / grind beetroot MP2 with pestle / mortar MP3 with water MP4 place (a drop of) liquid / colour on (chromatography / filter) paper MP5 chromatography MP6 (bottom of) paper dipped in water MP7 number of coloured substances = number of spots",
+          "image": "/papers/chemistry-0620-2024/q3-3f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit6-2024-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

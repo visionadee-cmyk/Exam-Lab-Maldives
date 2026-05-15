@@ -1,0 +1,51 @@
+{
+  "paperId": "mathematics-0580-2024-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2024-unit1-november-p13-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/13",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 B1 for each or If 0 scored SC1 for n(c) = 33",
+          "image": "/papers/mathematics-0580-2024/q19-19a.png"
+        },
+        {
+          "id": "19c",
+          "text": "Part 19c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "14 oe C 7 26 T October/November 2024 Question Answer Marks Partial Marks 20 463.85 463.95 2 B1 for each If 0 scored SC1 for both correct but reversed 21 2.56 × 10 22 1409.07 or 1409.069... 1410, 1409, 1409.1 M1 for 2.1  +   oe 23 6.49 or 6.490 to 6.491 2 M1 for sin 9.7 x = or better 24 8 2 M1 for 3.2 x = 2.7 6.75 oe or better",
+          "image": "/papers/mathematics-0580-2024/q19-19c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2024/q19.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2024-unit1-2024-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

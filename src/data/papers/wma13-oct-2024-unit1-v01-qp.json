@@ -1,0 +1,77 @@
+{
+  "paperId": "wma13-oct-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-oct-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "October 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() sin 3sin 2sin 2 coscos 2 sinxx xxxxx=+ =+ M1 () ( ) 2 sin coscos1 2 sinsinxxxxx=+ − dM1 2 sin cos sin 2 sin x x x x = + − A1 ( ) 2 sin 1 sin sin 2 sin 3sin 4 sin x x x x x x = − + − = − A1 (4) (b) ( ) 2 sin 3 5sin 2 2 3sin 4 sin 10 sin cos =  − =       M1 Divides or takes out sin  as a factor and uses sin =1 cos −   to set up and solve a 3TQ in cos  E.g. 6 sin 8sin 10 sin cos (1 cos 10 cos  − =  − − =     )  4 cos 5 cos 1= 0   −  − ( ) cos 0.175... −  = = −  dM1 Any two of the following four answers sin 180 , 360 =  =    cos = −  awrt 100 or awrt 260= A1 All of 180 , 360 , awrt 100.1 , awrt 259.9     A1 (4) Total 8 (b) Allow if solved in terms of another variable, say x The question states hence or otherwise solve 2sin 3 5sin 2 =  In almost all cases they will use their part (a) and proceed by the ‘hence’ route. ‘Otherwise’ routes could start with earlier versions of 2sin 3  such as ( ) 2 2 sin cos sin 2 sin x x x x +− In almost all cases the main mark scheme provides a framework of how the marks are awarded M1: Uses their part (a) and a double angle for sin 2  of the form sin cos G  to form an equation in sin  and cos  . Look for sin sin sin cos R S T +=     o.e. Condone slips such as forgetting to  dM1: The mark is scored for dividing or taking out a factor of sin  and using sin = 1 cos    to set up and solve a 3TQ in cos  . To solve you should expect to see a valid method used, leading to at least one value for cos = , 11,0kkk−    If a calculator is used to solve the 3TQ in cos  the value(s) must be correct for their equation. Candidates cannot go straight from an equation e.g. 4 cos5 cos1= 0 −  − to a solution e.g. 100.1 without sight of the value for cos  in between. A1: Finds two angles of 180 , 360 , awrt 100 , awrt 260     following at least one previous M1 The 180 and/or 360  must be found via a correct method with sin = 0  being seen or implied and also produced from a factorised ",
+          "image": "/papers/wma13-oct-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-oct-2024/page-13.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma13-oct-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2024-unit1-2024-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-oct-2024/page-01.png",
+      "/papers/wma13-oct-2024/page-02.png",
+      "/papers/wma13-oct-2024/page-03.png",
+      "/papers/wma13-oct-2024/page-04.png",
+      "/papers/wma13-oct-2024/page-05.png",
+      "/papers/wma13-oct-2024/page-06.png",
+      "/papers/wma13-oct-2024/page-07.png",
+      "/papers/wma13-oct-2024/page-08.png",
+      "/papers/wma13-oct-2024/page-09.png",
+      "/papers/wma13-oct-2024/page-10.png",
+      "/papers/wma13-oct-2024/page-11.png",
+      "/papers/wma13-oct-2024/page-12.png",
+      "/papers/wma13-oct-2024/page-13.png",
+      "/papers/wma13-oct-2024/page-14.png",
+      "/papers/wma13-oct-2024/page-15.png",
+      "/papers/wma13-oct-2024/page-16.png",
+      "/papers/wma13-oct-2024/page-17.png",
+      "/papers/wma13-oct-2024/page-18.png",
+      "/papers/wma13-oct-2024/page-19.png",
+      "/papers/wma13-oct-2024/page-20.png",
+      "/papers/wma13-oct-2024/page-21.png",
+      "/papers/wma13-oct-2024/page-22.png",
+      "/papers/wma13-oct-2024/page-23.png",
+      "/papers/wma13-oct-2024/page-24.png",
+      "/papers/wma13-oct-2024/page-25.png",
+      "/papers/wma13-oct-2024/page-26.png",
+      "/papers/wma13-oct-2024/page-27.png",
+      "/papers/wma13-oct-2024/page-28.png",
+      "/papers/wma13-oct-2024/page-29.png",
+      "/papers/wma13-oct-2024/page-30.png",
+      "/papers/wma13-oct-2024/page-31.png",
+      "/papers/wma13-oct-2024/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

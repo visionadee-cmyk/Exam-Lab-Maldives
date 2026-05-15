@@ -1,0 +1,113 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Nancy has captured images of her holiday with her camera. The captured images are stored as digital photo files on her camera. Explain how the captured images are converted to digital photo files. ................................................................................................................................................... ........................",
+      "text": "2 (a) Nancy has captured images of her holiday with her camera. The captured images are stored as digital photo files on her camera. Explain how the captured images are converted to digital photo files. ................................................................................................................................................... ........................",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct compression, 3 marks for explanation: – Lossy Any three from: – Lossy would reduce the file size more (than lossless) – The redundant data can be removed from the files // by example (must be about redundant data) – Images can still be a similar quality – There is no requirement for the files to be exactly the same as original file – Photos can be sent quick er // fast er to upload // fast er to download 0478/12 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct register Hours 0 0 0 0 0 0 1 0 Minutes 0 0 0 1 1 1 1 1 Seconds 0 0 1 1 1 0 1 0",
+          "image": "/papers/computer_science-0478-2018/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct section: 1 mark for each correct section: 1 1 0 1 0 0 0 0 0 0 1 1 1 mark 1 mark 1 mark Hours Minutes Seconds 0478/12 May/June 2018 1 mark for correct register, 3 marks for reason: – Register Y Any three from: – Count the number of 1/0 bits (in each byte/register) – Two bytes/registers have an odd number of 1/0 bits // Two have odd parity – Even parity must be the parity used – One byte/register has an even number of 1/0 bits // One uses even parity – The two with an odd number of one bits/odd parity are incorrect // Register X and Z should have even parity 1 mark for each correct missing word, in the given order: – fetches – immediate access store // IAS – program counter // PC – memory address register // MAR – memory data register // MDR – executed – arithmetic logic unit // ALU – accumulator // ACC 0478/12 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/page-03.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct logic gate with correct direct of input(s):",
+          "image": "/papers/computer_science-0478-2018/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 or 7 correct outputs 2 marks for 4 or 5 correct outputs 1 mark for 2 or 3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/12 May/June 2018 1 mark for correct translator, 3 marks for explanation: – Compiler Any three from: – Does not require recompilation // compiled program can be executed without a compiler « – ... therefore, allows faster execution – Provides an executable file « – « therefore, allows him to just send machine code – Dimitri’s friend does not need translation/compilation software to execute the program four from: – Read/scanned using app (on mobile device) – It is the camera that is used to scan/capture the image – The three large squares are used to define t he alignment // uses alignment targets/modules – Black squares reflect less light // white squares reflect more light – The app/device processes the image – Each small square/pixel is converted to a binary value four from: – Conductive layer – An electrostatic/electric field is created – Sensor(s) (around the screen) monitor the electrostatic field – When touched (electrostatic) charge is transferred to finger – Location of touch is calculated // Co-ordinates used to calculate touch 0478/12 May/June 2018 two from: – Gloves are not conductive // Gloves are an insulator – Block current/charge from finger / body / person – Stop the electrostatic field being disturbed/changed two from e.g. (1 mark for method, 1 for expansion): – She could use a (conductive) stylus « – « this will allow the charge to be charged/disturbed – She could use capacitive gloves « – « this will allow the charge to be charged/disturbed – She could use a natural language interface/voice operated interface « – « she could give vocal commands to the device 11 Any six from: – Suitable sensor (motion/infra-red) – Data converted (from analogue) to digital (using ADC) – Data sent to microprocessor – Data is compared to stored value/range « – « i",
+          "image": "/papers/computer_science-0478-2018/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/page-07.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2018/page-01.png",
+      "/papers/computer_science-0478-2018/page-02.png",
+      "/papers/computer_science-0478-2018/page-03.png",
+      "/papers/computer_science-0478-2018/page-04.png",
+      "/papers/computer_science-0478-2018/page-05.png",
+      "/papers/computer_science-0478-2018/page-06.png",
+      "/papers/computer_science-0478-2018/page-07.png",
+      "/papers/computer_science-0478-2018/page-08.png",
+      "/papers/computer_science-0478-2018/page-09.png",
+      "/papers/computer_science-0478-2018/page-10.png",
+      "/papers/computer_science-0478-2018/page-11.png",
+      "/papers/computer_science-0478-2018/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

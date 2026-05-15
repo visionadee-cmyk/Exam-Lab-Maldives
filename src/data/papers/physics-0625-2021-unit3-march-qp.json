@@ -1,0 +1,319 @@
+{
+  "paperId": "physics-0625-2021-unit3-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit3-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/32",
+  "session": "February/March 2021",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 22,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Calculate the moment of the 5.2 N force about the pivot and show that its value is close to 30 Ncm. [3] (b) The beam is balanced. Calculate force P.",
+      "text": "1 (a) Calculate the moment of the 5.2 N force about the pivot and show that its value is close to 30 Ncm. [3] (b) The beam is balanced. Calculate force P.",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(gravitational potential energy) decreases M1 (because) height (of box) decreases A1 any indication on graph / in text that horizontal section represents steady speed C1 (m / s) A1 (resultant vertical force =) zero OR 0 (N) B1",
+          "image": "/papers/physics-0625-2021/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "distance = area under graph OR ½ × b × h C1 (distance =) ½ × 6.0 × C1 (m) A1",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "deceleration (line) is steepe r OR higher gradient than acceleration (line) B1",
+          "image": "/papers/physics-0625-2021/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "2 (a) Calculate the volume of the stone. volume = .................................................. cm 3 [2] (b) Another stone has a mass of 98.4 g. The volume of this stone is 41.0 cm 3 . Calculate the density of the stone. density = .............................................. g / cm 3 [3] (c) The stone with a mass of 98.4 g has a weight of 0.984 N.",
+      "text": "2 (a) Calculate the volume of the stone. volume = .................................................. cm 3 [2] (b) Another stone has a mass of 98.4 g. The volume of this stone is 41.0 cm 3 . Calculate the density of the stone. density = .............................................. g / cm 3 [3] (c) The stone with a mass of 98.4 g has a weight of 0.984 N.",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Calculate the volume of the stone. volume = .................................................. cm 3 [2] (b) Another stone has a mass of 98.4 g. The volume of this stone is 41.0 cm 3 . Calculate the density of the stone. density = .............................................. g / cm 3 [3] (c) The stone with a mass of 98.4 g has a weight of 0.984 N.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(volume =) difference in candidate’s readings C1 (cm ) A1",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(density =) mass ÷ volume C1 (density =) 98.4 ÷ 41.0 C1 2.4(0) (g / cm ) A1 0625/32 March 2021",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "idea that mass is (a measure of) amount of matter in a body B1 idea that weight is a gravitational force B1",
+          "image": "/papers/physics-0625-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(moment of force =) force × (perpendicular) distance of force from pivot B1 5.2 × 6.0 B1 31.2 B1",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(sum of) clockwise moment(s) = (sum of) anticlockwise moment(s) C1 P × 2.0 + 8.1 × 2.0 = 5.2 × 6.0 OR 31.2 OR answer from (a) C1 P = (31.2 – 16.2) ÷ 2.0 OR 15 ÷ 2.0 C1 7.5 (N) A1 B1 (part B) generato r B1",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 valid examples of renewable energy from: sunlight wind wave hydroelectric biofuels/biomass tidal B2",
+          "image": "/papers/physics-0625-2021/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: does not produce carbon dioxide OR does not contribute to global warming no sulphur dioxide or nitrous oxides produced no mining needed for fuel B2 0625/32 March 2021 (weight =) mass × g OR 1.6 × 10 OR mass = W ÷ g C1 (weight =) 16 (N) A1 (pressure =) force ÷ area C1 (pressure =) 16 ÷ 18 C1 (pressure =) 0.89 (N / cm ) A1",
+          "image": "/papers/physics-0625-2021/q4-4c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 (volume of block) increases B1 2 (mass) remains constant owtte B1 3 (density) decreases B1 angle of incidence correctly identified (with × between normal and incident ray) B1 B1 B1 B1 C1 total internal reflection A1",
+          "image": "/papers/physics-0625-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ray refracted away from normal B1 0625/32 March 2021",
+          "image": "/papers/physics-0625-2021/q6-6c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 (amplitude of wave = arrow) R B1 2 ( wavelength of wave = arrow) S B1",
+          "image": "/papers/physics-0625-2021/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(frequency =) number of (complete) waves per second C1 (frequency =) 12 ÷ 8 C1 1.5 (Hz) A1",
+          "image": "/papers/physics-0625-2021/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "vibration(s) OR oscillation(s) B1 in transverse waves is / are perpendicula r / at right angles to the direction of energy transfe r / wave travel B1 in longitudinal waves is / are in same direction OR parallel to the direction of energy transfe r / wave travel B1 (plotting) compass OR iron filings B1 detail of method B1 use of (plotting) compass to give direction of field B1 B1 reverse magnetic field owtte OR reverse current in wire B1 force is weake r B1 (because) magnetic field is weake r B1 0625/32 March 2021",
+          "image": "/papers/physics-0625-2021/q7-7c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V= I R or (R =) V / I C1 5.6 ÷ 0.04 C1 ( Ω ) A1",
+          "image": "/papers/physics-0625-2021/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(current in thermistor) increases B1 (because) resistance of thermistor decreases B1 / high temperature alarm / warning B1",
+          "image": "/papers/physics-0625-2021/q9-9b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "electrocution OR overheating / fire B1",
+          "image": "/papers/physics-0625-2021/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "large current (in fuse) B1 (causes) fuse / it to melt B1 isolating appliance from supply OR prevents current in appliance OR breaks circuit B1",
+          "image": "/papers/physics-0625-2021/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V s / V p = N s / N p C1 V s / 120 = 200 / 2000 OR V s = 120 × / 2000 OR V s = 120 / C1 (V) A1 B1 0625/32 March 2021",
+          "image": "/papers/physics-0625-2021/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "carbon-12 carbon-14 number of electrons B1 number of protons B1 number of neutrons B1",
+          "image": "/papers/physics-0625-2021/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any indication on graph of line from 8000 C1 5600 (years) A1",
+          "image": "/papers/physics-0625-2021/q11-11b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 22,
+    "questionCount": 10
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit3-2021-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

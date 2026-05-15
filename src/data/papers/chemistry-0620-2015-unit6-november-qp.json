@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2015-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/",
+  "session": "October/November 2015",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "reading from the graph / expected answer 4100 ± 50; indication of extrapolation from the graph; value for ethane = 1550; butane = 2800 / about twice value or not exactly twice value; Page 4 Mark Scheme Syllabus Paper Question Answer Marks Guidance relights; R: relights a lighted splint A: lighted splint glows brighter poisonous / toxic; Question Answer Marks Guidance 4 correct = 3 3 correct = 2 2 correct = 1 0 or 1 correct = 0 in seconds; 4 correct = 2 3 correct = 1 2 or fewer correct = 0 smooth line graph; shown clearly on the graph; Page 5 Mark Scheme Syllabus Paper Question Answer Marks Guidance extrapolation shown clearly; (°C); gas syringe / thermometer; measurements volume of gas / temperature of reaction; over time; Question Answer Marks Guidance precipitate; precipitate; nitrate; Page 6 Mark Scheme Syllabus Paper Question Answer Marks Guidance 6 7 from: • weighed amount / x g of toothpaste; • add water; • stir / heat; • filter (to obtain calcium carbonate); • wash; • dry; • weigh residue; • calculate percentage calcium carbonate;",
+          "image": "/papers/chemistry-0620-2015/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit6-2015-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

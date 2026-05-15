@@ -1,0 +1,67 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "October/November 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results initial and final reading boxes completed correctly differences completed correctly all readings to 1 decimal place comparable to supervisors orange / pink / red",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "no sharp colour change / no (clear) end point (Experiment) 3 (needed smallest) and (Experiment) 2 (needed largest) most concentrated S R least concentrated T / none concentration of reactants not affected / unchanged / same",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat the experiment compare results / to check for anomalous results / until concordant results owtte / October/November 2019",
+          "image": "/papers/chemistry-0620-2019/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 measurement to be taken MP2 use of results to draw conclusion MP3 reactant / method thermometric • measure temperature (change) • highest temperature (change) is most concentrated • add (excess) hydrochloric acid precipitation of metallic hydroxide • measure mass / height of precipitate • most precipitate is most concentrated • add (xs aqueous) copper sulfate (for example) gas produced • measure volume of gas made • largest volume is most concentrated • add an ammonium salt or aluminium evaporation • mass of solid • most mass is most concentrated • evaporate solution pH meter • measure pH • highest pH is most concentrated • pH meter dissolving • measure time taken for solid to dissolve • shortest time is most concentrated • aluminium / aluminium oxide / zinc / zinc oxide / October/November 2019 tests on solid U / purple / violet / precipitate dissolves precipitate / remains / no change precipitate chromium sulfate tests on liquid V / ignites / yellow flame / purple solution / crystal dissolves / crystal smaller / organic / October/November 2019 any six from: • known volume / amount of (distilled) water • initial temperature (of water before solid is added) • add measured mass / stated mass of potassium nitrate or ammonium chloride • stir / mix / dissolve / swirl / shake • final temperature of solution / temperature every 30 s • repeat with (same mass of) other solid (and volume / amount of water) OR measured mass of other solid • greater temperature change / decrease OR lowest final temperature is larger energy change / calculate energy change per gram max 6",
+          "image": "/papers/chemistry-0620-2019/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

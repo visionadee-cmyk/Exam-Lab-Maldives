@@ -1,5 +1,5 @@
 {
-  "paperId": "wbi11-may-2019-unit1-qp",
+  "paperId": "wbi11-jan-2019-unit1-qp",
   "subjectId": "biology_ial_pearson",
   "code": "WBI11/01",
   "session": "May 2019",
@@ -20,13 +20,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "CₙHₙO₂ₙ" },
-            { "id": "B", "text": "CₙH₂ₙOₙ" },
-            { "id": "C", "text": "C₂ₙHₙOₙ" },
-            { "id": "D", "text": "C₂ₙH₂ₙOₙ" }
+            {
+              "id": "A",
+              "text": "CₙHₙO₂ₙ"
+            },
+            {
+              "id": "B",
+              "text": "CₙH₂ₙOₙ"
+            },
+            {
+              "id": "C",
+              "text": "C₂ₙHₙOₙ"
+            },
+            {
+              "id": "D",
+              "text": "C₂ₙH₂ₙOₙ"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "CₙH₂ₙOₙ", "CnH2nOn"]
+          "keywords": [
+            "B",
+            "CₙH₂ₙOₙ",
+            "CnH2nOn"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -34,7 +51,11 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Condensation reaction",
-          "keywords": ["condensation", "dehydration synthesis"]
+          "keywords": [
+            "condensation",
+            "dehydration synthesis"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1a_ii.png"
         },
         {
           "id": "1b_i",
@@ -42,13 +63,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "amylose" },
-            { "id": "B", "text": "galactose" },
-            { "id": "C", "text": "lactose" },
-            { "id": "D", "text": "sucrose" }
+            {
+              "id": "A",
+              "text": "amylose"
+            },
+            {
+              "id": "B",
+              "text": "galactose"
+            },
+            {
+              "id": "C",
+              "text": "lactose"
+            },
+            {
+              "id": "D",
+              "text": "sucrose"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "lactose"]
+          "keywords": [
+            "C",
+            "lactose"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1b_i.png"
         },
         {
           "id": "1b_ii",
@@ -56,13 +93,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "amylopectin" },
-            { "id": "B", "text": "galactose" },
-            { "id": "C", "text": "maltose" },
-            { "id": "D", "text": "sucrose" }
+            {
+              "id": "A",
+              "text": "amylopectin"
+            },
+            {
+              "id": "B",
+              "text": "galactose"
+            },
+            {
+              "id": "C",
+              "text": "maltose"
+            },
+            {
+              "id": "D",
+              "text": "sucrose"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "maltose"]
+          "keywords": [
+            "C",
+            "maltose"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1b_ii.png"
         },
         {
           "id": "1b_iii",
@@ -70,13 +123,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "amylose" },
-            { "id": "B", "text": "fructose" },
-            { "id": "C", "text": "glycogen" },
-            { "id": "D", "text": "sucrose" }
+            {
+              "id": "A",
+              "text": "amylose"
+            },
+            {
+              "id": "B",
+              "text": "fructose"
+            },
+            {
+              "id": "C",
+              "text": "glycogen"
+            },
+            {
+              "id": "D",
+              "text": "sucrose"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "glycogen"]
+          "keywords": [
+            "C",
+            "glycogen"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1b_iii.png"
         },
         {
           "id": "1b_iv",
@@ -84,15 +153,32 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "amylose" },
-            { "id": "B", "text": "amylopectin" },
-            { "id": "C", "text": "fructose" },
-            { "id": "D", "text": "maltose" }
+            {
+              "id": "A",
+              "text": "amylose"
+            },
+            {
+              "id": "B",
+              "text": "amylopectin"
+            },
+            {
+              "id": "C",
+              "text": "fructose"
+            },
+            {
+              "id": "D",
+              "text": "maltose"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "amylopectin"]
+          "keywords": [
+            "B",
+            "amylopectin"
+          ],
+          "image": "/papers/wbi11-jan-2019/q1-1b_iv.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2019/page-03.png"
     },
     {
       "id": "q2",
@@ -100,7 +186,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "The diagram shows a coronary heart disease (CHD) risk calculator.",
-      "image": "/papers/wbi11-jan2019/q2-chd-calculator.PNG",
+      "image": "/papers/wbi11-jan-2019/page-07.png",
       "parts": [
         {
           "id": "2a",
@@ -108,13 +194,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "anticoagulant" },
-            { "id": "B", "text": "antihypertensive" },
-            { "id": "C", "text": "platelet inhibitor" },
-            { "id": "D", "text": "statin" }
+            {
+              "id": "A",
+              "text": "anticoagulant"
+            },
+            {
+              "id": "B",
+              "text": "antihypertensive"
+            },
+            {
+              "id": "C",
+              "text": "platelet inhibitor"
+            },
+            {
+              "id": "D",
+              "text": "statin"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "antihypertensive"]
+          "keywords": [
+            "B",
+            "antihypertensive"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2a.png"
         },
         {
           "id": "2b",
@@ -122,7 +224,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "HDL removes cholesterol from the blood / atherosclerosis / plaque build-up",
-          "keywords": ["HDL removes cholesterol", "atherosclerosis", "plaque", "lower risk", "heart disease"]
+          "keywords": [
+            "HDL removes cholesterol",
+            "atherosclerosis",
+            "plaque",
+            "lower risk",
+            "heart disease"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2b.png"
         },
         {
           "id": "2c",
@@ -130,7 +239,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Smoking damages endothelium / increases blood pressure / carbon monoxide reduces oxygen transport / increases risk",
-          "keywords": ["smoking damages", "endothelium", "blood pressure", "carbon monoxide", "oxygen", "increases risk"]
+          "keywords": [
+            "smoking damages",
+            "endothelium",
+            "blood pressure",
+            "carbon monoxide",
+            "oxygen",
+            "increases risk"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2c.png"
         },
         {
           "id": "2d_i",
@@ -138,7 +255,15 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Family history / BMI / exercise / diet / alcohol",
-          "keywords": ["family history", "BMI", "exercise", "diet", "alcohol", "weight"]
+          "keywords": [
+            "family history",
+            "BMI",
+            "exercise",
+            "diet",
+            "alcohol",
+            "weight"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2d_i.png"
         },
         {
           "id": "2d_ii",
@@ -146,7 +271,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Increase or decrease depending on the factor",
-          "keywords": ["increase", "decrease", "higher", "lower"]
+          "keywords": [
+            "increase",
+            "decrease",
+            "higher",
+            "lower"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2d_ii.png"
         },
         {
           "id": "2d_iii",
@@ -154,7 +285,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Other risk factors not included / inaccurate data entered / lifestyle changes not accounted for",
-          "keywords": ["underestimate", "other factors", "inaccurate data", "lifestyle"]
+          "keywords": [
+            "underestimate",
+            "other factors",
+            "inaccurate data",
+            "lifestyle"
+          ],
+          "image": "/papers/wbi11-jan-2019/q2-2d_iii.png"
         }
       ]
     },
@@ -168,29 +305,45 @@
         {
           "id": "3a",
           "text": "Each single strand of a DNA molecule is synthesised from mononucleotides. Draw a diagram to show two mononucleotides joined together in a single strand of DNA. Use the symbols shown for each component in your diagram (phosphate group = circle, pentose sugar = pentagon, base = rectangle, bond = line).",
-          "image": "/papers/wbi11-jan2019/q3a-symbols.PNG",
+          "image": "/papers/wbi11-jan-2019/q3-3a.png",
           "marks": 3,
           "type": "short_answer",
           "answer": "Two nucleotides with phosphate-sugar-base units joined by phosphodiester bonds between sugars and phosphates",
-          "keywords": ["phosphodiester bond", "sugar-phosphate backbone", "bases", "pentose", "phosphate"]
+          "keywords": [
+            "phosphodiester bond",
+            "sugar-phosphate backbone",
+            "bases",
+            "pentose",
+            "phosphate"
+          ]
         },
         {
           "id": "3b_i",
           "text": "The pitch of DNA is 3.4 nm. There are 10 base pairs in one pitch. Calculate the distance between one base and the next base on one strand of DNA. Give your answer to an appropriate number of significant figures.",
-          "image": "/papers/wbi11-jan2019/q3-dna-structure.PNG",
+          "image": "/papers/wbi11-jan-2019/q3-3b_i.png",
           "marks": 1,
           "type": "short_answer",
           "answer": "0.34 nm",
-          "keywords": ["0.34", "0.34 nm", "3.4/10"]
+          "keywords": [
+            "0.34",
+            "0.34 nm",
+            "3.4/10"
+          ]
         },
         {
           "id": "3b_ii",
           "text": "The diagram shows the structure of thymine and four other bases, P, Q, R and S. Bases P and S can form three hydrogen bonds each and bases Q and R can form two hydrogen bonds each. Explain which of the four bases P, Q, R or S is adenine.",
-          "image": "/papers/wbi11-jan2019/q3-bases-diagram.PNG",
+          "image": "/papers/wbi11-jan-2019/q3-3b_ii.png",
           "marks": 2,
           "type": "short_answer",
           "answer": "Base R is adenine because it is a purine (double ring) with two hydrogen bonds and pairs with thymine",
-          "keywords": ["R", "purine", "two hydrogen bonds", "pairs with thymine", "double ring"]
+          "keywords": [
+            "R",
+            "purine",
+            "two hydrogen bonds",
+            "pairs with thymine",
+            "double ring"
+          ]
         },
         {
           "id": "3c",
@@ -198,9 +351,21 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Both are single-stranded polynucleotides containing ribose and uracil. mRNA is linear / single strand, tRNA is folded / cloverleaf / has hydrogen bonds. mRNA carries genetic code, tRNA carries amino acids.",
-          "keywords": ["single-stranded", "ribose", "uracil", "linear", "cloverleaf", "folded", "hydrogen bonds", "amino acid", "genetic code"]
+          "keywords": [
+            "single-stranded",
+            "ribose",
+            "uracil",
+            "linear",
+            "cloverleaf",
+            "folded",
+            "hydrogen bonds",
+            "amino acid",
+            "genetic code"
+          ],
+          "image": "/papers/wbi11-jan-2019/q3-3c.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2019/page-11.png"
     },
     {
       "id": "q4",
@@ -208,7 +373,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "The photograph shows a mammalian heart. The blood vessel labelled X is a branch from the aorta. The aorta is one of the major blood vessels of the heart.",
-      "image": "/papers/wbi11-jan2019/q4-heart-photo.PNG",
+      "image": "/papers/wbi11-jan-2019/page-13.png",
       "parts": [
         {
           "id": "4a",
@@ -216,16 +381,28 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "To supply oxygenated blood to the heart muscle / coronary artery / high pressure / first branch ensures heart muscle receives oxygen before other organs",
-          "keywords": ["coronary artery", "oxygenated blood", "heart muscle", "high pressure", "first branch"]
+          "keywords": [
+            "coronary artery",
+            "oxygenated blood",
+            "heart muscle",
+            "high pressure",
+            "first branch"
+          ],
+          "image": "/papers/wbi11-jan-2019/q4-4a.png"
         },
         {
           "id": "4b_i",
           "text": "The diagram shows the internal structure of a mammalian heart. Explain which stage of the cardiac cycle is shown in this diagram.",
-          "image": "/papers/wbi11-jan2019/q4-heart-diagram.PNG",
+          "image": "/papers/wbi11-jan-2019/q4-4b_i.png",
           "marks": 2,
           "type": "short_answer",
           "answer": "Ventricles contracting / systole / blood being pumped into aorta and pulmonary artery / semilunar valves open / atrioventricular valves closed",
-          "keywords": ["systole", "ventricles contracting", "semilunar valves open", "blood pumped"]
+          "keywords": [
+            "systole",
+            "ventricles contracting",
+            "semilunar valves open",
+            "blood pumped"
+          ]
         },
         {
           "id": "4b_ii",
@@ -233,16 +410,29 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Pulmonary vein → left atrium → left ventricle → aorta",
-          "keywords": ["pulmonary vein", "left atrium", "left ventricle", "aorta"]
+          "keywords": [
+            "pulmonary vein",
+            "left atrium",
+            "left ventricle",
+            "aorta"
+          ],
+          "image": "/papers/wbi11-jan-2019/q4-4b_ii.png"
         },
         {
           "id": "4c",
           "text": "The graph shows the changes in the internal diameter of the aorta during two cardiac cycles. Explain the changes in the internal diameter of the aorta.",
-          "image": "/papers/wbi11-jan2019/q4-aorta-graph.PNG",
+          "image": "/papers/wbi11-jan-2019/q4-4c.png",
           "marks": 3,
           "type": "short_answer",
           "answer": "Diameter increases as blood is forced into aorta during ventricular systole / elastic walls stretch. Diameter decreases during diastole as walls recoil / maintains blood pressure.",
-          "keywords": ["ventricular systole", "elastic walls", "stretch", "recoil", "blood pressure", "diastole"]
+          "keywords": [
+            "ventricular systole",
+            "elastic walls",
+            "stretch",
+            "recoil",
+            "blood pressure",
+            "diastole"
+          ]
         }
       ]
     },
@@ -252,7 +442,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "Liposomes are spherical structures composed of phospholipids. They can be made by adding phospholipids to water. Liposomes can be used to study membrane permeability.",
-      "image": "/papers/wbi11-jan2019/q5-liposome.PNG",
+      "image": "/papers/wbi11-jan-2019/page-17.png",
       "parts": [
         {
           "id": "5a_i",
@@ -260,7 +450,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "5.24 × 10⁵ nm³ (accept 523 598 nm³)",
-          "keywords": ["5.24", "523598", "10^5", "volume", "nm"]
+          "keywords": [
+            "5.24",
+            "523598",
+            "10^5",
+            "volume",
+            "nm"
+          ],
+          "image": "/papers/wbi11-jan-2019/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -268,7 +465,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Hydrophilic heads face outward toward water / hydrophobic tails face inward away from water / forms a bilayer",
-          "keywords": ["hydrophilic heads", "hydrophobic tails", "bilayer", "water"]
+          "keywords": [
+            "hydrophilic heads",
+            "hydrophobic tails",
+            "bilayer",
+            "water"
+          ],
+          "image": "/papers/wbi11-jan-2019/q5-5a_ii.png"
         },
         {
           "id": "5b_i",
@@ -276,22 +479,43 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "active transport" },
-            { "id": "B", "text": "diffusion" },
-            { "id": "C", "text": "endocytosis" },
-            { "id": "D", "text": "osmosis" }
+            {
+              "id": "A",
+              "text": "active transport"
+            },
+            {
+              "id": "B",
+              "text": "diffusion"
+            },
+            {
+              "id": "C",
+              "text": "endocytosis"
+            },
+            {
+              "id": "D",
+              "text": "osmosis"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "diffusion"]
+          "keywords": [
+            "B",
+            "diffusion"
+          ],
+          "image": "/papers/wbi11-jan-2019/q5-5b_i.png"
         },
         {
           "id": "5b_ii",
           "text": "Describe the effects of cholesterol and temperature on membrane permeability, as shown in the graph.",
-          "image": "/papers/wbi11-jan2019/q5-cholesterol-graph.PNG",
+          "image": "/papers/wbi11-jan-2019/q5-5b_ii.png",
           "marks": 3,
           "type": "short_answer",
           "answer": "As temperature increases, permeability increases. Higher cholesterol percentage decreases permeability. Cholesterol reduces the effect of temperature.",
-          "keywords": ["temperature increases", "permeability increases", "cholesterol decreases", "less fluid"]
+          "keywords": [
+            "temperature increases",
+            "permeability increases",
+            "cholesterol decreases",
+            "less fluid"
+          ]
         },
         {
           "id": "5b_iii",
@@ -299,7 +523,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Temperature increases kinetic energy / phospholipids move more / creates gaps. Cholesterol restricts phospholipid movement / makes membrane less fluid.",
-          "keywords": ["kinetic energy", "phospholipids", "gaps", "restricts movement", "less fluid"]
+          "keywords": [
+            "kinetic energy",
+            "phospholipids",
+            "gaps",
+            "restricts movement",
+            "less fluid"
+          ],
+          "image": "/papers/wbi11-jan-2019/q5-5b_iii.png"
         }
       ]
     },
@@ -309,7 +540,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "Platelets are involved in the blood clotting process.",
-      "image": "/papers/wbi11-jan2019/q6-phospholipid-table.PNG",
+      "image": "/papers/wbi11-jan-2019/page-21.png",
       "parts": [
         {
           "id": "6a_i",
@@ -317,7 +548,14 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "4:1 (accept 3:1 to 5:1)",
-          "keywords": ["4:1", "4", "80:20", "3:1", "5:1"]
+          "keywords": [
+            "4:1",
+            "4",
+            "80:20",
+            "3:1",
+            "5:1"
+          ],
+          "image": "/papers/wbi11-jan-2019/q6-6a_i.png"
         },
         {
           "id": "6a_ii",
@@ -325,7 +563,12 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Phosphatidylserine increases in outer layer / decreases in inner layer / other phospholipids may also shift",
-          "keywords": ["increases outer", "decreases inner", "phosphatidylserine"]
+          "keywords": [
+            "increases outer",
+            "decreases inner",
+            "phosphatidylserine"
+          ],
+          "image": "/papers/wbi11-jan-2019/q6-6a_ii.png"
         },
         {
           "id": "6a_iii",
@@ -333,7 +576,15 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Phosphatidylserine provides binding site for clotting factors / cascade / prothrombin converted to thrombin / fibrinogen to fibrin",
-          "keywords": ["clotting factors", "prothrombin", "thrombin", "fibrinogen", "fibrin", "cascade"]
+          "keywords": [
+            "clotting factors",
+            "prothrombin",
+            "thrombin",
+            "fibrinogen",
+            "fibrin",
+            "cascade"
+          ],
+          "image": "/papers/wbi11-jan-2019/q6-6a_iii.png"
         },
         {
           "id": "6b",
@@ -341,7 +592,15 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Thrombin inhibitors prevent thrombin from converting fibrinogen to fibrin / no fibrin mesh formed / blood cannot clot / increases clotting time",
-          "keywords": ["thrombin", "fibrinogen", "fibrin", "mesh", "clotting time", "inhibits"]
+          "keywords": [
+            "thrombin",
+            "fibrinogen",
+            "fibrin",
+            "mesh",
+            "clotting time",
+            "inhibits"
+          ],
+          "image": "/papers/wbi11-jan-2019/q6-6b.png"
         }
       ]
     },
@@ -351,7 +610,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "Some insects lay eggs inside leaves. This causes the leaves to produce swellings called galls. The galls supply the developing insects with nutrients and protect them from the external environment. The photograph shows galls on a leaf. In an investigation, the concentrations of protein molecules and amino acids found in healthy leaves, leaves with galls and in the galls themselves were determined.",
-      "image": "/papers/wbi11-jan2019/q7-galls-photo.PNG",
+      "image": "/papers/wbi11-jan-2019/page-24.png",
       "parts": [
         {
           "id": "7a",
@@ -359,22 +618,45 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "To ensure only plant tissue is measured / insects contain proteins/amino acids that would affect results / standardise the investigation",
-          "keywords": ["only plant tissue", "insects contain protein", "standardise", "fair test"]
+          "keywords": [
+            "only plant tissue",
+            "insects contain protein",
+            "standardise",
+            "fair test"
+          ],
+          "image": "/papers/wbi11-jan-2019/q7-7a.png"
         },
         {
           "id": "7b_i",
           "text": "The amino acids were extracted and dissolved in a non-polar organic solvent. Which row of the table describes the solubility of these amino acids in a non-polar organic solvent?",
-          "image": "/papers/wbi11-jan2019/q7-amino-acid-table.PNG",
+          "image": "/papers/wbi11-jan-2019/q7-7b_i.png",
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Most soluble: alanine | aspartate | tryptophan :Least soluble" },
-            { "id": "B", "text": "Most soluble: alanine | tryptophan | aspartate :Least soluble" },
-            { "id": "C", "text": "Most soluble: aspartate | alanine | tryptophan :Least soluble" },
-            { "id": "D", "text": "Most soluble: aspartate | tryptophan | alanine :Least soluble" }
+            {
+              "id": "A",
+              "text": "Most soluble: alanine | aspartate | tryptophan :Least soluble"
+            },
+            {
+              "id": "B",
+              "text": "Most soluble: alanine | tryptophan | aspartate :Least soluble"
+            },
+            {
+              "id": "C",
+              "text": "Most soluble: aspartate | alanine | tryptophan :Least soluble"
+            },
+            {
+              "id": "D",
+              "text": "Most soluble: aspartate | tryptophan | alanine :Least soluble"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "alanine", "tryptophan", "aspartate"]
+          "keywords": [
+            "B",
+            "alanine",
+            "tryptophan",
+            "aspartate"
+          ]
         },
         {
           "id": "7b_ii",
@@ -382,16 +664,32 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "1.98 (accept 2.0)",
-          "keywords": ["1.98", "2.0", "2", "43.5", "22"]
+          "keywords": [
+            "1.98",
+            "2.0",
+            "2",
+            "43.5",
+            "22"
+          ],
+          "image": "/papers/wbi11-jan-2019/q7-7b_ii.png"
         },
         {
           "id": "7c",
           "text": "The saliva contains enzymes that change the nutrients in the leaf and cause the galls to form. The graphs show the concentrations of protein molecules and amino acid molecules in tissues from a healthy leaf, tissues from a leaf with galls and in the galls themselves. The table shows the abundance of five amino acid molecules. Explain the results of this investigation. Use the information in both graphs and the table to support your answer.",
-          "image": "/papers/wbi11-jan2019/q7-graphs-table.PNG",
+          "image": "/papers/wbi11-jan-2019/q7-7c.png",
           "marks": 6,
           "type": "short_answer",
           "answer": "Protein concentration lowest in healthy leaf, higher in leaf with galls, highest in galls. Amino acid concentration highest in galls. Enzymes break down proteins into amino acids. Insects use amino acids for growth. Specific amino acids (histidine, arginine) most abundant in galls.",
-          "keywords": ["protein broken down", "amino acids", "enzymes", "galls highest", "healthy lowest", "insects use", "histidine", "arginine"]
+          "keywords": [
+            "protein broken down",
+            "amino acids",
+            "enzymes",
+            "galls highest",
+            "healthy lowest",
+            "insects use",
+            "histidine",
+            "arginine"
+          ]
         }
       ]
     },
@@ -401,7 +699,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "The photographs show two mammals, an elephant and a mouse.",
-      "image": "/papers/wbi11-jan2019/q8-elephant-mouse.PNG",
+      "image": "/papers/wbi11-jan-2019/page-27.png",
       "parts": [
         {
           "id": "8a",
@@ -409,7 +707,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Approximately 67 times taller (accept 60–75 depending on measurement)",
-          "keywords": ["67", "measurement", "magnification", "0.02"]
+          "keywords": [
+            "67",
+            "measurement",
+            "magnification",
+            "0.02"
+          ],
+          "image": "/papers/wbi11-jan-2019/q8-8a.png"
         },
         {
           "id": "8b",
@@ -417,18 +721,68 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Large surface area / thick pleural membranes / attached to prevent collapse / efficient ventilation / large tidal volume",
-          "keywords": ["surface area", "pleural membrane", "prevent collapse", "ventilation", "tidal volume"]
+          "keywords": [
+            "surface area",
+            "pleural membrane",
+            "prevent collapse",
+            "ventilation",
+            "tidal volume"
+          ],
+          "image": "/papers/wbi11-jan-2019/q8-8b.png"
         },
         {
           "id": "8c",
           "text": "Graph 1 shows the oxygen dissociation curve of haemoglobin for a mouse and for an elephant. Graph 2 shows the mass-specific metabolic rate for a mouse and for an elephant. Mass-specific metabolic rate is a measure of how much oxygen is needed for chemical reactions per gram of body tissue. Explain the difference in the oxygen dissociation curves of haemoglobin for a mouse and for an elephant. Use the information in both graphs to support your answer.",
-          "image": "/papers/wbi11-jan2019/q8-oxygen-graphs.PNG",
+          "image": "/papers/wbi11-jan-2019/q8-8c.png",
           "marks": 6,
           "type": "short_answer",
           "answer": "Mouse curve to the left of elephant / mouse haemoglobin has higher affinity / mouse releases oxygen at lower partial pressure. Mouse has higher mass-specific metabolic rate / needs more oxygen per gram / higher metabolic rate requires faster oxygen uptake. Elephant has lower metabolic rate per gram / curve to the right allows oxygen release at higher partial pressure.",
-          "keywords": ["mouse left", "elephant right", "affinity", "partial pressure", "metabolic rate", "oxygen", "haemoglobin"]
+          "keywords": [
+            "mouse left",
+            "elephant right",
+            "affinity",
+            "partial pressure",
+            "metabolic rate",
+            "oxygen",
+            "haemoglobin"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit1-2019-06-qp.pdf",
+    "pageImages": [
+      "/papers/wbi11-may-2019/page-01.png",
+      "/papers/wbi11-may-2019/page-02.png",
+      "/papers/wbi11-may-2019/page-03.png",
+      "/papers/wbi11-may-2019/page-04.png",
+      "/papers/wbi11-may-2019/page-05.png",
+      "/papers/wbi11-may-2019/page-06.png",
+      "/papers/wbi11-may-2019/page-07.png",
+      "/papers/wbi11-may-2019/page-08.png",
+      "/papers/wbi11-may-2019/page-09.png",
+      "/papers/wbi11-may-2019/page-10.png",
+      "/papers/wbi11-may-2019/page-11.png",
+      "/papers/wbi11-may-2019/page-12.png",
+      "/papers/wbi11-may-2019/page-13.png",
+      "/papers/wbi11-may-2019/page-14.png",
+      "/papers/wbi11-may-2019/page-15.png",
+      "/papers/wbi11-may-2019/page-16.png",
+      "/papers/wbi11-may-2019/page-17.png",
+      "/papers/wbi11-may-2019/page-18.png",
+      "/papers/wbi11-may-2019/page-19.png",
+      "/papers/wbi11-may-2019/page-20.png",
+      "/papers/wbi11-may-2019/page-21.png",
+      "/papers/wbi11-may-2019/page-22.png",
+      "/papers/wbi11-may-2019/page-23.png",
+      "/papers/wbi11-may-2019/page-24.png",
+      "/papers/wbi11-may-2019/page-25.png",
+      "/papers/wbi11-may-2019/page-26.png",
+      "/papers/wbi11-may-2019/page-27.png",
+      "/papers/wbi11-may-2019/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
 }

@@ -1,0 +1,646 @@
+{
+  "paperId": "physics-0625-2018-unit1-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit1-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "October/November 2018",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A pendulum is set in motion and timed. The time measured for 20 complete swings is 30 s. What is the time for one complete swing of the pendulum? A 0.67 s B    0.75 s C    1.5 s D    3.0 s",
+      "text": "A pendulum is set in motion and timed. The time measured for 20 complete swings is 30 s. What is the time for one complete swing of the pendulum? A 0.67 s B    0.75 s C    1.5 s D    3.0 s",
+      "options": [
+        "A 0.67 s B    0.75 s C    1.5 s D    3.0 s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams are distance-time graphs for four bodies. Which body is moving with an increasing speed? distance time A 0 0 distance time B distance time C distance time D 0 0 0 0 0 0",
+      "text": "The diagrams are distance-time graphs for four bodies. Which body is moving with an increasing speed? distance time A 0 0 distance time B distance time C distance time D 0 0 0 0 0 0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A runner runs 300 m at an average speed of 3.0 m / s. She then runs another 300 m at an average speed of 6.0 m / s. What is her average speed for the total distance of 600 m? A 2.0 m / s B    4.0 m / s C    4.5 m / s D    8.0 m / s",
+      "text": "A runner runs 300 m at an average speed of 3.0 m / s. She then runs another 300 m at an average speed of 6.0 m / s. What is her average speed for the total distance of 600 m? A 2.0 m / s B    4.0 m / s C    4.5 m / s D    8.0 m / s",
+      "options": [
+        "A 2.0 m / s B    4.0 m / s C    4.5 m / s D    8.0 m / s"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which quantity is measured in newtons? A energy, B mass, C weight, D work 3",
+      "text": "Which quantity is measured in newtons? A energy, B mass, C weight, D work 3",
+      "options": [
+        "A energy",
+        "B mass",
+        "C weight",
+        "D work 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four identical steel blocks are placed on a balance. The reading on the balance is 220 N. What is the mass of one steel block? A 5.5 kg B    22 kg C    55 kg D    88 kg",
+      "text": "Four identical steel blocks are placed on a balance. The reading on the balance is 220 N. What is the mass of one steel block? A 5.5 kg B    22 kg C    55 kg D    88 kg",
+      "options": [
+        "A 5.5 kg B    22 kg C    55 kg D    88 kg"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid has a volume of 0.040 m 3 and a mass of 30 000 g. What is the density of the liquid? A 0.075 kg / m 3, B 7.5 kg / m 3, C 750 kg / m 3, D 7500 kg / m 3",
+      "text": "A liquid has a volume of 0.040 m 3 and a mass of 30 000 g. What is the density of the liquid? A 0.075 kg / m 3, B 7.5 kg / m 3, C 750 kg / m 3, D 7500 kg / m 3",
+      "options": [
+        "A 0.075 kg / m 3",
+        "B 7.5 kg / m 3",
+        "C 750 kg / m 3",
+        "D 7500 kg / m 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The unstretched lengths and extension-load graphs are shown for each of four different springs. Which spring is the longest when a load of 5.0 N is hung from each spring? 100 90 80 70 60 50 40 30 20 10 0 012345 A unstretched length 65 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 B unstretched length 90 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 C unstretched length 105 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 D unstretched length 110 mm 678910 load / N extension / mm 4",
+      "text": "The unstretched lengths and extension-load graphs are shown for each of four different springs. Which spring is the longest when a load of 5.0 N is hung from each spring? 100 90 80 70 60 50 40 30 20 10 0 012345 A unstretched length 65 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 B unstretched length 90 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 C unstretched length 105 mm 678910 load / N extension / mm 100 90 80 70 60 50 40 30 20 10 0 012345 D unstretched length 110 mm 678910 load / N extension / mm 4",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A car moves along a level road. The diagram shows all of the horizontal forces acting on the car. 2000 N force from engine 500 N friction 800 N air resistance Which statement is correct? A The car is slowing down., B The car is speeding up., C The car is moving at a constant speed., D The car is moving backwards.",
+      "text": "A car moves along a level road. The diagram shows all of the horizontal forces acting on the car. 2000 N force from engine 500 N friction 800 N air resistance Which statement is correct? A The car is slowing down., B The car is speeding up., C The car is moving at a constant speed., D The car is moving backwards.",
+      "options": [
+        "A The car is slowing down.",
+        "B The car is speeding up.",
+        "C The car is moving at a constant speed.",
+        "D The car is moving backwards."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which force and distance produce the smallest moment about a pivot? A a    6.0 N force at a perpendicular distance of 4.0 m from the pivot, B a    7.0 N force at a perpendicular distance of 6.0 m from the pivot, C a    10 N force at a perpendicular distance of 4.0 m from the pivot, D a    12 N force at a perpendicular distance of 3.0 m from the pivot",
+      "text": "Which force and distance produce the smallest moment about a pivot? A a    6.0 N force at a perpendicular distance of 4.0 m from the pivot, B a    7.0 N force at a perpendicular distance of 6.0 m from the pivot, C a    10 N force at a perpendicular distance of 4.0 m from the pivot, D a    12 N force at a perpendicular distance of 3.0 m from the pivot",
+      "options": [
+        "A a    6.0 N force at a perpendicular distance of 4.0 m from the pivot",
+        "B a    7.0 N force at a perpendicular distance of 6.0 m from the pivot",
+        "C a    10 N force at a perpendicular distance of 4.0 m from the pivot",
+        "D a    12 N force at a perpendicular distance of 3.0 m from the pivot"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which device is designed to convert chemical energy into kinetic energy? A an a.c. generator, B a battery-powered torch, C a car engine, D a wind-up mechanical clock",
+      "text": "Which device is designed to convert chemical energy into kinetic energy? A an a.c. generator, B a battery-powered torch, C a car engine, D a wind-up mechanical clock",
+      "options": [
+        "A an a.c. generator",
+        "B a battery-powered torch",
+        "C a car engine",
+        "D a wind-up mechanical clock"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A man climbs a ladder. Which two quantities can be used to calculate the useful power of the man? A the weight of the man and the time taken only, B the weight of the man and the vertical distance moved only, C the work done by the man and the time taken only, D the work done by the man and the vertical distance moved only 5",
+      "text": "A man climbs a ladder. Which two quantities can be used to calculate the useful power of the man? A the weight of the man and the time taken only, B the weight of the man and the vertical distance moved only, C the work done by the man and the time taken only, D the work done by the man and the vertical distance moved only 5",
+      "options": [
+        "A the weight of the man and the time taken only",
+        "B the weight of the man and the vertical distance moved only",
+        "C the work done by the man and the time taken only",
+        "D the work done by the man and the vertical distance moved only 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A manometer is used to measure the pressure of gas inside a metal container. liquid metal container gas What is the pressure inside the container? A equal to the atmospheric pressure, B greater than the atmospheric pressure, C less than the atmospheric pressure but greater than zero, D zero",
+      "text": "A manometer is used to measure the pressure of gas inside a metal container. liquid metal container gas What is the pressure inside the container? A equal to the atmospheric pressure, B greater than the atmospheric pressure, C less than the atmospheric pressure but greater than zero, D zero",
+      "options": [
+        "A equal to the atmospheric pressure",
+        "B greater than the atmospheric pressure",
+        "C less than the atmospheric pressure but greater than zero",
+        "D zero"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A manometer is used to measure the pressure of a gas supply. h connection to gas supply manometer liquid Which change gives a greater value of height h ? A using a less dense liquid, B using a more dense liquid, C using a narrower tube, D using a wider tube 6",
+      "text": "A manometer is used to measure the pressure of a gas supply. h connection to gas supply manometer liquid Which change gives a greater value of height h ? A using a less dense liquid, B using a more dense liquid, C using a narrower tube, D using a wider tube 6",
+      "options": [
+        "A using a less dense liquid",
+        "B using a more dense liquid",
+        "C using a narrower tube",
+        "D using a wider tube 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "During  evaporation  of  a  liquid,  the  more  energetic  molecules  escape.  The  temperature  of  the remaining liquid changes. Which row identifies where these molecules escape from and describes the temperature change? molecules escape from the temperature of remaining liquid A body of the liquid decreases, B body of the liquid increases, C surface of the liquid decreases, D surface of the liquid increases",
+      "text": "During  evaporation  of  a  liquid,  the  more  energetic  molecules  escape.  The  temperature  of  the remaining liquid changes. Which row identifies where these molecules escape from and describes the temperature change? molecules escape from the temperature of remaining liquid A body of the liquid decreases, B body of the liquid increases, C surface of the liquid decreases, D surface of the liquid increases",
+      "options": [
+        "A body of the liquid decreases",
+        "B body of the liquid increases",
+        "C surface of the liquid decreases",
+        "D surface of the liquid increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows apparatus being used to observe smoke particles. Diagram 2 shows how a smoke particle moves randomly. microscope air molecules and smoke particles light diagram 1diagram 2 random movement eye Why do the smoke particles move randomly? A They are hit by air molecules., B They are less dense than air., C They are moved by convection currents., D They gain energy from the light. 7",
+      "text": "Diagram 1 shows apparatus being used to observe smoke particles. Diagram 2 shows how a smoke particle moves randomly. microscope air molecules and smoke particles light diagram 1diagram 2 random movement eye Why do the smoke particles move randomly? A They are hit by air molecules., B They are less dense than air., C They are moved by convection currents., D They gain energy from the light. 7",
+      "options": [
+        "A They are hit by air molecules.",
+        "B They are less dense than air.",
+        "C They are moved by convection currents.",
+        "D They gain energy from the light. 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  distance  between  two  electricity  pylons  is  60 m.  An  engineer  fits  a  cable  of  length  62 m between the pylons. Why does the engineer choose a cable that is longer than the distance between the two pylons? A to allow for contraction of the cable in cold weather, B to create a slope in the cable for electrons to flow down, C to keep the current low and the voltage high, D to reduce magnetic fields around the cable",
+      "text": "The  distance  between  two  electricity  pylons  is  60 m.  An  engineer  fits  a  cable  of  length  62 m between the pylons. Why does the engineer choose a cable that is longer than the distance between the two pylons? A to allow for contraction of the cable in cold weather, B to create a slope in the cable for electrons to flow down, C to keep the current low and the voltage high, D to reduce magnetic fields around the cable",
+      "options": [
+        "A to allow for contraction of the cable in cold weather",
+        "B to create a slope in the cable for electrons to flow down",
+        "C to keep the current low and the voltage high",
+        "D to reduce magnetic fields around the cable"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some  ice  is  slowly  heated  and  its  temperature  is  measured.  A  graph  is  plotted  of  temperature against time. 100 0 –10 temperature / °C time X Which row describes what happens to the thermal energy and to the temperature in section X? thermal energy temperature of ice A gained by ice rises, B gained by ice stays the same, C not gained by ice rises, D not gained by ice stays the same 8",
+      "text": "Some  ice  is  slowly  heated  and  its  temperature  is  measured.  A  graph  is  plotted  of  temperature against time. 100 0 –10 temperature / °C time X Which row describes what happens to the thermal energy and to the temperature in section X? thermal energy temperature of ice A gained by ice rises, B gained by ice stays the same, C not gained by ice rises, D not gained by ice stays the same 8",
+      "options": [
+        "A gained by ice rises",
+        "B gained by ice stays the same",
+        "C not gained by ice rises",
+        "D not gained by ice stays the same 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Some  of  the  Sun’s  radiation  passes  through  a  prism.  The  diagram  shows  the  spectrum  of  the radiation. Which point on the screen does the infra-red radiation reach? radiation from the Sun prism screen A B C D visible not visible not visible red violet",
+      "text": "Some  of  the  Sun’s  radiation  passes  through  a  prism.  The  diagram  shows  the  spectrum  of  the radiation. Which point on the screen does the infra-red radiation reach? radiation from the Sun prism screen A B C D visible not visible not visible red violet",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On a cold day, a shiny metal rod feels colder to the touch than a black plastic rod. Which statement explains this observation? A The metal rod is a better absorber of infra-red radiation than the plastic rod., B The metal rod is a better thermal conductor than the plastic rod., C The metal rod is a worse absorber of infra-red radiation than the plastic rod., D The metal rod is a worse thermal conductor than the plastic rod.",
+      "text": "On a cold day, a shiny metal rod feels colder to the touch than a black plastic rod. Which statement explains this observation? A The metal rod is a better absorber of infra-red radiation than the plastic rod., B The metal rod is a better thermal conductor than the plastic rod., C The metal rod is a worse absorber of infra-red radiation than the plastic rod., D The metal rod is a worse thermal conductor than the plastic rod.",
+      "options": [
+        "A The metal rod is a better absorber of infra-red radiation than the plastic rod.",
+        "B The metal rod is a better thermal conductor than the plastic rod.",
+        "C The metal rod is a worse absorber of infra-red radiation than the plastic rod.",
+        "D The metal rod is a worse thermal conductor than the plastic rod."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A boat moves up and down repeatedly as a water wave passes it. Which name is given to the number of up-and-down movements of the boat per unit time? A amplitude, B frequency, C speed, D wavelength 9",
+      "text": "A boat moves up and down repeatedly as a water wave passes it. Which name is given to the number of up-and-down movements of the boat per unit time? A amplitude, B frequency, C speed, D wavelength 9",
+      "options": [
+        "A amplitude",
+        "B frequency",
+        "C speed",
+        "D wavelength 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Plane water waves travel from a shallow region into a deeper region. They travel more quickly in the deeper water. wave direction shallow water deep water boundary Which diagram shows the wave pattern in the deeper water? ABCD",
+      "text": "Plane water waves travel from a shallow region into a deeper region. They travel more quickly in the deeper water. wave direction shallow water deep water boundary Which diagram shows the wave pattern in the deeper water? ABCD",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A parallel beam of light is incident on a plane mirror. Which diagram shows how the beam is reflected by the mirror? AB CD spectrum 10",
+      "text": "A parallel beam of light is incident on a plane mirror. Which diagram shows how the beam is reflected by the mirror? AB CD spectrum 10",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a parallel, cylindrical light beam of diameter d incident on a thin converging lens. A screen is placed a distance equal to two focal lengths 2f from the lens. d 2f screen lens beam of light Which diagram shows the size of the spot of light seen on the screen? ABCD 2dd d 2",
+      "text": "The diagram shows a parallel, cylindrical light beam of diameter d incident on a thin converging lens. A screen is placed a distance equal to two focal lengths 2f from the lens. d 2f screen lens beam of light Which diagram shows the size of the spot of light seen on the screen? ABCD 2dd d 2",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Different  parts  of  the  electromagnetic  spectrum  are  used  for  different  purposes.  Below  are  four statements about parts of the spectrum. statement 1:   Infra-red waves are used in television remote controllers. statement 2:   Radio waves are used to transmit television pictures from satellites to Earth. statement 3:   Ultraviolet waves are used for intruder alarms. statement 4:   X-rays are used for security checks. Which statements are correct? A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 11",
+      "text": "Different  parts  of  the  electromagnetic  spectrum  are  used  for  different  purposes.  Below  are  four statements about parts of the spectrum. statement 1:   Infra-red waves are used in television remote controllers. statement 2:   Radio waves are used to transmit television pictures from satellites to Earth. statement 3:   Ultraviolet waves are used for intruder alarms. statement 4:   X-rays are used for security checks. Which statements are correct? A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 11",
+      "options": [
+        "A 1 and 2 B    1 and 4 C    2 and 3 D    3 and 4 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A woman hears the first note produced by a clarinet. She then hears a second note that has a higher pitch and is quieter. Which row compares the frequency and the amplitude of the two notes? first note second note A higher frequency larger amplitude, B higher frequency smaller amplitude, C lower frequency larger amplitude, D lower frequency smaller amplitude",
+      "text": "A woman hears the first note produced by a clarinet. She then hears a second note that has a higher pitch and is quieter. Which row compares the frequency and the amplitude of the two notes? first note second note A higher frequency larger amplitude, B higher frequency smaller amplitude, C lower frequency larger amplitude, D lower frequency smaller amplitude",
+      "options": [
+        "A higher frequency larger amplitude",
+        "B higher frequency smaller amplitude",
+        "C lower frequency larger amplitude",
+        "D lower frequency smaller amplitude"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a bar magnet and four plotting compasses. Which compass shows the direction of the magnetic field due to the magnet? SN A B D C",
+      "text": "The diagram shows a bar magnet and four plotting compasses. Which compass shows the direction of the magnetic field due to the magnet? SN A B D C",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Iron is used for the core of a transformer and steel is used to make a bar magnet. Which statement explains these uses of iron and of steel? A Iron is a magnetic material and steel is a non-magnetic material., B Iron is a permanent magnetic material and steel is a temporary magnetic material., C Iron is a temporary magnetic material and steel is a permanent magnetic material., D Iron is a non-magnetic material and steel is a magnetic material. 12",
+      "text": "Iron is used for the core of a transformer and steel is used to make a bar magnet. Which statement explains these uses of iron and of steel? A Iron is a magnetic material and steel is a non-magnetic material., B Iron is a permanent magnetic material and steel is a temporary magnetic material., C Iron is a temporary magnetic material and steel is a permanent magnetic material., D Iron is a non-magnetic material and steel is a magnetic material. 12",
+      "options": [
+        "A Iron is a magnetic material and steel is a non-magnetic material.",
+        "B Iron is a permanent magnetic material and steel is a temporary magnetic material.",
+        "C Iron is a temporary magnetic material and steel is a permanent magnetic material.",
+        "D Iron is a non-magnetic material and steel is a magnetic material. 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A negatively charged plastic rod P is placed above a positively charged plastic rod Q. +++++ Q ––––– P What are the directions of the electrostatic forces on rod P and on rod Q? electrostatic force on rod P electrostatic force on rod Q A downwards                  downwards, B downwards                    upwards, C upwards                    downwards, D upwards                      upwards",
+      "text": "A negatively charged plastic rod P is placed above a positively charged plastic rod Q. +++++ Q ––––– P What are the directions of the electrostatic forces on rod P and on rod Q? electrostatic force on rod P electrostatic force on rod Q A downwards                  downwards, B downwards                    upwards, C upwards                    downwards, D upwards                      upwards",
+      "options": [
+        "A downwards                  downwards",
+        "B downwards                    upwards",
+        "C upwards                    downwards",
+        "D upwards                      upwards"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show the scales of three ammeters. 3 4 5 2 1 0 3 4 5 2 1 0 6 8 10 4 2 0 A ammeter 1 A ammeter 2 A ammeter 3 Which ammeters show the same current reading? A all three ammeters, B ammeter 1 and ammeter 2 only, C ammeter 1 and ammeter 3 only, D ammeter 2 and ammeter 3 only",
+      "text": "The diagrams show the scales of three ammeters. 3 4 5 2 1 0 3 4 5 2 1 0 6 8 10 4 2 0 A ammeter 1 A ammeter 2 A ammeter 3 Which ammeters show the same current reading? A all three ammeters, B ammeter 1 and ammeter 2 only, C ammeter 1 and ammeter 3 only, D ammeter 2 and ammeter 3 only",
+      "options": [
+        "A all three ammeters",
+        "B ammeter 1 and ammeter 2 only",
+        "C ammeter 1 and ammeter 3 only",
+        "D ammeter 2 and ammeter 3 only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The resistance of a component in a circuit is found using an ammeter and a voltmeter. How are the ammeter and the voltmeter connected? A the voltmeter and ammeter in parallel with the component, B the voltmeter and ammeter in series with the component, C the voltmeter in parallel with the component and the ammeter in series with the component, D the voltmeter in series with the component and the ammeter in parallel with the component 13",
+      "text": "The resistance of a component in a circuit is found using an ammeter and a voltmeter. How are the ammeter and the voltmeter connected? A the voltmeter and ammeter in parallel with the component, B the voltmeter and ammeter in series with the component, C the voltmeter in parallel with the component and the ammeter in series with the component, D the voltmeter in series with the component and the ammeter in parallel with the component 13",
+      "options": [
+        "A the voltmeter and ammeter in parallel with the component",
+        "B the voltmeter and ammeter in series with the component",
+        "C the voltmeter in parallel with the component and the ammeter in series with the component",
+        "D the voltmeter in series with the component and the ammeter in parallel with the component 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit with a power supply and four components. +– N What is component N? A fixed    resistor, B fuse, C thermistor, D variable    resistor",
+      "text": "The diagram shows a circuit with a power supply and four components. +– N What is component N? A fixed    resistor, B fuse, C thermistor, D variable    resistor",
+      "options": [
+        "A fixed    resistor",
+        "B fuse",
+        "C thermistor",
+        "D variable    resistor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two lamps are connected in parallel. S 1 S 2 S 3 Which switches must be closed so that both lamps light? A S 1 and S 2 only, B S 1 and S 3 only, C S 2 and S 3 only, D S 1 , S 2 and S 3 14",
+      "text": "Two lamps are connected in parallel. S 1 S 2 S 3 Which switches must be closed so that both lamps light? A S 1 and S 2 only, B S 1 and S 3 only, C S 2 and S 3 only, D S 1 , S 2 and S 3 14",
+      "options": [
+        "A S 1 and S 2 only",
+        "B S 1 and S 3 only",
+        "C S 2 and S 3 only",
+        "D S 1 , S 2 and S 3 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit diagram shows a variable potential divider. V PQ slider The slider is moved from P towards Q. What happens to the reading on the voltmeter and to the brightness of the lamp? reading on voltmeter brightness of lamp A decreases           decreases, B decreases            increases, C increases            decreases, D increases            increases",
+      "text": "The circuit diagram shows a variable potential divider. V PQ slider The slider is moved from P towards Q. What happens to the reading on the voltmeter and to the brightness of the lamp? reading on voltmeter brightness of lamp A decreases           decreases, B decreases            increases, C increases            decreases, D increases            increases",
+      "options": [
+        "A decreases           decreases",
+        "B decreases            increases",
+        "C increases            decreases",
+        "D increases            increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Either a fuse or a circuit-breaker can be used to protect electrical cables from large currents that could cause overheating. electrical supply X Y appliance cable cable live neutral When  a  fuse  is  used,  where  should  it  be  connected,  and  when  a  circuit-breaker  is  used,  where should it be connected? position of fuse position of circuit-breaker A X                          X, B X                          Y, C Y                          X, D Y                          Y 15",
+      "text": "Either a fuse or a circuit-breaker can be used to protect electrical cables from large currents that could cause overheating. electrical supply X Y appliance cable cable live neutral When  a  fuse  is  used,  where  should  it  be  connected,  and  when  a  circuit-breaker  is  used,  where should it be connected? position of fuse position of circuit-breaker A X                          X, B X                          Y, C Y                          X, D Y                          Y 15",
+      "options": [
+        "A X                          X",
+        "B X                          Y",
+        "C Y                          X",
+        "D Y                          Y 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which electrical device uses the turning effect produced by a current-carrying coil in a magnetic field? A a.c.    generator, B d.c.    motor, C relay, D transformer",
+      "text": "Which electrical device uses the turning effect produced by a current-carrying coil in a magnetic field? A a.c.    generator, B d.c.    motor, C relay, D transformer",
+      "options": [
+        "A a.c.    generator",
+        "B d.c.    motor",
+        "C relay",
+        "D transformer"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A wire is placed in a strong magnetic field. When a current is passed through the wire it moves upwards, as shown. S N movement The current is reversed. In which direction does the wire move? A downwards, B towards the north pole, C towards the south pole, D upwards",
+      "text": "A wire is placed in a strong magnetic field. When a current is passed through the wire it moves upwards, as shown. S N movement The current is reversed. In which direction does the wire move? A downwards, B towards the north pole, C towards the south pole, D upwards",
+      "options": [
+        "A downwards",
+        "B towards the north pole",
+        "C towards the south pole",
+        "D upwards"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram represents the structure of a neutral atom? + + – – – key neutron proton electron AB ++ – ++ C + ++ D – – – – 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International  Examinations  Copyright  Acknowledgements  Booklet.  This  is  produced  for  each  series  of  examinations  and  is  freely  available  to  download  at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "Which diagram represents the structure of a neutral atom? + + – – – key neutron proton electron AB ++ – ++ C + ++ D – – – – 16 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International  Examinations  Copyright  Acknowledgements  Booklet.  This  is  produced  for  each  series  of  examinations  and  is  freely  available  to  download  at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Each nucleus of nuclide X contains 10 protons and a total of 22 nucleons. Which notation is correct for this nuclide? A X 22 10 B X 22 32, C X 12 10, D X 10 22",
+      "text": "Each nucleus of nuclide X contains 10 protons and a total of 22 nucleons. Which notation is correct for this nuclide? A X 22 10 B X 22 32, C X 12 10, D X 10 22",
+      "options": [
+        "B X 22 32",
+        "C X 12 10",
+        "D X 10 22"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the paths of three different types of radiation X, Y and Z. X Y Z 2 mm of plastic 10 mm of aluminium",
+      "text": "The diagram shows the paths of three different types of radiation X, Y and Z. X Y Z 2 mm of plastic 10 mm of aluminium",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q39.png"
+    },
+    {
+      "id": "q50",
+      "number": 50,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "mm of lead Which row correctly identifies X, Y and Z? X                 Y                 Z A α-particles β-particles γ-rays, B β-particles α-particles γ-rays, C β-particles γ-rays α-particles, D γ-rays α-particles β-particles 40   A sample of a radioactive isotope emits 9600 α-particles per second. After 40 hours the rate of emission has fallen to 600 α-particles per second. What is the half-life of this isotope?, A 4.0 hours B 8.0 hours C 10 hours D 20 hours",
+      "text": "mm of lead Which row correctly identifies X, Y and Z? X                 Y                 Z A α-particles β-particles γ-rays, B β-particles α-particles γ-rays, C β-particles γ-rays α-particles, D γ-rays α-particles β-particles 40   A sample of a radioactive isotope emits 9600 α-particles per second. After 40 hours the rate of emission has fallen to 600 α-particles per second. What is the half-life of this isotope?, A 4.0 hours B 8.0 hours C 10 hours D 20 hours",
+      "options": [
+        "A α-particles β-particles γ-rays",
+        "B β-particles α-particles γ-rays",
+        "C β-particles γ-rays α-particles",
+        "D γ-rays α-particles β-particles 40   A sample of a radioactive isotope emits 9600 α-particles per second. After 40 hours the rate of emission has fallen to 600 α-particles per second. What is the half-life of this isotope?",
+        "A 4.0 hours B 8.0 hours C 10 hours D 20 hours"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2018/q50.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit1-2018-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2023-unit4-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit4-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/41",
+  "session": "May/June 2023",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "D N Li M1 different atoms of the same element with the same number of protons (1) M2 different numbers of neutrons (1) 0620/41 May/June 2023 M1  20 +  ( = 1080)(1) M2 (1080 ÷ 100 =) 10.8(1) M1 Na with 2,8 all crosses (1) M2 O with 2,8 outer shell with 6 dots and 2 crosses (1) M3 + AND  (1) O",
+          "image": "/papers/chemistry-0620-2023/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 both bonds with 2 dots and 2 crosses(1) M2 2 lone pairs (all dots or all crosses) on both oxygen atoms completing all 3 octets(1) M1 positive ions and negative ions (1) M2 strong attraction / strong bonds (1) 0620/41 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 increases the rate of reaction / speeds up a reaction(1) M2 unchanged at the end of the reaction(1) oxygen escapes from the flask or apparatus concentration of hydrogen peroxide is highest at the start / particles of hydrogen peroxide are closest together at the start OR collision frequency is highest at the start hydrogen peroxide is used up / ALL the hydrogen peroxide has reacted or decomposed",
+          "image": "/papers/chemistry-0620-2023/q4-4a.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 kinetic energy of particles increases(1) M2 frequency of collisions between particles increases(1) M3 more or higher percentage or higher proportion or higher fraction of particles have energy greater than / equal to activation energy OR more of the collisions or higher percentage or higher fraction of collisions have energy greater than or equal to activation energy(1)",
+          "image": "/papers/chemistry-0620-2023/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (50.0  0.200 ÷ 1000 =) 0.01(1) M2 0.005(1) M3 0.16(0)(1) 0620/41 May/June 2023 → 2Hg + O M1 all formulae correct(1) M2 equation correct(1) M1 breakdown by (the passage of) electricity (1) M2 of an ionic compound in molten or aqueous (state) (1) AND graphite conducts electricity + + 2e – → H M1 H + + e as only species on LHS(1) M2 equation correct(1) M1 oxygen(1) M2 hydrogen(1) two from:  solvent  lowers the operating temperature  increases conductivity carbon reacts with oxygen and forms carbon dioxide 0620/41 May/June 2023 + O → 2H O M1 all formulae(1) M2 equation correct(1) no carbon dioxide evolved OR more efficient FeS + O → Fe O + SO iron( III ) oxide of SO is less is less OR r ate is less + H SO → (NH ) SO M1 (NH ) SO on the right (1) M2 equation correct(1) lead( II ) nitrate 0620/41 May/June 2023 2+ (aq) +SO 2- (aq) → PbSO (s) M1 PbSO on the right(1) M2 only Pb 2+ and SO 2– on the left(1) M3 (aq) + (aq) → (s)(1) M1 filter(1) M2 wash (the residue or lead sulfate) with distilled or deionised water (1) M3 description o f drying(1) needs or uses ultra violet light M1 displayed formula of 1-chlorobutane(1) M2 displayed formula of 2-chlorobutane(1) H O M1 alkene(1) M2 alcohol(1) M3 carboxylic acid(1) M1 turns colourless(1) M2 bubbles / fizzing / effervescence(1) 0620/41 May/June 2023 M1 only two carbon atoms joined by a single bond and two additional bonds on each(1) M2 (1)",
+          "image": "/papers/chemistry-0620-2023/q4-4d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit4-2023-06-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

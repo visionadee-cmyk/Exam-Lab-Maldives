@@ -1,0 +1,71 @@
+{
+  "paperId": "wbi11-jan-2023-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2023-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "January 2023",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes:  two structures named (1)  third structure named (1) e.g. chloroplast, amyloplast, mitochondria, Golgi body, rough ER, smooth ER, lysosome (2) Number Answer Additional Guidance Mark A table drawn with the following features:  suitable table drawn (1)  headings with units (1)  all data correctly entered (1) Concentration of chemical / ppm Concentration of ions released / a.u. 15 5 25 40 50 80 75 140 100 160 125 230 150 250 Allow leeway of 1 either way on concentrations on x extra data (pigment) loses mp 3 (3) Number Answer Additional Guidance Mark An answer that includes the following points:  as concentration (of chemical) increases conc. of pigment and ions (released) increase (1)  thus {permeability / described} (to both ions and pigment) increases (1)  permeability to ions less than to pigment (1)  there is no indication of variability in the data (1) ACCEPT Positive correlation ACCEPT no SD / error bars (3) Number Answer Additional Guidance Mark An answer that includes the following points:  equal sized pieces of plant tissue cut (1)  washed (in distilled water until no more pigment lost) (1)  placed in a range of 7 concentrations of the chemical shown (1)  samples of the liquid (around the discs) were removed / tissue removed from tube (1)  method for measurement of intensity of colour described (1)  one variable identified Accept alternatives e.g.mass Accept rinsed Allow 8 if it is clear one is distilled water or 0% colorimeter (or implied), looking down tubes, compare with colour standard e.g. temperature, pH, time in water, volume of solution (5) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2023/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that includes the following points:  chemical {damages/destroys} membranes (1)  pigment leaks later than ions / described (1)  pigment in vacuole (only) (1)  it will take more time for tonoplast and cell membrane to be damaged than for just the cell membrane (1) Ignore wall Accept in tonoplast (4) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-jan-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes the following points:  {the tendency / ability / potential of water (molecules) to move (out of a solution / cell) / described} (1)  {water moves from higher to lower WP / more free water, greater its value / pure water zero / always negative} (1) concentration of free water molecules ACCEPT free water molecules are ones not associated with solute (2) Number Answer Additional Guidance Mark An answer that includes the following points:  Valid; by removing excess {water/ solution} (before weighing) / use of electronic balance (1)  Accurate; blotting dry for same time / by suitable use of balance described (1) not dried unless clear just the surface e.g., zeroed, calibrated, balance to suitable number of decimal places (2) Number Answer Additional Guidance Mark  sucrose (solution) concentration ACCEPT tissue type (1) Number Answer Additional Guidance Mark An explanation that includes the following points:  {water would {enter / leave} the potato more quickly than the yam / potato mass would {increase / decrease} more than the yam (in same time)} (1)  {because increased temperature makes (water) molecules move around more / (water) molecules have more kinetic energy} (1)  this would make (method / results) invalid (1) ACCEPT quicker result / water enters easily / osmosis happens quicker Ignore faster reaction (3) Number Answer Additional Guidance Ma rk A graph with the following features:  x and y-axis labelled (1)  suitable scale on y axis (1)  line of best fit for yam (1) (3) y = -40.443x + 28.438 y = -43.926x + 13.723 -30 -20 -10 0.0 0.2 0.4 0.6 0.8 1.0 percentage change in mass sucrose concentration / M dm -3 Yam Potato Number Answer Additional Guidance Mark A calculation including the following steps.  correct gradient calculated (1)  correct reading of intercept (1)  correct equation (1) e.g., -45 (accept -43 to -45.4) e.g., 13 (accept 12-14) e.g., y = -45x + 13 allow ecf equation (3) Number Answer Additional Guidance Mark  0",
+          "image": "/papers/wbi11-jan-2023/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2023-unit3-2023-01-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

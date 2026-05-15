@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit6-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit6-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/62",
+  "session": "February/March 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "2 (b) Fig. 1.2 shows two wooden blocks and one of the marbles. bench marble wooden blocks Fig. 1.2 Describe how the student uses the two blocks and the marble to determine a new accurate value for the diameter of a marble. Draw a diagram to show the arrangement. Describe clearly how the student ensures that the value for the diame",
+          "marks": 1,
+          "type": "structured",
+          "answer": " B = 85.0 seen in table at t = 0 s comparison of temperature changes over 180 s, matching statement 1 = 0.056 and x present 1 justification referencing ‘limits of experimental accuracy’ with values quoted 1 same volume of water, same material / thickness / surface area / shape of beaker, same room temp / named appropriate environmental condition February/March 2023 Question Answer Marks I = 0.86 (A) R = 1.5 () • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well-judged line and thin line R in range 0.073 to 0.093( / cm) difficult to position crocodile clip accurately / inconsistent connection with crocodile clip / resistance wire not uniform February/March 2023 Question Answer Marks 4 MP1 apparatus: metre ruler, protractor MP2 method: set initial launch angle roll ball measure range MP3 repeat for different angle 1 MP4 control variable (one from): diameter of ball, mass of ball. angle / height of (upper end of) channel MP5 table: with columns for independent variable and dependent variable (at least) and both with units MP6 analysis: compare readings in a table to see if change in independent variable produces change in dependent variable, plot (line) graph (with axes specified) MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, means of accurate indication of point at which ball hits floor, clear indication of where to measure range from",
+          "image": "/papers/physics-0625-2023/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit6-2023-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

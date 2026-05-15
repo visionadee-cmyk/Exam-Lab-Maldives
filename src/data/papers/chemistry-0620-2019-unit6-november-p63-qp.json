@@ -1,0 +1,59 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for experiments initial and final reading boxes completed correctly 10.2 23.1 6.3 0.0 2.7 1.2 differences completed correctly 10.2, 20.4, 5.1 all values to 1 or 2 decimal places orange / pink / red",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "no sharp colour change / no (clear) end point (Experiment) 3 (needed smallest) and (Experiment) 2 (needed largest) 1 : 2 R least concentrated T / none concentration of reactants not affected / unchanged / same compare / to check for anomalous results / until concordant results owtte 0620/63 October/November 2019",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2g",
+          "text": "2 (g) The addition of 0.5 g of manganese( IV) oxide speeds up this decomposition. Manganese(IV) oxide is an insoluble solid. The apparatus shown was used to follow the rate of decomposition of hydrogen peroxide. The hydrogen peroxide was added to the conical flask and a stop‑watch was started. water hydrogen peroxide 0.5 g manganese(IV) oxide (a) Complete the box to name",
+          "marks": 1,
+          "type": "structured",
+          "answer": "measurement to be taken use of results to draw conclusion reactant / method thermometric • measure temperature (change) • highest temperature (change) is most concentrated • add (xs) hydrochloric acid precipitation of metallic hydroxide • measure mass / height of precipitate • most precipitate is most concentrated • add (xs aqueous) copper sulfate (for example) gas produced • measure volume of gas made • largest volume is most concentrated • add an ammonium salt or aluminium evaporation • mass of solid • most mass is most concentrated • evaporate solution pH meter • measure pH • highest pH is most concentrated • pH meter dissolving • measure time taken for solid to dissolve • shortest time is most concentrated • aluminium / aluminium oxide / zinc / zinc oxide 0620/63 October/November 2019 / purple / green / violet precipitate / precipitate dissolves two from: • effervescence • (damp red / purple) litmus / pH paper • turns blue / pH 8–10 / organic 4 any six from: • known volume / amount of (distilled) water • initial temperature (of water before solid is added) • add measured mass / stated mass of potassium nitrate or ammonium chloride • stir / mix / dissolve / swirl / shake • final temperature of solution / temperature every 30 s • repeat with (same mass of) other solid (and volume / amount of water) OR measured mass of other solid • greater temperature change / decrease OR lowest final temperature is larger energy change / calculate energy change per gram Max 6",
+          "image": "/papers/chemistry-0620-2019/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

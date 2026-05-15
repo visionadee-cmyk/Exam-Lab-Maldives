@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 initial and final readings completed correctly; M2 all readings to 1 decimal place; M3 differences completed correctly; M4 both results comparable to supervisor’s; 1 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial, final readings and difference completed correctly; both results comparable to supervisor’s; 1 1 / fizzing / effervescence;",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use a pipette / burette;",
+          "image": "/papers/chemistry-0620-2016/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 effect on results: none; M2 reason: no change in concentration; 1 1 B is double the concentration of acid A ora / acid B is more concentrated ora;",
+          "image": "/papers/chemistry-0620-2016/q1-1g.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 appropriate named method that would work; M2 reagents; M3 result; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1i.png"
+        },
+        {
+          "id": "1j",
+          "text": "Part 1j",
+          "marks": 1,
+          "type": "structured",
+          "answer": "named protective clothing, e.g. goggles / gloves / lab coat; Page 4 Mark Scheme Syllabus Paper 0620 51 cream; precipitate; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1j.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sodium; bromide; 1 1 green; precipitate; with excess, (green) solution clears / precipitate dissolves; 1 1 1 grey-green precipitate; insoluble; 1 1 white; precipitate; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "chromium; chloride; 1 1 Page 5 Mark Scheme Syllabus Paper 0620 51 any 6 from: • weigh calcium; • heat / burn; • with lid / cover; • allow air to enter / lift lid; • cool; • reweigh calcium oxide; • reheat to constant mass; • calculate / find the difference;",
+          "image": "/papers/chemistry-0620-2016/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

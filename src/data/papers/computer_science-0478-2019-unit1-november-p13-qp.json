@@ -1,0 +1,179 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Five from: • The display is made up of pixels « • « that are arranged together as a matrix • Each pixel has three filters, red, blue and green • Shades of colour are achieved by mixing red, blue and green • The screen is backlit • Light is shone through the liquid crystals • The liquid crystals can be made to turn solid or transparent/on or off « • « by changing the shape of the crystal 0478/13 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row Statement True ( ) False ( ) High-level languages need to be translated into machine code to run on a computer High-level languages are written using mnemonic codes High-level languages are specific to the computer’s hardware High-level languages are portable languages 0478/13 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for the correct tick Example program Tick ( ) 1011100000110000 0000011011100010 INP STA ONE INP STA TWO ADD ONE a = input() b = input() if a == b: print(\"Correct\") else: print(\"Incorrect\") One mark for each correct term in the correct order • Serial • Parallel • Serial • Simplex • Parallel 0478/13 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct logic gate with correct input(s) 0478/13 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four mark for 8 correct outputs Three marks for 6 or 7 correct outputs Two mark for 4 or 5 correct outputs One mark for 2 or 3 correct outputs A T P Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2019/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from: • Sensor sends a signal/reading/data to the microprocessor • Signal/reading/data is analogue and is converted to digital using ADC • Reading/data is stored in the system • Microprocessor compares data/reading to the pre-set value of 7 • If value is greater than 7 « • « a signal/data is sent by the microprocessor to display a warning message on a monitor • The process is continuous 0478/13 October/November 2019 One mark for each correct parity bit Parity bit Register A Register B Register C",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Free software",
+          "image": "/papers/computer_science-0478-2019/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Freeware",
+          "image": "/papers/computer_science-0478-2019/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Shareware",
+          "image": "/papers/computer_science-0478-2019/q6-6c.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Plagiarism // Intellectual property theft",
+          "image": "/papers/computer_science-0478-2019/q6-6d.png"
+        },
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Copyright 0478/13 October/November 2019 Three from: • RAM • Primary memory • Volatile memory • Holds currently in use data/instructions • Directly accessed by the CPU Two from: • Arithmetic and logic unit (ALU) • Memory address register (MAR) • Memory data register (MDR) // Memory buffer register (MBR) • Accumulator (ACC) • Immediate Access Store (IAS) • Control Unit (CU) • Program counter (PC) • Current instruction register (CIR) • Address bus • Data bus • Control bus • Input device • Output device • Secondary storage device 0478/13 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row Statement True ( ) False ( ) Interrupts can be hardware based or software based Interrupts are handled by the operating system Interrupts allow a computer to multitask Interrupts work out which program to give priority to Interrupts are vital to a computer and it cannot function without them 0478/13 October/November 2019 Four from: • A hacker could have hacked the network « • « and downloaded the malware onto the network • Clicking a link/attachment/downloaded a file from an email/on a webpage « • « the malware could have been embedded into the link/attachment/file • Opening an infected software package « • « this would trigger the malware to download onto the network • Inserting an infected portable storage device « • « when the drive is accessed the malware is downloaded to the network • Firewall has been turned off « • « so malware would not be detected/checked for when entering network • Anti-malware has been turned off « • « so malware is not detected/checked for when files are downloaded",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

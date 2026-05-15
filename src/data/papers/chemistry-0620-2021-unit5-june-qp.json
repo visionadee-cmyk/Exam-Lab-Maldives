@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2021-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperatures completed and all temperatures and temperature changes recorded to the same precision all temperatures after 1 minute are lower than the starting temperatures. all temperature decreases calculated correctly temperature change for 3 g is comparable to superviso r r y -axis plotting ruler straight line through first three points and line passes through (0,0) horizontal ruler drawn straight line drawn through last three points lines extended so that they meet / cross indication at correct point on graph values read correctly from graph units (°C and g) (all) acid used up / sodium hydrogen carbonate in excess",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature change when line becomes horizontal is half of temperature change for experimental results the mass at which the line becomes horizontal is half of mass at which plotted line becomes horizontal",
+          "image": "/papers/chemistry-0620-2021/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a pipette explanation: more accurate than a measuring cylinde r change: use a polystyrene / Styrofoam cup explanation: insulato r / reduces heat gain 0620/51 May/June 2021",
+          "image": "/papers/chemistry-0620-2021/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from: • melts / forms a liquid • steam • condensation dissolves / disappears",
+          "image": "/papers/chemistry-0620-2021/q2-2a.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(red) litmus turns blue / NH + aluminium / A l 3+ sulfate / SO 2– / Na + hydroxide / OH – 0620/51 May/June 2021 any 6 from: • stated / set / same / measured volume of acid • stated / set / same / measured mass of calcium carbonate • add / combine / put together and start timing • Repeat (with acid) at higher / lower temperature then: graphical method: • measure / record mass at known / regular / specified times • plot graph • steepest line is fastest OR mass loss in a set time • measure / record mass at a specified time • calculate / measure mass lost • largest mass loss is fastest or calculates rate by mass loss ÷ time OR time to end of reaction • react until mass stops changing / reaction stops • record time • shortest time is fastest or calculates rate by mass loss ÷ time OR time to lose a set mass • react until it reaches / loses a certain mass • record time • shortest time is fastest or calculates rate by mass loss ÷ time OR mass of calcium carbonate left after a set time • filter after a set time • find mass of calcium carbonate left • lower mass of calcium carbonate is fastest or calculates rate by mass loss ÷ time",
+          "image": "/papers/chemistry-0620-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit5-2021-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

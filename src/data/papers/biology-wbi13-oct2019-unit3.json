@@ -20,7 +20,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Amino acids: nitrate ions (NO₃⁻) / ammonium ions (NH₄⁺). Chlorophyll: magnesium ions (Mg²⁺). Middle lamella: calcium ions (Ca²⁺).",
-          "keywords": ["nitrate", "NO3", "ammonium", "magnesium", "Mg2+", "calcium", "Ca2+", "middle lamella"]
+          "keywords": [
+            "nitrate",
+            "NO3",
+            "ammonium",
+            "magnesium",
+            "Mg2+",
+            "calcium",
+            "Ca2+",
+            "middle lamella"
+          ],
+          "image": "/papers/wbi13-oct-2019/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -28,7 +38,17 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Use genetically similar plants of similar starting size and grow them hydroponically in identical conditions. Prepare a complete nutrient solution (control) and an identical solution lacking the named ion (e.g., nitrate-free). Use replicates for each treatment. Control variables such as light intensity/photoperiod, temperature, CO₂, volume of solution, pH, aeration, and duration. Measure growth quantitatively (e.g., increase in dry mass, height, leaf area, or mean growth over time) at set intervals. Calculate mean growth for each group and compare.",
-          "keywords": ["control", "complete solution", "without ion", "replicates", "control variables", "measure growth", "valid data", "mean"]
+          "keywords": [
+            "control",
+            "complete solution",
+            "without ion",
+            "replicates",
+            "control variables",
+            "measure growth",
+            "valid data",
+            "mean"
+          ],
+          "image": "/papers/wbi13-oct-2019/q1-1a_ii.png"
         },
         {
           "id": "1b_i",
@@ -37,7 +57,16 @@
           "type": "short_answer",
           "image": "/papers/wbi13-oct2019/q1b-growth-results-table.PNG",
           "answer": "Mean growth difference after 21 days = 371 − 216 = 155 a.u. Difference in mean daily growth rate = 155 ÷ 21 = 7.38 a.u. day⁻¹ (≈ 7.4 a.u. day⁻¹).",
-          "keywords": ["371", "216", "155", "21", "7.38", "7.4", "a.u.", "day-1"]
+          "keywords": [
+            "371",
+            "216",
+            "155",
+            "21",
+            "7.38",
+            "7.4",
+            "a.u.",
+            "day-1"
+          ]
         },
         {
           "id": "1b_ii",
@@ -46,7 +75,16 @@
           "type": "short_answer",
           "image": "/papers/wbi13-oct2019/q1b-bar-chart.PNG",
           "answer": "Add error bars of ±17.4 a.u. for the complete solution bar and ±9.7 a.u. for the solution without nitrate ions bar. Standard deviation shows the spread/variation of results around the mean; larger SD means more variation/less consistency. The complete solution has greater variation than the nitrate-deficient solution. If SD bars do not overlap much, it supports a real difference between means.",
-          "keywords": ["error bars", "standard deviation", "±17.4", "±9.7", "variation", "spread", "mean", "overlap"]
+          "keywords": [
+            "error bars",
+            "standard deviation",
+            "±17.4",
+            "±9.7",
+            "variation",
+            "spread",
+            "mean",
+            "overlap"
+          ]
         }
       ]
     },
@@ -64,7 +102,18 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Step 2 (acetic orcein at 55°C): to stain chromosomes / DNA so stages of mitosis can be seen more clearly. Step 4 (coverslip squashed gently): to spread cells into a single layer / separate cells so chromosomes are not overlapping and can be counted. Step 5 (view low power then high power): low power to locate the root tip / suitable area and focus; high power to observe and count cells in mitosis / see chromosomes clearly.",
-          "keywords": ["stain", "chromosomes", "acetic orcein", "squash", "single layer", "spread", "low power", "high power", "count"]
+          "keywords": [
+            "stain",
+            "chromosomes",
+            "acetic orcein",
+            "squash",
+            "single layer",
+            "spread",
+            "low power",
+            "high power",
+            "count"
+          ],
+          "image": "/papers/wbi13-oct-2019/q2-2a_i.png"
         },
         {
           "id": "2a_ii",
@@ -72,7 +121,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Wear eye protection and gloves when handling hydrochloric acid and stains because they are irritants/corrosive and could damage eyes/skin. Take care with mounted needles / glass slides and coverslips to avoid cuts.",
-          "keywords": ["goggles", "gloves", "hydrochloric acid", "corrosive", "irritant", "needles", "glass"]
+          "keywords": [
+            "goggles",
+            "gloves",
+            "hydrochloric acid",
+            "corrosive",
+            "irritant",
+            "needles",
+            "glass"
+          ],
+          "image": "/papers/wbi13-oct-2019/q2-2a_ii.png"
         },
         {
           "id": "2b",
@@ -80,7 +138,19 @@
           "marks": 5,
           "type": "short_answer",
           "answer": "Grow groups of garlic roots in solutions buffered to different pH values for the same time period. Keep other variables constant (temperature, light, nutrient availability, root length/age). Prepare slides for each pH using the same steps in the flow chart (acid treatment, stain, squash, microscope). For each pH, view several fields of view / multiple root tips, count total cells and cells in mitosis, and calculate mitotic index = (cells in mitosis ÷ total cells) × 100. Use replicates and calculate mean mitotic index for each pH, then plot mean mitotic index against pH.",
-          "keywords": ["buffer", "different pH", "control variables", "count", "cells in mitosis", "total cells", "mitotic index", "replicates", "mean", "plot"]
+          "keywords": [
+            "buffer",
+            "different pH",
+            "control variables",
+            "count",
+            "cells in mitosis",
+            "total cells",
+            "mitotic index",
+            "replicates",
+            "mean",
+            "plot"
+          ],
+          "image": "/papers/wbi13-oct-2019/q2-2b.png"
         },
         {
           "id": "2c_i",
@@ -89,7 +159,15 @@
           "type": "short_answer",
           "image": "/papers/wbi13-oct2019/q2c-mitotic-index-ph-graph.PNG",
           "answer": "A table with headings including units, e.g. pH and mitotic index (%). Include the pH values shown on the graph (e.g. 3.5, 4.5, 5.2, 6.3, 7.2, 8.5, 9.0) and the corresponding mitotic index values read from the plotted points.",
-          "keywords": ["table", "headings", "units", "pH", "mitotic index", "%", "read from graph"]
+          "keywords": [
+            "table",
+            "headings",
+            "units",
+            "pH",
+            "mitotic index",
+            "%",
+            "read from graph"
+          ]
         },
         {
           "id": "2c_ii",
@@ -98,7 +176,16 @@
           "type": "short_answer",
           "image": "/papers/wbi13-oct2019/q2c-ii-root-tip-photo.PNG",
           "answer": "Count cells in mitosis (e.g. 3 cells show condensed chromosomes). Mitotic index = (3 ÷ 35) × 100 = 8.6%. From the graph, a mitotic index of about 9% corresponds to a pH of approximately 7.2 (around pH 7).",
-          "keywords": ["mitotic index", "3", "35", "8.6", "%", "pH", "7", "7.2"]
+          "keywords": [
+            "mitotic index",
+            "3",
+            "35",
+            "8.6",
+            "%",
+            "pH",
+            "7",
+            "7.2"
+          ]
         },
         {
           "id": "2c_iii",
@@ -106,7 +193,17 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Mitosis and the cell cycle are controlled by enzymes and proteins involved in DNA replication and spindle formation. pH affects enzyme activity by altering ionisation of amino acid side chains and disrupting bonds that maintain tertiary structure. At the optimum pH, enzymes/proteins function best so more cells proceed through the cell cycle, increasing mitotic index. At pH values that are too acidic or too alkaline, enzyme activity is reduced or proteins denature, slowing the cell cycle so fewer cells are in mitosis, reducing mitotic index.",
-          "keywords": ["enzyme", "pH", "active site", "tertiary", "denature", "optimum", "cell cycle", "mitosis"]
+          "keywords": [
+            "enzyme",
+            "pH",
+            "active site",
+            "tertiary",
+            "denature",
+            "optimum",
+            "cell cycle",
+            "mitosis"
+          ],
+          "image": "/papers/wbi13-oct-2019/q2-2c_iii.png"
         }
       ]
     },
@@ -124,7 +221,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Area of the zone of inhibition (area with no bacteria), measured in mm².",
-          "keywords": ["dependent", "area", "zone of inhibition", "mm2"]
+          "keywords": [
+            "dependent",
+            "area",
+            "zone of inhibition",
+            "mm2"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3a_i.png"
         },
         {
           "id": "3a_ii",
@@ -132,7 +235,14 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "To slow bacterial growth initially and allow the plant extract to diffuse into the agar before incubation, producing clearer zones of inhibition.",
-          "keywords": ["diffuse", "agar", "slow growth", "5°C", "zone of inhibition"]
+          "keywords": [
+            "diffuse",
+            "agar",
+            "slow growth",
+            "5°C",
+            "zone of inhibition"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3a_ii.png"
         },
         {
           "id": "3a_iii",
@@ -140,7 +250,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Measure the diameter (or radius) of the clear zone and calculate area using A = πr². Alternatively, trace the clear zone onto graph paper and count squares to estimate area.",
-          "keywords": ["diameter", "radius", "pi r2", "trace", "graph paper", "area"]
+          "keywords": [
+            "diameter",
+            "radius",
+            "pi r2",
+            "trace",
+            "graph paper",
+            "area"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3a_iii.png"
         },
         {
           "id": "3a_iv",
@@ -148,7 +266,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "A filter paper disc treated with the solvent used to make the extracts (e.g. water/ethanol) but with no plant extract, and dried in the same way, to show any inhibition is due to the extract not the disc/solvent.",
-          "keywords": ["control", "solvent", "no extract", "filter paper", "disc"]
+          "keywords": [
+            "control",
+            "solvent",
+            "no extract",
+            "filter paper",
+            "disc"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3a_iv.png"
         },
         {
           "id": "3b",
@@ -165,7 +290,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Difference = 196 − 111 = 85 mm². Percentage difference (relative to type A) = (85 ÷ 196) × 100 = 43.4% (≈ 43%).",
-          "keywords": ["196", "111", "85", "43", "43.4", "percentage"]
+          "keywords": [
+            "196",
+            "111",
+            "85",
+            "43",
+            "43.4",
+            "percentage"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3b_i.png"
         },
         {
           "id": "3b_ii",
@@ -174,7 +307,16 @@
           "type": "short_answer",
           "image": "/papers/wbi13-oct2019/q3b-graph-grid.PNG",
           "answer": "A suitable grouped bar chart with plant extract on the x-axis and area of zone of inhibition (mm²) on the y-axis, with separate bars for bacteria type A and type B, appropriate scale, clear key/legend, and correctly plotted values.",
-          "keywords": ["bar chart", "grouped", "x-axis", "y-axis", "mm2", "key", "legend", "scale"]
+          "keywords": [
+            "bar chart",
+            "grouped",
+            "x-axis",
+            "y-axis",
+            "mm2",
+            "key",
+            "legend",
+            "scale"
+          ]
         },
         {
           "id": "3b_iii",
@@ -182,7 +324,18 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Some plant extracts show antimicrobial activity and could help preserve food by inhibiting bacterial growth (e.g., pomegranate and thyme show large zones for type A; pomegranate also inhibits type B). Effects differ between bacteria types, so a single extract may not be effective against all bacteria (several extracts show 0 for type B). Pomegranate appears the most effective overall because it inhibits both types and has the largest zone areas, while cumin shows low/no effect. Results suggest plant extracts could be useful but choice/concentration depends on the target bacteria.",
-          "keywords": ["antimicrobial", "preserve", "inhibit", "pomegranate", "thyme", "type A", "type B", "not all", "effective"]
+          "keywords": [
+            "antimicrobial",
+            "preserve",
+            "inhibit",
+            "pomegranate",
+            "thyme",
+            "type A",
+            "type B",
+            "not all",
+            "effective"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3b_iii.png"
         },
         {
           "id": "3c",
@@ -190,9 +343,22 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Amount/concentration of extract on the disc (volume absorbed / how long discs were soaked / disc size). Rate of diffusion through agar (affected by agar thickness/concentration/temperature). Density of bacterial lawn (amount of bacteria spread). Incubation time/temperature.",
-          "keywords": ["concentration", "volume", "disc size", "diffusion", "agar thickness", "bacterial lawn", "incubation"]
+          "keywords": [
+            "concentration",
+            "volume",
+            "disc size",
+            "diffusion",
+            "agar thickness",
+            "bacterial lawn",
+            "incubation"
+          ],
+          "image": "/papers/wbi13-oct-2019/q3-3c.png"
         }
       ]
     }
-  ]
+  ],
+  "paperId": "wbi13-oct-2019-unit3-qp",
+  "assets": {
+    "basePath": "/papers/wbi13-oct-2019"
+  }
 }

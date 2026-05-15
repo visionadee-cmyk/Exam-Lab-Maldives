@@ -1,0 +1,91 @@
+{
+  "paperId": "wph11-may-2024-unit5-qp",
+  "pairedMarkSchemeId": "wph11-may-2024-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "May 2024",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푉=푁푘푇 Conversion of temperature to K Use of M = Nm M = 1200 kg Example of calculation 푁= 푝푉 푘푇 = 1.08×10 Pa×7020 m 1.38×10 −23 m kg s −2 K −1 × ( 273+25 ) K =1.84×10 푀=1.84×10 ×6.64×10 −27 kg=1220 kg (1) (1) (1) (1) Total for question 13 6 Number Answer Mark Or The lead will absorb the alpha radiation (1) Determine the background count (rate) Subtract background count (rate) from the recorded count (rate) to eliminate systematic error Or Subtract background count from the recorded count to prevent the count rate being overestimated OR Record the count for a longer time interval Or Record the count more than once and calculate a mean value This will reduce the effect of random variation on the count rate Or this will decrease the percentage uncertainty (1) (1) (1) (1) One pair of values read from curve Use of 푅=60푒 −휇 푥 with values read from graph 휇=0.30 cm −1 →0.36 cm −1 OR Tangent drawn at x = 0 1/(x-intercept of tangent) determined Or gradient of tangent divided by y-intercept (R ) [MP2 dependent on MP1] 휇=0.30 cm −1 →0.39 cm −1 [Accept 휇 in m −1 ] Example of calculation ln푅=ln60−휇푥 ∴휇= ln60−ln푅 푥 = 4.094−ln43 1.0 =0.333 cm −1 (1) (1) (1) (1) (1) (1) Total for question 14 6 Number Answer Mark",
+          "image": "/papers/wph11-may-2024/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q13.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆퐸=푚퐿 Use of ∆퐸=푚푐∆휃 ΔE = 1.32 × 10 (J) Example of calculation ∆퐸=3.53×10 kg×3.36×10 J kg −1 =1.19×10 J ∆퐸=3.53×10 kg×2.09×10 J kg −1 K −1 × ( 0−(−18) ) K =1.33×10 J ΔE = 1.19 × 10 J + 1.33 × 10 J = 1.319 × 10 J (1) (1) (1) ] Intensity at sea level calculated using 56% [767 W m −2 ] Use of 퐼= 푃 퐴 Use of 푃= ∆푊 ∆푡 t = 4.4 days [4.3 days if \"show that\" value used] (ecf from (a)) Or E = 2.10 × 10 J for 7 days 4.4 days is less than 7 days so claim is not correct Or 1.32 × 10 J < 2.10 × 10 J so claim is not correct Or Correct conclusion based on comparison of candidate’s calculated values Example of calculation 푃=0.56×1370 W m −2 ×453 m =3.48×10 W 푡= 1.32×10 J 3.48×10 J s −1 =3.79×10 s 푡= 3.79×10 s 8.64×10 s day −1 =4.39 days (1) (1) (1) (1) (1) (1) Total for question 15 9 Number Answer Mark",
+          "image": "/papers/wph11-may-2024/q15-15a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐼= 퐿 4π푑 Use of 퐿=휎퐴푇 Use of 퐴=4π푟 Use of 휆 max 푇=2.898×10 −3 m K  max = 5.64 × 10 −7 m Example of calculation 1.05×10 −9 W m −2 = 퐿 4π× ( 9.94×10 m ) 퐿=4π× ( 9.94×10 m ) ×1.05×10 −9 W m −2 =1.30×10 W 퐴=4π× ( 5.12×10 m ) =3.29×10 m 1.30×10 W=5.67×10 −8 W m −2 K −4 ×3.29×10 m ×푇 푇= √ 1.30×10 W 5.67×10 −8 W m −2 K −4 ×3.29×10 m =5140 K 휆 max = 2.898×10 −3 m K 5140 K =5.64×10 −7 m (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2024/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆휆 휆 = 푣 푐 [Allow a 2 step approach using a calculation of the red shift, z ] Δ = 0.025 nm 0.025 (nm) < 0.05 (nm), so no wavelength change could be detected Or comparison of calculated value with 0.05 (nm) and consistent conclusion made. Example of calculation ∆휆 480 nm = 1.55×10 m s −1 3.00×10 m s −1 ∆휆=480 nm×5.17×10 −5 =0.0248 nm (1) (1) (1) Total for question 16 8 Number Answer Mark Bottom line correct I →Xe +β − +ν e ̅ −1 (1) (1) Conversion of half life to seconds Use of 휆푡 1/2 =ln2 Use of 퐴=휆푁 Use of 푀=푁×푚 푀=7.3×10 −10 kg Or M = 4.1 × 10 GeV/c Example of calculation 퐴=51.8×10 s −1 ×65 kg=3.37×10 Bq 휆= ln2 8.02×24×3600 s =1.00×10 −6 s −1 푁= 3.37×10 Bq 1.00×10 −6 s −1 =3.37×10 푚= 122×10 eV×1.6×10 −19 J eV −1 ( 3.00×10 m s −1 ) =2.17×10 −25 kg ∴푀=3.37×10 ×2.17×10 −25 kg=7.31×10 −10 kg (1) (1) (1) (1) (1) (1) Use of 퐴=퐴 e −휆푡 with A = 2.35 GBq 퐴 =2.6 GBq (ecf from (b)(i) for value of 휆) Example of calculation 2.35 GBq=퐴 e −1.00 × 10 −6 s −1 × 24 × 3600 s 퐴 = 2.35 GBq e −1.00 × 10 −6 s −1 × 24 × 3600 s =2.56 GBq (1) (1) Total for question 17 10 Number Answer Mark Substitution of 휔= 2π 푇 Or Substitution of 푣= 2π푟 푇 Algebra to obtain required expression Example of derivation 푚휔 푟= 퐺푀푚 푟 푚( 2π 푇 ) 푟= 퐺푀푚 푟 푇 = 4π 퐺푀 푟 (1) (1) (1) Use of 푇 = 4π 푟 퐺푀 푇=8.3×10 (s) Example of calculation 푇= √ 4π × ( 5.7×10 m ) 6.67×10 −11 N m kg −2 ×8.0×10 ×1.99×10 kg ∴푇=8.30× 10 s (1) (1) So the mass of the galaxy must be greater than 8.0 × 10 solar masses [accept the given mass for the numerical value] Or the gravitational force on the star must be bigger (than assumed) There must be matter that does not emit em-radiation Or There must be matter that we cannot detect via em-radiation [Accept “there must be matter that we cannot see”] (This suggests that) there is dark matter (1) (1) (1) (1) Total for question 18 9 Number Answer Mark Conversion between u and kg Use of ∆퐸=푐 ∆푚 ΔE = 4.27 × 10 −12 (J) Example of calculation Mass defect = (4 × 1.0078 u) − 4.0026 u = 0.0286 u Mass def",
+          "image": "/papers/wph11-may-2024/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q16.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit5-2024-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,227 @@
+{
+  "paperId": "computer_science-0478-2023-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 15,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "4 (a) Explain why verification checks are used when data is input. ................................................................................................................................................... ................................................................................................................................................... .........................",
+      "text": "4 (a) Explain why verification checks are used when data is input. ................................................................................................................................................... ................................................................................................................................................... .........................",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Explain why verification checks are used when data is input. ................................................................................................................................................... ................................................................................................................................................... .........................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  To ensure that data has been accurately copied // to ensure that changes have not been made to the values originally intended when data is copied  ... from one source to another 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each appropriate verification check, max two One mark for each correct accompanying use, max two For example: Verification check 1 – Visual check Use – the user looks through the data that has been entered and confirms that no changes have been made. Verification check 2 – Double data entry Use – data is entered twice, the two entries are compared and if they do not match, a re-entry is requested.",
+          "image": "/papers/computer_science-0478-2023/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "5 (a) Four descriptions of validation checks are shown. Draw one line to link each description to the most appropriate check. Not all checks will be used. Description Check",
+      "text": "5 (a) Four descriptions of validation checks are shown. Draw one line to link each description to the most appropriate check. Not all checks will be used. Description Check",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Four descriptions of validation checks are shown. Draw one line to link each description to the most appropriate check. Not all checks will be used. Description Check",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line. Description Check to check that the data entered is an integer check digit to check that the data entered has an appropriate number of characters to check that some data has been entered to check that an identification number contains no errors length check type check presence check format check 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  appropriate REPEAT / WHILE loop begin and end  input of Length  appropriate input prompt / error message  correct loop exit/entry condition / selection Example answers: WHILE Loop OUTPUT \"Enter a number between 15 and 35 inclusive\" INPUT Length WHILE Length <15 OR Length > 35 (DO) OUTPUT \"Your number must be between 15 and 35 inclusive INPUT Length ENDWHILE REPEAT Loop REPEAT OUTPUT \"Enter a number between 15 and 35 inclusive\" INPUT Length UNTIL Length >= 15 AND LENGTH <= 35 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four  Line 01 / Counter  should be Counter   Line 03 / While Counter > 100 DO should be While Counter < 100 DO  Line 07 / Total  Total + Counter should be Total  Total + Number  Line 09 / ENDCASE should be ENDIF Correct algorithm 01 Counter  02 Total  03 WHILE Counter < 100 DO 04 INPUT Number 05 IF Number > 0 06 THEN 07 Total  Total + Number 08 Counter  Counter + 1 09 ENDIF 10 ENDWHILE 11 OUTPUT \"The total value of your numbers is \", Total 12 OUTPUT \"The average value of your numbers is \", Total / 100 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max five MP1 replace line 03 MP2 with FOR MP3 ... with limits 0 to 99 / 1 to 100 MP4 replace line 05 to check if Number is not positive MP5 ... (if Number is not positive) insert a validation and re-input routine between lines 06 and 07 ... MP6 ... that will repeat until a positive value is entered MP7 remove the counter update / line 08 MP8 replace line 10 / ENDWHILE with NEXT 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max six  correct Total column  correct Value column  correct Five1 column  correct Five2 column  correct Ten1 and Ten2 columns  correct OUTPUT column Total Value Five1 Five2 Ten1 Ten2 OUTPUT 5 1 1 0 0.5 Rejected 50 10 10 5 5 50 52 10 10.4 Rejected 555 111 111 55 55.5 Rejected 57 11 11.4 Rejected 500 100 100 50 50 –",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  to find if an input is divisible by (both 5 and) 10  ... add them together and output the total 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct gate, with the correct input(s) as shown. 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for eight correct outputs. Three marks for six or seven correct outputs. Two marks for four or five correct outputs. One mark for two or three correct outputs A B C Z 0 0 0 0 0 0 1 0 0 1 0 0 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 0 1 1 1 0",
+          "image": "/papers/computer_science-0478-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "DECLARE Saying : STRING 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max five MP1 input a string into Saying MP2 correct use of OPENFILE to write data MP3 correct use of WRITEFILE to write Saying MP4 correct use of CLOSEFILE MP5 correct use of filename Quotations.txt throughout For example: INPUT Saying OPENFILE \"Quotations.txt\" FOR WRITE WRITEFILE \"Quotations.txt\", Saying CLOSEFILE \"Quotations.txt\"",
+          "image": "/papers/computer_science-0478-2023/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct answer Fields 5 Records 12 uniquely identify a record 0478/23 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q10-10a.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two marks for four correct answers. One mark for two or three correct answers. Field Data type Type A lphanumeric Private Boolean Rate$ Integer NumberGuest Integer",
+          "image": "/papers/computer_science-0478-2023/q10-10c.png"
+        },
+        {
+          "id": "10d",
+          "text": "Part 10d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  data correctly extracted in any two rows  data correctly extracted in third row  data in correct order horizontally and vertically Example answer: Bay Lodge 10 1000 Coppice Lodge 12 1200 West Lodge 12 1200 0478/23 May/June 2023 Read the whole answer: Check if each requirement listed below has been met. Requirem ents may be met using a suitable built-in function from the programming language used (Python, VB.NET or Java). Mark SEEN on script if requirement met, cross if no attempt seen, NE if partially met (see marked scripts). Use the tables for A02 and A03 below to award a mark in a suitable band using a best fit approach. Then add up the total. Marks are available for:  AO2 (maximum 9 marks)  AO3 (maximum 6 marks) Data structures required: The names underlined must match those given in the scenario: Arrays or lists Contacts[] Variables CurrentSize , Cont , Choice , NewContacts , Count , Count2 , Flag Requirements (techniques): R1 Output menu and input choice, with validation (range check, output with messages, input with prompts). R2 Input number of new entries, within limits, update current size of contacts, input new data and sort the array (range check, totalling, iteration and bubble sort). R3 Output array whole contents and delete contents of array (iteration, output with labelling/messages, array initialisation). 0478/23 May/June 2023 Example 15 mark answer in pseudocode // meaningful identifiers and appropriate data structures for // all data required DECLARE Contacts : ARRAY[1:100, 1:2] OF STRING DECLARE CurrentSize : INTEGER DECLARE Cont : BOOLEAN DECLARE Choice : INTEGER DECLARE NewContacts : INTEGER DECLARE Count : INTEGER DECLARE Count2 : INTEGER DECLARE Flag : BOOLEAN DECLARE Temp1 : STRING DECLARE Temp2 : STRING // the number of contacts in the array CurrentSize  // to allow program to continue indefinitely Cont  TRUE WHILE Cont DO // display menu OUTPUT \"Please choose one of the following: \" OUTPUT \"Press 1",
+          "image": "/papers/computer_science-0478-2023/q10-10d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 15,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit2-2023-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

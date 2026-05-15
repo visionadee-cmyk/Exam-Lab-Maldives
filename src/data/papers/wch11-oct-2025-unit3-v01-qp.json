@@ -1,0 +1,63 @@
+{
+  "paperId": "wch11-oct-2025-unit3-v01-qp",
+  "pairedMarkSchemeId": "wch11-oct-2025-unit3-v01-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH13/01",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • balancing • state symbols (1) (1) MP 2 dependent on MP 1 or near miss e.g. KCO 2KHCO (s) → K CO (s) + H O(g) + CO (g) Ignore heat anywhere in the equation (2) Number Answer Additional Guidance Mark • to retain the solid / mixture whilst allowing gas to escape Ignore comments about gas pressure, explosion, heat (1) Number Answer Additional Guidance Mark • to ensure complete reaction / (thermal) decomposition Allow all the hydrogen carbonate has decomposed Allow all the carbon dioxide and water have been removed Allow so that only potassium carbonate is left (1) Number Answer Additional Guidance Mark Route 1 • M1 mass of water and carbon dioxide lost • M2 mol of water and carbon dioxide lost EITHER • M3 mol KHCO (using mole ratio from (4)(a)) • M4 mass KHCO (using formula in (4)(a)) • M5 mass K CO in the starting mixture • M6 % by mass K CO in the mixture and 3SF OR • M3 Total mol of K CO at end • M4 mol K CO at start • M5 mass K CO at start • M6 % by mass K CO in the mixture and 3SF (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Example of calculation 12.00 – 8.90 = 3.10 (g) M r water and carbon dioxide (18.0 + 44.0 = 62.0); 3.10 ÷ 62.0 = 0.0500 (mol) EITHER 0.0500 × 2 = 0.1 (mol) M r KHCO = 100.1; 0.1 × 100.1 = 10.0100 (g) 12.00 – 10.0100 = 1.99 (g) (1.99 ÷ 12.00) × 100 = 16.583 = 16.6% to 3SF OR 8.9 ÷ 138.2 = 0.0644 (mol) 0.0644 – 0.05 = 0.0144 (mol) 0.0144 × 138.2 = 1.99008 (g) (1.99008 ÷ 12.00) × 100 = 16.583 = 16.6% to 3SF (6) Allow TE from incorrect formulae and ratio 4(a) and incorrect ratio if ratio from 4(a) is not used. Route 2 mass K CO in mixture before heating = k • M1 mol K CO • M2 mol KHCO (using mole ratio from (4)(a)) • M3 mass KHCO • M4 rearrangement • M5 mass K2CO3 in the starting mixture • M6 % by mass K CO in the mixture and 3SF (1) (1) (1) (1) (1) (1) (8.9 – k) ÷ 138.2 ((8.9 – k) ÷ 138.2) × 2 = (8.9 – k) ÷ 69.1 12 – k = ((8.9 – k) ÷ 69.1) × 100.1 1.44863k – k = 12.89281 – 12 k = 1.9981 (1.9981 ÷",
+          "image": "/papers/wch11-oct-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• mass 2-methylpropan-2-ol and mol 2-methylpropan-2-ol either • mass 2-chloro-2-methylpropane • percentage yield or • mol 2-chloro-2-methylpropane • percentage yield (1) (1) (1) (1) (1) Example of calculation 10.0 × 0.78 = 7.80 (g) M r 2-methylpropan-2-ol = 74.0 7.80 ÷ 74.0 = 0.10541 (mol) (0.10541 mol 2-chloro-2-methyl propane) M r 2-chloro-2-methyl propane 92.5; 0.10541 × 92.5 = 9.75043(g) (5.60 ÷ 9.75043) × 100 = 57.4% / 57% range 57 to 58% 5.6 ÷ 92.5 = 0.060541 (mol) (0.060541 ÷ 0.10541) × 100 = 57.4% / 57% range 57 to 58% Ignore SF except 1 SF Allow TE throughout Correct answer with no working scores 3 (3) (Total for Question 5 = 16 marks) TOTAL FOR PAPER = 50 MARKS",
+          "image": "/papers/wch11-oct-2025/q5-5d.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit3-2025-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

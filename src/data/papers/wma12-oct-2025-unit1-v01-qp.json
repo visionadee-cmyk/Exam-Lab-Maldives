@@ -1,0 +1,77 @@
+{
+  "paperId": "wma12-oct-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-oct-2025-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "October 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5i",
+          "text": "Part 5i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4tan 5sin 0  += States or uses sin sin tan 5sin 0 cos cos    = → + = M1 ( ) sin 4 5cos 0  += cos =−  dM1 cos == awrt143 or awrt 217 −  A1 cos == awrt143 1 and awrt 216 9 − .. A1 sin 0 180 360 =  =    , B1 (5) (ii) sin cos sin cos sin cos 5sin cos sin cos xx xx xxx xxx  + =  + = 5sin 1 x = M1, A1 awrt 0.201, 2.94 x = dM1, A1 (4) (9 marks) (i) Condone a lack of a degrees symbol throughout. Condone solutions that drop  ’s in their working M1: States sin tan cos    = or attempts to use sin tan cos    = in the given equation. Condone slips in coefficients but writing 4tan  as 4sin 4cos   is M0. dM1: Attempts all of the following • uses sin tan cos    = condoning slips in the coefficients • multiplies by cos and proceeds to a linear equation in cos via factorising or cancelling out the term in sin  • achieves cos = k  where 1k A1: Achieves cos = − and finds one correct value for  to the nearest degree or in radians to one dp. So, allow for example, awrt 2.5(0) following cos =  − A1: Achieves cos =  − and finds both  values in degrees correct to one dp. awrt 143 1 and awrt 216 9.. Any extra values in the range (for cos = − ) is A0 B1: Correctly achieves sin 0 =  for their equation followed by 180 360 =    , Condone 0 appearing as a solution .................................................................................................................................. Alternative approaches exist and can be marked in a similar way: If you see an approach that deserves credit and you don’t know how to score it, please send to review. Alt I, II and III are examples of alternative approaches. Alt I Using sin tan cos =    ( ) 4tan 5sin 0 4tan 5tan cos 0 tan 4 5cos 0 + =  + =  + =        then solve cos =  − and tan 0 =  M1: Writing sin  as cos tan  dM1: Factorises out tan  and proceeds to cos = k  where k  Alt II Squaring approach 4sin 5sin cos 0 4sin 5sin cos 16sin 25sin cos + =  = −  =      ",
+          "image": "/papers/wma12-oct-2025/q5-5i.png"
+        }
+      ],
+      "image": "/papers/wma12-oct-2025/page-15.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma12-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-oct-2025/page-01.png",
+      "/papers/wma12-oct-2025/page-02.png",
+      "/papers/wma12-oct-2025/page-03.png",
+      "/papers/wma12-oct-2025/page-04.png",
+      "/papers/wma12-oct-2025/page-05.png",
+      "/papers/wma12-oct-2025/page-06.png",
+      "/papers/wma12-oct-2025/page-07.png",
+      "/papers/wma12-oct-2025/page-08.png",
+      "/papers/wma12-oct-2025/page-09.png",
+      "/papers/wma12-oct-2025/page-10.png",
+      "/papers/wma12-oct-2025/page-11.png",
+      "/papers/wma12-oct-2025/page-12.png",
+      "/papers/wma12-oct-2025/page-13.png",
+      "/papers/wma12-oct-2025/page-14.png",
+      "/papers/wma12-oct-2025/page-15.png",
+      "/papers/wma12-oct-2025/page-16.png",
+      "/papers/wma12-oct-2025/page-17.png",
+      "/papers/wma12-oct-2025/page-18.png",
+      "/papers/wma12-oct-2025/page-19.png",
+      "/papers/wma12-oct-2025/page-20.png",
+      "/papers/wma12-oct-2025/page-21.png",
+      "/papers/wma12-oct-2025/page-22.png",
+      "/papers/wma12-oct-2025/page-23.png",
+      "/papers/wma12-oct-2025/page-24.png",
+      "/papers/wma12-oct-2025/page-25.png",
+      "/papers/wma12-oct-2025/page-26.png",
+      "/papers/wma12-oct-2025/page-27.png",
+      "/papers/wma12-oct-2025/page-28.png",
+      "/papers/wma12-oct-2025/page-29.png",
+      "/papers/wma12-oct-2025/page-30.png",
+      "/papers/wma12-oct-2025/page-31.png",
+      "/papers/wma12-oct-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

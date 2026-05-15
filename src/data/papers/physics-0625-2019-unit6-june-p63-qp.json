@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2019-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) One student places the metre rule on the pivot at the 50.0 cm mark and then places block U with its centre at the 5.0 cm mark. Suggest why it might be difficult to place block U accurately at the 5.0 cm mark. Explain how the student could overcome this difficulty. You may draw a diagram. ...........................................................................",
+      "text": "1 (a) One student places the metre rule on the pivot at the 50.0 cm mark and then places block U with its centre at the 5.0 cm mark. Suggest why it might be difficult to place block U accurately at the 5.0 cm mark. Explain how the student could overcome this difficulty. You may draw a diagram. ...........................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) One student places the metre rule on the pivot at the 50.0 cm mark and then places block U with its centre at the 5.0 cm mark. Suggest why it might be difficult to place block U accurately at the 5.0 cm mark. Explain how the student could overcome this difficulty. You may draw a diagram. ...........................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(difficult to see centre of block) and valid method, e.g. • (measure width of block and) add ½ width to 5.0 cm to find position for edge of block • mean value of marks at both edges of mass • mark centre line of mass and align with mark on rule move block back and forth to find the point of balance / owtte axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to less than ½ small square and precise plots well-judged line and thin line G present and triangle method seen on graph M U in range 61.0 to 81.0 (g) 2/3 sig figs and unit",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a and b are proportional b / a constant within limits of experimental accuracy / owtte 0625/63 May/June 2019 (°C) s, °C, °C, °C all correct 30, 60, 90, 120, 150, 180 any one from: • place stop-clock and thermometers so seen easily • keep eyes at level to thermometer scales • use an audible 30 s alarm • read temperatures alternately every 15 s • use of data logger",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "greater temperature difference causes greater (rate of) heating comparison of temperature changes during same peri od in first half and in second half of experiment within range 64 to 72 (°C) inclusive justification with reference to hot and cold water trends (°C) / room temperature two from: • thinner walls on tube • metal tube • bung/lid on tube • insulate sides of beaker/lid on beaker • higher initial hot water temperature • lower initial cold water temperature • increase volume of hot water • decrease volume of cold water • stirring 0625/63 May/June 2019",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct voltmeter symbol in parallel with X",
+          "image": "/papers/physics-0625-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I = 0.22 (A) V = 1.1 (V) A, V, Ω",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results and ‘currents the same within limits of experimental accuracy’ / owtte R values 5.0/ecf, 14(.3478), 24/(23.8095) ( Ω ) consistent 2 or consistent 3 sig figs R Y = 9.0 ( Ω ) and R Z = 10 ( Ω ) 3 resistors in parallel arrangement and circuit symbols correct voltmeter and ammeter in correct arrangement and circuit symbols correct R P = R S 0625/63 May/June 2019 MP1 Apparatus metre rule / measuring tape MP2 Method drop ball from measured height measure height of bounce repeat for different height of release MP3 Precaution any one from: • repeat (for each height of release) and average • measure to same part of ball each time • measure height of bounce at eye level • release without throwing/impeding • use of video (for height of bounce) MP4 Control variable any one from: • same (diameter/mass/material) ball • type of floor covering MP5 Table columns for release height and bounce height and units MP6 Analysis any one from: • suitable analysis of readings • draw a suitable graph of drop height against bounce height MP7 Additional point any one from: • additional control variable • at least 5 sets of data taken • repeat experiment for different diameter of ball/floor covering • automatic release to eliminate differences 0625/63 May/June 2019",
+          "image": "/papers/physics-0625-2019/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit6-2019-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

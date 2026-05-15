@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2021-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-june-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "May/June 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) • Draw a line 10 cm long near the top of the ray-trace sheet. Label the line MR. Draw a normal to this line that passes through its centre. Label the normal NL. Label the point at which NL crosses MR with the letter B. • Draw a line CD 8.0 cm below MR and parallel to MR. • Label the point X where CD crosses NL. • Draw a line EF 8.0 cm below CD and parall",
+      "text": "1 (a) • Draw a line 10 cm long near the top of the ray-trace sheet. Label the line MR. Draw a normal to this line that passes through its centre. Label the normal NL. Label the point at which NL crosses MR with the letter B. • Draw a line CD 8.0 cm below MR and parallel to MR. • Label the point X where CD crosses NL. • Draw a line EF 8.0 cm below CD and parall",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "h in range 8 – (cm) correct calculation of V A V S = 90 – cm m B present, m present, m S = m – m B ρ in range 1.3–1.8 / 1300–1800 unit g / cm / kg / m",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal at centre of MR CD and EF in correct positions",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ = 20° ± 1° P P distance at least 5.0 cm on XD , P on YF a and b correct to ± mm 0625/52 May/June 2021 correct unit seen at least once, and not contradicted a / b correct and no unit",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "c , d present c / d = a / b ± 10%",
+          "image": "/papers/physics-0625-2021/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "expect YES and values are within limits of experimental accuracy / error / uncertainty or values (very) close / close enough / not (very) far apart / both round to the same numbe r",
+          "image": "/papers/physics-0625-2021/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one from: • difficulty in lining up pins • size of pin holes / thickness of pins / thickness of lines • thickness of mirro r I to at least 2 decimal places and < 1 ( A ) V R to at least 1 decimal place and < 3 (V) R correct all units present and correct",
+          "image": "/papers/physics-0625-2021/q2-2g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V values increasing and initial V < 0.5 V 0625/52 May/June 2021 axes correctly labelled with quantity and unit and right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct method shown clearly on graph l R correctly read to ± ½ small square 0625/52 May/June 2021 MP1 apparatus: diagram: spring suitably supported, (load and metre rule) MP2 at least three (suitable) metals listed MP3 method: measure / record length of the spring and add load(s) and measure / record new length OR add load(s) and measure / record the extension MP4 repeat with other springs of different materials MP5 key variables: one from: original length of spring / diameter of spring / number of turns (of the spring) / diameter of the wire (of the spring) / length of the wire (of the spring) / same load MP6 table: table with columns for metal and extension / length with correct unit(s) MP7 conclusion: graph of extension against load (or axes other way around) for each spring and compare OR compare extensions for a fixed load for each spring",
+          "image": "/papers/physics-0625-2021/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

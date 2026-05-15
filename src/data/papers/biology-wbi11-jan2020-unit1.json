@@ -13,7 +13,7 @@
       "type": "structured",
       "totalMarks": 6,
       "question": "Polynucleotides include DNA and messenger RNA (mRNA). Some components of polynucleotides are found in both DNA and mRNA. Other components are found only in DNA or in mRNA. A Venn diagram can be drawn to represent this information. Components found in both DNA and mRNA are written in the part of the diagram where the circles overlap. Complete the Venn diagram by writing the name of two components in each part of the diagram.",
-      "image": "/papers/wbi11-jan2020/q1_venn_diagram.png",
+      "image": "/papers/wbi11-jan-2020/page-02.png",
       "parts": [
         {
           "id": "1",
@@ -21,7 +21,17 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "DNA only: deoxyribose, thymine; Both: phosphate, adenine, guanine, cytosine; mRNA only: ribose, uracil",
-          "keywords": ["deoxyribose", "thymine", "phosphate", "adenine", "guanine", "cytosine", "ribose", "uracil"]
+          "keywords": [
+            "deoxyribose",
+            "thymine",
+            "phosphate",
+            "adenine",
+            "guanine",
+            "cytosine",
+            "ribose",
+            "uracil"
+          ],
+          "image": "/papers/wbi11-jan-2020/q1-1.png"
         }
       ]
     },
@@ -37,15 +47,29 @@
           "text": "Which diagram shows the direction of blood flow through the vena cava?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi11-jan2020/q2a_heart_diagrams.png",
+          "image": "/papers/wbi11-jan-2020/q2-2a.png",
           "options": [
-            { "id": "A", "text": "Diagram A" },
-            { "id": "B", "text": "Diagram B" },
-            { "id": "C", "text": "Diagram C" },
-            { "id": "D", "text": "Diagram D" }
+            {
+              "id": "A",
+              "text": "Diagram A"
+            },
+            {
+              "id": "B",
+              "text": "Diagram B"
+            },
+            {
+              "id": "C",
+              "text": "Diagram C"
+            },
+            {
+              "id": "D",
+              "text": "Diagram D"
+            }
           ],
           "answer": "A",
-          "keywords": ["A"]
+          "keywords": [
+            "A"
+          ]
         },
         {
           "id": "2b",
@@ -53,13 +77,28 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Pulmonary artery: deoxygenated blood flowing away from the heart; Pulmonary vein: oxygenated blood flowing towards the heart" },
-            { "id": "B", "text": "Pulmonary artery: deoxygenated blood flowing towards the heart; Pulmonary vein: oxygenated blood flowing away from the heart" },
-            { "id": "C", "text": "Pulmonary artery: oxygenated blood flowing away from the heart; Pulmonary vein: deoxygenated blood flowing towards the heart" },
-            { "id": "D", "text": "Pulmonary artery: oxygenated blood flowing towards the heart; Pulmonary vein: deoxygenated blood flowing away from the heart" }
+            {
+              "id": "A",
+              "text": "Pulmonary artery: deoxygenated blood flowing away from the heart; Pulmonary vein: oxygenated blood flowing towards the heart"
+            },
+            {
+              "id": "B",
+              "text": "Pulmonary artery: deoxygenated blood flowing towards the heart; Pulmonary vein: oxygenated blood flowing away from the heart"
+            },
+            {
+              "id": "C",
+              "text": "Pulmonary artery: oxygenated blood flowing away from the heart; Pulmonary vein: deoxygenated blood flowing towards the heart"
+            },
+            {
+              "id": "D",
+              "text": "Pulmonary artery: oxygenated blood flowing towards the heart; Pulmonary vein: deoxygenated blood flowing away from the heart"
+            }
           ],
           "answer": "A",
-          "keywords": ["A"]
+          "keywords": [
+            "A"
+          ],
+          "image": "/papers/wbi11-jan-2020/q2-2b.png"
         },
         {
           "id": "2c_i",
@@ -67,13 +106,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "AV valves open and SL valves open" },
-            { "id": "B", "text": "AV valves open and SL valves closed" },
-            { "id": "C", "text": "AV valves closed and SL valves open" },
-            { "id": "D", "text": "AV valves closed and SL valves closed" }
+            {
+              "id": "A",
+              "text": "AV valves open and SL valves open"
+            },
+            {
+              "id": "B",
+              "text": "AV valves open and SL valves closed"
+            },
+            {
+              "id": "C",
+              "text": "AV valves closed and SL valves open"
+            },
+            {
+              "id": "D",
+              "text": "AV valves closed and SL valves closed"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "AV open", "SL closed"]
+          "keywords": [
+            "B",
+            "AV open",
+            "SL closed"
+          ],
+          "image": "/papers/wbi11-jan-2020/q2-2c_i.png"
         },
         {
           "id": "2c_ii",
@@ -81,13 +137,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "AV valves open and SL valves open" },
-            { "id": "B", "text": "AV valves open and SL valves closed" },
-            { "id": "C", "text": "AV valves closed and SL valves open" },
-            { "id": "D", "text": "AV valves closed and SL valves closed" }
+            {
+              "id": "A",
+              "text": "AV valves open and SL valves open"
+            },
+            {
+              "id": "B",
+              "text": "AV valves open and SL valves closed"
+            },
+            {
+              "id": "C",
+              "text": "AV valves closed and SL valves open"
+            },
+            {
+              "id": "D",
+              "text": "AV valves closed and SL valves closed"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "AV closed", "SL open"]
+          "keywords": [
+            "C",
+            "AV closed",
+            "SL open"
+          ],
+          "image": "/papers/wbi11-jan-2020/q2-2c_ii.png"
         },
         {
           "id": "2c_iii",
@@ -95,13 +168,30 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "AV valves open and SL valves open" },
-            { "id": "B", "text": "AV valves open and SL valves closed" },
-            { "id": "C", "text": "AV valves closed and SL valves open" },
-            { "id": "D", "text": "AV valves closed and SL valves closed" }
+            {
+              "id": "A",
+              "text": "AV valves open and SL valves open"
+            },
+            {
+              "id": "B",
+              "text": "AV valves open and SL valves closed"
+            },
+            {
+              "id": "C",
+              "text": "AV valves closed and SL valves open"
+            },
+            {
+              "id": "D",
+              "text": "AV valves closed and SL valves closed"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "AV open", "SL closed"]
+          "keywords": [
+            "B",
+            "AV open",
+            "SL closed"
+          ],
+          "image": "/papers/wbi11-jan-2020/q2-2c_iii.png"
         },
         {
           "id": "2d",
@@ -109,9 +199,18 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Heart rate increases / stroke volume increases / cardiac output increases",
-          "keywords": ["heart rate", "stroke volume", "cardiac output", "increases", "faster", "greater"]
+          "keywords": [
+            "heart rate",
+            "stroke volume",
+            "cardiac output",
+            "increases",
+            "faster",
+            "greater"
+          ],
+          "image": "/papers/wbi11-jan-2020/q2-2d.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2020/page-04.png"
     },
     {
       "id": "q3",
@@ -125,15 +224,29 @@
           "text": "The diagrams show symbols for lactase, lactose and the monosaccharides of lactose. Which diagram shows the sequence of events for the hydrolysis of lactose?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi11-jan2020/q3ai_lactase_sequence.png",
+          "image": "/papers/wbi11-jan-2020/q3-3a_i.png",
           "options": [
-            { "id": "A", "text": "Sequence A" },
-            { "id": "B", "text": "Sequence B" },
-            { "id": "C", "text": "Sequence C" },
-            { "id": "D", "text": "Sequence D" }
+            {
+              "id": "A",
+              "text": "Sequence A"
+            },
+            {
+              "id": "B",
+              "text": "Sequence B"
+            },
+            {
+              "id": "C",
+              "text": "Sequence C"
+            },
+            {
+              "id": "D",
+              "text": "Sequence D"
+            }
           ],
           "answer": "C",
-          "keywords": ["C"]
+          "keywords": [
+            "C"
+          ]
         },
         {
           "id": "3a_ii",
@@ -141,37 +254,74 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "fructose and sucrose" },
-            { "id": "B", "text": "galactose and glucose" },
-            { "id": "C", "text": "glucose and fructose" },
-            { "id": "D", "text": "sucrose and galactose" }
+            {
+              "id": "A",
+              "text": "fructose and sucrose"
+            },
+            {
+              "id": "B",
+              "text": "galactose and glucose"
+            },
+            {
+              "id": "C",
+              "text": "glucose and fructose"
+            },
+            {
+              "id": "D",
+              "text": "sucrose and galactose"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "galactose", "glucose"]
+          "keywords": [
+            "B",
+            "galactose",
+            "glucose"
+          ],
+          "image": "/papers/wbi11-jan-2020/q3-3a_ii.png"
         },
         {
           "id": "3b",
           "text": "The graph shows the energy changes for the hydrolysis of lactose, with and without lactase. Which row in the table describes line P and identifies the letter that shows the decrease in activation energy due to lactase?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi11-jan2020/q3b_energy_graph.png",
+          "image": "/papers/wbi11-jan-2020/q3-3b.png",
           "options": [
-            { "id": "A", "text": "Line P: reaction with enzyme; Decrease in activation energy: Q" },
-            { "id": "B", "text": "Line P: reaction with enzyme; Decrease in activation energy: R" },
-            { "id": "C", "text": "Line P: reaction without enzyme; Decrease in activation energy: Q" },
-            { "id": "D", "text": "Line P: reaction without enzyme; Decrease in activation energy: R" }
+            {
+              "id": "A",
+              "text": "Line P: reaction with enzyme; Decrease in activation energy: Q"
+            },
+            {
+              "id": "B",
+              "text": "Line P: reaction with enzyme; Decrease in activation energy: R"
+            },
+            {
+              "id": "C",
+              "text": "Line P: reaction without enzyme; Decrease in activation energy: Q"
+            },
+            {
+              "id": "D",
+              "text": "Line P: reaction without enzyme; Decrease in activation energy: R"
+            }
           ],
           "answer": "C",
-          "keywords": ["C"]
+          "keywords": [
+            "C"
+          ]
         },
         {
           "id": "3c_i",
           "text": "The graph shows the relationship between substrate concentration and the rate of reaction of lactase. Explain why substrate concentration affects the rate of reaction.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q3ci_substrate_graph.png",
+          "image": "/papers/wbi11-jan-2020/q3-3c_i.png",
           "answer": "More substrate means more collisions with enzyme active sites; at high substrate concentration all active sites are occupied / enzyme saturated",
-          "keywords": ["collisions", "active sites", "saturated", "enzyme-substrate complex", "occupied"]
+          "keywords": [
+            "collisions",
+            "active sites",
+            "saturated",
+            "enzyme-substrate complex",
+            "occupied"
+          ]
         },
         {
           "id": "3c_ii",
@@ -179,9 +329,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "40 a.u. (accept approximately 40 using Vmax=50, K=1 from graph)",
-          "keywords": ["40", "approx 40", "40 a.u."]
+          "keywords": [
+            "40",
+            "approx 40",
+            "40 a.u."
+          ],
+          "image": "/papers/wbi11-jan-2020/q3-3c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2020/page-09.png"
     },
     {
       "id": "q4",
@@ -195,9 +351,15 @@
           "text": "The graph shows the effect of temperature on the solubility of sodium chloride and glucose in water. Compare and contrast the effect of temperature on the solubilities of sodium chloride and glucose in water.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q4ai_solubility_graph.png",
+          "image": "/papers/wbi11-jan-2020/q4-4a_i.png",
           "answer": "Both solubilities increase with temperature; glucose solubility increases much more steeply than sodium chloride; sodium chloride solubility only increases slightly",
-          "keywords": ["both increase", "glucose increases more", "steeply", "sodium chloride slight increase", "less"]
+          "keywords": [
+            "both increase",
+            "glucose increases more",
+            "steeply",
+            "sodium chloride slight increase",
+            "less"
+          ]
         },
         {
           "id": "4a_ii",
@@ -205,7 +367,10 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "180 (C6H12O6 = 6×12 + 12×1 + 6×16 = 180)",
-          "keywords": ["180"]
+          "keywords": [
+            "180"
+          ],
+          "image": "/papers/wbi11-jan-2020/q4-4a_ii.png"
         },
         {
           "id": "4a_iii",
@@ -213,7 +378,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "3.08 (accept 3.1 / 3.07-3.09)",
-          "keywords": ["3.08", "3.1", "3.07", "3.09"]
+          "keywords": [
+            "3.08",
+            "3.1",
+            "3.07",
+            "3.09"
+          ],
+          "image": "/papers/wbi11-jan-2020/q4-4a_iii.png"
         },
         {
           "id": "4a_iv",
@@ -221,7 +392,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Sodium chloride is ionic and dissociates into ions; glucose is polar / forms hydrogen bonds but does not dissociate into ions",
-          "keywords": ["ionic", "dissociates", "ions", "polar", "hydrogen bonds", "covalent"]
+          "keywords": [
+            "ionic",
+            "dissociates",
+            "ions",
+            "polar",
+            "hydrogen bonds",
+            "covalent"
+          ],
+          "image": "/papers/wbi11-jan-2020/q4-4a_iv.png"
         },
         {
           "id": "4b",
@@ -229,9 +408,18 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Fatty acids are non-polar / hydrophobic / have long hydrocarbon chains; blood is mainly water / aqueous",
-          "keywords": ["non-polar", "hydrophobic", "hydrocarbon", "water", "aqueous", "insoluble"]
+          "keywords": [
+            "non-polar",
+            "hydrophobic",
+            "hydrocarbon",
+            "water",
+            "aqueous",
+            "insoluble"
+          ],
+          "image": "/papers/wbi11-jan-2020/q4-4b.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2020/page-12.png"
     },
     {
       "id": "q5",
@@ -239,7 +427,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "Paramecia are single-celled organisms that live in pond water. The photograph shows a single paramecium as seen using a light microscope.",
-      "image": "/papers/wbi11-jan2020/q5_paramecium_photo.png",
+      "image": "/papers/wbi11-jan-2020/page-15.png",
       "parts": [
         {
           "id": "5a_i",
@@ -247,7 +435,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Water potential of pond water is higher than inside the paramecium / water enters by osmosis down a water potential gradient",
-          "keywords": ["osmosis", "water potential", "higher outside", "hypotonic", "lower inside"]
+          "keywords": [
+            "osmosis",
+            "water potential",
+            "higher outside",
+            "hypotonic",
+            "lower inside"
+          ],
+          "image": "/papers/wbi11-jan-2020/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -255,16 +450,34 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Pumps out excess water; prevents cell bursting / lysis; maintains water balance / osmoregulation",
-          "keywords": ["pumps water out", "excess water", "bursting", "lysis", "osmoregulation", "water balance"]
+          "keywords": [
+            "pumps water out",
+            "excess water",
+            "bursting",
+            "lysis",
+            "osmoregulation",
+            "water balance"
+          ],
+          "image": "/papers/wbi11-jan-2020/q5-5a_ii.png"
         },
         {
           "id": "5b",
           "text": "In an investigation, paramecia were placed in three separate solutions: pond water, solution A and solution B. The number of times that the contractile vacuole pumped water out of the cell in 30-second intervals was recorded. The graphs show the results of this investigation. Explain the results of this investigation. Use the information in the graphs to support your answer.",
           "marks": 6,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q5b_contractile_vacuole_graphs.png",
+          "image": "/papers/wbi11-jan-2020/q5-5b.png",
           "answer": "Pond water: moderate pumping (~2/30s) as water potential difference is moderate; Solution A: less pumping (~1/30s) as water potential difference is lower / less water enters; Solution B: more pumping (~4/30s) as water potential difference is greater / more water enters; relates to osmosis and water potential gradients",
-          "keywords": ["pond water", "solution A", "solution B", "water potential", "osmosis", "pumping rate", "hypertonic", "hypotonic", "isotonic"]
+          "keywords": [
+            "pond water",
+            "solution A",
+            "solution B",
+            "water potential",
+            "osmosis",
+            "pumping rate",
+            "hypertonic",
+            "hypotonic",
+            "isotonic"
+          ]
         }
       ]
     },
@@ -274,7 +487,7 @@
       "type": "structured",
       "totalMarks": 12,
       "question": "A diet high in salt has been shown to increase the risk of some diseases. The graph shows the results of one study into the increased risk of death related to a diet high in salt. An increased risk of death is associated with a high hazard ratio.",
-      "image": "/papers/wbi11-jan2020/q6_salt_hazard_ratio.png",
+      "image": "/papers/wbi11-jan-2020/page-18.png",
       "parts": [
         {
           "id": "6a",
@@ -282,7 +495,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "High salt intake increases risk of death from all causes; coronary artery disease has the highest hazard ratio for high salt intake; low salt intake has hazard ratio of 1.00 for all causes",
-          "keywords": ["high salt", "increases risk", "coronary artery disease", "hazard ratio", "low salt", "1.00"]
+          "keywords": [
+            "high salt",
+            "increases risk",
+            "coronary artery disease",
+            "hazard ratio",
+            "low salt",
+            "1.00"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6a.png"
         },
         {
           "id": "6b_i",
@@ -290,7 +511,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Age and smoking are confounding variables; they also affect risk of death / cardiovascular disease; to ensure the effect measured is due to salt intake alone",
-          "keywords": ["confounding", "affect risk", "control", "isolating", "salt intake"]
+          "keywords": [
+            "confounding",
+            "affect risk",
+            "control",
+            "isolating",
+            "salt intake"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6b_i.png"
         },
         {
           "id": "6b_ii",
@@ -298,7 +526,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Gender / BMI / exercise / diet / alcohol / genetics / family history / socioeconomic status",
-          "keywords": ["gender", "BMI", "exercise", "diet", "alcohol", "genetics", "family history"]
+          "keywords": [
+            "gender",
+            "BMI",
+            "exercise",
+            "diet",
+            "alcohol",
+            "genetics",
+            "family history"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6b_ii.png"
         },
         {
           "id": "6c",
@@ -306,7 +543,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "1.00 is the baseline / reference value; low salt intake is the control group against which high salt intake is compared",
-          "keywords": ["baseline", "reference", "control", "compared", "standard"]
+          "keywords": [
+            "baseline",
+            "reference",
+            "control",
+            "compared",
+            "standard"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6c.png"
         },
         {
           "id": "6d_i",
@@ -314,7 +558,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "A relationship / association between two variables",
-          "keywords": ["relationship", "association", "linked", "connected"]
+          "keywords": [
+            "relationship",
+            "association",
+            "linked",
+            "connected"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6d_i.png"
         },
         {
           "id": "6d_ii",
@@ -322,7 +572,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Relies on self-reported data / difficult to control all variables / other lifestyle factors / does not show causation",
-          "keywords": ["self-reported", "controls", "causation", "variables", "lifestyle"]
+          "keywords": [
+            "self-reported",
+            "controls",
+            "causation",
+            "variables",
+            "lifestyle"
+          ],
+          "image": "/papers/wbi11-jan-2020/q6-6d_ii.png"
         }
       ]
     },
@@ -338,9 +595,14 @@
           "text": "State what is meant by the term partial pressure.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q7a_oxygen_dissociation.png",
+          "image": "/papers/wbi11-jan-2020/q7-7a_i.png",
           "answer": "The pressure exerted by a single gas in a mixture of gases",
-          "keywords": ["pressure", "single gas", "mixture", "proportion"]
+          "keywords": [
+            "pressure",
+            "single gas",
+            "mixture",
+            "proportion"
+          ]
         },
         {
           "id": "7a_ii",
@@ -348,16 +610,30 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Haemoglobin has four polypeptide chains / four haem groups; binding of first oxygen molecule causes conformational change / cooperativity; makes it easier for subsequent oxygen molecules to bind",
-          "keywords": ["four subunits", "cooperativity", "conformational change", "easier", "sigmoidal", "haem"]
+          "keywords": [
+            "four subunits",
+            "cooperativity",
+            "conformational change",
+            "easier",
+            "sigmoidal",
+            "haem"
+          ],
+          "image": "/papers/wbi11-jan-2020/q7-7a_ii.png"
         },
         {
           "id": "7b_i",
           "text": "The oxygen cascade describes the differences in the partial pressure of oxygen between different blood vessels and the external atmosphere. The graph shows the partial pressures of oxygen for a person at sea level and a person at high altitude. Suggest why the partial pressure of oxygen in the air in the alveoli is lower than in the atmosphere.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q7b_oxygen_cascade.png",
+          "image": "/papers/wbi11-jan-2020/q7-7b_i.png",
           "answer": "Air in alveoli is saturated with water vapour / mixed with carbon dioxide / warmed to body temperature",
-          "keywords": ["water vapour", "carbon dioxide", "humidified", "warmed", "diluted"]
+          "keywords": [
+            "water vapour",
+            "carbon dioxide",
+            "humidified",
+            "warmed",
+            "diluted"
+          ]
         },
         {
           "id": "7b_ii",
@@ -365,7 +641,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Oxygen diffuses from blood into tissues / cells for respiration; blood in veins has given up oxygen to tissues; metabolic activity consumes oxygen",
-          "keywords": ["diffuses", "tissues", "respiration", "consumes", "cells", "lower"]
+          "keywords": [
+            "diffuses",
+            "tissues",
+            "respiration",
+            "consumes",
+            "cells",
+            "lower"
+          ],
+          "image": "/papers/wbi11-jan-2020/q7-7b_ii.png"
         },
         {
           "id": "7b_iii",
@@ -373,7 +657,14 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Approximately 80% (accept 78-82%)",
-          "keywords": ["80", "78", "79", "81", "82"]
+          "keywords": [
+            "80",
+            "78",
+            "79",
+            "81",
+            "82"
+          ],
+          "image": "/papers/wbi11-jan-2020/q7-7b_iii.png"
         },
         {
           "id": "7b_iv",
@@ -381,9 +672,19 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Lower partial pressure of oxygen at high altitude; less oxygen available to bind to haemoglobin; lower percentage saturation; body compensates by increasing breathing rate / heart rate / red blood cell production",
-          "keywords": ["lower partial pressure", "less oxygen", "bind", "saturation", "compensates", "breathing rate", "red blood cells"]
+          "keywords": [
+            "lower partial pressure",
+            "less oxygen",
+            "bind",
+            "saturation",
+            "compensates",
+            "breathing rate",
+            "red blood cells"
+          ],
+          "image": "/papers/wbi11-jan-2020/q7-7b_iv.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-jan-2020/page-22.png"
     },
     {
       "id": "q8",
@@ -391,7 +692,7 @@
       "type": "structured",
       "totalMarks": 16,
       "question": "Cystic fibrosis is an inherited disorder. The diagrams show a cross section through a trachea from a person without cystic fibrosis and from a person with cystic fibrosis.",
-      "image": "/papers/wbi11-jan2020/q8_trachea_diagrams.png",
+      "image": "/papers/wbi11-jan-2020/page-27.png",
       "parts": [
         {
           "id": "8a_i",
@@ -399,7 +700,12 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Accept approximately 50% (measurement-dependent)",
-          "keywords": ["50", "measurement", "percentage decrease"]
+          "keywords": [
+            "50",
+            "measurement",
+            "percentage decrease"
+          ],
+          "image": "/papers/wbi11-jan-2020/q8-8a_i.png"
         },
         {
           "id": "8a_ii",
@@ -407,16 +713,34 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Mutated CFTR gene / defective chloride channel; chloride ions cannot leave cells; water potential of mucus decreases / osmosis draws water out of mucus; mucus becomes thick and sticky / accumulates; inflammation / bacterial infection; muscle becomes inflamed",
-          "keywords": ["CFTR", "chloride channel", "chloride ions", "water potential", "osmosis", "thick mucus", "sticky", "inflammation", "infection"]
+          "keywords": [
+            "CFTR",
+            "chloride channel",
+            "chloride ions",
+            "water potential",
+            "osmosis",
+            "thick mucus",
+            "sticky",
+            "inflammation",
+            "infection"
+          ],
+          "image": "/papers/wbi11-jan-2020/q8-8a_ii.png"
         },
         {
           "id": "8b",
           "text": "The diagram shows the genetic inheritance of cystic fibrosis in a family tree. Use the information in the diagram to calculate the probability that individual 9 is a carrier of the cystic fibrosis allele.",
           "marks": 4,
           "type": "short_answer",
-          "image": "/papers/wbi11-jan2020/q8b_pedigree.png",
+          "image": "/papers/wbi11-jan-2020/q8-8b.png",
           "answer": "2/3 (66.7%) - since individual 3 is affected (cc) and individual 4 is unaffected but must be a carrier (Cc) as they have affected offspring; individual 9 is unaffected so could be CC or Cc; probability of being a carrier is 2/3",
-          "keywords": ["2/3", "66.7", "carrier", "probability", "Cc", "CC"]
+          "keywords": [
+            "2/3",
+            "66.7",
+            "carrier",
+            "probability",
+            "Cc",
+            "CC"
+          ]
         },
         {
           "id": "8c",
@@ -424,9 +748,53 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Founder effect / genetic drift / population bottlenecks; limited gene pool in isolated populations; specific alleles become more common by chance; lack of genetic diversity",
-          "keywords": ["founder effect", "genetic drift", "bottleneck", "gene pool", "isolated", "alleles", "diversity"]
+          "keywords": [
+            "founder effect",
+            "genetic drift",
+            "bottleneck",
+            "gene pool",
+            "isolated",
+            "alleles",
+            "diversity"
+          ],
+          "image": "/papers/wbi11-jan-2020/q8-8c.png"
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2020-unit1-2020-01-qp.pdf",
+    "pageImages": [
+      "/papers/wbi11-jan-2020/page-01.png",
+      "/papers/wbi11-jan-2020/page-02.png",
+      "/papers/wbi11-jan-2020/page-03.png",
+      "/papers/wbi11-jan-2020/page-04.png",
+      "/papers/wbi11-jan-2020/page-05.png",
+      "/papers/wbi11-jan-2020/page-06.png",
+      "/papers/wbi11-jan-2020/page-07.png",
+      "/papers/wbi11-jan-2020/page-08.png",
+      "/papers/wbi11-jan-2020/page-09.png",
+      "/papers/wbi11-jan-2020/page-10.png",
+      "/papers/wbi11-jan-2020/page-11.png",
+      "/papers/wbi11-jan-2020/page-12.png",
+      "/papers/wbi11-jan-2020/page-13.png",
+      "/papers/wbi11-jan-2020/page-14.png",
+      "/papers/wbi11-jan-2020/page-15.png",
+      "/papers/wbi11-jan-2020/page-16.png",
+      "/papers/wbi11-jan-2020/page-17.png",
+      "/papers/wbi11-jan-2020/page-18.png",
+      "/papers/wbi11-jan-2020/page-19.png",
+      "/papers/wbi11-jan-2020/page-20.png",
+      "/papers/wbi11-jan-2020/page-21.png",
+      "/papers/wbi11-jan-2020/page-22.png",
+      "/papers/wbi11-jan-2020/page-23.png",
+      "/papers/wbi11-jan-2020/page-24.png",
+      "/papers/wbi11-jan-2020/page-25.png",
+      "/papers/wbi11-jan-2020/page-26.png",
+      "/papers/wbi11-jan-2020/page-27.png",
+      "/papers/wbi11-jan-2020/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
 }

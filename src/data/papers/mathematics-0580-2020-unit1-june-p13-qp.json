@@ -1,0 +1,73 @@
+{
+  "paperId": "mathematics-0580-2020-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit1-june-p13-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/13",
+  "session": "May/June 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6 p",
+          "image": "/papers/mathematics-0580-2020/q14-14a.png"
+        },
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "10 m",
+          "image": "/papers/mathematics-0580-2020/q14-14b.png"
+        },
+        {
+          "id": "14c",
+          "text": "Part 14c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "15 k 15 Rotation clockwise 90° [centre] (0, 0) 3 B1 for each 16 Correct common denominator M1 Correct method M1 e.g. − or 12 3 8 +− or () () ((3 4) 1) 32 324 ×+×− ×+× or 39 32 − cao A1 17 7.3 cao 4 M3 for 150 0.84 3.45 5 × × or B3 for final answer figs 73[04...] or M2 for 150 0.84 3.45 × or 3.45 5 0.84 × or M1 for 150 × 0.84 or 3.45 × 5 or 3.45 0.84 18 A 46.28 5 M1 for 5000 1.035× A1 for 6146.27 to 6146.28 M1 for 5000 × 1.22 A1 for 6100 70 30 × and 84 2 M1 for two of 70, 30, 5 used 20 28, 34− 4 Trial and improvement OR B1 for x + y = –6 oe B1 for x – y = 62 oe B1 for 28 or 34− May/June 2020 Question Answer Marks Partial Marks 21 141 or 141.3 to 141.4 4 M1 for [2 ×] π × 3 M2 for 2 × π × 3 × 4.5 or M1 for 2 × π × 3 [× 4.5]",
+          "image": "/papers/mathematics-0580-2020/q14-14c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/page-12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit1-2020-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/mathematics-0580-2020/page-01.png",
+      "/papers/mathematics-0580-2020/page-02.png",
+      "/papers/mathematics-0580-2020/page-03.png",
+      "/papers/mathematics-0580-2020/page-04.png",
+      "/papers/mathematics-0580-2020/page-05.png",
+      "/papers/mathematics-0580-2020/page-06.png",
+      "/papers/mathematics-0580-2020/page-07.png",
+      "/papers/mathematics-0580-2020/page-08.png",
+      "/papers/mathematics-0580-2020/page-09.png",
+      "/papers/mathematics-0580-2020/page-10.png",
+      "/papers/mathematics-0580-2020/page-11.png",
+      "/papers/mathematics-0580-2020/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

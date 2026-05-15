@@ -1,0 +1,43 @@
+{
+  "paperId": "wec11-jan-2022-unit2-qp",
+  "pairedMarkSchemeId": "wec11-jan-2022-unit2-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC12/01",
+  "session": "January 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Define the term ‘real GDP’ (Figure 1). (2) (b) With reference to Figure 2, explain the difference between disinflation and deflation. (4) (c) With r eference to Figure 1 and the first paragraph of Extract A, analyse two influences on the level of investment in the eurozone. (6) (d) Examine the likely effects of ‘the increase in the exchange rate of the euro against the US dollar’ (Ext",
+      "text": "12 (a) Define the term ‘real GDP’ (Figure 1). (2) (b) With reference to Figure 2, explain the difference between disinflation and deflation. (4) (c) With r eference to Figure 1 and the first paragraph of Extract A, analyse two influences on the level of investment in the eurozone. (6) (d) Examine the likely effects of ‘the increase in the exchange rate of the euro against the US dollar’ (Ext",
+      "parts": [
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative Skill Assessed QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms Knowledge, Application and Analysis (8 marks) – indicative content • The ECB’s monetary policy involved keeping interest rates at -1% and expanding ‘size of its quantitative easing programme’ by ‘€500 billion’. • An expansion of the ECB’s quantitative easing programme should: o inject liquidity into the financial system, making banks more willing to lend to consumers and firms: increasing consumption and investment o increase price of shares and property, creating positive wealth effects in the economy and increasing consumption; link to inequality o reduce the yield on domestic corporate bonds, lowering the borrowing costs for domestic firms, leading to increased investment • A very low/negative interest rate should increase AD as it will: o increase investment, as the cost of borrowing to finance investment falls/becomes negative reducing firms cost of production – there are currently “significantly lower levels of investment” o increase the net trade balance as it will put downward pressure on the euro exchange rate, meaning exports become relatively cheaper, and imports become relatively more expensive – “the euro traded at its highest level against the US dollar for more than two years” o increase consumption, as it will: ▪ incentivise spending as cost of borrowing falls ▪ disincentivise saving as the reward for saving falls o raise spending as consumers with variable rate loans/mortgages see monthly interest repayments fall, increasing discretionary incomes • AD shifts outwards leading to (may be shown diagrammatically",
+          "image": "/papers/wec11-jan-2022/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-jan-2022/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-jan-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2022-unit2-2022-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

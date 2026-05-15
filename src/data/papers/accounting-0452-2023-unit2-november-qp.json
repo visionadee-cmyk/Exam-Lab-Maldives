@@ -1,0 +1,43 @@
+{
+  "paperId": "accounting-0452-2023-unit2-november-qp",
+  "pairedMarkSchemeId": "accounting-0452-2023-unit2-november-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/22",
+  "session": "October/November 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error Entries required to correct the error Debit Credit Account $ Account $ A payment for rent, $350, had been debited to the wages account. The sales journal for September had been overcast by $90. Sales returns, $110, had been recorded as purchases returns. A payment for office expenses, $18, had been recorded in the office expenses account as $81. A petty cash book payment, $29, to Cole, a supplier, had been recorded in the column for motor expenses. Rent payable Sales Purchases returns Sales returns Suspense Cole 90 (1) 110 (1) 110 (1) 63 (1) 29 (1) Wages Suspense Suspense Office expenses Motor expenses 90 (1) 220 (1) 63 (1) 29 (1) Suspense account Date Sep 30 Details Difference on trial balance (1)OF Office expenses (1) $ Date Sept 30 Details Sales (1) Purchases returns (1) Sales returns (1) $ October/November 2023 Question Answer Marks Draft profit 18 243 Add: Office expenses 63 (1) Motor expenses 29 (1) 92 18 335 Less: Sales 90 (1) Purchases returns 110 } Sales returns 110 }(1) (310) Corrected profit 18 025 (1)OF October/November 2023 Question Answer Marks () −+− == 98 4206 175 78 130 6 265 20 380 98 42098 420 (1)  100 = 20.71% (1)OF Profit margin () − == 20 380 11325 9 055 98 42098 420 (1)OF x 100 = 9.20% (1)OF Return on capital employed () = = 9 055 100 7.24% 125 000 OF (1)OF Rate of inventory turnover ()() ()() +− === + 6 175 78 130 6 265 78 040 12.55 times 6 175 6 265 / 26 220 (1)OF Liquid ratio = 992/4 880 (1) = 0.20:1 (1)OF Reduction in gross profit margin may result in a lower gross profit OR increase in sales my result in a higher gross profit (1) The profit for the year or profit margin will reduce because of the increase in (advertising) expenses OR the profit for the year may increase because of the increase in gross profit / increase in sales from extra advertising (1) Selling her inventory faster does not mean her sales will be more than her competitor (1) Needs to sell more inventory to significantly increase profit (1) Accept other valid poi",
+          "image": "/papers/accounting-0452-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/accounting-0452-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2023-unit2-2023-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

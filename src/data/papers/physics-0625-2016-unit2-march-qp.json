@@ -1,0 +1,648 @@
+{
+  "paperId": "physics-0625-2016-unit2-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit2-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/22",
+  "session": "February/March 2016",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diameter of a copper wire is thought to be approximately 0.3 mm. Which instrument should be used to obtain a more accurate measurement of the diameter of the wire? A measuring tape, B metre rule, C micrometer, D ruler",
+      "text": "The diameter of a copper wire is thought to be approximately 0.3 mm. Which instrument should be used to obtain a more accurate measurement of the diameter of the wire? A measuring tape, B metre rule, C micrometer, D ruler",
+      "options": [
+        "A measuring tape",
+        "B metre rule",
+        "C micrometer",
+        "D ruler"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which is a unit of acceleration? A g / cm 3, B m / s C m / s 2, D N / m",
+      "text": "Which is a unit of acceleration? A g / cm 3, B m / s C m / s 2, D N / m",
+      "options": [
+        "A g / cm 3",
+        "B m / s C m / s 2",
+        "D N / m"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An  object  is  released  from  rest  and  falls  to  Earth.  During  its  fall,  the  object  is  affected  by  air resistance. The air resistance eventually reaches a constant value. Which description about successive stages of the motion of the object is correct? A constant acceleration, then constant deceleration, B constant deceleration, then zero acceleration, C decreasing acceleration, then constant deceleration, D decreasing acceleration, then zero acceleration",
+      "text": "An  object  is  released  from  rest  and  falls  to  Earth.  During  its  fall,  the  object  is  affected  by  air resistance. The air resistance eventually reaches a constant value. Which description about successive stages of the motion of the object is correct? A constant acceleration, then constant deceleration, B constant deceleration, then zero acceleration, C decreasing acceleration, then constant deceleration, D decreasing acceleration, then zero acceleration",
+      "options": [
+        "A constant acceleration, then constant deceleration",
+        "B constant deceleration, then zero acceleration",
+        "C decreasing acceleration, then constant deceleration",
+        "D decreasing acceleration, then zero acceleration"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A concrete post is carried up a very high mountain. At the top of the mountain, the gravitational field is slightly weaker than at the bottom. What is the effect of this weaker field on the mass and on the weight of the post at the top of the mountain? mass          weight A is less is less, B is less is unchanged, C is unchanged is less, D is unchanged    is unchanged 3",
+      "text": "A concrete post is carried up a very high mountain. At the top of the mountain, the gravitational field is slightly weaker than at the bottom. What is the effect of this weaker field on the mass and on the weight of the post at the top of the mountain? mass          weight A is less is less, B is less is unchanged, C is unchanged is less, D is unchanged    is unchanged 3",
+      "options": [
+        "A is less is less",
+        "B is less is unchanged",
+        "C is unchanged is less",
+        "D is unchanged    is unchanged 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a cuboid block made from a metal of density 2.5 g / cm 3 . 2.0 cm 2.0 cm 10 cm What is the mass of the block? A 8.0 g B 16 g C 50 g D 100 g",
+      "text": "The diagram shows a cuboid block made from a metal of density 2.5 g / cm 3 . 2.0 cm 2.0 cm 10 cm What is the mass of the block? A 8.0 g B 16 g C 50 g D 100 g",
+      "options": [
+        "A 8.0 g B 16 g C 50 g D 100 g"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  an  object  moving  at  a  constant  speed  in  a  circular  path  in  the  direction shown. A force acts on the object to keep it in the circular path. In which labelled direction does this force act, when the object is in the position shown? A C DB object path of object 4",
+      "text": "The  diagram  shows  an  object  moving  at  a  constant  speed  in  a  circular  path  in  the  direction shown. A force acts on the object to keep it in the circular path. In which labelled direction does this force act, when the object is in the position shown? A C DB object path of object 4",
+      "options": [
+        "A force acts on the object to keep it in the circular path. In which labelled direction does this force act, when the object is in the position shown? A C DB object path of object 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A spring obeys Hooke’s law. Which graph is obtained by plotting the extension of the spring against the load applied? extension 0 0 load B extension 0 0 load C extension 0 0 load D extension 0 0 load A",
+      "text": "A spring obeys Hooke’s law. Which graph is obtained by plotting the extension of the spring against the load applied? extension 0 0 load B extension 0 0 load C extension 0 0 load D extension 0 0 load A",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which is the value of a vector quantity? A 200 V, B 100 kg / m 3, C 20 m / s, east, D 50 J / (kg °C)",
+      "text": "Which is the value of a vector quantity? A 200 V, B 100 kg / m 3, C 20 m / s, east, D 50 J / (kg °C)",
+      "options": [
+        "A 200 V",
+        "B 100 kg / m 3",
+        "C 20 m / s, east",
+        "D 50 J / (kg °C)"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table gives four energy sources and states whether the energy of the source is derived from the Sun. Which row is correct? source of energy derived from the Sun A geothermal                 yes, B oil                     no, C water held behind a dam yes, D wind                    no 5",
+      "text": "The table gives four energy sources and states whether the energy of the source is derived from the Sun. Which row is correct? source of energy derived from the Sun A geothermal                 yes, B oil                     no, C water held behind a dam yes, D wind                    no 5",
+      "options": [
+        "A geothermal                 yes",
+        "B oil                     no",
+        "C water held behind a dam yes",
+        "D wind                    no 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A weight-lifter raises a 2000 N weight through a vertical height of 2.0 m in 0.80 s. What useful power does he develop in doing this? A 800 W B 3200 W C 4000 W D 5000 W",
+      "text": "A weight-lifter raises a 2000 N weight through a vertical height of 2.0 m in 0.80 s. What useful power does he develop in doing this? A 800 W B 3200 W C 4000 W D 5000 W",
+      "options": [
+        "A 800 W B 3200 W C 4000 W D 5000 W"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A wind turbine generates 54 kW of useful power from an input of 180 kW of wind power. Which calculation gives the percentage efficiency of the turbine? A 100  000180 00054 × % B 100  00054 000180 × % C 000180 100  00054 × % D 00054 100  000180 × %",
+      "text": "A wind turbine generates 54 kW of useful power from an input of 180 kW of wind power. Which calculation gives the percentage efficiency of the turbine? A 100  000180 00054 × % B 100  00054 000180 × % C 000180 100  00054 × % D 00054 100  000180 × %",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A force acts on an area to produce a pressure. Which changes produce the same pressure? A double the area and double the force, B double the area and halve the force, C double the area and make the force four times bigger, D halve the area and double the force 6",
+      "text": "A force acts on an area to produce a pressure. Which changes produce the same pressure? A double the area and double the force, B double the area and halve the force, C double the area and make the force four times bigger, D halve the area and double the force 6",
+      "options": [
+        "A double the area and double the force",
+        "B double the area and halve the force",
+        "C double the area and make the force four times bigger",
+        "D halve the area and double the force 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Identical toy bricks are placed one on top of another to make a tower on a table. bricks tower of bricks table Which graph shows the relationship between the pressure P that the tower exerts on the table and the weight W of the tower? A P W 0 0 B P W 0 0 C P W 0 0 D P W 0 0",
+      "text": "Identical toy bricks are placed one on top of another to make a tower on a table. bricks tower of bricks table Which graph shows the relationship between the pressure P that the tower exerts on the table and the weight W of the tower? A P W 0 0 B P W 0 0 C P W 0 0 D P W 0 0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Gases can be compressed, but liquids cannot. Which statement explains this difference? A Each molecule in a gas is more compressible than each molecule in a liquid., B Molecules in a gas are further apart than molecules in a liquid., C Molecules in a gas attract each other more strongly than molecules in a liquid., D Molecules in a gas move more slowly than molecules in a liquid. 7",
+      "text": "Gases can be compressed, but liquids cannot. Which statement explains this difference? A Each molecule in a gas is more compressible than each molecule in a liquid., B Molecules in a gas are further apart than molecules in a liquid., C Molecules in a gas attract each other more strongly than molecules in a liquid., D Molecules in a gas move more slowly than molecules in a liquid. 7",
+      "options": [
+        "A Each molecule in a gas is more compressible than each molecule in a liquid.",
+        "B Molecules in a gas are further apart than molecules in a liquid.",
+        "C Molecules in a gas attract each other more strongly than molecules in a liquid.",
+        "D Molecules in a gas move more slowly than molecules in a liquid. 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a quantity of gas trapped in a cylinder. The piston is pushed in slowly and the gas is compressed. The temperature of the gas does not change. gas piston piston pushed in Which graph shows the relationship between the pressure and the volume of the gas? A pressure volume 0 0 B pressure volume 0 0 C pressure volume 0 0 D pressure volume 0 0",
+      "text": "The diagram shows a quantity of gas trapped in a cylinder. The piston is pushed in slowly and the gas is compressed. The temperature of the gas does not change. gas piston piston pushed in Which graph shows the relationship between the pressure and the volume of the gas? A pressure volume 0 0 B pressure volume 0 0 C pressure volume 0 0 D pressure volume 0 0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which quantity gives the thermal capacity of a solid object? A the energy lost by radiation from the object in 1.0 s, B the energy needed to melt the object, C the energy needed to raise the temperature of the object by 1.0 °C, D the total amount of thermal energy in the object 8",
+      "text": "Which quantity gives the thermal capacity of a solid object? A the energy lost by radiation from the object in 1.0 s, B the energy needed to melt the object, C the energy needed to raise the temperature of the object by 1.0 °C, D the total amount of thermal energy in the object 8",
+      "options": [
+        "A the energy lost by radiation from the object in 1.0 s",
+        "B the energy needed to melt the object",
+        "C the energy needed to raise the temperature of the object by 1.0 °C",
+        "D the total amount of thermal energy in the object 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To mark a temperature scale on a thermometer, standard temperatures known as fixed points are needed. Which of these is a fixed point on the Celsius scale? A room temperature, B the temperature inside a freezer, C the temperature of pure melting ice, D the temperature of pure warm water",
+      "text": "To mark a temperature scale on a thermometer, standard temperatures known as fixed points are needed. Which of these is a fixed point on the Celsius scale? A room temperature, B the temperature inside a freezer, C the temperature of pure melting ice, D the temperature of pure warm water",
+      "options": [
+        "A room temperature",
+        "B the temperature inside a freezer",
+        "C the temperature of pure melting ice",
+        "D the temperature of pure warm water"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an experiment, a liquid is heated at a constant rate. The temperature of the liquid increases and eventually becomes constant. Which statement about the experiment is correct? A Boiling occurs at all temperatures but only on the liquid surface., B Boiling occurs throughout the liquid but only at the constant temperature., C Evaporation occurs throughout the liquid and at all temperatures., D Evaporation occurs only at the constant temperature and only on the liquid surface.",
+      "text": "In an experiment, a liquid is heated at a constant rate. The temperature of the liquid increases and eventually becomes constant. Which statement about the experiment is correct? A Boiling occurs at all temperatures but only on the liquid surface., B Boiling occurs throughout the liquid but only at the constant temperature., C Evaporation occurs throughout the liquid and at all temperatures., D Evaporation occurs only at the constant temperature and only on the liquid surface.",
+      "options": [
+        "A Boiling occurs at all temperatures but only on the liquid surface.",
+        "B Boiling occurs throughout the liquid but only at the constant temperature.",
+        "C Evaporation occurs throughout the liquid and at all temperatures.",
+        "D Evaporation occurs only at the constant temperature and only on the liquid surface."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? A Free electrons transfer energy from the cooler end to the hotter end., B Free electrons transfer energy from the hotter end to the cooler end., C Molecules of copper move from the cooler end to the hotter end., D Molecules of copper move from the hotter end to the cooler end. 9",
+      "text": "One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? A Free electrons transfer energy from the cooler end to the hotter end., B Free electrons transfer energy from the hotter end to the cooler end., C Molecules of copper move from the cooler end to the hotter end., D Molecules of copper move from the hotter end to the cooler end. 9",
+      "options": [
+        "A Free electrons transfer energy from the cooler end to the hotter end.",
+        "B Free electrons transfer energy from the hotter end to the cooler end.",
+        "C Molecules of copper move from the cooler end to the hotter end.",
+        "D Molecules of copper move from the hotter end to the cooler end. 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two plastic cups are placed one inside the other. A small spacer keeps the two cups separated. Hot water is poured into the inner cup and a lid is put on top, as shown. lid small spacer small air gap hot water bench Which statement is correct? A The bench is heated by convection from the bottom of the outer cup., B The lid reduces the energy lost by convection., C There is no thermal conduction through the sides of either cup., D Thermal radiation is prevented by the small air gap.",
+      "text": "Two plastic cups are placed one inside the other. A small spacer keeps the two cups separated. Hot water is poured into the inner cup and a lid is put on top, as shown. lid small spacer small air gap hot water bench Which statement is correct? A The bench is heated by convection from the bottom of the outer cup., B The lid reduces the energy lost by convection., C There is no thermal conduction through the sides of either cup., D Thermal radiation is prevented by the small air gap.",
+      "options": [
+        "A The bench is heated by convection from the bottom of the outer cup.",
+        "B The lid reduces the energy lost by convection.",
+        "C There is no thermal conduction through the sides of either cup.",
+        "D Thermal radiation is prevented by the small air gap."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which is a unit of wavelength? A hertz, B metre, C metre per second, D second 10",
+      "text": "Which is a unit of wavelength? A hertz, B metre, C metre per second, D second 10",
+      "options": [
+        "A hertz",
+        "B metre",
+        "C metre per second",
+        "D second 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram correctly shows a ray of light reflected by a plane mirror? 40° ray of light 50° A 40° ray of light 50° B 40° 40° ray of light C ray of light 50° 50° D 11",
+      "text": "Which diagram correctly shows a ray of light reflected by a plane mirror? 40° ray of light 50° A 40° ray of light 50° B 40° 40° ray of light C ray of light 50° 50° D 11",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows how a converging lens is used as a magnifying glass? lens F A B Fobject image lens F C F object image D lens FF object image lens FF image object 12",
+      "text": "Which diagram shows how a converging lens is used as a magnifying glass? lens F A B Fobject image lens F C F object image D lens FF object image lens FF image object 12",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sound wave travels from a point X to a point Y. XY Which diagram represents the movement of the air molecules, due to the sound wave, in the region between X and Y? DCB A",
+      "text": "A sound wave travels from a point X to a point Y. XY Which diagram represents the movement of the air molecules, due to the sound wave, in the region between X and Y? DCB A",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The speed of sound in air is 340 m / s. Which row gives typical values for the speed of sound in a liquid and in a solid? speed of sound in a liquid / (m / s) speed of sound in a solid / (m / s) A 250   180, B 250 5000, C 1500   180, D 1500             5000",
+      "text": "The speed of sound in air is 340 m / s. Which row gives typical values for the speed of sound in a liquid and in a solid? speed of sound in a liquid / (m / s) speed of sound in a solid / (m / s) A 250   180, B 250 5000, C 1500   180, D 1500             5000",
+      "options": [
+        "A 250   180",
+        "B 250 5000",
+        "C 1500   180",
+        "D 1500             5000"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In which pair are both materials magnetic? A aluminium and copper, B copper and iron, C iron and steel, D steel and aluminium",
+      "text": "In which pair are both materials magnetic? A aluminium and copper, B copper and iron, C iron and steel, D steel and aluminium",
+      "options": [
+        "A aluminium and copper",
+        "B copper and iron",
+        "C iron and steel",
+        "D steel and aluminium"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which methods could be used to demagnetise a magnet? method 1: place it in an east-west direction and hammer it method 2: place it in an east-west direction and heat it until it is red hot method 3: pull it slowly from a coil that is carrying an alternating current method 4: put it slowly into a coil that is carrying a direct current A methods 1, 2 and 3, B methods 2, 3 and 4, C methods 1 and 2 only, D methods 3 and 4 only 13",
+      "text": "Which methods could be used to demagnetise a magnet? method 1: place it in an east-west direction and hammer it method 2: place it in an east-west direction and heat it until it is red hot method 3: pull it slowly from a coil that is carrying an alternating current method 4: put it slowly into a coil that is carrying a direct current A methods 1, 2 and 3, B methods 2, 3 and 4, C methods 1 and 2 only, D methods 3 and 4 only 13",
+      "options": [
+        "A methods 1, 2 and 3",
+        "B methods 2, 3 and 4",
+        "C methods 1 and 2 only",
+        "D methods 3 and 4 only 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which produces an electromotive force (e.m.f.)? A a battery, B a filament lamp, C a resistor, D a spring balance",
+      "text": "Which produces an electromotive force (e.m.f.)? A a battery, B a filament lamp, C a resistor, D a spring balance",
+      "options": [
+        "A a battery",
+        "B a filament lamp",
+        "C a resistor",
+        "D a spring balance"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table describes four different resistance wires. They are all made from the same metal. Which wire has the smallest resistance? length of wire / m diameter of wire / mm A 2.0            1.0, B 2.0            1.5, C 3.0            1.0, D 3.0            1.5",
+      "text": "The table describes four different resistance wires. They are all made from the same metal. Which wire has the smallest resistance? length of wire / m diameter of wire / mm A 2.0            1.0, B 2.0            1.5, C 3.0            1.0, D 3.0            1.5",
+      "options": [
+        "A 2.0            1.0",
+        "B 2.0            1.5",
+        "C 3.0            1.0",
+        "D 3.0            1.5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which circuit shows the directions of the conventional current I and the flow of electrons? electrons I A electrons I B electrons I C electrons I D 14",
+      "text": "Which circuit shows the directions of the conventional current I and the flow of electrons? electrons I A electrons I B electrons I C electrons I D 14",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four lamps are each labelled 240 V. In which circuit do all four lamps have normal brightness? 240 V A 240 V B 240 V C 240 V D",
+      "text": "Four lamps are each labelled 240 V. In which circuit do all four lamps have normal brightness? 240 V A 240 V B 240 V C 240 V D",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  battery  charger  plugs  into  a  230 V  a.c.  supply.  The  charger  is  used  to  charge  a  6.0 V d.c. battery. The charger contains diodes and a transformer. What is the purpose of these components? diodes             transformer A rectify the a.c. steps down the voltage, B rectify the a.c. steps up the voltage, C step down the voltage rectifies the a.c., D step up the voltage rectifies the a.c. 15",
+      "text": "A  battery  charger  plugs  into  a  230 V  a.c.  supply.  The  charger  is  used  to  charge  a  6.0 V d.c. battery. The charger contains diodes and a transformer. What is the purpose of these components? diodes             transformer A rectify the a.c. steps down the voltage, B rectify the a.c. steps up the voltage, C step down the voltage rectifies the a.c., D step up the voltage rectifies the a.c. 15",
+      "options": [
+        "A rectify the a.c. steps down the voltage",
+        "B rectify the a.c. steps up the voltage",
+        "C step down the voltage rectifies the a.c.",
+        "D step up the voltage rectifies the a.c. 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a potential divider connected to two voltmeters P and Q. V voltmeter Q V voltmeter P The resistance of the variable resistor is decreased. Which row shows what happens to the reading on each voltmeter? reading on voltmeter P reading on voltmeter Q A decreases      decreases, B decreases      increases, C increases      decreases, D increases       increases",
+      "text": "The diagram shows a potential divider connected to two voltmeters P and Q. V voltmeter Q V voltmeter P The resistance of the variable resistor is decreased. Which row shows what happens to the reading on each voltmeter? reading on voltmeter P reading on voltmeter Q A decreases      decreases, B decreases      increases, C increases      decreases, D increases       increases",
+      "options": [
+        "A decreases      decreases",
+        "B decreases      increases",
+        "C increases      decreases",
+        "D increases       increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "After some building work in a house, a bare (uninsulated) live wire is left protruding from a wall. What is the greatest hazard? A a fire, B a fuse blows, C an electric shock, D no current flows 16",
+      "text": "After some building work in a house, a bare (uninsulated) live wire is left protruding from a wall. What is the greatest hazard? A a fire, B a fuse blows, C an electric shock, D no current flows 16",
+      "options": [
+        "A a fire",
+        "B a fuse blows",
+        "C an electric shock",
+        "D no current flows 16"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An electron moves into a uniform magnetic field. The arrow shows the initial direction of motion of the electron. The direction of the magnetic field is into the plane of the page (away from you). uniform magnetic field electron In which direction does a force act on the electron when it enters the magnetic field? A into the page, B out of the page, C towards the bottom of the page, D towards the top of the page",
+      "text": "An electron moves into a uniform magnetic field. The arrow shows the initial direction of motion of the electron. The direction of the magnetic field is into the plane of the page (away from you). uniform magnetic field electron In which direction does a force act on the electron when it enters the magnetic field? A into the page, B out of the page, C towards the bottom of the page, D towards the top of the page",
+      "options": [
+        "A into the page",
+        "B out of the page",
+        "C towards the bottom of the page",
+        "D towards the top of the page"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an a.c. generator. NS coil output voltage rotation of coil As the coil passes through the position shown, the output voltage is +10 V. When does the output voltage become –10 V? A when the coil has turned through 90°, B when the coil has turned through 180°, C when the coil has turned through 270°, D when the coil has turned through 360° 17",
+      "text": "The diagram shows an a.c. generator. NS coil output voltage rotation of coil As the coil passes through the position shown, the output voltage is +10 V. When does the output voltage become –10 V? A when the coil has turned through 90°, B when the coil has turned through 180°, C when the coil has turned through 270°, D when the coil has turned through 360° 17",
+      "options": [
+        "A when the coil has turned through 90°",
+        "B when the coil has turned through 180°",
+        "C when the coil has turned through 270°",
+        "D when the coil has turned through 360° 17"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The scattering of α-particles by a thin metal foil supports the nuclear model of an atom. Why are α-particles used rather than neutrons? A because they always travel more slowly, B because they are heavier, C because they are larger in diameter, D because they have a positive charge",
+      "text": "The scattering of α-particles by a thin metal foil supports the nuclear model of an atom. Why are α-particles used rather than neutrons? A because they always travel more slowly, B because they are heavier, C because they are larger in diameter, D because they have a positive charge",
+      "options": [
+        "A because they always travel more slowly",
+        "B because they are heavier",
+        "C because they are larger in diameter",
+        "D because they have a positive charge"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A nucleus of a radioactive substance Po 218 84 undergoes an α-decay followed by a β-decay. What are the nucleon (mass) number and proton (atomic) number of the nuclide formed after both decays have happened? nucleon number    proton number A 214             85, B 216             85, C 214             83, D 216             83",
+      "text": "A nucleus of a radioactive substance Po 218 84 undergoes an α-decay followed by a β-decay. What are the nucleon (mass) number and proton (atomic) number of the nuclide formed after both decays have happened? nucleon number    proton number A 214             85, B 216             85, C 214             83, D 216             83",
+      "options": [
+        "A 214             85",
+        "B 216             85",
+        "C 214             83",
+        "D 216             83"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A scientist carries out an experiment using a sealed source which emits β-particles. The range of the β-particles in the air is about 30 cm. Which precaution is the most effective to protect the scientist from the radiation? A handling the source with long tongs, B keeping the temperature of the source low, C opening all windows in the laboratory, D washing his hands before leaving the laboratory",
+      "text": "A scientist carries out an experiment using a sealed source which emits β-particles. The range of the β-particles in the air is about 30 cm. Which precaution is the most effective to protect the scientist from the radiation? A handling the source with long tongs, B keeping the temperature of the source low, C opening all windows in the laboratory, D washing his hands before leaving the laboratory",
+      "options": [
+        "A handling the source with long tongs",
+        "B keeping the temperature of the source low",
+        "C opening all windows in the laboratory",
+        "D washing his hands before leaving the laboratory"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the nature of α-particles and of γ-rays? α-particles γ-rays A helium nuclei electromagnetic radiation, B helium nuclei electrons, C protons        electromagnetic        radiation, D protons              electrons 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "Which row describes the nature of α-particles and of γ-rays? α-particles γ-rays A helium nuclei electromagnetic radiation, B helium nuclei electrons, C protons        electromagnetic        radiation, D protons              electrons 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A helium nuclei electromagnetic radiation",
+        "B helium nuclei electrons",
+        "C protons        electromagnetic        radiation",
+        "D protons              electrons 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge International Examinations Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cie.org.uk after the live examination series. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2016/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit2-2016-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-may-2025-unit2-qp",
+  "pairedMarkSchemeId": "wph11-may-2025-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "May 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푅푅= 푉푉 퐼퐼 to calculate I Use of V = IR with V = 0.1V to calculate internal resistance r = 0.71 Ω (1) (1) (1) Example of calculation 퐼퐼= 1.4 V 10 Ω = 0.14 퐴퐴 푟푟= 0.1 V 0.14 A = 0.71 Ω battery) Or When going up a hill more power is required (from the bicycle motor / battery). P = IV so the current increases Or 푃푃= 퐼퐼 R so the current increases And the p.d. across the internal resistance increases Energy transferred as thermal energy due to internal resistance increases (and battery gets hot) (1) (1) (1) (1) Accept energy for work done (Total for Question 14 = 7 marks) Number Acceptable Answer Additional Guidance Mark Passing through a gap or around an object (1) (1) Accept slit for gap Use of 푉푉= 푊푊 푄푄 Use of 퐸퐸 k = 푚푚푣푣 Use of 휆휆= ℎ 휌휌 휆휆= 1.75×10 −11 (m) (1) (1) (1) (1) Example of calculation W = 4.9 ×10 V × 1.6 ×10 −19 C = 7.84×10 −16 J v = � 7.84 × 10 −16 J × 2 9.11 × 10 −31 kg = 4.15×10 m s −1 λ = 6.63 × 10 −34 J s 9.11 × 10 −31 kg × 4.15 × 10 m s −1 λ = 1.75×10 −11 m U se of 푛푛휆휆 =푑푑 sin훳훳 훳훳= 0 .001° (this angle is very small) so not clearly visible (allow ecf from (b)(i)) (1) (1) (1) Accept 훳훳= (1 × 10 −3 )° Example of calculation d = ×10 −2 m = 2 ×10 −6 m sin훳훳= 2 × 1.8 ×10 −11 m 2 ×10 −6 m = 0.000018 훳훳=0.00103° (Total for Question 15 = 9 marks) Number Acceptable Answer Additional Guidance Mark battery) (1) Accept: 6 V is the potential difference between the terminals of the battery if no current is drawn Terminal potential difference is 6 V (since internal resistance is negligible) p.d across 200 Ω resistor = 6.00 − 1.64 (= 4.36 V) Use of 푅푅= 푉푉 퐼퐼 Or Ratio of resistance = ratio of p.d. 퐼퐼=22 (mA) (1) (1) (1) Example of calculation 200 Ω= 4.36 V 퐼퐼 퐼퐼= 4.36 V 200 Ω = 2.18×10 −2 (A) Use of 푅푅= 푉푉 퐼퐼 for resistance of parallel section Or Use of 푅푅= 푉푉 퐼퐼 for resistance of total circuit and subtract 200 Ω Use of resistors in parallel equation. 푅푅 X =304 Ω (Allow ecf from (b)(i)) OR Use of 푅푅= 푉푉 퐼퐼 for current in 100 Ω resistor Use of 퐼퐼 tot =퐼퐼 +퐼퐼 for",
+          "image": "/papers/wph11-may-2025/q14-14a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2025/q14.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

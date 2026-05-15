@@ -1,0 +1,77 @@
+{
+  "paperId": "wma14-oct-2021-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-oct-2021-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "October 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 xx− =−× B1 ( ) x×− × − or ( ) 3! x×− ×− × − M1 1 224...xxx=−−−+ A1, A1 (4) (b) Substitutes x= into both sides of (a) e.g.    ≈−× −−       M1 3 1.7324≈ cao A1 (2) (6 marks) (a) B1: Correct first two terms which does not need to be simplified, so x+ ×− is fine. M1: Correct attempt at the binomial expansion for term 3 or term 4. Look for ( ) x×− × ± or ( ) 3! x×− ×− × ± but condone a failure to square or cube the 4 (i.e. missing brackets) Also award this mark for candidates who mistakenly attempt the binomial expansion of 14x− to produce either () x ×− ± or () 3! x ×− ×− ± Or 1x− to produce either x ×−  ±   or 3! x ×− ×−  ±   A1: Two correct and simplified terms of 2,2,4xxx−− − A1: 1224xxx−−− or exact simplified equivalent such as ()()() 1224xxx+− +− +− Ignore any additional terms. This may be given separately as a list. 1,2,2,4xxx−−− (b) M1: Substitutes x= into both sides of (a) and achieves LHS of or It would be implied by () 3= 2 their'' 1 224''     ×−× −−          A1: 1.7324 Correct answer only here. This is not awrt Note that the calculator answer is 1.7321 Alt (a) It is possible to attempt part (a) as follows but it would be very unusual to get the terms up to x ()() 141212xx x− =− ×+ 1...1....1..... xx xxx x  =−−− ×+−+ =   Score M1 for such an attempt and award the other marks as in the main scheme. As is the main scheme look for a correct attempt at a term 3 or 4 in either bracket followed by an attempt to multiply out Number Scheme 5 (a) d d16 sectan d 8 tan d d 2 sec d y ytt t t x x t t === M1 A1 At 3, tan1xt==−⇒ Gradient = −8 dM1 A1 (4) (b) Attempts to use ( ) 1 tansec1 x y tt − + = ⇒+= M1 A1 () 2 58yx= −+ A1 (3) (c) 8f32„„ M1 A1 (2) (9 marks) (a) M1: Attempts to use the rule d d d d d d y y t x x t = . Condone incorrect attempts on d d y t and d d x t A1: A correct expression for d16 sectan d 2 sec ytt x t = or unsimplified equivalent. Note that there may be many different versions of th",
+          "image": "/papers/wma14-oct-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2021/page-09.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wma14-oct-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2021-unit1-2021-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-oct-2021/page-01.png",
+      "/papers/wma14-oct-2021/page-02.png",
+      "/papers/wma14-oct-2021/page-03.png",
+      "/papers/wma14-oct-2021/page-04.png",
+      "/papers/wma14-oct-2021/page-05.png",
+      "/papers/wma14-oct-2021/page-06.png",
+      "/papers/wma14-oct-2021/page-07.png",
+      "/papers/wma14-oct-2021/page-08.png",
+      "/papers/wma14-oct-2021/page-09.png",
+      "/papers/wma14-oct-2021/page-10.png",
+      "/papers/wma14-oct-2021/page-11.png",
+      "/papers/wma14-oct-2021/page-12.png",
+      "/papers/wma14-oct-2021/page-13.png",
+      "/papers/wma14-oct-2021/page-14.png",
+      "/papers/wma14-oct-2021/page-15.png",
+      "/papers/wma14-oct-2021/page-16.png",
+      "/papers/wma14-oct-2021/page-17.png",
+      "/papers/wma14-oct-2021/page-18.png",
+      "/papers/wma14-oct-2021/page-19.png",
+      "/papers/wma14-oct-2021/page-20.png",
+      "/papers/wma14-oct-2021/page-21.png",
+      "/papers/wma14-oct-2021/page-22.png",
+      "/papers/wma14-oct-2021/page-23.png",
+      "/papers/wma14-oct-2021/page-24.png",
+      "/papers/wma14-oct-2021/page-25.png",
+      "/papers/wma14-oct-2021/page-26.png",
+      "/papers/wma14-oct-2021/page-27.png",
+      "/papers/wma14-oct-2021/page-28.png",
+      "/papers/wma14-oct-2021/page-29.png",
+      "/papers/wma14-oct-2021/page-30.png",
+      "/papers/wma14-oct-2021/page-31.png",
+      "/papers/wma14-oct-2021/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

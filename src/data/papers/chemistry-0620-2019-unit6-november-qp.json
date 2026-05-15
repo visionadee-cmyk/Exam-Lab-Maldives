@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "anhydrous copper( II ) sulfate / cobalt( II ) chloride (paper) turns blue / pink",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to suck gases / products through apparatus carbon dioxide formed",
+          "image": "/papers/chemistry-0620-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results volume boxes completed 0, 27, 48, 62, 65, 74, 76, 77, 77",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly best fit smooth line graph omitting anomalous point at 40 s / cm point at 40 s / cm value from graph shown clearly 0620/61 October/November 2019",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use of a 250 cm measuring cylinder / inaccurate measurements / readings use a gas syringe / cm measuring cylinder cm / = 1.75 cm / s",
+          "image": "/papers/chemistry-0620-2019/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume of gas less / lower gas / carbon dioxide dissolved in water",
+          "image": "/papers/chemistry-0620-2019/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "curve below original approaching same level precipitate / dissolves / colourless solution / dissolves / colourless solution / effervescence litmus turns blue 0620/61 October/November 2019 iodide 4 any 6 from: • known volume of ethanol • add known mass of iodine • stir / shake • filter • dry and weigh (undissolved) iodine • repeat with hexane • conclusion max 6",
+          "image": "/papers/chemistry-0620-2019/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

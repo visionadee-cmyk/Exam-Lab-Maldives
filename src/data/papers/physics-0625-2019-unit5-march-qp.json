@@ -1,0 +1,179 @@
+{
+  "paperId": "physics-0625-2019-unit5-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "February/March 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 15,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 8,
+      "marks": 8,
+      "question": "1 (a) • Draw a line AB 4 cm from the edge of the ray-trace sheet and in the middle of the paper, as shown in Fig. 1.1. • Draw a line CD parallel to line AB and 10 cm from it. • Draw a normal to line AB at a point N in the centre of line AB. Point N must be an equal distance from the top and bottom of the sheet. • Exten",
+      "text": "1 (a) • Draw a line AB 4 cm from the edge of the ray-trace sheet and in the middle of the paper, as shown in Fig. 1.1. • Draw a line CD parallel to line AB and 10 cm from it. • Draw a normal to line AB at a point N in the centre of line AB. Point N must be an equal distance from the top and bottom of the sheet. • Exten",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) • Draw a line AB 4 cm from the edge of the ray-trace sheet and in the middle of the paper, as shown in Fig. 1.1. • Draw a line CD parallel to line AB and 10 cm from it. • Draw a normal to line AB at a point N in the centre of line AB. Point N must be an equal distance from the top and bottom of the sheet. • Exten",
+          "marks": 1,
+          "type": "structured",
+          "answer": "AB , CD and normal correct",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ = 5° ± 1°",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "GN ⩾ 5.0 cm",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines present, correct and neat",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 correct values of a , increasing",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "graph: • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well judged line and thin continuous line",
+          "image": "/papers/physics-0625-2019/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable reason e.g.: ray has finite thickness – (difficult to mark position of ray precisely), reflecting surface of mirror at rear, inaccuracies have more effect for smaller angles, small variations in mirror angle have significant effect on ‘ a ’",
+          "image": "/papers/physics-0625-2019/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "reflect ray below NL at same angles and take averages 0625/52 March 2019",
+          "image": "/papers/physics-0625-2019/q1-1h.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ for beaker A decreasing θ for B decreasing and recorded to at least 1 °C decreasing more slowly s, °C, °C all correct 30, 60, 90, 120, 150, 180 correct mention of comparative temperature change over 180 s, supporting conclusion",
+          "image": "/papers/physics-0625-2019/q2-2a.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "additional experiment with both insulation and lid / neither insulation nor lid compare result of (previous) experiment with additional / only one factor changed in (each) comparison",
+          "image": "/papers/physics-0625-2019/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results comparison of temperature difference over first 30 s and last 30 s 0625/52 March 2019",
+          "image": "/papers/physics-0625-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V <3.00 (V) I <1.50 (A) and increasing V all to 1dp at least and I all to 2dp at least",
+          "image": "/papers/physics-0625-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct units: V, A correct calculations of R consistent 2 or consistent 3 sig. figs. correct calculations or R / l",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R in range 1 Ω to 3 Ω and clear method seen e.g. proportion from other value(s) of R or use of R / l value(s) one from: difficult to judge position of crocodile clip, difficult to measure wire to nearest mm, contact between wire and crocodile clip not precise, difficult to interpolate readings on meters between marks",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct symbol for variable resistor in series and with all circuit elements in correct arrangement 0625/52 March 2019 MP1 apparatus: means of measuring dependent variable (e.g. stop watch / rule / protractor) MP2 method (one from): workable means of providing air resistance (e.g. fix card to rod / bob), allow pendulum to swing, suitable measurement (e.g. period, amplitude) MP3 repeat for different value of independent variable (e.g. area of card) MP4 control variable (one from): length of pendulum, angle of release, mass of bob MP5 table: suitable clear format with column headings and units MP6 analysis: compare readings to see if change in air resistance produces change in dependent variable (e.g. change in area of card changes period) / plot graph 0625/52 March 2019 MP7 additional point (one from): time 10 oscillations / swings (and calculate period), small angle of swing, at least 5 sets of data taken, repeat each measurement and take average, adjust mass of pendulum to compensate for changing mass of card, repeat with different length of pendulum / mass of bob, length measured to centre of bob / centre of gravity of pendulum, use of fiducial aid",
+          "image": "/papers/physics-0625-2019/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 15,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

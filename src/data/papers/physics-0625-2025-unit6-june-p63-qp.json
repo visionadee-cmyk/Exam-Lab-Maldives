@@ -1,0 +1,51 @@
+{
+  "paperId": "physics-0625-2025-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2025",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " R = 21 (°C) (e.g. at eye level, at right angles)",
+          "image": "/papers/physics-0625-2025/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "81.0   300 ⩾ 80.5 (°C) = 0.067 AND x2 = 0.044 AND x3 = 0.022 1 e.g. ‘cooling rate falls steadily as time goes on’ AND reference to cooling rate values to show this  F near or equal to  R (e.g.) x2 lower than x1 and second 90 s has lower starting temperature 1 • volume of water • size / material of beaker • room temperature / other valid environmental factor May/June 2025 Question Answer Marks I = 0.56 (A) correct calculations of R (1.43, 3.04, 6.21 ()) RA = 2.86, RB = 3.04 and RC = 3.11() consistent 2 or consistent 3 significant figures 1 within limits of experimental accuracy / owtte AND supported by values from table 1 May/June 2025 Question Answer Marks 4 MP1 apparatus: protractor ruler MP2 method: shine (incident) ray from ray-lamp into the block trace ray emerging from block measure angle of refracted ray MP3 repeat for new concentration 1 MP4 control variable: angle of ray from ray lamp MP5 table: columns, with units, for concentration and dependent variable any variable mentioned must have correct units MP6 analysis: compare readings in the table to see if change in concentration produces change in dependent variable plot line graph (with axes specified) MP7 additional point: any one from: • at least 5 sets of data taken • repeat for each value of independent variable AND take average",
+          "image": "/papers/physics-0625-2025/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit6-2025-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

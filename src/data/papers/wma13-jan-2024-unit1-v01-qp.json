@@ -1,0 +1,213 @@
+{
+  "paperId": "wma13-jan-2024-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-jan-2024-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "January 2024",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( 2, 3)−− B1 (1) (b) ( 3, 9) −− B1B1 (2) (c) ( 4, 3) − B1 (1) (4 marks) (a) M1: Attempts both f (2) and f (3) or a narrower interval that contains the root 2.1565...and considers the signs. Note showing f (2) f (3) 0  or “< 0”, “> 0” beside each appropriate root is a consideration of signs and is also sufficient for the “sign change” part of reasoning for the A1. For the substitution, need to see the values substituted or at least one of f(2) or f(3) correct. A1*: This mark requires: • both f (2) and f (3) correct e.g. f (2) = −3 and f (3) = 41 • a reference to the sign change • a reference to continuity • a (minimal) conclusion For sign change, allow equivalent statements e.g. f (2).f (3) < 0, f (2) < 0 < f (3) etc. For continuity, allow just “continuous” and allow “assuming it is continuous” and “continuous equation” but do not allow incorrect statements such as “x is continuous”, “the interval is continuous”, “there is a change of sign therefore it is continuous” For the conclusion, allow e.g. ✓, #, QED, hence shown, hence root, so it crosses the x-axis, etc., but not incorrect statements e.g. so there is a root in the interval   3, 41 − You may have to use your judgement to decide if the A1 conditions are satisfied. Example: f(2) = −3, f(3) = 41, there is a change of sign hence f(x) has a continuous root in [2, 3] Scores M1A0 – i.e. it is not the root that is continuous Number Scheme Marks",
+          "image": "/papers/wma13-jan-2024/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Show that f (x) = 2 35 x x− (3) (b) Show, using calculus, that f is a decreasing function. You must make your reasoning clear. (3) The function g is defined by g(x) = 3 + 2 ln xx  1 (c) Find g –1 (3) (d) Find the exact value of a for which gf(a) = 5 (4) _____________________________________________________________________________________ ___________________________________________",
+      "text": "2 (a) Show that f (x) = 2 35 x x− (3) (b) Show, using calculus, that f is a decreasing function. You must make your reasoning clear. (3) The function g is defined by g(x) = 3 + 2 ln xx  1 (c) Find g –1 (3) (d) Find the exact value of a for which gf(a) = 5 (4) _____________________________________________________________________________________ ___________________________________________",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Show that f (x) = 2 35 x x− (3) (b) Show, using calculus, that f is a decreasing function. You must make your reasoning clear. (3) The function g is defined by g(x) = 3 + 2 ln xx  1 (c) Find g –1 (3) (d) Find the exact value of a for which gf(a) = 5 (4) _____________________________________________________________________________________ ___________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f (2) 5(2) 4(2) 7 3 0 = − + − = −  and ( ) f (3) 5(3) 4(3) 7 41 0 = − + − =  M1 There is a change of sign and f (x) is continuous so there is a root (in the interval) * A1* (2) (b) 547547xxxx xx xx − +− + = = * B1* (1) (c)(i) 5(2) 4(2) 7 x −+ = M1 awrt 2.1179 = A1 (ii) awrt 2.1565  = A1 (3) (6 marks) (b) B1*: Proceeds to given answer with no errors and with ... x = seen at some stage. Condone omission of the fraction bar e.g. xx x x −+ = as long as there are no algebraic errors. Be tolerant if the radical does not fully encompass the expression but score B0 if the expression is clearly incorrect e.g. xx x x −+ = i.e. where the cube root clearly sits on top of the fraction bar. Condone working backwards as long as there is a (minimal) conclusion e.g. 7 0 x x x x x x x x x xx − + − + =  =  − + − = ✓, #, QED, hence shown, etc. (c)(i) M1: Attempts to find x using the given iteration formula. Allow for sight of 5(2) 4(2) 7 −+ Must see the correct index and not 5(2) 4(2) 7 −+ unless the “3” is implied by their value(s). May be implied by awrt 2.118 or awrt 2.147 () x = A1: awrt 2.1179 (apply isw if necessary) (ii) A1: awrt 2.1565 (provided M1 scored in (c)(i)) (apply isw if necessary) (a) M1: A correct application of log laws to obtain 1.04 0.38 t D + = or forms one correct equation for a or b e.g. a = 1.04 or b = 0.38 10 . May be implied by a = awrt 11 or b = awrt 2.4 A1: One of awrt 10.96, awrt 2.399 ab == . May be seen embedded in their equation. A1: Correct equation with correct awrt values e.g. ( ) ( ) 10.96 2.399 t D awrt awrt = Do not allow recovery from incorrect work e.g. 1.04 0.38 log 1.04 0.38 10.96, 2.399 t D t D a b = +  = +  = = 10.96 2.399 t D  =  Scores M1A1A0 Note that a and b may be found in other ways e.g. 1.42 1.040.38 1.04 010,110 D taDtb a =  = ==  = == Number Scheme Marks",
+          "image": "/papers/wma13-jan-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Find d d y x giving your answer in simplest form in terms of k. (2) The point P with x coordinate 1 lies on C. Given that the gradient of the curve at P is –12 (b) find the two possible values of k (3) Given also that k < 3 (c) find the equation of the normal to C at P, writing your answer in the form axbyc\u001f\u001f\u001e0 , where a, b and c are integers to be found. (3) (d) show, using",
+      "text": "3 (a) Find d d y x giving your answer in simplest form in terms of k. (2) The point P with x coordinate 1 lies on C. Given that the gradient of the curve at P is –12 (b) find the two possible values of k (3) Given also that k < 3 (c) find the equation of the normal to C at P, writing your answer in the form axbyc\u001f\u001f\u001e0 , where a, b and c are integers to be found. (3) (d) show, using",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Find d d y x giving your answer in simplest form in terms of k. (2) The point P with x coordinate 1 lies on C. Given that the gradient of the curve at P is –12 (b) find the two possible values of k (3) Given also that k < 3 (c) find the equation of the normal to C at P, writing your answer in the form axbyc\u001f\u001f\u001e0 , where a, b and c are integers to be found. (3) (d) show, using",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.04 0.38 log1.04 0.3810 t DtD + = + = or 1.04 10a= or 0.38 10b= M1 awrt 10.96 awrt 2.399 ab == or A1 10.96 2.399 t D = A1 (3) (b) 45000 \"10.96\" \"2.399\" ... T T =   = or log 45000 1.04 0.38 ... TT = +  = M1 awrt 9.51 A1 (2) (c) \"10.96\" \"2.399\" ... DD =   = or log 1.04 0.38 12 ... DD = +   = or 350000 \"10.96\" \"2.399\" ... t t =   = or log 350000 1.04 0.38 ... tt = +   = M1 D = awrt (£)400 000  yes or t = awrt 11.9  yes A1 (2) (7 marks) (b) M1: This mark is awarded for proceeding to T = ... or t = ... where ... may be a numerical expression e.g. ln(...) from one of: • substituting 45 000 D = into their \"10.96\" \"2.399\" T D = (Must be of this form) • substituting 45 000D= into log 1.04 0.38 DT =+ (Must be the given equation) A1: awrt 9.51 (months) (Ignore labelling and just look for the value) Units are not required but if any are given they must be correct. Allow recovery from incorrect rounding in (a) e.g. 10.97 for a Correct answer only scores both marks. Note that part (b) can be done without having attempted part (a) (c) M1: This mark is awarded for one of: • substituting t = into their \"10.96\" \"2.399\" D = and proceeding to a value for D • substituting t = into log 1.04 0.38 Dt =+ proceeding to a value for D • substituting D = into their \"10.96\" \"2.399\" t D= and proceeding to a value for t • substituting 350000D= into log 1.04 0.38 Dt =+ and proceeding to a value for t A1: This mark is awarded for one of: • obtaining D = awrt (£)400 000 and making a (minimal) conclusion e.g. “yes” • obtaining t = awrt 11.9 or truncated 11.8 and making a (minimal) conclusion e.g. “yes” For reference the values of D/t which may be seen are: D = 398 266.278 (from rounded values of a and b) D = 398 107.1706 (from full values of a and b) t = 11.85236... (from rounded values of a and b) t = 11.85281... (from full values of a and b) Allow recovery from incorrect rounding in (a) e.g. 10.97 for a Note that part (c) can be done without having attempted part (a) Allow obvious",
+          "image": "/papers/wma13-jan-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f (3 5)( 4) x x x x x − =+ − + − B1 32 8( 4) (3 5)( 4) (3 5)( 4) x x x x x x x x − − + + = + = − + − − + or e.g. ( ) ( ) ( ) (3 5)( 4) (3 5) x x x x x x x − + − + = + = − + − − M1 2 ( 4) xx + = (3 5) ( 4) xx −+ * x x = − A1* (3) (b) ( ) 2 3 3 2 f ( ) (3 5) xx x x − −   = − M1A1 f ( ) (3 5) x x −  = − As (3 5) x − (for x  ) then f ( ) 0 x   Hence f is a decreasing function * A1cso* (3) (c) g ( ) e x x − − = M1A1 3x B1 (3) (d) g 3 2 ln aa aa     =  + =     −−     B1 ln1e aa aa  = =  −−  M1 e = ... a a a = − dM1 5e 3e 2 a = − A1 (4) (d) Way 2 ( ) ( ) gf = 5 = g a a a −  − B1 ( ) = g e aa aa − = −− M1 e = ... a a a = − dM1 5e 3e 2 a= − A1 (13 marks) (a) B1: 3720 (35)(4)xxxx+ − = − + seen or used M1: Combines fractions with a correct common denominator and the order of terms in the numerator consistent with their common denominator. A1*: Achieves the given answer with no errors seen but condone e.g. a missing trailing bracket as long as it is “recovered”. Sufficient working should be shown but allow to go from e.g. () x x −+ − to x x− Note that candidates may take a longer route: ( ) ( ) ( ) ( ) ( ) 32 3 8 3 20 3 x x x x x x x x x x x − − + + − − += + − − + − − M1 ( ) ( ) ( ) ( ) ( ) ( ) 4 3 20 3 x x x x x x x x x x x x +− +− == − + − + − − B1 ( ) ( ) ( ) ( ) ( ) * 4 3 x x x x x x x x −+ == − + − − A1* Or ( ) ( ) ( ) ( ) ( ) 32 3 8 3 20 3 x x x x x x x x x x x − − + + − − += + − − + − − M1 ( ) ( ) ( ) ( ) ( ) 20 3 20 3 x x x x x x x x x x x x +− +− == + − − + − − B1 In this case the B1 is scored for obtaining a factor of xx +− in the numerator and denominator * x x = − A1* (b) M1: Attempts to differentiate using the product or quotient rule. Award for an expression of the form (3 5) (3 5) xx x  −− − or (35)(35) ,,0xx x  −− − −− Condone attempts where (3 5) x − is expanded. Alternatively, attempts to write x x− as B A x + − before differentiating using the chain rule to obtain (35) k x  − A1: Correct derivative simplified or unsi",
+          "image": "/papers/wma13-jan-2024/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 8A= B1 (1) (b) 16 10 \"8\"e e ... Bt Bt −− = +  = M1 e\" \"45ln\" \"... B BB − =  − = = dM1 awrt 0.00639 B = A1 (3) (c) ln d \"8\" ln e ... d T t  −    = −   =   M1 0.0505=− A1 (2) (d) The temperature has a (lower) limit of 10 C or 5 10 \"8\"e e \"8\" Bt Bt −− = +  = − e.g. which is not possible or cannot be solved or you cannot find the log of a negative number B1 (1) (7 marks) (d) B1: Either states that the (lower) limit of the model is 10 C  or there is an asymptote at T = 10 or as t tends to  T tends to 10. But do not allow incorrect statements e.g. the maximum temperature is 10. Also allow “the maximum the temperature can drop to is 10” or shows that the calculation cannot be carried out and makes a statement to that effect. The working must be correct for their A and/or B where A > 0 and B > 0 and they must reach at least e... Bt− = Allow comments such as: “which is not possible”, “cannot be done”, “you cannot find the log of a negative number” etc. but do not allow ambiguous/incorrect statements e.g. “logs cannot be negative”, “you cannot have a negative time” Also accept equivalent arguments e.g. “ e Bt A − would need to be < 0 and this is not possible” (provided their A > 0) If you are unsure if the reasoning is acceptable or not, use review. (a) B1: ,0     or accept the identification that x  = at R e.g. cos x = 0 so x  = Accept  written on the diagram at the point R or just  seen as the answer as long as there is no evidence that y is anything other than zero. Must be exact. (b) M1: Attempts the product rule. Award for the form 3sin 3sin f ( ) cos e sin e xx x x x   =   A1: Correct derivative in any form dM1: Attempts to use the identity sincos1xx=  to produce a 3 term quadratic expression in sin x which may be seen embedded but with the 3sin e x factored. e.g. () () 3sin2 e6 1 sin2 sin x xx−− Depends on the previous method mark. A1: 3sin sin 3 0 xx + − = or any integer multiple of this equation e.g. 6 6sin2sin0xx−−= and ap",
+          "image": "/papers/wma13-jan-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-11.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 ,0     B1 (1) (b) ( ) ( ) 3sin 3sin f ( ) 6 cos e 2 sin e xx x x x  =− M1A1 ( ) ( ) 3sin 3sin f ( ) 6 cos e 2 sin e xx x x x  =− ( ) ( ) ( ) 6 1 sin 2 sin xx  − − = dM1 3sinsin3 0xx+ − = oe A1 (4) (c) sin ... xx −+ =  = M1 2.131 x = A1 (2) (7 marks) (c) M1: Solves their 3-term quadratic in sin x (allow any method including calculator) and proceeds to find a value of x using sin − (their sin x) where sin1.x You may need to check their value. The attempt to solve their quadratic may be implied by at least 1 correct value for sin x (allow 2dp if inexact). A1: awrt 2.131 only and no other values offered. Correct answer only scores no marks. (a) M1: Attempts to differentiate to the form (3 ) A x k − − oe e.g. (27 9 ) A x k − − A1: d (3 ) d3 y xk x −  = − −   oe e.g. 3(3)xk − − or 3(9 ) x kx k − −+ or x kx k − −+ but not 432(279 )xk − −− or (27 9 ) xk − − as there is a common factor in the numerator and denominator. Number Scheme Marks",
+          "image": "/papers/wma13-jan-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() () 1616d432 9 3279d y y x kxkx xk == = − −− − M1A0 (b) ( ) ( ) 12 27 xk xk − = −  − = − M1 ( ) ( ) 12 27 27 9 ... x k x k k k − =  − =  − =   = dM1 7 11 , k = A1 (c) 27 21 y= − M1 (B1 on ePEN) \" \" ( 1) yx − = − dM1 31 0 yx − − = A1 (d)   d ln(27 9 ) x x k xk =− −    M1 ( ) ln 27 x =−   A1ft ( ) ( ) ( ) ( ) ( ) ln 27 ln 27 3 ln 27 21 x − = − − −   dM1 ( ) ln 10 = A1 (a) (i) B1: One correct coordinate xb = or y = a B1: , b a    or xb = and y = a May be seen on the sketch. (ii) B1: (0, ) ab − or x = and y = a – b or just y = a – b without the x = 0 May be seen on the sketch and if so, allow just a – b marked in the correct place. If it is on the sketch, condone ( , 0) ab − marked in the correct place. If more than 1 point is offered and no clear decision is made then score B0 (iii) B1: ,0 ba −    or ,0 ab +    Allow just ba x − = or ab x + = without the y = 0 May be seen on the sketch and allow just ba − or ab + marked in the correct place. If they are on the sketch, condone 0, ba −    or 0, ab+    marked in the correct place. Allow equivalent expressions e.g. ab−− − for ab+ or e.g. ab− − for ba− B1: ,0 ba −    and ,0 ab +    Allow just ba x − = or ab x + = without the y = 0 May be seen on the sketch and allow just ba − and ab + marked in the correct place. If they are on the sketch, condone 0, ba −    and 0, ab+    marked in the correct place. Allow equivalent expressions e.g. ab −− − for ab + or e.g. ab − − for ba − Number Scheme Marks (ii) (iii) , b a    B1B1 (0,)ab− B1 ,0 ba −    and ,0 ab +    B1B1 (5) (b) B1: A V shaped graph anywhere on the set of axes B1: Correct shape with a minimum point on the y-axis below the x-axis and with an intention for the graph to be symmetrical about the y-axis. The left branch of 1yx=− must intersect the left branch of y a x b = − − and the right branch of yx =− must intersect the right branch of y a x b = − − These are all acceptable for ",
+          "image": "/papers/wma13-jan-2024/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-17.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3sin cos (2 sec 2 )(cos sin ) cos sin      = + − + ( ) sin 2 (2 sec 2 )(cos sin ) cos sin        = + − + or 3sin cos (2 sec 2 ) cos 2      = + M1 sin 2 (2 sec 2 ) cos 2     = + dM1 sin 2(2 sec 2 ) cos 2 = + sin 2 2 cos 2 3sin 2 4 cos 2      = +  − = * A1* (3) There are various alternatives in part (b) and in each case: • the first 3 marks are for obtaining a suitable equation • the final 2 marks are for solving their equation Condone the use of a variable other than x in (b) e.g. θ Note that is it not necessary to state the form sin(2 ) Rx  − or cos(2 ) Rx  + for the first 2 marks M1: ( ) R = + = Condone obtaining ± 5 or ( ) ( ) tan ,  − = () tan, −  cos , \"5\" −     sin, \"5\" −     cos , −     sin −     dM1: () 345R= + = Condone obtaining ± 5 and ( ) ( ) tan ,  − = ( ) tan , −  cos , \"5\" −     sin , \"5\" −     cos , −     sin −     Depends on the previous method mark. A1: Correct equation: 5sin(2 0.927) 2 x −= or 5 cos(20.644)2x+= − which may be implied. Accept awrt 0.93 or 0.64 for “α”. Do not allow e.g. 5sin(20.927) 2x−= or 5 cos(2 0.644) x  + = − unless they recover by solving the correct equation. ddM1: Attempts to solve their equation of the correct form e.g. with (2x ± ...) as the argument and proceeds to find a value for x. The order of operations should be correct for their equation but condone \"0.927\" or \"0.644\" e.g. sin\"0.927\" \"5\" x −        = or cos0.644 \"5\" x − −  = (b) Way 1 using sin(2 ) Rx  − or cos(2 ) Rx  + ( ) ... 5 R  = + = or ( ) ( ) tan or ...  − == M1 ( ) ... 5 R  = + = and ( ) ( ) tan or ...  − == dM1 3sin 2 4 cos 2 5sin(2 0.927) 2 x x x − =  − = or 3sin 24 cos 225 cos(20.644)2xxx−= += − A1 sin 0.927 5 sin(2 0.927) xx − + − =  = or cos0.644 5 cos(20.644)2 xx − − − += −  = ddM1 awrt 3.81 x = A1 (5) (8 marks) You may need to check their angle on your calculator. It is dependent on both of the previous method marks. A1: awrt ",
+          "image": "/papers/wma13-jan-2024/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-jan-2024/page-23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma13-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2024-unit1-2024-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-jan-2024/page-01.png",
+      "/papers/wma13-jan-2024/page-02.png",
+      "/papers/wma13-jan-2024/page-03.png",
+      "/papers/wma13-jan-2024/page-04.png",
+      "/papers/wma13-jan-2024/page-05.png",
+      "/papers/wma13-jan-2024/page-06.png",
+      "/papers/wma13-jan-2024/page-07.png",
+      "/papers/wma13-jan-2024/page-08.png",
+      "/papers/wma13-jan-2024/page-09.png",
+      "/papers/wma13-jan-2024/page-10.png",
+      "/papers/wma13-jan-2024/page-11.png",
+      "/papers/wma13-jan-2024/page-12.png",
+      "/papers/wma13-jan-2024/page-13.png",
+      "/papers/wma13-jan-2024/page-14.png",
+      "/papers/wma13-jan-2024/page-15.png",
+      "/papers/wma13-jan-2024/page-16.png",
+      "/papers/wma13-jan-2024/page-17.png",
+      "/papers/wma13-jan-2024/page-18.png",
+      "/papers/wma13-jan-2024/page-19.png",
+      "/papers/wma13-jan-2024/page-20.png",
+      "/papers/wma13-jan-2024/page-21.png",
+      "/papers/wma13-jan-2024/page-22.png",
+      "/papers/wma13-jan-2024/page-23.png",
+      "/papers/wma13-jan-2024/page-24.png",
+      "/papers/wma13-jan-2024/page-25.png",
+      "/papers/wma13-jan-2024/page-26.png",
+      "/papers/wma13-jan-2024/page-27.png",
+      "/papers/wma13-jan-2024/page-28.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

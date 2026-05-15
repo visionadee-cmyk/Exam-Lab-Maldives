@@ -1,0 +1,113 @@
+{
+  "paperId": "wph13-oct-2025-unit3-v01a-qp",
+  "pairedMarkSchemeId": "wph13-oct-2025-unit3-v01a-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01A",
+  "session": "October 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Avoid overtightening the jaws of the caliper Or Ensure there are no gaps between the sheets of paper Or Ensure the paper is aligned • Check (and correct) for zero error • Measure (height of all) 500 sheets and divide by 500 • Repeat at different positions and calculate the mean (1) (1) (1) (1) Allow “layers”, accept reasonable method Accept reasonable method Accept method. Accept “divide by the number of sheets” or formula if number of sheets defined Do not accept “orientations” • Uses uncertainty = 0.005 (mm) • Percentage uncertainty = 8 × 10 −3 % (1) (1) Accept 0.01 mm Accept 0.0083%, 0.00833% Example of calculation Uncertainty = 0.01 mm = 0.005 mm Percentage uncertainty = 0.005 mm 60.00 mm ×100 = 8.33 × 10 −3 % • Calculates mean for minimum 3 values for width and length • Mean width = 210.24 (mm) and Mean length = 297.03 (mm) • Mean values given to 0.01 mm with correct unit (1) (1) (1) Example of calculation Mean width = ( 210.20 +210.35 +210.15 +210.25 ) mm = 210.2375 mm = 210.24 mm Mean length = ( 297.25 +297.00 +296.75 +297.10 ) mm = 297.025 mm = 297.03 mm • Use of 휌휌= 푚푚 푉푉 Density = 0.5525 (g cm −3 ) e.c.f. (b)(i) • (1) (1) Accept 5 s.f. Example of calculation ρ = 2070 g (21.024 × 6.000 × 29.703)cm = 0.5525 (g cm −3 ) • Zero error in (the reading from) the balance (1) Accept idea of “taring” the balance but not “balance the reading”. Total for question 1 12 Number Answer Additional Guidance Mark • To ensure sound waves are coherent Or To ensure sound waves have constant phase (relationship/difference) (1) • Loud sound could damage hearing/ears • Wear ear defenders/plugs/protection Or Reduce the volume/amplitude of sound (to a safe level) Or Keep a reasonable distance from the loudspeakers Or Limit the duration/time of the exposure (1) (1) Accept eardrums. Accept ear/headphones not ear mask. Do not accept signal generator for loudspeakers. • Subtraction of distance between two maxima • Calculates mean from minimum of 3 gaps • w = 0.62 m (1) (1) (1) Example ",
+          "image": "/papers/wph13-oct-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wph13-oct-2025/page-03.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) (2) M (b) (i) (4) .................................................................................................................................................................................................................................................. ..........................................................................................",
+      "text": "3 (a) (2) M (b) (i) (4) .................................................................................................................................................................................................................................................. ..........................................................................................",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) (2) M (b) (i) (4) .................................................................................................................................................................................................................................................. ..........................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Series circuit including battery/cell and switch • Ammeter in series with motor and voltmeter in parallel with motor only (1) (1) Example of circuit • Clamp/fix the metre rule in position • Ensure the metre rule is vertical using a set square Or Ensure the metre rule is perpendicular to the floor using a set square • Place the metre rule close to the mass Or Read the height from bottom of the mass Or Attach a marker to the mass/string • Take measurements perpendicular to the scale Or Use a set square to read off the scale (1) (1) (1) (1) Accept spirit level or plumb line. Accept parallel to mass/string. Do not accept “straight” for vertical. Accept close to string/object not height. Do not allow “next to”. Do not accept “horizontally” or “parallel” for perpendicular. • There will be variation in the measurements • So repeat measurements (and calculating a mean) reduces ( the effect of) random errors. (1) (1) Do not accept eliminate/avoid. Do not accept “reduces systematic error and random error”",
+          "image": "/papers/wph13-oct-2025/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EITHER • Power of motor = VI • Power of lifting mass = mgh / t Or power of lifting mass = Fv with F=mg and v=h/t • So efficiency = power of lifting mass / power of lifting motor Or efficiency = (mgh / t) / VI OR • Energy transferred to motor = VIt • Energy transferred to lifting mass = mgh • So efficiency = energy transferred to lifting mass / energy transferred to motor Or efficiency = (mgh) / (VIt) (1) (1) (1) (1) (1) (1) Accept definitions related to power Allow 10 as substitute for t Accept quantities as defined Must be ratio of 2 powers Allow definitions related to energy, e.g. work Allow t = 10 Allow gravitational potential energy. Accept quantities as defined Must be ratio of 2 energies Total for question 3 11 Number Answer Additional Guidance Mark",
+          "image": "/papers/wph13-oct-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wph13-oct-2025/page-09.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) (3) .................................................................................................................................................................................................................................................. ......................................................................................................................................",
+      "text": "4 (a) (3) .................................................................................................................................................................................................................................................. ......................................................................................................................................",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) (3) .................................................................................................................................................................................................................................................. ......................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 푉푉 푎푎 = ℎ푐푐 푒푒 휆휆 + 푊푊 푒푒 • Compares to y = mx + c with terms in correct order • Where the gradient= ℎ푐푐 푒푒 which is constant Or Where the gradient= ℎ푐푐 푒푒 and h, c and e are all constants MP3 dependent on MP1 (1) (1) (1) Allow 푉푉 푎푎 = ℎ푐푐 푒푒휆휆 + 푊푊 푒푒 Do not accept “m” for gradient unless ℎ푐푐 푒푒 linked to the gradient within the answer. • Correct values for 휆휆 • Values given consistently to 3 s.f. (1) (1) Power of 10 in table must be correct. λ / 10 −7 m V a / V 1/λ / 10 m −1 6.60 1.82 1.52 6.12 1.97 1.63 5.92 2.02 1.69 5.85 2.07 1.71 5.30 2.31 1.89 4.70 2.58 2.13 • Axes labelled: y-axis as V a / V and x-axis as 휆휆 m −1 ⁄ Or Axes labelled: y-axis as V a / V and x-axis as 휆휆 ×10 −6 m −1 ⁄ . (1) Accept power of 10 consistent with table. Do not accept reversed axes. • Sensible scales for both axes • Data plotted accurately • Reasonable line of best fit drawn (1) (2) (1) Axes must cover at least half grid, value of small square in 1, 2 or 5 only Plots within 1 mm Straight, plots on both sides of line, no rotation Accept graph in landscape • Uses large triangle • Uses gradient = ℎ푐푐 푒푒 Or Uses 푉푉 푎푎 = ℎ푐푐 푒푒 휆휆 + 푊푊 푒푒 as simultaneous equations • h in range 6.45×10 −34 to 6.89×10 −34 , given to 2 or 3 s.f. with units J s (1) (1) (1) Example of calculation gradient = 2.64 −1.80 ( 2.17 −1.50 ) ×10 = 1.25×10 –6 h = gradient×푒푒 푐푐 = 1.25×10 −6 ×1.60×10 −19 C 3.00×10 ms −1 = 6.67×10 –34 J s • Calculation of percentage difference with 6.63×10 –34 J s as denominator • Conclusion based on comparison of percentage difference Or Conclusion based on comparing calculated h with 6.63×10 –34 J s (1) (1) Example of calculation %D = ( 6.67 −6.63 ) ×10 −34 Js 6.63×10 −34 Js ×100 = 0.6 % Total for question 4 15",
+          "image": "/papers/wph13-oct-2025/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wph13-oct-2025/page-14.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph13-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2025-unit3-2025-10-qp.pdf",
+    "pageImages": [
+      "/papers/wph13-oct-2025/page-01.png",
+      "/papers/wph13-oct-2025/page-02.png",
+      "/papers/wph13-oct-2025/page-03.png",
+      "/papers/wph13-oct-2025/page-04.png",
+      "/papers/wph13-oct-2025/page-05.png",
+      "/papers/wph13-oct-2025/page-06.png",
+      "/papers/wph13-oct-2025/page-07.png",
+      "/papers/wph13-oct-2025/page-08.png",
+      "/papers/wph13-oct-2025/page-09.png",
+      "/papers/wph13-oct-2025/page-10.png",
+      "/papers/wph13-oct-2025/page-11.png",
+      "/papers/wph13-oct-2025/page-12.png",
+      "/papers/wph13-oct-2025/page-13.png",
+      "/papers/wph13-oct-2025/page-14.png",
+      "/papers/wph13-oct-2025/page-15.png",
+      "/papers/wph13-oct-2025/page-16.png",
+      "/papers/wph13-oct-2025/page-17.png",
+      "/papers/wph13-oct-2025/page-18.png",
+      "/papers/wph13-oct-2025/page-19.png",
+      "/papers/wph13-oct-2025/page-20.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

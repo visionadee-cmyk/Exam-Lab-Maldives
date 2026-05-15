@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2022-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit5-june-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "three burette readings completed with initial reading < first end point and second end point and second end point > first end point all five readings/volumes given to 1 dp or better and a consistent number of dp. both titres correct based on readings",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "three burette readings completed with initial < first end point and second end point and second end point > first end point both titres correct based on readings first end point volume is comparable to superviso r",
+          "image": "/papers/chemistry-0620-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) yellow (to) orange",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a greater volume is required to reach the second end point (approximately) double",
+          "image": "/papers/chemistry-0620-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "smaller volume (of acid) is required fo r K (experiment 1) OR larger volume (of acid) is required fo r L (experiment 2) (so) L (experiment 2) is more concentrated than K (experiment 1) OR (so) K (experiment 1) is less concentrated than L (experiment 2) answer is quantitative. Either L is 1.5  concentration of K OR the volume of acid for L is 1.5  the volume of acid for K numerical answer which is 2  answer for second colour change in results table for experiment 2 cm more than can fit into burette",
+          "image": "/papers/chemistry-0620-2022/q1-1e.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to mix the solutions 0620/52 May/June 2022 / remove residues (of experiment 1 from the flask) it would add an unknown volume of solution L",
+          "image": "/papers/chemistry-0620-2022/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any in range 1 to 5",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "brown precipitate or red-brown precipitate remains / does not redissolve (red) litmus turns blue effervescence / bubbles / fizzes / NH / no precipitate / no reaction solution becomes pale r / green / colourless remains / does not redissolve becomes (darker) brown becomes yellow + iron( III )/Fe 3+ nitrate/NO – 0620/52 May/June 2022 any 6 from  grind / crush / powder coffee beans  using pestle / mortar  add water and stir / mix  heat / hot (water) (to dissolve)  filter  leave (filtrate) to cool or leave to form crystals  wash/rinse (crystals / residue / caffeine)",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit5-2022-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

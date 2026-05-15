@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2021-unit5-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit5-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "February/March 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all results figures for both experiments recorded to 1 dp or bette r both tables completed correctly with final > initial both subtractions to get volume added correct comparable to supervisor.",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) blue (to) colourless",
+          "image": "/papers/chemistry-0620-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) yellow (to) orange to clean it larger volume of solution B needed / it would increase (as there is) more potassium hydroxide / alkali solution A as lower volume (required). Experiment 2 volume ÷ Experiment 1 volume",
+          "image": "/papers/chemistry-0620-2021/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "can spot anomalous results OR can find a mean / average",
+          "image": "/papers/chemistry-0620-2021/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "numerical answer which is twice titre in Experiment 2 cm",
+          "image": "/papers/chemistry-0620-2021/q1-1g.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use a (volumetric) pipette to measure the volume of potassium hydroxide 0620/52 March 2021 / crystals / powder) / fizzing / effervescence (red) litmus turns blue gas produced: ammonia lithium (ions) / Li + nitrate / NO - dissolves / disappears / forms colourless solution dissolves / disappears / forms colourless solution fizzing / bubbles / effervescence",
+          "image": "/papers/chemistry-0620-2021/q1-1h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2g",
+          "text": "2 (g) Plan an investigation to find which of two lumps of concrete contains the larger percentage of calcium carbonate. Your plan should include how you will use your results to determine which one of the two lumps has the larger percentage of calcium carbonate. You have access to all common laboratory materials and a supply of dilute hydrochloric acid. ....................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "aluminium / A l 3+ sulfate / SO 2- 0620/52 March 2021 any 6 from: 1 equal / known / stated mass of concrete 2 crush concrete / lumps 3 add excess hydrochloric acid THEN (mass left unreacted) 4 filter 5 wash and dry residue 6 find mass of residue 7 lower mass of residue has most calcium carbonate OR (volume of gas made by end / in a set time) 4 collect gas produced 5 suitable apparatus to collect gas and measure volume named/drawn 6 and measure volume / amount of gas formed 7 larger volume of gas means more calcium carbonate OR (mass lost) 4 place container on balance / weigh before 5 cotton wool in opening of container 6 measure mass loss / weigh after 7 bigger mass loss is more calcium carbonate OR (mass calcium chloride made) 4 filter 5 evaporate (filtrate) to dryness 6 measure mass solid calcium chloride 7 bigger mass is more calcium carbonate max 6",
+          "image": "/papers/chemistry-0620-2021/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit5-2021-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

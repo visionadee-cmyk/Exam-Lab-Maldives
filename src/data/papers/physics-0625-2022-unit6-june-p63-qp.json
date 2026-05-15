@@ -1,0 +1,95 @@
+{
+  "paperId": "physics-0625-2022-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The student ensures that the metre rule is horizontal. Briefly describe how to check that the rule is horizontal. You may draw a diagram if it helps to explain your answer. ................................................................................................................................................... ...........................................",
+      "text": "1 (a) The student ensures that the metre rule is horizontal. Briefly describe how to check that the rule is horizontal. You may draw a diagram if it helps to explain your answer. ................................................................................................................................................... ...........................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The student ensures that the metre rule is horizontal. Briefly describe how to check that the rule is horizontal. You may draw a diagram if it helps to explain your answer. ................................................................................................................................................... ...........................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any valid method e.g. check equal distance between rule and bench at two places OR use set square/protractor between stand and rule OR line up with suitable (named) surface d = 15.2 (cm) F P = 1.05 (N) and F Q = 1.95 (N)  x -axis labelled with quantity and unit  suitable scales (plots occupying at least 3 large squares in both directions)  plots all correct to ½ small square and precise plots  2 well judged lines and thin lines  intersection at d = 50.0 cm to  1 small square",
+          "image": "/papers/physics-0625-2022/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "F present and W R in range 1.8 (N) to 2.2 (N) W R expressed to 2 or 3 significant figures and with unit of N",
+          "image": "/papers/physics-0625-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "forcemeter Q has zero error OR has not been set to 0 at start  R = 19 (°C) e.g. line of sight perpendicular to scale OR wait until reading stops rising (at start)",
+          "image": "/papers/physics-0625-2022/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "2 (b) The student sets the distance between the illuminated triangle and the lens to U = 20.0 cm. She moves the screen until a sharp image of the triangle appears on the screen. (i) Measure h O , the height of the illuminated triangle as shown in Fig. 3.3. h O = ............................................................... Measure h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "s, °C both correct 0625/63 May/June 2022",
+          "image": "/papers/physics-0625-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180 s, matching statement x = 0.106 unit °C / s x will be less/lowe r temperature difference between beake r and room is less and values from table referred to",
+          "image": "/papers/physics-0625-2022/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat experiment with a lid (calculate cooling rate) subtract from x to find cooling rate without transfer from sides OR a comparison of cooling rates f = 3.1 (cm) F = 15.5 (cm) move lens backwards and forwards slowly OR move lens slowly h O = 1.2 (cm) and h I = 5.1 (cm) hand gets in way of light mark on screen and measure later OR use screen with scale OR use translucent screen and measure at rea r 0625/63 May/June 2022 F = 16.1 or 16.2 (cm) F expressed to 2 or 3 significant figures with matching unit values within limits of experimental accuracy/owtte and values quoted in justification one from: mark position of lens on holder clamp/place rule on bench ensure screen, lens and object all perpendicular view rule perpendicularly repeat and take average use darkened room/brighter light 0625/63 May/June 2022 4 MP1 apparatus: voltmeter – correct symbol in parallel with LDR MP2 independent variable: statement identifying the independent variable e.g. light intensity, distance, current, voltage MP3 method: measure independent variable (e.g. metre rule to measure distance between lamp and LDR) measure p.d. and current calculate resistance of LDR MP4 repeat for new value of independent variable MP5 control variable: any variable appropriate to independent variable (e.g. distance from lamp to LDR if current through lamp is the independent variable, p.d., power, intensity) MP6 table: columns, with units, for independent variable, measured dependent variable and resistance (not just resistance without raw measurements) MP7 analysis: compare resistance values (in table) to see if change in independent variable produces change in resistance plot line graph (with axes specified)",
+          "image": "/papers/physics-0625-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit6-2022-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

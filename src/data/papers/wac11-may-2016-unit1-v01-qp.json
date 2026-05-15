@@ -1,0 +1,71 @@
+{
+  "paperId": "wac11-may-2016-unit1-v01-qp",
+  "pairedMarkSchemeId": "wac11-may-2016-unit1-v01-ms",
+  "subjectId": "accounting_ial_pearson",
+  "code": "WAC11/01",
+  "session": "May 2016",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "4 (a) Explain why Jabir needs to charge depreciation on his non-current assets. (4) .................................................................................................................................................................................................................................................................................... ..................................",
+      "text": "4 (a) Explain why Jabir needs to charge depreciation on his non-current assets. (4) .................................................................................................................................................................................................................................................................................... ..................................",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "AO1(4), AO2 (4) A01: Four marks for correctly recording or totalling figures in the statement. A02: Four marks for calculating and applying the correct figures to the statement. Extract Non-current assets Cost Accumulated Carrying depreciation over £ £ £ Land & buildings 105 000 (1)AO2 - 9 400 (1)AO2 = 95 600 Computers 35 000 (1)AO2 - 14 200(1of)AO1 = 20 800 Fixtures & fittings 11 000 (1)AO1 - 5 400 (1)AO2 = 5 600 151 000 (1of)AO1 29 000 122 000 (1of)AO1 Number Indicative content",
+          "image": "/papers/wac11-may-2016/q4-4d.png"
+        },
+        {
+          "id": "4e",
+          "text": "Part 4e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "AO2 (1), AO3 (2), AO4 (3) A02: One mark for applying positive or negative aspects of Jabir’s depreciation policy, drawing out key points. A03: Two marks for interpreting and analysing possible solutions to depreciating computers, using a developed chain of reasoning. A04: Three marks for evaluating the scenario counterbalancing the arguments giving weight to a range of financial and non- financial aspects to arrive at a logical conclusion. Potential positive arguments for the business • Depreciation is being charged and therefore the accounting concepts are being complied with. • The method will reflect the principle of equal usage equal charge for each year. • Does not distort profits. Potential negative points for the business • Computers depreciate quickly due to obsolescence and therefore 20% is a fairly low figure for the early years. • In the early years the computer value in the financial position statement will be overstated. • A full year’s depreciation in the year of purchase would result in high depreciation for non-current assets bought late in the year. Not Easier to calculate Consistent method Level Mark Descriptor 0 A completely incorrect response. Level 1 1-2 Isolated elements of knowledge and understanding which are recall based. Generic assertions may be present. Weak or no relevant application to the scenario set. Level 2 3-4 Elements of knowledge and understanding, which are applied to the scenario. Some analysis is present, with developed chains of reasoning, showing causes and/or effects applied to the scenario, although these may be incomplete or invalid. An attempt at an evaluation is presented, using financial and perhaps non-financial information, with a decision. Level 3 5-6 Accurate and thorough knowledge and understanding. Application to the scenario is relevant and effective. A coherent and logical chain of reasoning, showing causes and effects is present. Evaluation is balanced and wide ranging, using financial and perhaps non-financia",
+          "image": "/papers/wac11-may-2016/q4-4e.png"
+        }
+      ],
+      "image": "/papers/wac11-may-2016/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5e",
+          "text": "Part 5e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "AO2 (1), AO3 (2), AO4 (3) A02: One mark for applying positive or negative aspects of Hiruni’s pricing policy, drawing out key points. A03: Two marks for interpreting and analysing possible solutions to pricing, using a developed chain of reasoning. A04: Three marks for evaluating the scenario counterbalancing the arguments giving weight to a range of financial and non- financial aspects to arrive at a logical conclusion. Potential positive arguments for reducing the price • The actual manufacturing cost without mark-up is less than the £4 per component requirement • Hiruni will need to consider whether she wishes to lose a major customer for her components • Still leaves a positive contribution. Potential negative points for reducing the price • The actual cost of manufacture at £4.14 per component, including mark-up, is greater than what Wash the World will pay • If Huruni is to meet the price a reduced profit/profit margin will be made on the component. Level Mark Descriptor 0 A completely incorrect response. Level 1 1-2 Isolated elements of knowledge and understanding which are recall based. Generic assertions may be present. Weak or no relevant application to the scenario set. Level 2 3-4 Elements of knowledge and understanding, which are applied to the scenario. Some analysis is present, with developed chains of reasoning, showing causes and/or effects applied to the scenario, although these may be incomplete or invalid. An attempt at an evaluation is presented, using financial and perhaps non-financial information, with a decision. Level 3 5-6 Accurate and thorough knowledge and understanding. Application to the scenario is relevant and effective. A coherent and logical chain of reasoning, showing causes and effects is present. Evaluation is balanced and wide ranging, using financial and perhaps non-financial information and an appropriate decision is made. Number Answer Mark A01: Four marks for stating a type of error which will not affect the balancing of th",
+          "image": "/papers/wac11-may-2016/q5-5e.png"
+        }
+      ],
+      "image": "/papers/wac11-may-2016/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wac11-may-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Accounting-WAC11/Accounting-WAC11-2016-unit1-2016-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

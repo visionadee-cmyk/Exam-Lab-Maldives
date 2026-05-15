@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 0516 − Pressure sensor − Motion sensor Device Tick () input  storage output October/November Question Answer Marks Statement ARQ () Check digit () Checksum () checks for errors on data entry  uses a process of acknowledgement and timeout  compares two calculated values to see if an error has occurred   may resend data until it is confirmed as received  checks for errors in data after transmission from a computer to anothe r ",
+          "image": "/papers/computer_science-0478-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Parity check Question Answer Marks − Printer generates interrupt − Interrupt is given a priority − Interrupt is queued − Interrupt stops CPU from processing current task − CPU will service interrupt // Interrupt handler services interrupt ... − ... generating an output message to state there is a paper jam − A suitable description of any error that might occur − A peripheral is connected/disconnected − A key on a keyboard is pressed − A mouse button click − A phone/video call is received − A buffer requires more data − A printer runs out of paper − A printer runs out of ink − Opening an application − When switching from one application to another NOTE: If two suitable different errors are described, this can be awarded two October/November Question Answer Marks − Bits sent one at a time − ... down a single wire − Data sent in both directions ... − ... but only one direction at a time − Simplex only sends data in one direction − ... so, printer may not be able to tell computer an error has occurred, and computer may not be able to send printer the document to be printed NOTE: Award any valid contextual answer for MP2 Question Answer Marks 5 One mark per correct term or description. Component name Description Memory Address Register (MAR) (A register that) holds the address of the data/instruction that needs to be fetched/processed // holds the address of where the data needs to be stored. Program Counter (PC) (A register that) holds the address of the next / current instruction to be processed. accumulator // ACC This is a register that is built into the arithmetic logic unit. It temporary holds the result of a calculation. memory data register // MDR This is a register that holds data or an instruction that has been fetched from memory. Control Unit (CU) Sends control signals to control the flow of data through the CPU // manages the execution of instructions in the CPU address bus This carries addresses around the CPU. Question Answer Marks 6 One mark per correct",
+          "image": "/papers/computer_science-0478-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "10 (a) A denial of service (DoS) attack is a type of Internet security risk. State the purpose of a denial of service attack. ................................................................................................................................................... ............................................................................................................",
+      "text": "10 (a) A denial of service (DoS) attack is a type of Internet security risk. State the purpose of a denial of service attack. ................................................................................................................................................... ............................................................................................................",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) A denial of service (DoS) attack is a type of Internet security risk. State the purpose of a denial of service attack. ................................................................................................................................................... ............................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− To disrupt the operation of a web server/network",
+          "image": "/papers/computer_science-0478-2021/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− To obtain a user’s personal data − Hacking // Cracking − Virus − Spyware − Malware",
+          "image": "/papers/computer_science-0478-2021/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

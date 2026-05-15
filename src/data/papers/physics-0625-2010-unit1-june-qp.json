@@ -1,0 +1,639 @@
+{
+  "paperId": "physics-0625-2010-unit1-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2010-unit1-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "May/June 2010",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A scientist needs to determine the volume of a small, irregularly shaped rock sample. Only a rule and a measuring cylinder, partially filled with water, are available. measuring cylinder rock sample rule cm 3 cm To determine the volume, which apparatus should the scientist use? A both the measuring cylinder and the rule, B neither the measuring cylinder nor the rule, C the measuring cylinder only, D the rule only",
+      "text": "A scientist needs to determine the volume of a small, irregularly shaped rock sample. Only a rule and a measuring cylinder, partially filled with water, are available. measuring cylinder rock sample rule cm 3 cm To determine the volume, which apparatus should the scientist use? A both the measuring cylinder and the rule, B neither the measuring cylinder nor the rule, C the measuring cylinder only, D the rule only",
+      "options": [
+        "A both the measuring cylinder and the rule",
+        "B neither the measuring cylinder nor the rule",
+        "C the measuring cylinder only",
+        "D the rule only"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student uses a stopwatch to time a runner running around a circular track. The runner runs two laps (twice around the track). The diagrams show the reading on the stopwatch when the runner starts running, at the end of the first lap, and at the end of the second lap. reading when runner starts reading at end of first lap reading at end of second lap What is the time taken for the runner to run the second lap? A 0 min 50 s B 1 min 10 s C 1 min 13 s D 2 min 03 s 3",
+      "text": "A student uses a stopwatch to time a runner running around a circular track. The runner runs two laps (twice around the track). The diagrams show the reading on the stopwatch when the runner starts running, at the end of the first lap, and at the end of the second lap. reading when runner starts reading at end of first lap reading at end of second lap What is the time taken for the runner to run the second lap? A 0 min 50 s B 1 min 10 s C 1 min 13 s D 2 min 03 s 3",
+      "options": [
+        "A 0 min 50 s B 1 min 10 s C 1 min 13 s D 2 min 03 s 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two   distance / time graphs and two speed / time graphs are shown. Which graph represents an object that is at rest? A distance time B distance time C speed time D speed time 0 0 0 0 0 0 0 0",
+      "text": "Two   distance / time graphs and two speed / time graphs are shown. Which graph represents an object that is at rest? A distance time B distance time C speed time D speed time 0 0 0 0 0 0 0 0",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A snail moves along a ruler. It takes 20 s to move from Q to R. P 0 Q 2 R 12 cm What is its average speed from Q to R? A 20 12 cm / s B 20 212− cm / s C 12 20 cm / s D 212 20 − cm / s 4",
+      "text": "A snail moves along a ruler. It takes 20 s to move from Q to R. P 0 Q 2 R 12 cm What is its average speed from Q to R? A 20 12 cm / s B 20 212− cm / s C 12 20 cm / s D 212 20 − cm / s 4",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two blocks of metal X and Y hang from spring balances as shown in the diagram. 0 1 2 3 4 5 X 0 1 2 3 4 5 Y NN What does the diagram show about X and Y? A They have the same mass and the same volume but different weights., B They have the same mass and the same weight but different volumes., C They have the same mass, the same volume and the same weight., D They have the same weight and the same volume but different masses. 5",
+      "text": "Two blocks of metal X and Y hang from spring balances as shown in the diagram. 0 1 2 3 4 5 X 0 1 2 3 4 5 Y NN What does the diagram show about X and Y? A They have the same mass and the same volume but different weights., B They have the same mass and the same weight but different volumes., C They have the same mass, the same volume and the same weight., D They have the same weight and the same volume but different masses. 5",
+      "options": [
+        "A They have the same mass and the same volume but different weights.",
+        "B They have the same mass and the same weight but different volumes.",
+        "C They have the same mass, the same volume and the same weight.",
+        "D They have the same weight and the same volume but different masses. 5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how weight varies with mass on planet P and on planet Q. 0 20406080 400 300 200 100 0 weight / N planet P planet Q mass / kg An object weighs 400 N on planet P. The object is taken to planet Q. Which row is correct? mass of object on planet Q / kg weight of object on planet Q / N A 40             200, B 40             400, C 80             200, D 80             400",
+      "text": "The graph shows how weight varies with mass on planet P and on planet Q. 0 20406080 400 300 200 100 0 weight / N planet P planet Q mass / kg An object weighs 400 N on planet P. The object is taken to planet Q. Which row is correct? mass of object on planet Q / kg weight of object on planet Q / N A 40             200, B 40             400, C 80             200, D 80             400",
+      "options": [
+        "A 40             200",
+        "B 40             400",
+        "C 80             200",
+        "D 80             400"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a rectangular block of density 2 g / cm 3 . 2 cm 2 cm 3 cm What is the mass of the block? A 2 g B 6 g C   14 g D   24 g 6",
+      "text": "The diagram shows a rectangular block of density 2 g / cm 3 . 2 cm 2 cm 3 cm What is the mass of the block? A 2 g B 6 g C   14 g D   24 g 6",
+      "options": [
+        "A 2 g B 6 g C   14 g D   24 g 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about a moving object is correct? A When an object is accelerating, the resultant force acting on it must equal zero., B When an object is moving at a steady speed, the air resistance acting on it must equal zero., C When an object is moving at a steady speed, the resultant force acting on it must equal zero., D When an object is moving, there must be a resultant force acting on it.",
+      "text": "Which statement about a moving object is correct? A When an object is accelerating, the resultant force acting on it must equal zero., B When an object is moving at a steady speed, the air resistance acting on it must equal zero., C When an object is moving at a steady speed, the resultant force acting on it must equal zero., D When an object is moving, there must be a resultant force acting on it.",
+      "options": [
+        "A When an object is accelerating, the resultant force acting on it must equal zero.",
+        "B When an object is moving at a steady speed, the air resistance acting on it must equal zero.",
+        "C When an object is moving at a steady speed, the resultant force acting on it must equal zero.",
+        "D When an object is moving, there must be a resultant force acting on it."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An experiment is carried out to measure the extension of a rubber band for different loads. The results are shown below. load / N            0            1            2            3 length / cm       15.2       16.2               18.6 extension / cm       0       1.0       2.1       3.4 Which figure is missing from the table? A 17.2 B   17.3 C   17.4 D   17.6",
+      "text": "An experiment is carried out to measure the extension of a rubber band for different loads. The results are shown below. load / N            0            1            2            3 length / cm       15.2       16.2               18.6 extension / cm       0       1.0       2.1       3.4 Which figure is missing from the table? A 17.2 B   17.3 C   17.4 D   17.6",
+      "options": [
+        "A 17.2 B   17.3 C   17.4 D   17.6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Energy is stored in a battery and in a box of matches. Which type of energy is stored in each of them? a battery a box of matches A chemical          chemical, B chemical      internal      (thermal), C electrical          chemical, D electrical      internal      (thermal)",
+      "text": "Energy is stored in a battery and in a box of matches. Which type of energy is stored in each of them? a battery a box of matches A chemical          chemical, B chemical      internal      (thermal), C electrical          chemical, D electrical      internal      (thermal)",
+      "options": [
+        "A chemical          chemical",
+        "B chemical      internal      (thermal)",
+        "C electrical          chemical",
+        "D electrical      internal      (thermal)"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A man lifts 20 bricks, each of weight 6 N. What other information is needed to calculate the useful work done in lifting the bricks? A the distance he lifts the bricks, B the mass of the bricks, C the time taken to lift the bricks, D the volume of the bricks 7",
+      "text": "A man lifts 20 bricks, each of weight 6 N. What other information is needed to calculate the useful work done in lifting the bricks? A the distance he lifts the bricks, B the mass of the bricks, C the time taken to lift the bricks, D the volume of the bricks 7",
+      "options": [
+        "A the distance he lifts the bricks",
+        "B the mass of the bricks",
+        "C the time taken to lift the bricks",
+        "D the volume of the bricks 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "To prevent a cement mixer sinking into soft ground, the mixer is placed on a large flat board. board soft ground cement mixer Why does this prevent the mixer sinking? A The large area decreases the pressure on the ground., B The large area increases the pressure on the ground., C The large area decreases the weight on the ground., D The large area increases the weight on the ground.",
+      "text": "To prevent a cement mixer sinking into soft ground, the mixer is placed on a large flat board. board soft ground cement mixer Why does this prevent the mixer sinking? A The large area decreases the pressure on the ground., B The large area increases the pressure on the ground., C The large area decreases the weight on the ground., D The large area increases the weight on the ground.",
+      "options": [
+        "A The large area decreases the pressure on the ground.",
+        "B The large area increases the pressure on the ground.",
+        "C The large area decreases the weight on the ground.",
+        "D The large area increases the weight on the ground."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The pressure of a gas is measured using a manometer as shown in the diagram. h mercury pressure to be measured The mercury in the manometer is replaced with a liquid which is less dense. How does the value of h change? A It becomes zero., B It decreases, but not to zero., C It stays the same., D It increases. 8",
+      "text": "The pressure of a gas is measured using a manometer as shown in the diagram. h mercury pressure to be measured The mercury in the manometer is replaced with a liquid which is less dense. How does the value of h change? A It becomes zero., B It decreases, but not to zero., C It stays the same., D It increases. 8",
+      "options": [
+        "A It becomes zero.",
+        "B It decreases, but not to zero.",
+        "C It stays the same.",
+        "D It increases. 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents the molecules of a gas in a closed container of constant volume. What happens to the molecules when the gas is heated? A They   expand., B They hit the walls less often., C They move further apart., D They move more quickly.",
+      "text": "The diagram represents the molecules of a gas in a closed container of constant volume. What happens to the molecules when the gas is heated? A They   expand., B They hit the walls less often., C They move further apart., D They move more quickly.",
+      "options": [
+        "A They   expand.",
+        "B They hit the walls less often.",
+        "C They move further apart.",
+        "D They move more quickly."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid is left in an open dish. After several days there is less liquid in the dish. Which statement explains this? A The least energetic molecules leave the surface and escape into the air., B The least energetic molecules leave the surface and return., C The most energetic molecules leave the surface and escape into the air., D The most energetic molecules leave the surface and return.",
+      "text": "A liquid is left in an open dish. After several days there is less liquid in the dish. Which statement explains this? A The least energetic molecules leave the surface and escape into the air., B The least energetic molecules leave the surface and return., C The most energetic molecules leave the surface and escape into the air., D The most energetic molecules leave the surface and return.",
+      "options": [
+        "A The least energetic molecules leave the surface and escape into the air.",
+        "B The least energetic molecules leave the surface and return.",
+        "C The most energetic molecules leave the surface and escape into the air.",
+        "D The most energetic molecules leave the surface and return."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A thermometer has a scale which starts at –10 °C and ends at 110 °C. –10   0100  110 °C What is the value of the lower fixed point and of the upper fixed point of the scale? lower fixed point / °C upper fixed point / °C A –10              100, B –10              110, C 0              100, D 0              110 9",
+      "text": "A thermometer has a scale which starts at –10 °C and ends at 110 °C. –10   0100  110 °C What is the value of the lower fixed point and of the upper fixed point of the scale? lower fixed point / °C upper fixed point / °C A –10              100, B –10              110, C 0              100, D 0              110 9",
+      "options": [
+        "A –10              100",
+        "B –10              110",
+        "C 0              100",
+        "D 0              110 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student carries out an experiment to find the melting point of wax. The graph shows how the temperature of the wax changes as it cools. 0 0 temperature / °C melting point of wax time X Y Z Which statement is correct? A At X the temperature drops more slowly than at Z., B At Y all the wax is solid., C At Y thermal energy is being given out by the wax., D At Z the wax molecules are not moving.",
+      "text": "A student carries out an experiment to find the melting point of wax. The graph shows how the temperature of the wax changes as it cools. 0 0 temperature / °C melting point of wax time X Y Z Which statement is correct? A At X the temperature drops more slowly than at Z., B At Y all the wax is solid., C At Y thermal energy is being given out by the wax., D At Z the wax molecules are not moving.",
+      "options": [
+        "A At X the temperature drops more slowly than at Z.",
+        "B At Y all the wax is solid.",
+        "C At Y thermal energy is being given out by the wax.",
+        "D At Z the wax molecules are not moving."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Hot  liquid  in  a  vacuum  flask  cools  extremely  slowly.  This  is  because  some  methods  of  heat transfer cannot take place in a vacuum. Which methods cannot take place in a vacuum? A conduction and convection only, B conduction and radiation only, C convection and radiation only, D conduction, convection and radiation 10",
+      "text": "Hot  liquid  in  a  vacuum  flask  cools  extremely  slowly.  This  is  because  some  methods  of  heat transfer cannot take place in a vacuum. Which methods cannot take place in a vacuum? A conduction and convection only, B conduction and radiation only, C convection and radiation only, D conduction, convection and radiation 10",
+      "options": [
+        "A conduction and convection only",
+        "B conduction and radiation only",
+        "C convection and radiation only",
+        "D conduction, convection and radiation 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A teacher demonstrates convection currents using a box with two chimneys and a lighted candle. She holds a smoking taper at point P. In which direction does the convection current cause the smoke to move? chimney chimney B C D A P",
+      "text": "A teacher demonstrates convection currents using a box with two chimneys and a lighted candle. She holds a smoking taper at point P. In which direction does the convection current cause the smoke to move? chimney chimney B C D A P",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which waves are longitudinal? 88:88 B A                                                                   C                                                                   D light waves from a lamp sound waves from a trumpet microwaves in an oven water waves on a pond",
+      "text": "Which waves are longitudinal? 88:88 B A                                                                   C                                                                   D light waves from a lamp sound waves from a trumpet microwaves in an oven water waves on a pond",
+      "options": [
+        "B A                                                                   C                                                                   D light waves from a lamp sound waves from a trumpet microwaves in an oven water waves on a pond"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A navigation buoy floating on the sea oscillates up and down as a wave passes. navigation buoy In exactly two minutes, six complete wavelengths pass the buoy. What is the frequency of the waves? A 0.050 Hz B 0.33 Hz C 3.0 Hz D 20 Hz 11",
+      "text": "A navigation buoy floating on the sea oscillates up and down as a wave passes. navigation buoy In exactly two minutes, six complete wavelengths pass the buoy. What is the frequency of the waves? A 0.050 Hz B 0.33 Hz C 3.0 Hz D 20 Hz 11",
+      "options": [
+        "A 0.050 Hz B 0.33 Hz C 3.0 Hz D 20 Hz 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of light incident on the edge of a piece of glass. The angle i is bigger than the critical angle. Which arrow correctly shows the direction of the ray after it leaves the edge of the glass? D B C A air glass ray of light normal i",
+      "text": "The diagram shows a ray of light incident on the edge of a piece of glass. The angle i is bigger than the critical angle. Which arrow correctly shows the direction of the ray after it leaves the edge of the glass? D B C A air glass ray of light normal i",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram correctly shows rays of light passing through a converging lens in a camera? object lens image camera A B object lens image camera C object lens image camera D object lens image camera",
+      "text": "Which diagram correctly shows rays of light passing through a converging lens in a camera? object lens image camera A B object lens image camera C object lens image camera D object lens image camera",
+      "options": [
+        "A B object lens image camera C object lens image camera D object lens image camera"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the approximate value of the highest frequency that can be heard by a young person? A 20 Hz B   200 Hz C   2000 Hz D   20   000 Hz 12",
+      "text": "What is the approximate value of the highest frequency that can be heard by a young person? A 20 Hz B   200 Hz C   2000 Hz D   20   000 Hz 12",
+      "options": [
+        "A 20 Hz B   200 Hz C   2000 Hz D   20   000 Hz 12"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  police  car  siren  emits  two  different  sounds  P  and  Q.  These  are  produced  alternately.  The diagram represents the sounds emitted. Q                                 Q P                                P                                P time displacement Which sound is the louder and which has the lower pitch? louder      lower      pitch A P           P, B P           Q, C Q           P, D Q          Q",
+      "text": "A  police  car  siren  emits  two  different  sounds  P  and  Q.  These  are  produced  alternately.  The diagram represents the sounds emitted. Q                                 Q P                                P                                P time displacement Which sound is the louder and which has the lower pitch? louder      lower      pitch A P           P, B P           Q, C Q           P, D Q          Q",
+      "options": [
+        "A P           P",
+        "B P           Q",
+        "C Q           P",
+        "D Q          Q"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A magnet attracts two pieces of iron. N                                S iron What is the arrangement of the induced poles in the pieces of iron? N                     S                     S                     N A N                     S                     N                     S B S                     N                     S                     N C S                     N                     N                     S D 13",
+      "text": "A magnet attracts two pieces of iron. N                                S iron What is the arrangement of the induced poles in the pieces of iron? N                     S                     S                     N A N                     S                     N                     S B S                     N                     S                     N C S                     N                     N                     S D 13",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A piece of iron and a piece of steel are picked up by an electromagnet as shown. NS ironsteel electromagnet The current to the electromagnet is switched off. What happens? A Both the iron and the steel remain magnetised., B Neither the iron nor the steel remain magnetised., C Only the iron remains magnetised., D Only the steel remains magnetised.",
+      "text": "A piece of iron and a piece of steel are picked up by an electromagnet as shown. NS ironsteel electromagnet The current to the electromagnet is switched off. What happens? A Both the iron and the steel remain magnetised., B Neither the iron nor the steel remain magnetised., C Only the iron remains magnetised., D Only the steel remains magnetised.",
+      "options": [
+        "A Both the iron and the steel remain magnetised.",
+        "B Neither the iron nor the steel remain magnetised.",
+        "C Only the iron remains magnetised.",
+        "D Only the steel remains magnetised."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows the lengths and diameters of four copper wires. Which wire has the least resistance? length / m     diameter / mm A 0.50           1.0, B 0.50           2.5, C 0.75           1.0, D 0.75           2.5",
+      "text": "The table shows the lengths and diameters of four copper wires. Which wire has the least resistance? length / m     diameter / mm A 0.50           1.0, B 0.50           2.5, C 0.75           1.0, D 0.75           2.5",
+      "options": [
+        "A 0.50           1.0",
+        "B 0.50           2.5",
+        "C 0.75           1.0",
+        "D 0.75           2.5"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A circuit is set up to measure the resistance of a resistor R. The meter readings are 2.0 A and 3.0 V. V A R What is the resistance of the resistor R?, A 0.67 Ω B   1.5 Ω C   5.0 Ω D   6.0 Ω 14",
+      "text": "A circuit is set up to measure the resistance of a resistor R. The meter readings are 2.0 A and 3.0 V. V A R What is the resistance of the resistor R?, A 0.67 Ω B   1.5 Ω C   5.0 Ω D   6.0 Ω 14",
+      "options": [
+        "A and 3.0 V. V A R What is the resistance of the resistor R?",
+        "A 0.67 Ω B   1.5 Ω C   5.0 Ω D   6.0 Ω 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit shown is a potential divider. output X What is component X? A a light-dependent resistor, B a   relay, C a   thermistor, D a variable resistor",
+      "text": "The circuit shown is a potential divider. output X What is component X? A a light-dependent resistor, B a   relay, C a   thermistor, D a variable resistor",
+      "options": [
+        "A a light-dependent resistor",
+        "B a   relay",
+        "C a   thermistor",
+        "D a variable resistor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A lamp is connected in four circuits in turn, each using identical batteries. The resistors are all identical. In which circuit will the lamp be brightest? AB CD 15",
+      "text": "A lamp is connected in four circuits in turn, each using identical batteries. The resistors are all identical. In which circuit will the lamp be brightest? AB CD 15",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows the correct positions for both the switch and the fuse? A live wire fuse neutral wire lamp B live wire fuse neutral wire lamp C live wire fuse neutral wire lamp D live wire switch switch switch switch fuse neutral wire lamp",
+      "text": "Which diagram shows the correct positions for both the switch and the fuse? A live wire fuse neutral wire lamp B live wire fuse neutral wire lamp C live wire fuse neutral wire lamp D live wire switch switch switch switch fuse neutral wire lamp",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "After some building work in a house, a bare (uninsulated) live wire is left protruding from a wall. What is the greatest hazard? A a fire, B a fuse will blow, C an electric shock, D no current will flow 16",
+      "text": "After some building work in a house, a bare (uninsulated) live wire is left protruding from a wall. What is the greatest hazard? A a fire, B a fuse will blow, C an electric shock, D no current will flow 16",
+      "options": [
+        "A a fire",
+        "B a fuse will blow",
+        "C an electric shock",
+        "D no current will flow 16"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A coil is connected to a battery and a soft iron bar is hung near to it. coil soft iron The current is then reversed by reversing the battery connections. How does the soft iron bar behave in the two cases? with the battery as shown     with the battery reversed A attracted to the coil attracted to the coil, B attracted to the coil repelled from the coil, C repelled from the coil attracted to the coil, D repelled from the coil repelled from the coil",
+      "text": "A coil is connected to a battery and a soft iron bar is hung near to it. coil soft iron The current is then reversed by reversing the battery connections. How does the soft iron bar behave in the two cases? with the battery as shown     with the battery reversed A attracted to the coil attracted to the coil, B attracted to the coil repelled from the coil, C repelled from the coil attracted to the coil, D repelled from the coil repelled from the coil",
+      "options": [
+        "A attracted to the coil attracted to the coil",
+        "B attracted to the coil repelled from the coil",
+        "C repelled from the coil attracted to the coil",
+        "D repelled from the coil repelled from the coil"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A transformer has 15 000 turns on its primary coil and 750 turns on its secondary coil. Connected in this way, for what purpose could this transformer be used? A to convert the 8000 V a.c. output of a power station to 160 000 V for long-distance power transmission, B to convert the 160 000 V d.c. supply from a power line to 8000 V for local power transmission, C to use a 12 V d.c. supply to operate a 240 V razor, D to use a 240 V a.c. mains supply to operate a 12 V motor",
+      "text": "A transformer has 15 000 turns on its primary coil and 750 turns on its secondary coil. Connected in this way, for what purpose could this transformer be used? A to convert the 8000 V a.c. output of a power station to 160 000 V for long-distance power transmission, B to convert the 160 000 V d.c. supply from a power line to 8000 V for local power transmission, C to use a 12 V d.c. supply to operate a 240 V razor, D to use a 240 V a.c. mains supply to operate a 12 V motor",
+      "options": [
+        "A to convert the 8000 V a.c. output of a power station to 160 000 V for long-distance power transmission",
+        "B to convert the 160 000 V d.c. supply from a power line to 8000 V for local power transmission",
+        "C to use a 12 V d.c. supply to operate a 240 V razor",
+        "D to use a 240 V a.c. mains supply to operate a 12 V motor"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What are cathode rays? A a beam of electrons, B a beam of neutrons, C a beam of protons, D electromagnetic waves 17",
+      "text": "What are cathode rays? A a beam of electrons, B a beam of neutrons, C a beam of protons, D electromagnetic waves 17",
+      "options": [
+        "A a beam of electrons",
+        "B a beam of neutrons",
+        "C a beam of protons",
+        "D electromagnetic waves 17"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A cathode-ray tube has an anode and an earthed cathode. Which row shows the charge on the anode and the temperature of the cathode? anode charge cathode temperature A negative            cool, B negative             hot, C positive             cool, D positive             hot",
+      "text": "A cathode-ray tube has an anode and an earthed cathode. Which row shows the charge on the anode and the temperature of the cathode? anode charge cathode temperature A negative            cool, B negative             hot, C positive             cool, D positive             hot",
+      "options": [
+        "A negative            cool",
+        "B negative             hot",
+        "C positive             cool",
+        "D positive             hot"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the properties of α-particles? ionizing effect radiation stopped by aluminium? A large               no, B large              yes, C small              no, D small              yes",
+      "text": "Which row describes the properties of α-particles? ionizing effect radiation stopped by aluminium? A large               no, B large              yes, C small              no, D small              yes",
+      "options": [
+        "A large               no",
+        "B large              yes",
+        "C small              no",
+        "D small              yes"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  radioactive  substance  has  a  half-life  of  2  weeks.  At  the  beginning  of  an  investigation  the substance emits 3000 β-particles per minute. How many β-particles will it emit per minute after 6 weeks? A 0   B   375   C   500   D   1500",
+      "text": "A  radioactive  substance  has  a  half-life  of  2  weeks.  At  the  beginning  of  an  investigation  the substance emits 3000 β-particles per minute. How many β-particles will it emit per minute after 6 weeks? A 0   B   375   C   500   D   1500",
+      "options": [
+        "A 0   B   375   C   500   D   1500"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The nuclide notation for radium-226 is Ra 226 88 . How many electrons orbit the nucleus of a neutral atom of radium-226? A 0 B 88 C 138 D 226 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of",
+      "text": "The nuclide notation for radium-226 is Ra 226 88 . How many electrons orbit the nucleus of a neutral atom of radium-226? A 0 B 88 C 138 D 226 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of",
+      "options": [
+        "A 0 B 88 C 138 D 226 18 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. University of Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2010/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2010",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2010-unit1-2010-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

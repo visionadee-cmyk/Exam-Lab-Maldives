@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2019-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "1 (a) • Close the switch. • Adjust the position of the crocodile clip, so that the length l of the slide wire connected is 20.0 cm. • Record in Table 1.1 the value of the p.d. V and the current I for the lamp. • Move the crocodile clip and record values of V and I for l = 40.0 cm, 60.0 cm, 80.0 cm and 100.0 cm. • Open the switch.",
+      "text": "1 (a) • Close the switch. • Adjust the position of the crocodile clip, so that the length l of the slide wire connected is 20.0 cm. • Record in Table 1.1 the value of the p.d. V and the current I for the lamp. • Move the crocodile clip and record values of V and I for l = 40.0 cm, 60.0 cm, 80.0 cm and 100.0 cm. • Open the switch.",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) • Close the switch. • Adjust the position of the crocodile clip, so that the length l of the slide wire connected is 20.0 cm. • Record in Table 1.1 the value of the p.d. V and the current I for the lamp. • Move the crocodile clip and record values of V and I for l = 40.0 cm, 60.0 cm, 80.0 cm and 100.0 cm. • Open the switch.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V all < 4.00 V and to 1dp at least I all < 1.00 A and to 2dp at least",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R values correct and increasing axes labelled correct orientation, with quantity and unit appropriate scales (plots occupying at least ½ grid) plots all correct to less than ½ small square and precise plots well-judged line and thin line",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "resistance increases as temperature increases ( R increases with l ), brighter lamp = higher (filament) temperature",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "variable resistor symbol correct (rectangle with strike-through arrow only) in series and rest of circuit correct 0625/53 October/November 2019 v = 30.0 to 70.0(cm) f correctly calculated 2/3 sig fig and unit move screen slowly / backwards and forwards h I = 1.4 to 5.2(cm) and h O = 1.0 to 2.0 (cm) M and no unit f within 10% of f",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results values within limits of experimental accuracy / owtte one from: • mark position of lens on holder; • clamp rule / place rule on bench; • ensure screen, lens and object all perpendicular (to bench); • view scale perpendicularly; • mark top and bottom of image and measure later",
+          "image": "/papers/physics-0625-2019/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "either method suggested if matching valid explanation e.g. METHOD 1: difficult to measure height of image in method 2 METHOD 1: smaller lengths measured in method 2 / reverse argument METHOD 2: can’t measure u and v to lens accurately in method 1 0625/53 October/November 2019 sensible value two from: • rule close / parallel to spring; • eye perpendicular to reading / use set square; • clamp rule",
+          "image": "/papers/physics-0625-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l values all increasing and larger than l",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculations of e",
+          "image": "/papers/physics-0625-2019/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l x present 2.0 N < W x < 3.0 N statement matching results correct justification matching statement e.g. • L / e constant • e doubles when L doubles (line) through origin 0625/53 October/November 2019 MP1 Apparatus beaker and (material for) lid and thermometer and stopclock (or alternative) MP2 Method pour (hot) water into container measure temperature of (hot) water over period of time MP3 Method repeat for different thicknesses of lid MP4 & MP5 Control variables any two from: • same initial/starting temperature of water; • same volume of water; • same size / material / thickness of beaker; • same material for lid; • same time for measuring temperature change / same temperature difference for measuring time taken; • same room temperature / other environmental condition MP6 Table suitable column headings and units MP7 Analysis any one from: • comparison of temperature decrease / rates of cooling with thickness / different lids • draw a suitable graph with axes stated",
+          "image": "/papers/physics-0625-2019/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,175 @@
+{
+  "paperId": "wph11-oct-2022-unit4-qp",
+  "pairedMarkSchemeId": "wph11-oct-2022-unit4-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH14/01",
+  "session": "October 2022",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "11 (a) Pions belong to a group of particles known as mesons. State the quark structure of mesons. (1) .................................................................................................................................................................................................................................................. (b) Muons belong to a family of particles known as l",
+      "text": "11 (a) Pions belong to a group of particles known as mesons. State the quark structure of mesons. (1) .................................................................................................................................................................................................................................................. (b) Muons belong to a family of particles known as l",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "11 (a) Pions belong to a group of particles known as mesons. State the quark structure of mesons. (1) .................................................................................................................................................................................................................................................. (b) Muons belong to a family of particles known as l",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Quark and anti-quark [Accept qq ̅ , ignore correct examples such as ud ̅ , do not accept ‘quarks and antiquarks’] (1) • Leptons are fundamental (particles) • They cannot be broken down (into smaller particles) • They have a lepton number ≠ 0 • Lepton number = 1 or –1 • L = 1 or –1 • They have a baryon number = 0 • B = 0 [Accept – not subject to strong (nuclear) force] [Accept – subject to weak force] (1)",
+          "image": "/papers/wph11-oct-2022/q11-11a.png"
+        },
+        {
+          "id": "11c",
+          "text": "Part 11c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Charge on X must be 0 Or X is neutral • Lepton number of a pion is 0 • Muon has a lepton number of +1 • X must have a lepton number of −1 4th mark dependent on all four points and a conclusion that the student is correct [Baryon number of X = 0 – not necessary for deduction, but accept as 1 mark alternative if MP1,2,3,4 not awarded] (1) (1) (1) (1) Total for question 11 6 Number Answer Mark",
+          "image": "/papers/wph11-oct-2022/q11-11c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Curve of decreasing negative gradient beginning at a positive current value • Initial current labelled as 0.077 (A) • Use of Time Constant = RC • Time for discharge marked as 11(.05) (s) Or 2.2 s marked when current has decreased to about 1/3 of initial value (0.028 A) Or 1.5 s marked when current has decreased to about 1/2 of initial value (0.038 A) Example of graph Example of calculation I = V/R = 5000 V / 65×10 Ω = 0.077 A T = RC = 65×10 Ω × 34×10 −6 F = 2.21 s (1) (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of I = V/R • Use of ln퐼=ln퐼 −푡/푅퐶 • t = 0.53 ms • Conclusion with comparison between relevant calculated quantity and corresponding value from question Or • Use of I = V/R • Use 퐼=퐼 o 푒 – 푡 푅퐶 with t = 2.0 ms • I = 22.5 A • Conclusion with comparison between relevant calculated quantity and corresponding value from question Example of calculation I = 5000/150 = 33.3 A ln30 =ln33.3 −푡/150Ω×34×10 −6 F t = 0.53 ms which is less than 2.0 ms, so it does not meet the requirement (1) (1) (1) (1) (1) (1) (1) (1) Total for question 12 8 Number Answer Mark",
+          "image": "/papers/wph11-oct-2022/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of eV to J conversion factor • Use of ΔE = c Δm • Determines mass of Z boson = 1.62×10 −25 (kg) Or mass of proton = 9.39×10 (eV/c ) • Mass is 97 times greater Example of calculation mass of boson = 91 GeV/c ×10 ×1.6×10 −19 JeV −1 (3×10 ) (m s −1 ) =1.62×10 −25 kg mass = 1.62×10 −25 kg 1.67×10 −27 kg mass= 97 times that of a proton Alternative: mass of proton = 1.67×10 −27 kg×(3×10 ) (m s −1 ) 1.6×10 −19 JeV −1 = 0.939 GeV/c 100 ×0.939 GeV/c = 94 GeV/c which is just a bit more than mass of Z boson. (1) (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Mass-energy is conserved Or refers to ΔE = c Δm • Need for large amounts of energy to create a high-mass particle Or Need more energy because mass of Z much greater than mass of proton(s) [accept 97 times] • (Additional) energy comes from the kinetic energy of colliding particles (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q13-13b.png"
+        },
+        {
+          "id": "13c",
+          "text": "Part 13c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• At speeds close to the speed of light • there is a relativistic increase in lifetime Or time dilation occurs [do not accept dilution] (1) (1) Total for question 13 9 Number Answer Mark *14 This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Guidance on how the mark scheme should be applied: The mark for indicative content should be added to the mark for lines of reasoning. For example, an answer with five indicative marking points which is partially structured with some linkages and lines of reasoning scores 4 marks (3 marks for indicative content and 1 mark for partial structure and some linkages and lines of reasoning). If there are no linkages between points, the same five indicative marking points would yield an overall score of 3 marks (3 marks for indicative content and no marks for linkages). Indicative content: IC1: Change in flux linkage as magnet falls (through each tube) Or (magnetic) field lines cut the metal IC2: EMF induced (in each tube) IC3: Tube(s) made of conducting material, so there is a current Or Tube provides a closed circuit, so there is a current IC4: Magnetic field associated with this current IC5: Upward force exerted on magnet as the field is such to oppose the change that creates Or Due to Lenz’s law there is a force opposing the motion of the magnet IC6: Magnet takes less time to fall through Tube B because the slit reduces the number of paths for current in the conductor Total for question 14 Number Answer Mark Beta • Beta particles are much less massive than alpha particles • So beta might be deflected by the electrons (surrounding the nucleus of gold) Or • Beta more",
+          "image": "/papers/wph11-oct-2022/q13-13c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q13.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of ω = ∆θ / ∆t • Use of 푣=푟휔 • v = 4.7 m s −1 Or • Use of ∆s =r ∆θ • Use of 푣=∆푠 / ∆푡 • v = 4.7 m s −1 Example of calculation ω = 1.3 rads / 0.22 s = 5.9 rad s −1 v = 5.9 rad s −1 × 0.80 m = 4.73 m s −1 (1) (1) (1) • Use of p = mv • Use of the scale 1:2 • Adds scaled line at 56° to correctly represent initial momentum • Adds scaled line to correctly represent final momentum of ball • Concludes that conservation of momentum is obeyed as their diagram completes a triangle Or Concludes that conservation of momentum isn’t obeyed as their triangle has a small gap OR • Use of p = mv • Use of the scale 1:2 • Adds scaled line at 56° to correctly represent initial momentum • Adds line to complete triangle • Concludes that conservation of momentum is obeyed as their line is the right length Or Concludes that conservation of momentum isn’t obeyed as their line is not the right length Example of vector diagram Or Example of calculation Momentum ball before = 0.16 kg × 13 m s −1 = 2.08 N s, length = 4.16 cm Momentum ball after = 0.16 kg × 16 m s −1 = 2.56 N s, length = 5.12 cm (1) (1) (1) (1) (1) • Use of 퐸 푘 = 푚푣 • Uses total kinetic energy before = E k heel + E k ball before • Total kinetic energy before = 21.0 (J) or kinetic energy after = 20.5 (J) • Elastic collision because total E k before = E k after Or Not elastic collision total E k before is not the same as E k after (both figures must have been correctly calculated) Example of calculation E k heel = ½ × 3.0 Ns × 5.0 m s −1 = 7.5 J E k ball before = 0.16 kg×13 (m s -1 ) = 13.5 J E k after = 0.16 kg×16 (m s -1 ) = 20.5 J Total kinetic Energy before = 21.0 J (1) (1) (1) (1) Total for question 16 12 Number Answer Mark",
+          "image": "/papers/wph11-oct-2022/q16-16a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Vector velocities at the two positions as part of a triangle and third side identified as Δv • Small angle, so Δv/v ≈ θ ≈ sin θ Or Small angle, so arc AB ≈ chord AB Or Small angle, so s/r = θ ≈ sin θ • Use of θ /t = 휔 and v = r휔 Or Use of similar triangles and θ = s/r and s /t = v • Use of acceleration a = Δv/t • Suitable algebra to show a = v /r Example of derivation Small angle, so Δv/v ≈ θ ≈ sin θ θ /t = 휔 So θ = 휔t But v = r휔 So θ = vt / r Δv/v ≈ θ So vt / r = Δv/v a = Δv/t = v /r (1) (1) (1) (1) (1) • Idea that vertical component of lift force equals weight of aeroplane • Vertical component of resultant force is zero, so aeroplane does not accelerate vertically Or Vertical component of resultant force is zero so it would remain flying horizontally • Horizontal component of lift force acts as centripetal force Or Resultant force on aeroplane is horizontal and acts as centripetal force Or Horizontal component of lift force acts at 90° to motion • So it follows a circular path (dependent on MP3) (1) (1) (1) (1) • Use of W = mg • Use of Lcos θ = mg • Use of Lsin θ = mv / r • Radius = 3.2 × 10 m Example of calculation W = 4.1 × 10 × 9.81 = 4.02 × 10 N Lcos 5.2° = 4.02 × 10 N L = 4.04 × 10 N mv / r = 4.04 × 10 N × sin 5.2° = 3.66 × 10 N 3.66 × 10 N = 4.1 × 10 × 530 / r r = 3.15 × 10 m (1) (1) (1) (1) Total for question 17 13 –v A v B v Number Answer Mark • Use of E = V/d • V = 4.5 × 10 V Example of calculation 7.5 × 10 = V / 0.06 V = 4.5 × 10 V (1) (1) • Use of E = F/Q • Use of ∆W = F∆s with s = 3.0cm • Use of ∆W = E k = ½mv • v = 5.2 × 10 (m s −1 ) Or • Use of E = F/Q • Use of F = ma • Use of v = u + 2as with s = 3.0cm • v = 5.2 × 10 (m s −1 ) Or • Use of V = W/Q • Understanding that V = 2.25 × 10 V (ecf from (i)) • Use of ∆W = E k = ½mv • v = 5.2 × 10 (m s −1 ) Example of calculation 7.5 × 10 Vm −1 = F / 1.6 × 10 -19 C (F = 1.2 × 10 -13 N) ∆W = 1.2 × 10 -13 N × 0.03 m (∆W = 3.6 × 10 -15 J) 3.6 × 10 -15 J = ½ × 2.7 × 10 -26 kg × v v = 5.16 × 10 (m s −1 ) (1) (1) ",
+          "image": "/papers/wph11-oct-2022/q17-17a.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18c",
+          "text": "Part 18c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Isotopes have different masses • The magnetic force will be the same because charge is the same Or r = mv / Bq and B, q, v are all the same • Different mass will lead to a circle/path with different radius/deflection (so only one isotope is detected) (1) (1) (1) Total for question 18 14 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2022/q18-18c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q18.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit4-2022-10-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

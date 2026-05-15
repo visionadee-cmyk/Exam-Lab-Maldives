@@ -1,0 +1,91 @@
+{
+  "paperId": "wph11-may-2021-unit4-qp",
+  "pairedMarkSchemeId": "wph11-may-2021-unit4-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH14/01",
+  "session": "May 2021",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Calculate period = 8.3 s ÷ 10 = 0.83 s or calculate f = 10/ 8.3 s = 1.2 Hz • Use of ω = 2π / T or Use of ω = 2πf • ω = 7.6 rad s −1 Example of calculation T = 8.3 s ÷ 10 = 0.83 s Use of ω = 2π / T ω = 7.6 rad s −1 (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of F = BIl sinθ • F = 2.0 × 10 −3 N • direction is out of page Example of calculation F = 0.053 T × 1.1 A × 3.5 × 10 −2 m × sin 80º = 2.0 × 10 −3 N (1) (1) (1) Total for question 11 6 number Answer Mark 12 (a) • Evidence of E k = ½ mv and p = mv • Correct algebraic link to E k = p /2m Example of derivation E k = ½ mv [= m × mv / 2 × m] = (mv) / 2m [p = mv] E k = p /2m (1) (1)",
+          "image": "/papers/wph11-may-2021/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of F = Eq • Use of W = Fs • Use of E k = p /2m Or Use of E k = ½ mv and p = mv in conjunction • Momentum = 9.33 × 10 –20 kg m s −1 Example of calculation F = 7.64 × 10 V m –1 × 1.60 × 10 –19 C = 1.22 × 10 –12 N W = 1.22 × 10 –12 N × 5.50 × 10 –3 m = 6.72 × 10 –15 J 6.72 × 10 –15 J + 6.42 × 10 –15 J = 1.31 × 10 –14 J 1.31 × 10 –14 J = p / 2 × 3.32 × 10 –25 kg p = 9.33 × 10 –20 kg m s −1 (1) (1) (1) (1) Total for question 12 6 number Answer Mark • Use of ∆E grav = mg∆h • Idea that centripetal force at top of loop equals weight for minimum speed • Use of F = mv /r • Use of E k = ½ mv • Add E grav at top of loop and required E k Or Subtract E grav at top of loop from E grav at launch Or Subtract required E k from E grav at launch • (∆E grav at start of) 0.081 J is less than 0.089 J ( for sum of E grav at top of loop and required E k , so insufficient energy), so it does not complete the loop Or ( Height required of) 0.275 m is greater than 0.25 m, (the height of launch position, so insufficient energy), so it does not complete the loop Or E k at height of top of loop would be 0.0097 J which is less than the required 0.071 J (so insufficient energy), so it does not complete the loop Or v at height of top of loop would be 0.77 m s –1 which is less than the required 1.04 m s –1 so it does not complete the loop Or mv /r = 0.18 N which is less than weight of 0.32 N so it does not complete the loop Do not credit parts of calculation or derivation unambiguously using the formula for uniform acceleration v = 2as, i.e. if the symbols are seen and substitution is from them and not from mg∆h = ½ mv Example of calculation ∆E grav at release point = 0.033 kg × 9.81 N kg –1 × 0.25 m = 0.0809 J W = 0.033 kg × 9.81 N kg –1 = 0.324 N At minimum speed W = mv /r 0.324 N = 0.033 kg × v / 0.11 m v = 1.04 m s –1 E k = ½ × 0.033 kg × (1.04 m s –1 ) = 0.0178 J ∆E grav at top of loop = 0.033 kg × 9.81 N kg –1 × 0.22 m = 0.0712 J Total energy required to complete loop = 0.0178 J + 0.0712 J",
+          "image": "/papers/wph11-may-2021/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q12.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "parts": [
+        {
+          "id": "18a",
+          "text": "Part 18a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Mass equal (to mass of electron) • Charge equal and opposite (to charge of electron) • Lepton number (equal and) opposite (to lepton number of electron) (1) (1) (1) 18 (b) • Curvature more in top half of picture • Particle moving slower after passing through lead plate because energy lost, so moving from lower half to top half • (Applying FLHR,) field into page (mark dependent on an indication of correct direction of positron motion) (1) (1) (1) 18 (c) (i) • Use of conversion factor 1.6 × 10 −19 C • Use of E k = ½ mv • Calculated speed = 2.8 × 10 ( m s −1 ), which is greater than the speed of light (so it must be relativistic) Example of calculation E k = 23 × 10 eV × 1.6 × 10 −19 C = 3.7 × 10 −12 J 3.7 × 10 −12 J = 0.5 × 9.11 × 10 −31 kg × v v = 2.8 × 10 m s −1 (1) (1) (1) 18 (c) (ii) • Use of E = pc (ecf for E from (c)(i)) • Use of r = p/Bq • B = 2.1 T Do not award MP1 if p = mv calculated using v from part (i) Example of calculation 3.7 × 10 −12 J = p × 3.00 × 10 m s −1 p = 1.2 × 10 −20 N s 0.037 m = 1.2 × 10 −20 N s / B × 1.6 × 10 −19 C B = 2.1 T (1) (1) (1) 18 (d) • Use of E k = ½ mv • Use of ∆E = c ∆m • Use of E = hf • f = 1.2 × 10 Hz Example of calculation E k = 2 × 0.5 × 9.11 × 10 −31 kg × (1.5 × 10 m s −1 ) = 2.0 × 10 −16 J ∆E = (3.00 × 10 m s −1 ) × 2 × 9.11 × 10 −31 kg = 1.64 × 10 −13 J Total energy = 1.64 × 10 −13 J + 2.0 × 10 −16 J = 1.64 × 10 −13 J Energy for one gamma photon = 8.2 × 10 −14 J 8.2 × 10 −12 J = 6.63 × 10 −34 J s × f f = 1.2 × 10 Hz (1) (1) (1) (1) Total for question 18 16 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2021/q18-18a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q18.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit4-2021-06-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

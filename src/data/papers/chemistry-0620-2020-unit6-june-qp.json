@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2020-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "spots / baseline below solvent level baseline drawn in ink yellow (and) blue use an organic solvent / different solvent",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all six burette readings correct • 10.2 / 0.0 • 25.9 / 5.5 • 33.0 / 2.4 all readings to 1 dp initial and final readings the correct way round all subtractions correct to calculate volume added • 10.2 • 20.4 • 30.6",
+          "image": "/papers/chemistry-0620-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) yellow (to) red / pink / orange",
+          "image": "/papers/chemistry-0620-2020/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solution F more concentrated (than solution E) 1.5 times 0620/61 May/June 2020 cm clean / remove residues from previous experiment does not change amount of E / F or volumes / amounts already measured any two from: • using measuring cylinder • missing endpoint / misjudging colour change • not repeating improvements any two from: • use pipette (in place of measuring cylinder) • add more slowly • repeat (and find mean) Tests on solid G three from: • bubble / fizz / effervescence • blue solution formed • (gas made turns) limewater • milky",
+          "image": "/papers/chemistry-0620-2020/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• carbon dioxide / CO 0620/61 May/June 2020 precipitate dark(er) / royal blue and dissolves / solution",
+          "image": "/papers/chemistry-0620-2020/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not a halide tests on solid H sodium / Na + sulfate / SO 2- sodium sulfate = 2 Na SO = 2 add metals to HC l in a beaker / flask / test-tube fair test – max 4 • same volume HC l • some concentration HC l • same temperature acid • same mass / moles / amount metals • same surface area / form of metal measure • start timing when solid added • stop timing when all solid gone / reaction to stop 0620/61 May/June 2020 OR • start timing when solid added • stop timing when collected set volume of gas OR • start timing when solid added • measure volume of gas after a set time OR • measure temperature at start • measure temperature after reaction OR highest temperature reached conclusion • shortest time is most reactive OR • biggest volume of gas most reactive OR • biggest temperature change most reactive",
+          "image": "/papers/chemistry-0620-2020/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit6-2020-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

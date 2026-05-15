@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2023-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) The student places a circular load of mass M = 20 g on the metre ruler but in a position different from that shown in Fig. 1.1. 23456789101112 10 131415 load metre ruler Fig. 1.2 (not to scale) Determine the distance d 0 of the centre of the load from the zero end of the ruler, as shown in Fig. 1.2. Fig. 1.2 is not to scale. d 0 = .......",
+      "text": "1 (a) The student places a circular load of mass M = 20 g on the metre ruler but in a position different from that shown in Fig. 1.1. 23456789101112 10 131415 load metre ruler Fig. 1.2 (not to scale) Determine the distance d 0 of the centre of the load from the zero end of the ruler, as shown in Fig. 1.2. Fig. 1.2 is not to scale. d 0 = .......",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The student places a circular load of mass M = 20 g on the metre ruler but in a position different from that shown in Fig. 1.1. 23456789101112 10 131415 load metre ruler Fig. 1.2 (not to scale) Determine the distance d 0 of the centre of the load from the zero end of the ruler, as shown in Fig. 1.2. Fig. 1.2 is not to scale. d 0 = .......",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d = 7.5 (cm) idea of allow to (just) tip one way then the other way / owtte b / a = 0.14  axes labelled with quantity and unit  appropriate scales (plots occupying at least ½ grid between plotted points)  plots all correct to ½ small square and precise plots  well-judged line and thin line G present and triangle method seen on graph M R in range 140 to 170 and with unit of g r on pivot without mass M , read position of pivot when rule r as near to balance as possible / owtte b calculated from b = 48.7  p 0625/63 May/June 2023",
+          "image": "/papers/physics-0625-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "voltmeter in parallel connection with resistor U",
+          "image": "/papers/physics-0625-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V = 1.7 I = 0.42 R = 4.05 / ecf, 3.89, 3.81 consistent to 2 or consistent to 3 significant figures for R statement matching results values used seen, and justification matching statement e.g. within limits of experimental accuracy / owtte rectangle with strike-through arrow only in series connection can obtain continuous set of values / more straightforward to change current / can obtain more values easily",
+          "image": "/papers/physics-0625-2023/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "straight line and through origin 0625/63 May/June 2023  = 15(°) ± 1(°) d = 3.5 (cm) no and too close / must be as far apart as possible",
+          "image": "/papers/physics-0625-2023/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines fine, straight and in correct relation  = 27(°) ± 2(°) statement matching results j ustification matching statement and quoting values two suitable precautions, e.g.:  thin lines / sharp pencil  view bottom of pins / keep pins upright  ensure pins far apart",
+          "image": "/papers/physics-0625-2023/q3-3c.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficult to align pins / place pins accurately / pins (too) thick 0625/63 May/June 2023 4 MP1 apparatus: thermometer and stop-watch MP2 method: measure independent variable and measure temperature and time MP3 repeat for new value of independent variable MP4 control variable: any one from:  volume of water  initial temperature MP5 table: columns, with units, for independent variable, temperature, time MP6 analysis: compare readings to see if change in lid thickness produces change in (rate of) temperature change (owtte) plot line graph (with axes specified) MP7 additional point any one from:  at least 5 sets of data taken  repeat for each value of independent variable and take average  nd appropriate control variable stated  description of calculating rate of cooling from results",
+          "image": "/papers/physics-0625-2023/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit6-2023-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

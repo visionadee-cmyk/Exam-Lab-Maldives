@@ -1,0 +1,225 @@
+{
+  "paperId": "wma11-oct-2025-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma11-oct-2025-unit1-v01-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WMA11/01",
+  "session": "October 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 y x x = + + d3 d2 y xx x −  =+    M1 A1 A1 (3) Notes (a) M1: Attempts to differentiate achieving one correct index or for → Award for ... xx → or ... xx − → (oe) or for → Allow indices to be unprocessed for this mark e.g. 2 1 ... xx − → or ... xx − → A1: One correct simplified algebraic term. E.g. x or x − oe e.g. 1.5 , x x Condone x for 12x for this mark. Do not allow x −  for x − Award as soon as a correct simplified term is seen. A1: d3 d2 y xx x −  =+    or simplified equivalent such as 1.5 x x + . Do not allow x for 12x for this mark. There is no need for d \"\" d y x = so just look for the correct expression and apply isw once a correct answer is seen. d3 d2 y x x c x −  = + +    scores A0 here as does d3 d2 y xx x −  = + +    (b) x= () d134 12... 6 d421 y x  =  + =    M1 ,    '' 6 '' yx   − =−    or e.g. '' 6 '' ... y x c c c = +  =  +  = dM1 61yx = + A1 (3) (6 marks) Notes (b) M1: Substitutes x = into their d d y x and finds its value. Their d d y x cannot be the same as ''y''. Score for sight of x = substituted consistently into their d d y x followed by a value or it may be implied by a correct value for their d d y x if no substitution is seen. Condone a miscopy of their d d y x if the intention is clear. Do not award this mark for work such as d 3 1 0 or ... d 2 4 y x x c c c x − −         = + + = + + =  =                         dM1: Correct method for finding the equation of the tangent (not the normal). Look for the correct use of their non-zero d d y x at x = and the point ,    with the values correctly placed. If the form y mx c=+ is used they must proceed as far as c = ... e.g. \"6\" ... cc = +  = Depends on the first method mark. A1: 61yx=+ Cso Note if they do not use part (a) for part (b) e.g. just use a calculator they will need to obtain a gradient of 6 for the first mark, then apply the scheme. Number Scheme Marks 2. ( 3) (2 5) d x x x −+  ( 3",
+          "image": "/papers/wma11-oct-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-03.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 2 2 4 cos'' ''  = + −   or e.g. ( ) ( ) ( ) 2 2 4 cos'' '' x x x x x  = + −   or cos'' ''  +− =  or e.g. ( ) ( ) ( ) ( ) ( ) cos'' '' x x x xx  +− =  M1 108.2   =  A1 (2) Alternative using the cosine rule for a different angle and then the sine rule e.g. 2 4 5 cos\" \" cos\" \" 2 4 5 AA +− = + −    =  22.33...   =  sin 22.33... sin\" \"  = M1 5sin 22.33... sin\" \" 108.2   =  =  A1 (a) Notes Note that some candidates may use equivalent correct ratios e.g. 1 : 2 : or : 2 : x x x or :: 11 11 11 or :: xxx M1: Attempts to use the cosine rule with the sides 2, 4 and 5 or e.g. 2x, 4x and 5x or e.g. x, 2x and 2.5x in the correct positions for the largest angle. Condone missing brackets e.g. x rather than ( ) x as long as the intention is clear. If they start with a rearranged rule, the values or expressions must be in the correct positions. A1: awrt 108.2  = (Degrees symbol not required) Allow missing brackets to be recovered e.g. cos'' '' 108.2 2 2 x x x xx  +−  =  =   Note that attempts to find any of the other angles, correct or incorrect, can be ignored if the largest angle is found correctly. Alternative: M1: Attempts to use the cosine rule with the sides 2, 4 and 5 or e.g. 2x, 4x and 5x in the correct positions for their angle and then attempts to use the sine rule with their angle and the largest angle in the correct positions. Note that they may also find the other smaller angle using the sine rule (or cosine rule) and then subtract the 2 smaller angles from 180° A1: awrt 108.2= (Degrees symbol not required) Note that this method is likely to lead to the acute angle (71.79...°) and scores A0 Allow missing brackets to be recovered as above. (b) sin 4 sin''108.2 '' A ab C x x =  =   or e.g. sin sin'' 22.33... '' A ab C a a =  =   B1ft 36.8...... 8sin(''108.2 '') xx== =  M1 Shortest side = 36.8... 12.1 = (cm) A1 (3) (5 marks) (b) Notes B1ft: Sets up a correct area equation in one variable e.g. x. using sin A ab C = with A = 1",
+          "image": "/papers/wma11-oct-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-07.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Find the size of the largest angle of the triangle, in degrees, to one decimal place. (2) Given that the area of the triangle is 140 cm 2 (b) find the length of the shortest side, in cm, to one decimal place. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+      "text": "5 (a) Find the size of the largest angle of the triangle, in degrees, to one decimal place. (2) Given that the area of the triangle is 140 cm 2 (b) find the length of the shortest side, in cm, to one decimal place. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Find the size of the largest angle of the triangle, in degrees, to one decimal place. (2) Given that the area of the triangle is 140 cm 2 (b) find the length of the shortest side, in cm, to one decimal place. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 50 2 2( ...) ... x x x x x − +  − +    B1 2( 4) x  − + M1 A1 (3) Notes (a) B1: Writes xx −+ in the form 2(...)...x or e.g. 2 (...)...x     M1: For 2(4)...x− or e.g. 2 (4)...x  −   . Allow e.g. − or − for −4 A1: For 2( 4) x −+ Condone any spurious “ = 0” e.g. 2( 4) 18 0 x − + = (b) Eqn of l is '' '' yx = or d d y yxxx x = − +  = − At M 16 0 4, x x y y x − =  = =  = M1 B1 on ePEN 100 0 x x x x x − + =  − + = or e.g. xx += M1 A1 ()() 441100 04 4250...xxxxx− + =  −− =  = ddM1 x= o.e. A1 (5) Notes (b) M1: Deduces that equation of l is '' '' yx = o.e. Follow through on '' '' c yx b = − from (a) Alternatively finds the coordinates of M (p, q) by using calculus and forms the equation q yx p = M1: Equates y x x = − + and their l of the form y mx = and collects terms to form a 3 term quadratic equation. Condone a miscopy of y x x = − + as long as the intention is clear. A1: Correct 3 term quadratic equation. The terms do not have to all be on the same side but must be collected so e.g. xx += is acceptable. If the terms are all one side, the “= 0” may be implied by their attempt to solve. ddM1: Correct non calculator method of solving their 3TQ. Depends on both previous method marks. Do not allow for quoting the quadratic formula quoted followed by values e.g. 100 0 , 4 b b ac x x x a −  − − + =  = = But allow e.g. 41414 4 100 441100 0 xxx −   − + =  =  Do not allow obvious use of a calculator where the factors do not correspond with their 3TQ e.g. () 441100 040, 4 xxxxx  − + =  −− =  =   or e.g. ( ) ( ) 50 0 , 4 x x x x x − + =  − − =  = or e.g. ()() 441100 0425 4160, 4 xxxxx− + =  −− =  = but allow e.g. () 441100 0440, 4 xxxxx  − + =  −− =  =   and allow e.g. ( ) ( ) ( ) ( ) 100 0 25 4 , 4 x x x x x x x − + =  − − = − − =  = A1: x = only. If x = 4 is also seen, it must clearly be rejected or the x = clearly selected. Ignore any attempts to find y. (c) '' 50, '' x y x x y  − +  B1ft Fully defined region E.g. x y",
+          "image": "/papers/wma11-oct-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Shape in quadrant 1 M1 Fully correct shape and position A1 Cuts the y-axis at −2 B1 Vertical asymptote at x = 2k B1 (4) (a) Notes Marks cannot be scored without a sketch. M1: Correct shape in quadrant one for the right hand branch. It must not cross either axis but be tolerant of functions that don't go down as far as the x-axis and do extend as far left as the y- axis. Condone curves that touch the x or y-axis as long as they do not cross the axis. Ignore any asymptotes, correct or incorrect, for this mark. A1: Correct shape and position (for whole curve). Be tolerant of slips of the pen but the intention should be clear. Look for the curve in quadrants 1, 3 and 4 with a vertical asymptote in quadrant 1 and 4. The left hand branch must extend into quadrant 3 and should not intentionally dip away from the x-axis to e.g. create an intentional maximum. There should be no horizontal asymptotes other than the x-axis. Do not allow this mark if the branches clearly overlap vertically. E.g. B1: Cuts or touches the negative y-axis once at −2 Must be in the correct position but allow as −2 or y =− and condone ( ) 2, 0 − as long as it is in the correct place. Condone missing brackets e.g. 0, 2− Allow to appear away from the sketch but it must be fully correct e.g. () 0, 2− If there is any ambiguity, the sketch takes precedence. B1: For one vertical asymptote to the right of the y-axis marked 2xk= It must be labelled as an equation and not just a value on the y-axis and it must correspond with the sketch. The asymptote does not need to be drawn as a dotted line but the curve must be asymptotic to the correct line for either branch. Allow 2xk= to appear away from the sketch but it must be correct and correspond with the sketch. If there is any ambiguity, the sketch takes precedence. −2 x = 2k",
+          "image": "/papers/wma11-oct-2025/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 6 2 k x k x k x kx xk = −  = − − + − o.e. M1 A1 ( ) x k x k − + + =  ( ) 4 2 16 b ac k k − = + −   dM1 4209 0(21)(29) 0, kkkkk− + =  −− =  = so 0, kk   ddM1 A1 (5) (9 marks) (b) Notes M1: Equates curve with given line and attempts to form a quadratic equation. The terms do not need to be collected. Look for k x xk =− − cross multiplies (condoning slips) and proceeds to a quadratic equation. A1: Correct quadratic equation with brackets expanded which may be unsimplified e.g. 6 2 k x k x k x kx xk = −  = − − + − dM1: Correct attempt to find the discriminant b ac − for their ax bx c + + = with both b and c expressions in terms of k. May be seen embedded in an attempt at the quadratic formula. It is dependent upon the previous Method mark. ddM1: Solves their 3 term quadratic equation/inequality in k resulting from 4 ...0 b ac − and chooses the outside region for their critical values. Allow calculator solutions for solving their 3TQ and condone factors that are inconsistent with their equation so just look for the correct or correct ft roots with an attempt at the outside regions e.g. condone 191 919 4209 00,, 222 222 kkkkkkk  − + =  −− =  =      The roots may be embedded so allow e.g. 9 0 kk − + =  , kk  to imply this mark. Condone the boundaries not being included in the inequality and condone the omission of k > 0 Condone the use of x rather than k. It is dependent upon both previous Method marks. A1: CSO 0, kk    o.e. Must be in terms of k. The following are acceptable: 0, kk   k and k k or k kk    0, , ,            : 0, kkk        But do not allow kk     . Do not isw and mark their final answer. Number Scheme Marks",
+          "image": "/papers/wma11-oct-2025/q6-6b.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-19.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 1.65 = 30 ... or ... r r r   = = M1 6.03 r = A1 ( ) 6.03 2.8 8.83(m) OQ = + = * A1* (3) (a) Alternative ( ) ( ) ( ) 2.8 1.65 30 2.8 ... or 2.8 ... OQ OQ OQ −  =  − = − = M1 ( ) 2.8 6.030... OQ −= A1 ( ) 6.03 2.8 8.83(m) * OQ = + = A1* Notes (a) M1: Uses 1.65 r  =  in an attempt to find a value for r or r (where r is OP) A1: '' '' 6.03... r = or exact or or 20 11 or 36.36... A1*: ( ) 20 11 6.03 or e.g. or 36.36... 2.8 8.83(m) OQ   = + =   Must be 8.83 not awrt 8.83 The “OQ =” is not required. There must be some indication that they are adding 20 11 6.03 or e.g.     to 2.8 There is no requirement for units but if any are given they must be correct. Allow equivalent correct work in degrees e.g. 1.65 rads 1.65  =   etc. Alternative: M1: Uses () 2.81.65 30 OQ− = in an attempt to find a value for () 2.8OQ− or ( ) 2.8 OQ − A1: ( ) 2.8 6.03... OQ −= or exact or or 20 11 or 36.36... A1*: 20 11 6.03 or e.g. 2.8 8.83(m) OQ   = + =   Must be 8.83 not awrt 8.83 No requirement for units but if any are given they must be correct. Note that any attempts to verify the result in (a) would need a complete argument e.g. attempts to find the area for 2 suitable values of OQ such as 8.835 and 8.825 for M1, A1 for both areas evaluated correctly and A1 for fully reasoning that OQ is 8.83 to 2dp. 1.65 (b) Attempts ( ) ( ) 8.83 1.65 = 180.__    − M1 Total area = ( ) 8.83 1.65 + 30 =...    − dM1 awrt 210 (m ) or 211 (m ) A1 (3) (c) () ''6.03'' 1.65= 9.95 or ()() 8.8321.65 = 40.91− M1 Full method for perimeter = () '6.03'' 1.65 8.8321.652.8 2 +  − +  dM1 = awrt 56 (m) A1 (3) (9 marks) Notes Allow equivalent correct work in degrees. (b) M1: Attempts ( ) 8.83 1.65    − or equivalent e.g. 8.83 8.83 1.65   −   May be implied by awrt 180 or awrt 181 provided no incorrect working is seen. dM1: Attempts ( ) 8.83 1.65 + 30 =...    − Adds 30 to a correct attempt at the area of the major sector of the larger circle. A1: awrt 210 (m ) or awrt 2",
+          "image": "/papers/wma11-oct-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-23.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f  = 2 2 ... kk + + =  = M1 1 2 2 − A1 (2) (b) ( ) 5 2 3 2 2 2 xy =  = − = So ( ) \"2 2 \" yx − = − − or \"2 2 \" ... y x c c c = − +  = − +  = 11 2 yx  = − + M1A1 (2) Notes Mark all parts together. (a) M1: Substitutes x = into ( ) f x  , sets = 5 and solves for k. Condone slips in evaluating () f2  as long as the intention is clear. A1: Correct exact value 1 2 2 k =− oe e.g. − (b) M1: Correct attempt at the equation of the normal using a gradient of − , x = and y from substituting x = into 3 2 yx =− If they use y = mx + c then they must reach as far as c = ... A1: Correct equation in any form e.g. () 2 22 yx− = − − or 511 2yx+= or 111 2 yx= − + Apply isw as soon as a correct equation is seen. (c) ( ) ( ) f ( ) 2 f ( ) x x k x x kx c x x  = + +  = − + + M1A1ft ( ) 2, 2 2 ( ) ( ) 2 2 1 2 2 ... 2 5 2 cc  = − + − +  = + dM1 ( ) ( ) f ( ) 1 2 2 2 5 2 x x x x = − + − + + A1 (4) (8 marks) Notes Mark all parts together. (c) M1: Integrates with two terms having a correct index. Allow indices unprocessed. It is for 2 from: ( ) ( ) ( ) 1 1 2 1 0 1 ... ... or , or ... or ... , ... or ... x x x x x k x x xx + − − + + → → → A1ft: Correct integration in any form with indices processed. ( ) ( ) f ( ) x x kx c x = − + + but follow through on their k which may be a decimal and allow the letter k. \"f ( ) \" x = is not required and “+ c” is not required. Brackets are required around their 1 2 2 − but they may be implied by their attempt to find “c” so you may need to check their calculation for c. dM1: Uses x = and their attempt at y using x = in 3 2 yx =− in their integrated function and finds the value of c. A1: Correct simplified exact expression ( ) ( ) f ( ) 1 2 2 2 5 2 x x x x = − + − + + or e.g. ( ) f ( ) 2 2 2 5 2 x x x x x = − + − + + . \"f ( ) \" x = is not required. Brackets are required around their 1 2 2 − if written as in the first example above. Do not allow x or e.g. x for x but allow for . Apply isw once a correct function is seen. Number Scheme Marks",
+          "image": "/papers/wma11-oct-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-27.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f ( ) 4sin xx =− or equivalent such as ( ) f ( ) 4 cos xx   =+   M1 A1 (2) (b)(i) ,4     B1, B1 (2) (ii) ,2   −   B1, B1 (2) (6 marks) Notes Do not allow the use of degrees in this question. If there is more than one answer for any part, score the final attempt. Remember to check for answers written in the question. (a) M1: For any sine or cosine curve with an amplitude of 4 and a period of  and which passes through the origin. E.g. ( ) ( ) f ( ) 4sin , xx =   ( ) f ( ) 4 cos xx   =     Condone the use of  for this mark and “f(x) =” (or “ ( ) f  = ”) is not required. Do not allow ambiguous expressions e.g. ( ) ( ) f ( ) 4f sin xx =− A1: Completely correct expression in terms of x e.g. ( ) f ( ) 4sin xx =− or equivalent such as ( ) ( ) ( ) ( ) f ( ) 4 cos , f ( ) 4 sin , 4 sin x x x x x    = + = + −   “f(x) =” is not required. (b) Allow answers to be written as coordinates or as x = ..., y = ... If more than one answer is given, mark their final answer. Condone missing brackets e.g. ,4  and condone punctuation other than a comma e.g.; 4     The x coordinates must be written as single fractions but allow equivalents e.g.  for  The y coordinate must be written as single number so do not allow 0 – 2 for −2 Do not allow coordinates the wrong way round e.g. 4,     or 2,   −   (b) (i) B1: One correct coordinate from x  = or y = 4 B1: ,4     or x  = and y = 4 (b) (ii) B1: One correct coordinate from x  = or y = −2 B1: ,2   −   or x  = and y = −2 Number Scheme Marks",
+          "image": "/papers/wma11-oct-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-31.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 d d y y x x x x x x = + − +  = + − so at 0, x = d d y x =− M1 Equation of normal at P is yx =+ A1 Q is where y x x x = + − + meets yx =+ x x x x x x x + − + = +  + − = dM1 A1 ( ) ()() xxxxxxx+ − = + − =  = − ddM1 A1 (6) Notes (a) M1: Attempts to find the gradient of the curve at P. It is for attempting to find the value of d d y x when x = 0 There must be some evidence of differentiating e.g. ... or ... x x x x →→ or 2 or 5 x − → − → followed by the substitution of x = 0 which may be implied. Alternatively deduces that the gradient of the curve at P is −2 A1: Equation of normal at P is yx =+ oe e.g. ( ) yx − = − dM1: Sets x x x kx + − + = + where k is not their gradient of the tangent at P and collects terms to one side. Must be kx + 5 but condone a miscopy of the equation of C. A1: Correct cubic equation with terms collected and all on one side e.g. 450xxx+ − = or equivalent e.g. 0. x x x + − = The “= 0” may be implied by their attempt to solve. ddM1: Cancels or factorises out an x term from an equation of the form 0, , ,0axbxcxa b c+ + = and solves resulting 3TQ by any means including a calculator. Condone factors that are inconsistent with their 3TQ so just look for the correct or correct ft roots. Allow e.g. ()() 4504510...xxxxxxx+ − = + − =  = Do not allow e.g. ()() 114 45 450... xxxx −  −− + − =  ==  If roots of the 3TQ are just written down you may need to check. They cannot just write down the roots of the cubic equation. Decimals should be correct to 2 sf or truncated to 2sf. Depends on the previous method mark. A1: x=− oe only. Ignore any attempts to find the y coordinate and ignore any incorrect attempts at finding the other x coordinate provided x=− is selected. Number Scheme Marks Note: full marks are available for those with an incorrect d d y x that still leads to a gradient at P of −2 Beware in part (a) that it is possible to reach the correct answer fortuitously as follows: d d y y x x x x x x = + − +  = + − d12 062 0, d23 y xxx x =  ",
+          "image": "/papers/wma11-oct-2025/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma11-oct-2025/page-10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma11-oct-2025/page-01.png",
+      "/papers/wma11-oct-2025/page-02.png",
+      "/papers/wma11-oct-2025/page-03.png",
+      "/papers/wma11-oct-2025/page-04.png",
+      "/papers/wma11-oct-2025/page-05.png",
+      "/papers/wma11-oct-2025/page-06.png",
+      "/papers/wma11-oct-2025/page-07.png",
+      "/papers/wma11-oct-2025/page-08.png",
+      "/papers/wma11-oct-2025/page-09.png",
+      "/papers/wma11-oct-2025/page-10.png",
+      "/papers/wma11-oct-2025/page-11.png",
+      "/papers/wma11-oct-2025/page-12.png",
+      "/papers/wma11-oct-2025/page-13.png",
+      "/papers/wma11-oct-2025/page-14.png",
+      "/papers/wma11-oct-2025/page-15.png",
+      "/papers/wma11-oct-2025/page-16.png",
+      "/papers/wma11-oct-2025/page-17.png",
+      "/papers/wma11-oct-2025/page-18.png",
+      "/papers/wma11-oct-2025/page-19.png",
+      "/papers/wma11-oct-2025/page-20.png",
+      "/papers/wma11-oct-2025/page-21.png",
+      "/papers/wma11-oct-2025/page-22.png",
+      "/papers/wma11-oct-2025/page-23.png",
+      "/papers/wma11-oct-2025/page-24.png",
+      "/papers/wma11-oct-2025/page-25.png",
+      "/papers/wma11-oct-2025/page-26.png",
+      "/papers/wma11-oct-2025/page-27.png",
+      "/papers/wma11-oct-2025/page-28.png",
+      "/papers/wma11-oct-2025/page-29.png",
+      "/papers/wma11-oct-2025/page-30.png",
+      "/papers/wma11-oct-2025/page-31.png",
+      "/papers/wma11-oct-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

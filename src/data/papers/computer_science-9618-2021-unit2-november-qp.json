@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-9618-2021-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2021-unit2-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "October/November 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of variable Data type The average mark in a class of 40 students REAL An email address STRING The number of students in the class INTEGER Indicate whether an email has been read BOOLEAN One mark per row October/November Question Answer Marks Information Essential Not essential Departure time  Flight Number  Departure airport  Aircraft type  Ticket price  Number of seats in aircraft  One mark for two rows correct Two mark for four rows correct Three mark for all rows correct Technique: Abstraction Benefit: • The solution is simplified so easier / quicker to design / implement • The system is tailored to the need of the use r • Destination / arrival airport • Arrival time / flight duration • Date of flight • Seat number • Seat availability Max 2 marks Question Answer Marks 1 The use a variable as an index to the array 2 A loop to iterate through the array 3 An Inner loop (with a reducing range) 4 Test if current element is greater than next element 5 if so then swap elements 6 Description of swap 7 Attempt at efficient algorithm Max 6 marks October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) An algorithm to sort a 1D array into ascending order is described as follows: • move the largest value to the end • keep repeating until the array is sorted. Apply the process of stepwise refinement to this algorithm in order to produce a more detailed description. Write the more detailed description using structured English. Your explanation of",
+      "text": "2 (a) An algorithm to sort a 1D array into ascending order is described as follows: • move the largest value to the end • keep repeating until the array is sorted. Apply the process of stepwise refinement to this algorithm in order to produce a more detailed description. Write the more detailed description using structured English. Your explanation of",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Count ← 1 Flag ← FALSE WHILE Flag = FALSE AND Count <= 5 CALL ReBoot() Count ← Count + 1 Flag ← Check() ENDWHILE IF Flag = FALSE THEN CALL Alert(27) ENDIF One mark per point: 1 Initialisation of Count AND Flag 2 WHILE ... ENDWHILE // REPEAT ... UNTIL loop 3 ... including both conditions 4 Call ReBoot() AND increment Count inside the loop 5 Assign return value from Check() to Flag inside the loop 6 Final test of Flag AND call to Alert(27) not in a loop Question Answer Marks • EoQ pointer will move to point to location 4 // incremented EoQ (by 1) • Data value \"Octopus\" will be stored in location pointed to be EoQ / location 4 • Value \"Frog\" // value pointed to by FoQ / location 0 is assigned to variable AnimalName • FoQ pointer will move to point to location 1 / point to \"Cat\" // incremented FoQ (by 1) 0 Frog ← Front of queue pointer 1 Cat 2 Fish 3 Elk ← End of queue pointer October/November Question Answer Marks 0 Frog 1 Cat 2 Fish ← Front of queue pointer 3 Elk 4 Wasp 5 Bee 6 Mouse ← End of queue pointer One mark for each pointer One mark for three new data values 0 Shark ← End of queue pointer 1 (Cat) 2 (Fish) 3 (Elk) 4 Wasp ← Front of queue pointer 5 Bee 6 Mouse 7 Dolphin One mark for BOTH pointers One mark for all data values as shown 1 If incremented EoQ = FoQ then error condition: queue is full 2 Increment the EoQ 3 Manage wrap-around October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Test Test data value Explanation Expected Outcome 1 23 Normal Data Data is accepted 2 0 Boundary Data Data is accepted 3 40 Boundary Data Data is accepted 4 >= 41 Abnormal Data Data is rejected 5 <= −1 Abnormal Data Data is rejected One mark per row for rows 2 to 5.",
+          "image": "/papers/computer_science-9618-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each label: • Temp < 10 (Heaters Off to Heaters On) • Temp > 20 (Heaters On to Heaters Off) • on BOTH loops (non-contradictory values) Question Answer Marks • Character: Any except alphabetic, numeric, ',' ':' or space • Reason: character doesn't occur in data to be recorded October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION LogEvents(StudentID : STRING) RETURNS INTEGER DECLARE FileData : STRING DECLARE Index, Count : INTEGER CONSTANT LogFile = \"LogFile\" Count ← 0 OPENFILE LogFile FOR APPEND FOR Index ← 1 TO 2000 FileData ← LogArray[Index] IF LEFT(FileData, 6) = StudentID THEN WRITEFILE (LogFile, FileData) //brackets optional Count ← Count + 1 LogArray[Index] ← \"\" // clear the element ENDIF NEXT Index CLOSEFILE LogFile RETURN Count ENDFUNCTION 1 mark for each of the following: 1 Function heading and ending including parameter and return type 2 OPEN file LogFile for APPEND and subsequent CLOSE 3 Loop for 2000 iterations 4 Extract first 6 characters from array element in a loop 5 Compare first 6 characters with parameter in a loop 6 If equal: • write whole array element string to file and • increment Count and • clear array element in a loop 7 Return Count (must have been declared and initialised) October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE SetRow(Row, SkipNum, SetNum : INTEGER) DECLARE Col : INTEGER // array is 1280 x 800 FOR Col ← SkipNum + 1 TO SkipNum + SetNum Screen[Row, Col] ← 1 NEXT Index ENDPROCEDURE ALTERNATIVE 1: FOR Col ← 1 TO SetNum Screen[Row, SkipNum + Col] ← 1 NEXT Col ALTERNATIVE 2: WHILE SetNum > 0 Screen[Row, SkipNum + SetNum] ← 1 SetNum ← SetNum - 1 ENDWHILE Mark as follows: 1 Procedure heading and ending including parameters 2 Declaration of local Integer for Col 3 Count-controlled loop with meaningful start number 4 correct stop number 5 Reference Screen Array element and set to 1 in a loop October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION SearchInRow(ThisRow, StartCol : INTEGER) RETURNS INTEGER DECLARE ThisCol, Step : INTEGER DECLARE Found: BOOLEAN // array is 1280 x 800 Found ← FALSE ThisCol ← StartCol // first decide which way to search IF StartCol = 1 THEN Step ← 1 EndCol ← 1281 ELSE Step ← -1 EndCol ← 0 ENDIF WHILE ThisCol <> EndCol AND Found = FALSE IF Screen[ThisRow, ThisCol] <> 1 THEN ThisCol ← ThisCol + Step ELSE Found ← TRUE ENDIF ENDWHILE IF Found = FALSE THEN ThisCol ← -1 ENDIF RETURN ThisCol ENDFUNCTION Mark as follows: 1 Interpreting StartCol parameter to determine direction of search 2 An attempt at searching both up and down 3 Conditional Loop / Count-controlled loop with use of ThisCol index 4 Using correct values for StartCol, EndCol and Step 5 Reference a Screen element and compare with 1 in a loop 6 If equal save column or immediately Return column in a loop 7 Return column number or −1 Loop(s) terminate when element with value = 1 found Max 7 marks if function heading, including return type, and ending is incorrect or incomplete October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2021/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION GetCentreCol(ThisRow : INTEGER) RETURNS INTEGER DECLARE StartCol, EndCol, CentreCol : INTEGER StartCol ← SearchInRow(ThisRow, 1) IF StartCol = -1 THEN CentreCol ← StartCol ELSE EndCol ← SearchInRow(ThisRow, 1280) CentreCol ← INT((StartCol + EndCol)/2) ENDIF RETURN CentreCol ENDFUNCTION Mark as follows: 1 Declaration of local INTEGER for return value 2 Use SearchInRow() with correct parameters and check for -1 3 Use SearchInRow(ThisRow, 1) and SearchInRow(ThisRow, 1280) 4 Calculate centre column 5 Use of INT() function // use of DIV 6 Return –1 or centre value Max 5 marks if function heading, including return type, and ending is incorrect or incomplete",
+          "image": "/papers/computer_science-9618-2021/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2021/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2021-unit2-2021-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

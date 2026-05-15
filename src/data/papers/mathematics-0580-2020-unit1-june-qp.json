@@ -1,0 +1,51 @@
+{
+  "paperId": "mathematics-0580-2020-unit1-june-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2020-unit1-june-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/11",
+  "session": "May/June 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 −   ",
+          "image": "/papers/mathematics-0580-2020/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "15 −    1 FT their (a) 10 140 2 M1 for 360 ÷ 9 11 70.2π M1 for [π] × 4.5 × 10.4 May/June 2020 Question Answer Marks Partial Marks B1 for 7n + a or bn + 5 b ≠ 0 13 7a(3a + 4b) final answer 2 B1 for partial factorisation 7(3a + 4ab) or a(21a + 28b) 14 7 3 M2 for 166 + 2x = 180 or better or M1 for 97 – 3x + 69 + 5x = 180 oe 15 4p q −1 B1 for 4p q a or 4p b q −1 or q p b −2 17 x – 12x + 35 2 B1 for any three of x , –5x, –7x, +35 19 29.65 29.75 2 B1 for each If 0 scored, SC1 for both correct but reversed − M2 M2 for correct method for common denominator or B1 for their 24 25 × M1 A1 6800 or 6804 or 6803.3 to 6803.31 M1 for 5.4       + 23 Angle ACB = 65 ̊ or Angle RPQ = 37 ̊ M1 2 pairs of equal angles oe A1",
+          "image": "/papers/mathematics-0580-2020/q9-9b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2020/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2020-unit1-2020-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

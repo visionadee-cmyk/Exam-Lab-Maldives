@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2016-unit4-june-p43-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit4-june-p43-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/43",
+  "session": "May/June 2016",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "compounds: E and F; general formula: C n H 2n+2; OR compounds: A and B; general formula: C n H 2n; 1 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "compounds: E and F; explanation: same molecular formula / contain the same number of atoms each element; different structures / different structural formulae / different arrangement of atoms; 1 2",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "contains a double bond / not all bonds are single bonds; C and H only; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C H + H O → C H OH; any 2 from: high temperature / °C–350 °C; high pressure / atm–70 atm; phosphoric acid catalyst; Page 5 Mark Scheme Syllabus Paper 0620 43",
+          "image": "/papers/chemistry-0620-2016/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 correct carbon structure with only single bonds; M2 continuation bonds; Page 6 Mark Scheme Syllabus Paper 0620 43 carbon dioxide; nitrogen; any named noble gas; carbon monoxide; from incomplete combustion (of carbon-containing fuel); sulfur dioxide; from burning fossil fuels / roasting ores which contain sulphur / volcanoes; oxides of nitrogen; nitrogen reacting with oxygen in car engines / lightning; methane; from anaerobic decomposition / anaerobic decay; Page 7 Mark Scheme Syllabus Paper 0620 43 M1 movement of electron(s) from potassium to iodine; M2 one electron transferred; 1 1 M1 regular arrangement / (giant) lattice of alternating; M2 positive potassium ions / K + and negative iodide ions / I –; 1 1 M1 strong (forces of) attraction (between oppositely charged ions) / ionic bonds are strong; M2 which require lots of energy to overcome / break; 1 1 M1 dissolve solids (in water) and mix / combine / add; M2 filter; M3 wash the residue (with water); M4 leave to dry / place in oven / dry between filter papers; 1 1 1 1 Pb 2+ + 2 I – → Pb I formulae of ions correct; rest correct; start colour: colourless; end colour: brown; 1 1 M1 iodide / I –; M2 it is oxidised OR it loses electrons / it increases oxidation number / it reduces the chlorine; 1 1 Page 8 Mark Scheme Syllabus Paper 0620 43 / a gas is made; M1 (iii) / 0.0162; ) M1 moles carbon dioxide = 0.02; M2 volume carbon dioxide = 0.02 × 24; M3 = 0.48 (dm ); 1 1 1 Page 9 Mark Scheme Syllabus Paper 0620 43 NH + HC l → NH C l; solid forms at: A; explanation: ammonia molecules / particles have a smaller mass; (and so) move / diffuse faster; 1 2 M1 solid forms in less time / faster / quicker; M2 particles / molecules have more energy; M3 (and so) move faster / diffuse faster; 1 1 1 test: add sodium hydroxide (solution and warm); result: test gas / ammonia with (red) litmus / Universal Indicator / pH paper; indicator turns blue / ammonia produced; 1 2 test: add silver nitrate (solution); result: add (dilute) nitric ac",
+          "image": "/papers/chemistry-0620-2016/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit4-2016-06-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

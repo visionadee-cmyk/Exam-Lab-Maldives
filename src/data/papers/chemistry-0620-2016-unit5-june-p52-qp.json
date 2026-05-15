@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-june-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all 4 volumes of aqueous sodium thiosulfate completed to 1 decimal place; M2 all 7 times completed; M3 all times in seconds; M4 times increase from top to bottom; 1 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 y -axis scale is linear; M2 points cover at least half the available space on the y -axis; M3 and M4 : all points plotted correctly = [2] 6 points plotted correctly = [1] < 6 plotted correctly = [0] M5 best-fit straight line graph covering all plotted points; 1 1 2 1 M1 value from graph; M2 unit shown as s or seconds; M3 correct extrapolation of graph line shown; 1 1 1 and diverging from the original line;",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "as an indicator; solution is slow to run out of a pipette; difficult to know when to start timer / reaction does not start at once / inaccurate time measurement; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficulty in swirling / mixing; Page 4 Mark Scheme Syllabus Paper 0620 52 M1 white precipitate; M2 dissolves; 1 1 M1 (turns) from purple / pink; M2 to colourless / white; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 sodium; M2 sulfite; 1 1 • melts / becomes liquid; • correct description of sublimate; • litmus turns blue; • (solid) turns yellow; • pungent smell; / purple / mauve / lilac (solution);",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 red litmus / pH paper; M2 blue / dark green / pH > 7; 1 1 / NH +; Page 5 Mark Scheme Syllabus Paper 0620 52 making the salt any 4 from: • to a known volume sulfuric acid; • add named indicator; • add potassium hydroxide solution to the acid until the indicator changes colour / is neutralised; • note / measure volume of potassium hydroxide solution added; • repeat without indicator OR add (decolourising) charcoal; obtaining crystals any 2 from: • heat / evaporate solution to crystallising point OR until half evaporated OR until crystals (start to) form OR until saturated; • leave to cool; • filter to get crystals; • dry crystals (on filter paper) / leave to dry;",
+          "image": "/papers/chemistry-0620-2016/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

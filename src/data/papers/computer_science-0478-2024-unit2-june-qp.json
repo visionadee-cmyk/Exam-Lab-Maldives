@@ -1,0 +1,207 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line Description Programming concept",
+          "image": "/papers/computer_science-0478-2024/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point  Correct key word - CALL  Procedure name with correct parameters - Average(25, 50) CALL Average(25, 50) a subroutine that may not return a value function a value that a procedure expects you to supply when it is called a value that is declared and used within a specific procedure a subroutine that will always return a value parameter local variable global variable procedure 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  Procedures / functions divide the program into smaller manageable segments  ... making it more readable / easier to understand / easier to debug  Procedures / functions with meaningful names help to provide documentation for the program / enable/help/provide abstraction  Procedures and functions may be re-used (in the program / in other programs / as part of a library) / run from a single line  Procedures and functions can reduce / eliminate (repeated) code One mark for a correct statement about each data type ... ... one mark for a correct example of data for each data type. Example answer Integer A whole number [1] Example 27 [1] Real A number that contains a fractional part [1] ... Example 18.75 [1] 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point  Line 01 / DECLARE Loop : STRING should be DECLARE Loop : INTEGER  Line 07 / IF Loop  1 TO Limit should be FOR Loop  1 TO Limit  Line 09 / INPUT Loop should be INPUT Value  Line 10 / Total  Total * Value should be Total  Total + Value Correct algorithm: 01 DECLARE Loop : INTEGER 02 DECLARE Limit : INTEGER 03 DECLARE Value : REAL 04 DECLARE Total : REAL 05 Total  06 Limit  ROUND(RANDOM() * 19,0) + 1 07 FOR Loop  1 TO Limit 08 OUTPUT \"Enter a number\" 09 INPUT Value 10 Total  Total + Value 11 NEXT Loop 12 OUTPUT \"The total of the numbers entered is \", Total 13 OUTPUT \"The average number entered is \", Total / Limit 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point  Correct use of ROUND with 2 arguments separated by comma, for example ROUND( 5, 2) (in statement 13) ...  ... (Total / Limit,1) correct arguments For example: OUTPUT \"The average of the numbers entered is \", ROUND(Total / Limit,1)",
+          "image": "/papers/computer_science-0478-2024/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four  After line 09 / after the input  Insert a WHILE / pre-condition loop...  ... to check if the value entered is between 1 and 500 inclusive  If the value is not in range, output an error message  ... and insert another input statement for re-input. Or  Before line 08 / before the input message  start a REPEAT / post-condition loop  After line 09 / after the input  ... close the REPEAT loop by checking if the value entered was between 1 and 500 inclusive  If it wasn’t, (the loop will repeat) for the number to be re-input / If it was, the program continues. 0478/21 May/June 2024 One mark per mark point MP1 Correct input statement with appropriate variable MP2 Elements of selection statement present – CASE OF ENDCASE MP3 At least one correct branch in the case statement MP4 All branches from 1 to 4 correct MP5 Correct use of OTHERWISE with correct output. For example: INPUT Number CASE OF Number 1 : OUTPUT Number 2 : OUTPUT Number 3 : OUTPUT Number 4 : OUTPUT Number OTHERWISE OUTPUT \"ERROR\" ENDCASE Or INPUT Number CASE OF Number 1 : OUTPUT 1 2 : OUTPUT 2 3 : OUTPUT 3 4 : OUTPUT 4 OTHERWISE OUTPUT \"ERROR\" ENDCASE 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Numbers Limit Count [1] [2] [3] [4] [5] [6] [7] Flag Swap Result OUTPUT 63 80 TRUE 70 80 TRUE 1 FALSE",
+          "image": "/papers/computer_science-0478-2024/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point  A set of numbers is input / stored in an array  The numbers are sorted / Bubble sort into (ascending) order  The middle / median value is found / output 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) Outline why it is useful to store data in a file. ................................................................................................................................................... ................................................................................................................................................... .....................................",
+      "text": "7 (a) Outline why it is useful to store data in a file. ................................................................................................................................................... ................................................................................................................................................... .....................................",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) Outline why it is useful to store data in a file. ................................................................................................................................................... ................................................................................................................................................... .....................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  Data stored in a file gives a permanent copy / prevents the data from being lost  ... so it can be recalled / used again in a program / in another program  can be stored elsewhere / transferred to another compute r",
+          "image": "/papers/computer_science-0478-2024/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 Declaration of a string variable MP2 Correct use of OPENFILE keywords for reading MP3 Correct use READFILE with string variable MP4 Correct use of UCASE and LENGTH functions and output of each MP5 Correct use of CLOSEFILE Example: DECLARE Words : STRING OPENFILE Quotation.txt FOR READ READFILE Quotation.txt, Words OUTPUT UCASE(Words), LENGTH(Words) CLOSEFILE Quotation.txt 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct gate, with the correct input(s) as shown. R S Z T 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for eight correct outputs. Three marks for six or seven correct outputs. Two marks for four or five correct outputs. One mark for two or three correct outputs R S T Z 0 0 0 1 0 0 1 1 0 1 0 1 0 1 1 0 1 0 0 1 1 0 1 0 1 1 0 1 1 1 1 1 0478/21 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for an appropriate reason if no has been stated, for example: None of the fields are likely to contain unique data.",
+          "image": "/papers/computer_science-0478-2024/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct answer SUM NumberInStock SoftDrinks Container 'Can' Correct code: SELECT SUM (NumberInStock) FROM SoftDrinks WHERE Container = 'Can'; Data structures required: The names underlined must match those given in the scenario: Arrays or lists Clubs[], Statistics[], Points[], TieIndex[] Variables Matches, Won, Drawn, Lost, Counter, Maximum, TieCheck, OutLoop, Max, Count Requirements (techniques): R1 Input and store number of matches, cricket club names, number of matches won, drawn and lost. Validation of number of matches played and matches won, lost and drawn against number of matches played (with prompts, iteration, storing data in variables, validation, 1D and 2D arrays). R2 Calculate and store the number of points for each cricket club. Finding the index of the array with the highest score / highest score (calculation, finding the maximum, iteration). R3 Identifying cricket clubs with highest number of points and whether there is a tie for the top position. Output with appropriate messages (iteration, selection and output). 0478/21 May/June 2024 Example 15-mark answer in pseudocode // meaningful identifiers and appropriate data structures // similar variables grouped to save space as in HL languages DECLARE Clubs : ARRAY[1:12] OF STRING DECLARE Statistics : ARRAY[1:12, 1:3] OF INTEGER DECLARE Points : ARRAY[1 : 12] OF INTEGER DECLARE TieIndex : ARRAY[1 : 12] OF INTEGER DECLARE Matches, Won, Drawn, Lost : INTEGER DECLARE Counter, Maximum, TieCheck, OutLoop : INTEGER DECLARE Max, Count : INTEGER // input number of matches REPEAT OUTPUT \"How many matches have been played (Maximum 22)? \" INPUT Matches UNTIL Matches <= 22 // input of data as a single loop – multiple loops for data entry // is also acceptable. FOR Counter  1 TO 12 OUTPUT \"Enter the name of the cricket club\" INPUT Clubs[Counter] // input of match results with validation REPEAT OUTPUT \"Enter the number of matches won, drawn and lost for \", Clubs[Counter] INPUT Won, Drawn, Lost IF Wo",
+          "image": "/papers/computer_science-0478-2024/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

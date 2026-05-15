@@ -1,0 +1,277 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 18,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Denary values are converted to binary values to be processed by a computer. Draw one line from each denary value to the correctly converted 8‑bit binary value. Denary 8-bit binary 41 174 86 10100110 10000110 01010110 00100001 00101001 10101110",
+      "text": "1 (a) Denary values are converted to binary values to be processed by a computer. Draw one line from each denary value to the correctly converted 8‑bit binary value. Denary 8-bit binary 41 174 86 10100110 10000110 01010110 00100001 00101001 10101110",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Denary values are converted to binary values to be processed by a computer. Draw one line from each denary value to the correctly converted 8‑bit binary value. Denary 8-bit binary 41 174 86 10100110 10000110 01010110 00100001 00101001 10101110",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line Denary 8-bit binary",
+          "image": "/papers/computer_science-0478-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct working, one mark for correct answer Working e.g.       Answer:  0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two marks each correct conversion ( one mark for the first four bits, one mark for the second four bits) 2F 0 0 1 0 1 1 1 1 0 0 0 1 0 1 0 1 D6 1 1 0 1 0 1 1 0",
+          "image": "/papers/computer_science-0478-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from:  IP address  Error messages/codes  Assembly language // low-level language  URL // web address  Memory dumps  Locations in memory",
+          "image": "/papers/computer_science-0478-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for a description, one mark for a correct example Structure  Layout of the web page  e.g. Where text is placed Presentation  Formatting of the web page  e.g. the colour of the font 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from:  The formatting of the page can be changed/edited without needing to alter the structure  ... so, they can make regular updates without needing to check the structure  The formatting document can be used again for a different website ...  If further content and web pages are added to the website, the necessary formatting can be easily applied ...  ... so, this can save time when developing/updating a website  Allows use of CSS to standardise formatting  ... so, CSS only needs to be created once (to be applied to each webpage) 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q2-2d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for the correct term or definition Term Definition browser Software/application that allows users to view web pages / render HTML Internet Service provider // ISP this is the company that provides a user with a connection to the Internet HTTP // HTTPS this is a protocol that is used to send data for web pages across the Internet Uniform Resource Locator (URL) a text - based version of a web address cookie a text file (stored by web browser) that contains data about a user’s browsing habits/details/preferences ( b )  Hardware or software based",
+          "image": "/papers/computer_science-0478-2022/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from:  (The parent can) set criteria for the websites she is allowed to visit  ... such as a whitelist/blacklist of websites  The firewall will examine the data/traffic incoming and outgoing from her computer  If data is sent from a website that is not allowed, it will be blocked 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from:  It uses English-like statements  It needs to be converted to machine code (to be processed by a computer)  ... using a translator  It is portable  One line of code can perform multiple commands Two from:  The user is not allowed to access the source code ...  ... so, they cannot tailor the software to their needs  ... so, they cannot fix any bugs in it  The software is still covered by copyright  The user must get the owner’s permission to do anything beyond using it Two from:  The user can access the source code ...  ... so, they can tailor the software to their needs  ... so, they can fix any bugs in it  ... so, the source code could be studied for educational purposes  The user can redistribute the software/program ...  ... but this must be done under the same terms as the original software 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-04.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct logic gate with correct input(s)",
+          "image": "/papers/computer_science-0478-2022/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6/7 correct outputs Two marks for 4/5 correct outputs One mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-05.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for identifying the attack, two marks for the description  Phishing  Email is sent to user to encourage them to click link  ... that takes user to fake website Pharming  Email is sent to user to encourage them to click link/download attachment  ... that triggers download of malicious code that will redirect user to fake website Virus/malware  Email is sent to user to encourage them to click link/download attachment  ... that triggers download of virus/malware Denial of service // DoS  A very large number of emails are sent to a server / network at the same time  ... crashing the server / network",
+          "image": "/papers/computer_science-0478-2022/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from:  Encryption  Password  Two-step / Two-factor authentication/verification  Biometric device  Anti-malware // Anti-virus  Proxy-serve r 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for identifying an issue, one mark for suggesting a suitable prevention  Power surge/loss (damages hardware)  Use a UPS  Water can be spilled on the device  Don’t have water near the device  Keep device in a waterproof box when not is use  Fire can destroy device  Use electrics safety  Keep device in a fireproof box when not is use  Data is accidentally deleted  Add verification method for data deletion  Set access levels for data to limit who can delete the data  Incorrect use of storage device  Making sure device is ejected before removing  Physical damage to hardware // hardware failure  Correct care and maintenance of hardware  Software failure  Making sure it is always up to date // enable automatic updates 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-06.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from:  CD  DVD  Blu-ray",
+          "image": "/papers/computer_science-0478-2022/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row Type of storage Statement Magnetic (  ) Optical (  ) Solid state (  ) this storage has no moving parts  this storage uses a laser to read and write data  this storage uses a read/write head   this storage burns pits onto a reflective surface  this storage uses NAND and NOR technology  this storage stores data in tracks and sectors  (  ) 0478/12 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-07.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any four from:  Trial version of software  ... for a limited time / number of uses  ... with limited features  ... free of charge  If full version is required need to pay fee / sign up // When trial over user is asked to pay / sign up  Protected by copyright  Type of software licence",
+          "image": "/papers/computer_science-0478-2022/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: e.g.  Copyright  Plagiarism  Production/distribution of malware  Intellectual property theft  Privacy of data  Age appropriation  Offensive materials  Environmental impact of distribution media e.g. CDs  Accessibility of software  Security of software  Following guidelines of professional bodies e.g. ACM/IEEE/BCS",
+          "image": "/papers/computer_science-0478-2022/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/page-08.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 18,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2022/page-01.png",
+      "/papers/computer_science-0478-2022/page-02.png",
+      "/papers/computer_science-0478-2022/page-03.png",
+      "/papers/computer_science-0478-2022/page-04.png",
+      "/papers/computer_science-0478-2022/page-05.png",
+      "/papers/computer_science-0478-2022/page-06.png",
+      "/papers/computer_science-0478-2022/page-07.png",
+      "/papers/computer_science-0478-2022/page-08.png",
+      "/papers/computer_science-0478-2022/page-09.png",
+      "/papers/computer_science-0478-2022/page-10.png",
+      "/papers/computer_science-0478-2022/page-11.png",
+      "/papers/computer_science-0478-2022/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "average temperatures completed for all five experiments: 18, 31, 41, 53, 63 times completed for all five experiments: 210, 111, 84, 66, 54 all times in seconds",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all five points plotted smooth line graph",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph for average temperature 72 °C unit (s) shown clearly",
+          "image": "/papers/chemistry-0620-2017/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line above experimental line 0620/61 October/Novembe r particles move faster / particles have more energy more (frequent) collisions / greater chance of collisions comparison to measuring cylinder / cross disappears faster depth greater precipitate / no change",
+          "image": "/papers/chemistry-0620-2017/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(red) litmus paper turns blue carbonate 0620/61 October/Novembe r reaction with acid method max [6]: M1 fixed volume of acid M2 to fixed mass of metal M3 measure volume of gas / temperature change M4 named apparatus for the measurement M5 after time M6 repeat with other metals M7 compare / conclude displacement method M1 add each metal to named tin salt solution M2 observe if deposit is formed M3 results, e.g. Zn and Fe positive M4 repeat with named iron salt M5 results, e.g. Zn positive M6 conclude",
+          "image": "/papers/chemistry-0620-2017/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

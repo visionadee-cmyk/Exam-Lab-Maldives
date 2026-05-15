@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-may-2023-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2023-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2023",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Add the 20g mass (a distance from the pivot) and move the ruler to find the new balance point Or move the ruler to unbalance it and add/move the 20g mass to find the new balance point • Measure the distance from the pivot to the centre of gravity of the ruler and measure the distance from the pivot to the (centre of the) 20g mass • Calculate the mass of the ruler using the principle of moments • Repeat measurements of distance for different positions of the 20g mass and calculate the mean mass of the ruler Accept “centre of gravity” for balance point in MP1 Accept additions to the diagram for MP1 & MP2 (1) (1) (1) (1) Total for question 1 9 Number Answer Mark • Using the lens produces a parallel beam of light Or using the lens concentrates the light on the solar cell • The light from the filament bulb spreads out Or to increase the intensity of light Or to ensure the intensity of light is even Accept use of diagrams to support statement for MP1 / MP2 (1) (1) • Control background light [Accept any method to control background light] • Keep the solar cell at the same distance from the filament bulb • Keep the solar cell at the same angle to the filament bulb (1) (1) (1) • Ammeter in series with the solar cell, resistor and variable resistor • Voltmeter in parallel with the solar cell (1) (1) • To limit the (maximum) current in the solar cell Or to avoid short-circuiting the solar cell (1) • Solar cells do not emit greenhouse gases [accept a named greenhouse gas] Or using solar cells does not contribute to global warming Or using solar cells would not cause acid rain Or using solar cells would reduce the need for fossil fuels • Solar cells use a renewable energy source • Sunlight/energy used is free • No need for mains wiring Or can be used where there is no mains electricity (1) (1) (1) (1) Total for question 2 9 V A Number Answer Mark • The vernier calipers have a smaller resolution Or the vernier calipers have a lower uncertainty • The vernier calipers can measure",
+          "image": "/papers/wph11-may-2023/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit3-2023-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

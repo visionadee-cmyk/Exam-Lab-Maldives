@@ -1,0 +1,79 @@
+{
+  "paperId": "wbi11-may-2024-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-may-2024-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "May 2024",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that includes two of the following points (in order): • because the surface area needs to be the same (1) • so they have the same {number / amount / substrate} of protein (molecules) (1) • to produce valid {(set of) data / results / experiment / test / comparisons} / for validity (1) ACCEPT substrate / protein concentration Ignore reliable, accurate, precise, fair test (2) number Answer Additional guidance Mark • water / same solvent (as used to dissolve the enzymes) / buffer Accept boiled enzyme Denatured enzyme Ignore any qualification of water, e.g., salt water (1) number Answer Additional guidance Mark • so that any effect can be attributed to the enzymes (and not the solvent) / allows comparisons (1) ACCEPT as a baseline ACCEPT reverse argument (1) number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-may-2024/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (same) temperature and (same) {time / length / duration} (1) DO NOT ACCEPT pH, size of pieces IGNORE volumes, concentration (1) number Answer Additional guidance Mark • 12.5 (cm ) IGNORE other units than cm (1) number Answer Additional guidance Mark • both enzymes decrease the pH (more than in the control) / at higher concentration the decrease in pH is more than at lower concentration / decrease in pH in bromelain more (than in papain) (1) • bromelain is more effective at breaking down the protein (than papain) (1) • at the higher concentration both enzymes are more effective at breaking down the protein (than at lower concentration) (1) ACCEPT lower pH {in bromelain than papain / at high concentration than at low concentration} ACCEPT there is a negative corelation between pH and enzyme concentration (2) number Answer Additional guidance Mark • use biuret reagent / do biuret test (1) • remove meat from solution(s) / take sample of solution(s) / filter solution(s) (1) • use {known / same/ equal} volume of (meat) solution / use {known / same/ equal} volume of (biuret) reagent (1) • produce (colour) standards using known protein concentrations / compare the {colour / result} to colour standards (1) ACCEPT biuret described correctly ACCEPT make calibration curve / a description of using a colorimeter to compare colours (4) number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-may-2024/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 0.989 / 0.99 / 1.0 / 1 (m) ACCEPT 0.994 (1) number Answer Additional Mark",
+          "image": "/papers/wbi11-may-2024/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Hazard How to reduce the risk (using / cutting oneself with) {knife / scissors / scalpel} OR (contact with / allergy to) fish (1) cut {away from fingers / hands / oneself / on a board or tile / wearing gloves} (1) wear {gloves / mask} (use of / inhalation of / spilling of) formalin (1) use in a well-ventilated room / use in a fume cupboard / wear gloves / wash hands / wear protective eye wear / wear mask (1) ACCEPT preservative liquid for formalin (4) number Answer Additional guidance Mark difference: SIMILARITIES: • both (hearts) have atrium(a) and ventricle(s) (1) • (in both) ventricle wall(s) thicker (than atrium wall(s)) (1) • both have valves (1) DIFFERENCES: • fish heart has one {atrium / ventricle} whereas a mammalian heart has two {atria / ventricles} / fish has only one side to the heart, mammals have two / mammalian heart has septum, fish does not (1) • fish heart has a {sinus venosus / bulbus arteriosus}, but a mammalian heart does not (1) Must be a clear statement ACCEPT Reverse argument ACCEPT fish has single, mammal has double circulation / fish has 2 chambers, mammal has 4 ACCEPT ...but mammals have arteries and veins (3) number Answer Additional guidance Mark • use minimum of five fish (1) • (of) different sizes (1) • measure the {length / mass / volume} of each fish (1) • measure the {length / mass/ volume} of each heart (1) • detail of fish standardisation of measurement (1) • detail of standardisation of heart {measurement / dissection} (1) • plot a graph of fish size vs heart size / calculate ratios (1) • carry out a (correctly named) correlation test / compare ratios (1) ACCEPT more than one quoted size, minimum a big one and a small one ACCEPT diameter ACCEPT diameter e.g., between same points on each fish, preparation of fish prior to measurement (e.g., remove parasites) e.g., length from end of sinus venosus to start of bulbus arteriosus each time, preparation of heart prior to measurement (e.g. empty of blood, remove extraneous tissues) (6) ",
+          "image": "/papers/wbi11-may-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2024/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2024-unit3-2024-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

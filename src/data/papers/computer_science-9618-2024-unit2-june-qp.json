@@ -1,0 +1,131 @@
+{
+  "paperId": "computer_science-9618-2024-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2024-unit2-june-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "May/June 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Assignment statement Data type A  LEFT(MyName, 1) CHAR / STRING B  Total * 2 INTEGER / REAL C  INT(ItemCost) / 3 REAL D  \"Odd OR Even\" STRING One mark per row",
+          "image": "/papers/computer_science-9618-2024/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expression Evaluates to Tries < 10 AND NOT Sorted TRUE Tries MOD 4 TO_LOWER(MID(ID, 3, 1)) 'a' // \"a\" LENGTH(ID & \"xx\") >= Tries TRUE One mark per row are not meaningful  Indentation / use of white space  Capitalisation of keywords  Use of comments  Use of modular programming  Use of local variables Note: max 1 mark May/June 2024 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per outlined region: 1 Initialise both counts 2 Increment Tries every time a pair is input 3 Compare A > B and increment Count if TRUE 4 Test for Count = 10 (10 th time A > B) – MUST include Yes / No labels 5 If so output Tries, otherwise loop 1 A (variable of type) string will be input // by example e.g. “67,72” 2 A special / identified character would need to be used to separate each numeric value // all numbers are fixed length May/June 2024 Question Answer Marks 1 The PS contains a null pointer 2 The PF points to the first element on the free list All the nodes are on the free list The two variables will be of type Integer The two variables will be used as pointers / indexes to the arrays. The values stored in the two variables will indicate the first element in each list The first 1D array will be of type String The first 1D array will be used to store the values // data items // User IDs The second 1D array will be of type Integer The second 1D array will be used to store the pointers // point to next item Mark as follows: One mark for each of the first three rows One mark for both Array 1 rows One mark for both Array 2 rows May/June 2024 Question Answer Marks 4 Example: FUNCTION Check() RETURNS STRING DECLARE Odd, Even, Index : INTEGER Odd  0 Even  0 FOR Index  1 TO 100 IF Index MOD 2 = 0 THEN Even  Even + Data[Index] ELSE Odd  Odd + Data[Index] ENDIF NEXT Index ENDFUNCTION Mark as follows: 1. Function heading, ending and return type 2. Declare local variables Odd, Even and Index as integers 3. Initialise Odd and Even 4. Loop for 100 iterations // through array 5. Sum Odd and Even element values in a loop 6. Compare Odd and Even after the loop and Return appropriate string May/June 2024 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q2.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per zone. OTHERWISE : CALL Error(C) May/June 2024 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION IsRA(x1, y1, x2, y2, x3, y3 : INTEGER) RETURNS BOOLEAN DECLARE Len1, Len2, Len3 : INTEGER Len1  (x1 - x2) ^ 2 + (y1 - y2) ^ 2 Len2  (x1 - x3) ^ 2 + (y1 - y3) ^ 2 Len3  (x2 - x3) ^ 2 + (y2 - y3) ^ 2 IF (Len1 = Len2 + Len3) OR__ (Len2 = Len1 + Len3) OR__ (Len3 = Len1 + Len2) THEN RETURN TRUE ELSE RETURN FALSE ENDIF ENDFUNCTION Mark as follows: 1 Calculate the square of the length of at least one side 2 Calculation of all three lengths squared correctly 3 One correct comparison of square of three lengths 4 All three comparisons... 5 combined using logical operators / nested IF // completely correct selection 6 Return result correctly in both cases Problem:  The function will return an incorrect value // the test will fail 1 mark for solution: Solution:  Round the calculated values (to a known number of decimal places)  Define a threshold below which any difference can be ignored Question Answer Marks May/June 2024 Question Answer Marks Item: mobile phone number Justification: to send the text message Item: name Justification: to personalise the text message Item: exercise interest Justification: to determine whether this member would be interested  Add a member to a list of those interested in the new class  Remove the member from future SMS messages  Read/process Message  Identify who from One mark for each. Max 2 marks Means that Update calls (one of) either Sub-A, Sub-B or Sub-C One mark for each point:  reference to selection / decision / if  naming all four modules correctly PROCEDURE Sub-A (Name : STRING, BYREF P2 : BOOLEAN) FUNCTION Sub-B (P1 : REAL) RETURNS REAL One mark per underlined part in each case May/June 2024 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION DeleteComment(Line : STRING) RETURNS STRING DECLARE NewLine, TwoChars : STRING DECLARE Count, TrimTo : INTEGER CONSTANT Comment = \"//\" NewLine  Line TrimTo  0 Count  1 WHILE Count < LENGTH(Line) AND TrimTo = 0 TwoChars  MID(Line, Count, 2) // extract 2 chars IF TwoChars = Comment THEN TrimTo  Count ENDIF Count  Count + 1 ENDWHILE IF TrimTo <> 0 THEN NewLine  LEFT(Line, TrimTo - 1) ENDIF RETURN NewLine ENDFUNCTION Mark as follows: 1 Loop to length of Line (parameter) // length of Line -1 2 Terminate loop on first double slash 3 Attempt to extract one/two characters in a loop 4 Check for \"//\" after attempt at extraction in a loop 5 Record start position of comment // Calculate amount of trim required 6 Attempt to trim Line from start of comment 7 Completely correct trimmed Line from start of comment 8 Return Line after a reasonable overall attempt May/June 2024 Question Answer Marks FUNCTION Stage_1(StudentName : STRING) RETURNS INTEGER DECLARE OldFile, NewFile, Line : STRING DECLARE Count : INTEGER OldFile  StudentName & \"_src.txt\" NewFile  StudentName & \"_S1.txt\" OPENFILE OldFile FOR READ OPENFILE NewFile FOR WRITE Count  0 WHILE NOT EOF(OldFile) READFILE OldFile, Line Line  DeleteComment(Line) IF LENGTH(Line) <> 0 THEN WRITEFILE NewFile, Line Count  Count + 1 ENDIF ENDWHILE CLOSEFILE OldFile CLOSEFILE NewFile RETURN Count ENDFUNCTION Mark as follows: 1 Generate filenames condone missing “_” 2 Open both files in correct modes and subsequently close 3 Loop to EOF(OldFile) 4 Read a line from OldFile and execute DeleteComment()in a loop 5 Skip blank lines after DeleteComment()in a loop 6 Write Line to stage 1 file and increment Count 7 Return the number of lines after a reasonable attempt at counting",
+          "image": "/papers/computer_science-9618-2024/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2024-unit2-2024-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

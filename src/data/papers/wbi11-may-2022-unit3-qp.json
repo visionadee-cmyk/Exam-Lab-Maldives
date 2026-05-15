@@ -1,0 +1,59 @@
+{
+  "paperId": "wbi11-may-2022-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-may-2022-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "May 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes the following points : • serial dilution of stock solution / described (1) • describe method to measure out same volume of each dilution (into test tube) (1) • add same {volume / no. of drops} (of same concentration) iodine (solution to each test tube) (1) • description of method for observing colour of solution (1) • {observe / note down} the colour of the resultant solution (1) e.g. putting solution in a test tube of the same diameter (4) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-may-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes the following points: • Russet and King Edward show {high(er) level of starch / black and dark blue} and therefore best for baking (1) • Nicola and Purple Congo show {low(er) level of starch / pale blue } and therefore best for boiling (1) • King Edward better than Russet for baking / Nicola better than Purple Congo for boiling / King Edward best for baking, Nicola best for boiling(1) • therefore the suggestions are supported by the data (1) • a comment on the subjectivity of the colour differences (1) e.g. the results are semi-quantitative (4) Number Answer Additional Guidance Mark",
+          "image": "/papers/wbi11-may-2022/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer including the following points : • suitable method chosen (1) • further detail (1) e.g colorimeter, looking down on test tubes and adjusting heights e.g. colorimeter, zeroing, use of same cuvette, measure absorbance or transmission looking down tubes, judging colour intensity by looking down and measure heights. (2) Number Answer Additional Guidance Mark An answer including the following steps : • correct reading at day 23 minus correct reading at day 15 and correct subtraction(1) • division of answer by time (8 days) (1) e.g. 14-5 = 9 or 5-14 = - e.g. 9 ÷ 8 = 1.125 au day -1 ACCEPT au / day, au per day ACCEPT 1.1, 1.13 IGNORE the sign (2) Number Answer Additional Guidance Mark An answer including the following points : • negative correlation / falls throughout / non-linear (1) • falls {very little / slowly / by 2 au} {between / up to} days 0 and {5 / 15} • falls {a lot /rapidly / by 9} {between / up to} days 15 and 23 (1) (2) Number Answer Additional Guidance Mark A graph that shows the following features: • overall rise (1) • an inflection at 15 and then steeper than anywhere else on their graph (1) (2) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wbi11-may-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2022-unit3-2022-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

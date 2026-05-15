@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-9618-2024-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2024-unit4-november-p43-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/43",
+  "session": "October/November 2024",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1(a) in the evidence document. [6] 3 9618/43/O/N/24© UCLES 2024[Turn over (b) The function FormatArray() takes an array of strings as a parameter. It concatenates the contents of the array into one string with a space between e",
+      "text": "1(a) in the evidence document. [6] 3 9618/43/O/N/24© UCLES 2024[Turn over (b) The function FormatArray() takes an array of strings as a parameter. It concatenates the contents of the array into one string with a space between e",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1(a) in the evidence document. [6] 3 9618/43/O/N/24© UCLES 2024[Turn over (b) The function FormatArray() takes an array of strings as a parameter. It concatenates the contents of the array into one string with a space between e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Next FileReader.Close() Catch ex As Exception Console.WriteLine(\"No file found\") End Try Return Colours End Function Java public static String[] ReadData(){ String TextFile = \"Data.txt\"; String Colours[] = new String[45]; try{ FileReader f = new FileReader(TextFile); BufferedReader Reader = new BufferedReader(f); for(Integer X = 0; X < 45; X++){ try{ Colours[X] = Reader.readLine(); }catch(IOException ex){} } try{ Reader.close(); }catch(IOException ex){} return Colours; }catch(FileNotFoundException e){ System.out.println(\"File not found\"); } return Colours; } October/November 2024 Question Answer Marks • Function header (and end where appropriate) taking (min) one parameter • Looping through each parameter array element, concatenating with space and returning Python def FormatArray(DataArray): OutputText = \"\" for x in range(0, 45): OutputText = OutputText + DataArray[x] + \" \" return OutputText VB.NET Function FormatArray(DataArray) Dim OutputText As String = \"\" For X = 0 To 44 OutputText = OutputText & DataArray(X) & \" \" Next Return OutputText End Function Java public static String FormatArray(String[] DataArray){ String OutputText = \"\"; for(Integer X = 0; X < 45; X++){ OutputText = OutputText + DataArray[X] + \" \"; } return OutputText; } October/November 2024 Question Answer Marks • Calling ReadData() and storing returned array ... • ... calling FormatArray() with returned array • Outputting return value from FormatArray() Python Colours = ReadData() #string array print(FormatArray(Colours)) VB.NET Dim Colours(45) As String Colours = ReadData() Console.WriteLine(FormatArray(Colours)) Java String[] Colours = new String[45]; Colours = ReadData(); System.out.println(FormatArray(Colours)); e.g. October/November 2024 Question Answer Marks • Function header (and close where appropriate) taking (min) two parameters and returns a value in all cases • Looping through each character in each string parameter ... • ... return 1 when first parameter  second • ... return 2 when f",
+          "image": "/papers/computer_science-9618-2024/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "2(d) in the evidence document. [5] 10 9618/43/O/N/24© UCLES 2024 (e) (i) Write program code to amend the main program to: • calculate and output the chance of the first horse jumping each of the four fences without knocking each fenc",
+          "marks": 1,
+          "type": "structured",
+          "answer": "If Risk = 1 Then Return PercentageSuccess ElseIf Risk = 2 Then Return PercentageSuccess * 0.9 ElseIf Risk = 3 Then Return PercentageSuccess * 0.8 ElseIf Risk = 4 Then Return PercentageSuccess * 0.7 Else Return PercentageSuccess * 0.6 End If End If End Function Java public static Double Success(Integer Height, Integer Risk){ if(Height > MaxFenceHeight){ return Double.valueOf(PercentageSuccess) * 0.2; }else{ if(Risk == 1){ return Double.valueOf(PercentageSuccess); }else if (Risk == 2){ return Double.valueOf(PercentageSuccess) * 0.9; }else if (Risk == 3){ return Double.valueOf(PercentageSuccess) * 0.8; }else if (Risk == 4){ return Double.valueOf(PercentageSuccess) * 0.7; }else{ return Double.valueOf(PercentageSuccess) * 0.6; } } } October/November 2024 Question Answer Marks • Calling Success() for each horse with the height and risk of all 4 fences ... • ... using get methods for height and risk of each fence • ... outputting the horse name, fence number and calculated success at fence in appropriate message e.g. Python for y in range(0, 2): for x in range(0, 4): Chance = Horses[y].Success(Course[x].GetHeight(), Course[x].GetRisk()) print(Horses[y].GetName(), \"Fence\", x + 1, \"chance of success is\", Chance, \"%\") VB.NET Dim Chance As Single For y = 0 To 1 For x = 0 To 3 Chance = Horses(y).Success(Course(x).GetHeight(), Course(x).GetRisk()) Console.WriteLine(Horses(y).GetName() & \" Fence \" & x + 1 & \" chance of success is \" & Chance & \"%\") Next Next Java Double Chance = 0.0; for(Integer y = 0; y < 2; y ++){ for(Integer x = 0; x < 4; x++){ Chance = Horses[y].Success(Course[x].GetHeight(), Course[x].GetRisk()); System.out.println(Horses[y].GetName() + \" Fence \" + (x + 1) + \" chance of success is \" + Chance + \"%\"); } } October/November 2024 Question Answer Marks • Calculating average of all 4 fences for each horse and outputting in suitable message • Identifying the highest percentage of success and outputting the horse's name in an appropriate message e.g. Python AverageSuc",
+          "image": "/papers/computer_science-9618-2024/q2-2d.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2024/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2024-unit4-2024-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

@@ -1,0 +1,206 @@
+{
+  "paperId": "wme01-jan-2020-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-jan-2020-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "January 2020",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 for impulse-momentum principle applied to Q; condone sign errors but must be using m for mass and subtracting momenta M0 if it’s dimensionally incorrect e.g if g is included. First A1 for m uu  ±−−   A1 Correct answer, must be positive and a single term (Allow fraction replaced by a decimal to at least 2 SF) (b) M1 CLM , with usual rules (allow consistent extra g’s), or impulse- momentum principle applied to P, using their answer from (a) which must be in terms of m and u (but allow consistent extra g’s) A1 Correct equation (allow consistent use of v− instead of v) A1 Correct answer only. Any equivalent expression with m terms collected (Allow fraction replaced by a decimal to at least 2 SF) (c) M1 Correct inequality for their v, containing u . N.B. Their first statement must include u and > 0 or < 0 as appropriate A1* Correct given answer correctly obtained. N.B. mm< is A0 Number Scheme Marks 2. T T + 20 1.5 m 2.625 m 1.875 m A G C 1.5 m B W (a) Any two of these (20) ( ), 4.5(20)2.625 ( ), 2.6251.875(20) ( ), 4.51.875 ( ), 61.5(20) 3.375 TTW MATW MGTT MCTW MBTTW ++ = += =+ = + += N.B. The A marks and the DM1 can only be scored if the candidate is using T and T + 20 or T and T – 20 in both equations. N.B. Can score M1A1 for a correct vertical resolution, even if T and T +20 are the wrong way round. N.B. If they just use A T and C T , can score max M1A0 M1A0DM0A0 If they assume that AC TT = , can score max M1A0 M1A0DM0A0 If they assume that the tensions are T and 20, can score max M1A0 M1A0 DM0A0 If they use T and 20T, can score max M1A0 M1A0DM0A0 N.B. If it’s not clear from their working which way round they have the two tensions, use their diagram to decide. M1 A1 M1 A1 Solve for W DM1 W = 120 A1 (6) (b) The beam remains straight,or rigid, or in a straight line or 1-dimensional or it doesn’t bend B1 (1) (7) Notes for question 2 (a) M1 First equation (vertical resolution or moments) with usual rules A1 Correct equation (T may be replaced by 20T− ) M1 Second",
+          "image": "/papers/wme01-jan-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find an equation in H, U and g only .Condone sign errors A1 Correct expression for H in terms of U and g. (A0 if they use h or s in their answer but allow for the M mark)",
+          "image": "/papers/wme01-jan-2020/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "N.B. When awarding marks, must use EITHER the LH column OR the RH column, not a mixture of both. Award as many marks as possible. M1 Complete method to find P s in terms of t, where t = 0 is when Q is projected upwards. The alternative arises when t = 0 is taken to be when P is projected upwards. Condone sign errors. A1 Correct equation (using their H where it is used) Allow: or PP sgtsgt== − or or () PP sHgtsHgt=−=−− Number Scheme Marks or () () P UU s Utgt gg = +− + M1 Complete method to find Q s in terms of t. Condone sign errors. A1 Correct equation (using their H where it is used) Allow: or () QQ sUtgtsUtgt =−=−− Or () or (()) QQ sHUtgtsHUtgt =−−=−−− M1 Use of PQ ss H+= oe OR PQ ss= oe to obtain a CORRECT equation in t, U and g only A1 Correct expression for t in terms of U and g.",
+          "image": "/papers/wme01-jan-2020/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Sub their t value, provided it’s POSITIVE, into their equation for or PQ ss A1 Correct unsimplified expression A1 Correct conclusion Number Scheme Marks",
+          "image": "/papers/wme01-jan-2020/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 sin3Tmgβ= OR sin(90)sin 2 o Tmg ββ = − M1 2 sin mg T β = OR 3cos sin 2 mg T β β = A1 (2) (b) For A or B: ( ) sinRmg Tβ↑=+ OR For whole system: ( ) 23 Rmg mg mg↑ = ++ OR For AC or BC: ( ) sin3R Tmgmgβ↑+ =+ M1 A1 2.5 Rmg= A1 (3) (c) cosFTβ = M1A1 2.5 Fmg= × B1 ft Eliminate T and solve for tanβ M1 tan β= A1 (5) (10) Notes for question 4 A1 Answer. Allow cos(90) o β− for sin β or sin(90) o β − for cosβ",
+          "image": "/papers/wme01-jan-2020/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Resolve vertically for A or B, for whole system or for AC or BC with usual rules A1 Correct equation A1 Correct answer A1 Correct equation B1 ft for their FR= × (allow magnitude if R < 0) seen anywhere (B0 for just F =4/5 R) M1 Eliminate T and solve for tan β correctly. A1 oe Number Scheme Marks",
+          "image": "/papers/wme01-jan-2020/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Correct graph shapes on same axes with intersection, a horizontal line and 2 lines, both with positive gradient, the second less steep than the first and both ending at the same t-value. B0 for a solid vertical line at the end but allow intermediate solid vertical lines. B1 Figs. correctly placed. Allow appropriate delineators. only A1 t = 10 -1 seen B1 ft 60 + T seen or implied; ft on their graph (i.e. on their interpretation of T) N.B. If they use sutat= + , 60 + T is not needed M1 Equating distances to give an equation in T only, with correct structure (e.g. M0 if a ‘½’ is omitted or a ‘section’ is omitted but give BOD where possible e.g. treat middle term below as an attempt at a trapezium, with 60 and T as the parallel sides 15 60(60)40(15) TTT×× + + = + B1B0M1A1A0A0 ) A2 Correct unsimplified equation -1 e.e. A1 Correct quadratic with k = 40 N.B. If they take T to be the end of the time period (instead of 15 + T), can score max: (a) B1B0 (b) M1A1 (c) B1B1ft M1A0A0A0 where T is replaced consistently by (15)T− in the scheme above. Number Scheme Marks",
+          "image": "/papers/wme01-jan-2020/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Magnitude = + = (N) M1A1 (2)",
+          "image": "/papers/wme01-jan-2020/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 For any relevant trig ratio for α or ( 90α°− ) B1 45° seen M1 Finding the difference between 45° and α or ( 90α°− ) and 45° A1 Accept ° or better M1 For producing an equation in a only e.g. using ratios from their resultant (M0 if no resultant attempted and M0 if equation comes from equating their resultant to (2i – 3j). Condone sign error but M0 if ratio is upside down. A1 Correct equation in a only M1 Solve for a . This is an independent M mark but their equation must have come from a ratio equation obtained from using their resultant A1 a = 6.5 Number Scheme Marks",
+          "image": "/papers/wme01-jan-2020/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(1 0)+ij + ( 15) a−+ ij = 5(1)a−+ +ij B1 a+− = − M1A1 Solve for a M1 6.5a= A1 (5) (11) Notes for question 6 A0 if they only give a decimal",
+          "image": "/papers/wme01-jan-2020/q6-6c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 1.42 a= × M1 0.7a= ( m s − ) * GIVEN ANSWER A1* (2) (1)",
+          "image": "/papers/wme01-jan-2020/q7-7a.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "33 0.7gT−=× (for B) M1 A1 Resultant = 2 cos 45 o T OR = TT+ OR = cos 45 o T M1 = 39 or 38.6 (N) A1 (4)",
+          "image": "/papers/wme01-jan-2020/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 0.7 TF −=× (for A) OR 37 0.7gF−=× (whole system) M1 A1 R = 4g; FR μ= × B1; B1 27.344 0.7 gμ−× =× OR 347 0.7ggμ−× =× DM1 0.625 or 0.63 μ= A1 (6)",
+          "image": "/papers/wme01-jan-2020/q7-7d.png"
+        },
+        {
+          "id": "7e",
+          "text": "Part 7e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.7 2 or 2 0.7 1.4vv=× =×× M1 gaμ −× = M1 01.42 g s = −× M1 0.16s = or 0.159 A1 0.16 + 1.4 < 2 => Does not reach pulley A1 cso (5) ALTERNATIVE for final 3 marks: (18) 1.420.6 g v= −× × M1 = 5.39− or 5.4488− A1 Since must be 0v ≥ , does not reach pulley A1 cso Notes for question 7 A1* Given answer correctly obtained or verification completed correctly. A1 Correct equation M1 for correct expression in terms of T A1 39 or 38.6 (N) A1 Correct equation B1 4Rg= B1 FRμ= DM1 Solving to give equation in μ only. Dependent on first M1 Number Scheme Marks N.B. DM0 if they use T = 3g A1 0.625 or 0.63 (5/8 is A0) of either particle when B hits the floor M1 Equation of motion for A. Allow without the -ve sign. M1 Complete method to find distance moved by A until it stops, condone sign error. N.B. This is an independent M mark but M0 if they have not found a new deceleration. A1 Correct distance A1 cso Correct conclusion correctly reached. Must see ‘ < 2’ or use 2 in their working ALTERNATIVE for final 3 marks: M1 Complete method to find v where v is speed with which it would hit the pulley, condone sign error. N.B. This is an independent M mark but M0 if they have not found a new deceleration A1 Correct value for v A1 cso Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-jan-2020/q7-7e.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2020/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wme01-jan-2020"
+  },
+  "unit": "Unit 2"
+}

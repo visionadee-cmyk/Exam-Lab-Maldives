@@ -1,0 +1,59 @@
+{
+  "paperId": "wec11-may-2021-unit1-qp",
+  "pairedMarkSchemeId": "wec11-may-2021-unit1-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC11/01",
+  "session": "May 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "12 (a) Define the term ‘substitutes’ (Extract A, line 9). (2) (b) With reference to Extract A, explain one factor that is likely to influence the price elasticity of supply for sugar. (4) (c) W ith reference to Figure 1 and Extract A, analyse two reasons why the world price of sugar fell between August 2017 and August 2018. Illustrate your answer with a supply and demand diagram. (6) (d)",
+      "text": "12 (a) Define the term ‘substitutes’ (Extract A, line 9). (2) (b) With reference to Extract A, explain one factor that is likely to influence the price elasticity of supply for sugar. (4) (c) W ith reference to Figure 1 and Extract A, analyse two reasons why the world price of sugar fell between August 2017 and August 2018. Illustrate your answer with a supply and demand diagram. (6) (d)",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "12 (a) Define the term ‘substitutes’ (Extract A, line 9). (2) (b) With reference to Extract A, explain one factor that is likely to influence the price elasticity of supply for sugar. (4) (c) W ith reference to Figure 1 and Extract A, analyse two reasons why the world price of sugar fell between August 2017 and August 2018. Illustrate your answer with a supply and demand diagram. (6) (d)",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Knowledge 2 Up to 2 marks for defining a ‘substitute’, e.g.: • Two goods that serve the same need (1) • Consumers can switch between the two goods and receive similar benefits (1) • A good which has a positive cross elasticity of demand/XED above zero (1) • Where the price of one product increases and it leads to an increase in quantity demanded of the other product (1) • Example from Extract A: sugar and artificial sweeteners (1) • Where the price of sugar increases and it leads to an increase in quantity demanded of artificial sweeteners (1+1) (2) Number With reference to Extract A, explain one factor that is likely to influence the price elasticity of supply for sugar. Mark",
+          "image": "/papers/wec11-may-2021/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Knowledge 2 Application 2 Knowledge 1 mark for definition or formula of PES: % change in quantity supplied % change in price Or definition of price elastic or inelastic supply (1) 1 mark for identification of one factor: • Storage capacity • Time it takes sugar crops to reach maturity • Number of producing countries • Ease of switching production • Ability to store good (1) Application Up to 2 marks for application: • Excess supply is 17 million tonnes (1) so there will be stocks of sugar making supply more elastic (1) • Large quantities being held in storage (1) which can be released quickly making supply more elastic (1) • 119 countries grow sugar (1) suggesting supply can be increased in response to a change in price, so supply is relatively elastic (1) • It takes one year in warm countries to grow sugar (1) suggesting supply is relatively elastic (1) • It takes two years in cooler countries to grow sugar (1) suggesting supply is relatively inelastic (1) (4) Number With reference to Figure 1 and Extract A, analyse two reasons why the world price of sugar fell between August 2017 and August 2018. Illustrate your answer with a supply and demand diagram. Mark Quantitative skills assessed: QS4: Construct and interpret a range of standard graphical forms QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms. Knowledge Up to 2 marks for the diagram showing: • Original supply, demand and equilibrium (1) • Final equilibrium showing lower price (1) Analysis Up to 2 marks for any two reasons below: Supply factors • Favourable weather (1) • Good harvests (1) • Indian Government subsidising sugar production (1) • India/Thailand had record levels of production/helping to increase global production to 11% higher than in 2017 (1) Demand factors • Consumption of sugar has fallen because of increasing health concerns (1) • Competition from substitutes such as artificial sweeteners (1) • In the USA/Europe/China/Australia sugar consumption",
+          "image": "/papers/wec11-may-2021/q12-12b.png"
+        },
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative skills assessed QS4: Construct and interpret a range of standard graphical forms QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms. Knowledge, Application and Analysis (8 marks) – indicative content • Definition of ‘subsidy’ – cash grants/payments by a government to suppliers, reduce the costs for suppliers encouraging them to increase supply • Increased subsidy from 55 rupees a tonne to 138 rupees a tonne • Diagram showing increased subsidy • There is an extension of demand as supply increases • Quantity produced/consumed rises from Q to Q • Exports per year grew from 620 000 to 3.3 million tonnes when previous subsidy was introduced • Increasing the subsidy is likely to see further growth in exports- estimate is to 7 million tonnes • Production increases from 20.3 million tonnes to 33 million tonnes. • Increasing exports may improve the balance of trade/current account of balance of payments/injection into the Indian economy • Price decreases from P to P • Consumer surplus increases from ACP to AEP • Producer surplus increases • Government spending increases from P XHC to P EGY • Producer subsidy increases from P e XHI to P e YGM • Consumer subsidy increases from P e ICP to P e MEP • WTO might intervene • Market may become unprofitable for farmers outside of India- e.g. in Brazil and Australia • The subsidy is likely to increase consumption which may have implications for health in terms of obesity and cancers. These external costs will impose costs on those not associated with sugar consumption- for e.g. healthcare costs for the Government • Impact on businesses using sugar as an ingre",
+          "image": "/papers/wec11-may-2021/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-may-2021/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2021-unit1-2021-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

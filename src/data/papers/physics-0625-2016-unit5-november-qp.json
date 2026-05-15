@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2016-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Either suitable use of a horizontal straight edge Or holding rule close to pendulum Or line of sight perpendicular to rule t = 27.8 – 29.0 (s) T correct Unit s More likely to miscount/pendulum may stop swinging Correct calculation and unit s g between 9 and 11 from correct T and working 2 or 3 significant figures Explanation of cause of inaccuracy in measurement of t or l . e.g. student did not react quickly enough when starting/stopping stopwatch OR difficulty in measuring accurately to centre of bob Use different length(s) Repeat timing Use of a fiducial mark Increased number of oscillations Plot a graph using length and time or time Total: Page 3 Mark Scheme Syllabus Paper 0625 51 Mark",
+          "image": "/papers/physics-0625-2016/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ H 60 – 100 θ C 10 – 40 and θ AV correct Unit °C",
+          "image": "/papers/physics-0625-2016/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ M between θ H and θ C",
+          "image": "/papers/physics-0625-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Perpendicular viewing of scale OR wait until temperature stops rising OR carry out without undue delay between parts Correct diagram with lid Insulation placed round beaker Sensible series of values with θ M between θ H and θ C Statement and justification to match results Room temperature (or other environmental condition) Temperature of cold water Temperature of hot water Volumes of water Size/shape/material/surface area of beaker Total Page 4 Mark Scheme Syllabus Paper 0625 51 Mark Correct normal and all lines in approximately the right places P at least 5 cm from AB Table: θ values within ± 2° of ray trace values θ values within ± 1° of 20, 30, 40, 50, 60 Axes correctly labelled and right way round Suitable scales All plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2016/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Triangle method shown on graph and triangle using at least half of candidate’s line G 0.9 – 1.1",
+          "image": "/papers/physics-0625-2016/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Points close to/scattered from line (to match graph)/all on line. Total: Page 5 Mark Scheme Syllabus Paper 0625 51 Mark MP1 On circuit diagram: one voltmeter in parallel with any component MP2 Circuit diagram correctly shows power supply, ammeter, unless in a branch, two or more resistors in parallel MP3 Circuit diagram: Correct symbols for ammeter, voltmeter and fixed resistor MP4 Repeat with a different number of resistors (in parallel) MP5 Table that includes columns for number of resistors, voltage/V and current/A MP6 & MP7 Then any two from: Resistance calculated (may be shown in table) Use low current (to stop resistors getting too hot)/switch off between readings Use at least 5 different combinations Repeat with different current or voltage or variable resistor setting Drawing a graph of number of resistors against combined resistance Total:",
+          "image": "/papers/physics-0625-2016/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit5-2016-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

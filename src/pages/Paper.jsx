@@ -417,8 +417,19 @@ export function Paper() {
                   src={question.image} 
                   alt={`Question ${question.number} diagram`}
                   className="max-w-full h-auto rounded-lg border border-gray-200 block"
+                  onError={(e) => { e.currentTarget.style.display = 'none'; }}
                 />
               </div>
+            )}
+            {paper.assets?.qpPdf && (
+              <a
+                href={paper.assets.qpPdf}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex text-sm text-primary-600 hover:underline mt-2"
+              >
+                Open QP PDF
+              </a>
             )}
           </div>
 
@@ -441,6 +452,7 @@ export function Paper() {
                       src={part.image} 
                       alt={`Part ${formatPartNumber(part.id)} diagram`}
                       className="max-w-full h-auto rounded-lg border border-gray-200 block"
+                      onError={(e) => { e.currentTarget.style.display = 'none'; }}
                     />
                   </div>
                 )}

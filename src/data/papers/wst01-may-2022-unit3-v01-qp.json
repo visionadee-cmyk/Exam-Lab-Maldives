@@ -1,0 +1,129 @@
+{
+  "paperId": "wst01-may-2022-unit3-v01-qp",
+  "pairedMarkSchemeId": "wst01-may-2022-unit3-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WST01/01",
+  "session": "May 2022",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Show that E(R 2 ) = 15.8 (1) Given also that E(R) = 3.7 (b) find the standard deviation of R, giving your answer to 2 decimal places. (2) A yellow spinner is designed so that the score Y is given by the probability distribution in the table below. The cumulative distribution function F(y) is also given. y23456 P(Y = y)0.10.20.1ab F(y)0.10.30.4cd (c) Write down the value of d (1) G",
+      "text": "2 (a) Show that E(R 2 ) = 15.8 (1) Given also that E(R) = 3.7 (b) find the standard deviation of R, giving your answer to 2 decimal places. (2) A yellow spinner is designed so that the score Y is given by the probability distribution in the table below. The cumulative distribution function F(y) is also given. y23456 P(Y = y)0.10.20.1ab F(y)0.10.30.4cd (c) Write down the value of d (1) G",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Show that E(R 2 ) = 15.8 (1) Given also that E(R) = 3.7 (b) find the standard deviation of R, giving your answer to 2 decimal places. (2) A yellow spinner is designed so that the score Y is given by the probability distribution in the table below. The cumulative distribution function F(y) is also given. y23456 P(Y = y)0.10.20.1ab F(y)0.10.30.4cd (c) Write down the value of d (1) G",
+          "marks": 1,
+          "type": "structured",
+          "answer": "  144.84 S 3624.41 1293.4516 gg = − = M1 40.25 \"1293.4516\" 1.29 r =  M1 = 0.985.... awrt 0.985 A1 (3) (b) As the population/t increases, GDP/g increases oe B1 (1) (c)   40.25 31.20155... 1.29 b == M1   144.84 7.87 \"31.20155...\" 11.19068.... a = −  = − M1 ...31.20155... gt = A1 11.2 31.2 gt = − + A1 (4) (d) The GDP/g increases by (an average of) \"31.2\" billion [dollars] when the population/t increases by one million. B1 (1) (e)(i) \" 11.2\" \"31.2\" 7 − +  M1 = 207.2... awrt 207 A1 (2) (ii) Unreliable as 7 000 000 is much greater than the mean population/ t for the 9 years. B1 (1) (f) 0.1 \"31.2\"x= M1 0.003205...x= million people awrt 0.0032 A1 (2) Notes Total 14 (a) M1 Correct method for finding S gg (implied by awrt 1290 to 3sf) M1 Correct method for finding r using their S gg If S gg = 3624.41 is used here, then M0. A1 awrt 0.985 (correct answer only scores M1M1A1) (b) B1 A correct interpreted contextual statement including population (or t) and GDP (or g). ‘Strong positive correlation between population and GDP’ on its own is B0. (c) M1 Correct method for finding b M1 Correct method for finding a using their b   16.0... \"31.20155...\" 0.874... 11.19068.... a = −  = − A1 Only dep on 1 st M1 awrt 31.2 in a regression equation (allow any variables in the equation). A1 Correct equation awrt 11.2 awrt 31.2 gt = − + (must be g and t) Do not allow fractions. (d) B1 Idea that the GDP increases by “Their b” billion dollars for every 1 million increase in population (e)(i) M1 Correct method. Allow substitution of 7 000 000 instead of 7 A1 awrt 207 (billion) (isw after an answer of 207 is seen) (ii) B1 Unreliable with a correct supporting comment which must reference t or t [=0.874] or population ‘Extrapolation so unreliable’ on its own is B0. Reference to g out of range is also B0. (f) M1 Equating 0.1 with “their b” × x Or substituting two values for g with a difference of 0.1 in their equation leading to a value of x A1 awrt 0.0032 (million) Allow awrt 3200 (to 2sf)",
+          "image": "/papers/wst01-may-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wst01-may-2022/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P( ) P( ) P( ) P( ) H W H W H W  = + −  P( ' ) P( ) P( ) H W H W H  =  − M1 ( ) P( ) P H W W  =  P( ') P( ') P( )HWHW = M1 ( ) ( ) PP WW = + − ( ) P W = A1 P( ) W = * ( ) P* W = A1cso* (4) (b) ( ) | or or 1 P NH −+ =−  M1 = = awrt 0.822 A1 (2) (c) B1 M1 M1 M1 A1 (5) Notes Total 11 (a) M1 for use of P( ) P( ) ( ) P( ) H W H P W H W  = + −  (with at least one value correctly substituted) or use of P( ' ) P( ) P( ) H W H W H  =  − (with at least one value correctly substituted) M1 for use of P( ) P( ) P( ) H W H W  =  or use of P( ' ) P( ') P( ) H W H W  =  A1 a correct equation in P(W) (allow W or x here) A1cso* Correct solution ending with P(W)= with no wrong working seen. Dep. on all previous marks. NB A method which uses or 3 3 5 8  =   can score maximum M1M1A0A0. (b) M1 For p where p  use of independence is M0 e.g. x A1 awrt 0.822 (c) B1 3 circles labelled. Either N inside H or allow as intersecting circles with P() 0NH  = , but do not allow blank space to be considered 0. Condone missing box for this mark. Allow all 3 circles overlapping with all zeros correctly labelled. M1 For 3 39 P() 8 540 HW   =  =   seen or correctly placed in Venn diagram. M1 For their \" \" \" \" −= (may be implied by the regions in their P(W) adding to 0.6) M1 For their \"\"\"\" − − = A1 Fully correct diagram with ¼ and box and correct probabilities (allow exact decimal equivalents) Number Scheme Marks",
+          "image": "/papers/wst01-may-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wst01-may-2022/page-15.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) E 0.25 3 0.3 4 0.15 5 0.1 6 0.2 R  =  +  +  +  +   (= 15.8*) B1cso* (1) (b) ( ) s .8 .7 d R =−   M1 2.11 = Standard deviation = 1.4525.... awrt 1.45 A1 (2) (c) d = B1 (1) (d) 0.1 0.2 0.11ab+ + + + = oe M1 2 0.1 3 0.2 4 0.1 564.55ab +  +  + + = oe M1 ( ) 5 0.6 3.35 bb − + = or ( ) 6 0.6 3.35 aa + − = 0.25 a = or 0.35 b = M1 0.4 \"0.25\" c =+ or 1 \"0.35\" c =− M1 0.65 c = oe A1 (5) (e) 0.9 0.75 0.1  M1 = 0.0675 A1 (2) (f) For identifying that if Jessie scores 2, Pabel has no spin oe may be implied M1 [0.10 0 ]0.2 0.3 0.1 0.15 \"0.25\" 0.1 \"0.35\" 0.2 +  +  + + M1 = 0.17 A1 (3) Notes Total 14 (a) B1 Correct calculation with all products seen (allow 1 + 2.7 + 2.4 + 2.5 + 7.2) Figures may be seen in table before part (a). Condone missing addition signs if products seen in table. (b) M1 Use of formula including the square root A1 awrt 1.45 (correct answer with no working scores M1A1) (c) B1 For 1 (d) M1 Allow equivalents eg 0.6 ab += M1 Allow equivalents eg 563.35ab+= M1 Correct method to eliminate a or b (implied by a correct value for a or b) This mark can still be scored even if the method leads to a value of a or b which is not a probability. May see a = c – 0.4 to eliminate a or b = 1 – c used to eliminate b M1 A complete method for finding the value of c (condone using any value of a and b for this mark) A1 0.65 oe (e) M1 For the product of 3 probabilities A1 0.0675 or exact equivalent fraction eg (f) M1 Identifying that if Jessie scores 2, there is only one spin or the 4 correct possibilities only M1 At least 3 correct non-zero probability products ft their a and b (an answer of 0.195 scores M0M1A0) A1 0.17 Number Scheme Marks",
+          "image": "/papers/wst01-may-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wst01-may-2022/page-19.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 104.9 100 P 104.9 P 2.5 VZ −   =    M1 = 1 – 0.975 M1 = 0.0250 0.025 or awrt 0.0250 A1 (3) (b) Expected number = 150 \"0.025\"  M1 = 3.75 awrt 3.75 A1 (2) (c)   [P( 104.9)] P( | 104.9) P( 104.9) vV V v V V    =  = 0.2801 M1 ()() P(104.9)1 \"0.025\"Pv VVv = −−  M1 ( ) P Vv  = ( ) ( ) 1 \"0.025\" 1 \"0.025 0. \"  − − − [=0.7019] oe dM1 0.53 2.5 v − = M1A1 v = 101.325 awrt 101.32 or awrt 101.33 A1 (6) Notes Total 11 (a) M1 Standardising with 104.9, 100 and 2.5 (allow ±) implied by 1.96 seen M1 For use of p − with 0.9 < p < 1 condone answer of 0.0249 for this mark A1 Allow 0.025 or awrt 0.0250 (NB calculator answer is 0.02499....) (answer only scores M1M1A1) (b) M1 For 150 \"their part ( )\" a  A1 awrt 3.75 isw after answer of 3.75 seen. If 3.75 not seen, allow 4 if the method mark is awarded. (c) M1 For writing or using a ratio of probabilities with denominator P(104.9)V oe and equating to 0.2801 P( 104.9) p V  = 0.2801 implied by awrt 0.273 Use of independence is M0 e.g. P( 104.9) 0.2801 P( 104.9) xV V  =  M1 For writing or using ()() P(104.9) P(104.9) P()[1 \"0.025\"P]Vv VVVvVv  = −  = −−  ALT For first two M marks P( ) P( 104.9) Vv V   = 1 – 0.2801 scores M1M1, then follow scheme. dM1 (dep M1) Dependent on previous M1 for rearranging to find () PVv Allow equivalent oe ( ) (1 \"their( )\") 1 0.280 a − − NB: [P(V < v) =] awrt 0.702 implies M1M1M1 or [P(V > v) =] awrt 0.298 implies M1M1M1 M1 Standardising with 100, 2.5 and equating to a z-value, 2.5 v − = z 0.4 < |z| < 0.6 Watch out for 2.5 v− = probability which is M0 A1 Correct equation with compatible signs A1 awrt 101.33 (allow awrt 101.32 from use of calculator) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wst01-may-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wst01-may-2022/page-23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wst01-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WST01-2022-unit3-2022-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wst01-may-2022/page-01.png",
+      "/papers/wst01-may-2022/page-02.png",
+      "/papers/wst01-may-2022/page-03.png",
+      "/papers/wst01-may-2022/page-04.png",
+      "/papers/wst01-may-2022/page-05.png",
+      "/papers/wst01-may-2022/page-06.png",
+      "/papers/wst01-may-2022/page-07.png",
+      "/papers/wst01-may-2022/page-08.png",
+      "/papers/wst01-may-2022/page-09.png",
+      "/papers/wst01-may-2022/page-10.png",
+      "/papers/wst01-may-2022/page-11.png",
+      "/papers/wst01-may-2022/page-12.png",
+      "/papers/wst01-may-2022/page-13.png",
+      "/papers/wst01-may-2022/page-14.png",
+      "/papers/wst01-may-2022/page-15.png",
+      "/papers/wst01-may-2022/page-16.png",
+      "/papers/wst01-may-2022/page-17.png",
+      "/papers/wst01-may-2022/page-18.png",
+      "/papers/wst01-may-2022/page-19.png",
+      "/papers/wst01-may-2022/page-20.png",
+      "/papers/wst01-may-2022/page-21.png",
+      "/papers/wst01-may-2022/page-22.png",
+      "/papers/wst01-may-2022/page-23.png",
+      "/papers/wst01-may-2022/page-24.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

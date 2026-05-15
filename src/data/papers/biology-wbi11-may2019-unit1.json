@@ -20,7 +20,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Water molecule with oxygen (δ-) and two hydrogens (δ+) showing polarity / partial charges / correct angle",
-          "keywords": ["oxygen", "hydrogen", "partial positive", "partial negative", "dipole", "polarity", "104.5°"]
+          "keywords": [
+            "oxygen",
+            "hydrogen",
+            "partial positive",
+            "partial negative",
+            "dipole",
+            "polarity",
+            "104.5°"
+          ],
+          "image": "/papers/wbi11-may-2019/q1-1a.png"
         },
         {
           "id": "1b_i",
@@ -29,7 +38,12 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Salt F: solubility increases with temperature / salt G: solubility decreases with temperature / salt H: solubility constant / does not change",
-          "keywords": ["F increases", "G decreases", "H constant", "solubility changes"]
+          "keywords": [
+            "F increases",
+            "G decreases",
+            "H constant",
+            "solubility changes"
+          ]
         },
         {
           "id": "1b_ii",
@@ -37,15 +51,32 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "15.00" },
-            { "id": "B", "text": "1.67" },
-            { "id": "C", "text": "1.50" },
-            { "id": "D", "text": "0.60" }
+            {
+              "id": "A",
+              "text": "15.00"
+            },
+            {
+              "id": "B",
+              "text": "1.67"
+            },
+            {
+              "id": "C",
+              "text": "1.50"
+            },
+            {
+              "id": "D",
+              "text": "0.60"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "1.67"]
+          "keywords": [
+            "B",
+            "1.67"
+          ],
+          "image": "/papers/wbi11-may-2019/q1-1b_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q1.png"
     },
     {
       "id": "q2",
@@ -60,13 +91,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "1:1" },
-            { "id": "B", "text": "1:3" },
-            { "id": "C", "text": "3:1" },
-            { "id": "D", "text": "3:3" }
+            {
+              "id": "A",
+              "text": "1:1"
+            },
+            {
+              "id": "B",
+              "text": "1:3"
+            },
+            {
+              "id": "C",
+              "text": "3:1"
+            },
+            {
+              "id": "D",
+              "text": "3:3"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "1:3"]
+          "keywords": [
+            "B",
+            "1:3"
+          ],
+          "image": "/papers/wbi11-may-2019/q2-2a_i.png"
         },
         {
           "id": "2a_ii",
@@ -75,13 +122,28 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Diagram A" },
-            { "id": "B", "text": "Diagram B" },
-            { "id": "C", "text": "Diagram C" },
-            { "id": "D", "text": "Diagram D" }
+            {
+              "id": "A",
+              "text": "Diagram A"
+            },
+            {
+              "id": "B",
+              "text": "Diagram B"
+            },
+            {
+              "id": "C",
+              "text": "Diagram C"
+            },
+            {
+              "id": "D",
+              "text": "Diagram D"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "ester bond"]
+          "keywords": [
+            "C",
+            "ester bond"
+          ]
         },
         {
           "id": "2a_iii",
@@ -90,7 +152,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Linoleic acid / has most double bonds / unsaturated / lowers LDL cholesterol / reduces risk of atherosclerosis",
-          "keywords": ["linoleic", "double bonds", "unsaturated", "lowers LDL", "reduces risk"]
+          "keywords": [
+            "linoleic",
+            "double bonds",
+            "unsaturated",
+            "lowers LDL",
+            "reduces risk"
+          ]
         },
         {
           "id": "2b_i",
@@ -98,7 +166,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Prevents thrombin from working / fibrinogen not converted to fibrin / no clot formation",
-          "keywords": ["thrombin", "fibrinogen", "fibrin", "clot", "active site", "prevents"]
+          "keywords": [
+            "thrombin",
+            "fibrinogen",
+            "fibrin",
+            "clot",
+            "active site",
+            "prevents"
+          ],
+          "image": "/papers/wbi11-may-2019/q2-2b_i.png"
         },
         {
           "id": "2b_ii",
@@ -106,7 +182,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Prevents platelet aggregation / platelets cannot stick together / no clumping",
-          "keywords": ["platelet", "aggregation", "surface molecules", "bind", "stick"]
+          "keywords": [
+            "platelet",
+            "aggregation",
+            "surface molecules",
+            "bind",
+            "stick"
+          ],
+          "image": "/papers/wbi11-may-2019/q2-2b_ii.png"
         },
         {
           "id": "2b_iii",
@@ -114,9 +197,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Breaks down existing clots / dissolves fibrin / removes blood clots",
-          "keywords": ["plasmin", "breaks down fibrin", "dissolves clots", "enzyme"]
+          "keywords": [
+            "plasmin",
+            "breaks down fibrin",
+            "dissolves clots",
+            "enzyme"
+          ],
+          "image": "/papers/wbi11-may-2019/q2-2b_iii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q2.png"
     },
     {
       "id": "q3",
@@ -132,7 +222,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Write amino acid names in boxes: Tryptophan, Alanine, Serine, Alanine, Tryptophan",
-          "keywords": ["tryptophan", "alanine", "serine", "codons"]
+          "keywords": [
+            "tryptophan",
+            "alanine",
+            "serine",
+            "codons"
+          ]
         },
         {
           "id": "3a_ii",
@@ -140,7 +235,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "15 bases / 3 bases per codon / triplet code / 15÷3 = 5 codons / each codon codes for one amino acid",
-          "keywords": ["triplet", "3 bases", "codon", "15 bases", "5 codons"]
+          "keywords": [
+            "triplet",
+            "3 bases",
+            "codon",
+            "15 bases",
+            "5 codons"
+          ],
+          "image": "/papers/wbi11-may-2019/q3-3a_ii.png"
         },
         {
           "id": "3b",
@@ -148,7 +250,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Degeneracy of genetic code / wobble hypothesis / multiple codons code for same amino acid / reduces effect of mutations",
-          "keywords": ["degenerate", "wobble", "multiple codons", "mutations", "redundancy"]
+          "keywords": [
+            "degenerate",
+            "wobble",
+            "multiple codons",
+            "mutations",
+            "redundancy"
+          ],
+          "image": "/papers/wbi11-may-2019/q3-3b.png"
         },
         {
           "id": "3c_i",
@@ -156,7 +265,12 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "95.31%",
-          "keywords": ["95.31", "95.31%", "61/64"]
+          "keywords": [
+            "95.31",
+            "95.31%",
+            "61/64"
+          ],
+          "image": "/papers/wbi11-may-2019/q3-3c_i.png"
         },
         {
           "id": "3c_ii",
@@ -164,7 +278,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Stop codons / termination codons / signal end of polypeptide chain / UAA, UAG, UGA",
-          "keywords": ["stop codons", "termination", "end of chain", "UAA", "UAG", "UGA"]
+          "keywords": [
+            "stop codons",
+            "termination",
+            "end of chain",
+            "UAA",
+            "UAG",
+            "UGA"
+          ],
+          "image": "/papers/wbi11-may-2019/q3-3c_ii.png"
         },
         {
           "id": "3d",
@@ -173,15 +295,32 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "ACC and TGG" },
-            { "id": "B", "text": "ACC and UGG" },
-            { "id": "C", "text": "UCC and AGG" },
-            { "id": "D", "text": "UCC and TGG" }
+            {
+              "id": "A",
+              "text": "ACC and TGG"
+            },
+            {
+              "id": "B",
+              "text": "ACC and UGG"
+            },
+            {
+              "id": "C",
+              "text": "UCC and AGG"
+            },
+            {
+              "id": "D",
+              "text": "UCC and TGG"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "UCC", "AGG"]
+          "keywords": [
+            "C",
+            "UCC",
+            "AGG"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q3.png"
     },
     {
       "id": "q4",
@@ -196,7 +335,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Each new DNA molecule contains one original (parent) strand and one newly synthesized strand",
-          "keywords": ["one parent strand", "one new strand", "complementary", "template"]
+          "keywords": [
+            "one parent strand",
+            "one new strand",
+            "complementary",
+            "template"
+          ],
+          "image": "/papers/wbi11-may-2019/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
@@ -204,7 +349,13 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "DNA polymerase / helicase / primase / DNA ligase",
-          "keywords": ["DNA polymerase", "helicase", "primase", "DNA ligase"]
+          "keywords": [
+            "DNA polymerase",
+            "helicase",
+            "primase",
+            "DNA ligase"
+          ],
+          "image": "/papers/wbi11-may-2019/q4-4a_ii.png"
         },
         {
           "id": "4a_iii",
@@ -212,7 +363,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Ensures genetic continuity / maintains genetic stability / passes exact copy of genetic information to daughter cells / prevents mutations",
-          "keywords": ["genetic continuity", "stability", "exact copy", "daughter cells"]
+          "keywords": [
+            "genetic continuity",
+            "stability",
+            "exact copy",
+            "daughter cells"
+          ],
+          "image": "/papers/wbi11-may-2019/q4-4a_iii.png"
         },
         {
           "id": "4b",
@@ -221,9 +378,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Stage 1: 100% heavy only / Stage 2: 100% both heavy and light / Stage 3: 50% both, 50% light only",
-          "keywords": ["100% heavy", "100% hybrid", "50% hybrid", "50% light"]
+          "keywords": [
+            "100% heavy",
+            "100% hybrid",
+            "50% hybrid",
+            "50% light"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q4.png"
     },
     {
       "id": "q5",
@@ -238,13 +401,32 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "fructose only / glucose and sucrose" },
-            { "id": "B", "text": "glucose only / fructose and sucrose" },
-            { "id": "C", "text": "fructose and glucose / sucrose only" },
-            { "id": "D", "text": "glucose and sucrose / fructose only" }
+            {
+              "id": "A",
+              "text": "fructose only / glucose and sucrose"
+            },
+            {
+              "id": "B",
+              "text": "glucose only / fructose and sucrose"
+            },
+            {
+              "id": "C",
+              "text": "fructose and glucose / sucrose only"
+            },
+            {
+              "id": "D",
+              "text": "glucose and sucrose / fructose only"
+            }
           ],
           "answer": "C",
-          "keywords": ["C", "fructose", "glucose", "monosaccharides", "sucrose disaccharide"]
+          "keywords": [
+            "C",
+            "fructose",
+            "glucose",
+            "monosaccharides",
+            "sucrose disaccharide"
+          ],
+          "image": "/papers/wbi11-may-2019/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -252,13 +434,29 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "ester" },
-            { "id": "B", "text": "glycosidic" },
-            { "id": "C", "text": "peptide" },
-            { "id": "D", "text": "phosphodiester" }
+            {
+              "id": "A",
+              "text": "ester"
+            },
+            {
+              "id": "B",
+              "text": "glycosidic"
+            },
+            {
+              "id": "C",
+              "text": "peptide"
+            },
+            {
+              "id": "D",
+              "text": "phosphodiester"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "glycosidic"]
+          "keywords": [
+            "B",
+            "glycosidic"
+          ],
+          "image": "/papers/wbi11-may-2019/q5-5a_ii.png"
         },
         {
           "id": "5b_i",
@@ -267,7 +465,11 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "1.08 g dm⁻³",
-          "keywords": ["1.08", "mean", "average"]
+          "keywords": [
+            "1.08",
+            "mean",
+            "average"
+          ]
         },
         {
           "id": "5b_ii",
@@ -276,9 +478,16 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "High concentration of sugars / hypertonic solution / water moves out by osmosis / fructose, glucose and sucrose in specific proportions / maintains sugar concentration / prevents dilution of taste",
-          "keywords": ["high concentration", "hypertonic", "osmosis", "water out", "sugar proportions"]
+          "keywords": [
+            "high concentration",
+            "hypertonic",
+            "osmosis",
+            "water out",
+            "sugar proportions"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q5.png"
     },
     {
       "id": "q6",
@@ -293,7 +502,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Antioxidants prevent oxidation of LDL / prevent cholesterol deposition / reduce atherosclerosis / neutralise free radicals / prevent damage to artery walls",
-          "keywords": ["prevent oxidation", "LDL", "cholesterol", "atherosclerosis", "free radicals"]
+          "keywords": [
+            "prevent oxidation",
+            "LDL",
+            "cholesterol",
+            "atherosclerosis",
+            "free radicals"
+          ],
+          "image": "/papers/wbi11-may-2019/q6-6a.png"
         },
         {
           "id": "6b_i",
@@ -302,7 +518,13 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Dark chocolate has more flavonoids (170 vs 70 mg) / lower energy content (1800 vs 2345 kJ) / more antioxidants / less likely to cause weight gain / more effective at reducing CVD risk",
-          "keywords": ["more flavonoids", "170", "lower energy", "weight gain", "antioxidants"]
+          "keywords": [
+            "more flavonoids",
+            "170",
+            "lower energy",
+            "weight gain",
+            "antioxidants"
+          ]
         },
         {
           "id": "6b_ii",
@@ -311,13 +533,28 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "cocoa mass" },
-            { "id": "B", "text": "milk fat" },
-            { "id": "C", "text": "sugar" },
-            { "id": "D", "text": "whole milk powder" }
+            {
+              "id": "A",
+              "text": "cocoa mass"
+            },
+            {
+              "id": "B",
+              "text": "milk fat"
+            },
+            {
+              "id": "C",
+              "text": "sugar"
+            },
+            {
+              "id": "D",
+              "text": "whole milk powder"
+            }
           ],
           "answer": "A",
-          "keywords": ["A", "cocoa mass"]
+          "keywords": [
+            "A",
+            "cocoa mass"
+          ]
         },
         {
           "id": "6b_iii",
@@ -325,9 +562,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Large sample size / random selection / control group / placebo / double-blind / measure CVD risk factors over time / standardised chocolate intake",
-          "keywords": ["large sample", "control group", "placebo", "double-blind", "longitudinal"]
+          "keywords": [
+            "large sample",
+            "control group",
+            "placebo",
+            "double-blind",
+            "longitudinal"
+          ],
+          "image": "/papers/wbi11-may-2019/q6-6b_iii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q6.png"
     },
     {
       "id": "q7",
@@ -343,7 +588,14 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Approximately 2.0-2.5 m / accept range 1.8-2.7 m",
-          "keywords": ["2.0", "2.5", "estimate", "ratio", "neck length"]
+          "keywords": [
+            "2.0",
+            "2.5",
+            "estimate",
+            "ratio",
+            "neck length"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7a.png"
         },
         {
           "id": "7b",
@@ -351,7 +603,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Need to pump blood up to head / against gravity / long neck / high blood pressure / need more powerful pump / maintain blood flow to brain",
-          "keywords": ["long neck", "gravity", "brain", "pump", "pressure", "head"]
+          "keywords": [
+            "long neck",
+            "gravity",
+            "brain",
+            "pump",
+            "pressure",
+            "head"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7b.png"
         },
         {
           "id": "7c_i",
@@ -359,7 +619,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Correct structure: endothelium, smooth muscle, elastic tissue, collagen fibres, lumen",
-          "keywords": ["endothelium", "smooth muscle", "elastic tissue", "collagen", "lumen"]
+          "keywords": [
+            "endothelium",
+            "smooth muscle",
+            "elastic tissue",
+            "collagen",
+            "lumen"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7c_i.png"
         },
         {
           "id": "7c_ii",
@@ -367,7 +634,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Stretch and recoil / withstand high pressure / maintain blood flow / prevent damage to artery walls",
-          "keywords": ["stretch", "recoil", "high pressure", "maintain flow"]
+          "keywords": [
+            "stretch",
+            "recoil",
+            "high pressure",
+            "maintain flow"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7c_ii.png"
         },
         {
           "id": "7d_i",
@@ -375,7 +648,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Slow blood flow / allow time for clotting / platelets can plug small vessels / restricts blood loss",
-          "keywords": ["slow flow", "clotting", "platelets", "plug", "restricts loss"]
+          "keywords": [
+            "slow flow",
+            "clotting",
+            "platelets",
+            "plug",
+            "restricts loss"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7d_i.png"
         },
         {
           "id": "7d_ii",
@@ -383,7 +663,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Greater surface area to volume ratio / more haemoglobin in contact with capillary wall / faster oxygen diffusion / more efficient oxygen transfer",
-          "keywords": ["surface area", "volume ratio", "diffusion", "efficient", "haemoglobin"]
+          "keywords": [
+            "surface area",
+            "volume ratio",
+            "diffusion",
+            "efficient",
+            "haemoglobin"
+          ],
+          "image": "/papers/wbi11-may-2019/q7-7d_ii.png"
         }
       ]
     },
@@ -401,13 +688,28 @@
           "marks": 1,
           "type": "mcq",
           "options": [
-            { "id": "A", "text": "Diagram A" },
-            { "id": "B", "text": "Diagram B" },
-            { "id": "C", "text": "Diagram C" },
-            { "id": "D", "text": "Diagram D" }
+            {
+              "id": "A",
+              "text": "Diagram A"
+            },
+            {
+              "id": "B",
+              "text": "Diagram B"
+            },
+            {
+              "id": "C",
+              "text": "Diagram C"
+            },
+            {
+              "id": "D",
+              "text": "Diagram D"
+            }
           ],
           "answer": "B",
-          "keywords": ["B", "R group"]
+          "keywords": [
+            "B",
+            "R group"
+          ]
         },
         {
           "id": "8b_i",
@@ -415,7 +717,11 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Peptide bond",
-          "keywords": ["peptide", "peptide bond"]
+          "keywords": [
+            "peptide",
+            "peptide bond"
+          ],
+          "image": "/papers/wbi11-may-2019/q8-8b_i.png"
         },
         {
           "id": "8b_ii",
@@ -424,7 +730,14 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Circle the OH on the carboxyl group and the H on the amino group / these are lost as water",
-          "keywords": ["OH", "carboxyl", "H", "amino", "water", "lost"]
+          "keywords": [
+            "OH",
+            "carboxyl",
+            "H",
+            "amino",
+            "water",
+            "lost"
+          ]
         },
         {
           "id": "8b_iii",
@@ -432,7 +745,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Normal silkworms lack the specific tRNA / no anticodon for AzPhe / tRNA has different anticodon / not recognised by normal ribosomes",
-          "keywords": ["tRNA", "anticodon", "specific", "not recognised", "normal silkworms"]
+          "keywords": [
+            "tRNA",
+            "anticodon",
+            "specific",
+            "not recognised",
+            "normal silkworms"
+          ],
+          "image": "/papers/wbi11-may-2019/q8-8b_iii.png"
         },
         {
           "id": "8c_i",
@@ -440,7 +760,13 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "84:16 or 21:4 or 5.25:1 or equivalent ratio",
-          "keywords": ["84:16", "21:4", "5.25:1", "ratio"]
+          "keywords": [
+            "84:16",
+            "21:4",
+            "5.25:1",
+            "ratio"
+          ],
+          "image": "/papers/wbi11-may-2019/q8-8c_i.png"
         },
         {
           "id": "8c_ii",
@@ -448,9 +774,23 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Change in tertiary structure / different folding / affects strength / elasticity / flexibility / may change binding properties / altered medical properties / more space between molecules / different interactions",
-          "keywords": ["tertiary structure", "folding", "strength", "elasticity", "binding", "interactions"]
+          "keywords": [
+            "tertiary structure",
+            "folding",
+            "strength",
+            "elasticity",
+            "binding",
+            "interactions"
+          ],
+          "image": "/papers/wbi11-may-2019/q8-8c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi11-may-2019/q8.png"
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi11-may-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit1-2019-06-qp.pdf"
+  },
+  "unit": "Unit 1"
 }

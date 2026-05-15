@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-0478-2023-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C X 0 0 0 1 0 0 1 0 0 1 0 1 0 1 1 1 1 0 0 1 1 0 1 0 1 1 0 1 1 1 1 0 4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs Question Answer Marks October/November 2023 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "6 Example: 1 and 1 (1) normal data to ensure the algorithm accepts this test data (1) –1 and 1 (1) abnormal data for length to ensure that it is rejected (1) Yes START INPUT Length Price  Length * Cost STOP Is Length >=0.5 AND Length <= 6.0 ? No OUTPUT \"Price \", ROUND(Price,2) INPUT Cost One mark for each of the following points • correct use of flowchart symbols • working flow lines and complete • both inputs correct • working range check • working calculation • correct output rounded to two decimal places October/November 2023 Question Answer Marks Two marks for three correct headings Three marks for all headings correct and no other headings unless used in 8(b) Length Cost Price OUTPUT • validate Cost ... • ... with a range/presence check • add another validation check for Length Question Answer Marks CatNo text/alphanumeric Description text/alphanumeric StockLevel integer Price real Painted Boolean CatNo",
+          "image": "/papers/computer_science-0478-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9c",
+          "text": "Part 9c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "SELECT lists the fields to be displayed FROM identifies the table WHERE identifies the search criteria October/November 2023 Question Answer Marks • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario 2D Array or list Evening[1:10, 1:20] / Evening[0:9, 0:19] Variables Counter, SeatCounter, NumSeats, Row, Column Requirements (techniques) R1 Find number of seats available for each performance and output (searching, nested iteration, output) R2 Inputs and validates number of seats (input, iteration, and selection) R3 Checking if seats available (selection, assignment, output with appropriate messages) Example 15-mark answer in pseudocode // meaningful identifier names and appropriate data structures to store the data required DECLARE Counter, SeatCounter, NumSeats, Row, Column : INTEGER CONSTANT HouseFull = 200 CONSTANT MaxRow = 10 CONSTANT MaxColumn = 20 SeatCounter1  0 // initialise seat counter for performance 1 October/November 2023 Question Answer Marks FOR Row  1 TO 10 FOR Column  1 TO 20 IF Evening[Row, Column] THEN SeatCounter  SeatCounter + 1 ENDIF NEXT Column NEXT Row // validate input OUTPUT \"How many seats do you want to book? 1, 2, 3 or 4 \" INPUT NumSeats WHILE 1 < NumSeats OR NumSeats > 4 OR NumSeats <> ROUND(NumSeats, 0) OUTPUT \"Please enter 1, 2, 3 or 4 for the number of seats \" INPUT NumSeats ENDWHILE IF SeatCounter + NumSeats > 200)// check for house full THEN OUTPUT \"House full\" ELSE IF SeatCounter + NumSeats > 200 // checks for not enough seats THEN OUTPUT \"Only \", SeatCounter + NumSeats – 200, \" seats left\" ELSE FOR Counter  1 TO NumSeats // book required number of seats for performance Evening[MOD(SeatCounter + Counter, MaxColumn), DIV(SeatCounter + Counter), MaxColumn]  TRUE OUTPUT \"Row \", MOD(SeatCounter + Counter, MaxColumn), \" seat \", DIV(SeatCounter + Counter, MaxColumn),\" booked\" NEXT Counter ENDIF October/November 2023 Marking Instructions in italics AO2: ",
+          "image": "/papers/computer_science-0478-2023/q9-9c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit2-2023-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "mathematics-0580-2018-unit3-november-p33-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2018-unit3-november-p33-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/33",
+  "session": "October/November 2018",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Write the number 602 047 in words. ..............................................................................................................................................................[1] (b) Find (i) a multiple of 14, .................................................[1] (ii) 56 2 , ...........................",
+      "text": "6 (a) Write the number 602 047 in words. ..............................................................................................................................................................[1] (b) Find (i) a multiple of 14, .................................................[1] (ii) 56 2 , ...........................",
+      "parts": [
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 × 3 or 2 × 2 × 2 × 2 × 3 × 3 × 3 M1 for a complete factor tree with at most one error or 2, 2, 2, 2, 3, 3, 3 clearly identified as factors or B1 for a correct product that equals B1 for 2 correct B3FT for 11 or 12 points correctly plotted or B2FT for 9 or 10 points correctly plotted or B1FT for 6, 7 or 8 points correctly plotted 1FT their (b) (2.3 to 2.6, 2.3 to 2.6) FT yx= drawn and their curve B1FT for one correct, or both x values correct or both y values correct oe oe M2 for 127− soi or M1 for 712BC+= soi B1 FT their (b)(i) × 2 + 14 October/November Question Answer Marks Partial Marks 5B2 for arc radius 7.5 cm, centre P or B1 for short arc radius 7.5 cm, centre P or B1 for arc, any radius centre P B2 for angle bisector with correct arcs or B1 for angle bisector with incorrect or no arcs B1 for region dep on B1(arc) and B1(bisector) radius [and] tangent [at 90] B1 for each angle [in a] semicircle [= 90] B1 for each M1 for 4.5 × π cm M1 for sin 35 = BC or better",
+          "image": "/papers/mathematics-0580-2018/q6-6e.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2018-unit3-2018-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

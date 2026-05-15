@@ -1,0 +1,111 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) You recorded information for the estimate of the cost of building a computer in Task 1. Give a data structure that you created for Task 1, its name, data type and use. Data structure ....................................................................................................",
+      "text": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) You recorded information for the estimate of the cost of building a computer in Task 1. Give a data structure that you created for Task 1, its name, data type and use. Data structure ....................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for method, one mark for an extension or reason. Many correct answers, an example is given. Use a previously stored number//generates/uses an initial value (1) Update it (by 1) every time an estimate is made (1) 0478/21 May/June 2018 five from: 1 Initialise (stock level) flag 2 Check stock level for the chosen processor type 3 Only check RAM if processor available // Only check processor if RAM available 4 Check stock level for the chosen type of RAM 5 Finish process if problem with (RAM/Processor) stock levels 6 Identify out of stock (processor/RAM)//Set flag to appropriate value 7 Identify stock level OK//Set flag to appropriate value 0478/21 May/June 2018 foundProc ← FALSE count ← WHILE NOT foundProc AND count <=3 DO IF processor(estNo) = proc(count) AND stProc(count) > 0 THEN foundProc ← TRUE ENDIF count ← count + 1 ENDWHILE IF foundProc THEN foundRAM ← FALSE IF RAM(estNO) = RAM1 AND stRAM1 >0 THEN foundRAM ← TRUE stRAM1 ← stRAM1 - 1 ENDIF IF RAM(estNO) = RAM2 AND stRAM2 >0 THEN foundRAM ← TRUE stRAM2 ← stRAM2 - 1 ENDIF ENDIF IF NOT foundProc THEN OUTPUT \"Processor out of stock\" ELSE stProc(count) ← stProc(count) - 1 ENDIF IF NOT foundRAM THEN OUTPUT \"RAM out of stock\" ENDIF 0478/21 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct point (max 5): Explanation 1 How the number of orders was calculated 2 Deal with the case where the estimate has not been turned into an order 3 Calculating the total number of each component sold 4 Details of method actually used to calculate numbers of components 5 How the total value of all the orders was calculated 6 Display summary 7 Display complete summary of number of orders, total number of components and total value of orders Programming statements can be used but must be explained to gain credit. 0478/21 May/June 2018 Section B six from: 1 Initialisation of counters for positive numbers and zeros 2 Appropriate loop for 1000 iterations 3 Input number inside loop 4 Test for positive numbers 5 Update positive number counter 6 Test for zeros 7 Update zero counter 8 Output counters with appropriate messages outside loop zero ← posCount ← FOR count ← 1 TO 1000 INPUT number IF number > 0 THEN posCount ← posCount + 1 ENDIF IF number = 0 THEN zero ← zero + 1 ENDIF NEXT OUTPUT posCount, \" positive numbers \" OUTPUT zero, \" zeros \"",
+          "image": "/papers/computer_science-0478-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Write an algorithm to input 1000 numbers. Count how many numbers are positive and how many numbers are zero. Then output the results. Use either pseudocode or a flowchart. ................................................................................................................................................... ...............................................................",
+      "text": "2 (a) Write an algorithm to input 1000 numbers. Count how many numbers are positive and how many numbers are zero. Then output the results. Use either pseudocode or a flowchart. ................................................................................................................................................... ...............................................................",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Reduce the number of iterations to a manageable amount // Simulate the input (e.g. random generation) 0478/21 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Digit(1) Digit(2) Digit(3) Digit(4) Digit(5) Digit(6) Digit(7) Digit(8) Sum OUTPUT 5 7 0 1 2 3 4 6 44 GTIN-8 Digit(1) Digit(2) Digit(3) Digit(4) Digit(5) Digit(6) Digit(7) Digit(8) Sum OUTPUT 4 3 1 0 2 3 1 0 30 GTIN-8 One mark for data entry – both sets of digits 1–7 One mark for both Digit(8) One mark for each Sum (max Two ) One mark for both OUTPUT three from 1 Change first loop to 8 iterations 2 Check that the input Digit(8) is equal to the calculated Digit(8)... « if equal output check digit correct « otherwise output check digit incorrect Or 1 Change first loop to 8 iterations 2 Put all 8 digits through the algorithm to calculate Sum ... « if MOD(Sum,10) is equal to zero, check digit correct « otherwise output check digit incorrect 0478/21 May/June 2018 One mark for each (max three ) 10.00 boundary/erroneous data // the price should be rejected // value is out of range 9.99 boundary/extreme/normal data // the prices should be accepted // value is within normal range ten erroneous/abnormal data // input should be rejected // value is wrong type There are many possible answers. e.g.: Totalling is used to sum a list of numbers (1) Counting is used to find how many numbers/items there are in a list. (1) Totalling example (1) e.g. Total = Total + Number Counting example (1) e.g. Counter = Counter + 1 Records two from: Length check Type check Presence check Format check 0478/21 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q3-3a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q3.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Type Sold Out Date Title Table: PERFORMANCE PERFORMANCE PERFORMANCE PERFORMANCE Sort: Show:  ; ; Criteria: Like “Jazz” False or: One mark per correct column.",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

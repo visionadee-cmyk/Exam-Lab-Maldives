@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2020-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) The student places a 2.0 N weight at a distance l from the pivot. She then adjusts the height of the clamp holding the pivot so that the metre rule is horizontal. She reads the force F on the forcemeter. Fig. 1.2 shows the weight and the metre rule from above. Fig. 1.3 shows the reading on the forcemeter. metre rule2.0 N weight 22 23",
+      "text": "1 (a) The student places a 2.0 N weight at a distance l from the pivot. She then adjusts the height of the clamp holding the pivot so that the metre rule is horizontal. She reads the force F on the forcemeter. Fig. 1.2 shows the weight and the metre rule from above. Fig. 1.3 shows the reading on the forcemeter. metre rule2.0 N weight 22 23",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "hang load from cotton loop on metre rule and cotton can be placed on precise mark on metre rule correct voltmeter symbol in parallel with resisto r correct ammeter symbol in series 0625/63 May/June 2020 V A = 2.4 (V) I A = 0.48 (A) correct calculation of R A = 5(.0) / ec f",
+          "image": "/papers/physics-0625-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "2 (b) The student keeps the screen in the same position. She moves the lens closer to the screen, as shown in Fig. 3.2, until another sharp image of the triangle is seen on the screen. (i) Measure the distance v between the lens and the screen as indicated in Fig. 3.2. v = ..........................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct unit for R – Ω R values to consistent 2 or consistent 3 significant figures",
+          "image": "/papers/physics-0625-2020/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching results j ustification matching statement with values from result s used, e.g. within limits of experimental accuracy correct symbol for potentiomete r can obtain average value / plot a graph u = 4.0 (cm) and v = 8.6 (cm) U = 20.0 (cm) and V = 43.0 (cm) f = 13.7 and unit move screen backwards and forwards / slowly v = 3.5 (cm) and V = 17.5 (cm) h O = 2.0 (cm) and h I = 0.8 (cm) M = 0.4 and no unit f = 12.5 (cm) 0625/63 May/June 2020 one from: mark position of lens on holder clamp rule / place rule on bench ensure screen, lens and object all perpendicular view scale perpendicularly difficult to measure height of image (accurately) as image is small use larger object / graph paper on screen OR mark top and bottom of image and measure late r MP1 additional apparatus: voltmete r , protracto r , metre rule MP2 control variable (one from): distance of lamp from solar panel height of lamp / height of solar panel brightness of lamp MP3 method (one from): measure angle between panel and stand / other fixed datum (switch on lamp) measure potential difference MP4 repeat for different angle MP5 table: appropriate columns with clear headings and units MP6 analysis: suitable analysis of readings, e.g. calculation of rate of change of potential difference with angle draw a suitable graph with correct axes stated 0625/63 May/June 2020 MP7 additional point / precaution (one from): reading with only ambient light first / subtract ambient light reading make room dark fix protractor keep axis of solar panel and line of lamp perpendicular to each other at least five sets of data taken repeat each reading and take an average repeat for different distance of lamp",
+          "image": "/papers/physics-0625-2020/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit6-2020-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

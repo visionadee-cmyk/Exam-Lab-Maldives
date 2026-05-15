@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• MP4 • Reduces the size of the file • Takes up less storage space • Quicker to transmit to device • Use less bandwidth • Less buffering • Display made up of pixels • ... that are arranged in a matrix • LEDs are behind the screen • Light shone at pixels • Can have diffuser is used to distribute light evenly • RGB filters used • ... and are mixed to create different colours October/November 2022 Question Answer Marks 7 One mark for each correct term in the correct order • Fetched • MDR • Data bus • Decoded • ALU • Calculations • Execute October/November 2022 Question Answer Marks • They are both unique addresses • They can both be used to identify a device (on a network) • They are both assigned to hardware • They can both be represented as hexadecimal e.g. • A MAC address is assigned by the manufacturer, whereas an IP address is assigned by the network/router/ISP • A MAC address is represented as hexadecimal, whereas an IP address can sometimes be represented as numeric • A MAC address is normally static, whereas an IP address can be dynamic • A MAC address has 6 groups of digits, whereas an IP address has 4/8 groups • A MAC address is 6 bytes (48 bit), whereas an IP address is 4/16 bytes (32/128 bit) October/November 2022 Question Answer Marks 9 Any six from (MAX four for ARQ): • Odd or even parity is set/agreed for the data • A parity bit is added to each byte of data • ... to make the number of 1s match parity • Data is checked after transmission to see if parity is correct • ARQ uses acknowledgement and timeout • If no error is found, a positive acknowledgement is sent to the sender / no acknowledgement is sent to the sender • If an error is found, a negative acknowledgement is sent to the sender ... • ... that triggers the data to be resent • When the data is sent, a timer is started • If an acknowledgement is not received within the time set, the data is resent ... • ... until an acknowledgement is received / resend limit is reached October/November 2022 Quest",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

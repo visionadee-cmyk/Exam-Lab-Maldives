@@ -1,0 +1,103 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 bromine (aqueous / in cyclohexane) M2 turns colourless / decolourised 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to prevent suck back (of water) Page 3 Mark Scheme Syllabus Paper 0620 63 Mark",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 1 temperature boxes completed correctly 20, 20, 20, 25, 28, 31, 33, 34, 35, 36, 36",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results for Experiment 2 temperature boxes completed correctly 22, 22, 22, 71, 76, 75, 72, 70, 67, 65, 64",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted ± half a small square smooth line graphs labelled 2 1 1 working shown clearly as construction lines or cross value from graph (29–30 °C ± 0.5 °C) 1 1 value from graph (72 s) –60 s 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "room temperature or initial temperature from table (20–22 °C) reaction has finished / stopped 1 1 / points / data smoother curve / better or more accurate graph 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2e.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "polystyrene is an insulator / copper is a (good) conductor reduced heat losses 1 1 Page 4 Mark Scheme Syllabus Paper 0620 63 Mark / fizzing / bubbling / solid disappears / dissolves lighted splint ‘pops’ 1 1 1 / fizzing / bubbling / solid disappears / dissolves limewater milky 1 1 1 / Ca 2+ hydroxide / OH – 1 1 Page 5 Mark Scheme Syllabus Paper 0620 63 Mark silica filter (the cleaner) wash the residue dry the residue water heat (the filtrate / cleaner) condense the vapour sodium carbonate heat to dryness / no liquid left (then solid) sodium carbonate is left OR heat until saturated then cool to crystallise / leave to crystallise",
+          "image": "/papers/chemistry-0620-2016/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,187 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 13,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " B",
+          "image": "/papers/computer_science-0478-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct conversion   ",
+          "image": "/papers/computer_science-0478-2023/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for full method of working e.g. conversion to binary then flipping and adding 1 One mark for correct answer ",
+          "image": "/papers/computer_science-0478-2023/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One marks per each correct nibble One mark for correct working in binary (showing 4 correct carries) 1 1 1 1 0 0 1 1 0 0 1 1 0 1 1 0 0 0 0 1 10 0 1 0 1 0 0",
+          "image": "/papers/computer_science-0478-2023/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from:  The result of the calculation is greater than 255 // The value generated is larger than can be stored in the register  The result of the calculation would require more than 8 bits to be represented // A register has a predetermined number of bits and there are too many bits for it 0478/11 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q1-1e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct definition:  The sample rate is the number of samples taken in a second/per time unit  The sample resolution is the number of bits per sample",
+          "image": "/papers/computer_science-0478-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Lossy compression two from: e.g.  Destination/receivers (IP) address  Packet number  Originator’s/senders (IP) address five from:  Data is broken / split/divided into packets  Each packet (could) take a different route  A router controls the route/path a packet takes  ... selecting the shortest/fastest available route/path  Packets may arrive out of order  Once the last packet has arrived , packets are reordered  If a packet is missing/corrupted, it is requested again",
+          "image": "/papers/computer_science-0478-2023/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correctly circled storage device:  Compact disk (CD)  Solid-state drive (SSD)  Hard disk drive (HDD)",
+          "image": "/papers/computer_science-0478-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " C 0478/11 May/June 2023 One mark for each correct term in the correct place:  System  Application  Operating  Hardware one from:  Level  Pressure  Moisture Six from:  Sensor continually sends digitised data to microprocessor  Microprocessor compares data to stored value(s)  If value is outside range / matches microprocessor sends signal to release water to refill water bowl  ... bowl filled by set amount // bowl filled for certain time  Actuator used to release water  Whole process repeats until turned off/stopped  Network interface card/controller // NIC // WNIC  Media access control/MAC address // MAC  Route r Three from:  It can be used to uniquely identify a device (on a network)  It can change ...  ... each time the device is connected to the network 0478/11 May/June 2023 two from:  Close to the language processed by computers  May use mnemonics  A n example is assembly language/machine code two from:  Can directly manipulate the hardware  No requirement for the program to be portable  Program will be more memory efficient  No requirement for a compiler/interpreter  Quicker to execute  Can use specialised hardware",
+          "image": "/papers/computer_science-0478-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q3.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from:  Trial and error to guess a password  Combinations are repeatedly entered ...  ... until correct password is found  Can be carried out manually o r automatically by software two from: e.g.  Steal/view/access data  Delete data  Change data  Lock account // Encrypt data  Damage reputation of a business 0478/11 May/June 2023 three from: e.g.  Virus  Worm  Trojan horse  Spyware  Adware  Ransomware two from:  Two-step verification//Two-factor authentication//by example  Biometrics  Firewall // Proxy-server  Strong/complex password // by example  Setting a limit for login attempts  Drop-down boxes  Request for partial entry of password two from:  It has a mechanical structure/framework  It has electrical components // by example two from: e.g.  Employees don’t need to lift heavy furniture  Employees can be protected from dangerous tasks  Employees can utilise their skills in other tasks  Employees don’t need to perform repetitive/mundane tasks 0478/11 May/June 2023 one from: e.g.  Expensive to install/purchase/setup  High ongoing costs/maintenance costs  May deskill the workforce  If they malfunction, production may stop",
+          "image": "/papers/computer_science-0478-2023/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " To obtain personal data/details // by example",
+          "image": "/papers/computer_science-0478-2023/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct part of the diagram. Diagram shows:  User clicks/opens attachment/link that triggers download  Malicious software downloaded onto user's computer  User enters website address  User is redirected to fake website e.g. User computer Real website Fake website User clicks link that downloads malware to computer User types in web address Request gets redirected malware 0478/11 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q10-10b.png"
+        },
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: Displays web pages ... by rendering HTML three from: e.g.  Storing bookmarks/favourites  Recording user history  Allowing use of multiple tabs  Providing navigation tools // by example  Providing an address bar  Managing protocols // by example // checking digital certificate  Send URL to DNS  Sends a request to the IP address/web server (to obtain the contents of a webpage)  Runs active script/JavaScript/client-side script  A llows files to be downloaded from website/internet four from:  Session cookies are stored in memory/RAM  ... whereas persistent cookies are stored on the hard drive/secondary storage  When the browser is closed a session cookie is lost  ... whereas a persistent cookie is not lost  ... until deleted by the user/they expire",
+          "image": "/papers/computer_science-0478-2023/q10-10c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 13,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

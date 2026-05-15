@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2022-unit4-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit4-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/41",
+  "session": "October/November 2022",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(–)3.5  10 J A2 E = CDT in any form or 89  (21 – (–18) or 89  (3) or 89  39 C1 (as the volume decreases) the particles collide more often B1 (as the temperature decreases) the particles collide less violently B1 two effects cancel (to leave the pressure unchanged) or particles collide with walls / piston / cylinder B1 (attractive) forces between (any two) particles large(r than in gases) B1 particles close(r) together (than gas particles) or particles already touching B1 October/November 2022 Question Answer Marks equipment e.g. black container, white container, thermometers or Leslie’s cube and detector B1 measurements made warm / hot water in container and temperature decreases recorded or time to reach a given temperature / to cool or warm / hot water in cube and meter readings recorded B1 how a conclusion is reached better emitter surface cools quicker or greater reading from better emitter surface B1 October/November 2022 Question Answer Marks e.g. initial temperature of water mass / volume of water dimensions / surface area of container time of cooling mass of container shape of container smoothness of surface or surface area of face (of cube) distance of detector temperature of water at time of measurement smoothness of surface B2 October/November 2022 Question Answer Marks angle of incidence is 0° (hence) angle of refraction is 0° B1 or all the wavefront hits the plastic at the same time all slows down at the same time B1 1.8  10 m / s A4 n = 1 / sin c in any form or n = 1 / sin 37° C1 (n =) 1.7 C1 v pl = v / n in any form or 3.0  10 / 1.7 or 3.0  10  sin 37° C1 critical angle (for blue light) < 37° or critical angle for red (light) is 37° B1 angle of incidence (of blue light) greater than its critical angle (in plastic) B1 total internal reflection or all the (blue) light reflects or no (blue) light leaves the glass / refracts / travels in air along the straight edge B1 October/November 2022 Question Answer Marks X and Y / they become magnetised or ",
+          "image": "/papers/physics-0625-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit4-2022-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

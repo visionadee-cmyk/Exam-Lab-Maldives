@@ -1,0 +1,654 @@
+{
+  "paperId": "physics-0625-2021-unit2-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit2-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/22",
+  "session": "February/March 2021",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student has a measuring cylinder containing water and also has a balance. Which of these could she use to find the volume of a small metal sphere? She has no other apparatus. A either the measuring cylinder containing water or the balance, B the measuring cylinder containing water only, C the balance only, D neither the measuring cylinder nor the balance",
+      "text": "A student has a measuring cylinder containing water and also has a balance. Which of these could she use to find the volume of a small metal sphere? She has no other apparatus. A either the measuring cylinder containing water or the balance, B the measuring cylinder containing water only, C the balance only, D neither the measuring cylinder nor the balance",
+      "options": [
+        "A either the measuring cylinder containing water or the balance",
+        "B the measuring cylinder containing water only",
+        "C the balance only",
+        "D neither the measuring cylinder nor the balance"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ball hits a bat with a velocity of 30 m / s, and leaves the bat travelling with a velocity of 20 m / s in the opposite direction. The ball is in contact with the bat for 0.10 s. What is the magnitude of the acceleration of the ball whilst it is in contact with the bat? A 1.0 m / s 2, B 5.0 m / s 2, C 100 m / s 2, D 500 m / s 2",
+      "text": "A ball hits a bat with a velocity of 30 m / s, and leaves the bat travelling with a velocity of 20 m / s in the opposite direction. The ball is in contact with the bat for 0.10 s. What is the magnitude of the acceleration of the ball whilst it is in contact with the bat? A 1.0 m / s 2, B 5.0 m / s 2, C 100 m / s 2, D 500 m / s 2",
+      "options": [
+        "A 1.0 m / s 2",
+        "B 5.0 m / s 2",
+        "C 100 m / s 2",
+        "D 500 m / s 2"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A train begins a journey from a station and travels 60 km in a time of 20 minutes. What is the average speed of the train? A 3.0 m / s B 5.0 m / s C 50 m / s D 60 m / s",
+      "text": "A train begins a journey from a station and travels 60 km in a time of 20 minutes. What is the average speed of the train? A 3.0 m / s B 5.0 m / s C 50 m / s D 60 m / s",
+      "options": [
+        "A 3.0 m / s B 5.0 m / s C 50 m / s D 60 m / s"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about mass is correct? A A mass of 10 kg weighs 1 N near the Earth’s surface., B Mass is a gravitational force., C Mass increases when the gravitational field strength increases., D The greater the mass of a body, the more it resists a change in its motion.",
+      "text": "Which statement about mass is correct? A A mass of 10 kg weighs 1 N near the Earth’s surface., B Mass is a gravitational force., C Mass increases when the gravitational field strength increases., D The greater the mass of a body, the more it resists a change in its motion.",
+      "options": [
+        "A A mass of 10 kg weighs 1 N near the Earth’s surface.",
+        "B Mass is a gravitational force.",
+        "C Mass increases when the gravitational field strength increases.",
+        "D The greater the mass of a body, the more it resists a change in its motion."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A small bottle has a mass of 20 g when empty. The volume of the bottle is 10 cm 3 . When full of liquid, the total mass is 150 g. What is the density of the liquid? A 0.50 g / cm 3, B 2.0 g / cm 3, C 13 g / cm 3, D 15 g / cm 3",
+      "text": "A small bottle has a mass of 20 g when empty. The volume of the bottle is 10 cm 3 . When full of liquid, the total mass is 150 g. What is the density of the liquid? A 0.50 g / cm 3, B 2.0 g / cm 3, C 13 g / cm 3, D 15 g / cm 3",
+      "options": [
+        "A 0.50 g / cm 3",
+        "B 2.0 g / cm 3",
+        "C 13 g / cm 3",
+        "D 15 g / cm 3"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object of mass 0.80 kg is moving in a straight line at a velocity of 2.0 m / s. A force is exerted on the object, in the direction of motion, for a period of 1.0 minute and the velocity of the object increases to 6.0 m / s. What force is exerted on the object? A 0.053 N B 0.080 N C 3.2 N D 4.8 N 3",
+      "text": "An object of mass 0.80 kg is moving in a straight line at a velocity of 2.0 m / s. A force is exerted on the object, in the direction of motion, for a period of 1.0 minute and the velocity of the object increases to 6.0 m / s. What force is exerted on the object? A 0.053 N B 0.080 N C 3.2 N D 4.8 N 3",
+      "options": [
+        "A 0.053 N B 0.080 N C 3.2 N D 4.8 N 3"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object moves at constant speed in the circular path shown. P ZX Y Which statement about the acceleration of the object when it is at point P is correct? A The acceleration is in the direction of arrow X., B The acceleration is in the direction of arrow Y., C The acceleration is in the direction of arrow Z., D The object is not accelerating.",
+      "text": "An object moves at constant speed in the circular path shown. P ZX Y Which statement about the acceleration of the object when it is at point P is correct? A The acceleration is in the direction of arrow X., B The acceleration is in the direction of arrow Y., C The acceleration is in the direction of arrow Z., D The object is not accelerating.",
+      "options": [
+        "A The acceleration is in the direction of arrow X.",
+        "B The acceleration is in the direction of arrow Y.",
+        "C The acceleration is in the direction of arrow Z.",
+        "D The object is not accelerating."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is pivoted at point P. A student ties a length of string to a peg on the object. He pulls the string with a force F. P q r s t F object string peg What is the moment of the force F about the point P? A F  q B F  r C F  s D F  t 4",
+      "text": "An object is pivoted at point P. A student ties a length of string to a peg on the object. He pulls the string with a force F. P q r s t F object string peg What is the moment of the force F about the point P? A F  q B F  r C F  s D F  t 4",
+      "options": [
+        "A F  q B F  r C F  s D F  t 4"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A gas molecule strikes the wall of a container. The molecule rebounds with the same speed. before hitting the wallafter hitting the wall wall gas molecule wall gas molecule What happens to the kinetic energy and what happens to the momentum of the molecule? kinetic energy momentum A changes changes, B changes stays the same, C stays the same changes, D stays the same stays the same",
+      "text": "A gas molecule strikes the wall of a container. The molecule rebounds with the same speed. before hitting the wallafter hitting the wall wall gas molecule wall gas molecule What happens to the kinetic energy and what happens to the momentum of the molecule? kinetic energy momentum A changes changes, B changes stays the same, C stays the same changes, D stays the same stays the same",
+      "options": [
+        "A changes changes",
+        "B changes stays the same",
+        "C stays the same changes",
+        "D stays the same stays the same"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A horizontal force pulls a box along a horizontal surface. The  box  gains  30 J  of  kinetic  energy  and  10 J  of  thermal  energy  is  produced  by  the  friction between the box and the surface. How much work is done by the force? A 10 J B 20 J C 30 J D 40 J",
+      "text": "A horizontal force pulls a box along a horizontal surface. The  box  gains  30 J  of  kinetic  energy  and  10 J  of  thermal  energy  is  produced  by  the  friction between the box and the surface. How much work is done by the force? A 10 J B 20 J C 30 J D 40 J",
+      "options": [
+        "A 10 J B 20 J C 30 J D 40 J"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A crane is used to lift loads vertically. The output power of the crane to lift a car is P. The crane then lifts a lorry, which has 3.0 times the weight of the car, through 0.25 of the distance in 0.50 of the time. What is the output power of the crane now? A 3 8 P B 3 2 P C 8 3 P D 6P 5",
+      "text": "A crane is used to lift loads vertically. The output power of the crane to lift a car is P. The crane then lifts a lorry, which has 3.0 times the weight of the car, through 0.25 of the distance in 0.50 of the time. What is the output power of the crane now? A 3 8 P B 3 2 P C 8 3 P D 6P 5",
+      "options": [
+        "D 6P 5"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a manometer connected to a gas supply. from gas supply mercury mm 500 400 300 200 100 0 What is the pressure of the gas supply? A 100 mm Hg above atmospheric pressure, B 100 mm Hg below atmospheric pressure, C 200 mm Hg above atmospheric pressure, D 200 mm Hg below atmospheric pressure",
+      "text": "The diagram shows a manometer connected to a gas supply. from gas supply mercury mm 500 400 300 200 100 0 What is the pressure of the gas supply? A 100 mm Hg above atmospheric pressure, B 100 mm Hg below atmospheric pressure, C 200 mm Hg above atmospheric pressure, D 200 mm Hg below atmospheric pressure",
+      "options": [
+        "A 100 mm Hg above atmospheric pressure",
+        "B 100 mm Hg below atmospheric pressure",
+        "C 200 mm Hg above atmospheric pressure",
+        "D 200 mm Hg below atmospheric pressure"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a box of dimensions 6.0 cm  8.0 cm  4.0 cm. 8.0 cm 6.0 cm 4.0 cm X Y Z The box rests on a flat horizontal surface. On which face must the box rest in order to exert the least pressure? A face X, B face Y, C face Z, D The pressure is the same for all the faces. 6",
+      "text": "The diagram shows a box of dimensions 6.0 cm  8.0 cm  4.0 cm. 8.0 cm 6.0 cm 4.0 cm X Y Z The box rests on a flat horizontal surface. On which face must the box rest in order to exert the least pressure? A face X, B face Y, C face Z, D The pressure is the same for all the faces. 6",
+      "options": [
+        "A face X",
+        "B face Y",
+        "C face Z",
+        "D The pressure is the same for all the faces. 6"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Air in a sealed syringe is slowly compressed by moving the piston. The temperature of the air stays the same. syringe air piston Which statement about the air is correct? A The pressure of the air decreases because its molecules now travel more slowly., B The pressure of the air decreases because the area of the syringe walls is now smaller., C The  pressure  of  the  air  increases  because  its  molecules  now  hit  the  syringe  walls  more frequently., D The pressure of the air increases because its molecules now travel more quickly.",
+      "text": "Air in a sealed syringe is slowly compressed by moving the piston. The temperature of the air stays the same. syringe air piston Which statement about the air is correct? A The pressure of the air decreases because its molecules now travel more slowly., B The pressure of the air decreases because the area of the syringe walls is now smaller., C The  pressure  of  the  air  increases  because  its  molecules  now  hit  the  syringe  walls  more frequently., D The pressure of the air increases because its molecules now travel more quickly.",
+      "options": [
+        "A The pressure of the air decreases because its molecules now travel more slowly.",
+        "B The pressure of the air decreases because the area of the syringe walls is now smaller.",
+        "C The  pressure  of  the  air  increases  because  its  molecules  now  hit  the  syringe  walls  more frequently.",
+        "D The pressure of the air increases because its molecules now travel more quickly."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an experiment, smoke particles are suspended in air and viewed through a microscope. The smoke particles move about with short random movements. Which of the following statements is correct? A Air particles have large masses compared to smoke particles and they move in one direction only., B Air  particles  have  large  masses  compared  to  smoke  particles  and  they  move  in  random directions., C Air  particles  move  at  high  speeds  compared  to  smoke  particles  and  they  move  in  one direction only., D Air particles move at high speeds compared to smoke particles and they move in random directions. 7",
+      "text": "In an experiment, smoke particles are suspended in air and viewed through a microscope. The smoke particles move about with short random movements. Which of the following statements is correct? A Air particles have large masses compared to smoke particles and they move in one direction only., B Air  particles  have  large  masses  compared  to  smoke  particles  and  they  move  in  random directions., C Air  particles  move  at  high  speeds  compared  to  smoke  particles  and  they  move  in  one direction only., D Air particles move at high speeds compared to smoke particles and they move in random directions. 7",
+      "options": [
+        "A Air particles have large masses compared to smoke particles and they move in one direction only.",
+        "B Air  particles  have  large  masses  compared  to  smoke  particles  and  they  move  in  random directions.",
+        "C Air  particles  move  at  high  speeds  compared  to  smoke  particles  and  they  move  in  one direction only.",
+        "D Air particles move at high speeds compared to smoke particles and they move in random directions. 7"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the internal energy of 1.0 kg of a metal changes with temperature. 835 830 825 820 815 810 805 800 795 0 20406080100 temperature / °C internal energy / kJ What is the increase in the internal energy of a block of the same metal of mass 0.25 kg when its temperature rises from 40 C to 50 C? A 30 J B 300 J C 750 J D 1200 J",
+      "text": "The graph shows how the internal energy of 1.0 kg of a metal changes with temperature. 835 830 825 820 815 810 805 800 795 0 20406080100 temperature / °C internal energy / kJ What is the increase in the internal energy of a block of the same metal of mass 0.25 kg when its temperature rises from 40 C to 50 C? A 30 J B 300 J C 750 J D 1200 J",
+      "options": [
+        "A 30 J B 300 J C 750 J D 1200 J"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  piece  of  melting  ice  at  0 C  and  a  beaker  of  boiling  water  are  both  in  a  laboratory.  The laboratory is at 20 C. melting ice boiling water Bunsen burner heating water What  is  happening  to  the  temperature  of  the  melting  ice  and  what  is  happening  to  the temperature of the boiling water? temperature of melting ice temperature of boiling water A constant constant, B constant increasing, C increasing constant, D increasing increasing 8",
+      "text": "A  piece  of  melting  ice  at  0 C  and  a  beaker  of  boiling  water  are  both  in  a  laboratory.  The laboratory is at 20 C. melting ice boiling water Bunsen burner heating water What  is  happening  to  the  temperature  of  the  melting  ice  and  what  is  happening  to  the temperature of the boiling water? temperature of melting ice temperature of boiling water A constant constant, B constant increasing, C increasing constant, D increasing increasing 8",
+      "options": [
+        "A constant constant",
+        "B constant increasing",
+        "C increasing constant",
+        "D increasing increasing 8"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? A Free electrons transfer energy from the cooler end to the hotter end., B Free electrons transfer energy from the hotter end to the cooler end., C Molecules of copper move from the cooler end to the hotter end., D Molecules of copper move from the hotter end to the cooler end.",
+      "text": "One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? A Free electrons transfer energy from the cooler end to the hotter end., B Free electrons transfer energy from the hotter end to the cooler end., C Molecules of copper move from the cooler end to the hotter end., D Molecules of copper move from the hotter end to the cooler end.",
+      "options": [
+        "A Free electrons transfer energy from the cooler end to the hotter end.",
+        "B Free electrons transfer energy from the hotter end to the cooler end.",
+        "C Molecules of copper move from the cooler end to the hotter end.",
+        "D Molecules of copper move from the hotter end to the cooler end."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which change will cause a decrease in the rate of radiation emitted by an object? A changing the surface colour from white to black, B changing the surface texture from dull to shiny, C increasing the surface temperature, D increasing the surface area",
+      "text": "Which change will cause a decrease in the rate of radiation emitted by an object? A changing the surface colour from white to black, B changing the surface texture from dull to shiny, C increasing the surface temperature, D increasing the surface area",
+      "options": [
+        "A changing the surface colour from white to black",
+        "B changing the surface texture from dull to shiny",
+        "C increasing the surface temperature",
+        "D increasing the surface area"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is the approximate wavelength in air of the highest frequency sound that can be heard by a normal healthy person? A 0.02 m B 60 m C 20 000 m D 7 000 000 m",
+      "text": "What is the approximate wavelength in air of the highest frequency sound that can be heard by a normal healthy person? A 0.02 m B 60 m C 20 000 m D 7 000 000 m",
+      "options": [
+        "A 0.02 m B 60 m C 20 000 m D 7 000 000 m"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What causes the change in direction when light travels from air into glass? A The amplitude of the light changes., B The colour of the light changes., C The frequency of the light changes., D The speed of the light changes.",
+      "text": "What causes the change in direction when light travels from air into glass? A The amplitude of the light changes., B The colour of the light changes., C The frequency of the light changes., D The speed of the light changes.",
+      "options": [
+        "A The amplitude of the light changes.",
+        "B The colour of the light changes.",
+        "C The frequency of the light changes.",
+        "D The speed of the light changes."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Light from a torch is incident on a plane mirror. The angle of incidence is 38. What is the angle of reflection? A 38 B 52 C 76 D   142 9",
+      "text": "Light from a torch is incident on a plane mirror. The angle of incidence is 38. What is the angle of reflection? A 38 B 52 C 76 D   142 9",
+      "options": [
+        "A 38 B 52 C 76 D   142 9"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two  rays  with  an  angle  of  incidence  of  60  pass  into  dilute  and  concentrated  sugar-water solutions. The refractions are shown. air dilute sugar solution air concentrated sugar solution 60\u0001 40\u0001 60\u0001 35\u0001 Which row is correct? refractive index as concentration increases speed through solution as concentration increases A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "text": "Two  rays  with  an  angle  of  incidence  of  60  pass  into  dilute  and  concentrated  sugar-water solutions. The refractions are shown. air dilute sugar solution air concentrated sugar solution 60\u0001 40\u0001 60\u0001 35\u0001 Which row is correct? refractive index as concentration increases speed through solution as concentration increases A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A thin converging lens is used to produce a sharp image of a candle. candle lens screen image Various sharp images are produced on the screen by moving the lens and the screen backwards and forwards. Which statement is always correct? A The image is at the principal focus (focal point) of the lens., B The image is bigger than the object., C The image is closer to the lens than the object., D The image is inverted. 10",
+      "text": "A thin converging lens is used to produce a sharp image of a candle. candle lens screen image Various sharp images are produced on the screen by moving the lens and the screen backwards and forwards. Which statement is always correct? A The image is at the principal focus (focal point) of the lens., B The image is bigger than the object., C The image is closer to the lens than the object., D The image is inverted. 10",
+      "options": [
+        "A The image is at the principal focus (focal point) of the lens.",
+        "B The image is bigger than the object.",
+        "C The image is closer to the lens than the object.",
+        "D The image is inverted. 10"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which  row  gives  the  approximate  speeds  at  which  ultraviolet  waves  travel  in  air  and  in  a vacuum? speed in air m/s speed in a vacuum m/s A 340 3.0  10 8, B 340 340, C 3.0  10 8 340, D 3.0  10 8 3.0  10 8",
+      "text": "Which  row  gives  the  approximate  speeds  at  which  ultraviolet  waves  travel  in  air  and  in  a vacuum? speed in air m/s speed in a vacuum m/s A 340 3.0  10 8, B 340 340, C 3.0  10 8 340, D 3.0  10 8 3.0  10 8",
+      "options": [
+        "A 340 3.0  10 8",
+        "B 340 340",
+        "C 3.0  10 8 340",
+        "D 3.0  10 8 3.0  10 8"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents a sound wave. XY What are the names of the parts of the sound wave labelled X and Y? X Y A amplitude wavelength, B compression rarefaction, C rarefaction amplitude, D wavelength compression",
+      "text": "The diagram represents a sound wave. XY What are the names of the parts of the sound wave labelled X and Y? X Y A amplitude wavelength, B compression rarefaction, C rarefaction amplitude, D wavelength compression",
+      "options": [
+        "A amplitude wavelength",
+        "B compression rarefaction",
+        "C rarefaction amplitude",
+        "D wavelength compression"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The speed of sound is different in different states of matter. The speed of sound in liquid water is 1500 m / s. Which row correctly compares the speed of sound in ice and the speed of sound in water vapour with the speed of sound in water? speed of sound in ice m / s speed of sound in steam m / s A less than 1500 less than 1500, B less than 1500 more than 1500, C more than 1500 less than 1500, D more than 1500 more than 1500 11",
+      "text": "The speed of sound is different in different states of matter. The speed of sound in liquid water is 1500 m / s. Which row correctly compares the speed of sound in ice and the speed of sound in water vapour with the speed of sound in water? speed of sound in ice m / s speed of sound in steam m / s A less than 1500 less than 1500, B less than 1500 more than 1500, C more than 1500 less than 1500, D more than 1500 more than 1500 11",
+      "options": [
+        "A less than 1500 less than 1500",
+        "B less than 1500 more than 1500",
+        "C more than 1500 less than 1500",
+        "D more than 1500 more than 1500 11"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three methods to demagnetise a magnet are suggested. The magnet is in an east-west direction. 1   hitting the magnet repeatedly with a hammer 2   heating the magnet until red hot 3   withdrawing the magnet from a coil which has a direct current (d.c.) in it Which methods demagnetise the magnet? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "text": "Three methods to demagnetise a magnet are suggested. The magnet is in an east-west direction. 1   hitting the magnet repeatedly with a hammer 2   heating the magnet until red hot 3   withdrawing the magnet from a coil which has a direct current (d.c.) in it Which methods demagnetise the magnet? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three cores of different metals P, Q and R are placed inside identical coils of wire. At least one of the metals is non-magnetic. The cores are held above some iron nails. The three diagrams show what happens when there is a current in the coils. P coil core iron nails QR + – + – + – The three diagrams below show what happens when the current is then switched off. PQR + – + – + – Which core metals are magnetic? A P only B R only C   P and Q D   Q and R 12",
+      "text": "Three cores of different metals P, Q and R are placed inside identical coils of wire. At least one of the metals is non-magnetic. The cores are held above some iron nails. The three diagrams show what happens when there is a current in the coils. P coil core iron nails QR + – + – + – The three diagrams below show what happens when the current is then switched off. PQR + – + – + – Which core metals are magnetic? A P only B R only C   P and Q D   Q and R 12",
+      "options": [
+        "A P only B R only C   P and Q D   Q and R 12"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two  uncharged  metal  spheres  X  and  Y  rest  on  insulating  stands and  touch  each  other.  A negatively charged plastic rod is brought near to sphere X. – – – – – – metal spheres insulating standinsulating stand XY negatively charged rod Using the insulating stand, sphere Y is moved away from sphere X. What are the signs and the relative magnitudes of the charges induced on X and Y? charge on X     charge on Y relative magnitudes of charges A negative negative equal, B negative positive different, C positive negative equal, D positive positive different",
+      "text": "Two  uncharged  metal  spheres  X  and  Y  rest  on  insulating  stands and  touch  each  other.  A negatively charged plastic rod is brought near to sphere X. – – – – – – metal spheres insulating standinsulating stand XY negatively charged rod Using the insulating stand, sphere Y is moved away from sphere X. What are the signs and the relative magnitudes of the charges induced on X and Y? charge on X     charge on Y relative magnitudes of charges A negative negative equal, B negative positive different, C positive negative equal, D positive positive different",
+      "options": [
+        "A negative negative equal",
+        "B negative positive different",
+        "C positive negative equal",
+        "D positive positive different"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which two changes to a metal wire both decrease its resistance? length of wire cross-sectional area of wire A decrease decrease, B decrease increase, C increase decrease, D increase increase",
+      "text": "Which two changes to a metal wire both decrease its resistance? length of wire cross-sectional area of wire A decrease decrease, B decrease increase, C increase decrease, D increase increase",
+      "options": [
+        "A decrease decrease",
+        "B decrease increase",
+        "C increase decrease",
+        "D increase increase"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current I in a resistor of resistance R for a time t. The potential difference across the resistor is V. Which equation gives the energy E transferred by the resistor? A E = IR B E = IV C E = IRt D E = IVt 13",
+      "text": "There is a current I in a resistor of resistance R for a time t. The potential difference across the resistor is V. Which equation gives the energy E transferred by the resistor? A E = IR B E = IV C E = IRt D E = IVt 13",
+      "options": [
+        "A E = IR B E = IV C E = IRt D E = IVt 13"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A resistor R is connected in parallel with an 8.0  resistor. The resistance of this combination is 4.0 . R 8.0 Ω What is the resistance of resistor R? A 0.50  B 2.0  C 4.0  D 8.0 ",
+      "text": "A resistor R is connected in parallel with an 8.0  resistor. The resistance of this combination is 4.0 . R 8.0 Ω What is the resistance of resistor R? A 0.50  B 2.0  C 4.0  D 8.0 ",
+      "options": [
+        "A 0.50  B 2.0  C 4.0  D 8.0 "
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student designs a circuit to use as a dimmer switch for a lamp. X Y What happens to the brightness of the lamp and the potential difference (p.d.) across the lamp, when the slider is moved from X to Y? brightness of lamp     p.d. across the lamp A decreases decreases, B decreases increases, C increases decreases, D increases increases 14",
+      "text": "A student designs a circuit to use as a dimmer switch for a lamp. X Y What happens to the brightness of the lamp and the potential difference (p.d.) across the lamp, when the slider is moved from X to Y? brightness of lamp     p.d. across the lamp A decreases decreases, B decreases increases, C increases decreases, D increases increases 14",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases 14"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit shown contains two gates. P Q R Which truth table describes the operation of the circuit? A B C D P    Q    R        P    Q    R P    Q    R P    Q    R 0    0    0        0    0    0        0    0    1        0    0    1 0    1    1        0    1    0        0    1    0        0    1    0 1    0    1        1    0    1        1    0    0        1    0    1 1    1    1        1    1    1        1    1    0        1    1    1",
+      "text": "The circuit shown contains two gates. P Q R Which truth table describes the operation of the circuit? A B C D P    Q    R        P    Q    R P    Q    R P    Q    R 0    0    0        0    0    0        0    0    1        0    0    1 0    1    1        0    1    0        0    1    0        0    1    0 1    0    1        1    0    1        1    0    0        1    0    1 1    1    1        1    1    1        1    1    0        1    1    1",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an electromagnet near a coil of wire connected to a voltmeter. The reading on the voltmeter is zero. V + – switch coilelectromagnet soft iron The switch is closed. The electromagnet magnetises quickly. What happens to the reading on the voltmeter? A It keeps increasing., B It quickly increases and stays at maximum., C It quickly increases and then decreases., D It stays on zero. 15",
+      "text": "The diagram shows an electromagnet near a coil of wire connected to a voltmeter. The reading on the voltmeter is zero. V + – switch coilelectromagnet soft iron The switch is closed. The electromagnet magnetises quickly. What happens to the reading on the voltmeter? A It keeps increasing., B It quickly increases and stays at maximum., C It quickly increases and then decreases., D It stays on zero. 15",
+      "options": [
+        "A It keeps increasing.",
+        "B It quickly increases and stays at maximum.",
+        "C It quickly increases and then decreases.",
+        "D It stays on zero. 15"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which graph shows the voltage output of an a.c. generator with the peaks and zeros correctly labelled? voltage V time t 0 0 A peaks zeros voltage V time t 0 0 B peaks zeros voltage V time t 0 0 C peaks zeros voltage V time t 0 0 D peaks peaks zeros",
+      "text": "Which graph shows the voltage output of an a.c. generator with the peaks and zeros correctly labelled? voltage V time t 0 0 A peaks zeros voltage V time t 0 0 B peaks zeros voltage V time t 0 0 C peaks zeros voltage V time t 0 0 D peaks peaks zeros",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Three students are describing the structure of an atom. student 1   All the positively charged particles are in the nucleus. student 2   Positive electrons are in the nucleus. student 3   Negative electrons orbit around the nucleus. Which students are making a correct statement? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "text": "Three students are describing the structure of an atom. student 1   All the positively charged particles are in the nucleus. student 2   Positive electrons are in the nucleus. student 3   Negative electrons orbit around the nucleus. Which students are making a correct statement? A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When alpha particles are incident on a thin metal foil, most of them pass through undeviated. What does this observation reveal about the nature of the atom? A The atom has a dense nucleus., B The atom is mostly empty space., C The atom is very small., D The nucleus of the atom is positively charged. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "text": "When alpha particles are incident on a thin metal foil, most of them pass through undeviated. What does this observation reveal about the nature of the atom? A The atom has a dense nucleus., B The atom is mostly empty space., C The atom is very small., D The nucleus of the atom is positively charged. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "options": [
+        "A The atom has a dense nucleus.",
+        "B The atom is mostly empty space.",
+        "C The atom is very small.",
+        "D The nucleus of the atom is positively charged. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A laboratory worker measures the count rate from a radioactive source. He records his results in a table. time minutes count rate counts/s 0 100 1.0 2.0 3.0 73 54 41 4.0 31 The average background radiation in the laboratory is 8 counts per second. What is the half-life of the source? A 1.5 minutes, B 2.0 minutes, C 3.0 minutes, D 4.0 minutes",
+      "text": "A laboratory worker measures the count rate from a radioactive source. He records his results in a table. time minutes count rate counts/s 0 100 1.0 2.0 3.0 73 54 41 4.0 31 The average background radiation in the laboratory is 8 counts per second. What is the half-life of the source? A 1.5 minutes, B 2.0 minutes, C 3.0 minutes, D 4.0 minutes",
+      "options": [
+        "A 1.5 minutes",
+        "B 2.0 minutes",
+        "C 3.0 minutes",
+        "D 4.0 minutes"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit2-2021-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

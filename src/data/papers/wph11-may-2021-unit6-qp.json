@@ -1,0 +1,51 @@
+{
+  "paperId": "wph11-may-2021-unit6-qp",
+  "pairedMarkSchemeId": "wph11-may-2021-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "May 2021",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Measure (the number of divisions) between the same points on the pulses [Accept clearly labelled on diagram] Multiply the number of divisions by the time per division. Measure between the first and last pulse and divide by two Or Measure between successive pulses and determine a mean [Accept distance for number of divisions] (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of T = 2 / and v =  r T = 35.9 ms [Accept 36 ms] Correct value of time per division calculated from time period and screen width Or Correct value of (maximum) time period on screen calculated using time scale and screen width Valid time scale based on comparison of values [Accept calculation based on a screen width of between 5 and 10 divisions, or 2T] Example of calculation  = v / r = 22.2 m s − / 0.127 m = 175 rad s − T = 2 /  = 2 / 175 rad s − = 35.9  10 − s = 35.9 ms The screen is 10 divisions wide, so each division would need to be at least 3.59 ms Therefore use setting of 5 ms per division as 2 ms per division is too small (1) (1) (1) (1) Total mark for Question 1 = 7 number Answer Mark and ammeter [Accept joulemeter or wattmeter in series for voltmeter and ammeter] Example of circuit diagram [Accept circuit drawn on diagram] Wait until the water begins to boil Record values of mass m at times t with a stopwatch Or at energies E with a joulemeter Plot appropriate graph for the measurements made Correct gradient for the graph to obtain L [Accept a labelled sketch graph] Examples of appropriate graphs y x gradient m t VI/L or P/L m VIt or Pt or E 1/L m Vt I/L m It V/L (1) (1) (1) (1) (1) (1) Decreases the energy transferred to the water (per second) Hence the value of L will be too large [dependent MP1 or MP2] [Accept a reasonable source of error related to the experiment] (1) (1) (1) Total mark for Question 2 = 9 number Answer Mark diagram] (Marker) directly below a specific point on the trolley when (undisplaced from) the equilibrium (1) (1) Time multiple oscillations and divide by the number of oscillations Repeat and calculate a mean Start timing after several oscillations have completed [Credit reference to a stationary timing marker in (a)(i)] (1) (1) (1) log M values correct and consistent to 2 d.p. [Accept 3 d.p] Axes labelled: y as log(T / s) and x as log(M / kg) Most appropriate scales for both axes Plots accurate to ± 1mm Best fit line wit",
+          "image": "/papers/wph11-may-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit6-2021-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,71 @@
+{
+  "paperId": "chemistry-0620-2018-unit5-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit5-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "October/November 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for experiments 1–4 Initial and final temperature boxes completed correctly Average temperature boxes completed correctly Times completed in seconds Times in descending order",
+          "image": "/papers/chemistry-0620-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "All points plotted correctly Smooth line graph (curve) Value from graph °C Particles (of solution L) have more / most (kinetic) energy / move faster More frequent collisions / particles collide more often / use a lid To reduce heat losses / slower addition of solution Measuring time taken / results less accurate 0620/51 October/November 2018 Tests on solid P",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P White(solid / crystals) and Q pink (solid) Any two from: • Fizz / bubbles • pH / litmus paper • turns blue / pH>7 / alkaline / (remains) colourless / no change nitrate 0620/51 October/November 2018 Tests on solid Q Solid turns paler / white / light brown precipitate Dark ring (at surface) / brown (precipitate) / element Chloride / C l – 0620/51 October/November 2018 Marks may be awarded from labelled diagrams Ignore any process done to single substances . If candidates make the mixture up for themselves then carry on marking. Method 1 1 heat the mixture 2 using a Bunsen / electric heater / oil bath 3 in a suitable container (flask / boiling tube / test-tube) 4 ethanol boils / evaporates first / at 78 °C 5 limonene boils next / at 176 °C (and collects / condenses ) 6 use of the term (fractional) distillation 7 use of a condenser 8 sodium carbonate residue left Method 2 (assuming sodium carbonate does not dissolve) 1 filter (to obtain sodium carbonate) 2 heat the filtrate 3 using a Bunsen / electric heater / oil bath 4 in a suitable container (flask / boiling tube / test-tube) 5 ethanol boils / evaporates first/at 78 °C 6 limonene boils next / at 176 °C (and collects / condenses) / is the residue 7 use of the term (fractional) distillation 8 use of a condenser Method 3 (assuming sodium carbonate does not dissolve and liquids do not mix). This is MAX 5 ONLY 1 filter (to obtain sodium carbonate) 2 use of separating funnel 3 run / let one liquid out 4 by opening the tap 5 leave other liquid in separating funnel max 6",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit5-2018-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "wbi11-jan-2023-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-jan-2023-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "January 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correct calculation (1)  correct answer to the nearest whole number (1) Example of calculation: 52 892 x (1.016) = 55471.65 = 55472 alternative method 52 892 x (1.016) = 53 738 and repeat 2 more times Correct answer with no working shown scores full marks (2) Number Answer Mark A is not correct because two varieties had a DI higher than 50 B is not correct because two varieties had a DI higher than 50 D is not correct because two varieties had a DI higher than 50 (1) Number Answer Additional guidance Mark  seeds would be (prepared by being) dried (1)  seeds would be treated with an antimicrobial (1)  seeds would be stored in suitable conditions (1)  samples of seeds would be {germinated / x-rayed / scanned} (to check viability) (1)  replacement seeds would be collected from (these plants) (1) accept seeds are {sterilised / disinfected} e.g. seeds are frozen, placed in temperatures below 0°C, placed in dry conditions ignore ‘low temperatures’ unless linked to preventing {germination / growth / microbial growth} ACCEPT (some) seeds {‘allowed to grow’ / ‘planted’} (to check viability) ignore gather more seeds from other places (4) Number Answer Additional guidance Mark  set up a {breeding programme / stud book} (1)  {cross / breed} variety A with variety D (1)  (because) D has {lowest wilt percentage / lowest disease index / best resistance} and variety A has the highest yield / A and D will produce offspring with resistance and high yield (1)  infect grown offspring with the bacterium / check to see if offspring are resistant (1)  repeat using offspring with required characteristics (to get a new high-yielding and resistant variety) (1) Accept keeping records of offspring ACCEPT analysis of more plant varieties in seed bank to see if any have more resistance to the R. solanacearum bacteria accept {cross/breed} high yield varieties with (disease) resistant varieties (4) Number Answer Additional guidance Mark  (errors in genetic sequence of gene) occur in ",
+          "image": "/papers/wbi11-jan-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wbi11-jan-2023/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2023-unit2-2023-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

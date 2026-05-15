@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2016-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "stand; beaker; 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "black; to orange / red / brown / pink; 1 1 test: anhydrous copper( II ) sulfate; result: turns blue; OR test: cobalt( II ) chloride (paper); result: turns pink; 1 1 1 1 / melting point determination; Page 4 Mark Scheme Syllabus Paper 0620 62",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all 6 times completed correctly (2 marks) (22, 43, 64, 86, 105, 126) 5 times completed correctly (1 mark); in seconds; 2 1",
+          "image": "/papers/chemistry-0620-2016/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate scale for y -axis / increasing at 20 s per large square; y -axis is a linear scale; all 6 points plotted correctly ± half a small square (2 marks); 5 points plotted correctly ± half a small square (1 marks); best-fit straight-line graph; 1 1 2 value from graph ± half a small square (typically 167–170); units / s; extrapolation; 1 1 1 solution slow to run out of pipette; difficult to know when to start timer / reaction does not start at once / inaccurate time measurement owtte; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficulty in swirling / mixing / shaking; Page 5 Mark Scheme Syllabus Paper 0620 62 / crystals / powder); turns from purple / pink; to colourless / white; 1 1 / orange (flame); / NH; / NH +; Page 6 Mark Scheme Syllabus Paper 0620 62 making the salt any 4 from: • known volume sulfuric acid; • add named indicator; • add potassium hydroxide solution to the acid until the indicator changes colour / is neutralised; • note / measure the volume of potassium hydroxide solution added; • repeat without indicator OR add (decolourising) charcoal; obtaining crystals any 2 from: • heat / evaporate solution to crystallising point until half evaporated OR until crystals (start to) form OR until saturated; • leave to cool; • filter to get crystals; • dry crystals (on filter paper) / leave to dry;",
+          "image": "/papers/chemistry-0620-2016/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit6-2016-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,159 @@
+{
+  "paperId": "wph11-may-2021-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2021-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2021",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Metre rule - 0.1 cm and Vernier calipers - 0.1 mm (1)",
+          "image": "/papers/wph11-may-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Measure length and width of sheet in multiple positions and obtain mean • Measure thickness for at least 20 sheets • Measure total mass for at least 20 sheets • Calculate density = mass / (length × width × thickness) MP2/3 – reference to number of sheets need only be seen once but the same number of sheets must be used for measurements of thickness and mass. (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (Absolute) uncertainty would stay the same Or resolution of the measuring device is the same • So, percentage uncertainty in thickness/mass would reduce MP2 dependent on MP1 (1) (1) Total for question 1 7 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "2 (a) Suggest two reasons for the variation in the lengths the student measured. (2) .................................................................................................................................................................................................................................................. .......................................................................",
+      "text": "2 (a) Suggest two reasons for the variation in the lengths the student measured. (2) .................................................................................................................................................................................................................................................. .......................................................................",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Suggest two reasons for the variation in the lengths the student measured. (2) .................................................................................................................................................................................................................................................. .......................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Difficult to identifying when sound was loudest Or Difficulty hearing tuning fork due to background noise • Tube moved when marking the water level Or Tube not vertical when water level was marked (1) (1) • Calculation of the mean using 5 values • Mean l = 18.8 cm to 3 s.f. Example of calculation Mean l = (18.4 + 18.0 + 19.2 + 19.4 + 19.2) / 5 Mean l = 18.8 cm (1) (1) • Use of half the range • Percentage uncertainty = 4 (%) OR • Use of value furthest from the mean (18.0) • Percentage uncertainty = 4 (%) Allow ecf from 2(b)(i) for use of 4 values (e.g. ignoring 18.0) for both mark points. Example of calculation Range = 19.4 – 18.0 = 1.4 cm Percentage uncertainty = (0.7 cm / 18.8 cm)  100 % = 3.7 % Difference from mean = 18.8 – 18.0 = 0.8 cm Percentage uncertainty = (0.8 cm / 18.8 cm)  100 % = 4.3 % (1) (1)",
+          "image": "/papers/wph11-may-2021/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of v = f • Speed of sound = 331 m s –1 Allow e.c.f from 2(b)(i) Example of calculation  = 4  0.188 m = 0.752 m v = 440 Hz  0.752 m = 331 m s –1 (1) (1)",
+          "image": "/papers/wph11-may-2021/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of percentage uncertainty from (b)(ii) to calculate relevant maximum/minimum value for speed of sound from (c) • Statement comparing this with 343 m s –1 MP1 – only needs to calculate one boundary – e.g. maximum if their value in (c) is below 343 m s –1 , minimum if (c) is above 343 m s –1 . OR • Calculates the percentage difference between 343 m s –1 and their speed of sound from (c) • Statement comparing this with their percentage uncertainty from (b)(ii) Example of calculation Percentage uncertainty = 4 % v = 331 m s –1 Max v = 331   =  m s –1 (1) (1) (1) (1) Total for question 2 10 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Diameter value = 17.90 mm • Use of half resolution (0.005 mm) • Percentage uncertainty = 0.03 (%) Example of calculation Percentage uncertainty = (0.005 mm / 17.90 mm)  100 % = 0.028 % (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "3 (b) Describe a method to determine an accurate value for the density of acetate. (4) .................................................................................................................................................................................................................................................. .................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Check for zero error Allow do not overtighten (1) • When stationary, the reading on the force meter = weight (− upthrust) • When moving (at a constant speed), the reading on the force meter = weight + drag (− upthrust) • Subtracting the two readings gives the value of drag For MP1 and MP2 – accept descriptions given as an equation e.g. When stationary F = W – U When moving F = W + D − U (1) (1) (1) • Subtracts the two forces (F = 0.09 N) • Use of F = 6πηrv • η = 1.7 (Pa s) Example of calculation F = 0.29 N – 0.20 N F = 0.09 N F = 6πηrv η = F/6πrv η = 0.09 N / (6 × π × 0.00895 m × 0.32 m s –1 ) η = 1.67 Pa s (1) (1) (1)",
+          "image": "/papers/wph11-may-2021/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• A comment assessing uncertainty in force • A comment assessing uncertainty in distance • A comment assessing uncertainty in time • Conclusion justified by their assessments MP4 requires some numerical comparison Examples of assessments for MP1-3 Force • Resolution of the force meter is 0.01 N, so percentage uncertainty is 11% (accept 5.5% or 6%) • Force difficult to keep constant, variation likely to be larger than 0.01 N Distance • Meter rule resolution of 1mm, so percentage uncertainty is small • Percentage uncertainty in distance measurement is 0.2% (accept 0.4%) Time • Resolution of the stopwatch is 0.01 s, so percentage uncertainty is 0.6 % (accept 1.2%) • Time is short, so reaction time (0.2 s) will be a significant percentage (25%) or fraction (1/4) of the time measured • Not enough time to move eyeline, so there may be parallax error when judging when the sphere has passed the rubber band. (1) (1) (1) (1) Total for question 3 14 Number Answer Mark",
+          "image": "/papers/wph11-may-2021/q3-3d.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Re-arranges equation 푉 푎 = ℎ푐 푒 휆 + 푊 푒 and compares to y = mx + c • Identifies 푔푟푎푑푖푒푛푡= ℎ푐 푒 • States that h, c and e are all constants (1) (1) (1) • Correct values calculated • Values correctly rounded to 3 sig. fig. Example λ / × 10 −7 m 1/λ / × 10 m −1 6.60 1.52 6.12 1.63 5.92 1.69 5.85 1.71 5.30 1.89 4.70 2.13 (1) (1) • Labels axes with quantities and units • Sensible scales • Plotting – 2 points furthest from their line • Plotting – 2 points at the ends • Line of best fit Refer to Mark Scheme Notes – Section 5 for guidance on axis labels, suitable scales & checking accuracy of plots. An example of the graph can be seen on page 11. (1) (1) (1) (1) (1) • Calculates gradient using large triangle - at least half their line of best fit • Use of gradient = hc/e • h = 6.65×10 –34 to 6.85×10 –34 J s Example calculation Gradient = (2.55 – 1.80) V / (2.10 – 1.60)×10 m –1 = 1.25×10 –6 V m h = 1.25×10 –6 V m × 1.60×10 −19 C / 3.00×10 m s –1 = 6.67×10 –34 J s (1) (1) (1) • Mathematical comparison between their value from (b)(iii) and 6.63×10 –34 J s • Comparative statement consistent with MP1 MP2 is for a statement that is justified by their value for h. E.g. Difference between the values is 0.04 (×10 –34 ) is very small compared to 6.63 (×10 –34 ), so method is accurate. Or Percentage difference is 0.6%, which is small, so method is accurate. (1) (1)",
+          "image": "/papers/wph11-may-2021/q4-4a.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Manufacturer’s wavelength would be shorter (than the wavelength of photons with least energy) Or Manufacturer’s wavelength would be shorter (than the wavelength of photons emitted at V a ) • A lower  would give a higher 1/ Or the line would shift to the right, EITHER • Difference in wavelength would be small, so negligible shift in points (Accept shift would be the same for all points, so same gradient) • No change in the value of h obtained. OR • Points for longer  would shift 1/ values less, decreasing the gradient • Decreasing the value of h obtained. (1) (1) (1) (1) (1) (1) Total for question 5 19 Example of a graph for 4(b)(ii) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2021/q4-4c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2021/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit3-2021-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

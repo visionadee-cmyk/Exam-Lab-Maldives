@@ -1,0 +1,79 @@
+{
+  "paperId": "biology-0610-2022-unit3-november-qp",
+  "pairedMarkSchemeId": "biology-0610-2022-unit3-november-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/31",
+  "session": "October/November 2022",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source of error improvement B crumbly / difficult to cut same volume as A / difficult to compare same volumes; use same mass / weight of A and B; difficult cutting substances into same number of small pieces / similar surface areas; crush / grind to overcome cutting problem; colours of A and B were different / may have affected colour of resulting solutions; sieve solids; solids not settled completely so affecting colour with biuret; sieve solids; difficult to identify the intensity of colour; use a colorimeter; AVP; AVP; suggestion must match source of error October/November 2022 Question Answer Marks Guidance oval shape + size at least 80 mm + only artery drawn; folded inner layer; outer (muscle) layer thinner than inner (muscle) layer; measurement / 90; (for 68mm) 0.76; use finger at neck / wrist AW; any time frame + method of calculating value per min; several counts + mean; October/November 2022 Question Answer Marks Guidance",
+          "image": "/papers/biology-0610-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2022/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "distance on x-axis + axes fully labelled + units; continuous linear scales for both axes + over half of grid used + values at origin; all 12 points plotted correctly; straight lines correctly drawn between points; both lines labelled / key used; range of fruit distribution 0–30 m from tree AW;",
+          "image": "/papers/biology-0610-2022/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "wind / air movement;",
+          "image": "/papers/biology-0610-2022/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "variable explanation size / surface area of bract; larger surface area carried further AW / ORA; fruit mass; heavier fruits carried less far AW / ORA;",
+          "image": "/papers/biology-0610-2022/q3-3d.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2022-unit3-2022-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

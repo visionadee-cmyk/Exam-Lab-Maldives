@@ -1,0 +1,91 @@
+{
+  "paperId": "chemistry-0620-2017-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 7,
+      "marks": 7,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume at time = 0 s completed correctly all volumes completed and in ascending order",
+          "image": "/papers/chemistry-0620-2017/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume at time = 0 s completed correctly AND all volumes completed and in ascending order gas volumes increase less quickly at the start of Experiment 2 than at the start of Experiment 1",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points correctly plotted two smooth lines labelled more concentrated / stronger acid / the acid has a lower pH",
+          "image": "/papers/chemistry-0620-2017/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume of gas at 30 s correct calculation of rate unit: cm / s OR cm s –",
+          "image": "/papers/chemistry-0620-2017/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all the magnesium will have reacted / increased rate magnesium powder has a higher surface area 0620/53 May/June 2017",
+          "image": "/papers/chemistry-0620-2017/q1-1f.png"
+        },
+        {
+          "id": "1h",
+          "text": "Part 1h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "advantage: easy to use / quick disadvantage: not accurate",
+          "image": "/papers/chemistry-0620-2017/q1-1h.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use of burette / pipette / gas syringe / weighed amount of magnesium / repeat experiment (and average) / clean the magnesium / remove oxide layer / white / decolourised precipitate • turns yellow • bubbles / fizz • red / brown / orange • precipitate / brown blue / black 0620/53 May/June 2017 / bubbles glowing splint relights 3 any 6 from: • crush lumps • pestle and mortar • weigh cassiterite • heat / reduce • with carbon / CO / more reactive metal, e.g. Zn • weigh tin • (mass of tin / initial mass) × 100 (%)",
+          "image": "/papers/chemistry-0620-2017/q1-1i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit5-2017-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

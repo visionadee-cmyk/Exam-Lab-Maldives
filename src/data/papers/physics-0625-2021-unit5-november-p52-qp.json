@@ -1,0 +1,99 @@
+{
+  "paperId": "physics-0625-2021-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Switch on. (i) Record V S , the potential difference (p.d.) across resistor R. V S = .................................................... [1] (ii) Record I S , the current in the circuit and then switch off the power supply. I S = .................................................... [1] (iii) Calculate R S , t",
+      "text": "1 (a) Switch on. (i) Record V S , the potential difference (p.d.) across resistor R. V S = .................................................... [1] (ii) Record I S , the current in the circuit and then switch off the power supply. I S = .................................................... [1] (iii) Calculate R S , t",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(float wood and) mark water level / remove and mark the water level / line measure submerged depth and then multiply by the cross-sectional area OR measure height of block that is not submerged, multiply by cr oss-sectional area and then subtract from total volume of block. (2) OR use of a measuring cylinde r / displacement can (1) measure the volume of water displaced (by the floating block) (1) 0625/52 October/November 2021 V S to at least 1 decimal place and < 3 V I S to at least 2 decimal places and < 1 A correct calculation of R S V L and I L present, units V, A and Ω seen once in (a) and / or (b) and not contradicted R L to 2 or 3 significant figures symbols correct resistor and lamp connected in series, with voltmeter in parallel with both V C and I C present, I C < I S and I L R C present and ⩽ R S + R L",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match results – expect NO explanation of idea of beyond limits of experimental accuracy (e.g., values not close (enough)/too far apart / > 10% difference 0625/52 October/November 2021 v values decreasing u / v values correct consistent significant figures OR consistent decimal places fo r u / v",
+          "image": "/papers/physics-0625-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "axes correctly labelled with quantity and unit and right way round suitable scales with u axis starting at 15.0 all plots correct to ½ small square good line j udgement, thin, continuous line",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method clearly shown on graph value correct to within ½ small square",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "deciding the screen position for most clearly focused image move screen slowly/backwards and forwards OR the image is difficult to see carry out in a darkened room / away from bright lights OR (metre) rule moving clamp rule / tape rule to bench OR the image is (small and) difficult to focus use a bigger object OR difficult to find the centre of the lens use a marked lens holder OR object, (centre of) lens (and screen) are not at the same height above the bench use a rule r / set-square to check 0625/52 October/November 2021 method MP1 names of at least three metals / alloys suggested MP2 add loads / masses to test wire until it breaks MP3 repeat with the other metals MP4 repeat for each individual metal wire (and take an average) MP5 control variable diamete r / cross-sectional area / thickness of the wire MP6 table columns for metal and load / mass / weight, with unit MP7 conclusion compare breaking force to metal / plot a bar chart of metal and breaking force OR plot a bar chart of metal and breaking force / load weight Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only mark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2021/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit5-2021-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

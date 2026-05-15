@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2023-unit3-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit3-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/32",
+  "session": "February/March 2023",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( =) 8.92 A3 ( =) 296 ÷ 33.2 (C2) (density =) mass ÷ volume OR ( =) m / V in any form (C1) g / cm B1 Question Answer Marks (extension of 7 cm = length of) 21 cm (C1) February/March 2023 Question Answer Marks (m = ) 8.6 ÷ 9.8 (C2) W = mg OR (m =) W ÷ g (C1) Question Answer Marks (speed =) 250 ÷ 10 (C2) (speed =) gradient of d-t graph OR d ÷ t in any form (C1) (wide tyres have) large (contact) area (so) less pressure (on ground) so less likely to sink (into soft ground) B2 Question Answer Marks high speed moving freely random (motion) OR (moving in) any / all directions B2 February/March 2023 Question Answer Marks pressure increases (because) molecules are closer together / more densely packed OR area of cylinder decreases (so there are) more collisions per unit area (with walls of cylinder) pressure = force ÷ area B3 Question Answer Marks (work done =) 12  5(.0) (C2) (work done =) force  distance in any form (C1) energy is transferred by radiation / light / em / IR waves B1 thermal store of surroundings has increased owtte B1 Question Answer Marks (frequency =) number of waves (sent out) per s / unit time OR time for 1 wave = 0.2 s OR 2 waves in 0.4 s (C1) at right angles OR perpendicular B1 to direction of propogation B1 February/March 2023 Question Answer Marks (v =) 400  0.90 (C2) =) λ (C1) Question Answer Marks same distance from mirror (as book / object) B1 virtual B1 (harmful effect:) damage to surface cells / skin OR eyes OR damage to cells / genes / DNA OR skin cancer B1 Question Answer Marks move from rod OR move to cloth B1 (ball R is) negative B1 February/March 2023 Question Answer Marks (I =) 6.8 (A) A4 (I =) 1500 ÷ 220 (C2) P = I  V OR (I =) P ÷ V (C1) 1.5 kW = 1500 W (C1) (cost of energy =) 1.5  4(.0)  14 (C2) (cost of energy =) power  time  cost of 1 kW h OR number of kW h  cost of 1 kW h (C1) (can cause) overheating / fire B1 Question Answer Marks (when switch S closed) current in coil P coil P has (changing) magnetic field magnetic field ",
+          "image": "/papers/physics-0625-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) State, in order, the names of the three planets closest to the Sun. Closest to the Sun ............................................................ ............................................................ Furthest from the Sun ............................................................",
+      "text": "12 (a) State, in order, the names of the three planets closest to the Sun. Closest to the Sun ............................................................ ............................................................ Furthest from the Sun ............................................................",
+      "parts": [
+        {
+          "id": "12c",
+          "text": "Part 12c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2.6  10 (s) OR 2600 (s) A2 time = distance ÷ speed OR 7.8  10 ÷ 3.0  10 OR 780 000 000 000 ÷ 300 000 000 (C1)",
+          "image": "/papers/physics-0625-2023/q12-12c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit3-2023-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2015-unit3-june-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit3-june-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "May/June 2015",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from : fuel; OR petrol additive; OR solvent / tinctures; OR (making) perfumes; OR varnishes; OR preserving biological specimens / preserving food; OR essence / flavourings; OR antiseptic / kill bacteria (in medicine) / sterilizer; OR antitussive agent; OR (in) disinfectant / hand sanitizer; OR to make esters / esterification; OR to make ether(s); OR to make amines; OR to make carboxylic acid(s) / vinegar / ethanoic acid; OR thermometers; OR alcohol lamp / spirit burners; OR any other suitable use; I medicine (unqualified) / chemical feedstock Page 12 Mark Scheme Syllabus Paper",
+          "image": "/papers/chemistry-0620-2015/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "cracking / crack; (hexane to obtain) ethene / C H; C H → C H + C H; hydration (of ethene) / hydrate / hydrated or add(ition of) water / add(ition of) steam / addition; C H + H O → C H OH; I fractional distillation / distillation wherever mentioned I catalytic / thermal + other conditions Ethene / C H can be given in either equation whether the equation is otherwise correct or not I state symbols A multiples / other equations e.g. C H → 3C H + H C H → 2C H + C H C H → C H + C H + H A any correct equations in which carbon is produced e.g. C H → 2C H + 2C + 3H A additional I conditions / react with water I C H O / state symbols A multiples",
+          "image": "/papers/chemistry-0620-2015/q7-7d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit3-2015-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

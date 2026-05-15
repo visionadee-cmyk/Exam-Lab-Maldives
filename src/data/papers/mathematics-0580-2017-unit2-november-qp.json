@@ -1,0 +1,83 @@
+{
+  "paperId": "mathematics-0580-2017-unit2-november-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2017-unit2-november-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/21",
+  "session": "October/November 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "15 (a) Q = {1, 2, 3, 4, 5, 6} Write down a set P where PQ1 . P = ..................................................[1] (b) Shade these regions in the Venn diagrams. \u001f M M \u001f N' N \u001f A (A \u001f B) \u001e C' B C [2] 7 0580/21/O/N/17© UCLES 2017[Turn over 16 0 1 2 3 4 5 6 7 8 9 10 11 y x 123456789101112 A B Describe fully the single transformation that maps triangle A onto triang",
+      "text": "15 (a) Q = {1, 2, 3, 4, 5, 6} Write down a set P where PQ1 . P = ..................................................[1] (b) Shade these regions in the Venn diagrams. \u001f M M \u001f N' N \u001f A (A \u001f B) \u001e C' B C [2] 7 0580/21/O/N/17© UCLES 2017[Turn over 16 0 1 2 3 4 5 6 7 8 9 10 11 y x 123456789101112 A B Describe fully the single transformation that maps triangle A onto triang",
+      "parts": [
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 M N A B C October/November Question Answer Mark Partial marks 16 Enlargement (2, 1)",
+          "image": "/papers/mathematics-0580-2017/q15-15b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2017/q15.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(y =) () 1x+ oe M1 for y = () k x+ 1FT FT correct evaluation from their equation in (a) using 0.5 18 Correct position of S with 2 pairs of correct construction arcs for line B3 for correct position of S with missing/incorrect construction arcs but correct line or B2 for correct ruled line equidistant from the two trees with correct arcs or B1 for correct line with no/wrong arcs or correct arcs with no line and B1 for arc centre bird bath, radius 5 cm or S in correct position with no/incorrect working ()() 2 3 7 xx xx ++ −+ final answer B1 for a common denominator of [2](x ‒ 3)(x + 7) seen isw M1 for 2×5×(x + 7) + 2×3×(x ‒ 3) + (x ‒ 3)(x + 7) oe and must have attempted to expand all the brackets in the numerator M1 for 10x + 70 + 6x ‒ 18 or x − 3x + 7x ‒ 21 or [2](5x + 35 + 3x − 9) or better M2 for 10 × or 10 ÷ or M1 for or or h  =   oe October/November Question Answer Mark Partial marks 21 46.7 or 46.68 to 46.69 M3 for tan [...=] + oe or M1 for  ×+   oe e.g. and M1 for identifying angle MCE M1 for 116 to 120 B2 for 7 or 8 correct points B1 for 5 or 6 correct points B1 for 156 or 130 or for their 130 from their increasing curve (or lines)",
+          "image": "/papers/mathematics-0580-2017/q17-17a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2017/q17.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 23",
+      "text": "Question 23",
+      "parts": [
+        {
+          "id": "23a",
+          "text": "Part 23a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x + y ⩽ 16 oe x ⩾ 4 oe B1 for each mark final answers If zero scored, SC1 for x + y < 16 and x > 4 M2 for lines at x = 4 and x + y = 16 or for correct shading of x < 4 or x + y > 16 or M1 for line at x = 4 or their x = 4 or for line at x + y = 16 or their x + y = 16 M1 for (8, 8) selected or for 10 × x + 8 × y for any numerical point which is inside or on the boundary of their unshaded region",
+          "image": "/papers/mathematics-0580-2017/q23-23a.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2017/q23.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2017-unit2-2017-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

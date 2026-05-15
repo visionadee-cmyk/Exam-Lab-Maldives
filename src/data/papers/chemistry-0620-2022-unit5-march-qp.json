@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2022-unit5-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit5-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "February/March 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final temperatures recorded for all six experiments all temperature readings and calculated temperature changes are to same precision all temperature changes in calculated correctly temperature changes continually increase down table temperature change for experiment 6 is approximately double the change for experiment 3",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "y -axis scale is sensible and linear and points extend over halfway up scale all points plotted correctly best fit straight line line extended to (0,0)",
+          "image": "/papers/chemistry-0620-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct working shown on graph correct reading from their working shown on graph",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature change (approximately) halved / gives temperature change which is half of temperature change stated in table (as need to heat) twice as much wate r",
+          "image": "/papers/chemistry-0620-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a polystyrene cup / insulation / lid explanation: reduce / less heat lost change: use a burette (for the water) explanation: (more) accurate (than a measuring cylinder) 0620/52 February/March 2022 / pale) blue precipitate dissolves / forms a solution deep(er) blue",
+          "image": "/papers/chemistry-0620-2022/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "orange or green solution",
+          "image": "/papers/chemistry-0620-2022/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 1 from: • fizzing / bubbles / effervescence • solution becomes green / colour fades • black solid / coating on magnesium / Na + coppe r / Cu 2+ bromide / B r –",
+          "image": "/papers/chemistry-0620-2022/q2-2e.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any pH in range 8 to 14 remains / does not redissolve / no change / (remains) colourless OR faint/slight white precipitate / Ca 2+ hydroxide / OH – 0620/52 February/March 2022 any 6 from: • known/specified volume of fizzy drink • warmed/heated • in a suitable container • gas collected in inverted measuring cylinder over water or in a (gas) syringe • until no more gas collected / all carbon dioxide given off / no more bubbles • volume of gas measured/recorded • volume of gas in 1 dm = volume collected × / volume used",
+          "image": "/papers/chemistry-0620-2022/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit5-2022-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

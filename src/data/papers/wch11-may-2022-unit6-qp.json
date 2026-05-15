@@ -1,0 +1,43 @@
+{
+  "paperId": "wch11-may-2022-unit6-qp",
+  "pairedMarkSchemeId": "wch11-may-2022-unit6-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH16/01",
+  "session": "May 2022",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes refere nce to the following points:  correct formula for 2,2 dimethyl propanal  proton environments clearly labelled M2 dependent on correct M1 (1) (1) M1 Allow -CH but not COH/CHO M2 Allow proton environments for Q protons shown on methyl groups Do not award proton environment for P protons on C or O of aldeh y de g roup (2) (Total for Question 2 = 12 marks) Number Additional Guidance Mark An answer that makes refere nce to the following points:  (concentrated) nitric acid is corrosive and wear/use gloves  nitrogen (di)oxide/NO (gas) is toxic/corrosive and carry out experiment in a fume cupboard (1) (1) Ignore irritant/harmful Do not award any other reagent e.g. sodium thiosulf ate, iodine, brass Allow burns/blisters skin Ignore toxic Ignore avoid skin contact Do not award nitric acid is flammable Allow well ventilated room Ignore reference to flames/ bunsens/gas mask/face mask (2) Number Additional Guidance Mark  green solution formed  (reddish/yellow) brown fumes formed (1) (1) Allow any shade of green/ blue solution formed Ignore metal would dissolve Ignore just effervescence (2) Number Additional Guidance Mark An answer that makes refere nce to the following point:  to prevent too much ef fervescence/fizzing / the reaction mixture spilling over /CO being formed too quickly Allow the reaction is vigorous/ to slow down the reaction Ignore exothermic (reaction)/water might boil/ splashing not linked to gas given off Do not award to stop the reaction (1) Number Additional Guidance Mark A description that makes reference to three of the following points:  (transfer contents of beaker to) and washings to a volumetric flask  make up to the mark with (distilled/deionised) water  shake / mix (1) (1) (1) If beaker/measuring cylinder used penalise in M1 only If incorrect solvent e.g. et hanol/ethanoic acid used penalise in M2 only Allow standard / graduated flask Allow any indication of mix ing e.g. inverting/swirling (3) Number Additional G",
+          "image": "/papers/wch11-may-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wch11-may-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2022-unit6-2022-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

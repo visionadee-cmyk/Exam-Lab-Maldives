@@ -1,0 +1,91 @@
+{
+  "paperId": "chemistry-0620-2019-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 7,
+      "marks": 7,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed: 25, 25, 25, 41,46, 46, 45, 44",
+          "image": "/papers/chemistry-0620-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed: 27, 27, 27, 57, 79, 79, 77, 75",
+          "image": "/papers/chemistry-0620-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed: 23, 23, 23, 25, 26, 27, 28, 29",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly 3 best fit smooth line graphs axes labelled 0620/63 May/June 2019",
+          "image": "/papers/chemistry-0620-2019/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "working shown clearly on graph for Experiment 2 at 75 seconds reading taken from graph temperature (change) is greatest Experiment 1 is faster (than Experiment 3) because surface area greater / more (frequent) collisions",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial temperature from table / room temperature reaction finished / points better / smoother graph",
+          "image": "/papers/chemistry-0620-2019/q2-2g.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper is a (good) conductor (of heat) (high) heat loss (to surroundings) / lower temperatures Tests on solid N / drops on side of tube cobalt( II ) chloride paper turns (from blue) to pink 0620/63 May/June 2019 / clears / soluble Tests on solid O chloride 4 any six from: EITHER • measured volume (dilute) hydrochloric acid • add named indicator • add measured mass / weight of calcium compound • stir / mix (acid and calcium compound) • continue additions until colour changes • repeat with other calcium compounds • conclusion, e.g.: the calcium compound that needs the smallest mass / weight / amount to neutralise the acid is most effective OR • measured mass / weight of calcium compound • add named indicator • add (dilute) hydrochloric acid (gradually) • stir / mix (acid and calcium compound) • continue additions until colour changes • repeat with other calcium compounds • conclusion, e.g.: the calcium compound that neutralises the largest volume / amount of(dilute) hydrochloric acid is the most effective max 6",
+          "image": "/papers/chemistry-0620-2019/q2-2i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit6-2019-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2023-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The student places the metre ruler on the pivot at the 50.0 cm mark with the scale of the ruler facing upwards. He places an object Q with its centre on the metre ruler at the 90.0 cm mark. Calculate the distance y from the centre of Q to the 100.0 cm end of the ruler. y = ................................................... cm [1] (b)",
+      "text": "1 (a) The student places the metre ruler on the pivot at the 50.0 cm mark with the scale of the ruler facing upwards. He places an object Q with its centre on the metre ruler at the 90.0 cm mark. Calculate the distance y from the centre of Q to the 100.0 cm end of the ruler. y = ................................................... cm [1] (b)",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "obtaining exact balance OR judging position of (centre of) load OR masses sliding on rule r  axes right way round and correctly labelled with quantity and unit  suitable scales  all five plots correct to ½ small square  good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2023/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method shown correctly on graph candidate’s value read correctly to ½ small square value in range 25.0 – 29.0 cm",
+          "image": "/papers/physics-0625-2023/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "balance ruler (on pivot with no loads) pivot point is read / balance point shows centre of mass 0625/61 May/June 2023 (°C) s, °C 0, 30, 60, 90, 120, 150, 180   = 25 R = 0.14 or 0.139 to 2 or 3 significant figures ONLY unit °C / s continue taking temperatures / continue for a longer time (until close to room temperature) OR use lowe r / higher starting temperature (of wate r ) plot a graph of temperature against time OR cooling rate against time / temperature",
+          "image": "/papers/physics-0625-2023/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to avoid parallax error owtte",
+          "image": "/papers/physics-0625-2023/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "r ead at bottom of meniscus OR ensure measuring cylinder is on horizontal surface 0625/61 May/June 2023",
+          "image": "/papers/physics-0625-2023/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal at 90° and in centre of AB CD is in lower left quadrant and i = 30°± 2° and P at least 5.0 cm apart straight line through pins P and P to AB all three lines LN , CD and CE drawn and meet or would meet at C within approx. 2 mm (by eye), drawn neatly and not too thick  in range 47(°)  51(°) one from:  view bases of pins  place pins (as) far apart (as possible)  ensure pins are vertical  sharp pencil / thin lines / thin pins  in range 70(°)  73(°) correct answer for  (which is   ) correct working shown (90   )",
+          "image": "/papers/physics-0625-2023/q3-3a.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match results with justification including the concept of within or beyond the limits of experimental accurac y 0625/61 May/June 2023 MP1 circuit diagram – power supply, lamp and ammeter in series, voltmeter in suitable position to read V across lamp MP2 measure the current and potential difference MP3 calculate resistance MP4 repeat with at least two other currents / voltages / settings of variable resistor / power supply MP5 a way to change the current/voltage (e.g. adjusting / using variable resistor OR changing voltage of power supply OR adding batteries) MP6 table with columns for potential difference, current and resistance, headed with quantities and appropriate units MP7 plot graph of resistance against current OR compare values of resistance and current in table",
+          "image": "/papers/physics-0625-2023/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit6-2023-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

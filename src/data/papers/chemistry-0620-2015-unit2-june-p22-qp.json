@@ -1,0 +1,91 @@
+{
+  "paperId": "chemistry-0620-2015-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit2-june-p22-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/22",
+  "session": "May/June 2015",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any 3 of (1 mark each) • add citric acid from burette to sodium hydroxide / titrate citric acid with sodium hydroxide; • use of indicator / titrate until indicator changes colour; • repeat without indicator / remove indicator with charcoal; • evaporate to crystallisation point / leave to crystallise / partially evaporate; • dry crystals with filter paper / heat gently / put in an oven; A Wash crystals with a little water R heat to dryness st and 5 th boxes ticked (1 mark each); APPLY: listing if more than two boxes ticked Page 4 Mark Scheme Syllabus Paper",
+          "image": "/papers/chemistry-0620-2015/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "H H │ │ H – C – C – O – H │ │ H H catalyst (in second space); H O on right; NOTE: marks are independent th box down ticked (thermal decomposition); water / H O; NOTE: either order in the spaces / idea of gas trapped in bread / idea that gas cannot escape / idea that carbon dioxide cannot escape ORA; 1A so it doesn’t poison you I to make sure there are no contaminants particles close together; particles randomly arranged / no fixed arrangement / irregular arrangement; NOTE: if solid for 1 st marking point, can get the 2 nd marking point NOTE: if gas for 1 st marking point, can get the 3 rd marking point Page 5 Mark Scheme Syllabus Paper / Erlenmeyer; (right box) (gas) syringe; I type of flask then levels off / rate of increase less / stops / slows down / stays constant; (min); (cm ); 1A values between 34.5 and 35 levelling off to same final volume; R lines stopping at final volume which clearly would be still increasing in volume / slower / less / takes more time; (cathode) zinc; A C l / C l A Zn / unreactive; 1I cheaper 1R contains C=O bond / aqueous bromine / bromine; decolourises / goes colourless I goes clear / discolourises (second mark dependant on getting bromine) water; A layout as water + sodium carbonate Page 6 Mark Scheme Syllabus Paper / monomers join (to make polymer) / monomers (ethene) polymerises; ethene is the monomer; addition polymerisation / idea of addition reaction / monomers (or ethene) add together to form polymer; NOTE: ethene monomers add together to form polymer = 3 marks / grind them / crush / blend / use a mortar and pestle; extract with solvent / add solvent / add water; filter (the solution through glass wool); NOTE: grind with solvent = 2 marks A filter / filter through filter paper APPLY: listing / Cu and Fe; (very) high density / (very) high melting point; A very strong / aluminium is a better conductor / aluminium has a low density; aluminium (on its own) is not strong enough / aluminium is (only) fairly strong / iron is very strong",
+          "image": "/papers/chemistry-0620-2015/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6f",
+          "text": "Part 6f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any 4 of: • mixture of metals / mixture of metal with non-metal / mixture of metal with another element; • example of alloy e.g. Fe + Cr / Fe + Ti / Fe + C / mild steel / stainless steel etc.; • alloy is more resistant to corrosion / less likely to rust / does not rust / less reactive; • alloy is harder / stronger; • example of use of an alloy of IRON e.g. car bodies / chemical plant / utensils / buildings / kitchen equipment; I melting points / boiling points",
+          "image": "/papers/chemistry-0620-2015/q6-6f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any 3 of: • diffusion; • (bulk) movement of particles from high to low concentration; • particles are in constant motion; • (movement of particles is) random; • bromine particles spread (throughout the solvent particles) / bromine particles mix up (with solvent); A particles move (from place to place) A particles collide with each other / particles hit into each other / higher / goes up; NOTE: if range given both figures must be within this range I; / bromine is less reactive than chlorine; 1I reference to bromide / chloride / relative positions of bromine or chlorine in the Group Page 8 Mark Scheme Syllabus Paper NOTE: if answer is incorrect allow 1 mark for both correct atomic masses (Br = 80 and F = 19) A ecf from ONE incorrect atomic mass for 1 mark",
+          "image": "/papers/chemistry-0620-2015/q7-7a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit2-2015-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2024-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit5-november-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "October/November 2024",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 correct evaluation of temperature change in Experiment 1  120 M2 o C / s October/November 2024 Question Answer Marks error: heat gain improvement: insulate / (use a) lid / (use a) polystyrene (cup) error: (volume of water due to using a) measuring cylinder improvement: (use a) burette error: water already in boiling tube for Experiment 2 improvement: dry / clean / new boiling tube Question Answer Marks M2 steam / condensation (at top of tube) M2 dissolves in excess M2 remains / does not dissolve",
+          "image": "/papers/chemistry-0620-2024/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 aluminium / Al 3+ M2 bromide / Br – October/November 2024 Question Answer Marks SO Question Answer Marks 3 Any six from: MP1 find mass of mixture MP2 add water and stir MP3 filter MP4 add (excess) aqueous sodium hydroxide to residue and stir MP5 filter and wash residue / calcium carbonate (with water) and dry MP6 weigh residue / calcium carbonate MP7 (mass calcium carbonate / initial mass)  100 (%)",
+          "image": "/papers/chemistry-0620-2024/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit5-2024-11-53-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

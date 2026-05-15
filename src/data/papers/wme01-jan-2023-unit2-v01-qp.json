@@ -1,0 +1,206 @@
+{
+  "paperId": "wme01-jan-2023-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-jan-2023-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "January 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Find (i) the speed of A immediately after the collision, (ii) the speed of B immediately after the collision. (5) (b) Find, in terms of m , the magnitude of the impulse exerted on B in the collision. (3) _____________________________________________________________________________________ __________________________________________________________",
+      "text": "1 (a) Find (i) the speed of A immediately after the collision, (ii) the speed of B immediately after the collision. (5) (b) Find, in terms of m , the magnitude of the impulse exerted on B in the collision. (3) _____________________________________________________________________________________ __________________________________________________________",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Find (i) the speed of A immediately after the collision, (ii) the speed of B immediately after the collision. (5) (b) Find, in terms of m , the magnitude of the impulse exerted on B in the collision. (3) _____________________________________________________________________________________ __________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 shape B1 B1 T, T+180, 3T+180 (3)",
+          "image": "/papers/wme01-jan-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "T and T seen or implied, for acceleration and deceleration in that order B1 Any of: ( ) 20 2 180 20 TT      = +  +         ( ) ( ) ( ) 180 (180 2 ) 20 2 80 3 T T T T T   = +      =  +  +   = + ++ ++ 20 2 8 0 () T T T  +      =  − −        M1 A1 A1 T = (allow t) A1 (5)",
+          "image": "/papers/wme01-jan-2023/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "20 = a x their T oe M1 Acceleration = ( ) m s − A1 ft (2) (10) NOTES (a) B1 B1 B1 Correct shape with acceleration steeper than deceleration (ignore entries on the axes). Correct vertical label. Correct horizontal labels. Accept use of their T or appropriately labelled delineators. (b) B1 M1 A1 A1 A1 (c) M1 A1 ft Correct relationship seen or implied between the time accelerating and the time decelerating. A clear attempt to use the total area under the graph (or use suvat formulae) and equate to 4800 (or 4.8) to form an equation in T only or their unknown only (e.g. replace T by a ). Must involve a triangle or a trapezium (M0 if they use a single suvat formula for the whole motion) An equation with at most one error. (use of 3 instead of 180 is one error) Having T and 2T round the wrong way, treat as one error A fully correct equation cao N.B. If attempting to use a single trapezium, and ‘180’ appears in the bracket i.e. 20(' terms' + 180) T , allow at least M1A1 for one correct parallel side. N.B. 20( + 180) 4800 x = => x = ONLY scores B0M1A1A0A0 Correct equation in a, using their T Correct answer, follow through on their ‘40’ Number Scheme Marks",
+          "image": "/papers/wme01-jan-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct relationship between the speeds after the collision. and vv + OR 1 and ww − B1 ( ) ( ) ( ) 1.5 1.5 m m mv m v  + − = + + [ Or ( ) ( ) ( ) 1.5 1.5 m m m w mw  + − = − + ] M1 A1 Speed of A = ( m s − ) Speed of B = ( m s − ) A1 A1 (5)",
+          "image": "/papers/wme01-jan-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "For B: ( ) 1.5 1.5 m  − − OR For A: ( ) 0.5 1.5 m − M1 A1ft 3m (Ns) A1 (3) (8) NOTES (a) B1 M1 A1 A1 A1 (b) M1 A1ft A1 speed of B = 1 + speed of A . Must be seen before the CLM equation is used i.e. algebraic not numerical quantities Dimensionally correct CLM equation with correct number of terms. Allow consistent extra g ’s or cancelled m ’s. Ignore sign errors. Allow the use of 2 unknowns for speeds after. (M0 if same speeds) Correct equation in 1 unknown Correct speed of A Correct speed of B Dimensionally correct impulse-momentum equation using A or B with correct number of appropriate terms. Condone sign errors but must be difference of momenta. M0 if g is included. Correct unsimplified equation. Follow through their answer in (a),but if using B, terms must have same signs, if using A, terms must have opposite signs. Cao (must be positive) Number Scheme Marks",
+          "image": "/papers/wme01-jan-2023/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) Velocity = − + − + i j i j M1 ( ) Speed = + − M1 ( ) Speed 3 5 6.7 ms − = = = or better A1 cso (3)",
+          "image": "/papers/wme01-jan-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 tan −    M1 A1ft  or better OR  or better 0.46 rads or better OR 5.8 rads or better A1 (3)",
+          "image": "/papers/wme01-jan-2023/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(14 5 ) ( 4 ) T = − + − + v i j i j (allow t) OR (6 3 ) ( 4 ) t = − + − + v i j i j (t = T – 2) M1 14 42 T T − = − + − M1 A1 3.2 T = A1 (4) (10) NOTES Accept the use of column vectors throughout (a) M1 M1 A1 (b) M1 A1ft A1 Correct use of t = to find the velocity (unsimplified). Use of Pythagoras to find the speed when t = with their velocity. ( ) 3 5 6.7 ms − == or better ( 6.70820 ). Must come from correct velocity. Use trig to find an equation in a relevant angle e.g. (90− ) for their velocity. Correct equation for a relevant angle, ft on their v Cao. No isw (A0 for a negative answer) (c) M1 M1 A1 A1 Use of T =+ v u a to obtain a velocity vector in T (allow t) Use ratios, using their velocity, to produce an equation in T only (Allow reciprocal and incorrect sign) Correct equation in T only Cao N.B. If they use their answer to (a) instead of u = (14i – 5j) but never correct their value of t, can score M1M1A0A0 N.B. If they use v = k(2i – 3j) to produce 2 simultaneous equations in k and T, and then they use a calculator to solve and get T =3.2, award all the marks, but if they get the wrong answer, they lose the last 3 marks. Number Scheme Marks 4. D R = for scenario 1 or C R = for scenario 2 B1 Scenario 1 M(C) ( ) 150 1.26 Wx = M1 A1 Scenario 2 M(D) ()() 225 0.360.9Wx=  − M1 A1 Solve simultaneously for W (or x ) e.g. 0.81 W = dM1 W = A1 0.63 x = A1 (8) NOTES B1 M1 A1 M1 A1 dM1 A1 A1 N.B. B0 means there are no other marks available. D R = for scenario 1 seen on a diagram or implied by working. OR: C R = for scenario 2 seen on a diagram or implied by working. Complete method to form an equation in W and a consistent unknown distance only, for scenario 1. All equations used must be dimensionally correct and have the correct no. of terms but condone sign errors. (M0 if D R = is never used) Correct unsimplified equation in W and x or their defined unknown distance. Complete method to form an equation in W and a consistent unknown distance only, for scenario 2. All",
+          "image": "/papers/wme01-jan-2023/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P to Q uu x +  =   OR 2 12 u xu = +   OR () u x uu  =  + M1 Reaches given answer from correct working xu = * A1* (2) e.g. ( ) ( ) ( ) ( ) 2 1.5 15 u u u =+ M1 A1 9u= A1 (3) 1.5 2 QS u =  +   M1 A1 (4u + 3) + 18u M1 201 (m) A1 (4) (9) NOTES (a) M1 A1* (b) M1 A1 A1 (c) M1 A1 M1 A1 Considers P to Q and forms a relevant equation in terms of u and x Reaches given answer from correct working Uses the given answer in (a) to form an equation in u only N.B. If brackets missing, allow M1, but allow recovery. Correct unsimplified equation in u only Correct answer Complete method to find the distance travelled in the 2 seconds after passing Q Correct unsimplified expression in u only (or 39 m) Complete method to find the required distance (need 18u or 6x) Correct answer Number Scheme Marks 6. Perpendicular to direction of motion: 500 sin 40 sin P   =  M1 A1 Parallel to direction of motion: 500 cos 40 cos P   +  = M1 A1 (i) Form and solve an equation in  500 sin40 tan 900 500 cos40   = − M1 ( ) 32 or better 31.8683  = A1 (ii) Form and solve an equation in P 500 sin40 sin 31.868 P  =  M1 ( ) 610 or better 608.736 P = A1 N.B. Penalise over accurate answers only once for the question. ALTERNATIVE USING A TRIANGLE OF FORCES: Cosine Rule: 2 500 900 cos 40 o P = + −   OR: 900 cos PP   = + −   OR: 500 cos(140 ) o PP  = + −  −   M1 A1 Sine Rule /Lami’s Theorem: sin 40 sin sin(140 ) oo P   = −  = (any two) M1 A1 (i) Solve for  ( ) 32 or better 31.8683  = M1 A1 (ii) Solve for P ( ) 610 or better 608.736 P = M1 A1 (8) NOTES M1 A1 M1 A1 (i) M1 A1 (ii) M1 Form an equation perpendicular to the direction of motion. Correct number of terms, condone sign errors and sin/cos confusion. Correct unsimplified equation Form an equation parallel to the direction of motion. If using Fma= then must have 0a= . Correct number of terms, condone sign errors and sin/cos confusion. Correct unsimplified equation Form and solve an equation in  (This an M mark so d",
+          "image": "/papers/wme01-jan-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) ( ) mg g m M g m M − + = + where M = (p + q) OR : mg g Mg M −= where M = p + q + m M1 A1 (p + q) = 5m dM1 A1 (4)",
+          "image": "/papers/wme01-jan-2023/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "14 mg g pg p  −=   M1 A1 pm = A1 (3) (7) NOTES N.B. Use the mass in the ‘ma’ term to determine which part of the system is being considered. (a) M1 A1 dM1 A1 (b) M1 A1 Form an equation of motion for the whole system with the combined mass of P and Q. Correct terms, condone sign errors. N.B. They may consider the 2 masses (M) and the lift separately and eliminate the normal reaction e.g. g R MgM−= AND mg g mg R m − − = AND add to eliminate R Correct equation in M and m_for their M N.B. Award marks for a correct equation only if no wrong working seen. Rearrange to find an expression for the combined mass of P and Q. Must be a multiple of m Cao Form an equation of motion for box P. Correct terms, condone sign errors. Fully correct equation. Cao A1 N.B. They may find q (M1A1) and subtract from 5m Number Scheme Marks",
+          "image": "/papers/wme01-jan-2023/q7-7b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Perpendicular to the plane: 18sin 402 cos 30Rg+ = M1 A1 Equation of motion parallel to the plane: 18 cos 40 2 sin 30 F g a − −  = (or -2a) M1 A1 A1 0.3FR= B1 ( ) 18 cos 40 0.3 2 cos 30 18sin 40 2 sin 30 g g a  −  −  −  = dM1 ( ) 1.18 or 1 .2 m s a − = A1 cao (8)",
+          "image": "/papers/wme01-jan-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 2 '1.18 ' 5 v =+ M1 A1ft 3.98 or 4.0 v = or 4 ( m s ) − A1 cao N.B. For (a) and (b), penalise over accurate answers ONCE only. (3)",
+          "image": "/papers/wme01-jan-2023/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 2 cos 30 R g g =  = B1 Friction = 0.3 2 cos 30 OR 0.3 2 sin 30 gg     M1 Compares Friction with weight component parallel to plane Eg Consider: () oo 2 sin 300.3 2 cos 30 gg− (= 2a) OR ( ) oo 0.3 2 cos 30 2 sin 30 gg − (= 2a) dM1 (a)  OR (a) < 0 Concludes that P will not remain at rest oe A1 (4) (15) NOTES (a) M1 A1 M1 A1 A1 B1 dM1 A1 Correct number of terms, forces resolved perp to the plane where appropriate, condone sign errors and sin/cos confusion, forces and angles paired up correctly Correct unsimplified equation. Equation of motion parallel to the slope. Correct number of terms, forces resolved where appropriate, condone sign errors and sin/cos confusion, forces and angles paired up correctly Correct unsimplified equation with at most one error Fully correct unsimplified equation Use of 0.3FR= Eliminate F and R to form an equation in a , dependent on two M’s Correct value for a . Must be 2 or 3sf (b) M1 A1ft A1 (c) B1 M1 dM1 A1 Complete method to form an equation in v or v Correct unsimplified equation. Follow through on their value for a . Cao. Must be positive. Note that 1.2a= leads to 4v= . Correct expression or value for new R Find the max friction. M0 if the previous R is used. Correct comparison between max friction value and weight component (force parallel to slope), dependent on previous M Correct statement from fully correct working. Concludes that P will not remain at rest. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-jan-2023/q8-8c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wme01-jan-2023"
+  },
+  "unit": "Unit 2"
+}

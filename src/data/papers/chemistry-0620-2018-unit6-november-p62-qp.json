@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "To dissolve(more solid) / makes a solution Increases speed / make dissolve completely",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": ">7 and not >14 / blue glass",
+          "image": "/papers/chemistry-0620-2018/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for experiments 1–5 Times completed 29, 39, 56, 65, 111 in seconds",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "All points plotted correctly Smooth line graph",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Value from graph indication on graph unit 0620/62 October/November 2018 More particles (of solution L present per unit volume) more frequent collisions / particles collide more often / higher collision rate / slower addition of solution / takes longer to add Measuring time taken less accurate / results less accurate and average / compare results Tests on solid N precipitate / (red)litmus paper >7 / blue 0620/62 October/November 2018 Tests on solid O",
+          "image": "/papers/chemistry-0620-2018/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Group 1 cation present or named group 1 cation present chloride Any 4 from • Measured volume of dilute hydrochloric acid • Use of suitable container (e.g. test tube / beaker / flask / plastic cup) • Initial temperature of acid • Add known mass of solid C • Final temperature of mixture / Calculate temperature change • Repeat with (same mass / moles of) solid D And • Bigger temperature change is bigger energy change • Temperature increase is exothermic / temperature decrease is endothermic process Max 6",
+          "image": "/papers/chemistry-0620-2018/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

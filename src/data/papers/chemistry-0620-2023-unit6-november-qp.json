@@ -1,0 +1,43 @@
+{
+  "paperId": "chemistry-0620-2023-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 barium / Ba 2+ M2 iodide / I − Question Answer Marks 4 any 6 from: MP1 known / stated volume of one cleaner MP2 measured with appropriate named apparatus (pipette / measuring cylinder / burette) MP3 named indicator used in this experiment MP4 acid added to cleaner in flask MP5 correct end-point colour for indicator used stated MP6 recorded / measured start and end reading on burette MP7 biggest volume (of acid) used has most concentrated ammonia",
+          "image": "/papers/chemistry-0620-2023/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit6-2023-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

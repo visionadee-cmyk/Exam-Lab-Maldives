@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "October/November 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 (A),C,F M2 B,D,E OR B,E,D OR D,B,E / crystallising basin / dish / dissolve / remove sodium chloride / salt",
+          "image": "/papers/chemistry-0620-2018/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "mass boxes correctly completed to 1 dp 86.0, 85.0, 84.4, 84.1,84.0, 83.9, 83.9, 83.9 Loss in mass boxes correctly completed 0.0, 1.0, 1.6, 1.9, 2.0, 2.1, 2.1, 2.1",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "points correctly plotted: smooth line graph;",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 mass loss from graph at 30 seconds (0.5) M2 mass in M1 / 30 calculated (= 0.017) M3 g / s;",
+          "image": "/papers/chemistry-0620-2018/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Sketch steeper than original graph To same level 0620/61 October/November 2018 / carbon dioxide given off Allow gas to escape Prevent loss of acid; All nitric acid has reacted",
+          "image": "/papers/chemistry-0620-2018/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Advantage: more accurate; Disadvantage: slow sulfite; precipitate; / remains / no change / (very) slight white precipitate; / reaction / change / remains colourless / pH paper / universal indicator paper turns blue / pH>7 / alkaline 0620/61 October/November 2018 Method 1 • Coat/paint glass slide(or any suitable inert material) • With same amount / thickness of paint • (leave to) dry • Add controlled amount / drops of propanone • Until paint / coating removed • Count drops / measure volume • Repeat with ethyl ethanoate • Comparison / conclusion Max 6 Method 2 • Weigh slides • Add equal mass of paint to both • Leave to dry • Immerse each slide in 2 containers with each of solvents • Fixed volume of solvent / excess solvent • For set time interval / time • Dry and reweigh slides / to dissolve • Conclusion e.g. solvent causing greater mass loss is better or shortest time to dissolve is better Max 6",
+          "image": "/papers/chemistry-0620-2018/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

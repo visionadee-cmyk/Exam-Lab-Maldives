@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2025-unit5-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "February/March 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " for beaker A decreasing",
+          "image": "/papers/physics-0625-2025/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " for beaker B decreasing decreasing more quickly than A 1 comparison of temperature changes over 180 s, matching statement (need to see values used in justification) 1 yes / therefore beaker A and B must start at same temperature AND so comparison only depends on insulation Question Answer Marks  = 40°1°",
+          "image": "/papers/physics-0625-2025/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "pin separation ⩾ 5.0 cm 1st set of lines present and in correct positions 1  and  = 50° 2° February/March 2025 Question Answer Marks justification matching statement (‘within limits of experimental accuracy’ / within 10% / close together owtte) 1 displacement between F and H less than in (b) 1 draw thin lines / use sharp pencil; look at base of pins / keep pins vertical; use thin pins; ensure pins are as far apart as possible February/March 2025 Question Answer Marks 4 MP1 circuit diagram: correct voltmeter circuit symbol shown in parallel with all or part of wire MP2 apparatus: metre ruler MP3 method: measure / record length; measure p.d. and current; specific reference to repeating with different length MP4 key / control variable: constant diameter / radius / guage of wire; material of wire / same wire / same type of wire MP5 table: columns, with units, for length, p.d., current, resistance MP6 analysis: compare readings in the table to see if change in length produces change in resistance; plot resistance-length or length-resistance graph MP7 additional point (one from): at least 5 sets of data taken; repeat for each length and take average; 2nd control variable: diameter / material / temperature of wire; use of protective resistor",
+          "image": "/papers/physics-0625-2025/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

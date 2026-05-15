@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2022-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The metre rule is clamped in position close to the spring. Do not change the position of the metre rule. (i) Take two readings from the metre rule to determine the unstretched length l 0 of the coiled part of the spring. Use the set square provided. reading 1 ......................................................... cm reading 2 ......................",
+      "text": "1 (a) The metre rule is clamped in position close to the spring. Do not change the position of the metre rule. (i) Take two readings from the metre rule to determine the unstretched length l 0 of the coiled part of the spring. Use the set square provided. reading 1 ......................................................... cm reading 2 ......................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l > l and e value correct k correct and unit to match e; N / cm",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l > l and e value correct k present and within 10% of value in (b)",
+          "image": "/papers/physics-0625-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement to match results and explanation to match statement including concept of within / beyond limits of experimental accuracy / masses / weights to plot a graph OR to take an average",
+          "image": "/papers/physics-0625-2022/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "r ealistic value for room temperature (°C) temperatures to 1 °C or bette r correct values for   and R 0625/51 May/June 2022 values for   and R with unit °C / s at (i) or (ii) and not contradicted insulation volume between 150 and 250 cm view scale at right angles to bottom of meniscus",
+          "image": "/papers/physics-0625-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I to at least 2 decimal places and < 1 A V values to at least 1 decimal place and < 3 V V values increasing R values correct R values to consistent 2 or consistent 3 significant figures axes correctly labelled with quantity and unit and right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line 0625/51 May/June 2022",
+          "image": "/papers/physics-0625-2022/q3-3a.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "method shown clearly on graph R value correct to nearest ½ small square MP1 identify variable under test either distance between supports / length of beam OR composition of beam (proportion of sand / cement) MP2 increase load until beam breaks (and record load) MP3 r epeat for (at least 2 more) different beams or (2 more) different lengths MP4 constant variable identified (in relation to variable under test) distance between supports position of load composition of beam (if not independent variable) same length of beam (if not independent variable) MP5 table with columns for distance / length or composition, and (maximum) load with units required for load and distance / length MP6 conclusion compare breaking load with variable under test OR plot a graph of load against length 0625/51 May/June 2022 MP7 additional point: any one from: at least 5 sets of results repeats of individual tests and average (rough initial test then) adding small loads near breaking load carefully place loads on beam 0625/51 May/June 2022 Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE:  If candidate’s scale consists of actual readings at equal interv als this will produce a perfect straight line! The only mark a vailable in this case is the first (axes right way round and labelled) So maximum 1.  If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2022/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

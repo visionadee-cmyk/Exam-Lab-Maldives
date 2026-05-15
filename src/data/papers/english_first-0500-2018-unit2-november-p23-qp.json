@@ -1,0 +1,43 @@
+{
+  "paperId": "english_first-0500-2018-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "english_first-0500-2018-unit2-november-p23-ms",
+  "subjectId": "english_first_igcse",
+  "code": "0500/23",
+  "session": "October/November 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3(a) and (b) on this Question Paper. Question 3 Answer the questions in the order set. (a) Notes According to Passage B, for what reasons do people decide to change career? Write your answer using short notes. Write one point per line. You do not need to use your own words. Up to 15 marks are available for the content of your answer.",
+      "text": "3(a) and (b) on this Question Paper. Question 3 Answer the questions in the order set. (a) Notes According to Passage B, for what reasons do people decide to change career? Write your answer using short notes. Write one point per line. You do not need to use your own words. Up to 15 marks are available for the content of your answer.",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3(a) and (b) on this Question Paper. Question 3 Answer the questions in the order set. (a) Notes According to Passage B, for what reasons do people decide to change career? Write your answer using short notes. Write one point per line. You do not need to use your own words. Up to 15 marks are available for the content of your answer.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(a) Summary Now use your notes to write a summary of the reasons people decide to change career, according to Passage B. You must use continuous writing (not note form) and use your own words as far as possible. Your summary should include all 15 of your points in Question 3(a) and must be 200 to 250 words. Up to 5 marks are available for the quality of your answer. B Quality of Writing: concision, focus and use of own words Use the following table to give a mark out of 5 for Writing. Band 1 5 The response is well focused on the passage and the question. All points are expressed clearly, concisely and fluently, and in the candidate’s own words (where appropriate) throughout. Band 2 4 Most points are made clearly and concisely. Own words (where appropriate) are used consistently. The summary is mostly focused but may have a redundant introduction or conclusion. Band 3 3 There are some areas of concision. There may be occasional loss of focus or clarity. Own words (where appropriate) are used for most of the summary. Responses may be list-like or not well sequenced. Band 4 2 The summary is sometimes focused. It may lack some clarity. It may include comment, repetition, unnecessarily long explanation or lifted phrases. Band 5 1 The summary is unfocused or wordy. It may be answered in the wrong form (e.g. narrative, commentary or as notes) or lack clarity. There may be frequent lifting of phrases and sentences. Band 6 0 Excessive lifting; no focus. The response cannot be understood or consists entirely of the words of the passage.",
+          "image": "/papers/english_first-0500-2018/q3-3a.png"
+        }
+      ],
+      "image": "/papers/english_first-0500-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/english_first-0500-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/EnglishFirstLanguage-0500/EnglishFirstLanguage-0500-2018-unit2-2018-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

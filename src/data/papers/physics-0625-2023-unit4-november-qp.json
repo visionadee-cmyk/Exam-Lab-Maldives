@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit4-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit4-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "October/November 2023",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) The lowest possible temperature is zero kelvin (0 K). (i) State the name of this lowest possible temperature. ..................................................................................................................................... [1] (ii) Nitrogen boils at 77 K. Calculate the boiling point of nitrogen",
+      "text": "4 (a) The lowest possible temperature is zero kelvin (0 K). (i) State the name of this lowest possible temperature. ..................................................................................................................................... [1] (ii) Nitrogen boils at 77 K. Calculate the boiling point of nitrogen",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(pressure =) 60 kPa OR 6.0  10 Pa A2 p V = p V OR (p =) p V / V OR pV = constant OR p  1 / V OR 1.2  10  0.5 OR 6.0  10 n C1 October/November 2023 Question Answer Marks 3 arcs B1 3 semi-circular wavecrests centred on middle of gap B1 angular spread must be less / reduced divergence B1 3 wavecrests on right with reduced curvature compared with (a) no reverse curvature anywhere B1 October/November 2023 Question Answer Marks one axis labelled V and the other labelled I, either way round AND gradual curve from origin curving such that V / I increases B1 explanation: (as current / temperature increases so) resistance increases B1 (so) more voltage required for same increase in current owtte OR if V on y-axis: gradient must increase OR if V on x-axis: gradient must decrease B1 12.0 – 3.0 C1 I = V / R OR (I =) V / R OR 9.0 / 4.2 C1 P = VI OR OR (P =) VI OR 9  2.1 C1 October/November 2023 Question Answer Marks inward radial arrow B1 positive (charge) C1 out of (plastic) OR removed from / lost from (plastic) B1 conductors have free / mobile / delocalised electrons OR insulators do not have free / mobile / delocalised electrons A1 Question Answer Marks force on left of coil up OR force on right of coil down B1 October/November 2023 Question Answer Marks highly ionising OR not (very) penetrating B1 any value between 10–500 years B1 absorption depends on thickness (of aluminium) B1 any number of years B1 decay reduces number of neutrons B1 • radon gas (in the air) • rocks OR buildings • food OR drink • cosmic rays B2 October/November 2023 Question Answer Marks 2 H = v / d B1 –1 OR 1 / s B1 4.5  10 (s) A2 d / v = 1 / H OR (age of Universe =) 1 / H OR (age of Universe =) d / v OR (age of Universe =) 1 / 2.2  10 -–18 C1 OR shortly after the Big Bang B1 all points in space B1",
+          "image": "/papers/physics-0625-2023/q4-4c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit4-2023-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

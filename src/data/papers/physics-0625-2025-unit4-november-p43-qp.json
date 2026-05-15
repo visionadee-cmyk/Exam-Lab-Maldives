@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2025-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit4-november-p43-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "October/November 2025",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "8 (a) Alpha (α) particles are directed at a very thin sheet of gold foil. The following observations provide evidence for the nuclear model of the atom. State what conclusions may be made about the model of the atom from these observations. (i) Observation: most of the particles pass straight through the foil. conclusion ......................................................................",
+      "text": "8 (a) Alpha (α) particles are directed at a very thin sheet of gold foil. The following observations provide evidence for the nuclear model of the atom. State what conclusions may be made about the model of the atom from these observations. (i) Observation: most of the particles pass straight through the foil. conclusion ......................................................................",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.9  10 –2 g OR 1.9  10 –5 kg A2 3 half-lives OR 2.4  10 –3  2 OR 1 / 8 C1 October/November 2025 Question Answer Marks Universe has expanded OR Universe accelerated outwards B1 120 000 (km / h) OR 1.2  10 (km / h) A3 (v =) 2r / T OR {2    108 ( 10 ) } / {0.62  365  24} C1 (T =) 0.62  365  24 OR (T =) 5431 OR (T =) 226.3  24 OR 1.2  10 n C1 October/November 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q8-8c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "10 (a) Sketch a diagram to show the orbital path of a comet around the Sun. Mark the position of the Sun on your diagram using an S. [2] (b) Draw a cross on your diagram to show where the comet is travelling with the slowest speed. Label the cross L. [1] (c) Explain why the speed of a comet changes as it travels around its orbit. Use the conservation of energy in your explanation. .......",
+      "text": "10 (a) Sketch a diagram to show the orbital path of a comet around the Sun. Mark the position of the Sun on your diagram using an S. [2] (b) Draw a cross on your diagram to show where the comet is travelling with the slowest speed. Label the cross L. [1] (c) Explain why the speed of a comet changes as it travels around its orbit. Use the conservation of energy in your explanation. .......",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) Sketch a diagram to show the orbital path of a comet around the Sun. Mark the position of the Sun on your diagram using an S. [2] (b) Draw a cross on your diagram to show where the comet is travelling with the slowest speed. Label the cross L. [1] (c) Explain why the speed of a comet changes as it travels around its orbit. Use the conservation of energy in your explanation. .......",
+          "marks": 1,
+          "type": "structured",
+          "answer": "elliptical shape drawn B1 S at a focus of the ellipse by eye B1",
+          "image": "/papers/physics-0625-2025/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "L furthest away from their S / Sun B1 (energy stored as) GPE decreases and (energy stored as) KE increases closer to the Sun B1 when the comet has more kinetic energy it has a greater speed B1 S OR S S L",
+          "image": "/papers/physics-0625-2025/q10-10b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit4-2025-11-41-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

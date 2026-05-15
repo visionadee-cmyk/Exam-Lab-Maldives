@@ -1,0 +1,247 @@
+{
+  "paperId": "physics-0625-2019-unit4-november-p43-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit4-november-p43-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/43",
+  "session": "October/November 2019",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 16,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) State the name given to the: (i) region around A in the diagram ............................................................... [1] (ii) region around B in the diagram. ............................................................... [1] (b) On Fig. 6.1, draw a double-headed arrow to show one wavelength. [1] (c) T",
+      "text": "1 (a) State the name given to the: (i) region around A in the diagram ............................................................... [1] (ii) region around B in the diagram. ............................................................... [1] (b) On Fig. 6.1, draw a double-headed arrow to show one wavelength. [1] (c) T",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) State the name given to the: (i) region around A in the diagram ............................................................... [1] (ii) region around B in the diagram. ............................................................... [1] (b) On Fig. 6.1, draw a double-headed arrow to show one wavelength. [1] (c) T",
+          "marks": 1,
+          "type": "structured",
+          "answer": "attempt to use 2 rectangles for A C1 A = ((1 × 3.2) + (1.1 × 1.6) = 3.2 + 1.76 =) 4.96 (m ) C1 9.9 m A1",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ρ = m / V OR m = ρ V OR (m =) 9.9 × 1.1 × C1 ( m =) 1.1 × kg A1",
+          "image": "/papers/physics-0625-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "depth of water = 1.2 m C1 ( P =) ρ gh OR ( P = 1.1 × × × 1.2) C1 ( P =) 1.3 × Pa A1 moment = force × distance C1 moment = force × perpendicular distance A1 turning effect owtte B1 B1 M1 total clockwise moment = total anticlockwise moment OR resultant turning effect = 0 A1 / October/November 2019 from gravitational potential B1 to kinetic B1 KE gained = PE lost or 1 / mv = mgh C1 h = v / g C1 22 m A1 B1 two from geothermal, nuclear and tidal B2 Solids – molecules in lattice arrangement B1 solids – strong forces between molecules B1 liquids – molecules not fixed in place OR molecules have an irregular arrangement OR molecules (slightly) further apart (on average) than in solids OR spaces between the molecules B1 liquids – (average) forces too weak to keep molecules in a definite pattern OR forces just enough to hold molecules in the bulk of the liquid B1 gases – molecules far apart B1 gases – weak / no forces between molecules (except during collisions) B1 / October/November 2019",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(energy =) power x time in any form C1 = 3000 × 3.5 × C1 = 630 000 J A1 E =) mc ∆ T in any form C1 m = 1700 / C1 ∆ T = (100–19) OR ∆ T = 81 C1 ( E =) × × C1 = 580 000 J A1",
+          "image": "/papers/physics-0625-2019/q5-5a.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Efficiency = useful energy output total energy input OR 580 000 630 000 ( × 100) C1 = 0.92 OR 92% A1 / October/November 2019 B1 B1",
+          "image": "/papers/physics-0625-2019/q5-5c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct wavelength indicated B1",
+          "image": "/papers/physics-0625-2019/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "closer together at compression and further apart at rarefaction B1 amplitude changes B1 loudness does not affect wavelength B1 / further apart B1 Velocity / speed greater in water than air B1 (so) wavelength greater B1 / October/November 2019",
+          "image": "/papers/physics-0625-2019/q6-6c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "7 (a) Fig. 7.1 shows the position of a converging lens, its principal axis and an object O. FF lens O principal axis Fig. 7.1 Each principal focus of the lens is labelled F. On Fig. 7.1, draw a ray diagram to locate the position of the image formed by the lens. Label the image I.",
+      "text": "7 (a) Fig. 7.1 shows the position of a converging lens, its principal axis and an object O. FF lens O principal axis Fig. 7.1 Each principal focus of the lens is labelled F. On Fig. 7.1, draw a ray diagram to locate the position of the image formed by the lens. Label the image I.",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "7 (a) Fig. 7.1 shows the position of a converging lens, its principal axis and an object O. FF lens O principal axis Fig. 7.1 Each principal focus of the lens is labelled F. On Fig. 7.1, draw a ray diagram to locate the position of the image formed by the lens. Label the image I.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ray parallel to axis and through F M1 ray through centre of lens M1 position of image correct and labelled A1",
+          "image": "/papers/physics-0625-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "enlarged and upright B1 virtual B1",
+          "image": "/papers/physics-0625-2019/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "different colours have different wavelengths / different frequencies / refracted by different amounts OR dispersion (in glass) B1",
+          "image": "/papers/physics-0625-2019/q7-7c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "8 (a) Fig. 8.1 shows a negatively charged conducting sphere. − − − − − − − − Fig. 8.1 On Fig. 8.1, draw the electric field pattern around the sphere. [2] (b) The current in an electrical device is 0.21 A. Calculate the charge that flows during a 75 s period of time. charge = ........................................................ [2] [Total: 4]",
+      "text": "8 (a) Fig. 8.1 shows a negatively charged conducting sphere. − − − − − − − − Fig. 8.1 On Fig. 8.1, draw the electric field pattern around the sphere. [2] (b) The current in an electrical device is 0.21 A. Calculate the charge that flows during a 75 s period of time. charge = ........................................................ [2] [Total: 4]",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "8 (a) Fig. 8.1 shows a negatively charged conducting sphere. − − − − − − − − Fig. 8.1 On Fig. 8.1, draw the electric field pattern around the sphere. [2] (b) The current in an electrical device is 0.21 A. Calculate the charge that flows during a 75 s period of time. charge = ........................................................ [2] [Total: 4]",
+          "marks": 1,
+          "type": "structured",
+          "answer": "radial lines from sphere B1 arrows pointing towards sphere B1",
+          "image": "/papers/physics-0625-2019/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Q = I t, in any form OR 0.21 × C1 16 C A1 / October/November 2019 voltmeter shown connected across LED B1 ammeter shown connected in series with LED B1",
+          "image": "/papers/physics-0625-2019/q8-8b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "p.d. across two resistors in parallel = (3.7 – 2.1 =) 1.6 V resistance of circuit = (3.7 / 0.19) = 19.5 Ω AND resistance of LED (= 2.1 / 0.19) = 11.1 Ω B1 combined resistances of two resistors in parallel = R / OR 1 / R = 1 / R + 1 / R OR R = R R / R + R OR current in either R = I / resistance across parallel combination of resistors = (19.5 – 11.1) = 8.4 Ω B1 R = V / I in any form R = V / I in any form C1 R / = 1.6 / 0.19 R / 2 = 8.4 Ω C1 Ω Ω A1 / October/November 2019",
+          "image": "/papers/physics-0625-2019/q9-9b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) A magnet and a coil are attached separately to a door and a door frame as shown in Fig. 10.1. The purpose of the arrangement is to activate a circuit connected to an LED indicator when the door is opening or closing. This will provide a visual indication that the door is being used. N S magnet coil door indicator door frame Fig. 10.1 Init",
+      "text": "10 (a) A magnet and a coil are attached separately to a door and a door frame as shown in Fig. 10.1. The purpose of the arrangement is to activate a circuit connected to an LED indicator when the door is opening or closing. This will provide a visual indication that the door is being used. N S magnet coil door indicator door frame Fig. 10.1 Init",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) A magnet and a coil are attached separately to a door and a door frame as shown in Fig. 10.1. The purpose of the arrangement is to activate a circuit connected to an LED indicator when the door is opening or closing. This will provide a visual indication that the door is being used. N S magnet coil door indicator door frame Fig. 10.1 Init",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(i) movement of magnet relative to coil OR induces emf / pd / current (across / in LED) B1 light goes off when magnet no longer directly below coil B1 B1 door / magnet moving for shorter length of time B1 • quick response • protects against electric shock • protects against overheating • (easily) re-settable • avoids damage to lawnmower B2 / October/November 2019",
+          "image": "/papers/physics-0625-2019/q10-10a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "11 (a) The circles shown in Fig. 11.1 represent three gold nuclei. Three α-particles are approaching the gold nuclei. α-particle α-particle α-particle Fig. 11.1 On Fig. 11.1, complete the path of each α-particle. [3] (b) A detector of radioactivity in a laboratory indicates an average of 16",
+      "text": "11 (a) The circles shown in Fig. 11.1 represent three gold nuclei. Three α-particles are approaching the gold nuclei. α-particle α-particle α-particle Fig. 11.1 On Fig. 11.1, complete the path of each α-particle. [3] (b) A detector of radioactivity in a laboratory indicates an average of 16",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "11 (a) The circles shown in Fig. 11.1 represent three gold nuclei. Three α-particles are approaching the gold nuclei. α-particle α-particle α-particle Fig. 11.1 On Fig. 11.1, complete the path of each α-particle. [3] (b) A detector of radioactivity in a laboratory indicates an average of 16",
+          "marks": 1,
+          "type": "structured",
+          "answer": "top: any path to the left within 45 degrees to the horizontal B1 middle: path to the right and deflected up (ending in a straight line) B1 bottom: path to the right and deflected down (ending in a straight line) B1 B1 use or clear indication of 4 half-lives C1 (192 / 16 =) 12 A1 B1",
+          "image": "/papers/physics-0625-2019/q11-11a.png"
+        },
+        {
+          "id": "11c",
+          "text": "Part 11c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 3 different valid points e.g. • must be stored with shielding • must be stored securely / safely • must be transported with shielding • must be transported securely • expensive to store • expensive to transport • in case of accident / terrorism could escape to environment / danger to people • site of storage uninhabitable for thousands of years 3 x B1",
+          "image": "/papers/physics-0625-2019/q11-11c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 16,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit4-2019-11-42-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

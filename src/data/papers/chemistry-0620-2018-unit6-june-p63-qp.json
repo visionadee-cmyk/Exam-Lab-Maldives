@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "anhydrous copper sulfate / cobalt chloride paper turns blue / turns pink",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperature boxes completed correctly: 21, 23, 25, 27, 29, 31, 30, 29, 28",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ( ± half a small square) best-fit intersecting straight-line graphs",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly: 21, 26, 31, 32, 31, 30, 29, 28, 27",
+          "image": "/papers/chemistry-0620-2018/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly best-fit intersecting straight-line graphs value from graph where lines cross: 12 cm shown clearly at intersection 0620/63 May/June 2018 half volume of acid less / half as many moles of sodium hydroxide present / heat given out to remove traces of acid / clean / remove impurities to remove traces of water",
+          "image": "/papers/chemistry-0620-2018/q2-2d.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sources of error using a measuring cylinder or heat losses improvement use a pipette / use a burette / lag / insulation / lid",
+          "image": "/papers/chemistry-0620-2018/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "white precipitate clears / dissolves white precipitate / litmus paper turns pH >7 / turns blue",
+          "image": "/papers/chemistry-0620-2018/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "grey-green precipitate 0620/63 May/June 2018 / fuel / flammable 4 any from: • cut leaves into small pieces • grind / crush with sand / ethanol • using pestle/mortar • decant / pour-off / filter liquid • chromatography • apply extract to paper (in correct location) • description of separating colours Max 6",
+          "image": "/papers/chemistry-0620-2018/q3-3d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

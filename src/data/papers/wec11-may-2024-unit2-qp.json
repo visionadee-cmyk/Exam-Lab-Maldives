@@ -1,0 +1,43 @@
+{
+  "paperId": "wec11-may-2024-unit2-qp",
+  "pairedMarkSchemeId": "wec11-may-2024-unit2-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC12/01",
+  "session": "May 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Define the term ‘corporation tax’ (Extract A, lines 4 and 5). (2) (b) Explain what is meant by Gross National Income (Extract A, line 24). (4) (c) With reference to Extract A, analyse two reasons for the improvement in living standards in Ireland between 2015 and 2022. (6) (d) With reference to Figure 1 and Extract A, examine two reasons why Ireland’s rate of economic growth was expec",
+      "text": "12 (a) Define the term ‘corporation tax’ (Extract A, lines 4 and 5). (2) (b) Explain what is meant by Gross National Income (Extract A, line 24). (4) (c) With reference to Extract A, analyse two reasons for the improvement in living standards in Ireland between 2015 and 2022. (6) (d) With reference to Figure 1 and Extract A, examine two reasons why Ireland’s rate of economic growth was expec",
+      "parts": [
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative Skill Assessed QS2: Calculate, use and understand percentages, percentage changes and percentage point changes QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms Knowledge, Application and Analysis (8 marks) – indicative content Reference to Figure 2: In 2022 Ireland’s rate of economic growth was approximately 12.2% and approximately 2% for Germany and USA Limitations include: • Percentage changes are misleading without any reference to total GDP • Differences in the composition of GDP: most of Ireland’s GDP is made up of investment by international companies, where their output produced can be volatile – “Some of these companies are so large that the country’s GDP figures may be overstated” • Fails to indicate whether the nation’s rate of growth is sustainable or not – “Apple Inc., the world’s largest technology company, moved its European base to Ireland in 2015” • Differences in distribution of income as growth varies between countries – “mislead analysis of matters related to income inequality” • Quality of life issues, such as pollution from manufacturing: impact is hard to measure – “mislead analysis of matters related to the environment” • Methods of calculation and reliability of data may differ between countries – “large fluctuations in Ireland’s industrial production data. It rose or fell by more than 10% from one month to the next” • Currency values do not effectively calculate accurate purchasing power parity/exchange rates might not accurately reflect these differences in purchasing power of currencies • Presence of an informal and unpaid economy will imply that some output is",
+          "image": "/papers/wec11-may-2024/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-may-2024/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2024-unit2-2024-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

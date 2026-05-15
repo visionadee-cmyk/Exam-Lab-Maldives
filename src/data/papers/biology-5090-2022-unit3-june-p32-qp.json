@@ -1,0 +1,97 @@
+{
+  "paperId": "biology-5090-2022-unit3-june-p32-qp",
+  "pairedMarkSchemeId": "biology-5090-2022-unit3-june-p32-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/32",
+  "session": "May/June 2022",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "releases larger volume of juice; per unit time / faster / increased rate; more profits / money / efficient / cost effective AW; / evenly distribute (the contents); prevent contamination with enzyme / prevent transfer of enzyme; / what happens + without enzyme / with no enzyme in B AW; same overall volume (of crushed apple and liquid) / only one variable changed; for comparison / to compare; + both axes fully labelled; linear scales + value(s) at origin + good use of grid; six plots correct + clear plots; points joined with ruled lines + no extrapolation; 5090/32 May/June 2022 correct working on graph; 19.5 – 20.5; cm;",
+          "image": "/papers/biology-5090-2022/q1-1b.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(different varieties/ types / species) same volume / mass of crushed apple used; same enzyme / same volume / same concentration, of enzyme added to apple (in beaker); same temperature; mixed / stirred (apple and enzyme) + left for 5 minutes; some reference to filtering process after addition of enzyme; (filtering) time the same / time measured (for filtering) the same volume; compare or measure juice produced / reference to one producing more or most; ; 50–100 °C; contains reducing sugar; 5090/32 May/June 2022",
+          "image": "/papers/biology-5090-2022/q1-1f.png"
+        }
+      ],
+      "image": "/papers/biology-5090-2022/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "clear, continuous and clean outlines of cell + nucleus + no shading anywhere + correct orientation; E–F at least 6 cm; U-shaped nucleus occupying most of cell and touching edge of cell on right-hand side; upper part of right-hand side of nucleus smoothly rounded;",
+          "image": "/papers/biology-5090-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C white blood cell(s) + D red blood cell(s);",
+          "image": "/papers/biology-5090-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C is large(r) + D is small(er); C has a nucleus + D has no nucleus AW; C is granular / grainy + D not granular / grainy AW; C not round / not circula r / irregular + D round / circula r / regular; –; line drawn in correct position; measurement ± 1 mm; (d)(ii) ÷ measurement in (d)(i); correct calculation to 1 decimal place;",
+          "image": "/papers/biology-5090-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/biology-5090-2022/page-02.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-5090-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2022-unit3-2022-06-qp.pdf",
+    "pageImages": [
+      "/papers/biology-5090-2022/page-01.png",
+      "/papers/biology-5090-2022/page-02.png",
+      "/papers/biology-5090-2022/page-03.png",
+      "/papers/biology-5090-2022/page-04.png",
+      "/papers/biology-5090-2022/page-05.png",
+      "/papers/biology-5090-2022/page-06.png",
+      "/papers/biology-5090-2022/page-07.png",
+      "/papers/biology-5090-2022/page-08.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

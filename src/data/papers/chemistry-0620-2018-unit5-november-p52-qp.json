@@ -1,0 +1,71 @@
+{
+  "paperId": "chemistry-0620-2018-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2018",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for experiments 1–5 Times completed in seconds Times in ascending order Comparable to supervisors first and last result within ± 20 seconds",
+          "image": "/papers/chemistry-0620-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "All points plotted correctly Smooth line graph unit indication on graph More particles (of solution L present per unit volume) more frequent collisions / particles collide more often / higher collision rate Too slow / slower addition of solution / takes longer to add Measuring time taken less accurate / results less accurate and average / compare results 0620/52 October/November 2018 / crystals) White (solid) / turns into liquid Description of sublimate / condensation > 7 / blue precipitate",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any 2 points: • pH / litmus paper • >7 / blue • (Pungent) smell sulfate / change / precipitate chloride 0620/52 October/November 2018 Any 4 from • Measured volume of dilute hydrochloric acid • Use of suitable container (e.g. test tube / beaker / flask / plastic cup) • Initial temperature of acid • Add known mass of solid C • Final temperature of mixture / Calculate temperature change • Repeat with (same mass / moles of) solid D And • Bigger temperature change is bigger energy change • Temperature increase is exothermic / temperature decrease is endothermic process Max 6",
+          "image": "/papers/chemistry-0620-2018/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit5-2018-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

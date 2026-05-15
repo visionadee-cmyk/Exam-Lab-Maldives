@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2022-unit4-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit4-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "February/March 2022",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MgCO (s) + 2HC l (aq) → MgC l (q) + H O (l) + CO (g)",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "eight crosses in second shell of Mg 7 dots and 1 cross in third shell of both C l 2+ charge on Mg and – charge on both C l ions on correct answer line",
+          "image": "/papers/chemistry-0620-2022/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C atom double bonded to 2 O atoms 4 non-bonding e - on each O and no non-bonding e – on C and both octets complete gradient (of line) decreases concentration of particles (of acid) decreases lower rate of collisions of particles 0620/42 February/March 2022 a new line steeper than printed line and starts at origin and levels off earlier than printed line levels off at the same volume",
+          "image": "/papers/chemistry-0620-2022/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 mol HC l = 0.400 × 25.0 / 1000 = 0.01(00) M2 mol CO = M1 / 2 = 0.0100 / 2 = 0.005(00) M3 volume CO = M2 × 24000 = 120 (cm )",
+          "image": "/papers/chemistry-0620-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "nitrogen (from air) and oxygen (from air) react react due to high temperatures (of engine) (damp red) litmus (litmus) turns blue 8NH 7N either 6NO or 8NH all three balanced (nitrogen) loses oxygen and oxidation occur",
+          "image": "/papers/chemistry-0620-2022/q3-3a.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M r urea = 60 × 60 = 8100 and g to kg conversion = 8.1(00) kg 3( f )(i) carbon monoxide 3( f )(ii) carbon dioxide and nitrogen 0620/42 February/March 2022 arrow going from Zn to Fe Zn → Zn 2+ + 2e – Zn as only reactant and Zn 2+ as only product correct equation any metal above zinc in reactivity series any metal below iron in reactivity series and oxygen chlorine sodium hydroxide 0620/42 February/March 2022 C H → 4C H + C H C H as only reactant formulae of ethene and ethane as only products correct equation (only) one product is formed M1 Bond energy in breaking bonds = [(4 × 410) + 610 + 240] = 2490 (kJ / mol) M2 Use of total E change to find bond energy of C H C l = M1 + 180 = 2490 + 180 = 2670 (kJ / mol) M3 Determination of total C–C l bond energy = M2 – [(4 × 410) + 350] = 2670 – 1990 = 680 (kJ / mol) M4 Determination of each C–C l bond energy = M3 / 2 = 680 / 2 = 340 (kJ / mol) Same functional group 0620/42 February/March 2022 distillation structure of propanoic acid ethyl butanoate butyl ethanoate any correct displayed ester link between any two blocks showing all atoms and all bonds correct orientation of three displayed inter-block ester links with correct orientation continuation bonds on polyeste r",
+          "image": "/papers/chemistry-0620-2022/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit4-2022-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

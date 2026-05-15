@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-9618-2025-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit2-november-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "October/November 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expression Evaluates to LENGTH(NUM_TO_STR(Multiplier)) MONTH(DoB) > 4 TRUE 15 + STR_TO_NUM(MID(AddressLine[1], 2, 1)) One mark per row October/November Question Answer Marks 1 Open the file in append mode (and subsequently close) before loop 2 Initialise a variable to 1 / 0 before loop 3 Use the variable as an index to the array to access an element in a loop 4 Test if element value is blank / empty in a loop 5 If not blank then write the value to the file in a loop 6 Increment the variable in a loop 7 Repeat from MP3 until variable value is 66 / 65 / all elements (in the array) have been checked Max 6 Construct: Selection Use: To test whether the (array) element is blank Alternative: Construct: Sequence Use: To specify the order in which the steps of the algorithm have to be followed so that the task is completed correctly Question Answer Marks FUNCTION Pop() RETURNS PopData DECLARE ThisPop : PopData MP 2 IF SP < 1 // SP = 0 THEN MP 3 PopData.Exists  FALSE // Stack is empty MP 1 ELSE PopData.Data  ThisStack[SP] MP 4 PopData.Exists  TRUE MP 1 SP  SP – 1 MP 5 ENDIF RETURN ThisPop` ENDFUNCTION Mark as follows: MP 1 One mark for both assignments to PopData.Exists (FALSE and TRUE) MP 2, 3, 4 ,5 One mark for each of remaining four bold parts October/November Question Answer Marks 4 Example solution: PROCEDURE Store() DECLARE Index, StartPos, ThisNum : INTEGER DECLARE ThisString : STRING Index  1 StartPos  1 WHILE StartPos < LENGTH(NumString) AND Index < 21 ThisString  MID(NumString, StartPos, 3) ThisNum  STR_TO_NUM(ThisString) Data[Index]  ThisNum Index  Index + 1 StartPos  StartPos + 4 ENDWHILE ENDPROCEDURE Mark as follows: 1 Declare all local variables used 2 Conditional loop while end of string not reached 3 ... and array not full 4 Attempted use of MID() // Attempted use of Right() and Left() 5 Correct extraction and use next three letter substring from NumString in a loop 6 Convert to integer and assign value to array element in a loop 7 Correct increment",
+          "image": "/papers/computer_science-9618-2025/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Zones 1 to 4 : One mark for each set of values as shown Zone 5: Num[4] set to 6 when Index is 7 and Num[1] set to 3 when index is 3 for second time 1 TO 2 : Num[Index]  Num[Index] + Index Index  Index + CaseVar Count  Count + CaseVar One mark per point: • use of variable CaseVar rather than literal values • completely correct clause Question Answer Marks 1 Create a list of numbers that should generate all of the possible check digit values 2 and check that each / the / a generated value is as expected Zone 1 Zone 2 Zone 3 Zone 4 Zone 5 October/November Question Answer Marks Example solution – conversion to string and using a loop FUNCTION CheckNumber(Number : INTEGER) RETURNS BOOLEAN DECLARE Total, Index, CheckDigit : INTEGER DECLARE NumString : STRING Total  0 NumString  NUM_TO_STR(Number) CheckDigit  STR_TO_NUM(RIGHT(NumString, 1)) // CheckDigit  Number MOD 10 FOR Index  1 TO LENGTH(NumString) – 1 // 1 TO LENGTH(NUM_TO_STR(Number DIV 10)) Total  Total + STR_TO_NUM(MID(NumString, Index, 1)) ENDFOR IF Total MOD 10 <> CheckDigit THEN RETURN FALSE ENDIF RETURN TRUE ENDFUNCTION Mark as follows: 1 Function Header including Identifier, parameters and return type 2 Use of Num_TO_STR to convert parameter // Use of Num_TO_STR to convert parameter excluding least significant digit to a string 3 Extract CheckDigit from NumString // Extract least significant digit from parameter 4 Loop for length of NumString – 1 following correct convesrion to string 5 attempt to form sum of digits in a loop 6 completely correct sum of digits in a loop and of sum initialised before loop 7 Calculate check digit from sum 8 Compare sum with final digit of parameter and return appropriate Boolean value Max 7 October/November Question Answer Marks FUNCTION CheckNumber(Number : INTEGER) RETURNS BOOLEAN DECLARE Sum, CheckDigit, Remainder: INTEGER Remainder  Number MOD 10 Number  Number DIV 10 CheckDigit  Remainder Sum  0 WHILE Nummer > 0 Remainder  Number MOD 10 Number  Number DIV 10 ",
+          "image": "/papers/computer_science-9618-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each: 1 S2 to S5 labelled 2 Label A1 added to event from S1 to S2 3 Event lines from S2 to S3 and S3 to S2 correctly labelled 4 Events lines from S3 to S3 and event line from S3 to S4 all labelled correctly 5 Event lines from S4 to S5 correctly and event line from S4 to S2 labelled correctly Max 4 for any additional events/lines October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2025/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each: 1 All boxes correctly labelled and connected in correct hierarchy 2 BYREF parameter to Restart, parameter to Confirm and return 3 Diamond and loop symbol 4 Parameter to Update and return from Modify October/November Question Answer Marks PROCEDURE LoanStatus(ThisStudentID, ThisBookID : STRING) DECLARE Index : INTEGER DECLARE Found : BOOLEAN Index  1 / 0 Found  FALSE WHILE Index <= 8000 / 7999 AND NOT Found IF Loan[Index].StudentID = ThisStudentID AND Loan[Index].BookID = ThisBookID THEN IF Loan[Index].OnLoan = FALSE THEN OUTPUT \"Loan has been returned.\" ELSE OUTPUT \"Loan has not been returned.\" ENDIF Found  TRUE ENDIF Index  Index + 1 ENDWHILE IF NOT Found THEN OUTPUT \"Warning - Loan not found.\" ENDIF ENDPROCEDURE Mark as follows: 1 Procedure heading, parameters and ending 2 Loop through all elements in Loan array 3 ... or until record loan is found 4 Test for correct StudentID in a loop 5 ... and correct BookID 6 ... check OnLoan data item 7 ... and output both messages as appropriate regarding book loan status once 8 If no matching loan found, Output 'not found' after the loop October/November Question Answer Marks FUNCTION LoansPerTutor(TutorID : STRING) RETURNS INTEGER DECLARE Index, Count : INTEGER Count  0 FOR Index  1 / 0 TO 8000 / 7999 IF LEFT(Loan[Index].StudentID, 3) = TutorID AND Loan[Index].OnLoan = TRUE THEN Count  Count + 1 ENDIF NEXT Index RETURN Count ENDFUNCTION Mark as follows: 1 Initialise local integer for Count 2 Loop through all elements in the Loan array 3 Attempt at referencing a data item in a loop 4 Extract TutorID from Loan[Index].StudentID in a loop 5 Test for Matching Tutor AND test if the book has been returned using correct dot notation in a loop 6 ... if true then increment Count in a loop 7 Return count 1 Include (a suffix string based on) the date of the archive / the next number in sequence 2 Concatenate with a root filename such as 'Archive' OnLoan will have to be converted to text Benefit: Algorithm to s",
+          "image": "/papers/computer_science-9618-2025/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit2-2025-11-21-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

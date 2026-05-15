@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-9618-2025-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit2-june-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "May/June 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Example value Explanation Variable name Data type \"Fruit\" a category of stock that is sold in the shop Category STRING 20/02/2025 when an item was sold DateSold DATE 12.67 the cost of an item (Item)Cost/Price REAL TRUE to indicate if an item is in stock (Item)InStock BOOLEAN Mark as follows: 1 mark per row for each variable name and data type",
+          "image": "/papers/computer_science-9618-2025/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Pseudocode extract Assignment Selection Iteration Result  CalculateTotal() ✓ WHILE IsClosed ✓ REPEAT INPUT Value UNTIL Sales[4] > Value ✓ ✓ IF Sales[Current] <= 150 THEN Discount  TRUE ENDIF ✓ ✓ CASE OF Option ✓ Mark as follows: One mark for each correct row MP1 Breaking down a problem into sub problems MP2 In order to explain / understand the process/task of how a (stock control) can be managed in more detail MP3 Leading to the concept of the program designed as a series of modules / procedures / functions // or by example of different stock control modules MP4 Makes the program easier to test / debug Max 3 Max 2 if no mention of stock control May/June 2025 Question Answer Marks The first decision symbol is wrong MP2 The first decision should check for values greater than or equal to 2000 Max 1 MP1 Swap around the two decision boxes MP2 The first decision box should check for values greater than or equal to 2000 and the second decision box should check for values above 4000 Max 1 MP2 Makes the program easier to understand MP3 Avoids repeatedly writing the same value throughout the program MP4 A change to the value requires a change in only one statement Max 2 MP2 Provides functionality / code that the programmer may find difficult to code themselves Max 1 MP2 Rules of programming language // the language grammar was not followed MP3 Run-time (error) MP4 The program performs an illegal operation Mark as follows: One mark for naming each type of error and one mark for the description May/June 2025 Question Answer Marks 3 Example solution: DECLARE GeneratedValue : INTEGER DECLARE Guess : INTEGER GeneratedValue  INT(RAND(100)) + 1 REPEAT OUTPUT \"Enter a guess between 1 and 100: \" INPUT Guess IF Guess > GeneratedValue THEN OUTPUT \"Guess was too high\" ENDIF IF Guess < GeneratedValue THEN OUTPUT \"Guess was too low\" ENDIF UNTIL Guess = GeneratedValue OUTPUT \"Number guessed correctly\" MP1 Declare all variables used MP2 Uses RAND() function MP3 Uses INT() function MP4 Cor",
+          "image": "/papers/computer_science-9618-2025/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I Key J Chars[J] Chars [1] [2] [3] [4] 2 'D' 'T' 'H' 'R' 'T' 1 'D' 'H' 2 'T' 'T' 'D' 'H' 'R' 3 'T' 'T' 2 'H' (‘R’) 'R' Chars array final values 'D' 'H' 'R' 'T' Mark as follows: MP1, MP2, MP3, MP4, MP5 1 mark per enclosure MP1 MP2 MP3 MP4 MP6 MP5 May/June 2025 Question Answer Marks 5 MP1 Pop an item off the stack MP2 Update Stack pointer MP3 Add it to the queue MP4 Update Rear pointer MP5 Repeat until the stack is empty MP6 Remove an item from the queue MP7 Update Front pointer MP8 Push it onto the stack MP9 Update the Stack pointer MP10 Repeat until the queue is empty Max 7 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2025/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Type of test data Test data value Expected outcome normal 36 data item is accepted boundary/ extreme/ normal 0 / 1 data item is accepted boundary/ extreme/ normal 59 / 60 data item is accepted abnormal >= 61 data item is rejected normal 15 data item is accepted Mark as follows: 1 mark for each row with (Type and Value and Outcome) May/June 2025 Question Answer Marks PROCEDURE Sort() DECLARE Temp, J, Boundary : INTEGER DECLARE NoSwaps : BOOLEAN Boundary  1999 REPEAT NoSwaps  TRUE FOR J  1 TO Boundary IF Reading[J, 1] > Reading[J+1, 1] THEN //first swap sensor value Temp  Reading[J, 1] Reading[J, 1]  Reading[J+1, 1] Reading[J+1, 1]  Temp //now swap corresponding ID Temp  Reading[J, 2] Reading[J, 2]  Reading[J+1, 2] Reading[J+1, 2]  Temp NoSwaps  FALSE ENDIF NEXT J Boundary  Boundary - 1 UNTIL NoSwaps = TRUE ENDPROCEDURE MP1 Procedure heading and ending MP2 Conditional loop correctly formed including Boolean flag declared and initialised MP3 An inner loop MP4 Correct range 1 to 1999 for inner loop MP5 Comparison of element J with J+1 in a loop MP6 Declare Temp variable and swap elements in a loop MP7 Both SensorID and Speed values were swapped in a loop MP8 'No-Swap' mechanism: • Conditional outer loop including flag reset • Flag set in inner loop to indicate swap MP9 Reducing Boundary in the outer loop May/June 2025 Question Answer Marks FUNCTION CustomerOrder(Number, Points : INTEGER) RETURNS INTEGER DECLARE NewPoints, NumberFree: INTEGER NewPoints  Points + Number NumberFree  0 WHILE NewPoints >= 11 AND Number > 0 NumberFree  NumberFree + 1 NewPoints  NewPoints -11 Number  Number - 1 END WHILE OUTPUT \"Number of free coffees is: \", NumberFree RETURN NewPoints ENDFUNCTION MP1 Function header and ending and parameters and return type MP2 Number of coffees ordered added to points MP3 Correct calculation of one free coffee MP4 Attempted calculation of multiple free coffees and reduced NewPoints MP5 Output number of free drinks with suitable message MP6 Re",
+          "image": "/papers/computer_science-9618-2025/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sketch less steep at beginning to same level / volume / final amount of gas / calcium hydroxide solution milky / cloudy / white ppt.",
+          "image": "/papers/chemistry-0620-2018/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial temperatures all 21 AND final temperatures 18, 17, 15 temperature changes –3, –4, –6",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial temperatures 22, 22, 21, 22 AND final temperatures 26, 27, 29, 33 temperature changes +4, +5, +8, +11",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ( ± half a small square) best-fit straight-line graphs labels D (upper) and C (lower) or (expt.) 2 and 1 0620/62 May/June 2018",
+          "image": "/papers/chemistry-0620-2018/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph, –8 °C extrapolation / °C / °C heat lost to surroundings",
+          "image": "/papers/chemistry-0620-2018/q2-2d.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "half as much",
+          "image": "/papers/chemistry-0620-2018/q2-2g.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change in apparatus or method e.g. use a pipette / burette or use insulation / lid explanation e.g. as more accurate / precise, than a measuring cylinder / reduce heat losses compare / average",
+          "image": "/papers/chemistry-0620-2018/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(pale) green (solid / crystals) / no reaction / no precipitate / no observation precipitate 0620/62 May/June 2018 4 any from: • hydrochloric acid in burette / measuring cylinder (solutions can be reversed) • measured volume of barium hydroxide solution (solutions can be reversed) • in named container e.g. beaker / (conical) flask • (named) indicator (ignore Universal Indicator) OR pH meter • acid added gradually / slowly / dropwise / dripped • until colour changes / endpoint / neutral / pH 7 • note volume added / initial and final volumes • calculation (using volumes and concentration of the acid) max 6",
+          "image": "/papers/chemistry-0620-2018/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

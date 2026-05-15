@@ -1,0 +1,103 @@
+{
+  "paperId": "wph11-may-2024-unit2-qp",
+  "pairedMarkSchemeId": "wph11-may-2024-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "May 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푛휆=푑sin ( 휃 ) 휆=3.9×10 −7 m Example of calculation 휆= 1.62×10 −6 m×sin ( 14° ) =3.919×10 −7 m (1) (1) Total for question 12 4 Number Answer Mark",
+          "image": "/papers/wph11-may-2024/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푣= 푠 푡 Halves distance or doubles time Distance = 28 m Example of calculation 푠=1500 m s −1 ×37×10 −3 s=55.5 m 55.5 m =27.8 m (1) (1) (1) Or T (should be) > time for the echo to return So if T increases, the maximum distance increases (1) (1) This gives better resolution (dependent on MP1) Or Higher frequency sound waves will diffract less (1) (1) Total for question 13 7 Number Answer Mark length Or 휌= 푅퐴 푙 with terms defined (1) Measure the thickness of the material using a micrometer Or Measure the thickness of the material using vernier callipers Use an ammeter and voltmeter to determine the resistance using 푅= 푉 퐼 Or Use an ohmmeter to measure the resistance of the sample Use 휌= 푅퐴 푙 to determine the resistivity Or valid description of a graph and gradient calculation to determine the resistivity (1) (1) (1) (1) I = nAvq so (for a given current) drift velocity is small (1) (1) So each panel dissipates the same power, and power output of the system increases OR As more panels are connected, the resistance (of the system) decreases (and potential difference remains the same) And 푃= 푉 푅 so power output of the system increases OR As more panels are connected, the current in the power supply increases (and potential difference across each panel is the same) And P = VI so power output of the system increases OR As more panels are connected, the current in the power supply increases and the resistance of the system decreases by the same factor And P = I R so power output of the system increases (1) (1) (1) (1) (1) (1) (1) (1) Use of 휌= 푅퐴 푙 Use of 푅 total = 푅 1 panel Use of 푃= 푉 푅 680 W is greater than 350 W so the system is not safe OR Use of A = length × thickness Use of 휌= 푅퐴 푙 Use of 푃= 푉 푅 Use of 푃 total =5×푃 1 panel 680 W is greater than 350 W so the system is not safe Example of calculation 퐴=1.60 m×0.48×10 −3 m=7.68×10 −4 m 푅= 6.4×10 −3 Ω m×0.51 m 7.68×10 −4 m =4.25 Ω 푅 total = 4.25 Ω =0.85 Ω 푃= (24 V) 0.85 Ω =678 W (1) (1) (1) (1) (1) (1) (1) (1) (1) (1",
+          "image": "/papers/wph11-may-2024/q13-13a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q13.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15d",
+          "text": "Part 15d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푣=푓휆 Use of 휆=4×퐿 f = 300 Hz Example of calculation 휆=4×0.282 m=1.13 m 푓= 340 m s −1 1.13 m = 301 Hz (1) (1) (1) Total for question 15 11 Number Answer Mark Or The resistance of the LDR increases, so the LDR has a greater p.d. So the p.d. across the fixed resistor decreases (dependent on MP1) (1) (1)",
+          "image": "/papers/wph11-may-2024/q15-15d.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉=퐼푅 Use of R LDR : R resistor = 3:2 R LDR = 33 Ω OR Use of V LDR : V resistor = 3:2 Use of 푉=퐼푅 R LDR = 33 Ω Example of calculation 푅 resistor = 0.62 V 28×10 −3 A =22.1 Ω 푅 LDR =22.1 Ω× =33.2 Ω OR 0.62 V × =0.93 V 푅 LDR = 0.93 V 28×10 −3 A = 33 Ω (1) (1) (1) (1) (1) (1) Total for question 16 5 Number Answer Mark Use of 퐸=ℎ푓 푓=5.19×10 Hz Example of calculation 푓= 3.44×10 −19 J 6.63×10 −34 J s =5.189×10 Hz (1) (1) *17(a)(ii) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. IC1 The potential difference causes a current in the gas / tube IC2 So energy is transferred to the gas atoms IC3 Electron/atom gains (sufficient) energy to move up energy levels IC4 An (excited) electron (is unstable and) falls back down emitting a photon IC5 With a wavelength/frequency corresponding to the difference in the energy levels Or reference to E = hf or 퐸 ∝ 푓 IC6 Electrons/atoms exist in discrete/fixed/certain energy levels so only certain frequencies / wavelengths are emitted IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured Use of 1 eV = 1.6 × 10 −19 J Use of ℎ푓= 휙+ 푚푣 max 푣 max = 5.34 × 10 m s −1 Example of calculation 4.75 eV× 1.6×10 −19 J eV −1 =7.6×10 −19 J 7.6×10 −19 J=6.3×10 −19 J+ ×9.11×10 −31 kg×푣 max 푣 max =534 000 m ",
+          "image": "/papers/wph11-may-2024/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q16.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit2-2024-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

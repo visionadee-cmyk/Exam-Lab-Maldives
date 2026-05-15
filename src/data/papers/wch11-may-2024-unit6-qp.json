@@ -1,0 +1,59 @@
+{
+  "paperId": "wch11-may-2024-unit6-qp",
+  "pairedMarkSchemeId": "wch11-may-2024-unit6-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH16/01",
+  "session": "May 2024",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• moles of salicylic acid • mass of methanol • moles of methanol and 2.4719 (mol) > 0.14493 (mol)/ 2.32697 mol in excess Alternative solution using masses instead of moles for M3 0.14493 (mol) × 32 = 4.64 (g) of methanol and 79.1(g) > 4.64(g) / the methanol is 74.46 g in excess (1) (1) (1) Example of calculation: Ignore early and incorrect rounding or truncating 20.0/138.0 = 0.14493 (mol) 100 x 0.791 = 79.1 (g) 79.1/32.0 = 2.4719 (mol) Allow just methanol is in excess if both mol have been calculated Ignore SF except 1 SF TE for wrong moles in M3 as long as methanol moles are greater than salicylic acid moles A ratio of 17:1 will score 3 marks (3) Number Answer Additional Guidance Mark • acts as a catalyst Allow it catalyses the reaction Ignore just speeds up the reaction Ignore supplies hydrogen ions/acidifies the reaction Ignore dehydrates Ignore any reference as to how it acts as a catalyst even if wrong. (1) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-may-2024/q4-4a.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• round-bottomed / pear-shaped flask containing mixture and heat • vertical condenser with water jacket and water flowing in the correct direction • no gaps and open condenser and apparatus would work (1) (1) (1) Example of diagram Heat HEAT Allow any indication of heat including an arrow or water bath or electrical heater or Bunsen burner Ignore missing anti-bumping granules Do not award conical flask or flask with no liquid Ignore thermometer Do not award if the condenser and flask are one piece of apparatus unless both are labelled Allow just M1 for distillation apparatus (3) Number Answer Additional Guidance Mark • add sodium carbonate (solution) to the separating funnel (stopper it) and invert/shake/ swirl/agitate/mix • open the stopcock/tap to release the pressure/gas/ carbon dioxide (1) (1) Allow add sodium carbonate (solution) to the funnel and invert/shake/ swirl/agitate/mix Allow add it to the separating funnel and invert/shake/ swirl/ agitate/mix Ignore any reference to layers Allow remove the stopper to release the pressure/gas/carbon dioxide Allow opening the funnel to release the pressure/gas/carbon dioxide Ignore subsequent steps (2) (Total for Question 4 = 12 marks) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-may-2024/q4-4c.png"
+        },
+        {
+          "id": "4e",
+          "text": "Part 4e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• moles of salicylic acid (no mark as already awarded in (a)) • M r methyl salicylate • maximum mass of methyl salicylate • percentage yield calculation and answer to 2 or 3 SF Common wrong answers Using a Mr of 153 gives an answer of 63.587% and will score 2 if 2-3 SF Using a Mr of 140 gives an answer of 69.492% and will score 2 if 2-3 SF (1) (1) (1) Example of calculation: Ignore intermediate rounding and truncating 20.0/138.0 = 0.14493 (mol) 152 (g mol −1 ) 152 x 0.14493 = 22.029 (g) 14.1÷ 22.029 x 100 = 64.007 64 (%)/64.0 (%) Correct answer with some working scores 3 TE on wrong molar mass for M2 but only allow M3 if percentage is less than 100%. If no attempt has been made at calculating the M r of methyl salicylate score 0. (3) Number Answer Additional Guidance Mark • (hold damp) red litmus paper (over the mouth of the flask and it) will turn blue • repeat until the litmus paper remains red/no colour change Allow testing with concentrated HCl producing white smoke/ solid for M1 and no longer producing white smoke for M2 (1) (1) Allow UI/full range paper and a change to blue/purple Allow just litmus turns blue Allow until the test is negative Allow damp red litmus no longer turns blue OWTTE score 2 Ignore until it no longer smells Do not award placing the litmus into the conical flask. Score 0. (2) Number Answer Additional Guidance Mark • corrosive and toxic Allow poisonous for toxic (1) Number Answer Additional Guidance Mark An answer that makes reference to one of the following points: • carry out in a fume cupboard or wear gloves (when testing the vapours) Allow carry out in a well-ventilated laboratory Ignore wearing a gas mask Ignore use tongs etc (1) Number Additional Guidance Mark • moles of NaOH at the start • moles of HCl equals moles of NaOH at the end • moles of NaOH used up/moles of NH X • molar mass of NH X (1) (1) (1) (1) Example of calculation 50.0 × 1.00 ÷ 1000 = 0.05 (mol) 26.80 × 1.00 ÷ 1000 = 0.0268 (mol) 0.05 – 0.0268 = 0.0232 (mol) 2.27 ÷ 0",
+          "image": "/papers/wch11-may-2024/q4-4e.png"
+        }
+      ],
+      "image": "/papers/wch11-may-2024/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2024-unit6-2024-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

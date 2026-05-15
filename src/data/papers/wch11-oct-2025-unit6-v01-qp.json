@@ -1,0 +1,51 @@
+{
+  "paperId": "wch11-oct-2025-unit6-v01-qp",
+  "pairedMarkSchemeId": "wch11-oct-2025-unit6-v01-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH16/01",
+  "session": "October 2025",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An explanation that makes reference to the following points: Any test to distinguish between propan-1-ol and propanoic acid • any indicator e.g. blue litmus • propanoic acid turns red OR • addition of Mg / any carbonate / any hydrogencarbonate • effervescence / bubbles with propanoic acid OR • (heat) sodium / potassium dichromate(VI) and (dilute) sulfuric acid • turns (from orange to) green with propan-1-ol OR • addition of any carboxylic acid and (conc) sulfuric acid • sweet / fruity ester smell with propan-1-ol OR • addition of any alcohol acid and (conc) sulfuric acid • sweet / fruity ester smell with propanoic acid (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) Do not award a test already mentioned (a) Do not award PCl Ignore pH meter (not a chemical test) Do not award addition of sodium Allow reverse argument Allow additional reactions on gas produced e.g. limewater cloudy if they have not mentioned bubbles Allow reverse argument Allow Cr O 2− / H + Allow acidified for sulfuric acid Allow reverse argument Allow reverse argument Allow reverse argument (2) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-oct-2025/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • pentan-3-one / CH CH COCH CH • (there are 2 sets of peaks so) 2 proton/hydrogen environments • the CH is a triplet and the CH is a quartet (1) (1) (1) Allow CH split three times and CH split four times This can be shown by a labelled formula Ignore any reference to peak areas, ppm or n+1 rule (3) (Total for Question 1 = 12 marks) Number Answer Additional Guidance Mark • using a teat pipette / dropping pipette • added dropwise / drop by drop (at the beginning) (1) (1) Allow use a burette Allow dropper Ignore just pipette but it will allow access to M2 Ignore slowly and shaking (2) Number Answer Additional Guidance Mark • white and precipitate / solid • precipitate dissolves (in excess solution) (1) (1) Allow ppt / ppte / solid throughout Ignore any descriptors e.g. gelatinous Allow forms colourless solution Ignore just turns colourless Ignore disappears (2) Number Answer Additional Guidance Mark • white and precipitate / solid Allow ppt / ppte / solid throughout Ignore formulae Do not award if any additional observations are given e.g. bubbles (1) Number Answer Additional Guidance Mark • sulfuric acid contains sulfate/ SO 2- ions (so the test would always give a positive result even if the compound being tested was not a sulfate) Allow barium chloride would react with the sulfuric acid giving a (white) ppt (1) Number Answer Additional Guidance Mark • A (high resistance) voltmeter • B copper/ Cu • C Cu 2+ (aq) • D Zn 2+ (aq) (2) All 4 correct = 2 marks 2-3 correct = 1 mark Ignore any reference to anode/cathode Allow copper((II)) sulfate solution / CuSO (aq) Allow any soluble copper (II) salts eg CuCl (aq) Allow zinc sulfate solution / ZnSO (aq) Allow any soluble zinc salts eg ZnCl (aq) Ignore just copper/ zinc ions Penalise lack of aq/ solutions once only in C and D (2) Number Answer Additional Guidance Mark • (strip of) filter paper (cut to size) • dipped into a (saturated) solution of potassium nitrate / KNO ",
+          "image": "/papers/wch11-oct-2025/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2025/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-oct-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2025-unit6-2025-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

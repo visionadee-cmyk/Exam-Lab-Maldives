@@ -1,0 +1,217 @@
+{
+  "paperId": "wma14-oct-2023-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma14-oct-2023-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA14/01",
+  "session": "October 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) show that d d x t k x = where k is a constant to be found, (4) (b) show that d d V t V p = where p is a constant to be found. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _________________________________________________________________________________",
+      "text": "1 (a) show that d d x t k x = where k is a constant to be found, (4) (b) show that d d V t V p = where p is a constant to be found. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _________________________________________________________________________________",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) show that d d x t k x = where k is a constant to be found, (4) (b) show that d d V t V p = where p is a constant to be found. (3) _____________________________________________________________________________________ _____________________________________________________________________________________ _________________________________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 (2 5 )1 x x − −  −= −   or e.g. x  −   B1 () ()()()()() 812... 422!23!2 xxx  −  −−  −  −      =  + −  − + −+ −           M1A1 () 25x− 2 10125 ... xxx= + ++ A1 (4) Alt (a) by direct expansion ()()()() 8 (2 5 ) 82 ,2 252525 2!3! x xxx − −−−− − − −− − −  = + −− +− +−   B1, M1A1 () 25x− 2 10125 ... xxx= + ++ A1 (b) x o.e. B1 (1) (5 marks) (a) B1: For taking out a factor of 2 or − from (2 5 )x − − to obtain e.g. ()() 1 ..., 21 ... −− −  . May be implied by a constant term of 2 or by e.g. () 2 1 ... −  The “8” is likely to be present but it is not required for this mark. M1: For the form of the binomial expansion () 1ax − + Requires the correct structure for either term three or term four. Allow a slip on the sign. So allow for either ()() () ax −  −  or ()()() () 3! ax −  −  −  where a ≠ 1, could be −5 but must be the “a” in their () \" 2\" 1ax −  . Condone missing brackets around the “ax” for this mark. A1: Any unsimplified or simplified but correct form of the binomial expansion for x −  −   Ignore the factor preceding the bracket for this mark and ignore any extra terms if found. Score for () ()()()()() 22!23!2 xxx −  −−  −  −     + −  − + −+ −         o.e. Brackets must be present unless they are implied by later work. Allow x    for x  −   . The simplified form is 1 5... xxx+ +++ Allow as a list of terms. A1: cao 2 10125 ... xxx+ ++ This must be simplified and allow as a list of terms. Allow equivalents for e.g. 37.5 and ignore any extra terms. Do not isw and mark the final answer. E.g. Fully correct work leading to 2 10125 ... xxx+ ++ followed by 4 2075250 ...xxx= + ++ loses the final mark. Alternative to (a) by direct expansion B1: This is awarded for (2 5 )2....x − − −= + which may be implied by a final answer of 2 + ... M1: For the form of the expansion of (2 5 )x − − Requires the correct structure for either term three or term four. Allow a slip on the si",
+          "image": "/papers/wma14-oct-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or uses 6Sx= or d d S t = B1 States or uses 6Sx= and d d S t = B1 Attempts to use ddddd 4 12... ddddd SSxxx x txttt =   =   = M1 d1 d3 x tx = oe A1 (4) (a) Alt States or uses 6Sx= or d d S t = B1 States or uses 6Sx= and d d S t = B1 ddd 44664124... ddd Sxx St cSxxt cx ttt =  = +  =  = + =  = or dd 664124... dd tx Sxxt cx xt =  = +  =  = M1 d1 d3 x tx = oe A1 (b) States or uses d d V x x = B1 Attempts to use dddd1 dddd3 VVxV xx txttx =   =  = M1 d d V V t = A1 (3) (b) Alt d ,664 d S Vx SxSVV V − ==  =  = B1 Attempts to use ddd1 ddd VVS tSt V − =  = M1 d d V V t = A1 (7 marks) (a) Condone the use of different variables provided the intention is clear. This will most likely be the use of A rather than S for surface area. B1: States or uses 6Sx= or d d S t = (ignore any units associated with either) Note that 6Sx= may be implied by d d S x x = B1: States or uses 6Sx= and d d S t = (ignore any units associated with either) Note that 6Sx= may be implied by d d S x x = M1: Attempts to use ddd ddd SSx txt = or equivalent with their d d S x and d d S t where d d S kx x = and d d S t is a constant, in an attempt to find d d x t . May be implied by their working. A1: d1 d3 x tx = oe e.g. , 12xx from correct work and apply isw once a correct answer is seen. Allow correct work leading to e.g. . k= The d \"\" d x t = must appear at some point in their working for this mark. (a) Alt. B1: States or uses 6Sx= or d d S t = (ignore any units associated with either) Note that 6Sx= may be implied by d d S x x = B1: States or uses 6Sx= and d d S t = (ignore any units associated with either) Note that 6Sx= may be implied by d d S x x = M1: Integrates d d S t = to obtain S = 4t + c or S = 4t and replaces S in terms of x and differentiates wrt t or wrt x to obtain d d x x t = or d d t x x = A1: d1 d3 x tx = oe e.g. , 12xx from correct work and apply isw once a correct answer is seen. Note that d1 d3 x tx = sometimes comes from incorrect work so check their m",
+          "image": "/papers/wma14-oct-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3i",
+          "text": "Part 3i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "222 e dee d xxx xxxxx=−  M1 11e eed x xx xxx   =−−     M1 11e ee x xx xx=−+ A1 11ee1 e dee8e2e x xxx xxxx   =−+= − + −    M1 25e1 =− A1 (5) (i) Condone the omission of “dx” throughout M1: Attempts to integrate by parts once to achieve ee d ,,0 xx PxQ xxP Q−  M1: Attempts to integrate e x x to achieve ee d ,0 xx xx  A1: 11e e dee x xxx xxxx=−+  which may be unsimplified and isw once a correct answer is seen. Watch for () 2 222 11e e dee x xxx xxxxc  =−−+    which scores all 3 marks. ISW after sight of this. Watch for D & I method which may be seen. You will just see the answer here. = 2 222 eee xxx xx−+ Score M2 for eee ,0 xxx AxBxCA and then A1 for () 11e ee x xx xxc−+ + M1: Attempts to substitute both limits into an expression of the form eee ,0, xxx AxBxCA subtracts either way round, and simplifies to the form e0  + where α and β are numeric. (Allow if the e terms are not combined) A1: 25e1 − or exact simplified equivalent e.g. 25e1 ,e   −−      . Do not condone “+ c” here. D I x e x 2x e x e x e x + + − (ii) 1. d d u ux x = −  = or e.g. d2dux= OR 2. ()() d 214 21 d u uxx x = −  =− or e.g. () d4 21 duxx=− OR 3. d d u ux x =  = or e.g. d2dux= B1 1. () 422 1 21dd xu uxxu x u + = − = −  OR 2. () () 21dd xu uxxu u u x + = − = −  OR 3. ()() 2dd xu uxxu xu = = −−  M1 A1 1. dlnuu uu u  += −    OR 2. dln uu u u u   +=−     OR 3. () ()()() d1d1ln1 u uu uuu uu u u −− = − − += − − + − − −  dM1 A1 1. Uses limits 5u= to 20 :u= ln 20ln 5   − − −     OR 2. Uses limits 25u= to 400 :u= ln 400ln 25   − −−     OR 3. Uses limits 6u= to 21:u= ln 20ln 5   − − −     M1 ln 4 =+ A1 (7) (12 marks) Note that ‘u’ = 2x – 1 is by far the most common approach. (ii) B1: Uses an appropriate substitution and differentiates correctly. See scheme for 3 examples. Note that for case 2. () d1 2d4 u x uxxu u − + = −  = = is also correct and scores B1 M1: Valid attempt",
+          "image": "/papers/wma14-oct-2023/q3-3i.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Assume that there exists a positive number k such that 6k k + B1 69 6kkk k +   +  69 0kk − +  or ()() 660......0kkkk kk +   + −   or 6361836 0kkk kk k  +   +   + + −     M1 () 30k −  or 0k k    −   or 0k k   −     A1 But numbers squared are , hence 6k k + A1* (4) (b) E.g. When 3,k=− () − + = − − which is not B1 (1) (b) Alt 000kk kk     +  which is not B1 (5 marks) (a) B1: For setting up the correct contradiction. It must include a word/words such as “assume” or “let” and must be a strict inequality. As a minimum accept just “assume/let 6k k + ”. Condone e.g. Assume that for all positive numbers k, 6k k + M1: Starting from 6k k + or 6k k + or 6k k += , either • multiplies by k and attempts to reach ... 0k or ...0k or ... 0k= • collects terms to one side to reach 6//0k k +  = and attempts to factorise to ()() ......//0kk= • squares both sides and collects terms to reach ... 0k or ...0k or ... 0k= A1: Reaches () 3 ...0k− or e.g. ...0k k   −   or e.g. ...0k k  −    where ... is < or  or = A1*: For a fully correct proof. Requires • correct calculations/algebra • a reason: “numbers squared are 0 “this is impossible”, “numbers squared are not negative” • a minimal conclusion. E.g. hence 6k k + , hence proven, QED, etc. but not just “contradiction” Alternatives for A1A1*: 1. Using discriminant: A1: 464 9 0bac− = −  = so one root and ‘positive’ quadratic A1*: For a fully correct proof. Requires • correct calculations/algebra • a reason e.g. so 690kk−+ or curve is on or above the x/k axis • a minimal conclusion. E.g. hence 6k k + , hence proven, QED, etc. but not just “contradiction” 2. Via sketch: A1: Sketches 69ykk= − + : A1*: For a fully correct proof. Requires • correct calculations/algebra • a reason e.g. graph always on or above (or never below) the x-axis so 690kk−+ • a minimal conclusion. E.g. hence 6k k + , hence proven, QED, etc. but not just “contradiction” 3. Via differentiation: A1: d6",
+          "image": "/papers/wma14-oct-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 4yxx yk− += d d y yy x → M1 d d y x yxyx x →+ M1 dd dd yy yxx ykyxxyx xx − += − + += A1 d d y yxxxy x  += −   M1 d28 d yxxy x yx − = + A1 (5) (b) d d y x =− at P M1 Uses d d y x = and y = x to set up and solve equation in x, y or ‘p’ pp p pp −  − = = + M1 A1 e.g. \"2\" \"2\"4 \"2\"k= − +  ddM1 36k= A1 (5) (10 marks) (a) Allow equivalent notation for the d d y x e.g. y  M1: Differentiates d d y yPy x → M1: Uses the product rule to differentiate 4xy and obtains d d y Qxy Rx x + A1: Correct differentiation including the “ = 0” which may be implied by subsequent work. Note that some candidates have a spurious d ... d y x = at the start (as their intention to differentiate) and this can be ignored for the first 3 marks so condone ddd ddd yyy yxxyx xxx =− + += Allow versions such as 3 d2 d8 d4 d0y yx xxy xx y−++= M1: Dependent upon having achieved two different terms in d d y x , one from each of the terms y and 4xy . Look for () dd ... ......... dd yy xx =  = which may be implied by their working. For those candidates who had a spurious d ... d y x = at the start, they may incorporate this in their rearrangement in which case they will have 3 terms in d d y x and so score M0. If they ignore it, then this mark is available for the condition as described above. A1: d28 d yxxy x yx − = + or exact equivalent e.g. d82 d yxyx x yx − = −− (b) M1: States or uses d d y x =− which may be implied by their working e.g. 1,1,1 xxyxyxyx xyx yxyx −−+ = −== − ++ etc. Do not award for e.g. “Gradient = −1” M1: Uses y = x or x = y or y = x = “p” in their d d y x sets 1= and attempts to solve to obtain a value for their variable. e.g. 1...,1...,1..., xxyypp xyp xxyypp −−− =   ==   ==   = +++ A1: For x, y or “p” = 2 at P ddM1: Uses their non-zero value for x, y or “p” to obtain a value for k using the given equation of the curve. Depends on both previous method marks. A1: 36k= Correct answer only with no working scores no marks. Number Scheme Marks",
+          "image": "/papers/wma14-oct-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-13.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 2, 3, 7− B1 (1) (b) Attempts () 211 4 21 2 818         • − =  + − +  =             M1 Attempts .cos=a ba b : () 18122418 cos= + +  + − + dM1 cos = A1 (3) (b) Alt e.g.                 − −=  −                      M1 ()() 3361224182 122418 cos+ + = + + + + − + −+ +  + − + dM1 cos = A1 (c) Uses  = 6 to find length PQ E.g. () 612126121218PQPQ= + +  = + + =ijk Or () 612218PQ=  + + = M1 Area QPR = sin18154 5 abC  =   −=    M1 A1 (3) (d) Attempts a correct method of finding at least one value for  e.g. ()() 4861212 + += + + () () ''18 ''  ==  + − + M1 Attempts one correct position         = −         −     r dM1 Possible coordinates () 10, 1, 9 and () 6, 5, 23−− A1 (3) (10 marks) (a) B1: Correct coordinates or position vector e.g. as shown or x = 2, y = 3, z = −7 or 2i + 3j – 7k or     −  Condone () 2 , 3 , 7−i jk (b) M1: Attempts         •−             condoning slips. Note that any non-zero multiples of these vectors can be used. If the method is not explicit then this mark may be implied by 2 correct components. dM1: Full attempt at .cos=a ba b where a and b are the direction vectors or multiples of them. Depends on the first method mark. Note that 4 2 16 cos = −+ + ++ + would imply both method marks. A1: cos = (b) Alternative using the cosine rule: M1: Attempts β             − −                dM1: Full attempt at the cosine rule using the appropriate lengths. Depends on the first method mark. A1: cos = (c) M1: Uses  = 6 to find the length of PQ. E.g. uses Pythagoras to calculate 61212++ijk or 622++ijk If the method is not explicit then the attempt at PQ may be implied by 2 correct components. M1: Full attempt at sin abC where a = b = PQ and C is their θ which may be attempted in decimals. Their θ or sin θ must follow an attempt to use their cos θ. A1: 54 5 or exact equivalent e.g. 162",
+          "image": "/papers/wma14-oct-2023/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-15.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Substitutes x = 3 and t = 0 into () kt x t + = + M1 31.8 k k =  = * A1* (2) (b) B1 (1) (c) () 9 29 2 AB xxxx + −− M1 Either A= or B= A1 () 9233 9 2xxxx + −− A1 (3) (d) () () d3 39 2dd d x xxxt t xx = − = −  Or () () d11 39 2dd d3 x xxxt t xx = − = −  ()() lnln 9 2 xxtc−− = + or ()() lnln 9 2 xxtc−− = + M1 A1ft Substitutes 0,30txc= =  = M1 () lnln 9 2e 339 2 t x xxt x  −− = =   −  ddM1 9 299 e2 e* 2e tt t x x xx −− −  − =  − =  =   +  A1* (5) (e) 4500 B1 (1) (12 marks) (a) M1: Substitutes x = 3 and t = 0 into the given equation A1*: Shows that k =1.8 (oe e.g. ) with no errors and with at least one correct line of the form akb= e.g. ()() 9 0 50 5 31.8, 31.8, 31.8 4 0 30 33 kk k kkk  ++ = == ==  =  ++ all score M1A1 Alternative by verification: M1: Substitutes k = 1.8 and t = 0 into the given equation A1*: Shows that x = 3 with at least one correct intermediate line and a concluding statement that this is 3000 Special cases: 1. () 9 0 5 1.8 4 0 3 k xk + = = + scores M1A0 2. Substitutes x = 3000 and t = 0 into the given equation to obtain k = 1800 (hence k = 1.8) scores M1A0 (b) B1: 4050 cao. Allow 4.05 thousand. (c) M1: Sets () 9 29 2 AB xxxx + −− or equivalent e.g. () 39 2AxBx − + A1: One correct value for ‘A’ or ‘B’ or one correct fraction. A1: Correct fractions e.g. ()() 9 233 9 2xxxx + −− oe e.g. () , 9 2327 6xxxx ++ −− This mark is for the correct partial fractions not for the values of the constants. Award once the correct fractions are seen and allow if seen in (d) if not seen here. (d) M1: Attempts to separate the variables and integrate to obtain a kt term and one of () lnorln9 2xx  − . Condone missing brackets e.g. ln 9 2x− The ln terms must come from a partial fraction of the form A x or B x− . A1ft: ()() lnln 9 2 xxtc−− = + but ft on their A and B so award for ()() lnln 9 2 B Axxtc−− = + oe There is no requirement for + c Brackets must be present unless they are implied by later work. Note that there are various",
+          "image": "/papers/wma14-oct-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-17.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 B1 (1) (b) d2 sin d6 6 cos 2 yt xt − = − M1 A1 () 2 sin2 sin1 cosec 12 sin 6 6 1 2 sin tt t t t −− === − −− M1 A1* (4) (c) P = 3, 2  −     B1 E.g. 203... yy     − = −− −  =      or 23... cc   = −− +  =    M1 +  o.e A1 (3) (d)(i) Attempts () d 4 cos6 6 cos 2 d x ytt t =− M1 A1 ()() 2 cos 22 6 6 cos 2tt=+− () 6 2 2 cos 26 21 cos 4tt   = −= − +     dM1 Volume = () d d61 cos 4 d d x ytt t t =−    A1 (ii) 6 sin 4 6, t t     −    = 3 M1, A1 (6) (14 marks) (a) B1: For 3 . Condone () 30 and allow x = 3 . Remember to check the diagram as the 3 may appear there. Do not allow decimals here. (b) M1: Attempts to differentiate x(t) and y(t) and calculates d d y x by using dd dd yx tt  . Condone poor differentiation but one of the terms must be of the correct form so it requires cos 2xt→+ or sinyAt→ A1: d2 sin d6 6 cos 2 yt xt − = − or equivalent e.g. () d2 sin d 6 6 cossin yt x tt − = −− M1: Uses appropriate trigonometry to reach d cosec d y t x = . Condone sign errors only with any identities that are used. A1: d1 cosec d6 y t x =− You can condone poor notation along the way e.g. () d2 sin d 6 6 cossin yt x − = −− as long as the intention is clear. An alternative for the final M1A1: 2 sin2 sin2 sin1 cosec 6 6 cos 26 6 cos 26 12 sin ttt t tt t  −−− = === − −− (c) B1: At P, x = 3,2 y  −= or exact equivalents May be implied by being seen embedded in their tangent equation. M1: Full method of finding the y coordinate of N Requires: • substitution of t=  into their d cosec d y t x = to find gradient of tangent • use of their 3, 2  −     (which may be inexact) in the formation of the equation of the tangent or the substitution of these values into y = mx + c with the coordinates correctly placed. • the setting of x = 0 as well as finding the y value or rearranging to find “c” A1: +  or exact simplified equivalent. E.g. 2 22 +  . Does not need to be identified as a value for y so just look ",
+          "image": "/papers/wma14-oct-2023/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma14-oct-2023/page-21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma14-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2023-unit1-2023-10-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma14-oct-2023/page-01.png",
+      "/papers/wma14-oct-2023/page-02.png",
+      "/papers/wma14-oct-2023/page-03.png",
+      "/papers/wma14-oct-2023/page-04.png",
+      "/papers/wma14-oct-2023/page-05.png",
+      "/papers/wma14-oct-2023/page-06.png",
+      "/papers/wma14-oct-2023/page-07.png",
+      "/papers/wma14-oct-2023/page-08.png",
+      "/papers/wma14-oct-2023/page-09.png",
+      "/papers/wma14-oct-2023/page-10.png",
+      "/papers/wma14-oct-2023/page-11.png",
+      "/papers/wma14-oct-2023/page-12.png",
+      "/papers/wma14-oct-2023/page-13.png",
+      "/papers/wma14-oct-2023/page-14.png",
+      "/papers/wma14-oct-2023/page-15.png",
+      "/papers/wma14-oct-2023/page-16.png",
+      "/papers/wma14-oct-2023/page-17.png",
+      "/papers/wma14-oct-2023/page-18.png",
+      "/papers/wma14-oct-2023/page-19.png",
+      "/papers/wma14-oct-2023/page-20.png",
+      "/papers/wma14-oct-2023/page-21.png",
+      "/papers/wma14-oct-2023/page-22.png",
+      "/papers/wma14-oct-2023/page-23.png",
+      "/papers/wma14-oct-2023/page-24.png",
+      "/papers/wma14-oct-2023/page-25.png",
+      "/papers/wma14-oct-2023/page-26.png",
+      "/papers/wma14-oct-2023/page-27.png",
+      "/papers/wma14-oct-2023/page-28.png",
+      "/papers/wma14-oct-2023/page-29.png",
+      "/papers/wma14-oct-2023/page-30.png",
+      "/papers/wma14-oct-2023/page-31.png",
+      "/papers/wma14-oct-2023/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

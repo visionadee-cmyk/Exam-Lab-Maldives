@@ -1,0 +1,99 @@
+{
+  "paperId": "computer_science-9618-2025-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit2-november-p22-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/22",
+  "session": "October/November 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The table contains pseudocode examples. Each example may contain statements that relate to one or more of: • selection • iteration (repetition) • subroutines (procedures or functions). Complete the table by placing one or more ticks (‘3’) in each row. Pseudocode exampleSelectionIterationSubroutine IF Status = FALSE THEN FOR Count 1 TO 20 CALL Reset(Count) NEXT Count ENDIF O",
+      "text": "1 (a) The table contains pseudocode examples. Each example may contain statements that relate to one or more of: • selection • iteration (repetition) • subroutines (procedures or functions). Complete the table by placing one or more ticks (‘3’) in each row. Pseudocode exampleSelectionIterationSubroutine IF Status = FALSE THEN FOR Count 1 TO 20 CALL Reset(Count) NEXT Count ENDIF O",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The table contains pseudocode examples. Each example may contain statements that relate to one or more of: • selection • iteration (repetition) • subroutines (procedures or functions). Complete the table by placing one or more ticks (‘3’) in each row. Pseudocode exampleSelectionIterationSubroutine IF Status = FALSE THEN FOR Count 1 TO 20 CALL Reset(Count) NEXT Count ENDIF O",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Pseudocode example Selection Iteration Subroutine IF Status = FALSE THEN FOR Count  1 TO 20 CALL Reset(Count) NEXT Count ENDIF    OTHERWISE : Status  TRUE  WHILE AllDone() = TRUE   30 : NextChar  'X'  One mark per row",
+          "image": "/papers/computer_science-9618-2025/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Variable Example data value Data type Result 5.42 REAL MonthLetter \"JFMAMJJASOND\" STRING Birthday 15/11/2009 DATE One mark per row",
+          "image": "/papers/computer_science-9618-2025/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expression Evaluates to INT(Result) + 1 > 6 FALSE NUM_TO_STR(LENGTH(MonthLetter)) \"12\" NUM_TO_STR(Result + \"3.2\") ERROR MID(MonthLetter, MONTH(Birthday) — 2, 1) \"S\" One mark per row October/November Question Answer Marks Mark as follows: MP1 Initialisation of the array index MP2 Input number in a loop MP3 Test for termination value (99.9) and correct ending MP4 Test for array full / maximum 20 iterations and correct ending MP5 Assign number to Data array element and increment index October/November Question Answer Marks 2 Alternative solution: October/November Question Answer Marks MP1 1 open the file OldFile.txt in read (mode) MP2 2 open the file NewFile.txt in write (mode) read a line from OldFile.txt and store in LineX MP3 4 read a line from OldFile.txt and store in LineY 5 read a line from OldFile.txt and store in LineZ MP4 6 set NewString to LineX & '\\' & LineY & '\\' & LineZ MP5 7 write NewString to NewFile.txt MP6 8 repeat from step 3 until end of OldFile.txt 9 close both files // it does not appear in the ID and Name MP2 Calculate the length of both new data items MP3 Store / append the length (of the new each items) MP4 as a fixed length / separated digit string // by example Max 3 October/November Question Answer Marks DECLARE CheckTotal : ARRAY [0:35] OF BOOLEAN DECLARE Index : INTEGER FOR Index  0 TO 35 CheckTotal[Index]  FALSE NEXT Index Mark as follows: MP1 Declaration of CheckTotal array MP2 Declaration of a loop counter MP3 Loop – with correct syntax and number of iterations MP4 Assignment of array element to FALSE",
+          "image": "/papers/computer_science-9618-2025/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "DECLARE EasyQ, HardQ : INTEGER FOR EasyQ  0 TO 15 STEP 3 FOR HardQ  0 TO 20 STEP 5 CheckTotal[HardQ + EasyQ]  TRUE NEXT HardQ NEXT EasyQ Mark as follows: One mark per gap (boldened) MP2 ... and if not, return FALSE MP3 Use the parameter value as the index to array CheckTotal MP4 Return the value from given index position MP1 MP4 MP2 MP3 MP5 October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2025/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Activity Name of life cycle stage a structure chart is produced Design a program is modified to allow it to run on new hardware Maintenance the programmer identifies the customer's requirements Analysis an Integrated Development Environment (IDE) provides context-sensitive help such as 'auto- complete' Coding One mark per row October/November Question Answer Marks 6 Example solution: FUNCTION Compare(String1, String2 : STRING, __ CaseMatters : BOOLEAN, Position : CHAR) RETURNS BOOLEAN DECLARE S1Length : INTEGER S1Length  LENGTH(String1) IF LENGTH(String2) < S1Length THEN RETURN FALSE // String2 is shorter than String1 ENDIF IF CaseMatters = FALSE THEN String1  TO_UPPER(String1) String2  TO_UPPER(String2) ENDIF CASE Position 'e' : String2  RIGHT(String2, S1Length) 's' : String2  LEFT(String2, S1Length) ENDCASE IF String1 = String2 THEN RETURN TRUE ELSE RETURN FALSE ENDIF ENDFUNCTION Mark as follows: MP1 Function heading and parameters and ending and return type MP2 Calculate length of String1 MP3 if String2 is shorter than String1, return FALSE MP4 Compare (modified) strings MP5 Test CaseMatters - if FALSE and convert two string(s) to same case MP6 Test for the value of ‘s’/’e’ and form modified string(s) in one or both cases MP7 Return appropriate BOOLEAN value in all cases October/November Question Answer Marks The arrow means that Convert repeatedly calls Analyse then Update and then Sort (in that order)10 MP1 Reference to ‘repetition’...’ MP2 Naming all four modules correctly and the sequence is stated or implied FUNCTION Update (Key : STRING) RETURNS INTEGER MP2 MP3 MP4 PROCEDURE Sort (BYREF P2 : BOOLEAN) Mark as follows: One mark per underlined part October/November Question Answer Marks PROCEDURE CountLoans(ThisStudentID : STRING) DECLARE Index, LCount, RCount : INTEGER LCount  0 RCount  0 FOR Index  1 TO 7000 IF Loan[Index].StudentID = ThisStudentID THEN IF Loan[Index].OnLoan = FALSE THEN RCount  RCount + 1 ELSE LCount  LCount + 1 ENDIF ENDIF NEXT I",
+          "image": "/papers/computer_science-9618-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit2-2025-11-21-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

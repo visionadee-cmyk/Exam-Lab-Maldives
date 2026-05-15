@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2025-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I increasing R to consistent 2 or consistent 3 significant figures 1 RA RB and RC within 10% of each other 1 within limits of experimental accuracy / within 10% / owtte 1 October/November 2025 Question Answer Marks suitable technique for focus e.g. move screen slowly / back and forth 5  h I values all decreasing • axes correct way round and labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square, precise plots • well judged line and thin line e.g. hand / ruler in way of image / person creating a shadow and matching improvement: e.g. use translucent screen and view from behind / fix ruler or grid to screen / mark image on screen before measuring / take a photo with ruler in view October/November 2025 Question Answer Marks 4 MP1 apparatus: ruler and balance / measuring cylinder MP2 method: measure mass / volume of water switch on lamp measure new mass / volume of water MP3 repeat for dish with new diameter 1 MP4 control variable (one from): initial mass / volume of water, time lamp turned on, height / angle / distance of lamp, power of lamp, initial temperature of water MP5 table: columns for diameter and final mass / volume of water with units MP6 analysis: compare readings in a table to see if a change in diameter produces a change in mass/volume of water evaporated / plot line graph (with axes specified) MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, 2nd control variable stated,",
+          "image": "/papers/physics-0625-2025/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-11-51-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,237 @@
+{
+  "paperId": "wma13-may-2022-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-may-2022-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "May 2022",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "55 d 6 3(32)( 18(32) ) d y xx x  =  −=−   M1A1 (2) (b) \"5\" \"18\"(32)18 − = − −→ 1 \"\" yx  − =−   35453 0xy− + = M1 M1 dM1 A1 (4) (6 marks) (a) M1 Applies the chain rule to achieve a form of (32)Ax− which may be unsimplified. The index does not need to be processed for this mark. Alternatively, multiplies out the brackets to achieve an expression of the form AxBxCxDxExFx G+ + + + + + (where all coefficients do not need to be simplified) and reduces the power by 1 on at least one of the terms. You will need to check this carefully to make sure it is the relevant term where the power has decreased eg ...BxBx→ Condone slips in their expansion. (The actual expansion is 64 5762160432048602916729xxxxxx−+−+−+ ) A1 d 18(32) d y x x  =−   or unsimplified equivalent eg 6 3(32)x− but the index must be processed. If they have multiplied out then accept 576 43201296019440145804374xxxxx− +−+−+ . Accept x for x (b) M1 Substitutes x= into their d d y x which must be of the form (32)Ax− (or accept a polynomial of degree 5) and finds a value for d d y x M1 Finds the negative reciprocal of their gradient. May be implied by the equation of their line. It cannot be scored for setting d d y x = , solving to find x and then taking the negative reciprocal of this. dM1 Attempts to find the equation of the normal. Look for 1 \"\" yx  − =−   (must be a changed gradient from their tangent gradient). It is dependent on the first method mark. If they use ymx c=+ they must proceed as far as ...\"\" c  ==   A1 35453 0xy− + = or any integer multiple of this with all terms on one side of the equation eg 6108106 0xy− +− = You must see the = 0 isw after a correct answer is seen. Eg if they proceed to state values for a, b and c which contradict their equation then take their equation as their final answer. (a) M1 Correct order of operations applying g before f on 5 Allow an attempt to substitute 5x= into 5 (27) fg( ) 3(27) 2 x x x −− = −+ condoning slips. They must proceed t",
+          "image": "/papers/wma13-may-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 \"3\"2 fg(5) f (3), 3 \"3\" 211 − = == + M1, A1 (2) (b) f ( ) x x x − − = + , xx  − M1A1 B1 (3) (c) 2(3) 7 a a a − = + − + 2(3) 742 0 a a aaa − = + −  − − = + () a  = B1ft M1A1 A1 (4) (9 marks) A1 f ( ) x x x − − = + or f ( ) x x x − − = −− or exact equivalent expressions such as f ( ) x x x − − =  +   . Accept f: x x x − − → + Condone f... − = (or f...y − == ) but do not allow just ...y= or f :...y − = B1 x− . The omission of x is condoned. Note: It is also acceptable to define f − in any variable eg as f ( ) t t t − − = + t− as long as the variable is used consistently to score M1A1B1. If another variable is used other than x it must be fully defined eg f ( ) ...t − = not just f... − = (c) B1ft Sets 2(3) 7 a a a − = + − + or their f (21)a a − =−  1\"5\" \"2\"(21) \"3\"(21) \"1\" a aa −− = −+ (may be in terms of x). Follow through on their f ( )x − . May be implied by later work if they have invisible brackets. M1 They must start with an equation of one of these forms (which may be in x): • A a Da E BC a  =+  or equivalent so typically look for 2(3) 7 a a a − = + − + (may be manipulated to 1Aa Da E B Ca  =+  ) • 1Aa B aCa D  =  or equivalent Rearranges their equation of an allowable form to a 3TQ. They must be attempting to solve fg(3)a a  =+   so it cannot be awarded for an attempt to solve () fg( )aa= or fg aa     =         Do not be concerned with the mechanics of their arrangement and condone invisible brackets. A1 42 0aa− − = or equivalent equation involving 3 terms. Eg 42aa−= (may be in terms of x). May be implied by awrt 0.843 and the = 0 may be implied by their attempt to solve their quadratic equation. A1 () a  = or exact equivalent. Do not accept rounded decimals. Condone x  = (a) M1 Integrates to ln(3)Axk+ with or without the + C. Allow A = 1 for this mark. Condone invisible brackets. A1 () ln 3 xkC++ or () ln3 B xk+ oe Must include the constant of integration that is different from k. Must have brackets around 3xk+ A",
+          "image": "/papers/wma13-may-2022/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() dln 3 x xxkC xk =+ + +    M1A1 (2) (b) ln(75)ln(12) ln 8 kk+ −+ = lnln 8 k k +  =  +  oe 4... k k k + =  = + () 9k= M1 dM1 ddM1 A1 (4) (6 marks) (b) *Be aware they can solve equations on the calculator which is not acceptable* M1 Attempts to substitute in 5 and 2 into their changed expression which must include x and k, subtracting either way round and sets equal to ln 8 . The values embedded in an equation is sufficient to score this mark. Condone slips if they attempted to evaluate when substituting in. Ignore the + C . dM1 Attempts to apply the subtraction (or addition) law of logarithms once to an equation of the form ()() lnlnlnAB kAC kD+ + = or equivalent (allow A = 1) . Typically look for ()() lnlnlnAB kAC kD+ −+ =  lnln Bk AD Ck +  =  +  or equivalent Do not be concerned with arithmetical errors and condone slips dealing with their A Condone invisible brackets. ddM1 Solves their equation of the form lnln A Bk D Ck +  =  +  or lnln A Bk D Ck +  =  +  where 1A , and the A is correctly dealt with by • removing lns correctly • rearranging to form a linear equation in k • proceeding to find a value for k. eg \"\" \"75\" \"lnln 8 \"12\" k k +  =  +  \"75\"\"48\" \"4 \"...kkk + = + = It is dependent on both of the previous method marks. Condone arithmetical slips in their rearrangement and condone invisible brackets as long as the intention is clear. Also condone this mark to be scored if k is negative. A1 9 cao (with intermediate working seen) They cannot proceed from ln(75)ln(12) ln 8 kk+ −+ = to () 9k= without some intermediate working seen (eg an equation with the lns removed) Note an answer of () ln 3()xkC++ in (a) will score a maximum of M1dM1ddM0A0 in (b) Mark (a) and (b) together (a) M1 A correct attempt to find the gradient between the given coordinates. This may be implied by 0.154 or awrt 1.43 or . The values embedded in the expression 3.85 3.08 − − or 3.08 3.85 − − is sufficient. Check Figure 1 and may be seen in (b) A1 log",
+          "image": "/papers/wma13-may-2022/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-09.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Show that f′(x) = kxx x () () 592 49 2 1 2 \u001f\u001e \u001f where k is an integer to be found. (4) (b) Hence, find the values of x for which f′(x) = 0 (1) Figure 3 shows a sketch of the curve C with equation y = f (x). The curve has a local maximum at the point P (c) Find the exact coordinates of P (2) The function g is defined by g(x) = 2f(x) + 4– 9 4",
+      "text": "4 (a) Show that f′(x) = kxx x () () 592 49 2 1 2 \u001f\u001e \u001f where k is an integer to be found. (4) (b) Hence, find the values of x for which f′(x) = 0 (1) Figure 3 shows a sketch of the curve C with equation y = f (x). The curve has a local maximum at the point P (c) Find the exact coordinates of P (2) The function g is defined by g(x) = 2f(x) + 4– 9 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Show that f′(x) = kxx x () () 592 49 2 1 2 \u001f\u001e \u001f where k is an integer to be found. (4) (b) Hence, find the values of x for which f′(x) = 0 (1) Figure 3 shows a sketch of the curve C with equation y = f (x). The curve has a local maximum at the point P (c) Find the exact coordinates of P (2) The function g is defined by g(x) = 2f(x) + 4– 9 4",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3.85 3.08 Gradient − = − (=0.154 or ) log3.08 0.154Nt=+ oe M1 A1 (2) (b) 3.08 10 awrt 1200a== log\"0.154\"b= or \"0.154\" 10b= awrt1.43b= B1 M1 A1 (3) (c) log 500 000 3.08 0.154...TT= + = or \"1.43\" 500 000 log... \"1200\" T  ==   () awrt 17T= M1 A1 (2) (7 marks) (b) B1 awrt 1200 M1 A correct equation to find b using their gradient in (a). Can be awarded for log\"0.154\"b= or \"0.154\" 10b= (may be implied by awrt 1.43). Allow log or lg but not ln. A1 awrt 1.43 (c) M1 Substitutes in N = 500 000 into their t Nab= using their values for a and b and uses a valid method to find a value or expression for T (can be left as a logarithm) This can be either by: • using correct inverse laws • using a calculator and proceeding directly to a value for t Typically, log \"\" 500 000 \"1200\" \"1.43\"500 000\"1.43\"... \"1200\"log \"1.43\" TT T== == \"1.43\" 500 000500 000 \"1.43\"log... \"1200\"\"1200\" T T  = ==   Alternatively uses their log\"3.08\" \"0.154\"Nt=+ and rearranges to find a value for T allowing sign slips only: log 500 000 \"3.08\" log 500 000 \"3.08\" \"0.154\"... \"0.154\" TT − =+ == May be implied by a correct answer. A1 () awrt 17T= isw after a correct answer is seen (cannot be left as a logarithm) This mark can only be scored provided EITHER their equation in (a) is correct OR their values for a and b are correct in (b). (a) Check Figure 2 and by the questions (i) B1 7 Condone (0, 7) but not (7, 0) Number Scheme Marks",
+          "image": "/papers/wma13-may-2022/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-13.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(i) (ii) k B1 B1 (2) (b) 9 2 0kx− − = and ... ... 9 2 0,kx kk − + − =  CVs 7 11 , kk x kk  M1 A1 A1 (3) (c) \" 2\"2 \" \" 3...k k − = −  +  = () 3.6k= 3.6k M1 A1 A1 (3) (8 marks) Alt(b) 29 2kx−  −  ...... x kk  x kk  M1 A1A1 (ii) B1 k oe Condone ,2 k  −   but not 2, k  −   (b) M1 A correct attempt to find the two critical values. Eg • Forms two correct equations (or linear inequalities) with the modulus signs removed and solves to find the values of x where the graph crosses the x-axis (see main scheme) or the values of x such that 92 0kx− −  • Solves the given inequality to isolate x in the middle (Alt(b)) by: 92 092kxkx− −   −  29 2......kxx −  −     • Solves the given inequality by squaring both sides and solving: 22 2 (9)41877 0kxk xkx−   − +  0xxx kkkk   − +   −    ......x   Do not be too concerned by their use of ,, , ,=  throughout their working. A1 Correct critical values 7 11 , kk cao which may be seen in their final answer. A1 x kk  or simplified equivalent eg “ xx kk    ” or “ :xx kk      ” or 7 11 ,x kk     Must be in terms of x There must be some attempt to bring the two inequalities together if separate. The mark cannot be scored for xx kk  DO NOT ACCEPT eg “ or xx kk  ” 7 11 ,x kk     (c) M1 Uses a correct method to find a value for k. For example: • Substitutes in \" \", \" 2\" k  −   into 32yx=− and attempts to find a value for k. They may solve \" 2\" 3 2\"2.5\"\" \" \"2.5\"...xxk k − = −  =   • Finds when 32yx=− intersects with AB ( 7ykx= − + ) and then when 32yx=− intersects with B and forms the inequality \"\" 2kk  − or similar. • Finds the value of x when 32yx=− intersects with AB, 7ykx= − + , 2k  =  −  and then when 32yx=− intersects 11y kx=− 2k  =  +  and sets equal to each other to find the value for k (or solves simultaneously to find \"2.5\"\" \" \"2.5\"..xk k  =   ) • Finds the gradient between (0, 3) and B and deduces that \" 2\" 3 \" \" 0 k −− − − oe l",
+          "image": "/papers/wma13-may-2022/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Find d d y x (2) Given that the point P 1 3 1,       lies on C, (b) find the equation of the normal to C at P. Write your answer in the form ax + by + c = 0 where a, b and c are integers to be found. (4) ___________________________________________________________________________ ___________________________________________________________________________ _____________________",
+      "text": "6 (a) Find d d y x (2) Given that the point P 1 3 1,       lies on C, (b) find the equation of the normal to C at P. Write your answer in the form ax + by + c = 0 where a, b and c are integers to be found. (4) ___________________________________________________________________________ ___________________________________________________________________________ _____________________",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "6 (a) Find d d y x (2) Given that the point P 1 3 1,       lies on C, (b) find the equation of the normal to C at P. Write your answer in the form ax + by + c = 0 where a, b and c are integers to be found. (4) ___________________________________________________________________________ ___________________________________________________________________________ _____________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() f ( )5(2)4 (49)10 (49) xxxx x −  =−    + ++ () 10(2) 10 (49)509020 f ( ) (49)(49) xx xxx x xx − +++ −  == ++ () 10(592) f ( ) (49) xx x x +−  = + M1A1 dM1 A1 (4) (b) Sets f ( ) 0x  = to give 2, x=− B1 (1) (c) () () () () 5 \" 2\"2 4\" 2\"910y= − −  − + = ( 2, 10)− M1 A1cao (2) (d) f (0)30=− Upper bound 2 \"10\" 4 ...=  + = or Lower bound 2 \" 30\" 4 ...=  − + = 56g( )24x− B1 M1 A1 (3) (10 marks) eg 510'and(49)'(49)uxuAxvxvB x − = − → == + → =+ May also attempt the product rule on 5 (49)10(49)xxx+ −+ so award for (49)(49)(49)Ax xBxxC x −− + + + A, B, C 0 A1 Correct unsimplified expression for f ( )x  eg 2(510)(49)10 (49)xxx x − −+ ++ oe dM1 Proceeds to a single fraction, multiplies out the brackets on the numerator and proceeds to the form 3TQ (49)x+ or 3TQ (49)x − + . They cannot proceed straight to the given 3TQ or a multiple of it without some working seen to score this mark. Alternatively, you may only see manipulation of the numerator and then 3TQ (49)x+ which is acceptable: 10(592) 10(2) 10 (49) 10(2 49 ) 10(592) (49) xx xx xxxxxx x +− − ++ =− + + =+ −  + Condone arithmetical slips in their working but their method to proceeding to a single fraction must be correct. It is dependent on the previous method mark. A1 () 10(592) f ( ) (49) xx x x +−  = + with no errors seen in the main body of their solution. Accept 10(592) xx x +− + Condone invisible brackets as long as they are recovered, or their subsequent working makes their intention clear. They do not need to explicitly state k = 10 but if there is a contradiction between their expression and their stated value then the expression takes precedence. Do not be concerned with what they have before the = (b) Mark (b) and (c) together B1 Sets f ( ) 0x  = to give 2, − Withhold if one is rejected. Condone ( 2, 0), 0  −   . May be seen in (c) (c) M1 Substitutes their smaller root from solving 592 0xx+ − = into 5(2)(49)yxx= −+ and proceeds to find a value for y. Condone bracket omissions, miscopying",
+          "image": "/papers/wma13-may-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-17.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 3cot 27 2 sin cos   −= or () 2 sin3(cosec 21) 713sec− − = oe 3(cosec 21) 7 2 sin cos   − − =  *3cosec 210 13cosec 23cosec 213cosec 210 0− =−− = M1 dM1 ddM1A1* (4) (b) 3cosec 213cosec 210 0−− = ()() (3cosec 22)(cosec 25) 0cosec 25sin 2 +− = = = sin\" \" ...  −    == () awrt 0.101, 1.47= M1A1 dM1 A1 (4) (8 marks) Alt(a) 3(1 sin 2 ) 2 sin713sec sin 2     − −=   3(1 sin 2 )13 sin 22 sin cos    − −= sin 2sin 2 −= 3cosec 213cosec 210 0−− = * M1 dM1 ddM1 A1* dM1 Attempts BOTH • to divide both sides by () 2 sin and use sec cos   = (or cosec sin   = ) to achieve a term of the form sin cos A B oe (implied by ... ...sin 2 or ... cosec sec ). May be implied • to use 1 cot 2cosec 2 =  to replace the cot 2 term in the equation or in the alternative method it is for using cos 2 cot 2 sin 2    = and using 1 sin 2cos 2 =  to replace the cos 2 Condone arithmetical slips and invisible brackets. It is dependent on the first mark. ddM1 A full attempt to achieve a 3TQ in cosec 2 only. It is dependent on both of the previous method marks. They must • use the identity sin 22 sin cos = (or cosec2cosec sec  = ) and proceed to a cosec 2 term • multiply out the brackets and collect terms on one side to form a 3TQ in cosec 2 only. Do not be concerned with the mechanics of their arrangement and they may proceed to the printed answer at this stage. Condone arithmetical slips and invisible brackets. A1* Achieves 3cosec 213cosec 210 0−− = with no arithmetical errors in the main body of their solution. You must see either sin cos or sin 2 within their working. Allow recovery of invisible brackets in their solution. Withhold the final mark for poor notation such as cosec 2 being written as cosec2 or if the 2 is missing from 2 They may work in a different variable, but the final answer must be in terms of 2 (b) *Be aware that answers with no intermediate working seen is not acceptable* M1 Attempts to solve the ",
+          "image": "/papers/wma13-may-2022/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-21.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "100.75 d e9e0 d tt v t −− = − +=  1.75 10 9e t− = or 0.7510 9ee tt−− = 1.75 10 10 ln 9 9e 1.75 t t − + = = or 10 ln 9 ln 9 0.7510 1.75 t tt + −= −  = awrt 6.97t= awrt 11.9 (ms -1 ) M1A1 M1 A1 A1 (5) (b) 0.75( 10) 12 12eed tt t −− −−=  ( 10)0.75 12e16e() tt tC −− −++ ( 10)0.75 12e16e10012... T tt tT −−  −+=  =  () 0.751010 116 16eee TT T −−− =−+ − * M1A1 M1 A1* (4) (c) (i) (ii) () 0.75 1010 1010 116 16eee T − −− =−+− awrt 9.7493T= 9.7293 (seconds) M1 A1 A1 (3) (12 marks) A1 awrt 6.97 or awrt 6.96 including exact unsimplified expressions such as 40 4 ln 9 + or 10 ln 9 1.75 + . A1 awrt 11.9 (ms -1 ) with all previous marks scored. Condone lack of units Note: awrt 6.97 and awrt 11.9 with no calculus scores 0 marks (b) M1 Attempts to integrate the expression for v. Award for ( 10)0.75 12ee tt t AB −−  . Do not accept eg ( 10) 10.75 1 12ee tt t AB − +− +  Allow if their attempt to integrate appears in part (a) as long as it is a clear attempt at integration. Limits may have been substituted in. A1 ( 10)0.75 12e16e tt t −− −+ (with or without +C) and allow unsimplified eg ( 10)0.75 12ee 0.75 tt t −− −− − Do not withhold this mark if they write 12x but subsequently replace it with T later on. M1 Substitutes T and 0 into their changed expression with three different terms in t , sets equal to 100 and attempts to make 12T or T the subject. Eg ()() 100.7510 12e16ee1610012... TT TT −−− − +− − + =  = Condone arithmetical slips in their rearrangement. A1* () 0.751010 116 16eee TT T −−− =−+ − with no errors including bracket errors/omissions. Must have T = ... (c) (i) M1 Substitutes 10 into the iterative formula. The expression with 10 embedded is sufficient to score this mark. May be implied by awrt 9.7492 or awrt 9.7493. May also be implied by 9.7306 A1 awrt 9.7493 (ii) *Be aware that this can be found directly on a calculator which is not acceptable* A1 9.7293 (seconds) (cannot be awarded without the method mark) SC If they over round in (i) and (ii) and achieve ",
+          "image": "/papers/wma13-may-2022/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() d(1 sin )( 2 sin ) (1 2 cos ) cos d 1 sin yxxxx x x +−− + = + (1 sin )( 2 sin ) (1 2 cos ) cos0xxxx+−− += 2 sincos2 0xx −−− = 2 sincos2xx+= − * M1A1 dM1 A1* (4) (b) Possible solutions from sin() orcos()RxRx+− : 2 sincos25 sin(0.464)2xxx+= − += − or 5 cos(1.107)2x−= − or eg solutions from squaring (2sincos )4cos (3cos4sin ) 0xxxxx+= −= -------------------------------------------------------------------------------------------- 5 sin(0.464)2 or 5 cos(1.107)2... or tan... xxxxx+= −−= −  ==  = awrt 3.79x= M1M1A1 dM1 A1 (5) (9 marks) If is is via the product rule then it may appear as d cos (1 2 cos )(1 sin )2 sin (1 sin ) d y xxxxx x −−  = −++−+   or equivalent (which may be unsimplified). dM1 Sets the numerator of their quotient equal to zero, multiplies out the brackets and attempts to use the identity sincos1xx=  (which may be implied by their working) leading to an equation in sinx and cosx only. There must be no squared terms. If it is via the product rule they will need to either combine their terms into a single fraction and then set the numerator equal to zero (or multiply both sides by () 1 sinx+ ), and then attempt to use the identity sincos1xx=  leading to an equation in sinx and cosx only. There must be no squared terms. Condone slips and invisible brackets. It is dependent on the first method mark. A1* Achieves 2 sincos2xx+= − with no errors or missing brackets around 1 2 cosx+ or 1 sinx+ when needed in the main body of their solution. (Do not penalise the fraction line not being quite long enough for the numerator.) It is acceptable to proceed to a correct d d y x , multiply out the brackets and proceed directly from 2 sin2 sincos2 cos0xxxx−−−−= 2 sincos2xx+= − to score full marks. You do not need to explicitly see sincos1xx+= stated or substituted in. Note if they only ever use the numerator of the quotient formula: ''vuuv− from the beginning Maximum score is M1A0dM1A0* (b) *Be aware this can be solved entirely using a calculator wh",
+          "image": "/papers/wma13-may-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2022/page-25.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 9
+  },
+  "assets": {
+    "basePath": "/papers/wma13-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2022-unit1-2022-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-may-2022/page-01.png",
+      "/papers/wma13-may-2022/page-02.png",
+      "/papers/wma13-may-2022/page-03.png",
+      "/papers/wma13-may-2022/page-04.png",
+      "/papers/wma13-may-2022/page-05.png",
+      "/papers/wma13-may-2022/page-06.png",
+      "/papers/wma13-may-2022/page-07.png",
+      "/papers/wma13-may-2022/page-08.png",
+      "/papers/wma13-may-2022/page-09.png",
+      "/papers/wma13-may-2022/page-10.png",
+      "/papers/wma13-may-2022/page-11.png",
+      "/papers/wma13-may-2022/page-12.png",
+      "/papers/wma13-may-2022/page-13.png",
+      "/papers/wma13-may-2022/page-14.png",
+      "/papers/wma13-may-2022/page-15.png",
+      "/papers/wma13-may-2022/page-16.png",
+      "/papers/wma13-may-2022/page-17.png",
+      "/papers/wma13-may-2022/page-18.png",
+      "/papers/wma13-may-2022/page-19.png",
+      "/papers/wma13-may-2022/page-20.png",
+      "/papers/wma13-may-2022/page-21.png",
+      "/papers/wma13-may-2022/page-22.png",
+      "/papers/wma13-may-2022/page-23.png",
+      "/papers/wma13-may-2022/page-24.png",
+      "/papers/wma13-may-2022/page-25.png",
+      "/papers/wma13-may-2022/page-26.png",
+      "/papers/wma13-may-2022/page-27.png",
+      "/papers/wma13-may-2022/page-28.png",
+      "/papers/wma13-may-2022/page-29.png",
+      "/papers/wma13-may-2022/page-30.png",
+      "/papers/wma13-may-2022/page-31.png",
+      "/papers/wma13-may-2022/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

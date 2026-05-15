@@ -1,0 +1,251 @@
+{
+  "paperId": "physics-0625-2016-unit3-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit3-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "May/June 2016",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 15,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Compare the motion of the cyclist and the runner during the first 6 seconds. Explain your answer. ................................................................................................................................................... ....................................................................................................................",
+      "text": "1 (a) Compare the motion of the cyclist and the runner during the first 6 seconds. Explain your answer. ................................................................................................................................................... ....................................................................................................................",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "indication of an area calculated C1 × 9 = 54(m) C1 ½ (6 × 9) = 27(m) C1",
+          "image": "/papers/physics-0625-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "horizontal line finishes at 10 seconds B1 straight line to time zero in two seconds B1 Total: 10 B1",
+          "image": "/papers/physics-0625-2016/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W = m × g in any form B1 54(kg) B1",
+          "image": "/papers/physics-0625-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(540 – 100) = 440(N) B1 downwards B1 Total: 5 Page 5 Mark Scheme Syllabus Paper 0625 31 OR radiation B1 B1 OR poor radiator (of thermal energy) B1",
+          "image": "/papers/physics-0625-2016/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(handles) become hot B1 use an insulator B1 Total: B1 B1 output: electrical B1",
+          "image": "/papers/physics-0625-2016/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from: air pollution OR atmospheric pollution B2 climate change OR global warming OR greenhouse gases use up diminishing resources OR non-renewable Total: 5 Page 6 Mark Scheme Syllabus Paper 0625 31",
+          "image": "/papers/physics-0625-2016/q4-4c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from: larger area (in contact with roof) B2 weight OR force spread out lower pressure (on roof)",
+          "image": "/papers/physics-0625-2016/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "400 + 1600 seen OR 2000(N) B1 P = F / A stated C1 / 0.8 C1 A1 N / m OR Pa B1 Total: 7 B1 at least two changes of direction B1 OR bumps OR bounces off B1 (with moving) air molecules B1 OR changes of direction B1 Total: 5 Page 7 Mark Scheme Syllabus Paper 0625 31",
+          "image": "/papers/physics-0625-2016/q5-5b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to the left OR anticlockwise B1",
+          "image": "/papers/physics-0625-2016/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "row 1 – increases B1 row 2 – stays the same B1 row 3 – decreases B1",
+          "image": "/papers/physics-0625-2016/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "electric cables lower to ground OR telephone lines in summer OR buckling tracks B1 Total: 5 B1 B1 B1 g B1 f B1 R OR S B1",
+          "image": "/papers/physics-0625-2016/q7-7c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two rays correctly drawn from top of O: ray parallel to axis, through lens, and beyond F ray undeviated through centre of lens and beyond ray through F, through lens, then parallel to axis M2 inverted image correctly drawn and positioned at intersection of two rays A1 Total: 9 Page 8 Mark Scheme Syllabus Paper 0625 31 B1 B1 • (medical) imaging OR detecting fractures in bone OR specific example e.g. CT scan / imaging teeth at dentist • detecting faults in metal • security imaging e.g. airport security checks of bags • cancer treatment B2 • behind a screen OR lead apron • large distance from X-ray beam • monitoring of OR restricting exposure • low dosage OR limit exposure time • monitor frequency of x-ray sessions • other people not allowed in room when X-ray being taken • avoid when pregnant B2 B1 Total: 7 Page 9 Mark Scheme Syllabus Paper 0625 31 B1 B1 B1 at decreasing rate OR not proportional OR not linear B1 resistance of Y = 80 Ω C1 R t = R + R in any form C1 100( Ω ) A1 V = I R in any form C1 12 ÷ 100 OR 12 ÷ candidates (b)(ii) C1 0.12 (A) OR ECF from (b)(ii) A1 Total: 10 B2",
+          "image": "/papers/physics-0625-2016/q8-8c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q8.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "11 (a) Put a ring around the names of the metals which are attracted to magnets. aluminium copper iron mercury magnesium steel tin [2] (b) Fig. 11.1 and Fig. 11.2 show magnetic field patterns for bar magnets. On each diagram, correctly label the poles. Write N or S. Fig. 11.1 Fig. 11.2 [2] 17 0625/31/M/J/16© UCLES 2016[Turn over (c) For",
+      "text": "11 (a) Put a ring around the names of the metals which are attracted to magnets. aluminium copper iron mercury magnesium steel tin [2] (b) Fig. 11.1 and Fig. 11.2 show magnetic field patterns for bar magnets. On each diagram, correctly label the poles. Write N or S. Fig. 11.1 Fig. 11.2 [2] 17 0625/31/M/J/16© UCLES 2016[Turn over (c) For",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "N and S correctly labelled on Fig. 11.1 B1 N and S correctly labelled on Fig. 11.2 B1 B1 B1 B1 Total: 7 Page 10 Mark Scheme Syllabus Paper 0625 31",
+          "image": "/papers/physics-0625-2016/q11-11b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "idea of paper between source and detector OR measuring range (in air) OR pass through an electric or magnetic field B1 alpha stopped by paper OR larger range in air for beta OR identify deflection when in field B1",
+          "image": "/papers/physics-0625-2016/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from: gamma travel at the speed of light gamma rays have no charge gamma rays have no mass gamma is a wave OR part of the electromagnetic spectrum gamma less ionising greater penetration not deflected by electric or magnetic fields B2 / tissues / DNA OR causes (cell) mutations OR radiation sickness B1 Total: 5",
+          "image": "/papers/physics-0625-2016/q12-12b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 15,
+    "questionCount": 9
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit3-2016-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

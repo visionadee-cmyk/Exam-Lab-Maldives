@@ -1,0 +1,135 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Elle has a file stored on her computer that is 20 MB in size. Jordan has a file that is 10 GB in size. Tick (3) to show which is the larger file. File size Tick (3) 20 MB 10 GB [1] (b) Bob has",
+      "text": "1 (a) Elle has a file stored on her computer that is 20 MB in size. Jordan has a file that is 10 GB in size. Tick (3) to show which is the larger file. File size Tick (3) 20 MB 10 GB [1] (b) Bob has",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Elle has a file stored on her computer that is 20 MB in size. Jordan has a file that is 10 GB in size. Tick (3) to show which is the larger file. File size Tick (3) 20 MB 10 GB [1] (b) Bob has",
+          "marks": 1,
+          "type": "structured",
+          "answer": "File size Tick ( ) MB GB",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "File size Tick ( ) kB MB − (A device that allows) data to be entered (into a computer system) One from e.g.: − Keyboard − Mouse − Microphone − Sensor − Touch screen − (A device that allows the user to) view/hear the data (that has been entered into a computer system) One from e.g. : − Monitor − Speaker − Headphones − Printer 0478/12 March 2019 − − 1 mark for working, 1 mark for correct answer − 1024 + 512 + 128 + 64 + 4 + 2 + 1 − Two from: − Pressure sensor − Light sensor − Motion sensor − Magnetic field (can be used if competitors are wearing a compatible chip) − Sensor sends signal to microprocessor − Signal is analogue and is converted to digital (using ADC) − Data is compared to stored value // Check for signal − If data does not match / is out of range/ in range // signal detected « − « counter is incremented by 1 − Continuous process 1 mark 1 mark 1 mark 1 mark 0478/12 March 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: − Closer to English statements / human language − Easier / quicker to write / read / understand / remember − Easier / quicker to debug − Less likely to make errors − One line of code can carry out multiple commands − Portable language",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct tick(s) for each statement Statement Compiler Interpreter A report of errors is produced at the end of translation The program is translated one line at a time The program is translated from high-level language into machine code An executable file is produced The program will not run at all if an error is detected",
+          "image": "/papers/computer_science-0478-2019/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Lossy would remove data − Lossless does not remove data // No data can be lost « − Can be restored to original state « − « otherwise will not run / work correctly − Sending device creates value from calculation on data // By example − Value is transmitted with the data − Receiving device performs same calculation − Values are compared after transmission // If values do not match « − « an error is detected 0478/12 March 2019 4d(ii) − Parity check − Check digit − Automatic repeat request",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct logic gate with correct input(s) ABC X 0478/12 March 2019",
+          "image": "/papers/computer_science-0478-2019/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2019/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: − Universal Serial Bus − Data transmission method − Uses serial transmission // bits of data are sent one at a time − Universal standard // common interface − Laser printer 0478/12 March 2019 Two from: − Cheaper printing cost per page − It prints at a faster speed − It prints text at a high quality − Colour fast One from: − Expensive to purchase printer − Toner is expensive − Print images at a lower quality − Can be quite large in size 1 mark per each correct tick Storage example Primary Secondary Off-line Solid state drive (SSD) Blu-ray disc USB flash memory Random access memory (RAM) Read only memory (ROM) 0478/12 March 2019 Six from: − Storage device has platters − Platters/disk divided into tracks − Storage platter / disk is spun − Has a read/write arm that moves across storage media − Read/writes data using electromagnets − Uses magnetic fields to control magnetic dots of data − Magnetic field determines binary value NOTE: Marks can be awarded for an alternative description e.g. magnetic tape − Magnetic is cheaper per unit of data − Magnetic has more longevity // Magnetic can perform more read/write cycles For each of three risks Naming the risk – 1 mark, describing the risk – 1 mark: − Hacking « − « when a person tries to gain unauthorised access to a computer system − « data can be deleted/corrupted by hacker − Malware « − « a software program designed to damage data / disrupt the computer system − « replicates itself and fills the hard disk − Virus « − « a program that replicates itself to damage / delete files NOTE: Multiple kinds of malware can be awarded if listed and given a matching description e.g. trojan horse, worm.",
+          "image": "/papers/computer_science-0478-2019/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

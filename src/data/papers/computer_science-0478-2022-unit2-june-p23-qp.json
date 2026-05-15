@@ -1,0 +1,131 @@
+{
+  "paperId": "computer_science-0478-2022-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Many correct answers, the names used must be meaningful. The names given are examples only. One mark per mark point, max four  Variable ClientName  Use Storing the name of the person making the booking  Array BookingsLarge[ ]  Use Storing the bookings for the large meeting room Task 1 – setting up a booking system structure for the meeting rooms Set up suitable data structures for each of the three meeting rooms to store:  when it is booked during a fixed eight-week period  the client’s name (the person making the booking)  a unique booking code  the cost of the booking. Task 2 – booking a meeting room Extend the program in Task 1 to enable bookings to be made so that the client enters their name, the meeting room required and the day of the booking. After the data has been entered, the program should check if the requested day is available for the required meeting room and if not , the client should be allowed to enter an alternative day or exit the program. If the requested day is available, the booking details and cost of the booking should be output for the client to confirm. Once confirmed, a unique booking code should be generated and stored in both the appropriate meeting room data structure and the unique booking code data structure. The client’s name and cost of the booking should be stored in the appropriate data structures set up in Task 1 . Bookings of more than one day must be entered as separate single day bookings. 0478/23 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two MP1 input a piece of normal test data that should be accepted // use Large, Small1 or Small2 to check that these data are accepted // use a menu and check the input matches the available options MP2 Input a piece of erroneous test data that should be rejected // entry of anything that is not Large, Small1 or Small2 should be rejected // anything not on the menu should be rejected Explanation Task 2",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 introduce a (new) variable/array for the number of days for the booking // introduce a (new) variable/array for the number of days for booking the same room // identify t he number of days the same room has been booked by the same client MP2 use a conditional/IF statement to check if the length of the booking is 2 to 6 inclusive / 2, 3, 4, 5, or 6 //Use a CASE statement MP3 ... if it is, get the daily rate for the room booking MP4 ... multiply the number of days for the booking by the room rate MP5 ... multiply the total cost of the booking by 70%/.7// reduce the total cost by 30% Explanation Task 2 0478/23 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ENDCASE BookingCode[ClientIndex]  BookingCode ClientName[ClientIndex]  ClientName BookingCost[ClientIndex]  BookingCost //No ELSE clause is specified in the task or the question //so, ignore it if one is given ENDIF",
+          "image": "/papers/computer_science-0478-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 select the room whose records are to be searched // input the room whose records are to be searched MP2 use a suitable loop (to search through the array that stores the bookings data for that room) MP3 use an IF statement/conditional statement to check if the current array element has a booking MP4 ... if not, use the array index to output the day represented MP5 check each element in the array until all array elements have been checked Task 3 – using the booking data Extend the program in Task 1 and Task 2 to make use of the data that is available, to:  select a meeting room and output the days when it is free  total and output the amount of money currently taken for all three meeting rooms  check the bookings for a specific client. Only the first bullet point required for this question. 0478/23 May/June 2022 Section B One mark per row, max four Description Types of test data Boundary Erroneous / Abnormal Extreme Normal test data that is always on the limit of acceptability  test data that is either on the limit of acceptability or test data that is just outside the limit of acceptability  test data that will always be rejected  test data that is within the limits of acceptability   One mark per mark point, max four  variables are used to represent values that can change during the execution of a program // variables can be used to store the results of calculations / counting / totalling // can store values entered by the user  variable example – any data that is input into a program such as a date  constants represent values that must stay the same throughout the execution of a program  constant example – any value that does not change, such as Pi in mathematical formulae 0478/23 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max seven MP1 correct In column MP2 correct Logic column MP3 correct Test column MP4 correct Number column MP5 correct Store[Count] column MP6 correct Count and Limit columns MP7 correct Out and OUTPUT columns In Logic Test Number Store [Count] Count Limit Out OUTPUT 0 5 1 TRUE 2 9 FALSE 2 TRUE 2 5 5 1 3 TRUE 2 8 FALSE 4 TRUE 2 10 FALSE 5 TRUE 2 7 3 7 2 0 5 1 7 0478/23 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  to find / output prime numbers  ... store prime numbers in an array",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three MP1 insert a WHILE loop ... // pre-condition loop MP2 ... after Input Number MP3 ... with a condition to enter the loop Number < 3 MP4 an error message included within the loop to ask for a re-entry of Number MP5 ...with another input prompt for Number MP6 ENDWHILE closes the loop and the program carries on from REPEAT in the original algorithm OR One mark per mark point, max three MP1 insert a REPEAT loop ... // post-condition loop MP2 ... before Input Number MP3 a conditional statement should be placed after Input Number MP4 ...to check if Number < 3 MP5 if the number entered is <3, an error message included within the loop to ask for a re-entry of Number MP6 UNTIL Number >= 3 closes the loop and the program carries on from REPEAT in the original algorithm 0478/23 May/June 2022 One mark per mark point, max six MP1 input box MP2 correct totalling using Total MP3 correct counting using Counter MP4 correct conditional statement for Counter MP5 correct calculation of Average MP6 correct outputs of Total and Average Total  Total + Number END Yes No Counter  Counter + 1 IS Counter = 100? INPUT Number Counter  START Total  OUTPUT Average OUTPUT Total Avera g e  Total / Counter 0478/23 May/June 2022 r",
+          "image": "/papers/computer_science-0478-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  correct fields correctly named and table names  correct sort and show box rows  correct search criteria Field: PlanetName Larger YearLength Table: PLANETS PLANETS PLANETS Sort: Ascending Show:      Criteria: Yes >365 or:",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit2-2022-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

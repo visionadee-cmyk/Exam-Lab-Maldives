@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2020-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit2-november-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "October/November 2020",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Constant name MaxSalad Value 3 Use Storing the salad items a baguette can have Variable name OrderNumber Data type integer Use storing the next order number available Many correct answers, this is an example only. October/November Question Answer Marks MP1 Display fillings available MP2 Prompt and entry of filling choice MP3 Only accept one correct filling MP4 Prompt and entry of number of salads MP5 Only accept 0 to 3 inclusive MP6 Display salads available MP7 Prompt and entry of correct number of salad choices MP8 Only accept correct salad choices MP9 At least one error message for incorrect data entry Example answer: REPEAT PRINT \"Beef 1\" PRINT \"Chicken 2\" PRINT \"Cheese 3\" PRINT \"Egg 4\" PRINT \"Tuna 5\" PRINT \"Turkey 6\" OUTPUT \"Please enter your choice of filling\" INPUT Filling UNTIL Filling >=1 AND Filling <=6 PRINT \"Lettuce 1\" PRINT \"Tomato 2\" PRINT \"Sweetcorn 3\" PRINT \"Cucumber 4\" PRINT \"Peppers 5\" REPEAT PRINT \"How many salads do you want\" INPUT NumSalad UNTIL NumSalad >= 0 and NumSalad <=3 WHILE NumSalad >0 DO PRINT \"Enter Salad \", NumSalad OUTPUT \"Please enter your choice of salad\" INPUT SaladType CASE SaladType OF 1: NumSalad  NumSalad – 1 2: NumSalad  NumSalad – 1 3: NumSalad  NumSalad – 1 4: NumSalad  NumSalad – 1 5: NumSalad  NumSalad – 1 OTHERWISE: PRINT \"Error\" ENDCASE Salad[NumSalad]  SaladType ENDWHILE MP1 Provide a method of inputting the filling selection MP2 Check input is a correct filling e.g. using a CASE statement MP3 If not output a suitable error message MP4 If not provide a suitable method to re-input e.g. use of REPEAT...UNTIL October/November Question Answer Marks MP1 Store three sizes of baguette e.g. add third baguette size to array MP2 Change the prompt to output three sizes of baguettes MP3 Change the selection statement to allow for a third size of baguette e.g. IF/REPEAT/WHILE... Any four from: MP1 check the total for each of the baguette fillings e.g. use of FOR loop MP2 use of two variables one for most popular filling and on",
+          "image": "/papers/computer_science-0478-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Creature Quantity Offspring Ready for release Table: MARINE MARINE MARINE MARINE Sort: Ascending Show:     Criteria: =N =Y or: One mark for each correct field and table rows One mark for sort row One mark for show row One mark for correct criteria",
+          "image": "/papers/computer_science-0478-2020/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit2-2020-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

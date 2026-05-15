@@ -1,0 +1,51 @@
+{
+  "paperId": "wph11-oct-2020-unit2-qp",
+  "pairedMarkSchemeId": "wph11-oct-2020-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "October 2020",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses ratio of resistances to p.d.s V = 1.2 V OR Use of R = V/I V = 1.2 V Example of calculation V = ( 55 kΩ 12 kΩ+55 kΩ ) × 1.5 V = 1.23 V (1) (1) (1) (1)",
+          "image": "/papers/wph11-oct-2020/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct reason 1 mark for each explanation Reason Explanation Cell has (internal) resistance Terminal/cell p.d. is lower Or lost volts Resistance in wires/connections Wires/connections have p.d. across them too. Voltmeter has a “low” resistance Or voltmeter draws current Resistance of parallel combination would be less than 55 kΩ (so p.d. would be lower) (1)(1) (1)(1) Total for question 12 6 Number Answer Mark 13a Use of v = fλ λ = 0.40 (m) Wave is suitable OR Use of v = fλ f = 850 (Hz) / 0.85 (kHz) Wave is suitable OR Use of v = fλ v = 340 (m/s) Wave is suitable (MP3 by any method is dependent upon awarding both MP1 and MP2) Example of calculation v = fλ 340 m s -1 = 850 Hz × λ λ = 0.40 m (1) (1) (1) (1) (1) (1) (1) (1) (1) *13b This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content • Sound (from ANR) has to diffract to reach the furthest/right ear • (Sound) cancelled when destructive interference takes place • (Sound) louder when constructive interference takes place • Destructive interference is where waves are in antiphase • Constructive interference is where waves are in phase • When distance between the ears is half a wavelength Or distance between the ears is approximately 20cm. (For IC1, do not allow “noise from engine diffracts to reach the right ear”) (For IC2 to IC5, interference or superposition are accepted) (For IC2 and IC3 accept correct reference to minimum/maximum amplitude) (For IC4 and IC5, accept answers in terms of path difference. However, path difference must be in terms of λ and phase difference in terms of π or °) Linkage mark 1 – needs at leas",
+          "image": "/papers/wph11-oct-2020/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2020/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2020-unit2-2020-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

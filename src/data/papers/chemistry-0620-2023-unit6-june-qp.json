@@ -1,0 +1,131 @@
+{
+  "paperId": "chemistry-0620-2023-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2023-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2023",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "1 (a) Name the item of apparatus labelled A in Fig. 1.1. .............................................................................................................................................. [1] (b) Explain why hot water rather than cold water is used in step 2. ....................................................................................................................",
+      "text": "1 (a) Name the item of apparatus labelled A in Fig. 1.1. .............................................................................................................................................. [1] (b) Explain why hot water rather than cold water is used in step 2. ....................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(the sugars) dissolve fast(er)",
+          "image": "/papers/chemistry-0620-2023/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 filtration M2 minimum is a diagram to show a filter funnel lined with filter paper:",
+          "image": "/papers/chemistry-0620-2023/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "fermentation occurs between 25 °C and 35 °C / enzymes denatured (at high temperatures)",
+          "image": "/papers/chemistry-0620-2023/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "turns (from colourless to) milky 1( f ) (there are) no more bubbles (in limewater) 0620/61 May/June 2023",
+          "image": "/papers/chemistry-0620-2023/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 final and initial burette reading for experiment 1 correct (18.3 and 0.6) M2 final and initial burette reading for experiment 2 correct (21.0 and 9.2) M3 both titres correct 17.7 and 11.8) M4 all volumes recorded consistently to 1 dp or bette r",
+          "image": "/papers/chemistry-0620-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to make solid easier to see / so colour ( change ) easier to see / remove solution A to remove wate r M1 more solution B needed M2 as more (than 25 cm of) aqueous ammonia in flask and as a smaller volume was needed / smaller titre 1.5, ecf from results and compare",
+          "image": "/papers/chemistry-0620-2023/q2-2b.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 7.1 or calculated value of titre in experiment 1  2.5 M2 cm disadvantage: slowe r / takes longe r 0620/61 May/June 2023 / contains wate r / NH C does not contain chloride, bromide or iodide ions",
+          "image": "/papers/chemistry-0620-2023/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 ammonium / NH + M2 iron( III ) / Fe 3+ M3 sulfate / SO 2-",
+          "image": "/papers/chemistry-0620-2023/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 white precipitate M2 dissolves / forms a colourless solution 3( f ) (pink/purple / lilac solution) becomes colourless / decolourised / remains colourless 0620/61 May/June 2023 any 6 from MP1 adds cobalt( II ) oxide to (dilute) sulfuric acid in a suitable container MP2 cobalt( II ) oxide is in excess MP3 the mixture is stirred / mixed MP4 the acid / mixture is heated/warmed MP5 filter (to remove (excess) cobalt( II ) oxide) MP6 heat filtrate / solution / leave to evaporate (reject heat to dryness) MP7 filter out crystals / description of drying crystals",
+          "image": "/papers/chemistry-0620-2023/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2023-unit6-2023-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,241 @@
+﻿
+
+### O-Level ΓÇö by subject & year
+
+| Subject | Year | QP PDFs | JSON created | Not created | Why failed |
+|---------|------|--------:|-------------:|------------:|------------|
+| Accounting | 2020 | 8 | 4 | 4 | no MS 4 |
+| Accounting | 2021 | 6 | 4 | 2 | no MS 2 |
+| Accounting | 2022 | 7 | 4 | 3 | no MS 3 |
+| Accounting | 2023 | 8 | 4 | 4 | no MS 4 |
+| Accounting | 2024 | 7 | 4 | 3 | no MS 3 |
+| Accounting | 2025 | 6 | 4 | 2 | no MS 2 |
+| **Accounting summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2020, 2021, 2022, 2023, 2024, 2025 |
+| Biology | 2021 | 16 | 10 | 6 | no MS 6 |
+| Biology | 2022 | 16 | 9 | 7 | parse fail 1; no MS 6 |
+| Biology | 2023 | 16 | 7 | 9 | parse fail 3; no MS 6 |
+| Biology | 2024 | 13 | 6 | 7 | parse fail 1; no MS 6 |
+| Biology | 2025 | 16 | 5 | 11 | parse fail 8; no MS 3 |
+| **Biology summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2021, 2022, 2023, 2024, 2025 |
+| Business | 2015 | 13 | 0 | 13 | parse fail 12; no MS 1 |
+| Business | 2016 | 12 | 4 | 8 | parse fail 7; no MS 1 |
+| Business | 2017 | 13 | 13 | 0 | ΓÇö |
+| Business | 2018 | 12 | 11 | 1 | parse fail 1 |
+| Business | 2019 | 13 | 12 | 1 | no MS 1 |
+| Business | 2020 | 13 | 7 | 6 | parse fail 6 |
+| Business | 2021 | 13 | 13 | 0 | ΓÇö |
+| Business | 2022 | 12 | 10 | 2 | parse fail 2 |
+| Business | 2023 | 12 | 9 | 3 | parse fail 3 |
+| Business | 2024 | 13 | 12 | 1 | parse fail 1 |
+| Business | 2025 | 13 | 9 | 4 | parse fail 4 |
+| **Business summary** | | | **Created years:** 2017, 2021 | **No JSON years:** 2015 | **Partial:** 2016, 2018, 2019, 2020, 2022, 2023, 2024, 2025 |
+| Chemistry | 2015 | 35 | 23 | 12 | parse fail 12 |
+| Chemistry | 2016 | 42 | 40 | 2 | no MS 2 |
+| Chemistry | 2017 | 41 | 39 | 2 | parse fail 1; no MS 1 |
+| Chemistry | 2018 | 41 | 39 | 2 | no MS 2 |
+| Chemistry | 2019 | 42 | 40 | 2 | parse fail 2 |
+| Chemistry | 2020 | 41 | 37 | 4 | no MS 4 |
+| Chemistry | 2021 | 42 | 40 | 2 | no MS 2 |
+| Chemistry | 2022 | 42 | 33 | 9 | parse fail 7; no MS 2 |
+| Chemistry | 2023 | 41 | 32 | 9 | parse fail 8; no MS 1 |
+| Chemistry | 2024 | 22 | 18 | 4 | parse fail 4 |
+| Chemistry | 2025 | 40 | 27 | 13 | parse fail 12; no MS 1 |
+| **Chemistry summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Computer Science | 2015 | 12 | 0 | 12 | parse fail 12 |
+| Computer Science | 2016 | 14 | 0 | 14 | parse fail 14 |
+| Computer Science | 2017 | 14 | 12 | 2 | parse fail 2 |
+| Computer Science | 2018 | 14 | 14 | 0 | ΓÇö |
+| Computer Science | 2019 | 14 | 14 | 0 | ΓÇö |
+| Computer Science | 2020 | 14 | 7 | 7 | error 7 |
+| Computer Science | 2021 | 14 | 14 | 0 | ΓÇö |
+| Computer Science | 2022 | 14 | 12 | 2 | parse fail 2 |
+| Computer Science | 2023 | 14 | 12 | 2 | parse fail 2 |
+| Computer Science | 2024 | 14 | 13 | 1 | parse fail 1 |
+| Computer Science | 2025 | 13 | 9 | 4 | parse fail 4 |
+| **Computer Science summary** | | | **Created years:** 2018, 2019, 2021 | **No JSON years:** 2015, 2016 | **Partial:** 2017, 2020, 2022, 2023, 2024, 2025 |
+| Economics | 2015 | 13 | 7 | 6 | parse fail 6 |
+| Economics | 2016 | 13 | 6 | 7 | parse fail 7 |
+| Economics | 2017 | 14 | 14 | 0 | ΓÇö |
+| Economics | 2018 | 14 | 14 | 0 | ΓÇö |
+| Economics | 2019 | 14 | 14 | 0 | ΓÇö |
+| Economics | 2020 | 14 | 10 | 4 | parse fail 4 |
+| Economics | 2021 | 14 | 14 | 0 | ΓÇö |
+| Economics | 2022 | 14 | 12 | 2 | parse fail 2 |
+| Economics | 2023 | 14 | 13 | 1 | parse fail 1 |
+| Economics | 2024 | 14 | 13 | 1 | parse fail 1 |
+| Economics | 2025 | 14 | 12 | 2 | parse fail 2 |
+| **Economics summary** | | | **Created years:** 2017, 2018, 2019, 2021 | **No JSON years:** none | **Partial:** 2015, 2016, 2020, 2022, 2023, 2024, 2025 |
+| English First Language | 2015 | 21 | 0 | 21 | parse fail 21 |
+| English First Language | 2016 | 21 | 2 | 19 | parse fail 19 |
+| English First Language | 2017 | 21 | 14 | 7 | parse fail 7 |
+| English First Language | 2018 | 21 | 14 | 7 | parse fail 7 |
+| English First Language | 2019 | 21 | 14 | 7 | parse fail 7 |
+| English First Language | 2020 | 14 | 2 | 12 | parse fail 12 |
+| English First Language | 2021 | 12 | 2 | 10 | parse fail 10 |
+| English First Language | 2022 | 13 | 2 | 11 | parse fail 11 |
+| English First Language | 2023 | 13 | 0 | 13 | parse fail 13 |
+| English First Language | 2024 | 14 | 0 | 14 | parse fail 13; no MS 1 |
+| English First Language | 2025 | 14 | 6 | 8 | parse fail 8 |
+| **English First Language summary** | | | **Created years:** none | **No JSON years:** 2015, 2023, 2024 | **Partial:** 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2025 |
+| English Second Language | 2015 | 8 | 0 | 8 | parse fail 8 |
+| English Second Language | 2016 | 8 | 0 | 8 | parse fail 8 |
+| English Second Language | 2017 | 12 | 0 | 12 | parse fail 10; error 2 |
+| English Second Language | 2018 | 12 | 2 | 10 | parse fail 10 |
+| English Second Language | 2019 | 12 | 0 | 12 | parse fail 12 |
+| English Second Language | 2020 | 12 | 0 | 12 | parse fail 12 |
+| English Second Language | 2021 | 12 | 0 | 12 | parse fail 12 |
+| English Second Language | 2022 | 12 | 0 | 12 | parse fail 12 |
+| English Second Language | 2023 | 12 | 0 | 12 | parse fail 12 |
+| English Second Language | 2024 | 6 | 3 | 3 | parse fail 3 |
+| English Second Language | 2025 | 6 | 3 | 3 | parse fail 3 |
+| **English Second Language summary** | | | **Created years:** none | **No JSON years:** 2015, 2016, 2017, 2019, 2020, 2021, 2022, 2023 | **Partial:** 2018, 2024, 2025 |
+| Mathematics | 2003 | 4 | 0 | 4 | no MS 4 |
+| Mathematics | 2004 | 4 | 0 | 4 | parse fail 4 |
+| Mathematics | 2005 | 4 | 0 | 4 | parse fail 4 |
+| Mathematics | 2006 | 4 | 0 | 4 | parse fail 4 |
+| Mathematics | 2007 | 4 | 0 | 4 | parse fail 4 |
+| Mathematics | 2010 | 28 | 0 | 28 | parse fail 21; no MS 7 |
+| Mathematics | 2011 | 24 | 0 | 24 | parse fail 16; no MS 8 |
+| Mathematics | 2012 | 24 | 0 | 24 | parse fail 16; no MS 8 |
+| Mathematics | 2013 | 24 | 0 | 24 | parse fail 16; no MS 8 |
+| Mathematics | 2016 | 28 | 0 | 28 | parse fail 20; no MS 8 |
+| Mathematics | 2017 | 27 | 15 | 12 | parse fail 4; no MS 8 |
+| Mathematics | 2018 | 24 | 14 | 10 | parse fail 2; no MS 8 |
+| Mathematics | 2019 | 28 | 20 | 8 | no MS 8 |
+| Mathematics | 2020 | 28 | 20 | 8 | no MS 8 |
+| Mathematics | 2022 | 28 | 20 | 8 | no MS 8 |
+| Mathematics | 2024 | 28 | 20 | 8 | no MS 8 |
+| Mathematics | 2025 | 28 | 23 | 5 | parse fail 1; no MS 4 |
+| **Mathematics summary** | | | **Created years:** none | **No JSON years:** 2003, 2004, 2005, 2006, 2007, 2010, 2011, 2012, 2013, 2016 | **Partial:** 2017, 2018, 2019, 2020, 2022, 2024, 2025 |
+| Physics | 2002 | 5 | 0 | 5 | parse fail 4; no MS 1 |
+| Physics | 2003 | 5 | 0 | 5 | no MS 5 |
+| Physics | 2004 | 5 | 2 | 3 | parse fail 3 |
+| Physics | 2005 | 5 | 1 | 4 | parse fail 4 |
+| Physics | 2006 | 5 | 1 | 4 | parse fail 4 |
+| Physics | 2007 | 5 | 1 | 4 | parse fail 4 |
+| Physics | 2008 | 5 | 1 | 4 | parse fail 3; no MS 1 |
+| Physics | 2009 | 7 | 2 | 5 | parse fail 5 |
+| Physics | 2010 | 30 | 3 | 27 | parse fail 16; no MS 11 |
+| Physics | 2011 | 28 | 4 | 24 | parse fail 16; no MS 8 |
+| Physics | 2012 | 3 | 2 | 1 | no MS 1 |
+| Physics | 2013 | 30 | 4 | 26 | parse fail 18; no MS 8 |
+| Physics | 2014 | 30 | 4 | 26 | parse fail 17; no MS 9 |
+| Physics | 2015 | 36 | 6 | 30 | parse fail 22; no MS 8 |
+| Physics | 2016 | 42 | 28 | 14 | parse fail 4; no MS 10 |
+| Physics | 2017 | 42 | 32 | 10 | no MS 10 |
+| Physics | 2018 | 36 | 26 | 10 | no MS 10 |
+| Physics | 2019 | 42 | 32 | 10 | no MS 10 |
+| Physics | 2020 | 41 | 31 | 10 | no MS 10 |
+| Physics | 2021 | 42 | 32 | 10 | no MS 10 |
+| Physics | 2022 | 42 | 31 | 11 | parse fail 1; no MS 10 |
+| Physics | 2023 | 42 | 31 | 11 | parse fail 1; no MS 10 |
+| Physics | 2024 | 42 | 28 | 14 | parse fail 4; no MS 10 |
+| Physics | 2025 | 42 | 35 | 7 | parse fail 2; no MS 5 |
+| **Physics summary** | | | **Created years:** none | **No JSON years:** 2002, 2003 | **Partial:** 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Travel & Tourism | 2015 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2016 | 3 | 0 | 3 | parse fail 2; no MS 1 |
+| Travel & Tourism | 2017 | 4 | 4 | 0 | ΓÇö |
+| Travel & Tourism | 2018 | 4 | 4 | 0 | ΓÇö |
+| Travel & Tourism | 2019 | 4 | 4 | 0 | ΓÇö |
+| Travel & Tourism | 2020 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2021 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2022 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2023 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2024 | 4 | 0 | 4 | parse fail 4 |
+| Travel & Tourism | 2025 | 4 | 1 | 3 | parse fail 3 |
+| **Travel & Tourism summary** | | | **Created years:** 2017, 2018, 2019 | **No JSON years:** 2015, 2016, 2020, 2021, 2022, 2023, 2024 | **Partial:** 2025 |
+
+**Totals:** {"ok":1149,"low_answer_match":162,"missing_ms":307,"structured_parse_empty":654,"error":9}, QP PDFs processed: 2281
+
+
+### A-Level ΓÇö by subject & year
+
+| Subject | Year | QP PDFs | JSON created | Not created | Why failed |
+|---------|------|--------:|-------------:|------------:|------------|
+| Accounting | 2015 | 4 | 3 | 1 | parse fail 1 |
+| Accounting | 2016 | 9 | 6 | 3 | parse fail 3 |
+| Accounting | 2017 | 5 | 2 | 3 | parse fail 3 |
+| Accounting | 2018 | 6 | 1 | 5 | parse fail 5 |
+| Accounting | 2019 | 6 | 1 | 5 | parse fail 5 |
+| Accounting | 2020 | 4 | 2 | 2 | parse fail 2 |
+| Accounting | 2021 | 6 | 2 | 4 | parse fail 4 |
+| Accounting | 2022 | 6 | 2 | 4 | parse fail 4 |
+| Accounting | 2023 | 6 | 0 | 6 | parse fail 6 |
+| Accounting | 2024 | 6 | 0 | 6 | parse fail 6 |
+| Accounting | 2025 | 9 | 1 | 8 | parse fail 8 |
+| **Accounting summary** | | | **Created years:** none | **No JSON years:** 2023, 2024 | **Partial:** 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2025 |
+| Biology | 2019 | 7 | 6 | 1 | no MS 1 |
+| Biology | 2020 | 10 | 6 | 4 | parse fail 3; no MS 1 |
+| Biology | 2021 | 20 | 15 | 5 | parse fail 3; no MS 2 |
+| Biology | 2022 | 20 | 14 | 6 | parse fail 4; no MS 2 |
+| Biology | 2023 | 20 | 13 | 7 | parse fail 4; no MS 3 |
+| Biology | 2024 | 20 | 14 | 6 | parse fail 3; no MS 3 |
+| Biology | 2025 | 35 | 26 | 9 | parse fail 9 |
+| **Biology summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Business | 2019 | 5 | 3 | 2 | parse fail 2 |
+| Business | 2020 | 7 | 4 | 3 | parse fail 3 |
+| Business | 2021 | 12 | 9 | 3 | parse fail 3 |
+| Business | 2022 | 12 | 8 | 4 | parse fail 4 |
+| Business | 2023 | 12 | 8 | 4 | parse fail 4 |
+| Business | 2024 | 12 | 9 | 3 | parse fail 2; no MS 1 |
+| Business | 2025 | 16 | 10 | 6 | parse fail 6 |
+| **Business summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Chemistry | 2019 | 7 | 5 | 2 | parse fail 1; no MS 1 |
+| Chemistry | 2020 | 10 | 10 | 0 | ΓÇö |
+| Chemistry | 2021 | 18 | 18 | 0 | ΓÇö |
+| Chemistry | 2022 | 19 | 18 | 1 | no MS 1 |
+| Chemistry | 2023 | 17 | 14 | 3 | parse fail 3 |
+| Chemistry | 2024 | 18 | 16 | 2 | parse fail 1; no MS 1 |
+| Chemistry | 2025 | 36 | 36 | 0 | ΓÇö |
+| **Chemistry summary** | | | **Created years:** 2020, 2021, 2025 | **No JSON years:** none | **Partial:** 2019, 2022, 2023, 2024 |
+| Computer Science | 2021 | 26 | 13 | 13 | parse fail 6; no MS 7 |
+| Computer Science | 2022 | 12 | 4 | 8 | parse fail 4; no MS 4 |
+| Computer Science | 2023 | 24 | 12 | 12 | parse fail 4; no MS 8 |
+| Computer Science | 2024 | 24 | 8 | 16 | parse fail 8; no MS 8 |
+| Computer Science | 2025 | 24 | 9 | 15 | parse fail 11; no MS 4 |
+| **Computer Science summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2021, 2022, 2023, 2024, 2025 |
+| Economics | 2019 | 5 | 5 | 0 | ΓÇö |
+| Economics | 2020 | 7 | 3 | 4 | parse fail 4 |
+| Economics | 2021 | 13 | 8 | 5 | parse fail 4; no MS 1 |
+| Economics | 2022 | 14 | 14 | 0 | ΓÇö |
+| Economics | 2023 | 12 | 12 | 0 | ΓÇö |
+| Economics | 2024 | 12 | 10 | 2 | parse fail 1; no MS 1 |
+| Economics | 2025 | 2 | 2 | 0 | ΓÇö |
+| **Economics summary** | | | **Created years:** 2019, 2022, 2023, 2025 | **No JSON years:** none | **Partial:** 2020, 2021, 2024 |
+| Mathematics | 2019 | 4 | 1 | 3 | parse fail 2; no MS 1 |
+| Mathematics | 2020 | 9 | 4 | 5 | parse fail 4; no MS 1 |
+| Mathematics | 2021 | 20 | 10 | 10 | parse fail 7; no MS 3 |
+| Mathematics | 2022 | 17 | 13 | 4 | parse fail 3; no MS 1 |
+| Mathematics | 2023 | 16 | 12 | 4 | parse fail 2; no MS 2 |
+| Mathematics | 2024 | 16 | 11 | 5 | parse fail 4; no MS 1 |
+| Mathematics | 2025 | 24 | 18 | 6 | parse fail 5; no MS 1 |
+| **Mathematics summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Physics | 2019 | 7 | 3 | 4 | parse fail 4 |
+| Physics | 2020 | 11 | 9 | 2 | parse fail 2 |
+| Physics | 2021 | 15 | 10 | 5 | parse fail 4; no MS 1 |
+| Physics | 2022 | 21 | 12 | 9 | parse fail 7; no MS 2 |
+| Physics | 2023 | 18 | 15 | 3 | parse fail 2; no MS 1 |
+| Physics | 2024 | 21 | 18 | 3 | parse fail 2; no MS 1 |
+| Physics | 2025 | 28 | 24 | 4 | parse fail 2; no MS 2 |
+| **Physics summary** | | | **Created years:** none | **No JSON years:** none | **Partial:** 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| Travel & Tourism | 2008 | 3 | 0 | 3 | parse fail 3 |
+| Travel & Tourism | 2009 | 2 | 0 | 2 | parse fail 2 |
+| Travel & Tourism | 2010 | 5 | 0 | 5 | parse fail 3; no MS 2 |
+| Travel & Tourism | 2011 | 3 | 0 | 3 | parse fail 3 |
+| Travel & Tourism | 2012 | 5 | 0 | 5 | parse fail 5 |
+| Travel & Tourism | 2013 | 14 | 0 | 14 | parse fail 7; no MS 7 |
+| Travel & Tourism | 2014 | 13 | 0 | 13 | parse fail 11; no MS 2 |
+| Travel & Tourism | 2015 | 18 | 0 | 18 | parse fail 12; no MS 6 |
+| Travel & Tourism | 2016 | 18 | 0 | 18 | parse fail 12; no MS 6 |
+| Travel & Tourism | 2017 | 18 | 12 | 6 | no MS 6 |
+| Travel & Tourism | 2018 | 16 | 11 | 5 | no MS 5 |
+| Travel & Tourism | 2019 | 18 | 12 | 6 | no MS 6 |
+| Travel & Tourism | 2020 | 18 | 2 | 16 | parse fail 10; no MS 6 |
+| Travel & Tourism | 2021 | 15 | 0 | 15 | parse fail 9; no MS 6 |
+| Travel & Tourism | 2022 | 18 | 1 | 17 | parse fail 11; no MS 6 |
+| Travel & Tourism | 2023 | 18 | 2 | 16 | parse fail 10; no MS 6 |
+| Travel & Tourism | 2024 | 17 | 3 | 14 | parse fail 9; no MS 5 |
+| Travel & Tourism | 2025 | 9 | 1 | 8 | parse fail 5; no MS 3 |
+| **Travel & Tourism summary** | | | **Created years:** none | **No JSON years:** 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2021 | **Partial:** 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025 |
+
+**Totals:** {"ok":586,"structured_parse_empty":306,"missing_ms":138}, QP PDFs processed: 1030

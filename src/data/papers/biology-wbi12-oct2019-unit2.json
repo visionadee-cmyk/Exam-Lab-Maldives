@@ -21,11 +21,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "phospholipid" },
-            { "id": "B", "text": "polypeptide" },
-            { "id": "C", "text": "polysaccharide" },
-            { "id": "D", "text": "triglyceride" }
-          ]
+            {
+              "id": "A",
+              "text": "phospholipid"
+            },
+            {
+              "id": "B",
+              "text": "polypeptide"
+            },
+            {
+              "id": "C",
+              "text": "polysaccharide"
+            },
+            {
+              "id": "D",
+              "text": "triglyceride"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q1-1a.png"
         },
         {
           "id": "1b",
@@ -34,11 +47,24 @@
           "type": "mcq",
           "answer": "A",
           "options": [
-            { "id": "A", "text": "amyloplast" },
-            { "id": "B", "text": "mitochondrion" },
-            { "id": "C", "text": "tonoplast" },
-            { "id": "D", "text": "vacuole" }
-          ]
+            {
+              "id": "A",
+              "text": "amyloplast"
+            },
+            {
+              "id": "B",
+              "text": "mitochondrion"
+            },
+            {
+              "id": "C",
+              "text": "tonoplast"
+            },
+            {
+              "id": "D",
+              "text": "vacuole"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q1-1b.png"
         },
         {
           "id": "1c",
@@ -46,9 +72,23 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Compare: both are polymers of glucose / both are polysaccharides / both are carbohydrates. Contrast: cellulose has β-glucose linked by 1-4 glycosidic bonds / starch has α-glucose linked by 1-4 and 1-6 glycosidic bonds / cellulose has straight chains with cross-links (hydrogen bonds) / starch has helical (amylose) or branched (amylopectin) structure / cellulose is structural / starch is storage.",
-          "keywords": ["glucose", "polysaccharide", "β", "α", "glycosidic", "cellulose", "starch", "structural", "storage", "branched", "straight"]
+          "keywords": [
+            "glucose",
+            "polysaccharide",
+            "β",
+            "α",
+            "glycosidic",
+            "cellulose",
+            "starch",
+            "structural",
+            "storage",
+            "branched",
+            "straight"
+          ],
+          "image": "/papers/wbi12-oct-2019/q1-1c.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-oct-2019/page-03.png"
     },
     {
       "id": "q2",
@@ -64,11 +104,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "1.6 × 10⁻² μm" },
-            { "id": "B", "text": "1.6 × 10² μm" },
-            { "id": "C", "text": "1.6 × 10³ μm" },
-            { "id": "D", "text": "1.6 × 10⁻³ μm" }
-          ]
+            {
+              "id": "A",
+              "text": "1.6 × 10⁻² μm"
+            },
+            {
+              "id": "B",
+              "text": "1.6 × 10² μm"
+            },
+            {
+              "id": "C",
+              "text": "1.6 × 10³ μm"
+            },
+            {
+              "id": "D",
+              "text": "1.6 × 10⁻³ μm"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q2-2a_i.png"
         },
         {
           "id": "2a_ii",
@@ -76,7 +129,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Frog radius = 1600/2 = 800 μm. V_frog = 4/3 × π × 800³ = 2.14 × 10⁹ μm³. Ratio = (2.14 × 10⁹) / (1.8 × 10⁶) ≈ 1200 (or 1.2 × 10³).",
-          "keywords": ["1200", "1.2 × 10³", "ratio", "volume", "radius", "significant figures"]
+          "keywords": [
+            "1200",
+            "1.2 × 10³",
+            "ratio",
+            "volume",
+            "radius",
+            "significant figures"
+          ],
+          "image": "/papers/wbi12-oct-2019/q2-2a_ii.png"
         },
         {
           "id": "2b",
@@ -84,9 +145,22 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Egg cell is haploid (n) / contains 23 chromosomes / result of meiosis. Skin cell is diploid (2n) / contains 46 chromosomes / result of mitosis. Egg cell has one copy of each chromosome / one allele for each gene. Skin cell has two copies of each chromosome / two alleles for each gene. Egg cell genetic material is from meiosis with crossing over / recombination / genetically different. Skin cell genetic material identical to parent cell / no recombination.",
-          "keywords": ["haploid", "diploid", "23", "46", "meiosis", "mitosis", "alleles", "chromosomes", "recombination", "crossing over"]
+          "keywords": [
+            "haploid",
+            "diploid",
+            "23",
+            "46",
+            "meiosis",
+            "mitosis",
+            "alleles",
+            "chromosomes",
+            "recombination",
+            "crossing over"
+          ],
+          "image": "/papers/wbi12-oct-2019/q2-2b.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-oct-2019/page-05.png"
     },
     {
       "id": "q3",
@@ -102,11 +176,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "plant cells only" },
-            { "id": "B", "text": "animal cells and prokaryotic cells" },
-            { "id": "C", "text": "plant cells and prokaryotic cells" },
-            { "id": "D", "text": "animal cells, plant cells and prokaryotic cells" }
-          ]
+            {
+              "id": "A",
+              "text": "plant cells only"
+            },
+            {
+              "id": "B",
+              "text": "animal cells and prokaryotic cells"
+            },
+            {
+              "id": "C",
+              "text": "plant cells and prokaryotic cells"
+            },
+            {
+              "id": "D",
+              "text": "animal cells, plant cells and prokaryotic cells"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q3-3a_i.png"
         },
         {
           "id": "3a_ii",
@@ -114,16 +201,34 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Diagram should show: double membrane / nuclear envelope with pores / chromatin / nucleolus. Labels: nuclear envelope, nuclear pore, chromatin/DNA, nucleolus.",
-          "keywords": ["nuclear envelope", "membrane", "pores", "chromatin", "nucleolus", "DNA", "double membrane"]
+          "keywords": [
+            "nuclear envelope",
+            "membrane",
+            "pores",
+            "chromatin",
+            "nucleolus",
+            "DNA",
+            "double membrane"
+          ],
+          "image": "/papers/wbi12-oct-2019/q3-3a_ii.png"
         },
         {
           "id": "3b_i",
           "text": "The photographs show a cell as seen using a light microscope and part of two cells using an electron microscope. The bilayer structure of the cell surface membrane can be seen only with an electron microscope. Explain why the bilayer structure of the cell surface membrane could not be seen using a light microscope.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q3b-microscope-comparison.PNG",
+          "image": "/papers/wbi12-oct-2019/q3-3b_i.png",
           "answer": "Light microscope has lower resolution / cannot resolve structures smaller than about 200 nm. The bilayer is about 7 nm thick / much smaller than the resolution of a light microscope. Electron microscope has much higher resolution / can resolve the bilayer structure.",
-          "keywords": ["resolution", "light microscope", "electron microscope", "200 nm", "7 nm", "too small", "magnification", "wavelength"]
+          "keywords": [
+            "resolution",
+            "light microscope",
+            "electron microscope",
+            "200 nm",
+            "7 nm",
+            "too small",
+            "magnification",
+            "wavelength"
+          ]
         },
         {
           "id": "3b_ii",
@@ -131,18 +236,35 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Measure line XY on image (accept range 25–35 mm). Actual size = image size / magnification. Convert mm to μm (× 1000). Example: if XY = 30 mm, actual = 30 / 200 = 0.15 mm = 150 μm.",
-          "keywords": ["measure", "magnification", "actual size", "μm", "division", "calculation"]
+          "keywords": [
+            "measure",
+            "magnification",
+            "actual size",
+            "μm",
+            "division",
+            "calculation"
+          ],
+          "image": "/papers/wbi12-oct-2019/q3-3b_ii.png"
         },
         {
           "id": "3b_iii",
           "text": "The photograph shows an organelle that can be found in a eukaryotic cell, as seen using an electron microscope. Describe the function of this organelle.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q3b-iii-organelle.PNG",
+          "image": "/papers/wbi12-oct-2019/q3-3b_iii.png",
           "answer": "This is a mitochondrion. Site of aerobic respiration / ATP production / production of energy. Contains enzymes for Krebs cycle / electron transport chain / oxidative phosphorylation.",
-          "keywords": ["mitochondrion", "respiration", "ATP", "aerobic", "energy", "Krebs", "electron transport"]
+          "keywords": [
+            "mitochondrion",
+            "respiration",
+            "ATP",
+            "aerobic",
+            "energy",
+            "Krebs",
+            "electron transport"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi12-oct-2019/page-08.png"
     },
     {
       "id": "q4",
@@ -150,7 +272,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "The scientist Carl Woese proposed the three-domain system of classification. The photograph shows Haemanthus albiflos, a flowering plant native to South Africa.",
-      "image": "/papers/wbi12-oct2019/q4-haemanthus-plant.PNG",
+      "image": "/papers/wbi12-oct-2019/page-12.png",
       "parts": [
         {
           "id": "4a_i",
@@ -159,11 +281,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "Archaea" },
-            { "id": "B", "text": "Bacteria" },
-            { "id": "C", "text": "Eukarya" },
-            { "id": "D", "text": "Prokaryota" }
-          ]
+            {
+              "id": "A",
+              "text": "Archaea"
+            },
+            {
+              "id": "B",
+              "text": "Bacteria"
+            },
+            {
+              "id": "C",
+              "text": "Eukarya"
+            },
+            {
+              "id": "D",
+              "text": "Prokaryota"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
@@ -171,7 +306,17 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "He used ribosomal RNA (rRNA) sequencing / analysis of nucleic acids / genetic material. Compared similarities and differences in rRNA sequences between organisms. Archaea and Bacteria have different rRNA sequences / Eukarya share some rRNA sequences with Archaea.",
-          "keywords": ["rRNA", "ribosomal RNA", "nucleic acid", "sequencing", "genetic", "Archaea", "Bacteria", "Eukarya"]
+          "keywords": [
+            "rRNA",
+            "ribosomal RNA",
+            "nucleic acid",
+            "sequencing",
+            "genetic",
+            "Archaea",
+            "Bacteria",
+            "Eukarya"
+          ],
+          "image": "/papers/wbi12-oct-2019/q4-4a_ii.png"
         },
         {
           "id": "4b",
@@ -179,16 +324,34 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Pollen tube carries/grows down the style to the ovary / reaches the ovule / micropyle. Delivers the male gamete / male nucleus / pollen nucleus to the ovule / egg cell. Enables fertilisation / fusion of male and female gametes / double fertilisation.",
-          "keywords": ["pollen tube", "style", "ovary", "ovule", "gamete", "fertilisation", "male nucleus", "micropyle"]
+          "keywords": [
+            "pollen tube",
+            "style",
+            "ovary",
+            "ovule",
+            "gamete",
+            "fertilisation",
+            "male nucleus",
+            "micropyle"
+          ],
+          "image": "/papers/wbi12-oct-2019/q4-4b.png"
         },
         {
           "id": "4c_i",
           "text": "Verapamil is a substance that inhibits the uptake of calcium ions by the pollen tube. An investigation was carried out to study the effect of Verapamil on the growth of pollen tubes. Each pollen sample was exposed to a different concentration of Verapamil solution. The lengths of the pollen tubes in each sample were measured after one hour. The graph shows the mean length of the pollen tubes after one hour in each concentration of Verapamil. Determine the effect of Verapamil concentration on the growth of pollen tubes.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q4c-verapamil-graph.PNG",
+          "image": "/papers/wbi12-oct-2019/q4-4c_i.png",
           "answer": "As Verapamil concentration increases, mean pollen tube length decreases / inhibited growth. At 0 and 1 μg cm⁻³, length is similar / about 650–700 μm. At higher concentrations (10, 50, 100, 200 μg cm⁻³), length decreases progressively. At 200 μg cm⁻³, growth is most inhibited / length is lowest (about 50 μm).",
-          "keywords": ["decreases", "concentration", "inhibited", "length", "pollen tube", "growth", "dose-dependent"]
+          "keywords": [
+            "decreases",
+            "concentration",
+            "inhibited",
+            "length",
+            "pollen tube",
+            "growth",
+            "dose-dependent"
+          ]
         },
         {
           "id": "4c_ii",
@@ -196,7 +359,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Calcium ions are needed for cell wall formation / calcium pectate / cross-linking pectin molecules. Verapamil inhibits calcium ion uptake. Less calcium pectate formed / weaker cell wall / less rigidity / less strength. Without strong cell walls, pollen tube growth is affected / cannot maintain structure.",
-          "keywords": ["calcium", "pectate", "pectin", "cell wall", "cross-link", "strength", "rigidity", "inhibits"]
+          "keywords": [
+            "calcium",
+            "pectate",
+            "pectin",
+            "cell wall",
+            "cross-link",
+            "strength",
+            "rigidity",
+            "inhibits"
+          ],
+          "image": "/papers/wbi12-oct-2019/q4-4c_ii.png"
         }
       ]
     },
@@ -206,7 +379,7 @@
       "type": "structured",
       "totalMarks": 7,
       "question": "The photograph shows a Venus fly trap (Dionaea muscipula), a plant native to North and South Carolina in the United States.",
-      "image": "/papers/wbi12-oct2019/q5-venus-fly-trap.PNG",
+      "image": "/papers/wbi12-oct-2019/page-15.png",
       "parts": [
         {
           "id": "5a",
@@ -214,7 +387,19 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Nitrogen is needed for synthesis of amino acids / proteins / enzymes / nucleic acids / DNA / RNA / ATP / chlorophyll / nitrogenous bases. The soil is nitrogen-poor / cannot obtain enough nitrogen from soil alone. Nitrogen is an essential element / needed for growth.",
-          "keywords": ["amino acids", "proteins", "enzymes", "nucleic acids", "DNA", "RNA", "ATP", "chlorophyll", "nitrogen", "essential"]
+          "keywords": [
+            "amino acids",
+            "proteins",
+            "enzymes",
+            "nucleic acids",
+            "DNA",
+            "RNA",
+            "ATP",
+            "chlorophyll",
+            "nitrogen",
+            "essential"
+          ],
+          "image": "/papers/wbi12-oct-2019/q5-5a.png"
         },
         {
           "id": "5b",
@@ -222,7 +407,17 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Golgi apparatus modifies / processes / packages proteins / enzymes. Adds carbohydrate groups / glycosylation to form glycoproteins. Packages enzymes into vesicles. Vesicles fuse with cell membrane / exocytosis to release enzymes outside the cell.",
-          "keywords": ["Golgi", "modify", "package", "vesicles", "exocytosis", "glycoproteins", "secrete", "extracellular"]
+          "keywords": [
+            "Golgi",
+            "modify",
+            "package",
+            "vesicles",
+            "exocytosis",
+            "glycoproteins",
+            "secrete",
+            "extracellular"
+          ],
+          "image": "/papers/wbi12-oct-2019/q5-5b.png"
         },
         {
           "id": "5c",
@@ -230,7 +425,18 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Pre-clinical stage: tested on cells / tissues / animals / in vitro / in vivo. Phase 1: tested on healthy volunteers. Phase 2: tested on volunteer patients with the disease / small number of patients.",
-          "keywords": ["pre-clinical", "cells", "tissues", "animals", "healthy volunteers", "patients", "drug trial", "phase 1", "phase 2"]
+          "keywords": [
+            "pre-clinical",
+            "cells",
+            "tissues",
+            "animals",
+            "healthy volunteers",
+            "patients",
+            "drug trial",
+            "phase 1",
+            "phase 2"
+          ],
+          "image": "/papers/wbi12-oct-2019/q5-5c.png"
         }
       ]
     },
@@ -240,7 +446,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "The photograph shows a strawberry poison dart frog.",
-      "image": "/papers/wbi12-oct2019/q6-strawberry-poison-dart-frog.PNG",
+      "image": "/papers/wbi12-oct-2019/page-18.png",
       "parts": [
         {
           "id": "6a",
@@ -249,11 +455,24 @@
           "type": "mcq",
           "answer": "B",
           "options": [
-            { "id": "A", "text": "diversity" },
-            { "id": "B", "text": "endemic" },
-            { "id": "C", "text": "polygenic" },
-            { "id": "D", "text": "specific" }
-          ]
+            {
+              "id": "A",
+              "text": "diversity"
+            },
+            {
+              "id": "B",
+              "text": "endemic"
+            },
+            {
+              "id": "C",
+              "text": "polygenic"
+            },
+            {
+              "id": "D",
+              "text": "specific"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q6-6a.png"
         },
         {
           "id": "6b",
@@ -261,7 +480,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Bright red skin with black spots → warning colouration / aposematic coloration / behavioural. Production of poison → chemical / physiological / biochemical adaptation. Adhesive discs on toes → structural / anatomical / morphological adaptation.",
-          "keywords": ["warning colouration", "aposematic", "chemical", "physiological", "structural", "anatomical", "morphological", "behavioural"]
+          "keywords": [
+            "warning colouration",
+            "aposematic",
+            "chemical",
+            "physiological",
+            "structural",
+            "anatomical",
+            "morphological",
+            "behavioural"
+          ],
+          "image": "/papers/wbi12-oct-2019/q6-6b.png"
         },
         {
           "id": "6c",
@@ -269,7 +498,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Bright red skin warns predators / predator avoidance / camouflage in red flowers / recognized as dangerous. Poison deters/kills predators / protection from predation / survival. Adhesive discs allow climbing / clinging to surfaces / accessing food / habitat / leaves / trees / avoiding predators.",
-          "keywords": ["predators", "warn", "poison", "protection", "climbing", "survival", "deter"]
+          "keywords": [
+            "predators",
+            "warn",
+            "poison",
+            "protection",
+            "climbing",
+            "survival",
+            "deter"
+          ],
+          "image": "/papers/wbi12-oct-2019/q6-6c.png"
         },
         {
           "id": "6d",
@@ -277,7 +515,18 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Variation in population / some frogs produced poison, some did not / mutation produced allele for poison. Predators ate non-poisonous frogs / non-poisonous frogs were killed / did not survive. Poisonous frogs survived / not eaten by predators. Survived and reproduced / passed on allele/gene for poison production. Over generations / many generations, frequency of poison-producing allele increased / more frogs produced poison.",
-          "keywords": ["variation", "mutation", "predators", "survived", "reproduce", "allele", "natural selection", "generations", "frequency"]
+          "keywords": [
+            "variation",
+            "mutation",
+            "predators",
+            "survived",
+            "reproduce",
+            "allele",
+            "natural selection",
+            "generations",
+            "frequency"
+          ],
+          "image": "/papers/wbi12-oct-2019/q6-6d.png"
         }
       ]
     },
@@ -287,7 +536,7 @@
       "type": "structured",
       "totalMarks": 14,
       "question": "Some plant fibres have a high tensile strength. The photograph shows ropes made using fibres from the stems and leaves of hemp plants.",
-      "image": "/papers/wbi12-oct2019/q7-hemp-ropes.PNG",
+      "image": "/papers/wbi12-oct-2019/page-23.png",
       "parts": [
         {
           "id": "7a_i",
@@ -296,11 +545,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "none" },
-            { "id": "B", "text": "one" },
-            { "id": "C", "text": "two" },
-            { "id": "D", "text": "three" }
-          ]
+            {
+              "id": "A",
+              "text": "none"
+            },
+            {
+              "id": "B",
+              "text": "one"
+            },
+            {
+              "id": "C",
+              "text": "two"
+            },
+            {
+              "id": "D",
+              "text": "three"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q7-7a_i.png"
         },
         {
           "id": "7a_ii",
@@ -308,7 +570,21 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Similarity: both have thick cell walls / both provide support / both are dead at maturity. Difference: sclerenchyma fibres are long and thin / tapered ends / occur in bundles; xylem vessels are wider / shorter / joined end to end / have perforation plates / pits / form tubes / lack end walls / are hollow.",
-          "keywords": ["thick cell walls", "support", "long", "thin", "tapered", "bundles", "wide", "short", "perforation plates", "pits", "tubes", "end to end"]
+          "keywords": [
+            "thick cell walls",
+            "support",
+            "long",
+            "thin",
+            "tapered",
+            "bundles",
+            "wide",
+            "short",
+            "perforation plates",
+            "pits",
+            "tubes",
+            "end to end"
+          ],
+          "image": "/papers/wbi12-oct-2019/q7-7a_ii.png"
         },
         {
           "id": "7b",
@@ -316,25 +592,53 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Hemp grows quickly / fast growing / renewable / can be replanted. Requires little water / pesticides / fertilisers / low input farming. Biodegradable / breaks down naturally / compostable. Reduces use of non-renewable oil-based plastics / fossil fuels / carbon neutral.",
-          "keywords": ["renewable", "fast growing", "biodegradable", "low input", "carbon neutral", "replant", "oil-based", "fossil fuels"]
+          "keywords": [
+            "renewable",
+            "fast growing",
+            "biodegradable",
+            "low input",
+            "carbon neutral",
+            "replant",
+            "oil-based",
+            "fossil fuels"
+          ],
+          "image": "/papers/wbi12-oct-2019/q7-7b.png"
         },
         {
           "id": "7c_i",
           "text": "Biofuels, produced from crop plants, are a sustainable resource. Biofuels include bioethanol and biodiesel. Bioethanol is produced from hemp and from sugar beet. Biodiesel is produced from rapeseed oil and from soybean oil. The table shows information about the global production of bioethanol. Determine what the global bioethanol production will be in 2020. Assume the mean rate of increase stays constant.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q7c-bioethanol-table.PNG",
+          "image": "/papers/wbi12-oct-2019/q7-7c_i.png",
           "answer": "Increase from 2000 to 2011 = 84600 - 17000 = 67600 (×10⁶ dm³). Rate per year = 67600 / 11 = 6145.45 per year. From 2011 to 2020 = 9 years. 2020 production = 84600 + (6145.45 × 9) ≈ 139909 ×10⁶ dm³ / 140000 ×10⁶ dm³ / 1.4 × 10⁵ ×10⁶ dm³. Accept calculated value with working.",
-          "keywords": ["calculation", "rate", "increase", "mean", "2020", "constant", "working"]
+          "keywords": [
+            "calculation",
+            "rate",
+            "increase",
+            "mean",
+            "2020",
+            "constant",
+            "working"
+          ]
         },
         {
           "id": "7c_iii",
           "text": "The use of biofuels produces carbon dioxide. The graph shows the production of carbon dioxide using biofuels from four crop plants. The table gives information about the level of water, fertilisers and pesticides needed for crop plants to grow. Explain the advantages and disadvantages of using these crop plants as a sustainable resource to produce biofuels. Use the information in the question to support your answer.",
           "marks": 6,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q7c-biofuel-graph-table.PNG",
+          "image": "/papers/wbi12-oct-2019/q7-7c_iii.png",
           "answer": "Advantages: renewable resource / can be replanted / fast growing / hemp and sugar beet have low CO₂ production / hemp requires low water/fertilisers/pesticides / reduces use of fossil fuels / carbon neutral. Disadvantages: soybean and rapeseed have high CO₂ production / require high water/fertilisers/pesticides / use of fertilisers causes eutrophication / use of pesticides can harm wildlife / biomagnification / land use competition with food crops / deforestation.",
-          "keywords": ["renewable", "carbon neutral", "low CO₂", "fossil fuels", "eutrophication", "pesticides", "fertilisers", "water", "land use"]
+          "keywords": [
+            "renewable",
+            "carbon neutral",
+            "low CO₂",
+            "fossil fuels",
+            "eutrophication",
+            "pesticides",
+            "fertilisers",
+            "water",
+            "land use"
+          ]
         }
       ]
     },
@@ -344,7 +648,7 @@
       "type": "structured",
       "totalMarks": 13,
       "question": "The phenotype of a rabbit is affected by its genotype. Rabbit sperm cells contain genetic information that will become part of the genotype of the offspring.",
-      "image": "/papers/wbi12-oct2019/q8-rabbit-sperm-diagram.PNG",
+      "image": "/papers/wbi12-oct-2019/page-27.png",
       "parts": [
         {
           "id": "8a",
@@ -353,11 +657,24 @@
           "type": "mcq",
           "answer": "B",
           "options": [
-            { "id": "A", "text": "W" },
-            { "id": "B", "text": "X" },
-            { "id": "C", "text": "Y" },
-            { "id": "D", "text": "Z" }
-          ]
+            {
+              "id": "A",
+              "text": "W"
+            },
+            {
+              "id": "B",
+              "text": "X"
+            },
+            {
+              "id": "C",
+              "text": "Y"
+            },
+            {
+              "id": "D",
+              "text": "Z"
+            }
+          ],
+          "image": "/papers/wbi12-oct-2019/q8-8a.png"
         },
         {
           "id": "8b",
@@ -365,7 +682,10 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Morula.",
-          "keywords": ["morula"]
+          "keywords": [
+            "morula"
+          ],
+          "image": "/papers/wbi12-oct-2019/q8-8b.png"
         },
         {
           "id": "8c_i",
@@ -373,7 +693,17 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "DNA methylation / methyl groups added to DNA / cytosine bases methylated. Histone modification / acetylation / methylation of histones / histone tails modified. Chromatin remodelling / changes in chromatin structure. Can activate or silence genes / switch genes on or off.",
-          "keywords": ["methylation", "DNA methylation", "histone", "acetylation", "chromatin", "modification", "silence", "activate"]
+          "keywords": [
+            "methylation",
+            "DNA methylation",
+            "histone",
+            "acetylation",
+            "chromatin",
+            "modification",
+            "silence",
+            "activate"
+          ],
+          "image": "/papers/wbi12-oct-2019/q8-8c_i.png"
         },
         {
           "id": "8c_ii",
@@ -381,18 +711,77 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Epigenetic modification alters gene expression / switches genes on or off / different genes activated in different cells. Specific genes are expressed / transcribed / translated / producing specific proteins. Different cells produce different proteins / enzymes / leading to different structures / functions / cell specialisation / differentiation.",
-          "keywords": ["gene expression", "switched on", "switched off", "transcribed", "translated", "proteins", "specialisation", "differentiation", "function"]
+          "keywords": [
+            "gene expression",
+            "switched on",
+            "switched off",
+            "transcribed",
+            "translated",
+            "proteins",
+            "specialisation",
+            "differentiation",
+            "function"
+          ],
+          "image": "/papers/wbi12-oct-2019/q8-8c_ii.png"
         },
         {
           "id": "8d",
           "text": "The table shows information about three types of rabbit. Enzymes produced by the rabbits control the production of pigments in the fur. One type of rabbit produces an enzyme that is inactive at the core body temperature of the rabbit. Discuss how genes and the environment interact to produce the fur colour of these three types of rabbit. Use the information in the question to support your answer.",
           "marks": 6,
           "type": "short_answer",
-          "image": "/papers/wbi12-oct2019/q8d-rabbit-fur-table.PNG",
+          "image": "/papers/wbi12-oct-2019/q8-8d.png",
           "answer": "Black rabbits: genotype CC, Ccʰ, Ccᵃ / dominant allele C produces active enzyme at all temperatures / produces black pigment all over. Himalayan rabbits: genotype cʰcʰ, cʰcᵃ / enzyme only active in cooler temperatures (ears, nose, paws, tail) / inactive at core body temperature / white fur on warm body parts / black on cold extremities. Albino rabbits: genotype cᵃcᵃ / no functional enzyme produced / no pigment produced / white fur all over / recessive. Genes code for enzymes that produce pigment / temperature (environment) affects enzyme activity / epigenetic / gene-environment interaction determines phenotype.",
-          "keywords": ["genes", "environment", "temperature", "enzyme", "pigment", "dominant", "recessive", "Himalayan", "epistasis", "allele", "phenotype", "genotype"]
+          "keywords": [
+            "genes",
+            "environment",
+            "temperature",
+            "enzyme",
+            "pigment",
+            "dominant",
+            "recessive",
+            "Himalayan",
+            "epistasis",
+            "allele",
+            "phenotype",
+            "genotype"
+          ]
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi12-oct-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit2-2019-10-qp.pdf",
+    "pageImages": [
+      "/papers/wbi12-oct-2019/page-01.png",
+      "/papers/wbi12-oct-2019/page-02.png",
+      "/papers/wbi12-oct-2019/page-03.png",
+      "/papers/wbi12-oct-2019/page-04.png",
+      "/papers/wbi12-oct-2019/page-05.png",
+      "/papers/wbi12-oct-2019/page-06.png",
+      "/papers/wbi12-oct-2019/page-07.png",
+      "/papers/wbi12-oct-2019/page-08.png",
+      "/papers/wbi12-oct-2019/page-09.png",
+      "/papers/wbi12-oct-2019/page-10.png",
+      "/papers/wbi12-oct-2019/page-11.png",
+      "/papers/wbi12-oct-2019/page-12.png",
+      "/papers/wbi12-oct-2019/page-13.png",
+      "/papers/wbi12-oct-2019/page-14.png",
+      "/papers/wbi12-oct-2019/page-15.png",
+      "/papers/wbi12-oct-2019/page-16.png",
+      "/papers/wbi12-oct-2019/page-17.png",
+      "/papers/wbi12-oct-2019/page-18.png",
+      "/papers/wbi12-oct-2019/page-19.png",
+      "/papers/wbi12-oct-2019/page-20.png",
+      "/papers/wbi12-oct-2019/page-21.png",
+      "/papers/wbi12-oct-2019/page-22.png",
+      "/papers/wbi12-oct-2019/page-23.png",
+      "/papers/wbi12-oct-2019/page-24.png",
+      "/papers/wbi12-oct-2019/page-25.png",
+      "/papers/wbi12-oct-2019/page-26.png",
+      "/papers/wbi12-oct-2019/page-27.png",
+      "/papers/wbi12-oct-2019/page-28.png"
+    ]
+  },
+  "unit": "Unit 2"
 }

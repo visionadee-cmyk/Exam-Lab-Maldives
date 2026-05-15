@@ -1,0 +1,195 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 1 0 1 0 0 1 0 1 1 1 0 0 0 1 1 1 1 1 1 0 1 0 1",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: − Hypertext Mark-up Language − A mark-up language used to create webpages",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct row: Example Structure ( ) Presentation ( ) The colour applied to a text heading on a web page The font style applied to a paragraph of text on a web page The placement of a paragraph of text on a web page The size that an image is set to be displayed at on a web page The placement of an image next to a paragraph of text of a web page 1 mark 1 mark 1 mark 1 mark 1 mark 1 mark 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct term, in the correct place: − URL − https − Domain name − Web server − Browser − HTML − Small packets of data − « that are stored by the web browser Four from: − To store a customer’s password « − To store a customer’s credit card details « − « so they do not need to be re-entered in future − To track what the customer has viewed on the website « − « so she can send them adverts that match their preferences 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) A computer can have both a MAC address and an IP address. Four statements are given about MAC addresses and IP addresses. Tick (✓) to show whether each statement is True or False. Statement True (✓) False (✓) A MAC address is unique to a computer on a network Once an IP address has been set it cannot be changed A MAC address is made up of the compute",
+      "text": "2 (a) A computer can have both a MAC address and an IP address. Four statements are given about MAC addresses and IP addresses. Tick (✓) to show whether each statement is True or False. Statement True (✓) False (✓) A MAC address is unique to a computer on a network Once an IP address has been set it cannot be changed A MAC address is made up of the compute",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) A computer can have both a MAC address and an IP address. Four statements are given about MAC addresses and IP addresses. Tick (✓) to show whether each statement is True or False. Statement True (✓) False (✓) A MAC address is unique to a computer on a network Once an IP address has been set it cannot be changed A MAC address is made up of the compute",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct row: Statement True ( ) False ( ) A MAC address is unique to a computer on a network Once an IP address has been set it cannot be changed A MAC address is made up of the computer’s serial number and the IP address If a computer does not have an IP address it cannot communicate with another device using the Internet Two from: − Programs / instructions are stored in memory − Data is stored in memory − Instructions are fetched and executed one after another − Carries out calculations − Carries out logical operations − Holds temporary / interim values during calculations − « in a register called the accumulator (ACC) 0478/13 May/June 2019 − Interrupt Two from: − Provides an interface − Loads / opens / installs / closes software − Manages the hardware // manages peripherals // spooling − Manages the transfer of programs into and out of memory − Divides processing time // processor management − Manages file handling − Manages error handling // interrupt handling − Manages security software − Manages utility software − Manages user accounts − Multitasking − Multiprogramming // time slicing − Batch processing 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: − The company could use the firewall to set criteria − Gaming websites can be listed as blocked websites // ports can be blocked − The firewall would examine any traffic leaving the network − If it detected traffic requesting a listed website, it will block access to it − Keeps a log of all attempts to access blocked websites",
+          "image": "/papers/computer_science-0478-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: − An encryption algorithm is used − « to scramble data − The original data is called the plain text − A key is used to encrypt the data − The key is applied to the plain text − Plain text is encrypted into cypher text",
+          "image": "/papers/computer_science-0478-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from: − The user could have been sent an email with an attachment / link containing the spyware − The user could have clicked a link on an untrusted website − When the attachment / link was clicked the spyware was downloaded onto the user’s computer − The spyware recorded all the key logs from the user’s keyboard − The recorded key logs were sent back to the creator of the spyware − The key logs were analysed − A common pattern / word in the key logs could have allowed a password to be identified 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct logic gate, with correct inputs: 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6/7 correct outputs 2 marks for 4/5 correct outputs 1 mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2019/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: − To carry out a logical operation − To control the flow of electricity through a logic circuit − An input is given and the logic of the gate is applied to give an output // to alter the output from given inputs 0478/13 May/June 2019 − B Three from: − Added up the number of 1’s / 0’s in each register − With the parity bit, two registers have an odd number of 1’s / 0’s − One register has an even number of 1’s / 0’s − Odd parity must be the parity used",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: − Screen has two / multiple layers − Visitor presses on top layer − Top layer connects to bottom layer − « creating a circuit − Calculation is carried out on where layers are connected",
+          "image": "/papers/computer_science-0478-2019/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: − Speaker − Headphones − Printer 0478/13 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (max. 2 marks per type): Primary − Memory that is directly accessed by the CPU − An example is RAM / ROM − RAM stores programs and data that are currently in use and ROM stores boot-up instructions − RAM is volatile and ROM is non volatile Secondary − Storage that is not directly accessed by the CPU − An example is HDD / SSD − Stores data / files that can be accessed at a later stage − Non volatile",
+          "image": "/papers/computer_science-0478-2019/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

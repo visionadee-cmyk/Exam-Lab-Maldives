@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2019-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2019",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) • The student places the metre rule on the pivot. • He places the load P, labelled 1.5 N, on the metre rule at the 90.0 cm mark. • Keeping P at the 90.0 cm mark, he adjusts the position of the metre rule on the pivot so that the metre rule is as near as possible to being balanced. • In Table 1.1, he records the distance a from the 50.0 cm mark to the pivot. (i)",
+      "text": "1 (a) • The student places the metre rule on the pivot. • He places the load P, labelled 1.5 N, on the metre rule at the 90.0 cm mark. • Keeping P at the 90.0 cm mark, he adjusts the position of the metre rule on the pivot so that the metre rule is as near as possible to being balanced. • In Table 1.1, he records the distance a from the 50.0 cm mark to the pivot. (i)",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method indicated on graph triangle at least half of candidate’s distance between extreme plots W = G to 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Balance on pivot with no load – balance point is at c of m",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Obtaining a stable balance 0625/61 October/November 2019 V = 2.5 I = 0.3(0) Both units correct R 8.33 (ecf allowed)",
+          "image": "/papers/physics-0625-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R 11.4 with unit Ω Justification matches statement",
+          "image": "/papers/physics-0625-2019/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Lamps in parallel and correct symbol for lamp One voltmeter, with correct symbol, in parallel with lamps Variable resistor in correct position, with correct symbol 0625/61 October/November 2019 (°C) Times 60, 120, 180, 240, 300 Units s and °C Correct box ticked to match readings (i) , quoting figures Reference to same time Insulate Lid Lower starting temperature Higher room temperature Smaller volume of water Smaller surface area",
+          "image": "/papers/physics-0625-2019/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Clearly shown perpendicular line of sight Clearly shown bottom of meniscus 0625/61 October/November 2019 MP1 How the ball will move: Back and forth / like a pendulum MP2 Release from a determined position, time until stops MP3 Repeat with at least two more values of independent variable MP4 Statement of variable to be changed MP5 Statement of a variable to keep constant MP6 Table with columns for chosen variable that is changed and time with correct units, s for time. MP7 Compare chosen variable with time. Or plot graph of chosen variable against time",
+          "image": "/papers/physics-0625-2019/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit6-2019-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

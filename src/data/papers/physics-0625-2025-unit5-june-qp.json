@@ -1,0 +1,79 @@
+{
+  "paperId": "physics-0625-2025-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Use the thermometer to measure the temperature θ R of the water in the container labelled ‘cold water’. θ R = ......................................................... [1] (b) (i) V is the total volume of water in beaker A. Complete the column headings in Table 2.1. Table 2.1 V /θ / 100 120 140 160 180 200 [1] (ii) • Pour 100 cm 3 of hot water into beaker A. •",
+      "text": "1 (a) Use the thermometer to measure the temperature θ R of the water in the container labelled ‘cold water’. θ R = ......................................................... [1] (b) (i) V is the total volume of water in beaker A. Complete the column headings in Table 2.1. Table 2.1 V /θ / 100 120 140 160 180 200 [1] (ii) • Pour 100 cm 3 of hot water into beaker A. •",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculation of  answer given to 2 or 3 significant figures 1 May/June 2025 Question Answer Marks , °C 1 temperatures decreasing 1 all temperatures to at least 1 °C 1 suitable scales (occupying at least ½ the grid) 1 plots correct to  ½ small square AND precise plots good best-fit line judgement, thin, continuous line 1 • some form of insulation • add a lid • shield from draughts • white / shiny surface May/June 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal at 90° at centre of MR AND incident ray at 40°  2°, below MR P1 P2 separation at least 5.0 cm 1 reflected ray below MR and normal incident ray and reflected ray meeting at B within 2 mm",
+          "image": "/papers/physics-0625-2025/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " correctly measured to  2° new reflected ray in correct quadrant 1",
+          "image": "/papers/physics-0625-2025/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = 40  2° justification to include idea of results being equal within the limits of experimental error (or within 10%) 1 • thin pins • thin lines / sharp pencil • view bases of pins / pins vertical • pins far apart / at least 5 cm May/June 2025 Question Answer Marks 4 MP1 circuit used: correct circuit diagram MP2 measurements made: measure wire diameter AND measure voltage and current OR record voltmeter and ammeter readings MP3 analysis of readings: calculate / work out resistance of wire MP4 performing the investigation: repeat for at least two other diameters of wire MP5 variable kept constant: length / material of wire MP6 table: with columns for diameter of wire, voltage, current and resistance each column must be labelled with both quantity and unit MP7 conclusion: plot a graph of resistance against diameter OR an answer which suggests comparing values of diameter AND resistance in table",
+          "image": "/papers/physics-0625-2025/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

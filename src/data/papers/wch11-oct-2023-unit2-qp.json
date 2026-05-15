@@ -1,0 +1,107 @@
+{
+  "paperId": "wch11-oct-2023-unit2-qp",
+  "pairedMarkSchemeId": "wch11-oct-2023-unit2-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH12/01",
+  "session": "October 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is D (rate decreases and yield increases) A is incorrect because a decrease in temperature would decrease the rate but increase the yield B is incorrect because a decrease in temperature would decrease the rate C is incorrect because a decrease in temperature would increase the yield (1) Computer Number Answer Mark",
+          "image": "/papers/wch11-oct-2023/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is B (rate increases and yield increases) A is incorrect because an increase in pressure would increase the yield (1) Computer C is incorrect because an increase in pressure would increase the rate and increase the yield D is incorrect because an increase in pressure would increase the rate Number Answer Mark The only correct answer is C (the mixture becomes more yellow) A is incorrect because the position of equilibrium would change B is incorrect because coloured ions would still be present D is incorrect because the removal of the hydrogen ions would move the position of equilibrium to the left (1) Computer Number Answer Mark",
+          "image": "/papers/wch11-oct-2023/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2023/q11.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13a",
+          "text": "Part 13a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is A (1-methylcyclopentanol) B is incorrect because 2-methylcyclopentanol is a secondary alcohol C is incorrect because 2-methylbutan-1-ol is a primary alcohol D is incorrect because 3-methylpentan-2-ol is a secondary alcohol (1) Computer Number Answer Mark",
+          "image": "/papers/wch11-oct-2023/q13-13a.png"
+        },
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is C (phosphorus(V) chloride) A is incorrect because acidified aqueous potassium dichromate(VI) does not oxidise tertiary alcohols B is incorrect because bromine water does not react with alcohols D is incorrect because sodium carbonate solution does not react with alcohols (1) Computer Number Answer Mark",
+          "image": "/papers/wch11-oct-2023/q13-13b.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2023/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14a",
+          "text": "Part 14a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is D (CO stretching at 1720 − 1700 cm −1 ) A is incorrect because the alcohol will have been oxidised B is incorrect because an aldehyde is not an oxidation product of a secondary alcohol C is incorrect because the ketone cannot be further oxidised by acidified potassium dichromate(VI) (1) Computer Number Answer Mark",
+          "image": "/papers/wch11-oct-2023/q14-14a.png"
+        },
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is B (CO stretching at 1740 − 1720 cm −1 ) A is incorrect because the aldehyde product will distil at a lower temperature than the reactant C is incorrect because the aldehyde is removed from the oxidising agent so cannot be further oxidised D is incorrect because a ketone is not formed when a primary alcohol is oxidised (1) Computer Number Mark The only correct answer is B (the C-Cl bond is stronger than the C-Br bond) A is incorrect because the solubility of the halogenoalkane does not affect the rate C is incorrect because the polarity of the C-halogen bond does not affect the rate D is incorrect because the solubility of the silver salt does not affect the rate (1) Computer Number Answer Mark The only correct answer is C (2.26) A is incorrect because this is half the mass of the product B is incorrect because only one OH group is replaced by chlorine C is incorrect because this is double the mass of the product (1) Computer Number Answer Mark The only correct answer is B (2-chloropropane) A is incorrect because a primary amine would be formed C is incorrect because alkanes do not react with ammonia D is incorrect because alkenes do not react with ammonia (1) Computer TOTAL FOR SECTION A = 20 MARKS A B C D 4 5 5 6 Section B Number Answer Additional Guidance Mark An answer that makes reference to the following point: 1. balanced ionic equation H + + OH − → H O Accept H O + + OH − → 2H O Accept multiples Ignore full equation as working Ignore state symbols even if incorrect Do not award uncancelled spectator ions (1) Graduate Number Answer Additional Guidance Mark 1. heat energy released under standard conditions 2. (when) 1 mol of water is produced (by the reaction of acid with alkali) (1) (1) Allow enthalpy change under standard conditions Allow for standard conditions 1 atm / 1(.01) x10 Pa and a stated temperature / 298K / 25 o C Ignore standard states Do not award energy required (2) Expert Number Answer Additional Guidance Mark An answe",
+          "image": "/papers/wch11-oct-2023/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2023/q14.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wch11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2023-unit2-2023-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

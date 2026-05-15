@@ -1,0 +1,246 @@
+const fs = require('fs');
+
+const json = {
+  paperId: 'accounting-7707-2025-unit2-june-ms',
+  subjectId: 'accounting_cambridge_olevel',
+  code: '7707/21',
+  session: 'May/June 2025',
+  title: 'Accounting Unit 2 - Mark Scheme',
+  totalMarks: 100,
+  timeMinutes: 105,
+  questions: [
+    {
+      id: 'q1',
+      number: 1,
+      type: 'structured',
+      totalMarks: 20,
+      question: 'Anika - Journal, Petty Cash and Ledger',
+      parts: [
+        {
+          id: '1a',
+          text: 'Prepare the journal entry to record the assets, liabilities and capital of Anika on 1 March 2025.',
+          marks: 4,
+          type: 'structured',
+          answer: 'Debit: Premises $90,000, Motor vehicles $14,500, Inventory $3,625, Trade receivables – Kofi $3,000, Davia $2,140, Petty cash $86. Credit: Bank $1,080, Trade payables – Ado $1,925, Sam $210, Capital $110,136.',
+          keywords: ['journal', 'assets', 'liabilities', 'capital']
+        },
+        {
+          id: '1b',
+          text: 'Complete Anika\'s petty cash book on page 3. Balance the petty cash book and bring down the balance on 1 April 2025.',
+          marks: 11,
+          type: 'structured',
+          answer: 'Balance b/d $86, Bank $64, Total received $150. Payments: Petrol $30, Computer paper $12, Sam $48, Postage $6, Car cleaning $8. Total paid $104, Balance c/d $46. Balance b/d Apr 1 $46, Bank $104.',
+          keywords: ['petty cash', 'balance', 'analysis columns']
+        },
+        {
+          id: '1c',
+          text: 'Prepare Sam\'s account in the purchases ledger. Balance the account and bring down the balance on 1 April 2025.',
+          marks: 5,
+          type: 'structured',
+          answer: 'Mar 17 Petty cash $48, Mar 25 Purchases returns $57, Balance c/d $219. Total $324. Mar 1 Balance b/d $210, Mar 21 Purchases $114. Balance b/d Apr 1 $219.',
+          keywords: ['purchases ledger', 'Sam account', 'balance']
+        }
+      ]
+    },
+    {
+      id: 'q2',
+      number: 2,
+      type: 'structured',
+      totalMarks: 20,
+      question: 'Mo - Depreciation, Disposal and Rental Income',
+      parts: [
+        {
+          id: '2a',
+          text: 'Calculate the total depreciation which has been charged on the delivery vehicle over the three years.',
+          marks: 3,
+          type: 'calculation',
+          answer: '2021: $2,000 (10,000 × 20%), 2022: $1,600 (8,000 × 20%), 2023: $1,280 (6,400 × 20%). Total = $4,880',
+          keywords: ['depreciation', 'reducing balance', 'delivery vehicle']
+        },
+        {
+          id: '2b',
+          text: 'Prepare the disposal of motor vehicles account for the year ended 31 December 2024.',
+          marks: 4,
+          type: 'structured',
+          answer: 'Debit: Motor vehicles $10,000. Credit: Provision for depreciation $4,880, Bank $2,900, Income statement $2,220.',
+          keywords: ['disposal', 'motor vehicles', 'provision for depreciation']
+        },
+        {
+          id: '2c',
+          text: 'Calculate the cost of the new vehicle which should be recorded in the non-current assets account.',
+          marks: 2,
+          type: 'calculation',
+          answer: 'Cost of vehicle $12,500 + Number plates $215 = $12,715',
+          keywords: ['cost', 'non-current assets', 'number plates']
+        },
+        {
+          id: '2d',
+          text: 'Advise Mo whether or not he should open a shop on his farm. Justify your answer with advantages and disadvantages.',
+          marks: 5,
+          type: 'essay',
+          answer: 'Advantages: No motor expenses/delivery costs, can utilize time on other aspects, might increase sales/customers/profits, could sell vehicle. Disadvantages: Cost of converting building, cost of running shop, customers may not travel/prefer delivery, new van just purchased. Recommendation required.',
+          keywords: ['shop', 'advantages', 'disadvantages']
+        },
+        {
+          id: '2e',
+          text: 'Prepare the rental income account for the year ended 31 December 2024.',
+          marks: 4,
+          type: 'structured',
+          answer: 'Jan 1 Balance b/d $160, Dec 31 Income statement $960 (12 × $80). Mar 1 Bank $320, Sep 1 Bank $720, Dec 31 Balance c/d $80. Balance b/d Jan 1 $80.',
+          keywords: ['rental income', 'accrued', 'prepaid']
+        },
+        {
+          id: '2f_i',
+          text: 'Give one possible reason why Mo has a higher gross profit margin than Barry.',
+          marks: 1,
+          type: 'short_answer',
+          answer: 'They may sell different types of produce / Mo has a higher selling price than Barry / Mo\'s cost of producing/cost of sales is lower than Barry\'s',
+          keywords: ['gross profit margin', 'selling price', 'cost']
+        },
+        {
+          id: '2f_ii',
+          text: 'Give one possible reason why Mo has a higher net profit margin than Barry.',
+          marks: 1,
+          type: 'short_answer',
+          answer: 'Barry has to pay rent whereas Mo does not / Mo has lower expenses/controls expenses better / Using different accounting methods e.g. different depreciation methods',
+          keywords: ['net profit margin', 'rent', 'expenses']
+        }
+      ]
+    },
+    {
+      id: 'q3',
+      number: 3,
+      type: 'structured',
+      totalMarks: 20,
+      question: 'Nabil - Error Correction and Bank Reconciliation',
+      parts: [
+        {
+          id: '3a',
+          text: 'Prepare the journal entries to correct errors 1–5. Narratives are not required.',
+          marks: 11,
+          type: 'structured',
+          answer: '1. Wages Dr $425, Purchases Cr $425. 2. Discount allowed Dr $38, Suspense Cr $38. 3. Suspense Dr $100, Sales Cr $100. 4. Purchases Dr $170, Bank Cr $170. 5. Insurance Dr $210, Suspense Cr $210, Bank Dr $420.',
+          keywords: ['journal', 'errors', 'corrections']
+        },
+        {
+          id: '3b',
+          text: 'Prepare Nabil\'s suspense account for April 2025.',
+          marks: 4,
+          type: 'structured',
+          answer: 'Apr 30 Sales $100, Bank $210. Apr 30 Difference on trial balance $272, Discount allowed $38. Total $310.',
+          keywords: ['suspense account', 'trial balance']
+        },
+        {
+          id: '3c',
+          text: 'Calculate the corrected cash at bank balance on 30 April 2025.',
+          marks: 4,
+          type: 'calculation',
+          answer: 'Original cash at bank balance $935 + Bank charges $90 = $1,025. Less: Purchases $170, Insurance $420 = $590. Corrected balance = $435.',
+          keywords: ['cash at bank', 'corrections']
+        },
+        {
+          id: '3d',
+          text: 'State the purpose of a bank statement.',
+          marks: 1,
+          type: 'short_answer',
+          answer: 'To enable the customer to compare their records against those of the bank / To check the bank balance in the cash book against that shown in the bank\'s records / To identify the reason for any differences / To discover errors/omissions / To reconcile the bank statement balance with that in the cash book',
+          keywords: ['bank statement', 'purpose', 'reconciliation']
+        }
+      ]
+    },
+    {
+      id: 'q4',
+      number: 4,
+      type: 'structured',
+      totalMarks: 20,
+      question: 'H Limited - Company Accounts',
+      parts: [
+        {
+          id: '4a',
+          text: 'Prepare the Statement of Changes in Equity for H Limited for the year ended 30 April 2025.',
+          marks: 4,
+          type: 'structured',
+          answer: 'Opening balances: Share capital $120,000, General reserve $20,000, Retained earnings $33,635. Profit for year $26,700, Transfer to general reserve $5,000, Dividends paid $5,340. Closing: Share capital $120,000, General reserve $25,000, Retained earnings $49,995.',
+          keywords: ['statement of changes in equity', 'dividends', 'reserves']
+        },
+        {
+          id: '4b',
+          text: 'Prepare the Statement of Financial Position for H Limited as at 30 April 2025.',
+          marks: 7,
+          type: 'structured',
+          answer: 'Non-current assets: Fixtures and equipment $155,000, Motor vehicles $16,875. Current assets: Inventory $28,120, Trade receivables $33,000 less Provision $990 = $32,010. Total assets $232,005. Equity: Share capital $120,000, General reserve $25,000, Retained earnings $49,995. Non-current liabilities: 5% Debentures $5,000. Current liabilities: Trade payables $26,815, Bank overdraft $5,195. Total $232,005.',
+          keywords: ['statement of financial position', 'assets', 'liabilities']
+        },
+        {
+          id: '4c',
+          text: 'Define capital employed.',
+          marks: 1,
+          type: 'short_answer',
+          answer: 'The total funds provided by the owners of a business / The difference between the assets and liabilities of a business',
+          keywords: ['capital employed', 'definition']
+        },
+        {
+          id: '4d',
+          text: 'Calculate the return on capital employed (ROCE) for H Limited.',
+          marks: 3,
+          type: 'calculation',
+          answer: 'ROCE = Profit before interest and tax / Capital employed × 100 = 26,700 + 250 / 194,995 + 5,000 × 100 = 26,950 / 199,995 × 100 = 13.48%',
+          keywords: ['ROCE', 'return on capital employed', 'calculation']
+        },
+        {
+          id: '4e',
+          text: 'Advise H Limited whether or not they should issue $25,000 of debentures. Justify your answer with advantages and disadvantages.',
+          marks: 5,
+          type: 'essay',
+          answer: 'Points for: No liability once repaid / Will not reduce shareholders\' stake / Low amount of loans at present / Funds available quickly. Points against: Interest must be paid / May be secured against assets / Have to be repaid / Already have commitment to repay existing debentures. Recommendation required.',
+          keywords: ['debentures', 'advantages', 'disadvantages']
+        }
+      ]
+    },
+    {
+      id: 'q5',
+      number: 5,
+      type: 'structured',
+      totalMarks: 20,
+      question: 'Grace - Manufacturing Account',
+      parts: [
+        {
+          id: '5a',
+          text: 'Prepare the Manufacturing Account for Grace for the year ended 31 March 2025.',
+          marks: 10,
+          type: 'structured',
+          answer: 'Cost of material consumed: Opening inventory $5,345 + Purchases $72,870 + Carriage inwards $1,220 = $79,435 - Closing inventory $7,100 = $72,335. Direct wages $29,175. Prime cost $101,510. Factory overheads: Supervisor wages $26,000, Factory power $15,435, Rent and insurance $7,800, Depreciation $23,040. Total factory overheads $72,275. Cost of production $173,215.',
+          keywords: ['manufacturing account', 'prime cost', 'factory overheads']
+        },
+        {
+          id: '5b',
+          text: 'Calculate the value of the closing inventory of finished goods on 31 March 2025.',
+          marks: 4,
+          type: 'calculation',
+          answer: '237 units × $14 = $3,318. 3 units at NRV = $39. 15 units at cost $14 = $210. Total = $3,567.',
+          keywords: ['closing inventory', 'cost', 'NRV']
+        },
+        {
+          id: '5c',
+          text: 'Explain the accounting principle being applied when factory equipment is recorded at its original cost.',
+          marks: 1,
+          type: 'short_answer',
+          answer: 'All assets and expenses are recorded at their actual cost / Factory equipment is recorded at the amount of its actual/original cost',
+          keywords: ['historical cost', 'accounting principle']
+        },
+        {
+          id: '5d',
+          text: 'Advise Grace whether or not she should produce handbags. Justify your answer with advantages and disadvantages.',
+          marks: 5,
+          type: 'essay',
+          answer: 'Points for: Not dependent on suppliers for price/quality/reliability, possibility of higher sales/customers/profit. Points against: New equipment may be required, may be cheaper to purchase, may produce inferior quality, may not meet demand, may need additional space, cost of production will increase. Recommendation required.',
+          keywords: ['handbags', 'make or buy', 'advantages', 'disadvantages']
+        }
+      ]
+    }
+  ]
+};
+
+const outputPath = 'C:/Users/maushaz.MADIHAA/Desktop/Rettey/exam-lab-maldives/exam-lab-mv/src/data/papers/accounting-7707-2025-unit2-june-ms.json';
+fs.writeFileSync(outputPath, JSON.stringify(json, null, 2));
+console.log('JSON saved to:', outputPath);

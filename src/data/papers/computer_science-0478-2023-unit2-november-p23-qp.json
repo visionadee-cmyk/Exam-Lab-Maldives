@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2023-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit2-november-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "October/November 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Accept Reject PartOK Error OUTPUT 0 0 1 Y 2 Y 3 Y 1 N 4 Y 5 Y 6 Y 7 Y 2 N 8 Y 9 Y 10 Y 20 Too many rejected 20% error One mark for each column October/November 2023 Question Answer Marks • after the Input box // before the first decision box • insert a process box • to convert the input to upper case OR • change the first decision / add another decision box • to accept 'y' as well • by adding OR PartOK = 'y' Question Answer Marks Fields: 5 True silver white laced top half and black lower half Brown eared brown with ear tufts SELECT Species FROM PheasantList WHERE Breeding or WHERE Young = 0 AND Young = 0; AND Breeding; October/November 2023 Question Answer Marks • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required names shown underlined must be used as given in the scenario 2D Array or list Temperatures Variables MaxDay, MinDay, AvDay, MaxWeek, MinWeek, AvWeek Requirements (techniques) R1 Find maximum and minimum temperatures for each day and calculates the average daily temperature (searching, totalling) R2 Find maximum and minimum temperatures for week and calculates the average weekly temperature (nested searching, totalling) R3 outputs for each day name, the rounded values for maximum temperature, minimum temperatures and average temperature. Outputs for the week the rounded values for maximum temperature, minimum temperatures and average temperature (output with appropriate messages and rounded values) Example 15-mark answer in pseudocode: // meaningful identifier names and appropriate data structures to store the data required DECLARE DayCounter, HourCounter : INTEGER DECLARE AvDay, AvWeek, MaxDay, MinDay, MaxWeek, MinWeek : REAL DECLARE DayTotal, WeekTotal : REAL DECLARE Day : STRING CONSTANT Hours  24 CONSTANT Days  7 October/November 2023 Question Answer Marks MaxWeek  -1000// initialise max and min temperatures and total for the week MinWeek  1000 WeekTotal  0 FOR DayCounter  0 TO Days - 1 MaxDay  -1000// initialise max and min t",
+          "image": "/papers/computer_science-0478-2023/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit2-2023-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

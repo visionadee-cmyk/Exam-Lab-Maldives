@@ -1,0 +1,113 @@
+{
+  "paperId": "computer_science-9618-2023-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit2-june-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "May/June 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The dimension of the array The name of the variable used as an array index PCount The number of elements in the array  The (second dimension/index of the) array is declared from 1 to 50 but the loop runs from 0 to 49  Line number: 10 / 100 / 101 / 102 Pseudocode statement Input Process Output INPUT MyChoice  OUTPUT FirstName & LastName   WRITEFILE OutputFile, TextLine  READFILE MyFile, TextLine  Result  SQRT(NextNum)  Question Answer Marks IF DAYINDEX(MyDOB) = 5 THEN MP2 Value of year is <= 2002 MP2 Clear description for a check that the day number matches with a relevant month (Either day matches with month // month matches with day) May/June 2023 Question Answer Marks One mark for: MP1 Values 'BBB' and 'AAA' MP2 Values 'XXX' to 'PPP' (unchanged) MP3 Both pointers and labelled22 MP4 Values of both variables run) // the data is permanently saved / data is not lost when the program terminates MP1 Open the text file in WRITE mode MP2 Check there is a value on the stack MP3 POP value .... MP4 Write value to the text file MP5 Repeat from Step 2 // loop referencing the stack items Alternative solution: Not using POP primitive MP1 Open the text file in WRITE mode MP2 Check there is a value on the stack MP3 Read value from ToS location MP4 Write the value to the text file – Must some attempt at ‘the value’ NOT ‘all the values’ MP5 Decrement ToS MP6 Repeat from step 2 // loop referencing the stack items May/June 2023 Question Answer Marks FUNCTION MakeString(Count : INTEGER, AChar : CHAR) RETURNS STRING DECLARE MyString : STRING DECLARE Index : INTEGER IF Count < 1 THEN MyString  \"ERROR\" ELSE MyString  \"\" FOR Index  1 TO Count MyString  MyString & AChar NEXT Index ENDIF RETURN MyString ENDFUNCTION MP1 Function heading and end including parameters and return type MP2 Declaration of locals Index and MyString MP3 Test for Count < 1 and if true, assign \"ERROR\" to MyString / Immediate RETURN MP4 Loop for Count iterations MP5 Use of concatenate – must have been initi",
+          "image": "/papers/computer_science-9618-2023/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/page-01.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Max 4 marks MP1 The function will take two integer parameters - the number and the (required) total MP2 ... and return a Boolean OR: CheckNum(Number,Total : INTEGER) RETURNS BOOLEAN MP1 MP2 Two marks for the advantages: MP3 CheckNum()can be called repeatedly as and when required MP4 CheckNum()is designed and tested once (then used repeatedly) MP5 Any subsequent change to CheckNum() needs to be made once only // is easier to maintain/modify Question Answer Marks  To filter out information (that is not necessary to solve the problem) // to include only essential information May/June 2023 Question Answer Marks Student : Student name / email (address) Loan: Return/Issue date Book: Book title Not Required: Student: Home address / DoB / tutor / subject choices Book: Library location / category / author / book title Examples could include:  Clear the loan // indicate that the book has been returned // update loan history  Take the student off 'block' // allow the student to borrow further books  Send acknowledgement to the student when book is returned MP1 All modules correctly labelled and interconnected. MP2 Correct parameters and return type to Module-X and Reset MP3 Correct parameters and return type to Module-Y and Replace MP4 Correct parameters and return type to Overlay and Module-Y May/June 2023 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/page-06.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION ChangeSupp(Code1, Code2 : STRING) RETURNS INTEGER DECLARE Count : INTEGER DECLARE ThisLine, ThisCode : STRING OPENFILE \"Stock.txt\" FOR READ OPENFILE \"NewStock.txt\" FOR WRITE Count  0 WHILE NOT EOF(\"Stock.txt\") READFILE(\"Stock.txt \", ThisLine) // brackets optional ThisCode  MID(ThisLine, 5, 3) IF ThisCode = Code1 THEN ThisLine  LEFT(ThisLine, 4) & Code2 & RIGHT(ThisLine, LENGTH(ThisLine) - 7) Count  Count + 1 ENDIF WRITEFILE(\"NewStock.txt\", ThisLine) // brackets optional ENDWHILE CLOSEFILE \"NewStock.txt\" CLOSEFILE \"Stock.txt\" RETURN Count ENDFUNCTION MP1 Open both files, in correct modes, and subsequently close MP2 Conditional loop until EOF(“Stock.txt”) MP3 Read a line from Stock.txt AND extract ThisCode in a loop MP4 Test ThisCode = Code1 AND if true, increment Count (must have been Initialised)in a loop MP5 Update ThisLine using substring functions and '&' in a loop MP6 completely correct update of ThisLine in a loop MP7 Write ThisLine to NewStock.txt in a loop MP8 Return count after loop May/June 2023 Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE Report_1(Supp : STRING) DECLARE Count : INTEGER DECLARE ThisItemNum, ThisDesc, ThisLine, ThisCode : STRING Count  0 OPENFILE \"Stock.txt\" FOR READ OUTPUT \"Report for Supplier:\" & Supp OUTPUT \"\" //Blank line as per example OUTPUT \"Item Description\" OUTPUT \"\" //Blank line as per example WHILE NOT EOF(\"Stock.txt\") READFILE(\"Stock.txt\", ThisLine) ThisCode  Mid(ThisLine, 5, 3) IF ThisCode = Supp THEN ThisItemNum  LEFT(ThisLine, 4) ThisDesc  RIGHT(ThisLine, LENGTH(ThisLine) - 7) OUTPUT ThisItem & \" \" & ThisDesc Count  Count + 1 ENDIF ENDWHILE CLOSEFILE \"Stock.txt\" OUTPUT \"\" //Blank line as per example OUTPUT \"Number of items listed: \", Count ENDPROCEDURE MP1 Output report header (blank lines optional) – Must contain the parameter code MP2 Conditional loop until EOF(\"Stock.txt\") MP3 Read a line from Stock.txt AND extract SupplierCode in a loop MP4 Test if SupplierCode = Supp then increment count (must have been Initialised) MP5 Extract AND output item and description in a loop MP6 Output the final line with count MP1 Must ‘calculate’ the count before any item + description output / after the file is read once MP2 Lines to be output have to be stored ... MP3 The file has to be read twice May/June 2023 Question Answer Marks MP1 Loop through the file calculating the count MP2 Save ‘selected’ items in an array MP3 (After all lines have been read), output the header lines / count MP4 Loop through the array to output each array element",
+          "image": "/papers/computer_science-9618-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/page-08.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit2-2023-06-22-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-9618-2023/page-01.png",
+      "/papers/computer_science-9618-2023/page-02.png",
+      "/papers/computer_science-9618-2023/page-03.png",
+      "/papers/computer_science-9618-2023/page-04.png",
+      "/papers/computer_science-9618-2023/page-05.png",
+      "/papers/computer_science-9618-2023/page-06.png",
+      "/papers/computer_science-9618-2023/page-07.png",
+      "/papers/computer_science-9618-2023/page-08.png",
+      "/papers/computer_science-9618-2023/page-09.png",
+      "/papers/computer_science-9618-2023/page-10.png",
+      "/papers/computer_science-9618-2023/page-11.png",
+      "/papers/computer_science-9618-2023/page-12.png",
+      "/papers/computer_science-9618-2023/page-13.png",
+      "/papers/computer_science-9618-2023/page-14.png",
+      "/papers/computer_science-9618-2023/page-15.png",
+      "/papers/computer_science-9618-2023/page-16.png",
+      "/papers/computer_science-9618-2023/page-17.png",
+      "/papers/computer_science-9618-2023/page-18.png",
+      "/papers/computer_science-9618-2023/page-19.png",
+      "/papers/computer_science-9618-2023/page-20.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

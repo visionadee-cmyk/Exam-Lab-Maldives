@@ -1,0 +1,95 @@
+{
+  "paperId": "biology-0610-2024-unit3-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2024-unit3-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/31",
+  "session": "May/June 2024",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "include it + reason – more than ½ in the square / cannot have half an individual; or exclude it + reason – not fully in the square / cannot have half an individual; / 10 based on answer to (a)(i);",
+          "image": "/papers/biology-0610-2024/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ref. to 800 (samples) (20  40); 9 in each sample = 7200 plants OR 10 in each sample = 8000 plants;",
+          "image": "/papers/biology-0610-2024/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "too time consuming to count them all / too difficult to keep an accurate tally / more likely to make a mistake / A W;",
+          "image": "/papers/biology-0610-2024/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "plants not evenly distributed / AW; larger proportion of field sampled; more representative / (larger sample means) you are more likely to include every type / number of plant species AW; 5090/31 May/June 2024",
+          "image": "/papers/biology-0610-2024/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 axes fully labelled; 2 linear scale for number of plants + value at origin + at least half of grid used in both directions; 3 values plotted correctly; 4 all bars ruled + equal width + bars not touching;",
+          "image": "/papers/biology-0610-2024/q2-2f.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) Plants can be provided with fertiliser to help them grow. Some students were provided with germinated seeds of the same species in some shallow dishes and a 10% fertiliser solution. One dish is shown in Fig. 3.1. The students had access to any other common laboratory apparatus. germinated seed shallow dish Fig. 3.1 Plan an investigation t",
+      "text": "3 (a) Plants can be provided with fertiliser to help them grow. Some students were provided with germinated seeds of the same species in some shallow dishes and a 10% fertiliser solution. One dish is shown in Fig. 3.1. The students had access to any other common laboratory apparatus. germinated seed shallow dish Fig. 3.1 Plan an investigation t",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Plants can be provided with fertiliser to help them grow. Some students were provided with germinated seeds of the same species in some shallow dishes and a 10% fertiliser solution. One dish is shown in Fig. 3.1. The students had access to any other common laboratory apparatus. germinated seed shallow dish Fig. 3.1 Plan an investigation t",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 stated method of measuring growth e.g. height / mass + at start and end; 2 at least 3 concentrations fertiliser all ≤ 10% used; 3 same volume of fertiliser solution; 4 leave the same time (after applying fertiliser); 5 same light intensity / CO levels / temperature / volume of water; 6 repeat at same fertiliser concentration + calculate mean; 7 comparison of data for variable measured (height or mass) v. fertiliser concentration;",
+          "image": "/papers/biology-0610-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2024-unit3-2024-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

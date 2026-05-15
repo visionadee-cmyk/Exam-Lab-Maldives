@@ -1,0 +1,115 @@
+{
+  "paperId": "physics-0625-2018-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2018-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) She measures the potential difference V 1 across the resistor R 1 and the current I in the circuit. Figs. 2.2 and 2.3 show the voltmeter and ammeter readings. (i) Write down the readings shown on the meters in Figs. 2.2 and 2.3. V 1 = .............................................................. I = .....................",
+      "text": "1 (a) She measures the potential difference V 1 across the resistor R 1 and the current I in the circuit. Figs. 2.2 and 2.3 show the voltmeter and ammeter readings. (i) Write down the readings shown on the meters in Figs. 2.2 and 2.3. V 1 = .............................................................. I = .....................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) She measures the potential difference V 1 across the resistor R 1 and the current I in the circuit. Figs. 2.2 and 2.3 show the voltmeter and ammeter readings. (i) Write down the readings shown on the meters in Figs. 2.2 and 2.3. V 1 = .............................................................. I = .....................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "d = 5(.0) (cm) D = 50 (cm) t = 14.06 T = 1.406 (allow ecf from 1(b)(ii): t /10 (s)) T = 1.98 or 1.99 (allow ecf from 1(b)(iii)) g = 10.1 (allow ecf from 1(b)(iv)) g given to 2 or 3 significant figures d values OR use a larger d value Count more swings one from: Perpendicular viewing of rule Counting beginning with zero (owtte) Use of fiducial mark (owtte) Use of set-square or horizontal rule to aid measurement of d Use rule close to/touching the bob Time taken from centre of swing, (not extremities) Measure length to top and bottom of bob and average Measure string length and add radius of bob measured with callipers or micrometer 0625/61 May/June 2018 EITHER V = 2.2 OR I = 0.46 correct Both values correct and correct units V and A R = 4.78 ( Ω ) (allow ecf from 2(a)(i))",
+          "image": "/papers/physics-0625-2018/q1-1a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "2 (a) On Fig. 1.1, measure the distance d. d = ................................................... cm [1] (b) Fig. 1.1 is drawn 1/10 th actual size. (i) Calculate the actual distance D from the bottom of the clamp to the centre of the bob. D = ................................................... cm [1] The student displaces the bo",
+      "text": "2 (a) On Fig. 1.1, measure the distance d. d = ................................................... cm [1] (b) Fig. 1.1 is drawn 1/10 th actual size. (i) Calculate the actual distance D from the bottom of the clamp to the centre of the bob. D = ................................................... cm [1] The student displaces the bo",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement matches readings (Expect YES) Expect justification to include the idea of within the limits of experimental accuracy (but acc ept beyond limits, if ecf allow ed for statement matching readings)",
+          "image": "/papers/physics-0625-2018/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R = 14.3 OR 14.4; 2 or 3 significant figures required Unit Ω V",
+          "image": "/papers/physics-0625-2018/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 resistors in parallel Correct variable resistor symbol Voltmeter symbol correct and circuit correct 0625/61 May/June 2018",
+          "image": "/papers/physics-0625-2018/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "uv values 1065, 1128, 1200, 1283, 1353 (all marks are still available if uv values are wrong) Axes correctly labelled and right way round Suitable scales All plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2018/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Triangle method clearly shown on graph Triangle using at least half of candidate’s line",
+          "image": "/papers/physics-0625-2018/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "G in range 14.0 to 16.0 f = G to 2 or 3 significant figures two from: Finding exact position that gives clearest image Measuring to centre of lens Room too bright/lamp too dim/image too faint 0625/61 May/June 2018 4 Method to include: (Hot) water in copper can, time taken for temperature to drop Correct use of at least 3 larger outer containers, separately Some indication that size of air gap is measured Any two from: Use of something to cover air gap Use of lid on copper can Same starting temperature Same room temperature Same volume of hot water Use of ‘control’ with no outer container Inner container standing on an insulator Uniform air gap all round Table with clear columns for temperature and/or time (to match method) and air-gap, with appropriate units Conclusion: Least temperature drop OR longest time for temperature to drop shows lowest cooling rate OR best insulation OR plot temperature against time and least gradient shows lowest cooling rate (ora)",
+          "image": "/papers/physics-0625-2018/q3-3d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2018-unit6-2018-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

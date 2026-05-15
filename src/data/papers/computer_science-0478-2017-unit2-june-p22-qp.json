@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-0478-2017-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) For a variable that you have used to record information about the cost of the outing in Task 1, state the name, data type and its use. Variable name .................................................................................................................... Data type ........",
+      "text": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) For a variable that you have used to record information about the cost of the outing in Task 1, state the name, data type and its use. Variable name .................................................................................................................... Data type ........",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "- calculate cost of carers // if more than 24 senior citizens on the trip cost is 60 otherwise cost is 40 - add to the cost of the outing 0478/22 May/June 2017 Question Answer Marks - loop for number of senior citizens on the trip - input with prompts name and amount paid - store name and amount paid in appropriate place in arrays - total the amount paid - check if spare places are available - if spare place is required remove a spare place//fill spare places - add name(s) to list in appropriate place(s) - store names of two carers - If number of senior citizens > 24 store name of third carer Max 5 marks Example TotalPaid 0 FOR Counter 1 TO NoSenCit PRINT \"Please Enter Name\" INPUT SenCitName[Counter] PRINT \"Please Enter amount paid\" INPUT SenCitAmount[Counter] TotalPaid TotalPaid + Amount NEXT Counter Extras TRUE WHILE NoSenCit < 36 and Extras PRINT \"Do you want to add another person? Y/N\" INPUT Answer IF Answer = \"Y\" THEN NoSenCit NoSenCit + 1 PRINT \"Please Enter Name\" INPUT SenCitName[NoSenCit] ELSE Extras FALSE ENDIF ENDWHILE PRINT \"Please Enter Name of First Carer\" INPUT Carer1 PRINT \"Please Enter Name of Second Carer\" INPUT Carer2 IF NoSenCit > 24 THEN PRINT \"Please Enter Name of Third Carer\" INPUT Carer3 ENDIF - check total cost - ««against total amount paid - if total cost < total amount paid display/show profit - if total cost = total amount paid display/show break even 0478/22 May/June 2017 Question Answer Marks - Input three numbers (1) - Attempt to select largest number (1) - Working method (1) - print out largest number (1) Sample algorithm INPUT Num1, Num2, Num3 IF (Num1 > Num2) AND (Num1 > Num3) THEN PRINT Num1 ENDIF IF (Num2 > Num1) AND (Num2 > Num3) THEN PRINT Num2 ENDIF IF (Num3 > Num1) AND (Num3 > Num2) THEN PRINT Num3 ENDIF or INPUT Num1 Big Num1 INPUT Num2, Num3 IF Num2 > Big THEN Big Num2 ENDIF IF Num3 > Big THEN Big Num3 ENDIF PRINT Big There are many possible correct answers, these are examples only. Test data set 1: 30, 29, 28 Reason: first n",
+          "image": "/papers/computer_science-0478-2017/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error - Count 0 Correction - Count 1 or Error - UNTIL Count > 100 Correction - UNTIL Count >= 100 or UNTIL Count = 100 or UNTIL Count > 99",
+          "image": "/papers/computer_science-0478-2017/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "- use of FOR with correct start and end values « - « use of NEXT - « removal of increment for Count Sample algorithm Sum 0 FOR Count 1 TO 100 INPUT Number Sum Sum + Number NEXT // NEXT Count PRINT Sum The following are examples there are many different correct answers. - EarTag (1), text, EAR1011 (1) - DOB (1), date, 4/3/2017 (1) - Gender (1), text, M (1) - Weight (1), number, 5.9 (1) 0478/22 May/June 2017 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2017/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: EarTag Gender Weight Table: SHEEP SHEEP SHEEP Sort: Show:;    Criteria: =’M’ > 10 or: (1 mark) (1 mark) (1 mark)",
+          "image": "/papers/computer_science-0478-2017/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit2-2017-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

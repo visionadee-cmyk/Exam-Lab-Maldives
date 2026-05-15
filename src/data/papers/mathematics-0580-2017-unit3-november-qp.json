@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2017-unit3-november-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2017-unit3-november-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/31",
+  "session": "October/November 2017",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Find (i) all the factors of 18, .................................................[2] (ii) a multiple of 30, .................................................[1] (iii) .213444 , .................................................[1] (iv) 2.5 3 , ..............................................",
+      "text": "6 (a) Find (i) all the factors of 18, .................................................[2] (ii) a multiple of 30, .................................................[1] (iii) .213444 , .................................................[1] (iv) 2.5 3 , ..............................................",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 × 3 M1 for a complete factor tree or 2, 2, 2, 3, 3 clearly identified as factors M1 for [16=] 2 or 2 × 2 × 2 × 2(×1) or [30=] 2 × 3 × 5(×1) or lists of multiples of both at least up to 240, or any product that equals 240 or B1 for 240n M1 for [LCM of 6 and 9 =] 18(00) or M1 for lists of multiples B1FT for “2 am” + their 18 correctly worked out soi OR B2 for [clock A = 2] 8, 14, 20... and [clock B = 2] 11, 20.... or B1 for [clock A = 2] 8, 14, 20...or [clock B = 2] 11, 20... oe oe M1 for 1 – 0.3 – 0.24 – 0.18 oe or 1 – 0.72 oe",
+          "image": "/papers/mathematics-0580-2017/q6-6b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2017/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "7 (a) Bag A contains 20 counters. 6 are red, 9 are blue and the rest are white. Jared takes one counter at random. Write down the probability that the counter is (i) red, .................................................[1] (ii) white, .................................................[1]",
+      "text": "7 (a) Bag A contains 20 counters. 6 are red, 9 are blue and the rest are white. Jared takes one counter at random. Write down the probability that the counter is (i) red, .................................................[1] (ii) white, .................................................[1]",
+      "parts": [
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "8 Accept 8 ÷ 20 Accept 6 ÷ 15 Comparing the two fractions with equal denominators or as decimals e.g. = and = or both shown equal to or [0] .4 or 40% October/November Question Answer Marks Partial marks B1 for 10x + 15 or –2x – 8 or 8x + j or kx + 7 as final answer final answer M1 for 2(3y + 1) + 2(2y + 5) oe B1 for 10y + j or ky + 12 (k≠0) 7m + 42 + 3m = 182 B1 for m + 6 or 7t + 3m = 182 M1 for 7m + 42 [+ 3m = 182] M1 for 7m + 3m = 182 − 42 or better OR M2 for [m=] (182 – (6 × 7)) / (7 + 3) or better or M1 for 182 – (6 × 7) or better M1 for 53×× or evidence of counting squares B1 for one line correctly scaled [centre] (0,0) oe 180° B1 for each (–3,–3), (–1,–5) and (–6,–6) B1 for reflection in y = k or x = –1 (4,4), (2,2) and (–1,5) B1 for a correct horizontal translation (5 to the right) or a correct vertical translation (1 up) B1 for 8n + j or kn – 10 (k ≠ 0)",
+          "image": "/papers/mathematics-0580-2017/q7-7c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2017/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2017-unit3-2017-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

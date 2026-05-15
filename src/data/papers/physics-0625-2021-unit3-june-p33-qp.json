@@ -1,0 +1,215 @@
+{
+  "paperId": "physics-0625-2021-unit3-june-p33-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit3-june-p33-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/33",
+  "session": "May/June 2021",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Determine the distance travelled by the car between 30 s and 60 s. distance travelled = ..................................................... m [3] (b) The distance travelled by the car between 60 s and 110 s is 460 m. Calculate the average speed of the car between 60 s and 110 s. average speed = .................................................",
+      "text": "1 (a) Determine the distance travelled by the car between 30 s and 60 s. distance travelled = ..................................................... m [3] (b) The distance travelled by the car between 60 s and 110 s is 460 m. Calculate the average speed of the car between 60 s and 110 s. average speed = .................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Determine the distance travelled by the car between 30 s and 60 s. distance travelled = ..................................................... m [3] (b) The distance travelled by the car between 60 s and 110 s is 460 m. Calculate the average speed of the car between 60 s and 110 s. average speed = .................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(distance =) area under graph C1 × C1 (m) A1 – 60 =) 50 B1 (speed =) distance ÷ time in any form C1 / C1 9.2 (m / s) A1",
+          "image": "/papers/physics-0625-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "constant speed OR 16 m / s B1",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "decelerating OR negative acceleration OR slowing down / owtte B1",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) A scientist has a measuring cylinder, a beaker of sea water and an electronic balance. Describe an experiment to determine the density of the sea water. Include any equations in your answer. ................................................................................................................................................... .................",
+      "text": "2 (a) A scientist has a measuring cylinder, a beaker of sea water and an electronic balance. Describe an experiment to determine the density of the sea water. Include any equations in your answer. ................................................................................................................................................... .................",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) A scientist has a measuring cylinder, a beaker of sea water and an electronic balance. Describe an experiment to determine the density of the sea water. Include any equations in your answer. ................................................................................................................................................... .................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "find mass of measuring cylinde r / beake r / container empty B1 add sea water AND read volume B1 find mass of measuring cylinde r / beake r / container with seawate r B1 subtract the 2 mass readings (to give mass of seawater) B1 (D) = M ÷ V in any form B1",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "wood less dense (than seawater) / ora B1 0625/33 May/June 2021 force × (perp) distance C1 × 1.9 C1 (Nm) (which is close to 460 Nm) A1 c.w. moment = a.c.w moment OR girl’s moment = brother’s moment C1 × 1.9 = W × 1.2 OR 456 ÷ 1.2 OR 460 ÷ 1.2 C1 (N) A1",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "3 (a) A girl and her brother sit on opposite sides of a see-saw as shown in Fig. 3.1. 1.9 m1.2 m 240 N W pivot brother girl Fig. 3.1 (i) Calculate the girl’s moment about the pivot and show that it is close to 460 N m.",
+      "text": "3 (a) A girl and her brother sit on opposite sides of a see-saw as shown in Fig. 3.1. 1.9 m1.2 m 240 N W pivot brother girl Fig. 3.1 (i) Calculate the girl’s moment about the pivot and show that it is close to 460 N m.",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W = mg in any form OR (m =) W ÷ g C1 240 ÷ 10 C1 A1 kg B1 B1 two from: friction thermal / heat vibrations / sound resistance in wires B2 0625/33 May/June 2021 two advantages: free fuel renewable no air pollution / no SO / no acid rain no greenhouse gases / CO emissions little / no maintenance quiet B2 any two disadvantages: needs a lot of space no energy at night less energy when cloudy / winter D.C. B2",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "5 (a) Fig. 5.1 shows a tractor and a car of the same weight. Fig. 5.1 The vehicles drive over the same soft ground. Explain why the car sinks into the soft ground but the tractor does not sink. ................................................................................................................................................... ....................",
+      "text": "5 (a) Fig. 5.1 shows a tractor and a car of the same weight. Fig. 5.1 The vehicles drive over the same soft ground. Explain why the car sinks into the soft ground but the tractor does not sink. ................................................................................................................................................... ....................",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Fig. 5.1 shows a tractor and a car of the same weight. Fig. 5.1 The vehicles drive over the same soft ground. Explain why the car sinks into the soft ground but the tractor does not sink. ................................................................................................................................................... ....................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "P = F ÷ A in any form B1 tractor has larger area (of tyre(s) in contact with ground) / ora B1 so (tractor) pressure is less (on the ground) / ora B1",
+          "image": "/papers/physics-0625-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "kinetic energy of molecules increases / speed of molecules increases B1 hit (tyre walls) more often / greater rate B1 hit (tyre walls) with greater force / harde r B1 B1 melts wax OR pin falls of f C1 first pin to fall (is best conductor) A1 0625/33 May/June 2021 B1 B1",
+          "image": "/papers/physics-0625-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "6 (a) Three rods are identical in size and shape, but each rod is made from a different material. On one end of each rod is a pin held in place by wax. The wax melts when it is warm. The rods are placed on a block of wood and heated equally by a Bunsen burner as shown in Fig. 6.1. rods Bunsen burner block of wood pins held on by wax Fig. 6.1 (i)",
+      "text": "6 (a) Three rods are identical in size and shape, but each rod is made from a different material. On one end of each rod is a pin held in place by wax. The wax melts when it is warm. The rods are placed on a block of wood and heated equally by a Bunsen burner as shown in Fig. 6.1. rods Bunsen burner block of wood pins held on by wax Fig. 6.1 (i)",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "foil reflects (radiation / infrared / radiant heat) B1 more energy into room (from heater) B1 / microwaves / radio waves B1 / X-rays / gamma rays B1 middle box ticked (speed) B1 top box ticked (All electromagnetic waves are transverse.) B1 top box ticked (They transfer energy from one place to another.) B1 B1 B1 B1 B1 reflected ray a continuation of incident ray AND in correct quadrant M1 angle of reflection equals angle of incidence A1 0625/33 May/June 2021 continuation of incident ray AND reflected internally in correct quadrant M1 angle of reflection equals angle of incidence A1 continuation of incident ray AND emerging from block in correct quadrant M1 angle of refraction larger than angle of incidence A1 B1",
+          "image": "/papers/physics-0625-2021/q6-6c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q6.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "9 (a) Fig. 9.1 shows two uncharged balloons suspended from a beam by light thread. light thread balloons beam Fig. 9.1 The balloons are close to each other but not touching. In the box below, draw the position of the balloons when they both have a positive charge. beam",
+      "text": "9 (a) Fig. 9.1 shows two uncharged balloons suspended from a beam by light thread. light thread balloons beam Fig. 9.1 The balloons are close to each other but not touching. In the box below, draw the position of the balloons when they both have a positive charge. beam",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "insulators: rubber AND wood B1 conductors: iron AND gold B1 / negative charges B1 move / transfer B1 from cloth to rod B1",
+          "image": "/papers/physics-0625-2021/q9-9b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) Fig. 10.1 shows the circuit symbols for three electrical components. Draw a line from each circuit symbol to the correct electrical component. fuse heater variable resistor galvanometer thermistor Fig. 10.1 [3] 15 06",
+      "text": "10 (a) Fig. 10.1 shows the circuit symbols for three electrical components. Draw a line from each circuit symbol to the correct electrical component. fuse heater variable resistor galvanometer thermistor Fig. 10.1 [3] 15 06",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "10 (a) Fig. 10.1 shows the circuit symbols for three electrical components. Draw a line from each circuit symbol to the correct electrical component. fuse heater variable resistor galvanometer thermistor Fig. 10.1 [3] 15 06",
+          "marks": 1,
+          "type": "structured",
+          "answer": "top to heate r B1 middle to thermisto r B1 bottom to galvanomete r B1 B1 in parallel with resisto r / supply B1 0625/33 May/June 2021 V = I × R in any form C1 11.5 ÷ 0.25 C1 A1 ohms / Ω B1 B1 B1 B1",
+          "image": "/papers/physics-0625-2021/q10-10a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "11 (a) A nucleus of nitrogen-13 has the nuclide notation: 13 7 N . Determine: (i) the number of protons in one nucleus of nitrogen-13 ................................................... [1] (ii) the number of neutrons in one nucleus of nitrogen-13 ................................................. [1] (iii) the num",
+      "text": "11 (a) A nucleus of nitrogen-13 has the nuclide notation: 13 7 N . Determine: (i) the number of protons in one nucleus of nitrogen-13 ................................................... [1] (ii) the number of neutrons in one nucleus of nitrogen-13 ................................................. [1] (iii) the num",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "using a pair of values e.g. 300 and 150 OR 212 and 106 etc. C1 (difference in time is) 10 (min) A1",
+          "image": "/papers/physics-0625-2021/q11-11b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit3-2021-06-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

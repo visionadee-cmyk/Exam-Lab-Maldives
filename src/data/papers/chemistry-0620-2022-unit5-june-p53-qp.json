@@ -1,0 +1,111 @@
+{
+  "paperId": "chemistry-0620-2022-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2022-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all results in all three experiments fully completed with initial < final volume of dilute hydrochloric acid (titre) calculated correctly in all three runs all readings / volumes in all tables given to 1 dp or better and a consistent number of dp in all three tables volume of dilute hydrochloric acid added (titre) in Experiment 1 is similar to supervisor’s volume of dilute hydrochloric acid added (titre) in Experiment 1 is half of Experiment 2 volume of dilute hydrochloric acid added (tit re) in Experiment 3 is similar to Experiment 2",
+          "image": "/papers/chemistry-0620-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 : 1",
+          "image": "/papers/chemistry-0620-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "numerical value is = volume added in experiment 1  (volume added in experiment 3 / volume added in experiment 2) OR volume added in experiment 1  ratio in (b) cm",
+          "image": "/papers/chemistry-0620-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Q is more concentrated than R as smaller volume of Q is required answer is quantitative. Either Q is twice the concentration of R OR the volume of Q is half the volume of R",
+          "image": "/papers/chemistry-0620-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "none does not change amount / concentration / moles of sodium hydroxide 1( f ) (more) accurate (volume of aqueous sodium hydroxide)",
+          "image": "/papers/chemistry-0620-2022/q1-1e.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "so colour change can be seen clearly / easily r 0620/53 May/June 2022 same acid used to fill tap / to fill part of burette below tap / to fill all of the burette / to fill the jet",
+          "image": "/papers/chemistry-0620-2022/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "solid S: white / grey / pale or light blue (solid) AND solution T: blue (solution) –",
+          "image": "/papers/chemistry-0620-2022/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any two from:  bubbles / fizzing / effervescence  brown / black / dark layer forms on magnesium  solution fades / fawn / white 2( f ) no change / no reaction dissolves / forms a solution deep(er) blue copper sulfate / CuSO / Cu 2+ and SO 2– 0620/53 May/June 2022 any 6 from:  known volumes of aqueous solution A and solution B  suitable apparatus for measuring volumes of solutions  measure temperature  mix solutions together (with starch solution)  time until blue-black colour seen  repeat at a different temperature  specifies solutions warmed before they are mixed",
+          "image": "/papers/chemistry-0620-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2022-unit5-2022-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

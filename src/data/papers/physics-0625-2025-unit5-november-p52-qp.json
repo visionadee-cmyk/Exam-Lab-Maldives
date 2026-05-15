@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2025-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2025",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Close the switch. • Without making any changes to the circuit, record the voltmeter reading V 0 . • Open the switch. V 0 = ........................................................V [1] (b) • Connect the 10 Ω resistor between points X and Y. • Close the switch. • Record, in Table 2.1, the reading V on the voltmeter. • Open the switch. Table 2.1 resistance R / Ωvoltmeter reading V / V",
+      "text": "1 (a) • Close the switch. • Without making any changes to the circuit, record the voltmeter reading V 0 . • Open the switch. V 0 = ........................................................V [1] (b) • Connect the 10 Ω resistor between points X and Y. • Close the switch. • Record, in Table 2.1, the reading V on the voltmeter. • Open the switch. Table 2.1 resistance R / Ωvoltmeter reading V / V",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = 10°  1° and end of line labelled O answer to 2 significant figures 1 values from table used to justify statement 1",
+          "image": "/papers/physics-0625-2025/q1-1b.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "extend the investigation for different value(s) of  effect on a and b / thickness of light ray / difficult to locate centre of light ray / experiment not done in a dark room / the ray fades out October/November 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q1-1g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "V for 10  present and < V0 all values increasing 1",
+          "image": "/papers/physics-0625-2025/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all I values correct all values to 2 significant figures 1 plots correct to  ½ small square and precise plots good best-fit line judgement, thin, continuous line 1",
+          "image": "/papers/physics-0625-2025/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "indication on the graph as to how gradient found and correct method of calculation of gradient i.e. y / x at least ½ the distance between the extreme plotted points used October/November 2025 Question Answer Marks",
+          "image": "/papers/physics-0625-2025/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R recorded to the nearest 0.5 °C temperatures decreasing 1 up / to allow the thermometer to reach the temperature of the hot water / to allow the thermometer (time) to respond / to ensure that the temperature has stopped rising touching the sides / base of the beaker / stir the water before taking a reading 5 such that temperature decrease over 5 min < temperature decrease over initial 5 min R / room temperature / value recorded in (a) October/November 2025 Question Answer Marks 4 MP1 variable valid variable which may affect h stated MP2 apparatus ruler/measuring tape and additional apparatus to measure the independent variable (if not height of release or diameter of ball) method MP3 measure the independent variable and release the ball MP4 measure h and repeat for a new value of independent variable 1 MP5 control variable any significant variable appropriate to the independent variable MP6 table columns with units, for independent variable and dependent variable MP7 conclusion compare readings in the table to see if / how / whether a change in the variable produces a change in h OR plot a (line) graph with axes specified",
+          "image": "/papers/physics-0625-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit5-2025-11-51-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

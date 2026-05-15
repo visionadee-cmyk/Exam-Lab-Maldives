@@ -1,0 +1,107 @@
+{
+  "paperId": "physics-0625-2024-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2024",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The student measures, and records in Table 1.1, the unstretched length l 0 of the spring. He does not include the loops at the ends of the spring in the measurement. The value l 0 is the length of the spring when the load L on the spring is 0.00 N. Describe one technique you would use to obtain an accurate value for l 0 . Draw a diagram to illustrate your answer. ....",
+      "text": "1 (a) The student measures, and records in Table 1.1, the unstretched length l 0 of the spring. He does not include the loops at the ends of the spring in the measurement. The value l 0 is the length of the spring when the load L on the spring is 0.00 N. Describe one technique you would use to obtain an accurate value for l 0 . Draw a diagram to illustrate your answer. ....",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The student measures, and records in Table 1.1, the unstretched length l 0 of the spring. He does not include the loops at the ends of the spring in the measurement. The value l 0 is the length of the spring when the load L on the spring is 0.00 N. Describe one technique you would use to obtain an accurate value for l 0 . Draw a diagram to illustrate your answer. ....",
+          "marks": 1,
+          "type": "structured",
+          "answer": "keep ruler close to spring OR use a set square (or pointer) OR view scale at right angles OR lay spring on bench OR use calipers technique above described in words diagram including ruler to show a correct method - this may be shown on Fig. 1.1  axes correctly labelled and right way round  appropriate scales (plots occupying at least ½ grid between plotted points)  plots all correct to ½ small square and precise plots  well- j udged line and thin line",
+          "image": "/papers/physics-0625-2024/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method clearly shown on graph using at least half of distance between extreme plots",
+          "image": "/papers/physics-0625-2024/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "k = G and to 2 or 3 significant figures N / cm 0625/61 May/June 2024 I = 0.36 V = 1.4 R = 3.9 / 3.89 (  ) units A , V seen correctly used in (i) r = 0.078 unit  / cm statement to match results j ustification to match statement and results. at least three additional values all values quoted are more than 0 and up to 100 cm",
+          "image": "/papers/physics-0625-2024/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Fig. 3.2 shows the height h O of the illuminated object. On Fig. 3.2, measure h O . h O = ......................................................... [2] (b) Fig. 3.1 is drawn to scale. The actual distance u between the illuminated object and the lens is 20.0 cm. (i) On Fig. 3.1, measure the distance x. x = ..................",
+      "text": "2 (a) Fig. 3.2 shows the height h O of the illuminated object. On Fig. 3.2, measure h O . h O = ......................................................... [2] (b) Fig. 3.1 is drawn to scale. The actual distance u between the illuminated object and the lens is 20.0 cm. (i) On Fig. 3.1, measure the distance x. x = ..................",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct symbol for variable resisto r 0625/61 May/June 2024 (a) 1.6 / 16 as appropriate matching unit (cm o r mm) cm / mm (cm) / mm (cm) / mm",
+          "image": "/papers/physics-0625-2024/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f = 15.1 (cm) answer is given to 2 or 3 significant figures / bright object move screen slowly / back and forth / approach clearest position from both directions (and average)",
+          "image": "/papers/physics-0625-2024/q3-3d.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "upside down triangle 0625/61 May/June 2024 MP1 additional apparatus: (metre) rule r / tape (measure) MP2 method mark 1: add a load and measure the amount of bending MP3 method mark 2: repeat with a different load applied OR different length (overhanging) OR a different number of layers of wood in composite strip MP4 variable kept constant: load (if varying length mentioned in MP3 ) OR length (if varying load mentioned in MP3 ) MP5 variable kept constant: number of layers of wood MP6 table: with clear columns for deflection with matching unit and for chosen variable – all with quantity and unit (or no unit for number of strips) MP7 conclusion: plot graph of deflection against chosen variable OR graph / bar chart of deflection against number of layers OR an answer which suggests comparing values in table of chosen variable and deflection",
+          "image": "/papers/physics-0625-2024/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit6-2024-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

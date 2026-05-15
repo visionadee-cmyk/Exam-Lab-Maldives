@@ -1,0 +1,75 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "table of results volumes of aqueous sodium carbonate boxes completed correctly 1, 2, 4, 5, 6, 7 heights of solid boxes completed in mm generally in ascending order",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly appropriate scale for y -axis best fit line drawn",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value from graph shown clearly unit = mm use burette or pipette to measure the barium nitrate / leave to settle longer / use measuring cylinders instead of test- tubes explanation: instead of measuring cylinder / solid more compact / easier to read 0620/51 May/June 2019",
+          "image": "/papers/chemistry-0620-2019/q1-1c.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 filter M2 dry M3 weigh solid",
+          "image": "/papers/chemistry-0620-2019/q1-1f.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat and take average/compare 0620/51 May/June 2019 tests on solution F / fizz / effervescence lighted splint pops tests on solid G / fizz / effervescence limewater turns milky remains / insoluble / no observation / reaction / change acid carbonate 0620/51 May/June 2019 any six from: • weigh nails / use set number of nails • place nails in a suitable container • add water to nails • leave in water for a suitable time ( ≥ 1 week) • observe nails / compare / reweigh nails • repeat with nail with other coverings • nail with least rust / mass increase has best coating Max 6",
+          "image": "/papers/chemistry-0620-2019/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

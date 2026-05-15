@@ -1,0 +1,123 @@
+{
+  "paperId": "computer_science-0478-2017-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2017-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2017",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) For one variable that you have used to record the information about a single boat in Task 1, state the name, data type and its use. Variable name ................................................................................................................... Data type ...................",
+      "text": "1 (a) All variables, constants and other identifiers should have meaningful names. (i) For one variable that you have used to record the information about a single boat in Task 1, state the name, data type and its use. Variable name ................................................................................................................... Data type ...................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for validation check, all checks must be different, 1 mark for the reason and 1 mark for the test data. The only inputs for task 1 can be length of hire, money taken, time of hire and time of return. There are many possible correct answers these are examples only. Validation check – range check for time of hire Reason – cannot be hired before 10:00 returned after 17:00 Test data – 12:00, 19:00 Validation check – type check for money taken Reason – must be a numeric value Test data – 20.00, bob 0478/22 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– any loop for 10 boats (1 mark) Four from: – Initialisation – check HoursHired against MaxHoursHired « « store the BoatNumber « update MaxHoursHired if greater – check if HoursHired = 0 ... ... if so add 1 to NumberBoatsUnused – update daily totals (for hours and money) – output report with messages (including totals for hours and money, and number of boats unused and the most used boat). Max 4 marks Example: MaxHoursHired Å TotalHoursHired Å TotalMoney Å NumberBoatsUnused Å FOR BoatNumber Å 1 to 10 TotalMoney Å TotalMoney + Money(BoatNumber) TotalHoursHired Å TotalHoursHired + HoursHired(BoatNumber) IF HoursHired(BoatNumber) = 0 THEN NumberBoatsUnused Å NumberBoatsUnused + 1 ENDIF IF HoursHired(BoatNumber) > MaxHoursHired THEN MostUsed Å BoatNumber MaxHoursHired Å HoursHired(BoatNumber) ENDIF NEXT BoatNumber PRINT \"Boats were hired for \", TotalHoursHired, \" hours\" PRINT \"Total amount of money taken was \", TotalMoney PRINT NumberBoatsUnused, \" boats were not used\" Print \"Boat number \", MostUsed, \" was used most\" 0478/22 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Maximum 4 marks in total for question part e.g. Explanation (may include reference to program statements) – check all boats for « – « return time < current time // current booking slot available or return time > current time// current booking slot not available – keep a running total of those available – display number of boats Example: FOR BoatNumber Å 1 to 10 loop to check for all boats IF ReturnTime(BoatNumber) <= CurrentTime check return time against current time THEN BoatsAvailable Å BoatsAvailable + 1 keep a running total ENDIF NEXT BoatNumber PRINT \"Number of boats available \", BoatsAvailable display number of boats 0478/22 October/Novembe r 1 mark for each, there may be other solutions, award full marks for any working solution any six from: initialise total (outside loop) Input number of numbers (outside loop with validation) Loop using input value Input number (inside loop) Update Total (inside loop) Calculate average Print average and total (outside loop) Sample algorithm: INPUT NumberCount Total Å FOR Count Å 1 TO NumberCount INPUT Number Total Å Total + Number NEXT Average Å Total/NumberCount PRINT Total, Average 0478/22 October/Novembe r 3 1 mark for each correct line, max marks. Data Structure Description Constant A collection of related data. Array A value that can change whilst a program is running. Table A value that never changes whilst a program is running. Variable A series of elements of the same data type. 2 marks for identification, 1 mark for description, 1 mark for reason. Identification: CASE ... ... OF ... OTHERWISE ... (ENDCASE) or ... OF ... (OTHERWISE) ... ENDCASE Description: – a statement that allows for multiple selections // not any of the above Reason: – to simplify pseudocode/ make pseudocode more understandable etc. 0478/22 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q1.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "5 (a) This flowchart checks a batch of 10 rice sacks for weight. Sacks should weigh 50 kilograms each. Sacks weighing over 50.5 kilograms or less than 49.5 kilograms are rejected. The number of sacks accepted and the number of sacks rejected is output. START Accept Reject Count Is Count = 10? Yes Yes Yes No No No INPUT Sack CountCount + 1 Accept + 1 0 0 0 END Accept RejectR",
+      "text": "5 (a) This flowchart checks a batch of 10 rice sacks for weight. Sacks should weigh 50 kilograms each. Sacks weighing over 50.5 kilograms or less than 49.5 kilograms are rejected. The number of sacks accepted and the number of sacks rejected is output. START Accept Reject Count Is Count = 10? Yes Yes Yes No No No INPUT Sack CountCount + 1 Accept + 1 0 0 0 END Accept RejectR",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) This flowchart checks a batch of 10 rice sacks for weight. Sacks should weigh 50 kilograms each. Sacks weighing over 50.5 kilograms or less than 49.5 kilograms are rejected. The number of sacks accepted and the number of sacks rejected is output. START Accept Reject Count Is Count = 10? Yes Yes Yes No No No INPUT Sack CountCount + 1 Accept + 1 0 0 0 END Accept RejectR",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Accept Reject Count Sack OUTPUT 0 0 0 1 1 50.4 2 2 50.3 1 3 49.1 3 4 50.3 4 5 50.0 5 6 49.5 6 7 50.2 7 8 50.3 8 9 50.5 2 10 50.6 8 2 Å (1 mark) ÆÅ (1 mark) ÆÅ (1 mark) ÆÅ (1 mark) ÆÅ (1 mark) Æ",
+          "image": "/papers/computer_science-0478-2017/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– change to Is Count = 50? – remove IS Sack > 50.5? 0478/22 October/Novembe r",
+          "image": "/papers/computer_science-0478-2017/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– 1 mark for each field suitable name, 1 mark for appropriate data type and appropriate data sample The following are examples there are many different correct answers. – Engine Number, text, 21012 – Class, text, P6 – Service Date, date, 4/3/2017",
+          "image": "/papers/computer_science-0478-2017/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "– Engine Number // Correct field number",
+          "image": "/papers/computer_science-0478-2017/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Engine Number Class Service Date Table: TRAIN TRAIN TRAIN Sort: Show:;    Criteria: Like ‘P*’ // Like ‘P?’ <10/11/2016 or: (1 mark) (1 mark) (1 mark)",
+          "image": "/papers/computer_science-0478-2017/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2017/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2017-unit2-2017-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,95 @@
+{
+  "paperId": "physics-0625-2022-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-june-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "May/June 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) Move the 1.00 N load to a distance d = 25.0 cm from the 0.0 cm end of the rule. Move one stand slightly, if necessary, so that the newton meters are as near to vertical as possible. Read, and record in Table 1.1, the value F P on newton meter P and the value F Q on newton meter Q. Repeat this procedu",
+      "text": "1 (a) Move the 1.00 N load to a distance d = 25.0 cm from the 0.0 cm end of the rule. Move one stand slightly, if necessary, so that the newton meters are as near to vertical as possible. Read, and record in Table 1.1, the value F P on newton meter P and the value F Q on newton meter Q. Repeat this procedu",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "F present and W R in range 1 (N) to 3 (N) W R expressed to 2 or 3 significant figures and with unit of N",
+          "image": "/papers/physics-0625-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any valid method e.g. check equal distance between rule and bench at two places OR use set square/protractor between stand and rule OR line up with suitable (named) surface",
+          "image": "/papers/physics-0625-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "forcemeter Q has zero error OR has not been set to 0 at start",
+          "image": "/papers/physics-0625-2022/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " for 150 cm decreasing  for 50 cm decreasing and recorded to at least 1 °C decreasing more quickly than  for 150 cm 0625/53 May/June 2022 s, °C both correct",
+          "image": "/papers/physics-0625-2022/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180 s, matching statement correct calculation of x and unit °C / s her value of x will be less/lowe r cooling rate faster when difference between water temperature and room temperature is greate r",
+          "image": "/papers/physics-0625-2022/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat experiment with a lid calculate cooling rate and subtract from x to find cooling rate without transfer from sides OR a comparison of cooling rates f = 13.0 (cm) to 17.0 (cm) move lens backwards and forwards slowly OR move lens slowly h O between 1 (cm) and 2 (cm) h I between 3.2 (cm) and 6.5 (cm) W with no unit and f expressed to 2 or 3 significant figures with unit cm f within 10% of f hand gets in way of light mark on screen and measure later OR use screen with scale OR use translucent screen and measure at rea r 0625/53 May/June 2022 values within limits of experimental accuracy/owtte and values quoted in justification one from: mark position of lens on holder clamp/place rule on bench ensure screen, lens and object all perpendicular view rule perpendicularly repeat and take average use darkened room/brighter light 0625/53 May/June 2022 4 MP1 apparatus: voltmeter – correct symbol in parallel with LDR MP2 independent variable: statement identifying the independent variable e.g. light intensity, distance, current, voltage MP3 method: measure independent variable (e.g. metre rule to measure distance between lamp and LDR) measure p.d. and current calculate resistance of LDR MP4 repeat for new value of independent variable MP5 control variable: any variable appropriate to independent variable (e.g. distance from lamp to LDR if current through lamp is the independent variable, p.d., power, intensity) MP6 table: columns, with units, for independent variable, measured dependent variable and resistance (not just resistance without raw measurements) MP7 analysis: compare resistance values (in table) to see if change in independent variable produces change in resistance plot line graph (with axes specified)",
+          "image": "/papers/physics-0625-2022/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

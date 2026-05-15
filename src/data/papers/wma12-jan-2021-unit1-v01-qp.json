@@ -1,0 +1,257 @@
+{
+  "paperId": "wma12-jan-2021-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma12-jan-2021-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA12/01",
+  "session": "January 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "432 f ( 1) ( 1)( 1)3( 1)( 1) 5 4ab− = − + − − − + − + = M1 135 41aba b− − − + =  + = − * A1* (2) (b) f (2) (2)(2)3(2)(2) 523ab= +−+ + = − M1 8232ab + = − oe (eg 416ab+ = − ) A1 14116...baaaa= − −  − − = −  = dM1 5,4ab= − = A1 (4) (6 marks) (a) NB Do not apply a misread on the equation a + b = −1 as it gains no extra marks. They can score a maximum of M1A0 M1A1M1A0 if they use an incorrect equation such as a + b = 1. M1 Attempts to substitute 1 into f(x) and set equal to 4 to obtain an equation in a and b. Powers of −1 need not be seen, accept e.g. 1 – a – 3 – b + 5 = 4. Condone invisible brackets on powers for the M mark, but penalise in the A (if incorrect). Alternatively, attempts long division reaching a remainder which is then set equal to 4. Look for a quotient starting ..x+ and linear remainder in a and b. It may be seen in tabulated form. Another alternative method: Writes () ( ) (1)4fxxxxx  =+++++ (allow with γ = 1), expands and equates coefficients, and proceeds to eliminate α, β and γ from the equations. A1* Rearranges the equation with no errors and achieves the given answer with at least one intermediate line with power evaluated. FYI by long division the quotient is (1)(2)2xaxax a b+ − + − − + + + and the remainder is 3ab−− . By equating coefficients look for 45+= (may be implied), 1a=+ , 1b=+ , 3−=+ being solved correctly. (b) M1 Attempts to substitute 2 into f(x) and set equal to 23 to obtain an equation in a and b. Again, accept attempts at long division leading to a remainder linear in a and b (which is 829ab++ ), which is then set equal to 23 , or via equating coefficients (look for at least three equations formed). May have substituted for a or b already. A1 8232 oe ab+ = − need not be fully gathered but powers should be evaluated. So e.g. accept 16 812 2523ab+ − + + = − or accept 16 812 2\"(1)\" 523aa+ − + − − + = − if substitution for b happens first (similar for a). Via equating coefficients, all equations should be correct. dM1 A",
+          "image": "/papers/wma12-jan-2021/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Using calculus, find the x coordinates of the stationary points of the curve. (4) (b) Justify, by further calculus, the nature of all of the stationary points of the curve. (3) ___________________________________________________________________________ ___________________________________________________________________________ _______________________________________________________________",
+      "text": "2 (a) Using calculus, find the x coordinates of the stationary points of the curve. (4) (b) Justify, by further calculus, the nature of all of the stationary points of the curve. (3) ___________________________________________________________________________ ___________________________________________________________________________ _______________________________________________________________",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Using calculus, find the x coordinates of the stationary points of the curve. (4) (b) Justify, by further calculus, the nature of all of the stationary points of the curve. (3) ___________________________________________________________________________ ___________________________________________________________________________ _______________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d d y xx x  =− −   M1A1 3216 0...xxx− − =  = M1 ,2 x=− A1 (4) (b) d C d y xD x  =+   M1 ()() d \"...\"0min or 0max d y CD x  =  +    dM1 All three components: d d y x x  =−   () 8d when , ...140min 3d y x x == =   () d when 2, ...140max d y x x = −= = −   A1 (3) Alt (b) d31d E.g. 2.5,,0,16 d4d yy xx xx = −=== − M1 d31d E.g. 2.5,0,0,16 0 d4d yy xx xx = −=  == −  so x = −2 is a maximum dd 0,16 0 , 3,5 0, dd yy xx xx  == − ==    so x = is a minimum dM1 A1 (3) (7 marks) (a) M1 Differentiates to achieve d d y AxBx C x  =+ +   where , ,0A B C A1 d d y xx x  =− −   M1 Sets their d d y x = and attempts to solve their quadratic. Usual rules apply. Setting equal to zero may be implied by an attempt to solve the quadratic. A1 ,2 x=− or equivalent single fraction (do not accept 2.67 but 2.6 can be accepted.) (b) M1 Attempts to differentiate their d d y x to achieve d C d y xD x  =+   where ,0CD . Allow if found in part (a) dM1 Substitutes in one of their x values for part (a) into their d d y x and draws a consistent conclusion with their value found. Accept with correct unsimplified values OR with correct reason, e.g. d d y x  hence maximum, if no substitution seen It is dependent on the previous method mark. Accept “concave down” for a maximum and “concave up” for a minimum. A1 Correct second derivative, correct values (need not be simplified but if simplified values seen they must be correct) for d d y x at ,2 x=− and draws a correct conclusion with reason (>0 or <0, positive or negative) for both. It must be clear which point corresponds with each conclusion. NB Allow M1dM1A0 if no substitution is seen as long as reason is given, e.g. When x = −2, d d y x  hence max. Alt (b) M1 Attempts to evaluate d d y x both side of at least one of their stationary points. dM1 Evaluates d d y x between their two stationary points and the other side of at least one of them, considers signs and draws a consistent conclusion. A1 E",
+          "image": "/papers/wma12-jan-2021/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3i",
+          "text": "Part 3i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 xx+ =   = M1 log x= A1 log x= A1 (3) Alt(i) x+ = (2) log 7log 3x+= M1 log 3 2x =− A1 log x= A1 (3) (ii) 1 loglog (4) log (5)yyy+++ =− E.g. 1 log(4) log (5)y yy++ =− or 12log→ M1 (4)(4)1 log1 y yy y yy  ++ = − =  −−  or () log 2 (4)log (24) 55)(y yyy yy+=+=−− dM1 295 0yy+ − = A1 (21)(5) 0...yyy− + =  = ddM1 y= A1 (5) (8 marks) (i) Note this appears as MMA on ePEN but is being marked MAA. M1 Applies the addition law to write the equation in the form ... x = . Alternatively takes logs on both sides and applies the power law (condone invisible brackets). Allow any base for the logarithm. A1 Any correct exact expression for x, such as log, log 3 log 49, log 3 2, x=−− log 3 log 7 − etc. Allow with any base for the logarithm. A1 log Correct answer only. (ii) M1 Correctly applies the addition or subtraction law of logs at least once to combine two terms at some stage in their working (may be on incorrect terms) or correctly replaces 1 with log 2 at some point (oe). dM1 Attempts to rearrange the equation to the form log (...)C= or log (...) log (...)= with no incorrect log work and removes the logs correctly. (There may be slips when rearranging terms but all log work should be correct.) It is dependent on the previous method mark. May see log 2 (4) log (24) 55)(y yyy yy+=+=−− (may be implied by a correct equation). A1 295 0yy+ − = oe 3TQ ddM1 Attempts to solve their quadratic. Usual rules apply. It is dependent on them achieving a 3TQ and both previous method marks. A1 y= only (accept decimal equivalent). (The −5 must have been rejected if seen.) SC Allow M1dM0A0 SC M1A1 (if the A is appropriate) for the solution log 1log lo (4) (4)41 g loglog (4) log (5)1 (5)55 yy y yy yyy yy y y →= − + ++ +++ = − →− − →−== − etc, allowing the recovery from the incorrect division of logs as a log for the last two marks. Number Scheme Marks",
+          "image": "/papers/wma12-jan-2021/q3-3i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-09.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) Show that a + b = −1 (2) When f (x ) is divided by (x − 2) , the remainder is −23 (b) Find the value of a and the value of b. (4) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ________________________",
+      "text": "4 (a) Show that a + b = −1 (2) When f (x ) is divided by (x − 2) , the remainder is −23 (b) Find the value of a and the value of b. (4) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ________________________",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Show that a + b = −1 (2) When f (x ) is divided by (x − 2) , the remainder is −23 (b) Find the value of a and the value of b. (4) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ ________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() () ()() 226 22... pxpxpx+= ++  + or \"\" \" \" \" \" 11 6... ppp xxx  += +++        M1 2 or 64 B1 192 or 240pxp x++ A1 () 64192240pxp x++ A1 (4) (b) () () 32364 192240 xpxxpxp x  −+ −++   Attempts 3 \" 240\" and \"192 \" pp  −    M1 3 \" 240\"\"192 \" pp  + − = −   dM1 28803843 0...ppp−+ =  = ddM1 () , 8 120 p= A1 (4) (8 marks) (a) M1 Attempts to expand using the binomial theorem in an attempt to find term 2 and term 3. Look for correct binomial coefficients linked with correct powers of x, condoning invisible brackets and the p not being squared on the third term. Allow slips on powers of 2, or if has been taken out. The binomial coefficient must have been evaluated but need not be simplified and at least one must be correct. Terms may be found separately. B1 Sight of 2 or 64 as the first term or extracted from the bracket. A1 192 or 240pxp x++ having gained the M. Allow also for 2 1 3 pxp x  ++   and accept with ()px A1 192and 240pxp x++ correct x and x terms, may be as part of a list. Accept with ()px ISW after a correct solution if they go on to try and divide through. (b) M1 Identifies the two x terms either separately or may be seen as part of a full expansion – look for two x terms in their expansion. There may be slips in the coefficients but they should be coming from the correct combination of terms in the brackets. dM1 A complete method to find the term in x and set the coefficient equal to − to obtain an equation in p. The correct two terms in x for their expansion in (a) must have been identified. It is dependent on the previous method mark. ddM1 Attempts to solve a 3TQ in p. Usual rules apply for solving a quadratic but it is dependent on the previous two method marks A1 () , 8 120 p= Accept decimal equivalents, 0.125 and awrt 0.00833 Number Scheme Marks",
+          "image": "/papers/wma12-jan-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5i",
+          "text": "Part 5i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(As 0x so 3x exists and ) () 310x− M1 Hence 03123xx−+ M1 312 3xx+ * A1* (3) Alt 1 31 2 3xx+ (31) 12961 0xxxx + − + M1 961 0(31) 0xxx− + − M1 Square numbers are greater than or equal to zero so (31)0x− is true hence 31 2 3xx+ * A1* (3) Alt 2 If 31 < 2 3xx+ then 32 31 < 0xx−+ M1 So (... 3...) < 0x or (...) < 0x M1 But ( 31)0x− for all 0x so 31 2 3xx+ A1 (ii) Shows that it is not true for three consecutive prime numbers Eg 5 7 11 23+ + = which is not divisible by 5 (so not true) B1 (1) (4 marks) (i) M1 Uses that ( 0x and) squares are non-negative to set up a suitable equation. M1 Squares to achieve 3 terms. A1 Rearranges correctly to the given result. Alt 1: (Backwards proof) M1 Starting with the given statement, attempts to square both sides, expand (31)x+ (three terms required) and collect terms on one side of the inequality. M1 Attempts to complete the square/factorise the expression to achieve a perfect square or (following error) (....)..x++ (inequality not needed here). Alternatively, uses other valid method (such as discriminant is zero) to show the resulting expression is non-negative. Finding a single solution alone is not sufficient, there must be a reason why the expression is never negative. (E.g. for 961 0xx− + = discriminant is 0( 6)94−=− , so single root hence as positive quadratic, 0961xx−+ ) A1* Achieves (31)0x− and a statement such as since this latter equation is true (as squares are never negative) hence 31 2 3xx+ . Alternatively, they may achieve an inequality such as ( 31)0x− and conclude in a similar way. Note that the proof should really have two way implications at each stage, but allow full credit for proofs that do not show this. Alt 2: (Contradiction type proof) M1 Starts with the negation of the statement and gathers terms on ones side of the equation. M1 Attempts to factorise (oe method) the resulting expression to achieve a perfect square. A1* Achieves ( 31) < 0x− or alternative suitable expression and concludes as this is fal",
+          "image": "/papers/wma12-jan-2021/q5-5i.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-15.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3sin cos3sin cossin 5 tan5 2 sin12 sin1cos      == −− M1 () 3sin cossin 53sin cos5sin2 sin1 2 sin1cos      ==− − M1 3sin cos10 sin5 sin3sin (1 sin) 10 sin5 sin =−−=− * M1 3sin10 sin8sin0+−= A1* (4) (b) 3sin 210 sin 28 sin 20sin 2 (3sin 210 sin 28) 0xxxxxx+−= +− = (3sin 22)(sin 24) 0sin 2...xxx−+ = = M1 sin 2 x= A1 () 0.365x= A1 0x= B1 (4) (8 marks) (a) B1 1.2 or . Allow 1.200 May be seen in the table or in their working for part (b). B1 awrt 2.821 May be seen in the table or in their working for part (b). (b) B1 0.5h= (seen or implied) M1 Scored for the correct  ...... bracket structure. It needs to contain their first P value plus the last P value and the inner bracket must be multiplied by 2 and be the summation of the remaining P values in the table with no additional values. If the only mistake is a copying error or is to omit one value from the inner bracket this may be regarded as a slip and the M mark can be allowed. (An extra repeated term forfeits the M mark however). M0 if values used in brackets are t values instead of P values. Allow recovery of invisible brackets but M0 if never recovered. A1ft For the correct bracket  ...... following through their values in (a). A1 cao 4.61 Must be to 2 d.p. (note using integration the answer is 4.643439737) Number Scheme Marks",
+          "image": "/papers/wma12-jan-2021/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-19.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 10,tP== 1.2 B1 () 11.5,tP== 2.821 B1 (2) (b) 0.5h= B1  \" \" \"1.2\" 2.9)258.412.(21. 82 5 \"\" 82E   + +   ++ M1 A1ft 4.61E (kWh) A1 (4) (6 marks) Number Scheme Marks",
+          "image": "/papers/wma12-jan-2021/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-23.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 27ap=− B1 (1) (b) 2(\"27\" 3)7ap=− + − M1 3 27 8322515ppppp− + − + −+ = + 8300pp −= M1 A1 Correct values of 0 and p= (may be implied by 0 and p= ) A1 Uses their values of p to find a using a correct method dM1 Possible values for a are 7 and − A1 (6) Alt (b) () n n appaap =  − += +++ − = +  M1 () 2325 0 aa aa ++ − = + − = M1A1 A1 ()() 17...20aaa−==+ dM1 Possible values for a are 7 and − A1 (6) (7 marks) (a) B1 () 27ap=− (b) M1 An attempt to find a by substituting their a into the formula. Look for () 2 ...7− where ... is a recognisable attempt at their 3a+ (M0 if the −7 is missing). M1 Attempts to add their first 3 terms and equate to 15p+ . It is not dependent, and the attempts at the three terms may be poor, as long as they are attempting to add three terms. A1 8300pp−= oe with terms gathered according to power (need not be all on one side). A1 () p= , 0. May be implied by () p= and 0. Accept equivalent fractions or decimal answer for , or awrt 1.94 for p. May be called by another letter, or even allow if p is mistaken as p. dM1 Attempts to find at least one value for a using a value for p which has come from an attempt (however poor) at solving their equation. Must be using their formula from part (a). Depends on the second M mark. A1cso Identifies both 7− and as the possible values for a and no others. Note that if they have 27ap=− by error in (a) they can score M1M1A0A1dM1A0cso in (b). Alt M1 Attempts sum of first three terms with a in terms of a and sets equal to p + 15 M1 Cancels p’s to reach an equation in just a A1 Correct unsimplified equation in a A1 Correct simplified quadratic in a dM1 Solves the quadratic in a A1cso Correct values for a (a) (i) B1 ( , 2 )kk (ii) B1 7k+ and isw after correct answer seen. Number Scheme Marks",
+          "image": "/papers/wma12-jan-2021/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-27.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(i) (ii) Centre = ( , 2 )kk B1 Radius = 7k+ B1 (2) (b)(i) (ii) (2)(3 2 )74 49 1247kkkk kkkk− + −= +  − + + − + = + M1 5176 0kk− + = * A1* () ,3 k= B1 (3) (c) Centre is ,    B1ft Gradient of tangent 2 \" \" 3 \" \" −  =−   −  M1 3 \"\"(2)sets 0... yxyx− = −− =  = Alternatively, . t a.n . XTPTO = == where X is (2,0) M1 Area OPT \"\" 3 ... =   = Alternatively, Area OPT \"\" 3 ...2 ==+ dM1 = oe A1 (5) (10 marks) (b) (i) M1 Substitutes (2, 3) into the equation of the circle and attempts to multiply out. A1* Proceeds to 5176 0kk− + = with no errors (ii) B1 () ,3 k= only. Do not isw if they go on to go to give a range of values for k. (c) NB The method marks may be scored with any k. If a candidate has solved incorrectly and has both values less than 2, they can score for use of either (best attempt) in solving the problem. (If neither value is less than 2 allow the methods for any value of k used.) B1ft Uses the correct value for k and finds the centre of the circle. Follow through their () ,2kk with k = . Accept decimal equivalents. Must be clearly identified or used as the centre, not just k substituted into the original equation. M1 Attempts the gradient of the tangent. Look for an attempt at ±(change in x / change in y) using their centre and P. May find the gradient from centre to P first and then apply the (negative) reciprocal. M1 Attempts to find the point T by finding the equation of the tangent at P using their gradient and (2, 3) , setting 0y= and proceed to find a value for x or equivalent processing. The gradient need not be correct but must be from an attempt with their centre and P. Alternatively, the tangent may be used to find angle PTO and attempt the length XT where X is (2,0). (Note they do not need to find T in this method.) dM1 Correct method to find the area of the triangle. It is dependent on the previous method mark. There may be attempts at finding the lengths of each side, the cosine rule to find an angle, and the area formula sin ",
+          "image": "/papers/wma12-jan-2021/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-31.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 37 15 d − == M1 15 4 \" 2\" ...u= +  = M1 Week 5 Sunday run = 23 (km) A1 (3) (b) ... rr=  == M1 15 \"1.0855...\"...u= = M1 Week 5 Sunday run = awrt 20.8 (km) A1 (3) (c)  ()() 2 15 (12 1) \"2\" or 15 37 312 S= + − += M1 () 15(1 \"1.08554..\" ) 294.185.. 1 \"1.08554..\" S − == − M1 Difference = 360 312360 294.185... or ... −−   =     dM1 Either Training model A: x 4 km, Training model B: x 5.4... km with = or A1 Training model A: x = 4 km, Training model B: x = 5km A1cso (5) (11 marks) (a) M1 Attempts to find the common difference. Allow for 37 15 d k − = where k = 11 or 12. Must be using 37 and 15. M1 Use their common difference to find the distance run on Sunday of week 5. Must be correct formula. They may work out the first 5 terms, in which case look for there being 5 terms. A1 23 (km) (b) M1 A correct method to find r award for r= oe and proceeding to find a value for r. May be implied by awrt 1.09 . Allow if r= is followed by stating awrt 8.6% increase if no value is given for r. M1 Uses their value of r to find the distance run on Sunday of week 5. Must be correct formula. They may work out the first 5 terms, in which case look for there being 5 terms. A1 awrt 20.8 (km) (c) M1 Attempts to find the total distance run on Sundays over the 12 weeks using training model A with 12n= and either 15a= and their d or a = 15 and l = 37. The formula must be correct with the values substituted in the correct places. Listing and adding requires all 12 terms M1 Attempts to find the total distance run on Sundays over the 12 weeks using training model B with 15a= and their r. The formula must be correct with the values substituted in the correct places., or listing and adding requires all 12 terms dM1 Attempts to find the weekly amount run on a Wednesday for either model A or model B. Look for 360 their total − . They may set up an inequality in x such as 0their total 1236x+ and attempt to solve, which is equivalent working. Allow with =,< instead of or with inequal",
+          "image": "/papers/wma12-jan-2021/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma12-jan-2021/page-10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 10
+  },
+  "assets": {
+    "basePath": "/papers/wma12-jan-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA11-2021-unit1-2021-01-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma12-jan-2021/page-01.png",
+      "/papers/wma12-jan-2021/page-02.png",
+      "/papers/wma12-jan-2021/page-03.png",
+      "/papers/wma12-jan-2021/page-04.png",
+      "/papers/wma12-jan-2021/page-05.png",
+      "/papers/wma12-jan-2021/page-06.png",
+      "/papers/wma12-jan-2021/page-07.png",
+      "/papers/wma12-jan-2021/page-08.png",
+      "/papers/wma12-jan-2021/page-09.png",
+      "/papers/wma12-jan-2021/page-10.png",
+      "/papers/wma12-jan-2021/page-11.png",
+      "/papers/wma12-jan-2021/page-12.png",
+      "/papers/wma12-jan-2021/page-13.png",
+      "/papers/wma12-jan-2021/page-14.png",
+      "/papers/wma12-jan-2021/page-15.png",
+      "/papers/wma12-jan-2021/page-16.png",
+      "/papers/wma12-jan-2021/page-17.png",
+      "/papers/wma12-jan-2021/page-18.png",
+      "/papers/wma12-jan-2021/page-19.png",
+      "/papers/wma12-jan-2021/page-20.png",
+      "/papers/wma12-jan-2021/page-21.png",
+      "/papers/wma12-jan-2021/page-22.png",
+      "/papers/wma12-jan-2021/page-23.png",
+      "/papers/wma12-jan-2021/page-24.png",
+      "/papers/wma12-jan-2021/page-25.png",
+      "/papers/wma12-jan-2021/page-26.png",
+      "/papers/wma12-jan-2021/page-27.png",
+      "/papers/wma12-jan-2021/page-28.png",
+      "/papers/wma12-jan-2021/page-29.png",
+      "/papers/wma12-jan-2021/page-30.png",
+      "/papers/wma12-jan-2021/page-31.png",
+      "/papers/wma12-jan-2021/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

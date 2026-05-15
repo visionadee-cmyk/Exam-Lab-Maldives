@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2022-unit5-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "February/March 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Remove the lid from beaker A. Pour 150 cm 3 of hot water into beaker A and replace the lid. Place the thermometer in the water. In the first row of Table 2.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record the temperature θ of the water at times t = 30 s, t = 60 s, t = 90 s,",
+      "text": "1 (a) Remove the lid from beaker A. Pour 150 cm 3 of hot water into beaker A and replace the lid. Place the thermometer in the water. In the first row of Table 2.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record the temperature θ of the water at times t = 30 s, t = 60 s, t = 90 s,",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Remove the lid from beaker A. Pour 150 cm 3 of hot water into beaker A and replace the lid. Place the thermometer in the water. In the first row of Table 2.1, record the temperature θ of the water at t = 0 and immediately start the stop-clock. Record the temperature θ of the water at times t = 30 s, t = 60 s, t = 90 s,",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sensible value for l and l S > l",
+          "image": "/papers/physics-0625-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 × l values increasing all to the nearest mm. • axes labelled with quantity and unit • appropriate scales (occupying at least ½ grid) • plots all correct to ½ small square and precise plots • line well- j udged and thin and extended to axis L read correctly from graph W R in range 0.9 to 2.1 and with unit of N suspend load from loop of thread / any other suitable method to avoid standing load over marks on rule valid source of uncertainty e.g. test load not exactly 1.0 N / spring extension not linear / metre rule not uniform 0625/52 February/March 2022",
+          "image": "/papers/physics-0625-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "2 (a) Measure and record the unstretched length l 0 of the spring, as shown in Fig. 1.1. l 0 = .......................................................... cm Suspend the 1.0 N load from the spring, as shown in Fig. 1.2. Measure and record the stretched length l S of the spring. l S = .......................................................... cm",
+      "text": "2 (a) Measure and record the unstretched length l 0 of the spring, as shown in Fig. 1.1. l 0 = .......................................................... cm Suspend the 1.0 N load from the spring, as shown in Fig. 1.2. Measure and record the stretched length l S of the spring. l S = .......................................................... cm",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Measure and record the unstretched length l 0 of the spring, as shown in Fig. 1.1. l 0 = .......................................................... cm Suspend the 1.0 N load from the spring, as shown in Fig. 1.2. Measure and record the stretched length l S of the spring. l S = .......................................................... cm",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ for beaker A decreasing θ for beaker A in beaker B decreasing and recorded to at least 1 °C decreasing less quickly than for beaker A s, °C, °C all correct",
+          "image": "/papers/physics-0625-2022/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching readings in table comparison of temperature changes over 180s, matching st atement (need to see values used in justification) use conducting material / metal for beaker B / support beaker A in beaker B so that there is an air gap underneath too",
+          "image": "/papers/physics-0625-2022/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 suitable control variables e.g. initial temperature / volume of water / room temperature or other appropriate environmental condition",
+          "image": "/papers/physics-0625-2022/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculation of R unit °C / s 0625/52 February/March 2022 θ = 15 ± 1(°) separation sufficiently large",
+          "image": "/papers/physics-0625-2022/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "first line present, complete and straight second set of lines present, complete and straight in correct relation to first set β = 20° ± 2° statement matching results j ustification with correct values matching statement",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "one suitable precaution e.g. thin lines OR thin pencil / view bottom of pins OR keep pins upright / ensure pins far apart",
+          "image": "/papers/physics-0625-2022/q3-3e.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "difficult to align pins/place pins accurately, pins (too) thick mirror (too) thick 0625/52 February/March 2022 MP1 factor: valid factor which may affect rate of temperature rise MP2 apparatus: thermometer and additional apparatus necessary to measure independent variable MP3 method: • measure independent variable • measure temperature (change) and / or time appropriate to procedure • repeat for new value of independent variable MP4 control variable: any significant variable appropriate to independent variable (e.g. volume of water if current is the independent variable) MP5 table: columns, with units, for independent variable and dependent variable MP6 analysis: compare readings in the table to see if change in factor produces change in (rate of) temperature rise, plot (line) graph (with axes specified) MP7 additional point (one from) : 2nd valid control variable stated, at least 5 sets of data taken, repeat each measurement and take average,",
+          "image": "/papers/physics-0625-2022/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-03-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

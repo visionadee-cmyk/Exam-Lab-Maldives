@@ -1,0 +1,43 @@
+{
+  "paperId": "business-0450-2024-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "business-0450-2024-unit1-november-p13-ms",
+  "subjectId": "business_igcse",
+  "code": "0450/13",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Can motivate workers [k] leading to less absenteeism / lower labour turnover [an] • Time lost switching/resetting machines between batches [k] could lead to lost output / lower efficiency / lower productivity [an] • Need to move/store semi-finished goods [k] increased storage costs [an] • One fault could affect entire batch [k] leading to waste [an] Flow production [k] • High output [an] • Likely to benefit from (purchasing) economies of scale / discounts for bulk purchasing [an] reducing average costs [an] • Capital intensive methods can be used / fewer employees needed [an] lowering wage cost [an] • If one machine breaks down the whole production line will stop [an] • High set up costs [an] • Inflexible (if demand changes) [an] Job production [k]: • Unique / meet exact customer needs [an] which can help brand loyalty [an] • Can charge higher price [an] which may increase profit margin [an] • Skilled labour needed [an] which increases labour costs [an] • No economies of scale [an] leading to higher average cost [an] • Production can take a long time [an] lowering potential output [an] • Costs are higher as it is labour intensive [an] • Mistakes can be expensive to correct [an] Other appropriate responses should be credited. October/November 2024 Question Answer Marks Notes Batch production is flexible [k] so can change what is made quickly to adapt to customer demands [an]. An alternative is flow production [k] which allows for high levels of output [an]. Batch production is the best method because there is limited value in producing a high level of output if there is no demand [eval]. Being able to adapt to changes in customer demand is likely to be more important to ensure customer loyalty / revenue. [eval] October/November 2024 Question Answer Marks Notes Award 2 marks for a full definition. Award 1 mark for a partial definition. An increase in the general price level of goods and services over time [2] Partial definition e.g. an increase in the price of goods",
+          "image": "/papers/business-0450-2024/q1-1e.png"
+        }
+      ],
+      "image": "/papers/business-0450-2024/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/business-0450-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/BusinessStudies-0450/BusinessStudies-0450-2024-unit1-2024-11-13-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

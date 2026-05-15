@@ -1,0 +1,131 @@
+{
+  "paperId": "physics-0625-2020-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The metre rule is clamped in position near to the spring. Do not change the position of the metre rule. (i) Use the set square provided to take readings from the metre rule to determine the unstretched length L of the coiled part of the spring. Record the value of L. L = ...................................................mm [1]",
+      "text": "1 (a) The metre rule is clamped in position near to the spring. Do not change the position of the metre rule. (i) Use the set square provided to take readings from the metre rule to determine the unstretched length L of the coiled part of the spring. Record the value of L. L = ...................................................mm [1]",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l values increasing all > L axes correctly labelled and right way round suitable scales all plots correct to ½ small square good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2020/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "intercept method clearly shown l value correctly read to ½ small square",
+          "image": "/papers/physics-0625-2020/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "L – l = 0 ± mm 0625/52 October/November 2020",
+          "image": "/papers/physics-0625-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "normal in centre of AB to 2 mm and at 90° F and G correctly labelled P pin separation at least 5.0 cm all lines in approximately correct positions and neat a correct to ± mm b correct to ± mm",
+          "image": "/papers/physics-0625-2020/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "candidate’s θ correct to ± 2(°) θ = 30 ± 2° unit needed",
+          "image": "/papers/physics-0625-2020/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one from: thin lines / thin pins / sharp pencil view bases of pins ensure pins vertical / perpendicular to ray trace sheet use large pin separation (securely) attach the ray trace sheet to the surface",
+          "image": "/papers/physics-0625-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "maximum range 27(°) – 33(°)",
+          "image": "/papers/physics-0625-2020/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat experiment using more i values uses at least 4 i values 0625/52 October/November 2020 I to at least 2 decimal places and < 1 A V to at least 1 decimal place and < 3 V R correct V present, R correct and units V and A V present, R present and to 2 or 3 significant figures Unit Ω R = 3 × R to within 10% expect second box ticked correct justification using results",
+          "image": "/papers/physics-0625-2020/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use different lengths (of the wire sample) measure the p.d. and current / determine the resistance (of each length) 0625/52 October/November 2020 MP1 Apparatus: method of heating water and time r MP2 Method: measure the temperature of the water and place the ice cube(s) in the water and measure the time taken to melt MP3 repeat with water at different temperature(s) MP4, MP5 Key variables: Any two from: mass / volume of ice cubes number / size of ice cubes (per test) temperature of ice cubes / keep ice cubes in a freezer room temperature volume of water in the beaker amount of stirring MP6 Table: table with columns for time / t and water temperature with correct units MP7 Conclusion: explanation of how to reach a conclusion Additional graph notes : NOTE: The principle to apply here is ‘could I draw a significant ly better line, using these points, under examination condition s?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only m ark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2020/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit5-2020-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

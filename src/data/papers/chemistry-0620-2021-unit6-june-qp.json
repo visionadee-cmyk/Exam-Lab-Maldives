@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2021-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A morta r B tripod C (filter) funnel pencil is not soluble / pencil does not run / smudge / dissolve / change results 0620/61 May/June 2021",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all temperatures and temperature changes completed and all temperatures and temperature changes recorded to the same precision all temperatures recorded correctly (22.0, 22.0, 22.0, 22.5, 23.0, 23.0) and (19.5, 17.0, 14.5, 13.5, 14.0, 14.0) all temperature changes calculated correctly (2.5, 5.0, 7.5, 9.0, 9.0, 9.0)",
+          "image": "/papers/chemistry-0620-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ruler drawn straight line through first 4 points ( ruler) drawn straight line through last three points straight lines have been extended so that they meet / cross values read correctly from graph (9.0 °C and 3.6 g) correct indication on graph units (°C and g) (all) acid used up / sodium hydrogen carbonate in excess",
+          "image": "/papers/chemistry-0620-2021/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct line should be identical to plotted line up to 1.8 g and then becomes horizontal. temp change of between 4.0 and 5.0 where line becomes horizontal / levels of f mass of between 1.0 and 2.5 where line becomes horizontal / levels of f 0620/61 May/June 2021",
+          "image": "/papers/chemistry-0620-2021/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change: use a pipette explanation: more accurate than a measuring cylinde r change: use a polystyrene / styrofoam cup explanation: insulato r / reduces heat gain Tests on solid E / contains water (of crystallisation)",
+          "image": "/papers/chemistry-0620-2021/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "not a halide / NH + aluminium / A l 3+ sulfate / SO 2- Tests on solid F 0620/61 May/June 2021 Any 6 from: • stated / set / same / measured volume of acid • stated / set / same / measured mass of calcium carbonate • add / combine / put together and start timing • Repeat (with acid) at higher / lower temperature then: • graphical method: • measure / record mass at known / regular / specified times • plot graph • steepest line is fastest OR mass loss in a set time • measure / record mass at a specified time • calculate / measure mass lost • largest mass loss is fastest or calculates rate by mass loss ÷ time OR time to end of reaction • react until mass stops changing / reaction stops • record time • shortest time is fastest or calculates rate by mass loss ÷ time OR time to lose a set mass • react until it reaches / loses a certain mass • record time • shortest time is fastest or calculates rate by mass loss ÷ time OR mass of calcium carbonate left after a set time • filter after a set time • find mass of calcium carbonate left • lower mass of calcium carbonate is fastest or calculates rate by mass loss ÷ time",
+          "image": "/papers/chemistry-0620-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit6-2021-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

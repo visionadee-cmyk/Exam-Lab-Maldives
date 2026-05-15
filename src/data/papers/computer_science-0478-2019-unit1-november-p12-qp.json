@@ -1,0 +1,255 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 17,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • Continuous data // by description • Non-discrete data // by description • By example, e.g. data such as a sound wave",
+          "image": "/papers/computer_science-0478-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • Discrete data that has only two values • By example, e.g. binary data / 1’s and 0’s 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 1 0 1 0 0 0 0",
+          "image": "/papers/computer_science-0478-2019/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It is multiplied by 4",
+          "image": "/papers/computer_science-0478-2019/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • A compression algorithm is used • Discards any unnecessary sounds « • « using perceptual musical shaping • « such as removing background noise / sounds humans can’t hear // or other suitable example • Reduces sample size / resolution // by example • Reduces sample rate // by example • Sound is clipped • The data is permanently removed One from: • The file size will be smaller than lossless • Requires less storage space • Requires less time to transmit One from: • The quality of the sound will be reduced • The original file cannot be restored 0478/12 October/November 2019 Four from: • Musical Instrument Digital Interface file • Stores a set of commands / instructions for how the sound should be played • Does not store the actual sounds • Data in the file has been recorded using digital instruments • Specifies pitch of the note // specifies the note to be played • Specifies when each note plays and stops playing // Specifies key on/off • Specifies duration of the note • Specifies volume of the note • Specifies the tempo • Specifies the type of instrument Four from: • It uses a single wire « • « therefore, it is cheaper to manufacture / buy / install • « therefore, less likely to have interference // no crosstalk • « therefore, can be used over longer distances • Data is sent a bit at a time « • « therefore, less chance of data being skewed // data is received in order • Transmission can be synchronised « • « can reduce rate of errors 0478/12 October/November 2019 One mark for each correct tick Statement Resistive ( ) Capacitive ( ) This touch screen has multi-touch capabilities This touch screen cannot be used whilst wearing gloves This touch screen is made up of two layers with a small space in between This touch screen uses the electrical properties of the human body This touch screen is normally cheaper to manufacture This touch screen has a quicker response time 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • Membrane / matrix / circuit board present at base of keys • A key is pressed that presses a switch • When a key is pressed it completes a circuit // changes the current in a circuit • The location of the keypress is calculated • An index of characters is searched to find the corresponding keypress • Each character has an ASCII / Unicode value • The ASCII / Unicode value has a binary value • Keypress generates an interrupt • Each character / keypress is added to a buffer to wait to be processed • The binary can then be processed by the CPU to action the key press",
+          "image": "/papers/computer_science-0478-2019/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Display a web page • Sends a request to the web server • Receives data from web server • Translates HTML files • Processes client-side script, e.g. JavaScript • Store favourites • Store history • Navigation forward and backward • Check security • Store / access cookies • Find specific text within a web page • Downloading file from the web • Allows a homepage • Allows multiple tabs / web pages to be opened • Stores data in its cache 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Hypertext Transfer Protocol Secure // It is a protocol « • « that is a set of rules/standards • Secure version of HTTP • Secure website // secures data • Uses TLS / SSL • Uses encryption",
+          "image": "/papers/computer_science-0478-2019/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• X = 1 if (A is 1 XOR C is 1) OR (B is 1 NAND C is NOT 1) • X = (A XOR C) OR (B NAND NOTC) One mark for each bullet: • (A XOR C) • OR • (B NAND NOTC) 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6 or 7 correct outputs Two marks for 4 or 5 correct outputs One mark for 2 or 3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct tick Statement True ( ) False ( ) Duplex data transmission can be either serial or parallel Duplex data transmission is when data is transmitted both ways, but only one way at a time Duplex data transmission is always used to connect a device to a computer Duplex data transmission is when data is transmitted both ways at the same time Duplex data transmission automatically detects any errors in data",
+          "image": "/papers/computer_science-0478-2019/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Parallel data transmission 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q9-9b.png"
+        },
+        {
+          "id": "9c",
+          "text": "Part 9c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (maximum two marks per benefit): • It is a universal standard « • « so it is likely to be compatible with the computer • It can only be inserted one way « • « so there is less chance of connecting a device incorrectly • It is a high-speed connection « • « so data will be transmitted quicker • It uses serial transmission « • « so it is cheaper to manufacture/buy • « less chance of skewing / errors • It doesn’t require a (wireless) network « • « therefore, can be used if a network is down • It is backwards compatible « • « so no additional technology is needed • It can power the device « • « therefore no separate source of power is needed • Drivers are automatically downloaded // device is automatically identified « • « so no need to find them online / install them manually 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q9-9c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • Validation method • Used to check data entry • Digit is calculated from data // by example • Digit is appended / added to data • Digit is recalculated when data has been input • Digits are compared • If digits are different, error is detected // If digits match, no error is detected",
+          "image": "/papers/computer_science-0478-2019/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from (maximum three marks per security method): • Firewall « • « Monitors the traffic • « Blocks any traffic that doesn’t meet the criteria / rules • (Strong) password // biometric « • « Data cannot be accessed without the use of the password / bio data • « Prevent brute force attacks • Encryption « • « Data will be scrambled • « Key is required to decrypt the data • « If data is stolen it will be meaningless • Physical security methods « • « The physical security will need to be overcome • « This can help deter theft of the data • Antispyware « • « will remove any spyware from system • « will prevent data being relayed to a third party 0478/12 October/November 2019",
+          "image": "/papers/computer_science-0478-2019/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "RAM • To store the data / instructions / parts of OS that are currently in use ROM • To store the firmware / bootup instructions / BIOS SSD • To store files / software // by example",
+          "image": "/papers/computer_science-0478-2019/q11-11a.png"
+        },
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • It is more durable // it has no moving parts • It has a faster read / write / access speed • It is more compact / light weight / smaller / portable • It uses less energy // battery will last longer • It is quieter • Not affected by magnetic forces • It runs at a cooler temperature • Less latency // takes less time to warm up",
+          "image": "/papers/computer_science-0478-2019/q11-11b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 17,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

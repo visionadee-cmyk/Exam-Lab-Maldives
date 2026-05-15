@@ -1,0 +1,155 @@
+{
+  "paperId": "physics-0625-2021-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit6-june-p63-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/63",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) Describe two precautions that the student should take when measuring the length of the spring, to ensure an accurate reading. You may draw a diagram. 1. ............................................................................................................................................... ....................................................................",
+      "text": "1 (a) Describe two precautions that the student should take when measuring the length of the spring, to ensure an accurate reading. You may draw a diagram. 1. ............................................................................................................................................... ....................................................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Describe two precautions that the student should take when measuring the length of the spring, to ensure an accurate reading. You may draw a diagram. 1. ............................................................................................................................................... ....................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 valid precautions e.g: rule close rule parallel to spring eye perpendicular to reading use set square clamp rule l = 10.7 (cm) e = 8.4 / ec f (cm)",
+          "image": "/papers/physics-0625-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "e U present W R = 1.2 and unit (N) correct working shown",
+          "image": "/papers/physics-0625-2021/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "l W and e w present ρ = 1.5 (g / cm ) given to 2/3 significant figures",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any valid source of inaccuracy e.g: part of load U is metal hanger immersed too clay wet when weight measured air holes in clay air bubbles on immersed clay",
+          "image": "/papers/physics-0625-2021/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "straight line stated as going through origin 0625/63 May/June 2021",
+          "image": "/papers/physics-0625-2021/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct voltmeter symbol in parallel with resistor and cell",
+          "image": "/papers/physics-0625-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I A = 0.64 (A) • axes labelled with quantity and unit • appropriate scales (plots occupying at least grid) • plots all correct to small square and precise plots • well judged line and thin line",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "E in range 1.3 to 1.7 (V) G present and triangle method seen on graph r in range 0.9 ( Ω ) to 2.0 ( Ω )",
+          "image": "/papers/physics-0625-2021/q2-2d.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "obtain more values at other potential differences start V axis at 3.0 (V) to expand scale 0625/63 May/June 2021 θ = 20° ± 1° should be as far apart as possible",
+          "image": "/papers/physics-0625-2021/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all lines present and neat a = 6.2 (cm) and b = 4.3 (cm) both ± mm n = 1.4(1) expressed to 2/3 significant figures and no unit α = 21° ± 2° statement matching results and j ustification matching statement (‘within limits of experimental accuracy’ / owtte)",
+          "image": "/papers/physics-0625-2021/q3-3c.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any suitable precaution e.g. look at base of pins/keep pins vertical use thin pins thin lines",
+          "image": "/papers/physics-0625-2021/q3-3f.png"
+        },
+        {
+          "id": "3g",
+          "text": "Part 3g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any one of: difficult to align pins/place pins accurately pins (too) thick lines too thick 0625/63 May/June 2021 4 MP1 apparatus: rule or equivalent MP2 method: identify independent variable detail of deflection measurement and how it is measured MP3 repeat for new independent variable MP4 control variable: any variable appropriate to independent variable e.g. width of strip if thickness is the facto r MP5 table: columns, with units, for independent variable, deflection MP6 analysis: compare readings in the table to see if change in factor produces change in deflection plot line graph (with axes specified) MP7 additional point (one from) : at least 5 sets of data taken repeat each measurement and take average 2nd appropriate control variable stated repeat experiment for different variation (e.g. different mass if thickness is factor) use of fiducial aid",
+          "image": "/papers/physics-0625-2021/q3-3g.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit6-2021-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

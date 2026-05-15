@@ -1,0 +1,99 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct answer: Lossy (compression) Lossless (compression)",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct compression, 3 marks for description: − Lossless (compression) Any three from: − The file can be restored/decompressed to the exact same state it was before compression/ to original − (It is a computer program so) no data can be lost // Lossy would remove data − Will not run correctly (with any other compression) − (Lossless) will give repeating words/sections of word a value// RLE is used // Other valid examples of methods of lossless compression − Value is recorded in an index 0478/11 May/June 2018 1 mark for each correct line, up to a maximum of 5 marks: Component Description Immediate access store (IAS) Holds data and instructions when they are loaded from main memory and are waiting to be processed. Register Holds data temporarily that is currently being used in a calculation. Control unit (CU) Holds data or instructions temporarily when they are being processed. Accumulator (ACC) Manages the flow of data and interaction between the components of the processor. Arithmetic logic unit (ALU) Carries out the calculations on data. Bus Pathway for transmitting data and instructions. 0478/11 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct logic gate (with the correct direction of input(s)) 0478/11 May/June 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 marks for 8 correct outputs 3 marks for 6 or 7 correct outputs 2 marks for 4 or 5 correct outputs 1 mark for 2 or 3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/11 May/June 2018 7 Compiler Any three from: − Translates high-level language into machine code/low level language − Translates (the source code) all in one go/all at once − Produces an executable file − Produces an error report Interpreter Any three from: – Translates high-level language into machine code/low level language − Translates (the source code) line by line/statement by statement – Stops if it finds an error – Will only continue when error is fixed four from: − Shines light / (red) laser at barcode − Light is called an illuminator − Light is reflected back // White lines reflect light // Black lines reflect less light/absorbs light − Sensors / photoelectric cells detect the light − Different reflections / bars will give different binary values / digital values // pattern converted to digital values − A microprocessor interprets the data three from: − barcode identifies a (unique) product − barcode can be used to look up product (in a database) − data about stock levels can be stored on a system − stock can be automatically deducted from the system − can check stock is below a certain level // check stock level − automatic re-order // Alerts when stock is low − automatically update new stock level − to locate if an item of stock is available in another location 0478/11 May/June 2018 four from: − (Infrared) rays are sent across screen (from the edges) − Has sensors around edge // Sensors capture beams − (Infrared) rays form a grid across the screen − (Infrared) ray is broken (by a finger blocking a beam) − Calculation is made (on where beam is broken) to locate the ‘touch’ // Co-ordinates are used to locate the touch",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Secondary Storage – any two from: − Not directly accessed by the CPU − Non-volatile storage − Secondary is internal to the computer/device − An example of secondary storage would be HDD/SSD Off-line storage – any two from: − Non-volatile storage − Off-line storage is storage that is removable from a computer/device // not internal // portable − An example of off-line storage would be CD/DVD/USB stick/SD card/magnetic tape/ external HDD/SSD 9 Any six from: − Suitable biometric device, such as fingerprint sc anner/retina/eye/iris scanner/face recognition/voice recognition/palm scanner // description of use e.g. use fingerprint on device − Sensor (in biometric device) captures/takes data/readings (of user) − Data/readings are converted from analogue to digital (using ADC) − Data/reading sent to the microprocessor − Data/readings compared to stored values/data « − « if data/readings match user can enter − « if data/readings do not match user is declined entry // user asked to try again « − « alert may be sent to security // alarm may sound 0478/11 May/June 2018 four from: − Structure and presentation are defined using (mark-up) tags − Structure and presentation dictate the appearance of the website − Structure is used for layout − Example of structure − Presentation is used for formatting / style − Example of formatting − Separate file / CSS can be used for presentation content 1 mark for each correct part − domain (name) − file name/webpage name two from: − Hypertext Transfer Protocol Secure // it is the access protocol // It is a protocol − It means the website uses SSL/TLS − It means data sent (to and from the webserver) is encrypted two from e.g. : − To store items that a customer has added to an online shopping basket − To store a customer’s credit card details − To store log-in details − To track what product a customer browses // Track music preferences − Targeted advertising // making recommendations − Personalises/customises the experience − Shows who are new a",
+          "image": "/papers/computer_science-0478-2018/q8-8d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

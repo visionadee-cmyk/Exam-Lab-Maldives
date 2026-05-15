@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2021-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A spatula B tripod to increase the rate of reaction",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "cobalt( II ) oxide and solid left at end 1d(ii) heat (to evaporate water) until half evaporated / point of crystallisation / until saturated (then leave to cool)",
+          "image": "/papers/chemistry-0620-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all experiments have volume of sulfuric acid of 25 cm all volumes of water correct (30, 20, 10, 5, 0) and all volumes given to the same precision all volume of gas collected correct (10, 19, 38, 61, 95), f our volumes correct scores 1 – all 5 correct scores 2, 4 correct scores 1 suitable best fit curve",
+          "image": "/papers/chemistry-0620-2021/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate extrapolation of line to 35 correct reading from extrapolation correct calculation of volume for experiment 3; 38 / 30 = 1.27) cm / s 0620/63 May/June 2021 r / takes more time",
+          "image": "/papers/chemistry-0620-2021/q2-2c.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: • The reaction can be started by tipping the flask • do not have to replace / remove the bung • so no gas escapes (while the bung is being removed / replaced) Tests on solid I dissolves in excess (forming a green solution) remains / does not dissolve",
+          "image": "/papers/chemistry-0620-2021/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "white ppt Tests on solid J / CO 0620/63 May/June 2021 / K + carbonate / CO 2- any 6 from: • specified / set volume / mass of water • measure start temperature of water • heat water using sprit burner for all three fuels and • start timing when heating started • heat to set temperature / set temperature rise • record time • shortest time gives out most energy OR • measure mass of fuel (plus spirit burner) at start • heat to set temperature / set temperature rise • measure mass of fuel (plus sprit burner) at end (and subtract from first mass to fine mass of fuel used) • smallest mass used gives out most energy OR • put specified mass / volume of fuel in spirit burner • burn until burner goes out • measure final temperature of water and calculate temperature rise • highest temperature (rise) gives out most energy OR • heat water for a specified time • measure final temp of water • calculate temperature rise • highest temperature (rise) is fuel that gives out most energy",
+          "image": "/papers/chemistry-0620-2021/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit6-2021-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

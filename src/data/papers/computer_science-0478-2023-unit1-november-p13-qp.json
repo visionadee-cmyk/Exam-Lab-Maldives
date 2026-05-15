@@ -1,0 +1,191 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− (0000)1110 − (00)111011 − 11101010",
+          "image": "/papers/computer_science-0478-2023/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− 9 − 1A − 41 One mark for correct answer − 01111011 October/November Question Answer Marks One mark for correct working e.g. correct carries 1 1 1 0 0 1 1 0 0 1 1 + 0 1 1 1 1 0 0 0 1 0 1 0 1 0 1 1 − Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Accumulator (ACC) − Control unit (CU) − Program counter (PC) − It is a type of storage − ...that stores frequently used data/instructions − To speed up access − ... as it is faster to access than RAM − It has different levels e.g. L1 – L3",
+          "image": "/papers/computer_science-0478-2023/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Clock",
+          "image": "/papers/computer_science-0478-2023/q3-3c.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Arithmetic logic unit // ALU Question Answer Marks − Display web pages − ... by rendering HTML",
+          "image": "/papers/computer_science-0478-2023/q3-3d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Storing cookies − Storing bookmarks − Storing favourites − It encrypts it − Uses digital certificates October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Interference // crosstalk",
+          "image": "/papers/computer_science-0478-2023/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− C − Timer is started when sending device transmits a data packet to receiver − Receiving device checks the data packet for errors − Once the receiving device knows the packet is error free it sends an acknowledgement back to the sending device ... − ... and the next packet is sent − If the sending device does not receive an acknowledgement before the timer ends ... − ... a timeout occurs − ... the data packet is resent ... − ... until acknowledgement received // until max number of attempts reached − Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− B − The data can be accessed from any location − ... meaning that employees can work from anywhere with a connection − The hardware is owned/maintained by a third party − ... meaning that the company are not responsible for maintaining // meaning the company aren’t responsible for its security − Can increase the storage needed easily − ... without needing to buy new hardware − Do not need to house the hardware needed − ... costs can be saved on the space saved for this − Cloud system will back up the data − ... meaning the company does not need to do this − Internet connection is needed/needs to be stable ... − ... and if this is not available/unstable the data cannot be accessed − Employees could be pressured to work outside of hours ... − ... as they can access the data from any location October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2023/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− The dimensions of an image // Number of pixels wide by number of pixels high",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− The number of bits used to represent each/a colour − A greater range of colours can be seen/used − Image will be closer to the actual content of the image/real life − The image will have more detail",
+          "image": "/papers/computer_science-0478-2023/q7-7b.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Lossy − Quicker to transmit/upload/download − Not as much bandwidth needed to transmit file − To fit in limitation of file size on e.g. email Question Answer Marks 8 The diagram demonstrates (one mark for each part): − The router examining the packet ... − ... looks for the packet header − ... looking for the IP address of destination − The packet being sent toward its correct destination − ... by the fastest route // decides which route it takes − Router is shown connecting devices/networks − Router is shown assigning an IP address to a device e.g. October/November Question Answer Marks Type of secondary storage Statement optical data is stored using pits and lands solid-state data is stored using control gates and floating gates magnetic data is stored using electromagnets optical data is stored using a laser magnetic data is stored on a platter that is divided into tracks and sectors − Primary storage is directly accessible by the CPU − ... whereas secondary storage is not directly accessible by the CPU − Primary storage stores the data that is currently in use/for booting the system − ... whereas secondary storage stores user’s files/data/operating system/application software − Primary storage normally has a small capacity − ... whereas secondary storage normally has a larger capacity − Some parts of primary storage are volatile − ... whereas secondary storage is non volatile − Some parts of primary storage the data cannot be changed − ... whereas data in secondary storage can be changed − Primary storage has faster access speeds to data − ... whereas secondary storage has slower access speeds to data Question Answer Marks − Knowledge base − Inference engine − Rule base // knowledge base − Knowledge base // rule base − Interface October/November Question Answer Marks e.g. − It is a form of artificial intelligence − Means it can adapt/change (its own processes) // It can edit its own algorithms − It can edit its own data − It can be trained − ... this can be su",
+          "image": "/papers/computer_science-0478-2023/q7-7d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

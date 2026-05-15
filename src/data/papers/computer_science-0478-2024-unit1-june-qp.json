@@ -1,0 +1,195 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: Example:  Touch screen  Microphone  Button  Webcam // (digital) camera  Accelerometer  Biometric device one from: Example:  Screen  Speaker  LED",
+          "image": "/papers/computer_science-0478-2024/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "SSD // Solid-state drive // Solid-state (device) 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "C A",
+          "image": "/papers/computer_science-0478-2024/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct working Example: Flip and add One mark for correct answe r : − three from:  A packet is split into three different sections  ... the header  ... the payload  ... the traile r r 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from:  The network may be spread over a long distance ...  ... so it is more reliable  Bits will be sent/arrive in sequence  ...so bits less likely to be skewed  Less crosstalk/interference  ... so less likely to have errors  The data may not need to be transmitted at a fast speed // data transmission speed of serial is adequate  The cables in the network only use serial transmission",
+          "image": "/papers/computer_science-0478-2024/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "To store data/files/software permanently",
+          "image": "/papers/computer_science-0478-2024/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Compact disk (CD) Digital versatile disk (DVD) Blu-ray disk three from:  To store data temporarily  To store data currently in use  To store software currently in use  Data can be accessed faster (than secondary storage)  To speed up the fetch stage (of the fetch-execute cycle) 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q5-5b.png"
+        },
+        {
+          "id": "5d",
+          "text": "Part 5d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any four from : The diagram shows:  The registers MAR, MDR and PC  Address sent from PC to MAR  ...using address bus (award anywhere for correct use of address bus)  ...PC is incremented  Address sent from MAR to RAM  Data/instruction sent from RAM to MDR  ...using data bus (award anywhere for correct use of data bus)  Data/instruction sent from MDR to CIR/CU  Control unit sending control signal for any part of the process  ... using control bus (award anywhere for correct use of control bus) Example: PC MDR MAR Control unit CIR RAM PC sends address to MAR then increments The address is sent from the MAR using the address bus The instruction is sent to the MDR using the data bus The instruction is sent to the CIR to be decoded 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q5-5d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any one from:  Permanently store instructions (in ROM)  Stores instructions to boot up/start up the computer  Provides the operating system with a platform to run on  Controls/manages/allows communication with hardware  Store instructions securely (to stop them being easily corrupted) one from: Example:  Bootstrap  Bootloader  BIOS  Operating system (in embedded system)  Programs (in embedded systems) two from:  Operating system  Utility software NOTE: Two examples of utility software can be awarded One mark for each correct term in the correct place.  plain text  cipher text  public key  private key 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q6-6a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The robot can perform actions without human intervention three from:  It has a mechanical structure/framework  It has electrical components  It is programmable  It can move six from:  A proximity sensor is used  The sensor continuously sends digitised data to the microprocessor  The microprocessor compares the data to a stored value/range of values  If the value is within the range/matches the robot continues planting  If the value is above/below/outside the range a signal is sent by the microprocessor to turn/stop the robot  ... using an actuator to turn/stop the robot  This process repeats until the robot is turned of f two from: Example:  The robot is more accurate when planting seeds  The robot does not need to take breaks // works 24/7  The robot will not get bored of performing a repetitive task  The farmer can perform other tasks whilst the robot is planting the seeds  The robot may be faster/more efficient (at planting seeds)  Safer as the robot can work in a more dangerous environments (e.g. with animals in a field)  Doesn’t need to pay labour costs/ wages 0478/11 May/June 2024",
+          "image": "/papers/computer_science-0478-2024/q8-8a.png"
+        },
+        {
+          "id": "8e",
+          "text": "Part 8e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: Example:  The robot may have been expensive to purchase  The robot may need maintenance and this may be costly  The robot may take away jobs from humans that previously planted the seeds  Farmer/workers may be deskilled  Farmer may need training in how to use the robot  If it breaks the farmer will need to manually plant  If faulty it may cause damage to farm/seeds  Cannot adapt to a new / unexpected event two from: Example:  The robot can now adapt itself by changing its own rules/data/ processes  The robot will become more efficient  ... as it has a greater knowledge of its surroundings / environment  ... as it can remember where a fence is  ... as it can remember the route it needs to take  ... as it can remember where any obstacles are to avoid  ... as it can remember where to start and stop sowing seeds  ... as it may make fewer errors three from:  Data could be lost  Data could be gained/added  Data could be changed  Bits could be reassembled in the wrong order  Interference could occur  Crosstalk could occur  Data collisions could occur  Data packets could time out/reach their hop count  Network could be infected with malware 0478/11 May/June 2024 Any eight from:  The 1s are counted (in each byte)  Each byte has a parity bit  If the number of 1s are odd the parity bit is 0 (otherwise it is 1 )  (The first packet of) data is sent and a timer is started  The receiving device counts the number of 1s (in each byte)  If the number of 1s are odd/data meets odd parity an acknowledgement is sent to say the data is error free ...  ... the sender then sends the next packet of data ...  ... and the timer is restarted  If the number of 1s is even an acknowledgement is not sent  If no acknowledgement is received within a set timeframe/before timeout ...  ... the data packet is resent two from:  Echo check  Checksum  Even parity check  Negative ARQ five from:  Criteria can be set (for traffic)  ... such as a blacklist",
+          "image": "/papers/computer_science-0478-2024/q8-8e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

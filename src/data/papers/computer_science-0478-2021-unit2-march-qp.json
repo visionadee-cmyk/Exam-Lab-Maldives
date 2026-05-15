@@ -1,0 +1,83 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Variable answer (example only) Data type integer/int Validation two distinct different points OR one point and an expansion One mark per mark point, max two – restricted input to positive numbers – checked if input was numeric – ensured that input was a whole number / integer – checked if a value was input Or one point and an expansion two marks, for example – restricted input to positive numbers (1) by using a range/limit check / REPEAT... UNTIL looping until value greater than zero (1) – checked if input was numeric (1) by using a type check (1) – ensured the value input was a whole number (1) any suitable method e.g. rounding to whole number – checked if a value was input (1) by using a presence check (1) Data type integer/int Use storing the number of attempts a pupil has made on a question March 2021 Question Answer Marks MP1 initialisation (must include number of correct answers) MP2 input name and table number with prompts MP3 validate table number and reinput MP4 ensure each question uses a different multiplier MP5 display question MP6 input and validate answer MP7 check if answer correct MP8 update score appropriately MP9 repeat for 5 questions MP10 display score and name at end ... MP11 ...with an attempt to display an appropriate message dependent on score Example Score = 0 Multiplier[1] ← 2 Multiplier[2] ← 5 Multiplier[3] ← 7 Multiplier[4] ← 8 Multiplier[5] ← 11 OUTPUT \"Multiplication Table Test\" OUTPUT \"Please enter your name\" INPUT Name REPEAT OUTPUT \"Please enter the table (2 to 12) you would like to be tested\" INPUT Table UNTIL (Table >=2) AND (Table <=12) FOR Count = 1 TO 5 OUTPUT (\"Question \", Count) OUTPUT (Multiplier[Count], \" X \", Table, \" = \") REPEAT INPUT Answer UNTIL Answer > 0 AND Answer = INT(Answer) IF Answer = Multiplier[Count] * Table THEN Score ← Score + 1 ENDIF NEXT OUTPUT (Name, \" your score is \", Score) IF Score = 5 THEN OUTPUT (\"Well done full marks\") ELSE OUTPUT (\"Have another practice\") ENDIF March 2021 Question Answer Marks One m",
+          "image": "/papers/computer_science-0478-2021/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error Total ← Accept – Over – Under // line 26 Correction Total ← Accept + Over + Under March 2021 Question Answer Marks SIZE text, expressed as a single word // Boolean, only two choices PRICE currency, needs to be expressed as Rupees/money NUMBERSOLD number, integer values/could be used in calculations",
+          "image": "/papers/computer_science-0478-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: SIZE FILLING PRICE NUMBERSOLD Table: CHOCBAR CHOCBAR CHOCBAR CHOCBAR Sort: Show:     Criteria: = \"small\" <10 or: One mark for correct rows Field, Table and Sort One mark for correct Show row One mark for correct Criteria row",
+          "image": "/papers/computer_science-0478-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

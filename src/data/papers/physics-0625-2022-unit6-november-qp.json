@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2022-unit6-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit6-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "October/November 2022",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) Explain briefly how to measure to the centre of the pendulum bob as accurately as possible. ................................................................................................................................................... ...........................................................................................................................................",
+      "text": "2 (a) Explain briefly how to measure to the centre of the pendulum bob as accurately as possible. ................................................................................................................................................... ...........................................................................................................................................",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R = 5(.0) with unit  (here or seen in (a) or (b)(ii) and not contradicted) 2 decreases 1 Variable resistor in series with power source and ammeter 1 Ammeter and lamp with correct symbols and no flying lead at all 1 October/November 2022 Question Answer Marks",
+          "image": "/papers/physics-0625-2022/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " = 21 (°C) and  / t = 0.12 (0.117) °C / s in (c) or (d) and not contradicted 1 = 6(°C) and R = 0.067 1 Justification that matches conclusion and results 1 To bottom of meniscus 1 Volume / amount / mass of water Room temperature Time interval / duration of experiment October/November 2022 Question Answer Marks 4 MP1 (Metre) rule / tape measure MP2 Release ball to roll down track, measure how far it travels. MP3 Repeat for at least 2 more different angles of right-hand side of track MP4 Clear identification of the correct distance to be measured (e.g. from table leg or other point identified on floor to point of impact with track) OR clear explanation of how to identify point of impact (e.g. using a sand tray) MP5 Constant variable identified Release height for ball Or same ball every time / same weight / mass / size of ball MP6 Table consistent with their method (if method correct with columns for distance travelled and angle of track, with units) MP7 Analysis based on their table Graph of angle against distance travelled, or compare angle with distance travelled (or the equivalents for their method) Additional graph notes: NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only mark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit6-2022-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

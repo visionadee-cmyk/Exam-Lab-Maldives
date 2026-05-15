@@ -1,0 +1,250 @@
+{
+  "paperId": "wme01-jan-2025-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-jan-2025-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "January 2025",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 18,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) Find λ in terms of m. (2) Immediately before P collides with Q, the speed of P is 2.5 m s –1 The coefficient of friction between P and the surface is μ (b) Find the value of μ (7) Immediately after P collides with Q, the speed of Q is 2.1 m s –1 (c) Find the speed of P immediately after the collision. (3) ________________________________________________________________________",
+      "text": "1 (a) Find λ in terms of m. (2) Immediately before P collides with Q, the speed of P is 2.5 m s –1 The coefficient of friction between P and the surface is μ (b) Find the value of μ (7) Immediately after P collides with Q, the speed of Q is 2.1 m s –1 (c) Find the speed of P immediately after the collision. (3) ________________________________________________________________________",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Find the resultant force AND collect i’s and j’s. Can be scored for a clear attempt at adding pi + pj to their possibly incorrect resultant from (a) M1 Use direction 7i + 2j with their i and j components of their resultant force to form a ratio equation in p ONLY. Condone a sign error and reciprocal, but must be using 7 and 2. May use ( –12+p)i + (18+p)j = (72 )λ+ij , equate components AND eliminate λ (= − 6) to form an equation in p ONLY. A1 Correct unsimplified equation in p ONLY. A1 Correct answer. NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2025/q1-1b.png"
+        },
+        {
+          "id": "1a",
+          "text": "1 (a) Find λ in terms of m. (2) Immediately before P collides with Q, the speed of P is 2.5 m s –1 The coefficient of friction between P and the surface is μ (b) Find the value of μ (7) Immediately after P collides with Q, the speed of Q is 2.1 m s –1 (c) Find the speed of P immediately after the collision. (3) ________________________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Find the resultant force by finding the sum of F , F and F i’s and j’s do NOT need collecting M1 Use of N2L, in vector or scalar form, with their resultant force M1 Use of Pythagoras to find a magnitude. This may be magnitude of acceleration or magnitude of their resultant force if carried out before N2L. A1 Correct answer from correct working. Exact value is , accept 8.7 or better. (8.653323061..)",
+          "image": "/papers/wme01-jan-2025/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Correct graph shape. Must start on the vertical axis and not at the origin and finish on the t-axis. B0 if they have any extra continuous lines. B1 Correct time labels. Accept delineators (B0 if delineators missing) B1 Correct speed labels. M1 Complete method using 132 to form an equation in V and T . May use area or suvat equation(s). N.B. M0 for (5 5) VT++ = A1 Correct expression for T . M1 Complete method using 136 to form an equation in V and T . May use area or suvat equation(s). N.B. Allow a correct method based on their graph IF IT HELPS THE CANDIDATE, but must produce an equation in V and T only. e.g. 136() VT T=− with T then replaced in terms of V A1 Correct expression for T .",
+          "image": "/papers/wme01-jan-2025/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use 28 and sums their expressions for T and T to form an equation in V only. N.B. Allow a restart for either T or T or both. A1 Correct answer for V. If seen, a negative value ( − ) should be rejected.",
+          "image": "/papers/wme01-jan-2025/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use their V and their T (or their V in the alternative) to find an expression for the deceleration (allow minus sign). A1 Correct deceleration must be positive. 1.1 or better. The exact answer is , 1.0625. NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2025/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use of I = ± m (v – u ) with 3m and 5. May not see u = 0. M0 if g is included or m missing. A1 Correct answer. N.B. λ = NOT NEEDED.",
+          "image": "/papers/wme01-jan-2025/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method, using suvat, to find an equation in a only. Ignore sign errors. A1 Correct unsimplified equation in a only. (the exact value for a is 6.6964.. − = − ) B1 Correct expression for R seen. M1 Use FRμ= for their R (must have found an R) M1 Correct method using N2L to give an equation in (m), μ and a. Must have correct number of forces and either 3m or m on BOTH sides of the equation or on neither side. Allow missing g. A1 Correct unsimplified equation in m, μ and a N.B. a does NOT need to be substituted for this mark but it must be consistent (in direction) with the previous suvat equation. i.e. it must lead to a POSITIVE value for μ . A1 Correct answer for μ to 2 or 3 sf.",
+          "image": "/papers/wme01-jan-2025/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Dimensionally correct CLM equation in v ONLY with correct number of terms and correct pairings of masses and velocities. Allow consistent extra g’s. Ignore sign errors. OR equate impulses to give a dimensionally correct equation in v ONLY. Allow consistent extra g’s. Ignore sign errors. A1 Correct unsimplified equation. A1 Correct speed, must be positive. NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2025/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Uses a complete method to form an equation in W only. Dimensionally correct and the correct number of terms. Extra g is an A error. May use two equations and eliminate T A (= 140) G is the centre of the rod Vert: A TW+= M(C): 2.10.6 A TW×=× M(G): 1.5 350 0.6 A T×= × M(B): 3 (350 0.9)1.5 A TW×+ × = × A1 Correct unsimplified equation in W only. A1* Cso.",
+          "image": "/papers/wme01-jan-2025/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Uses a complete method to form an equation in d only. Dimensionally correct and the correct number of terms. Extra g is an A error. M(A): () () () 600 2.1490 1.5210d×= ×+ × May use two equations and eliminate T A (=100) G is the centre of the rod and P is the position of the particle Vert: 600 490 210 A T+=+ M(C): (2.1) (490 0.6) 210(2.1) A Td×= ×+ − M(G): (1.5) (600 0.6) 210(1.5) A Td×= ×+ − M(P): () 490(1.5) 600(2.1) A Tddd×+ −= − A1 Correct unsimplified equation in d only A1 Correct answer",
+          "image": "/papers/wme01-jan-2025/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Tension at A is 0, seen or implied by the M mark. M1 Uses a complete method to form an equation in X only. Dimensionally correct and the correct number of terms. Extra g is an A error. M0 if tension at A is never 0. M( ) : 490 0.60.9CX×=× May use other equations and eliminate T C (= = 816.666..) Vert: C TX= + M(A): (2.1) (490 1.5) (3) C TX× = × +× M(G): 0.61.5 C TX×=× M(B): 0.9 490 1.5 C T×= × A1 Correct unsimplified equation in X only. A1 Correct answer oe, 330 or better (326.666...) NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2025/q4-4c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Use of displacement ÷ time. The terms in the numerator may be either way round but it must be a difference. M0 if they use 9 instead of 8 A1 Correct unsimplified expression for v A1 Correct velocity, accept column vector 1.5   −  Ignore (velocity) = ( ) 1.51= +− etc",
+          "image": "/papers/wme01-jan-2025/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method using their velocity to find the position of B at t = 7. They may find the position at t = 0 ( ( 3.56 )−+ij ) first then add 7v A1 Correct unsimplified expression. Note that with correct v this simplifies to (7)−ij M1 Use Pythagoras to find the distance between their position of B and T, allow slips. N.B. Must have used either () 25−+ij + kv or () 103−ij + kv where k is a non-zero integer, to find the position vector of B A1 Correct answer. Accept 7.2 (m) or better, exact value 2 13 , NUMBER SCHEME MARKS",
+          "image": "/papers/wme01-jan-2025/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Resolve parallel to the plane to give an expression in m, g and α only.Correct no. of terms, dimensionally correct, any forces that should be resolved must be resolved, condone sign errors and sin/cos confusion. A1 Unsimplified expression in m, g and α only, with at most one error (if both signs are wrong treat as one error) Sin/cos reversed is ONE error. Omission of g’s is ONE error. A1 Correct expression",
+          "image": "/papers/wme01-jan-2025/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Resolve perpendicular to the plane. Correct no. of terms, dimensionally correct, any forces that should be resolved must be resolved, condone sign errors and sin/cos confusion. A1 Correct unsimplified equation. B1 Use of max FR= M1 Eliminate F and R to form an equation in mg and α with correct no. of terms A1 Correct equation in mg and α A1* cso Complete method to reach the given answer from sufficient working, must have collected the sin α terms and the cos α terms, before proceeding to the given answer OR collect tan α terms if they divide through by cos α first.",
+          "image": "/papers/wme01-jan-2025/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Finds new max friction and weight component down the plane. Condone sign errors and sin/cos confusion. M0 if no new R is used. A1 Correct expressions with α replaced AND compared or difference found (this could be done by writing down an equation of motion parallel to the plane) OR: if α not replaced, correct inequality in tan α only. A1 Correct conclusion with valid reason. NUMBER SCHEME MARKS For A: T – 2mg = 2ma For B: 3mg – T = 3ma For system: 3mg – 2mg = 5ma M1 A1 Second equation of motion for either particle or whole system. M1 A1 T = mg or 2.4mg A1 (5)",
+          "image": "/papers/wme01-jan-2025/q6-6c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 Correct acceleration. M1 Complete method to find an equation in v only. Must use their acceleration. M0 if they assume that a = 9.8 A1 Correct equation in v only. A1 Cao N.B. 7/5 is A0.",
+          "image": "/papers/wme01-jan-2025/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find an equation for the time taken to travel first 0.5m. Must use their acceleration for the pulley system. A1 Correct equation in t only. Note that solving this equation gives 0.71 or 0.714 t = (5/7) M1 Complete method to find an equation in t (time to move a distance 0.06 m) only, using g for acceleration. Allow M1 if 0.56 m used but M0 for any other distance or if they use u = 0 or v = 0. A1ft Correct equation in t only, ft on answer to (b). A1 If they stop here, then it must be 0.053 or 0.0525 t= (If seen, 0.233 should be rejected.) However, this A mark can be implied by a correct final answer. A1 Complete the solution to find the correct total time 2/3 sf Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-jan-2025/q7-7c.png"
+        }
+      ],
+      "image": "/papers/wme01-jan-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 18,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-jan-2025"
+  },
+  "unit": "Unit 2"
+}

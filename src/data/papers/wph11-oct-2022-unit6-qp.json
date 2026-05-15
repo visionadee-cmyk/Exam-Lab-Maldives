@@ -1,0 +1,99 @@
+{
+  "paperId": "wph11-oct-2022-unit6-qp",
+  "pairedMarkSchemeId": "wph11-oct-2022-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "October 2022",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Resolution of Vernier calipers is higher (than the metre ruler) Or Resolution of Vernier calipers is 0.1 mm and resolution of metre rule is 1 mm Use of half resolution to calculate %U Or U in Vernier calipers and ruler Valid comparison of %U Or U MP3 dependent on MP1 or MP2 [Accept converse] Example of calculation %U for Vernier calipers = 0.005/2  100 = 0.25% %U for metre rule = 0.05/2  100 = 2.5% (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Measure the amplitude of the trace in divisions Or Measure the number of divisions between maximum and minimum and divide by two Multiply by 100 mV (per division) Repeat (the amplitude measurement) and calculate a mean (1) (1) (1) Inconsistent significant figures Or decimal places (for E) Values of r not given to correct number of decimal places Units of E are incorrect No repeats are shown Or Not enough readings shown (1) (1) (1) (1) Total for question 1 Number Answer Mark ln V = ln V − bt Is in the form y = c + mx and the gradient is −b which is constant Or ln V = − bt +ln V Is in the form y = mx + c and the gradient is −b which is constant MP2 dependent on MP1, allow reference to straight line (1) (1) Record volumes at successive time intervals Or Record the time taken to fall to specific volumes Read to the bottom of the meniscus Any ONE from: Ensure transparent tube is vertical Use a stopwatch Or laptimer to measure t Keep stopwatch close to the tube Refill to same initial volume and repeat to take a mean Record many measurements of V and t Open the tap to same position each time (1) (1) (1) (1) (1) (1) (1) (1) (1) It may be difficult to measure V and t simultaneously which will affect random error Or There is liquid below the scale which will introduce systematic error Or Air may be trapped in the tap which will affect random error MP2 dependent on MP1 (1) (1) (1) (1) (1) (1) Total for question 2 Number Answer Mark Values of correct to 5 d.p. Or Values of correct to 2 d.p. if written in standard form Axes labelled: y as log (P / kPa) and x as / K −1 Most appropriate scales chosen Values plotted accurately Best fit line drawn (1) (1) (1) (1) (1) (1) Gradient = (−) 2.2  10 Gradient given to 2 or 3 s.f. and negative Example of calculation gradient = (2.34 − 1.00) / (2.60 − 3.20)  10 −3 = 0.34 / −  − = − 2230 (1) (1) (1) Use of gradient = (−) Correct value of X [e.c.f. (a)(ii)] X given to 2 or 3 s.f. Example of calculation X = gradient  (− 2.30k) = − 22",
+          "image": "/papers/wph11-oct-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Value of interpolated from graph Correct T calculated Conversion of T to C, given to 2 or 3 s.f. Example of calculation (Log P = log (100) = 2) = 2.75  10 −3 K −1 T = 1 / 2.75  10 −3 = 364 K boiling point = 364 − 273 = 91 (C) (1) (1) (1) Total for question 3 15 P / kPa T / K / K −1 log (P / kPa) 7.8 308 0.00325 0.89 17.0 323 0.00310 1.23 34.6 338 0.00296 1.54 66.1 353 0.00283 1.82 120.1 368 0.00272 2.08 208.1 383 0.00261 2.32 x = (2.60 − 3.20) 10 −3 = −0.60 10 −3 y = 2.34 − 1.00 = 1.34 gradient = 1.34 / −0.60 10 −3 = −2230 Number Answer Mark Repeat at different orientations (along the wire) and calculate a mean To reduce the effect of random errors Or Check and correct for zero error (on micrometer screw gauge) To eliminate systematic error MP2 dependent on MP1 [Allow MP2 if MP1 partially correct] (1) (1) (1) (1) Calculation using half range shown Or Calculation of furthest from mean shown Uncertainty in d = 0.02 (mm) Decimal places consistent with the calculated mean MP3 dependent on MP2 Example of calculation Mean d = (0.31 + 0.32 + 0.31 + 0.33 + 0.30) / 5 = 1.57 / 5 = 0.314 = 0.31 (mm) Uncertainty = (0.33 − 0.30) / 2 = 0.03 / 2 = 0.015 = 0.02 (mm) (1) (1) (1) Use of A = d /4 and R = V/I Use of R = L/A  = 4.6  10 −7 ( m) Example of calculation A =   (0.2210 −3 m) / 4 = 3.80  10 −8 m R = V / I = 4.990 V / 0.4570 A = 10.9   = RA / L = 10.9   3.80  10 −8 m / 0.894 m = 4.6  10 −7 ( m) (1) (1) (1) Use of 2  %U in d shown [Accept 2  d/d if converted to %U] Addition of %U for all variables shown %U = 9.4 (%) [Accept answers that round to 9%] Example of calculation %U in d = (  )   =   U in V = (0.005 / 4.990)  100 = 0.10 % U in L = (0.1 / 89.4)  100 = 0.11 % U in I = (0.0005 / 0.4570)  100 = 0.11 % %U in  = (2  ) +  +  +  =  =  r Use of uncertainties to calculate maximum  Or Use of uncertainties to calculate minimum  Calculation of uncertainty in  using maximum and minimum  %U = 9.3 (%) [A",
+          "image": "/papers/wph11-oct-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of an uncertainty of 0.05  in value of R or R Use of U = 2 (U in R + U in R ) shown Or Use of maximum and minimum values shown %U = 1.8 (%) Example of calculation U = 2  (0.05 + 0.05) = 2 0.1 = 0.2 %U = (0.2 / 11.4)  100 = 1.8 % (1) (1) (1)",
+          "image": "/papers/wph11-oct-2022/q4-4c.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Upper limit of  = 5.0 ( 10 −7  m) Lower limit of R L = 11.2 () Conclusion based on comparison of limits [MP3 dependent MP1 or MP2] Example of calculation Upper limit  = 4.6  10 −7  (1 + 0.09) = 5.0  10 −7  m Lower limit R L = 11.4  (1−0.02) = 11.2  Therefore both values fall in the range (confirming metal is constantan). Or %D for  = 6.1% %D for R L = 1.8% Conclusion based on comparison of %D and %U [MP3 dependent MP1 or MP2] Example of calculation %D for  = (4.9 − 4.6) / 4.9  100 = 6.1 % %D for R L = (11.4 − 11.2) / 11.2  100 = 1.8 % Therefore both %D are less than %U (confirming metal is constantan). (1) (1) (1) (1) (1) (1) Total for question 4 17 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-oct-2022/q4-4d.png"
+        }
+      ],
+      "image": "/papers/wph11-oct-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wph11-oct-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2022-unit6-2022-10-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

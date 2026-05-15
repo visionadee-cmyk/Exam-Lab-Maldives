@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2025-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2025",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) The student uses a thermometer to measure room temperature θ R . Room temperature is 22 °C. On Fig. 2.2, show clearly the reading θ R . –100102030100110 °C Fig. 2.2 [1] (b) The student pours 100 cm 3 of hot water into an empty beaker. She records the temperature θ of the hot water in the V = 100 cm 3 row of Table 2.1, as shown. Without delay, she pours 20 cm 3 of cold wate",
+      "text": "1 (a) The student uses a thermometer to measure room temperature θ R . Room temperature is 22 °C. On Fig. 2.2, show clearly the reading θ R . –100102030100110 °C Fig. 2.2 [1] (b) The student pours 100 cm 3 of hot water into an empty beaker. She records the temperature θ of the hot water in the V = 100 cm 3 row of Table 2.1, as shown. Without delay, she pours 20 cm 3 of cold wate",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " on answer line correctly calculated to 2 or more significant figures unit: g / cm answer given to 2 or 3 significant figures 1 May/June 2025 Question Answer Marks , °C 1 suitable scales (occupying at least ½ the grid) 1 plots correct to  ½ small square AND precise plots good best-fit line judgement, thin, continuous line 1 • some form of insulation • add a lid • shield from draughts • white / shiny surface May/June 2025 Question Answer Marks incident ray in correct quadrant at 40°  2°  = 48°  2° angle of reflection drawn 50°  2° justification to include idea of results being equal within the limits of experimental error OR unequal if beyond the limits of experimental error • thin pins • thin lines / sharp pencil • view bases of pins / pins vertical • pins far apart / at least 5 cm May/June 2025 Question Answer Marks 4 MP1 circuit used: correct circuit diagram MP2 measurements made: measure wire diameter AND measure voltage and current OR record voltmeter and ammeter readings MP3 analysis of readings: calculate / work out resistance of wire MP4 performing the investigation: repeat for at least two other diameters of wire MP5 variable kept constant: length / material of wire MP6 table: with columns for diameter of wire, voltage, current and resistance each column must be labelled with both quantity and unit MP7 conclusion: plot a graph of resistance against diameter OR an answer which suggests comparing values of diameter AND resistance in table",
+          "image": "/papers/physics-0625-2025/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit6-2025-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

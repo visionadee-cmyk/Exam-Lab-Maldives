@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2020-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit5-november-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "October/November 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all results figures for both experiments recorded to 1 dp or bette r both tables completed correctly with final > initial both subtractions to get volume added correct titres comparable to superviso r",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(from) colourless (to) blue",
+          "image": "/papers/chemistry-0620-2020/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "many colour changes / keeps changing colou r / hard to determine the end point B (Experiment 2) and volume (of B) was less (than volume of A) value of larger titre ÷ smaller titre if rounded then rounding must be correct",
+          "image": "/papers/chemistry-0620-2020/q1-1c.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "value of recorded titre in Experiment 2 ÷ 2.5 cm and compare the results / more precise (than a measuring cylinder) (pipette measures a) fixed volume / cm to remove solution A to remove (distilled) water r / highe r / bigge r the water dilutes solution B / makes solution B less concentrated 0620/53 October/November 2020 Tests on solid C / crystals / powder)",
+          "image": "/papers/chemistry-0620-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any three from: • steam / vapour given off • forms a liquid / melts • condensation / drops (at top of tube) • darkens / becomes brown / black / red any three from: • bubbles / fizzing / effervescence • gets cold • lime water turns milky • colourless (solution) acid / contains H + / hydrogen ions 0620/53 October/November 2020 Tests on solid D OR remains OR does not dissolve / insoluble OR no change OR remains colourless OR faint / slight (white) precipitate OR no change OR remains colourless / Ca 2+ chloride / C l - calcium chloride = 2 CaC l = 2 3 any six from: • weigh toothpaste • add (dilute) hydrochloric acid • to excess / until no more fizzing • filter • wash residue / silica (with water) and dry • weigh residue / silica • (mass silica / initial mass) × 100 (%) max 6",
+          "image": "/papers/chemistry-0620-2020/q2-2b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit5-2020-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

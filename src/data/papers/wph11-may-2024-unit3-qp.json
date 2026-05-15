@@ -1,0 +1,51 @@
+{
+  "paperId": "wph11-may-2024-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2024-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2024",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Clamp the metre rule in position Or Ensure the metre rule is vertical using a set square [allow spirit level] Or Place metre rule close to the tube Check the zero of the metre rule is level with the bottom of the transducer Or Check the zero of the metre rule is level with the surface of the water Or Measure to the surface of the water and to the bottom of the transducer and subtract the values Accept any valid method to determine s View (the metre rule) perpendicularly Or Use a set square to take the measurement from the metre rule (1) (1) (1)",
+          "image": "/papers/wph11-may-2024/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculates time t = number of divisions  time per division Use of v = 푠 푡 Do not accept use of v = f  Uses 2  s Or Uses ½  t v = 331 (m s −1 ) Bald answer scores 0 Example of calculation t = 6 divisions  0.5 ms per division = 3 ms v = 푠 푡 = 2 × 0.497 m 3 × 10 −3 s = 331.3 m s −1 (1) (1) (1) (1) Mean v = 341 m s −1 3 sig fig only Example of calculation Mean value of v = ( 335 + 347 + 339 + 342 ) m s −1 = 1363 m s −1 = 340.8 = 341 m s −1 (1) (1) Correct value of percentage uncertainty using calculated mean (e.c.f. 3(c)(i)) Example of calculation Uncertainty = half range = ( 347 − 335 ) m s −1 = 6 m s −1 Percentage uncertainty = 6 m s −1 341 m s −1 ×100 = 1.8% (1) (1) Upper limit =  (m s −1 ) Conclusion consistent with comparing calculated limit and given value Example of calculation Upper limit = 1444 m s −1   =  (m s −1 ) The upper limit is above 1481 m s −1 so the student’s value is consistent OR Percentage difference = 2.5 % Conclusion consistent with comparing calculated percentage difference with 4% (1) (1) (1) (1) Total for question 3 13 Number Answer Mark Calculates percentage uncertainty = half resolution / measurement  100% Percentage uncertainty = 2 % Accept 1.9 % Example of calculation Percentage uncertainty = 0.005 mm 0.27 mm ×100 = 1.85 % = 2 % (1) (1) Check (and correct) for zero error To eliminate systematic error MP2 dependent on MP1 OR Use the ratchet (to prevent overtightening) To reduce (the effect of) random error MP2 dependent on MP1 (1) (1) (1) (1) So the wire/circuit does not overheat Or so there is not a short circuit Or so the ammeter/battery is not damaged (1) (1) ( 푅 퐿 =−푘퐿+ 휌 퐴 ) compares to y = mx + c where 휌 퐴 is the y-intercept So  can be calculated from the y-intercept multiplied by A. (1) (1) Correct values of 푅 퐿 units not required in table heading Values consistent to 3 sig figs L / m I / A V / V 푹 푳 /  m −1 0.100 0.720 1.40 19.4 0.200 0.390 1.39 17.8 0.300 0.290 1.42 16.3 0.400 0.250 1.48 14.8 0.500 0.220 1.47 1",
+          "image": "/papers/wph11-may-2024/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit3-2024-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

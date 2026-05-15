@@ -1,0 +1,175 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct 8-bit binary number 66 0 1 0 0 0 0 1 0 85 0 1 0 1 0 1 0 1 83 0 1 0 1 0 0 1 1 1 mark for each correct hexadecimal number 4B 45 59 Three from: • (HTML) colour codes • Error messages • MAC addresses • IP addresses • Assembly language • Memory dump • Locations in memory Two from: • Easier to read/write/understand (for humans) • Easier to remember (for humans) • Short way to represent binary // Uses less screen/display space • Fewer errors made (in data transcription) • Easier to debug (for humans) 0478/12 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct tick ( ) Statement RAM ( ) ROM ( ) Stores the programs and data that are currently in use Used to boot up the computer when power is turned on Contents are retained when power is turned off",
+          "image": "/papers/computer_science-0478-2018/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Non-volatile storage • Storage that can be disconnected/removed from the computer • Any suitable example • Must be (physically) connected to computer to obtain stored data • Used to store files as a backup 0478/12 October/November 2018 1 mark for each correct logic gate, with correct inputs. 0478/12 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "4 (a) Identify three security issues that can put a computer system at risk. Security issue 1 ........................................................................................................................ Security issue 2 ........................................................................................................................ Security issue 3 ...................",
+      "text": "4 (a) Identify three security issues that can put a computer system at risk. Security issue 1 ........................................................................................................................ Security issue 2 ........................................................................................................................ Security issue 3 ...................",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) Identify three security issues that can put a computer system at risk. Security issue 1 ........................................................................................................................ Security issue 2 ........................................................................................................................ Security issue 3 ...................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Malware • Virus // No antivirus • Denial of service • Spyware // No antispyware • Phishing // opening unknown links/emails • Pharming // opening unknown links/emails (only award once for this alternative) • Hacking/cracking/unauthorised access // No/weak password // No/weak firewall • Downloading/Using unknown software • Not updating software • Physical issue e.g. computer/door left unlocked",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • It examines/monitors/filters traffic into and out of a computer • It allows a user to set criteria/rules for the traffic • It checks whether the traffic meets the criteria/rules • It blocks any traffic that does not meet the criteria/rules // Blocks unauthorised access • It warns a user of any unauthorised software/access/unauthorised outgoing traffic • It keeps a log of all traffic (that can be examined) Liquid crystal display // LCD",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "5 (a) Karina is taking her Computer Science examination. She has three questions to answer about output devices. (i) For the first question she writes the answer: “It is a high powered laser that cuts materials such as thin metals or wood.” Identify the output device that Karina is describing. ............",
+      "text": "5 (a) Karina is taking her Computer Science examination. She has three questions to answer about output devices. (i) For the first question she writes the answer: “It is a high powered laser that cuts materials such as thin metals or wood.” Identify the output device that Karina is describing. ............",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct missing word, in the given order: • interactive whiteboard • inkjet • thermal bubble • laser • rotating 0478/12 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "6 (a) Many programmers write computer programs in high-level languages. The programs need to be translated into machine code to be read by the computer. State two types of translator that can be used. Translator 1 ............................................................................................................................... Translator 2 ....................",
+      "text": "6 (a) Many programmers write computer programs in high-level languages. The programs need to be translated into machine code to be read by the computer. State two types of translator that can be used. Translator 1 ............................................................................................................................... Translator 2 ....................",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "6 (a) Many programmers write computer programs in high-level languages. The programs need to be translated into machine code to be read by the computer. State two types of translator that can be used. Translator 1 ............................................................................................................................... Translator 2 ....................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Compiler • Interpreter",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • Closer to human language/English « • « so it is easier/quicker to read/write/understand • « so it is easier/quicker to debug the program • « therefore, less likely to make errors • The program can be used on many different platforms « • « because it is written in source code • « because it is compiled into object code • They have built-in functions/libraries « • « this saves time when writing the program • Do not need to manipulate memory addresses directly « • « therefore, specialist knowledge of this is not required • Only need to learn a single language « • « as this can be used on many different computers 0478/12 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct tick ( ) Computer code High-level language ( ) Assembly language ( ) Machine code ( ) 10110111 11001100 01011100 FOR X = 1 TO 10 PRINT X NEXT X INP X STA X LDA Y 0478/12 October/November 2018 1 mark for each correct line (to a maximum of 5) Browser A program that allows a user to view webpages Internet Service Provider (ISP) The main protocol that governs the transmission of data using the Internet Hypertext Transfer Protocol (HTTP) The website address that is typed into the address bar Uniform Resource Locator (URL) An address given to each device on a network. It is provided by the network MAC address A unique address given to a device on a network. It is provided by the manufacturer IP address A company that provides a connection to access the Internet 0478/12 October/November 2018 Four from: • Used to attend to certain tasks/issues • Used to make sure that vital tasks are dealt with immediately • The interrupt/signal tells the CPU/processor (that its attention is required) • A signal that can be sent from a device (attached to the computer) • A signal that can be sent from software (installed on the computer) • The interrupt will cause the OS/current process to pause • The OS/CPU/ISR will service/handle the interrupt • They have different levels of priority • After the interrupt is serviced, the (previous) process is continued • It enables multi-tasking to be carried out on a computer • A valid example of an interrupt e.g. ‘out of paper’ message for a printer Two from: • Data is transmitted one bit at a time • Data is transmitted using a single wire • Bits arrive in order/sequence Two from: • Data is transmitted multiple bits at a time/simultaneously • Data is transmitted using multiple wires • Bits may arrive out of sequence/skewed (and are reordered) 1 mark for each: • Data is transmitted in both directions • « at the same time/simultaneously 0478/12 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "9 (a) Computers can transmit data using different methods. Describe the three data transmission methods given. (i) Serial data transmission ........................................................................................................................................... ............................................................................",
+      "text": "9 (a) Computers can transmit data using different methods. Describe the three data transmission methods given. (i) Serial data transmission ........................................................................................................................................... ............................................................................",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Maximum of three marks per error detection method. 1 mark for naming the method, 2 marks for describing it. Parity (check) • Odd or even parity can be used • Bits are added together // 1 bits are counted • Parity bit added (depending on parity set) • Parity checked on receipt • If parity bit is incorrect an error is detected Checksum • Calculation performed on data (to get the checksum) • Checksum sent with data • Checksum recalculated after transmission • Comparison made between checksum before and checksum after transmission • Error detected if checksums are different Automatic repeat request (ARQ) • Uses acknowledgement and timeout • Request is sent (with data) requiring acknowledgement • If no response/acknowledgment within certain time frame data package is resent • When data received contains an error a request is sent (automatically) to resend the data • The resend request is repeatedly sent until packet is received error free/limit is reached/acknowledgement received Five from: • The sensor sends data to the microprocessor • The analogue data is converted to digital (using ADC) • The microprocessor compares the reading to the set range/stored values/stored data (6 to 8) « – « If the reading is >8 or <6 / outside range « o « the microprocessor sends a signal to output the alert • The process is continuous/repeated",
+          "image": "/papers/computer_science-0478-2018/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

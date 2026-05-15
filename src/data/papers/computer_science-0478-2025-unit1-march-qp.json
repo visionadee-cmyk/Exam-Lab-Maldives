@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Language: assembly • Translator: assembler • Each statement is translated and executed before the next • Translator stops when an error is found • ... can correct and continue from where error found // real time debugging when/where error found • ... does not need to retranslate all the code again • Can test sections of the code • Can test without all the program code being functional/accurate/complete Example • Code editor • Run-time environment • Error diagnostics // by example • Auto-complete • Auto-correct • Prettyprint // syntax highlighting • Collapse/expand block • Auto-documentation",
+          "image": "/papers/computer_science-0478-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit1-2025-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

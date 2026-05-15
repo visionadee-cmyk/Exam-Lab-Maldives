@@ -1,0 +1,658 @@
+{
+  "paperId": "physics-0625-2023-unit1-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit1-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "May/June 2023",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 41,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which unit is a unit of weight? A kilogram, B kilojoule, C kilometre, D kilonewton",
+      "text": "Which unit is a unit of weight? A kilogram, B kilojoule, C kilometre, D kilonewton",
+      "options": [
+        "A kilogram",
+        "B kilojoule",
+        "C kilometre",
+        "D kilonewton"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph represents the motion of a vehicle. 20 0 0400 time / s speed m / s What is the distance travelled by the vehicle in 400 s? A 20 m B 400 m C 4000 m D 8000 m",
+      "text": "The graph represents the motion of a vehicle. 20 0 0400 time / s speed m / s What is the distance travelled by the vehicle in 400 s? A 20 m B 400 m C 4000 m D 8000 m",
+      "options": [
+        "A 20 m B 400 m C 4000 m D 8000 m"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a distance–time graph for an object moving in a straight line. 12 6 0 01030 time / s distance / m X Y What is the average speed between X and Y? A 0.20 m / s B 0.30 m / s C 0.40 m / s D 0.60 m / s 3",
+      "text": "The diagram shows a distance–time graph for an object moving in a straight line. 12 6 0 01030 time / s distance / m X Y What is the average speed between X and Y? A 0.20 m / s B 0.30 m / s C 0.40 m / s D 0.60 m / s 3",
+      "options": [
+        "A 0.20 m / s B 0.30 m / s C 0.40 m / s D 0.60 m / s 3"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A space rocket travels to the Moon. The acceleration of free fall is greater on the Earth than it is on the Moon. How do the mass and weight of the space rocket on the Moon compare with their values on the Earth? mass on the Moon weight on the Moon A less than on the Earth     same as on the Earth, B less than on the Earth    more than on the Earth, C same as on the Earth     less than on the Earth, D same as on the Earth    more than on the Earth",
+      "text": "A space rocket travels to the Moon. The acceleration of free fall is greater on the Earth than it is on the Moon. How do the mass and weight of the space rocket on the Moon compare with their values on the Earth? mass on the Moon weight on the Moon A less than on the Earth     same as on the Earth, B less than on the Earth    more than on the Earth, C same as on the Earth     less than on the Earth, D same as on the Earth    more than on the Earth",
+      "options": [
+        "A less than on the Earth     same as on the Earth",
+        "B less than on the Earth    more than on the Earth",
+        "C same as on the Earth     less than on the Earth",
+        "D same as on the Earth    more than on the Earth"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A shopkeeper pours rice into a dish that hangs from a spring balance. He records the reading. 0 1 2 3 4 5 6 spring balance rice dish A customer buys some pasta. The shopkeeper notices that the reading on the spring balance, with just pasta in the dish, is the same as it was with just rice in the dish. Which quantity must be the same for the rice and for the pasta?, A density, B temperature, C volume, D weight 4",
+      "text": "A shopkeeper pours rice into a dish that hangs from a spring balance. He records the reading. 0 1 2 3 4 5 6 spring balance rice dish A customer buys some pasta. The shopkeeper notices that the reading on the spring balance, with just pasta in the dish, is the same as it was with just rice in the dish. Which quantity must be the same for the rice and for the pasta?, A density, B temperature, C volume, D weight 4",
+      "options": [
+        "A customer buys some pasta. The shopkeeper notices that the reading on the spring balance, with just pasta in the dish, is the same as it was with just rice in the dish. Which quantity must be the same for the rice and for the pasta?",
+        "A density",
+        "B temperature",
+        "C volume",
+        "D weight 4"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student determines the density of an irregularly shaped stone. The stone is slowly lowered into a measuring cylinder partly filled with water. measuring cylinder stone Which other apparatus does the student need to calculate the density of the irregularly shaped stone? A a balance, B a thermometer, C a metre rule, D a stop-watch",
+      "text": "A student determines the density of an irregularly shaped stone. The stone is slowly lowered into a measuring cylinder partly filled with water. measuring cylinder stone Which other apparatus does the student need to calculate the density of the irregularly shaped stone? A a balance, B a thermometer, C a metre rule, D a stop-watch",
+      "options": [
+        "A a balance",
+        "B a thermometer",
+        "C a metre rule",
+        "D a stop-watch"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four objects are moving. Which object has a zero resultant force acting on it? A the object moving at a decreasing speed, B the object moving at an increasing speed, C the object moving at a constant speed in a circle, D the object moving at a constant speed in a straight line",
+      "text": "Four objects are moving. Which object has a zero resultant force acting on it? A the object moving at a decreasing speed, B the object moving at an increasing speed, C the object moving at a constant speed in a circle, D the object moving at a constant speed in a straight line",
+      "options": [
+        "A the object moving at a decreasing speed",
+        "B the object moving at an increasing speed",
+        "C the object moving at a constant speed in a circle",
+        "D the object moving at a constant speed in a straight line"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a uniform metre rule. The rule is pivoted at its mid-point. A weight of 4.0 N is suspended from the rule at the 5 cm mark. The rule is held by a string at the 30 cm mark. The rule is in equilibrium. 5 4.0 N 50 100 cm mark 30 0 cm mark metre rule pivot string What is the upward force that the string exerts on the rule? A 0.67 N B 4.0 N C 6.0 N D 9.0 N 5",
+      "text": "The diagram shows a uniform metre rule. The rule is pivoted at its mid-point. A weight of 4.0 N is suspended from the rule at the 5 cm mark. The rule is held by a string at the 30 cm mark. The rule is in equilibrium. 5 4.0 N 50 100 cm mark 30 0 cm mark metre rule pivot string What is the upward force that the string exerts on the rule? A 0.67 N B 4.0 N C 6.0 N D 9.0 N 5",
+      "options": [
+        "A 0.67 N B 4.0 N C 6.0 N D 9.0 N 5"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An irregularly shaped metal plate is freely suspended from a point P and is in equilibrium, as shown. Point Q is vertically below P. P Q Which statement about the position of the centre of gravity of the metal plate is correct? A It is at P., B It is at Q., C It is halfway between P and Q., D Further investigation is needed to determine its position.",
+      "text": "An irregularly shaped metal plate is freely suspended from a point P and is in equilibrium, as shown. Point Q is vertically below P. P Q Which statement about the position of the centre of gravity of the metal plate is correct? A It is at P., B It is at Q., C It is halfway between P and Q., D Further investigation is needed to determine its position.",
+      "options": [
+        "A It is at P.",
+        "B It is at Q.",
+        "C It is halfway between P and Q.",
+        "D Further investigation is needed to determine its position."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row about the change of energy in the energy store must be correct? process energy store change of energy in store A water pumped up to a high-altitude dam gravitational potential energy of water increases B water pumped up to a high-altitude dam kinetic energy of water decreases C air passes through a wind turbine gravitational potential energy of air increases D air passes through a wind turbine kinetic energy of air increases",
+      "text": "Which row about the change of energy in the energy store must be correct? process energy store change of energy in store A water pumped up to a high-altitude dam gravitational potential energy of water increases B water pumped up to a high-altitude dam kinetic energy of water decreases C air passes through a wind turbine gravitational potential energy of air increases D air passes through a wind turbine kinetic energy of air increases",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A rock of weight 50 N falls a vertical distance of 7.0 m from rest. What is the change in the gravitational potential energy store of the rock? A decrease of 7.1 J, B decrease of 350 J, C increase of 7.1 J, D increase of 350 J 6",
+      "text": "A rock of weight 50 N falls a vertical distance of 7.0 m from rest. What is the change in the gravitational potential energy store of the rock? A decrease of 7.1 J, B decrease of 350 J, C increase of 7.1 J, D increase of 350 J 6",
+      "options": [
+        "A decrease of 7.1 J",
+        "B decrease of 350 J",
+        "C increase of 7.1 J",
+        "D increase of 350 J 6"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A child runs up a set of stairs four times. The time taken for each run is recorded. Which time is measured when the child’s useful power is greatest? A 10 s B 20 s C 30 s D 40 s",
+      "text": "A child runs up a set of stairs four times. The time taken for each run is recorded. Which time is measured when the child’s useful power is greatest? A 10 s B 20 s C 30 s D 40 s",
+      "options": [
+        "A 10 s B 20 s C 30 s D 40 s"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A woman has a weight of 600 N. She stands on a horizontal floor. The area of her feet in contact with the floor is 0.050 m 2 . What is the pressure she exerts on the floor? A 1.2 × 10 3 N / m 2, B 2.4 × 10 3 N / m 2, C 1.2 × 10 4 N / m 2, D 2.4 × 10 4 N / m 2",
+      "text": "A woman has a weight of 600 N. She stands on a horizontal floor. The area of her feet in contact with the floor is 0.050 m 2 . What is the pressure she exerts on the floor? A 1.2 × 10 3 N / m 2, B 2.4 × 10 3 N / m 2, C 1.2 × 10 4 N / m 2, D 2.4 × 10 4 N / m 2",
+      "options": [
+        "A 1.2 × 10 3 N / m 2",
+        "B 2.4 × 10 3 N / m 2",
+        "C 1.2 × 10 4 N / m 2",
+        "D 2.4 × 10 4 N / m 2"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Gases, liquids and solids are made up of small particles. Which row gives the relative separation of the particles? gas liquid solid A far apart far apart far apart, B far apart far apart close together, C far apart close together   close together, D close together   close together far apart",
+      "text": "Gases, liquids and solids are made up of small particles. Which row gives the relative separation of the particles? gas liquid solid A far apart far apart far apart, B far apart far apart close together, C far apart close together   close together, D close together   close together far apart",
+      "options": [
+        "A far apart far apart far apart",
+        "B far apart far apart close together",
+        "C far apart close together   close together",
+        "D close together   close together far apart"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statements about evaporation of water are correct? 1   Evaporation causes the remaining liquid to cool. 2   During  evaporation,  the  more  energetic  particles  escape  from the  surface  of  the liquid. 3   Evaporation only happens at 100 °C. A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "text": "Which statements about evaporation of water are correct? 1   Evaporation causes the remaining liquid to cool. 2   During  evaporation,  the  more  energetic  particles  escape  from the  surface  of  the liquid. 3   Evaporation only happens at 100 °C. A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which surface is the worst absorber of infrared radiation? A dull black, B dull white, C shiny black, D shiny white 7",
+      "text": "Which surface is the worst absorber of infrared radiation? A dull black, B dull white, C shiny black, D shiny white 7",
+      "options": [
+        "A dull black",
+        "B dull white",
+        "C shiny black",
+        "D shiny white 7"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show graphs of displacement against time for four waves. All the graphs are drawn to the same scale. Which wave has the largest amplitude and the highest frequency? displacement A time displacement B time displacement C time displacement D time 0 0 0 0 0 0 0 0",
+      "text": "The diagrams show graphs of displacement against time for four waves. All the graphs are drawn to the same scale. Which wave has the largest amplitude and the highest frequency? displacement A time displacement B time displacement C time displacement D time 0 0 0 0 0 0 0 0",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student draws a diagram to show the directions of a light ray reflecting off a plane mirror. mirror 13 2 What are the correct terms for the lines drawn? normal incident ray reflected ray A 1 2 3, B 1 3 2, C 2 1 3, D 2 3 1 8",
+      "text": "A student draws a diagram to show the directions of a light ray reflecting off a plane mirror. mirror 13 2 What are the correct terms for the lines drawn? normal incident ray reflected ray A 1 2 3, B 1 3 2, C 2 1 3, D 2 3 1 8",
+      "options": [
+        "A 1 2 3",
+        "B 1 3 2",
+        "C 2 1 3",
+        "D 2 3 1 8"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object O is placed at point P near to a thin converging lens. The diagram shows three rays from the top of O passing through the lens. Each point F is one focal length from the centre of the lens. Each point 2F is two focal lengths from the centre of the lens. PQ O 2F2FFF image The object O is moved to point Q on the diagram. Which type of image is produced when the object O is at point Q? A inverted and the same size as the object, B inverted and enlarged, C upright and the same size as the object, D upright and enlarged",
+      "text": "An object O is placed at point P near to a thin converging lens. The diagram shows three rays from the top of O passing through the lens. Each point F is one focal length from the centre of the lens. Each point 2F is two focal lengths from the centre of the lens. PQ O 2F2FFF image The object O is moved to point Q on the diagram. Which type of image is produced when the object O is at point Q? A inverted and the same size as the object, B inverted and enlarged, C upright and the same size as the object, D upright and enlarged",
+      "options": [
+        "A inverted and the same size as the object",
+        "B inverted and enlarged",
+        "C upright and the same size as the object",
+        "D upright and enlarged"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows the dispersion of white light by a glass prism? violet red A violet violet red red B whitewhite violet red C violet violet red red D violet red whitewhite 9",
+      "text": "Which diagram shows the dispersion of white light by a glass prism? violet red A violet violet red red B whitewhite violet red C violet violet red red D violet red whitewhite 9",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement is correct? A A remote controller emits microwave radiation., B A remote controller emits infrared radiation., C A remote controller emits ultrasound., D A remote controller emits ultraviolet radiation.",
+      "text": "Which statement is correct? A A remote controller emits microwave radiation., B A remote controller emits infrared radiation., C A remote controller emits ultrasound., D A remote controller emits ultraviolet radiation.",
+      "options": [
+        "A A remote controller emits microwave radiation.",
+        "B A remote controller emits infrared radiation.",
+        "C A remote controller emits ultrasound.",
+        "D A remote controller emits ultraviolet radiation."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Student X fires a starting pistol which produces smoke and sound. Student Y is standing 100 m away and sees the smoke the instant it is produced. The speed of sound in air is 340 m / s. What is the time delay between student Y seeing the smoke and hearing the sound? A 0.29 s B 0.59 s C 1.7 s D 3.4 s",
+      "text": "Student X fires a starting pistol which produces smoke and sound. Student Y is standing 100 m away and sees the smoke the instant it is produced. The speed of sound in air is 340 m / s. What is the time delay between student Y seeing the smoke and hearing the sound? A 0.29 s B 0.59 s C 1.7 s D 3.4 s",
+      "options": [
+        "A 0.29 s B 0.59 s C 1.7 s D 3.4 s"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An unmagnetised piece of soft iron is placed close to a strong permanent magnet, as shown. SXN permanent magnet soft iron What is the induced polarity of end X of the soft iron and in which direction does the magnetic force act on the soft iron? polarity of end X direction of force on the soft iron A N to the left, B N to the right, C S to the left, D S to the right 10",
+      "text": "An unmagnetised piece of soft iron is placed close to a strong permanent magnet, as shown. SXN permanent magnet soft iron What is the induced polarity of end X of the soft iron and in which direction does the magnetic force act on the soft iron? polarity of end X direction of force on the soft iron A N to the left, B N to the right, C S to the left, D S to the right 10",
+      "options": [
+        "A N to the left",
+        "B N to the right",
+        "C S to the left",
+        "D S to the right 10"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plastic rod is rubbed with a cloth. plastic rod cloth The rod and the cloth both become charged as electrons move between them. The rod becomes negatively charged. Which diagram shows how the rod becomes negatively charged and shows the final charge on the cloth? A + + + + + + + + + – – – – – – – – – – – – – – – – – – – – – electron movement final charge on the cloth electron movement electron movement electron movement B + + + + + + + + + – – – – – C – – – – – – – – – – – – – – D – – – – – – – – – – – – – – final charge on the cloth final charge on the cloth final charge on the cloth",
+      "text": "A plastic rod is rubbed with a cloth. plastic rod cloth The rod and the cloth both become charged as electrons move between them. The rod becomes negatively charged. Which diagram shows how the rod becomes negatively charged and shows the final charge on the cloth? A + + + + + + + + + – – – – – – – – – – – – – – – – – – – – – electron movement final charge on the cloth electron movement electron movement electron movement B + + + + + + + + + – – – – – C – – – – – – – – – – – – – – D – – – – – – – – – – – – – – final charge on the cloth final charge on the cloth final charge on the cloth",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which particles move to cause a current in a copper wire? A copper atoms, B electrons from the copper atoms, C protons from the copper nuclei, D neutrons from the copper nuclei 11",
+      "text": "Which particles move to cause a current in a copper wire? A copper atoms, B electrons from the copper atoms, C protons from the copper nuclei, D neutrons from the copper nuclei 11",
+      "options": [
+        "A copper atoms",
+        "B electrons from the copper atoms",
+        "C protons from the copper nuclei",
+        "D neutrons from the copper nuclei 11"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four  students  draw  a  circuit  diagram  of  the  apparatus  used  to measure  the  resistance  of resistor R. Which circuit is correct? A A V B A V R R C A V D A V R R 12",
+      "text": "Four  students  draw  a  circuit  diagram  of  the  apparatus  used  to measure  the  resistance  of resistor R. Which circuit is correct? A A V B A V R R C A V D A V R R 12",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The battery on a bicycle is connected in parallel to its lamp and bell. The circuit includes two switches, S 1 and S 2 . S 1 S 2 bell The cyclist closes S 1 to light the lamp. She then also closes S 2 to sound the bell. What happens to the current in the battery and the power output from the battery when the cyclist closes S 2 ? current in the battery power output from the battery A increases increases, B increases stays the same, C stays the same increases, D stays the same    stays the same",
+      "text": "The battery on a bicycle is connected in parallel to its lamp and bell. The circuit includes two switches, S 1 and S 2 . S 1 S 2 bell The cyclist closes S 1 to light the lamp. She then also closes S 2 to sound the bell. What happens to the current in the battery and the power output from the battery when the cyclist closes S 2 ? current in the battery power output from the battery A increases increases, B increases stays the same, C stays the same increases, D stays the same    stays the same",
+      "options": [
+        "A increases increases",
+        "B increases stays the same",
+        "C stays the same increases",
+        "D stays the same    stays the same"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which symbol represents an electric heater? ABCD 13",
+      "text": "Which symbol represents an electric heater? ABCD 13",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2023/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student connects the circuit shown. 1 2 3 4 bell Which switches must be closed for the bell to ring without lighting the lamp? A 1 and 2 only B 1 and 3 only C 1, 3 and 4 D 2, 3 and 4",
+      "text": "A student connects the circuit shown. 1 2 3 4 bell Which switches must be closed for the bell to ring without lighting the lamp? A 1 and 2 only B 1 and 3 only C 1, 3 and 4 D 2, 3 and 4",
+      "options": [
+        "A 1 and 2 only B 1 and 3 only C 1, 3 and 4 D 2, 3 and 4"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A double-insulated electrical appliance must be connected safely to the electricity supply. Which statement is correct? A It must be connected with a fuse and an earth wire., B It can be connected with a fuse only., C It can be connected with an earth wire only., D It does not need a fuse or an earth wire.",
+      "text": "A double-insulated electrical appliance must be connected safely to the electricity supply. Which statement is correct? A It must be connected with a fuse and an earth wire., B It can be connected with a fuse only., C It can be connected with an earth wire only., D It does not need a fuse or an earth wire.",
+      "options": [
+        "A It must be connected with a fuse and an earth wire.",
+        "B It can be connected with a fuse only.",
+        "C It can be connected with an earth wire only.",
+        "D It does not need a fuse or an earth wire."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A simple electric generator induces an electromotive force (e.m.f.). Which modification would increase the induced e.m.f.? A Increase the number of turns in the coil of the generator., B Increase the distance between the magnetic poles., C Reduce the strength of the magnetic field around the coil., D Reverse the direction of the magnetic field. 14",
+      "text": "A simple electric generator induces an electromotive force (e.m.f.). Which modification would increase the induced e.m.f.? A Increase the number of turns in the coil of the generator., B Increase the distance between the magnetic poles., C Reduce the strength of the magnetic field around the coil., D Reverse the direction of the magnetic field. 14",
+      "options": [
+        "A Increase the number of turns in the coil of the generator.",
+        "B Increase the distance between the magnetic poles.",
+        "C Reduce the strength of the magnetic field around the coil.",
+        "D Reverse the direction of the magnetic field. 14"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a vertical wire carrying a current I placed between the poles of a magnet. N I S What is the direction of the force on the wire exerted by the magnetic field? A from N to S, B from S to N, C horizontal and at right angles to the direction from N to S, D parallel to the wire",
+      "text": "The diagram shows a vertical wire carrying a current I placed between the poles of a magnet. N I S What is the direction of the force on the wire exerted by the magnetic field? A from N to S, B from S to N, C horizontal and at right angles to the direction from N to S, D parallel to the wire",
+      "options": [
+        "A from N to S",
+        "B from S to N",
+        "C horizontal and at right angles to the direction from N to S",
+        "D parallel to the wire"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is an advantage of transmitting electricity at a high voltage? A It is faster., B It is safer., C Less energy is wasted., D Less equipment is needed.",
+      "text": "What is an advantage of transmitting electricity at a high voltage? A It is faster., B It is safer., C Less energy is wasted., D Less equipment is needed.",
+      "options": [
+        "A It is faster.",
+        "B It is safer.",
+        "C Less energy is wasted.",
+        "D Less equipment is needed."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "How are positive and negative ions formed from atoms? positive ion negative ion A add positive charge to the nucleus add an electron to the atom, B add positive charge to the nucleus remove positive charge from the nucleus, C remove an electron from the atom add an electron to the atom, D remove an electron from the atom remove positive charge from the nucleus",
+      "text": "How are positive and negative ions formed from atoms? positive ion negative ion A add positive charge to the nucleus add an electron to the atom, B add positive charge to the nucleus remove positive charge from the nucleus, C remove an electron from the atom add an electron to the atom, D remove an electron from the atom remove positive charge from the nucleus",
+      "options": [
+        "A add positive charge to the nucleus add an electron to the atom",
+        "B add positive charge to the nucleus remove positive charge from the nucleus",
+        "C remove an electron from the atom add an electron to the atom",
+        "D remove an electron from the atom remove positive charge from the nucleus"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A nucleus of element X is represented as . 56 26 X Which is an isotope of element X? A X 26 56 B X 54 26, C X 56 24, D X 54 28 15",
+      "text": "A nucleus of element X is represented as . 56 26 X Which is an isotope of element X? A X 26 56 B X 54 26, C X 56 24, D X 54 28 15",
+      "options": [
+        "B X 54 26",
+        "C X 56 24",
+        "D X 54 28 15"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the random decay of the nuclei in a sample of uranium-238 is correct? A The probabilities of an alpha-particle, a beta-particle or a gamma ray being emitted from a nucleus in the sample are equal., B The probability of a nucleus in the sample decaying decreases as time passes., C The probability of a nucleus decaying in any ten minute interval is the same for all the nuclei in the sample., D The probability of a nucleus in the sample decaying increases as time passes.",
+      "text": "Which statement about the random decay of the nuclei in a sample of uranium-238 is correct? A The probabilities of an alpha-particle, a beta-particle or a gamma ray being emitted from a nucleus in the sample are equal., B The probability of a nucleus in the sample decaying decreases as time passes., C The probability of a nucleus decaying in any ten minute interval is the same for all the nuclei in the sample., D The probability of a nucleus in the sample decaying increases as time passes.",
+      "options": [
+        "A The probabilities of an alpha-particle, a beta-particle or a gamma ray being emitted from a nucleus in the sample are equal.",
+        "B The probability of a nucleus in the sample decaying decreases as time passes.",
+        "C The probability of a nucleus decaying in any ten minute interval is the same for all the nuclei in the sample.",
+        "D The probability of a nucleus in the sample decaying increases as time passes."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The count rate due to a sample of a radioactive isotope is measured for 80 minutes. time / minutes second/counts rate count 0 480 20 380",
+      "text": "The count rate due to a sample of a radioactive isotope is measured for 80 minutes. time / minutes second/counts rate count 0 480 20 380",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2023/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 38",
+      "text": "Question 38",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 39",
+      "text": "Question 39",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2023/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "300",
+      "text": "300",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2023/q40.png"
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "240 80 190 What is the half-life of the isotope? A 20 minutes B 40 minutes C 60 minutes D 80 minutes 38  Which planet in our Solar System is nearest to the Sun and what is the nature of the planet? planet nature, A Mercury rocky, B Mercury gaseous, C Venus rocky, D Venus gaseous 39  The Sun consists mostly of two elements. What are these two elements?, A helium and nitrogen, B hydrogen and helium, C hydrogen and oxygen, D oxygen and nitrogen 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 40  Which statement about the Milky Way is correct?, A It is a galaxy., B It is a group of galaxies., C It is a group of stars outside our own galaxy., D It is a group of stars which are part of our galaxy.",
+      "text": "240 80 190 What is the half-life of the isotope? A 20 minutes B 40 minutes C 60 minutes D 80 minutes 38  Which planet in our Solar System is nearest to the Sun and what is the nature of the planet? planet nature, A Mercury rocky, B Mercury gaseous, C Venus rocky, D Venus gaseous 39  The Sun consists mostly of two elements. What are these two elements?, A helium and nitrogen, B hydrogen and helium, C hydrogen and oxygen, D oxygen and nitrogen 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 40  Which statement about the Milky Way is correct?, A It is a galaxy., B It is a group of galaxies., C It is a group of stars outside our own galaxy., D It is a group of stars which are part of our galaxy.",
+      "options": [
+        "A 20 minutes B 40 minutes C 60 minutes D 80 minutes 38  Which planet in our Solar System is nearest to the Sun and what is the nature of the planet? planet nature",
+        "A Mercury rocky",
+        "B Mercury gaseous",
+        "C Venus rocky",
+        "D Venus gaseous 39  The Sun consists mostly of two elements. What are these two elements?",
+        "A helium and nitrogen",
+        "B hydrogen and helium",
+        "C hydrogen and oxygen",
+        "D oxygen and nitrogen 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 40  Which statement about the Milky Way is correct?",
+        "A It is a galaxy.",
+        "B It is a group of galaxies.",
+        "C It is a group of stars outside our own galaxy.",
+        "D It is a group of stars which are part of our galaxy."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2023/q60.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 41,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit1-2023-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

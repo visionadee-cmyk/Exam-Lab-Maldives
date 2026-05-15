@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2020-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2020",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lengths completed correctly (1,2,3,5,6) all initial and highest temperatures completed to same number of dp all increases worked out correctly correct increases show temperature increasing from Experiment 1 to 5 y -axis – highest temperature increase in table must be over half way up scale all five points plotted correctly best fit line through points which passes within half a small square of (0,0)",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "there is no reaction (with no magnesium)",
+          "image": "/papers/chemistry-0620-2020/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "working shown on graph correct reading (polystyrene is a better) insulato r sketch line starts at same point as plotted line for 0 cm magnesium and then is above plotted line at all non-zero len gths of magnesium. r 0620/52 May/June 2020 Tests on solution L green / grey-green precipitate (dissolves / soluble) producing a green solution remains in excess / does not dissolve III ) / Cr 3+ chloride / C l – Tests on solid M",
+          "image": "/papers/chemistry-0620-2020/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "yellow / orange",
+          "image": "/papers/chemistry-0620-2020/q2-2h.png"
+        },
+        {
+          "id": "2i",
+          "text": "Part 2i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "fizz / bubbles / effervescence limewater turns milky",
+          "image": "/papers/chemistry-0620-2020/q2-2i.png"
+        },
+        {
+          "id": "2k",
+          "text": "Part 2k",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sodium / Na + carbonate / CO 2- 0620/52 May/June 2020 3 any six from: • stated / equal volumes of each cleaner • measured with pipette / measuring cylinder / burette into a beaker or flask • named indicator added • add named acid • from a burette • until indicator changes colour • record / calculate volume acid added • biggest volume of acid is most concentrated",
+          "image": "/papers/chemistry-0620-2020/q2-2k.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit5-2020-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

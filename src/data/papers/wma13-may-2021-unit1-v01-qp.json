@@ -1,0 +1,177 @@
+{
+  "paperId": "wma13-may-2021-unit1-v01-qp",
+  "pairedMarkSchemeId": "wma13-may-2021-unit1-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WMA13/01",
+  "session": "May 2021",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 d11 1 2 cossin d22 2 y x xx x x    =−       M1 A1 Sets d144 0tan2 arctan d2 y xx x xx   =⇒=⇒=     * dM1 A1* (4) (b) 2 arctan x  =   M1 awrt 2.214x = 2.155x = cao A1, A1 (3) (7 marks) (a) M1: Differentiates using the product rule to obtain an expression of the form cossin AxxBxx  +   If the product rule is quoted it must be correct. A1: For a correct simplified or unsimplified derivative. dM1: Sets their d d y x = and proceeds to an equation involving tan x    . This may be implied by their working. The M1 must have been scored. A1*: Correctly achieves the given answer of 2 arctan x x  =   An intermediate line of tan x x  =   or sin cos x x x x    =    must be seen (b) M1: Attempts to use the given iteration formula. Award for 2 arctan x  =   or awrt 2.21 Note that this mark may also be implied by awrt 127 if they are using degrees and no working is shown. A1: x = awrt 2.214 A1: x = 2.155 (Note that this is not awrt) Note that some may work backwards having differentiated e.g. ( ) ( ) sin 4 44 2 arctanarctantan44 cossin cos x x x xxxx xx x xx    =⇒=⇒=⇒=⇒=       2 cossin2 cossin0 x xxx x x xx  ⇒= ⇒− =   Score M1 for a complete method to reach d d y x = and A1 if correct with (minimal) conclusion. Number Scheme Marks",
+          "image": "/papers/wma13-may-2021/q1-1a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-03.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or uses sin 22 sin cosxxx= B1 ( ) 11 2 sin 1 cos 22 sin1 tan 2 sin 24 sin cos4 sin cos2 x xx x xxxxx −− − === M1 A1 (3) (b) ( ) 9 1 cos 2 2 sec9 '' '' tan2 sec 2 sin 22 − =⇒×= θ θθθ θ M1 Attempts 1 tansec4 tan9 tan4 0 θθ θθ+ = ⇒− += dM1 A1 () tan1.64038..., 0.60961... θ ± ⇒= M1 awrt 31.4 , 58.6θ ⇒=° ° A1 A1 (6) (b) Way 2 ( ) 9 1 cos 2 2 sec9 '' '' tan2 sec 2 sin 22 − =⇒×= θ θθθ θ M1 99 sin48 tan2 sec9 sin cos4sin 2 2coscos9 θ θ θθθθ θθ = ⇒ = ⇒=⇒= dM1A1 sin 2262.7333...,117.266...... θθθ=⇒ =⇒= M1 awrt 31.4 , 58.6θ⇒=° ° A1 A1 (9 marks) (a) B1: States or uses sin 2x = 2sin x cos x M1: Attempts to use 1 – cos 2x = ±2sin x and 2sin 2x = Asin x cos x and to proceeds to k tan x A1: Fully correct solution with correct bracketing if seen (b) M1: Uses part (a) to form an equation of the form Atan θ = Bsec θ dM1: Replaces sec θ by ±1 ± tan θ and proceeds to form a 3TQ equation in just tan θ A1: Correct 3TQ. E.g. 9tan θ = 4 + 4 tan θ M1: Correct attempt to find at least one value for tan θ for their 3TQ in tan θ Allow solutions from calculators and condone decimals as long as accuracy is to at least 2sf. A1: One of either awrt 31.4° or awrt 58.6° A1: Both awrt 31.4° and awrt 58.6°. Withhold this mark if there are extra solutions in range. ........................................................................................................................... (b) Way 2 M1: Uses part (a) to form an equation of the form equation Atan θ = Bsec θ dM1: Uses sec cos =θ θ , sin tan cos = θ θ θ and sin 2...sin cosθ θθ= to produce an equation of the form sin 2 C=θ A1: sin 2 = θ M1: Full method to find at least one value of θ from sin 2θ = C where −1 < C < 1. E.g. 2θ = sin -1 C, θ = ½ sin -1 C. (NB radians gives 0.547..., 1.02... and implies the M mark) A1, A1: A s above Number Scheme Marks",
+          "image": "/papers/wma13-may-2021/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3i",
+          "text": "Part 3i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() () ( ) d xc x x − =+ − − ∫ M1 A1 (2) (ii)(a) (a) x xx + = − ++ M1, A1 (2) (ii)(b) (b) ( ) d4d45 ln2 x xxxxc xx + = − =− ++ ++ ∫∫ M1 A1ft Hence d x x x − − + = + ∫ () () 20 5 ln 332 5 ln 6−− −−− dM1 12 5 ln 2= + A1 (4) (8 marks) (i) M1: Achieves () A x− or equivalent e.g. () 21Ax − − A1: Achieves () 21x − − or ( ) 62 1x − −− . There is no requirement for the +c (ii)(a) M1: For using division or any other suitable method to find either A or B Using division look for 24 3xx++ Using an identity look for 4x + 3 = A(x + 2) + B followed by a value for either A or B It may be implied by either A = 4 or B = −5 A1: Correct value for A and B or a correct expression 2x − + or 2x − + + (ii)(b) M1: Integrates ...ln2 . B x x →+ + Condone () ...ln2 B x x →+ + and condone ...ln2 B x x →+ + A1ft: Integrates ln2 . B AAx Bx x + →+ + + Condone () ln2 B AAx Bx x + →+ + + But do not condone missing brackets unless they are implied by subsequent work. dM1: Substitutes 5− and 8− into their integrated function containing ln2x+ or ln(x + 2) A1: 12 5 ln 2+ or equivalent exact answer such as 12 ln 32+ SC: For candidates who proceed to 12 5 ln 2+ or equivalent exact answer via ( ) () ( ) () 20 5 ln332 5 ln6−− − −−− − without sight of modulus signs withhold just the final A1 Number Scheme Marks",
+          "image": "/papers/wma13-may-2021/q3-3i.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 45 26 fg( ) 52 5 x x x −+ = −− M1 26 8 fg( ) 3313 x xx x − =⇒=⇒=− − dM1 A1 A1 (4) (b) 5 464 56 x yyxy xyxx y x + = ⇒ − = +⇒ − = + − M1 y x y + ⇒= − A1 f (),4 x xxx x − + ⇒ =∈≠ −  A1 (3) (c) Shape and position for y = g(x). A parabola starting on the y-axis that extends down in quadrant 2 to at least the x-axis. Condone slips of the pen e.g. if the curve heads back towards the y-axis in quadrant 3 slightly. B1 Shape and position for y = g(x) as above that crosses the x-axis and y = g -1 (x) a parabola starting on the x- axis with graphs crossing as shown in quadrant 3. Condone slips of the pen e.g. if g -1 (x) heads back towards the x- axis in quadrant 3 slightly. B1 Correct intercepts. This mark is for the 4 correct intercepts as shown. Allow as values or coordinates and allow coordinates the wrong way round (e.g. (0, 5) for (5, 0)) as long as they are in the correct places. The negative intercepts must be exact as shown or equivalent. The graphs must cross the axes at these points and you can ignore any other intercepts. B1 Note that labels for g(x) and g -1 (x) are not required (3) (10 marks) (a) M1: For attempting fg( )x in the correct order. dM1: For proceeding to ...x= Depends on the first mark. A1: For 13x= which may be implied by 13x= A1: For 13x = − only g( )yx= g () yx − = O − − Note that in (a) some candidates may take an alternative approach for the first mark: (b) M1: For attempting to change the subject. In the attempt shown in the mark scheme score when both terms in x have been isolated and set on one side of the equation A1: For y x y + = − or equivalent such as x y = + − If the x and y have been swapped award for x y x + = − or equivalent. A1: Requires both the expression in x and the domain. f ()4 x xx x − + =≠ − or f (),4 x xxx x − + =∈≠ −  (Condone f − = ...) Do not allow y = ... (c) See scheme ( )( ) fg( ) 3gf3215 221xxx − =⇒ = =− ⇒− =− Score M1 for finding f − (3) and setting g(x) = f − (3) then as main scheme or ( )( )( ) fg( ) 3gf321g21",
+          "image": "/papers/wma13-may-2021/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-11.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "States or implies that log0.32p= or 0.56 0.32 log q − = M1 awrt 2.089p= or awrt 1.072q= A1 States or implies that log0.32p= and 0.56 0.32 log q − = M1 awrt 2.089p= and awrt 1.072q= A1 (4) (b) States or implies that d ln d t A p qq t =× with their values for p and q M1 A1 Rate of increase in pond weed after 6 days is 0.22 (m /day) A1 (3) (7 marks) (a) M1: States or implies that log0.32p= or 0.56 0.32 log q − = or equivalent equations A1: p = awrt 2.089 or q = awrt 1.072 M1: States or implies that log0.32p= and 0.56 0.32 log q − = or equivalent equations A1: p = awrt 2.089 and q = awrt 1.072 (b) M1: Uses d d tt qkqk t →≠ A1: States or implies that d ln d t A p qq t =× with their values for p and q A1: awrt 0.22 Units are not required ................................................................................................................................................................................... Alt (b) using log0.030.32At=+ as a starting point M1: Attempts to differentiate and reaches 1d d A k At = or equivalent A1: 1d 0.03 ln10 d A At = A1: awrt 0.22 Units are not required Number Scheme Marks Shape M1 Correct intercepts. A1 (ii) Shape M1 Correct intercepts. A1 (4) (b) Attempts to solve either k kx x+ =−+ or k kxx −=− M1 Achieves either xk= − or xk= oe A1 Attempts to solve both k kx x+ =−+ and k kxx−=− M1 Achieves either xk= − and xk= A1 (4) (8 marks) (a) M1: For the shape of 2.yk x= − Score for an upside down V with maximum on the y-axis with the branches at least reaching the x-axis. A1: Intercepts at k on the y-axis and k ± on the x-axis. Allow as values or coordinates and allow coordinates the wrong way round (e.g. (k, 0) for (0, k)) as long as they are in the correct places. The graph must cross the axes at these points. M1: For the shape of 2. k yx= − Score for a V shape in quadrants 1 and 2 with a minimum on the x-axis and at least reaches the y-axis. A1: Intercepts at k on the y-axis and k on the x-axis. Allow as values or coordinates and allow",
+          "image": "/papers/wma13-may-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-15.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "13R= B1 tanawrt 0.395 αα= ⇒= M1A1 (3) (b) g( ) 10 13sin 20.395 π θθ  =+−−   (i) (i) Minimum value is − B1 ft (ii) 20.395awrt 2.82 ππ θθ −− = ⇒= M1 A1 (3) (c) () h( ) 10 169 sin0.395ββ=−− 159h 10− M1 A1 (2) (8 marks) (a) B1: 13R= ( 13R= ± is B0) M1: tan, tan... α αα =±=± ⇒= If R is used to find α accept sinor cos... RR α αα=±=± ⇒= A1: awrt 0.395α = Note that the degree equivalent awrt 22.6α=° is A0 (b)(i) B1ft: States the value of 10R− following through their R. (b)(ii) M1: Attempts to solve 2\"0.395\"... ππ θθ−±= ⇒= A1: awrt 2.82θ= . No other values should be given (c) M1: Achieves one of the end values, either 159− (or 10 – (their R) evaluated) or 10 A1: Fully correct range 159h 10,− ( ) 159h10, β − 159range 10,− ( ) 159h10,x− [ ] 159,10− or equivalent correct ranges. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wma13-may-2021/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma13-may-2021/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/wma13-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2021-unit1-2021-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma13-may-2021/page-01.png",
+      "/papers/wma13-may-2021/page-02.png",
+      "/papers/wma13-may-2021/page-03.png",
+      "/papers/wma13-may-2021/page-04.png",
+      "/papers/wma13-may-2021/page-05.png",
+      "/papers/wma13-may-2021/page-06.png",
+      "/papers/wma13-may-2021/page-07.png",
+      "/papers/wma13-may-2021/page-08.png",
+      "/papers/wma13-may-2021/page-09.png",
+      "/papers/wma13-may-2021/page-10.png",
+      "/papers/wma13-may-2021/page-11.png",
+      "/papers/wma13-may-2021/page-12.png",
+      "/papers/wma13-may-2021/page-13.png",
+      "/papers/wma13-may-2021/page-14.png",
+      "/papers/wma13-may-2021/page-15.png",
+      "/papers/wma13-may-2021/page-16.png",
+      "/papers/wma13-may-2021/page-17.png",
+      "/papers/wma13-may-2021/page-18.png",
+      "/papers/wma13-may-2021/page-19.png",
+      "/papers/wma13-may-2021/page-20.png",
+      "/papers/wma13-may-2021/page-21.png",
+      "/papers/wma13-may-2021/page-22.png",
+      "/papers/wma13-may-2021/page-23.png",
+      "/papers/wma13-may-2021/page-24.png",
+      "/papers/wma13-may-2021/page-25.png",
+      "/papers/wma13-may-2021/page-26.png",
+      "/papers/wma13-may-2021/page-27.png",
+      "/papers/wma13-may-2021/page-28.png",
+      "/papers/wma13-may-2021/page-29.png",
+      "/papers/wma13-may-2021/page-30.png",
+      "/papers/wma13-may-2021/page-31.png",
+      "/papers/wma13-may-2021/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

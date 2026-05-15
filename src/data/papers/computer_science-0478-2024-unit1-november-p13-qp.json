@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2024-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2024",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• It receives data from the sensor • It analyses the data // It checks if the data is within/out of a range // • It sends signals to trigger actions based on the data For example: • It stops the farmer having to handle heavy equipment • It frees the farmer up to do other jobs • It doesn’t need to take breaks // Can work 24/7 • It can perform boring repetitive tasks • Can save money on labour costs • May be more accurate at ploughing/planting • May be more efficient than the farmer at ploughing For example: • It could make use of machine learning • It could gather data from ploughing • ... and use this data to adapt its own process • ... so that it will make fewer mistakes • ... such as the dimensions of the field • ... such as the landscape of the field • ... such as where obstacles are in the field • ... to create a map of the field • ... to develop the most efficient route to take • ... so, it knows what to avoid in future October/November Question Answer Marks • web browser • session • temporary • web browser // session • persistent • permanent • expire For example: • User preferences // by example • Login details • Payment details • User’s personal details e.g. address • Contents of a shopping cart • Targeted advertising Question Answer Marks 7 Any four from: • It is a piece of software • ... used to write/develop/edit code • ... used test/debug the code • ... with features such as auto-completion // any suitable example • To translate the code to low level language/machine code",
+          "image": "/papers/computer_science-0478-2024/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit1-2024-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

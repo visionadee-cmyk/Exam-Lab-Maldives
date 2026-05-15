@@ -1,0 +1,207 @@
+{
+  "paperId": "wph11-may-2023-unit5-qp",
+  "pairedMarkSchemeId": "wph11-may-2023-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "May 2023",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11b",
+          "text": "Part 11b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 1 eV = 1.6 × 10 −19 J Use of 퐸 푘 = 푚푣 v = 3.0 × 10 m s −1 Example of calculation 2.6×10 ×1.6× 10 −19 J= ×9.11×10 −31 kg×푣 ∴푣= √ 2×4.16×10 −16 J 9.11×10 −31 kg =3.02×10 m s −1 (1) (1) (1) Total for question 11 5 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q11-11b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푉=푁푘푇 Conversion of temperature to kelvin N = 2.1 × 10 [min 2sf] Example of derivation 푁= 1.24×10 Pa×7.08×10 −2 m 1.38×10 −23 J K −1 × ( 273+25 ) K =2.13×10 (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q12-12a.png"
+        },
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푉=푁푘푇 ΔN = 1.5 × 10 (allow ecf from (a)) Example of calculation 푝 푝 = 푁 푁 푁 =2.13×10 × ( 3.45×10 Pa 1.24×10 Pa ) =5.93×10 ΔN = 2.13 × 10 − 5.93 ×10 = 1.54 × 10 [Use of ‘Show that’ value from (a) gives ΔN = 1.44× 10 ] (1) (1) Total for question 12 5 Number Answer Mark 13 The thickness of the track related to the ionising ability of the particle (not its mass) Alpha is strongly ionising and beta is only moderately ionising (so alpha tracks are thick and beta tracks are thin) [Allow a comparison of ionising power of alpha with that of beta] The shape of the track related to the mass of the particle (not its ionising ability) Alpha particles are massive particles and beta particles are not massive particles (so alpha tracks are straight and beta tracks are twisted) [Allow a comparison of alpha mass with beta mass] (1) (1) (1) (1) Total for question 13 4 Number Answer Mark Use of 휌= 푚 푉 푚=0.022 (kg) [min 2sf] Example of calculation 푉= (2.5×10 −2 m) ×3.5×10 −2 m= 2.19×10 −5 m 1.00×10 kg m −3 = 푚 2.19×10 −5 m ∴푚=0.0219 kg (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q12-12b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q12.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "parts": [
+        {
+          "id": "14b",
+          "text": "Part 14b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆퐸=푚푐∆휃 Use of ∆퐸=푚퐿 Use of 푃= ∆퐸 ∆푡 P = 79 W so not 110 W [Use of show that value for m gives 71 W] (allow ecf from (a)) Or t = 8.5 min not 12 mins so the energy is not transferred at a rate of 110 W [Use of show that value for m gives 7.8 min (467 s)] (allow ecf from (a)) Or ∆퐸= 7.92×10 J not 5.65×10 J so the energy is not transferred at a rate of 110 W [Use of show that value for m gives 4.06×10 J] (allow ecf from (a)) Example of calculation ∆퐸=6×0.022 kg×4180 J kg −1 K −1 ×22.5 K=1.24×10 J ∆퐸=6×0.022 kg×3.34×10 J kg −1 =4.41×10 J 푃= ( 1.24×10 +4.41×10 ) J (12×60) s = 5.65×10 =78.5 W Or 푡= ( 1.24 × 10 + 4.41 × 10 ) J 110 W =514 s = 8.5 min Or Δ퐸=110 W× ( 12×60 ) s=7.92×10 J (1) (1) (1) (1) Total for question 14 7 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q14-14b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15a",
+          "text": "Part 15a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Conversion of beats minute −1 to Hz [Accept calculation of T] Use of 휔=2π푓 Use of 푣=−퐴휔sin휔푡 with sin휔푡=1 A = 1.5 (mm) [Allow max displacement = 2A] Example of calculation 푓= 60 s =2.37 Hz 휔=2π×2.37 s −1 =14.9 rad s −1 퐴= 22.0×10 −3 m s −1 14.9 s −1 =1.48×10 −3 m=1.48 mm (1) (1) (1) (1) there must be an acceleration/(resultant) force that is proportional to the displacement from the equilibrium position and (always) acting towards the equilibrium position (For equilibrium position accept: undisplaced point/position or fixed point/position or central point/position) [MP2 Accept acceleration/force is in the opposite direction to the displacement] [An attempt to use the equation can only score if all terms are defined and the minus sign explained] (1) (1) Total for question 15 6 Number Answer Mark Use of 1 u = 1.66 × 10 −27 kg Use of ∆퐸=푐 ∆푚 ∆E = 7.6 ×10 −13 (J) Example of calculation ∆푚= ( 230.0331−226.0254−4.0026 ) u=5.1 ×10 −3 u ∆푚=5.1×10 −3 ×1.66×10 −27 kg=8.47×10 −30 kg ∆퐸= ( 3.00×10 m s −1 ) ×8.47×10 −30 kg=7.62×10 −13 J (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q15-15a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휆= ln2 푡 ½ Use of 푁=푁 푒 −휆 푡 Use of 90% [ 푁 푁 =0.1] t = 2.5×10 (years) Example of calculation 휆= ln2 푡 ½ = 0.693 75400 years =9.19×10 −6 year −1 0.1=푒 −9.19×10 −6 푡 푡= ln0.1 −9.19×10 −6 year −1 =2.51×10 years (1) (1) (1) (1) Total for question 16 8 Number Answer Mark So energy is released according to ∆퐸=푐 ∆푚 Or energy is released to conserve mass-energy Or binding energy per nucleon increases (1) (1) Very high temperature so that the nuclei have sufficient kinetic energy Nuclei must overcome electrostatic repulsion/forces [Allow a reference to overcome repulsion/forces due to positively charged nuclei] So that the nuclei come close enough to fuse Sufficient density so that the collision rate (between nuclei) is high (enough) Sufficient collision rate to maintain the (very high) temperature (1) (1) (1) (1) (1) Calculation of binding energies Energy released = 17.4 (MeV) [Allow 17.3 MeV – 17.5 MeV] Example of calculation B.E./nucleon of H = 1.1 MeV B.E./nucleon of H = 2.8 MeV B.E./nucleon of 4He = 7.0 MeV So energy released = 4 × 7.0 MeV – (2 × 1.1 MeV + 3 × 2.8 MeV) = 17.4 MeV (1) (1) (1) Total for question 17 9 Number Mark *18 This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for structure and lines of reasoning. Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured Total marks awarded is the sum of marks for indicative content and the marks for structure and lines of reasoning IC points IC mark Max linkage mark Max final mark 6 4 2 ",
+          "image": "/papers/wph11-may-2023/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q16.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푇= 푡 mean [t mean = 13.675 s] Use of 푇=2π √ 푚 푘 [Allow use of 휔 = 푘 푚 with 푇= 2π 휔 ] Use of factor of 2 applied to either m or k k = 20.9 (N m −1 ), so label is correct. Example of calculation 푇= (13.65+13.70) ⁄ =0.456 s 0.456 s=2π √ 0.22 kg 푘 ∴푘= 4π ×0.22 kg (0.456 s) =41.8 N m −1 푘= 41.8 N m −1 =20.9 N m −1 (1) (1) (1) (1) When the driving frequency is equal to the natural frequency of the mass-spring system Resonance occurs There is a maximum transfer of energy (to the mass-spring system and the amplitude increases) [Allow spring for mass-spring system] (1) (1) (1) Some of the energy from the student’s hand is transferred to the oscillating mass and some of the energy is transferred to surroundings When the amplitude is a maximum, minimum energy is transferred to surroundings [Accept “at the natural frequency” or “resonance” for when the amplitude is a maximum] . (In a closed system) total energy is constant so the student is incorrect. Or She is incorrect as energy is always conserved (in a closed system) (1) (1) (1) Total for question 19 10 Number Answer Mark",
+          "image": "/papers/wph11-may-2023/q19-19a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 20",
+      "text": "Question 20",
+      "parts": [
+        {
+          "id": "20a",
+          "text": "Part 20a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Reverse scale Approximately logarithmic values [With realistic values of temperature and temperature of Sun about 6000 K] (1) (1)",
+          "image": "/papers/wph11-may-2023/q20-20a.png"
+        },
+        {
+          "id": "20b",
+          "text": "Part 20b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(This star cluster is not a young star cluster because) This cluster has red giant stars on the top right of the diagram And white dwarf stars bottom left of diagram A young cluster would only have a main sequence Or Red giant stars only occur in the later stages of a star’s evolution Or White dwarf stars only occur in the later stages of a star’s evolution If no marks can be awarded, award max 1 for: The cluster has red giant stars and white dwarf stars [Accept positions of red giant stars and white dwarf stars shown on the diagram] (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q20-20b.png"
+        },
+        {
+          "id": "20c",
+          "text": "Part 20c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The luminosity of the standard candle is known Measure/determine intensity of radiation from V1 [standard candle] [do not accept ‘calculate’] Use inverse square law to calculate distance (to cluster) Or use 퐼= 퐿 4휋푑 to determine distance, where I is intensity and L is luminosity Distance is too large (for V1 to be in a nearby cluster) [Must have the idea of being too far away, rather than just being far away] (1) (1) (1) (1) Total for question 20 9 Number Answer Mark λ max read from graph Use of 푇= 2.898 × 10 −3 m K 휆 max T = 3400 (K) (accept 3350K – 3450K) [min 2 sf] Example of calculation λ max = 850 nm 푇= 2.898 ×10 −3 m K 850 ×10 −9 m =3410 K (1) (1) (1) Use of 퐴=4π푟 Use of 퐿=휎퐴푇 Use of L Sun = 3.83 × 10 W 퐿 퐿 Sun =0.35% (allow ecf from(a)(i)) Calculated value of ratio compared with 0.5% and conclusion made Or Use of 퐴=4π푟 Use of 퐿=휎퐴푇 Use of L Sun = 3.83 × 10 W L Ross = 1.34 ×10 W and 0.5% L Sun = 1.92 × 10 W Calculated values of L Ross and 0.5% L Sun compared and conclusion made [Use of show that value of T gives L Ross = 8.04 ×10 W m −2 Use of show that value gives ratio = 0.0021] Example of calculation 퐿=4π ( 1.18×10 ) ×5.67×10 −8 W m −2 K −4 × ( ) =1.33×10 W m −2 퐿 퐿 Sun = 1.33×10 W 3.83×10 W =0.00346 ∴퐿=0.35% of 퐿 Sun which is less than 0.5%, so statement is correct (1) (1) (1) (1) (1) (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2023/q20-20c.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 21",
+      "text": "Question 21",
+      "parts": [
+        {
+          "id": "21b",
+          "text": "Part 21b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Equate 퐹= 퐺푀푚 푟 and 퐹=푚휔 푟 Use of 휔= 2π 푇 T = 2.29×10 s OR Use of 퐹= 퐺푀푚 푟 with 퐹= 푚푣 푟 Use of 푣= 2π푟 푇 T = 2.29×10 s Example of calculation 퐺푀푚 푟 =푚휔 푟 ∴휔= √ 퐺푀 푟 = √ 6.67×10 −11 N m kg −2 ×3.38×10 kg ( 0.096×1.50×10 m ) =2.75×10 −6 rad s −1 푇= 2π 휔 = 2π 2.75×10 −6 s −1 =2.29×10 s (1) (1) (1) (1) (1) (1) Total for question 21 11 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-may-2023/q21-21b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2023/q21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit5-2023-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

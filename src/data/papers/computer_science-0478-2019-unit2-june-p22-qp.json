@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2019-unit2-june-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit2-june-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "May/June 2019",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) All variables, constants and other identifiers must have meaningful names. Describe the data structures you have used in Task 1 to record the items for sale. Include some sample data for each data structure you have described. ..............................................................................................................................",
+      "text": "1 (a) All variables, constants and other identifiers must have meaningful names. Describe the data structures you have used in Task 1 to record the items for sale. Include some sample data for each data structure you have described. ..............................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Keep a counter/number • Add one every time a new item is added or • Keep a list of numbers used • Using a loop check number is not already in the list before a new item number is added May/June 2019 Question Answer Marks MP1 Enter Buyer Number MP2 Check if buyer number valid MP3 Enter new bid MP4 Check if new bid less than or equal to current highest bid « MP5 « if so reject MP6 « Otherwise store the bid entered as new highest bid MP7 Increase number of bids by one MP8 Store Buyer Number Sample answer REPEAT PRINT \"Enter Buyer Number\" INPUT BuyerNumber UNTIL BuyerNumber >= BuyerLow and BuyerNumber <= BuyerHigh REPEAT PRINT \"Enter Bid -99 to exit\" INPUT Bid IF Bid > HighestBid(item) THEN HighestBid(item) ← Bid NumberBids(item) ← NumberBids(item) + 1 ENDIF UNTIL Bid > HighestBid(item) OR Bid = -99 IF Bid <> -99 THEN BuyerItem(item) ← BuyerNumber ENDIF There are many possible correct answers, this is an example only. MP1 Using index number of item, to find if any bids for item exist MP2 Using IF/UNTIL/WHILE (statement) to compare new bid with highest/latest bid recorded MP3 Use an assignment (statement) to replace current highest bid, if new bid greater than current highest bid MP4 « else reject bid // using a (REPEAT/WHILE) loop ask for bid to be re-entered MP5 If number of bids / highest bid = zero add bid (provided greater than zero) May/June 2019 Question Answer Marks Five from: MP1 Method to search item arrays MP2 Conditional statement used to check for the successful bids MP3 « equal to / greater than reserve price MP4 Method used to calculate 10% percent of successful bid (for each item) MP5 «and add to auction company total fee MP6 Method used to display total fee with a suitable message All programming statements used must be explained. May/June 2019 Question Answer Marks Section B • Low ← Count should be Low ← Number • Number > Low should be Number < Low • UNTIL Count = 99 should be UNTIL Count > 99 or UNTIL Count = 100 or UNTIL Count >= 100 // Count ← 1 sh",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) An algorithm has been written in pseudocode to input 100 numbers, select and print the largest number and smallest number. Count 1 INPUT Number High Number Low Count REPEAT INPUT Number IF Number > High THEN High Number ENDIF IF Numb",
+      "text": "2 (a) An algorithm has been written in pseudocode to input 100 numbers, select and print the largest number and smallest number. Count 1 INPUT Number High Number Low Count REPEAT INPUT Number IF Number > High THEN High Number ENDIF IF Numb",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Add Total ← 0 // Total ← Number MP2 Add Total ← Total + Number MP3 Add PRINT \"Total is \", Total MP4 All positioning explained / seen Count ← 1 INPUT Number High ← Number Low ← Number Total ← Number REPEAT INPUT Number Total ← Total + Number IF Number > High THEN High ← Number ENDIF IF Number < Low THEN Low ← Number ENDIF Count ← Count + 1 UNTIL Count > 99 PRINT \"Largest Number is \", High PRINT \"Smallest Number is \", Low PRINT \"Total is \", Total May/June 2019 Question Answer Marks Total Count Distinction Mark OUTPUT 0 0 0 50 50 1 0 70 120 2 0 65 185 3 0 30 215 4 0 95 310 5 1 50 360 6 1 55 415 7 1 85 500 8 2 65 565 9 2 35 600 10 –1 Number of Distinctions 2 Average Mark 60 1 mark for Total and Count columns both correct. 1 mark for each correct column apart from Total and Count. If no marks awarded allow 1 mark for initialisation of Total, Count and Distinction, set to zero. May/June 2019 Question Answer Marks Statements Selection Repetition FOR A ← 1 TO 100 B ← B + 1 NEXT A CASE A OF 100: B ← A 200: C ← A ENDCASE IF A > 100 THEN B ← A ENDIF REPEAT A ← B * 10 UNTIL A > 100 1 mark for each correct row Question Answer Marks Validation Two from: • automated checking • checking that data is reasonable / of a certain type • checking that data meets certain criteria Example 1 mark • range check // length check // type check // check digit etc. Verification Two from: • checking that data has not changed« • « during input to a computer • « during transfer between computers / devices Example 1 mark • double entry // checking against original // visual check // use of checksum etc. May/June 2019 Question Answer Marks Three from: • Flight number not displayed • Passengers displayed when should not be • Departure time = not > • \"Freight and passengers\" flight not excluded Revised QBE – answers shown are examples only 1 mark per bullet • correct field and table names (either 3 or 4 columns) must include Notes, Flight number and Departure time • correct show • correct time crite",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit2-2019-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,247 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 16,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: − A compression algorithm is used − Redundant data is removed − Reduce colour depth − Reduce image resolution − Reduce sample rate − Reduce sample resolution − Reduce frame rate − Use perceptual music shaping − Data is permanently removed",
+          "image": "/papers/computer_science-0478-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − Lossy decreases the file size more − Take up less storage space on webserver/users' computer − Quicker to upload/download − May not need to be high quality − Website will load faster for users − Less lag/buffering when watching − Takes up less bandwidth to download/upload − Uses less data allowance May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct term, in the correct place. − LED − Photoelectric − Lens − Magnifies − Microswitch − USB",
+          "image": "/papers/computer_science-0478-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − Keyboard − Microphone − 2D/3D Scanner − Sensor − Touchscreen − Keypad − Webcam − Joystick Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Legitimate looking/fake email sent to user − ... that contains a link to a fake website − User clicks link and enters personal details (into fake website)",
+          "image": "/papers/computer_science-0478-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − Pharming − Spyware − Hacking/cracking May/June 2021 Question Answer Marks One mark per each correct row Statement High-level language () Assembly language () Machine code () It requires a translator to be processed by a compute r   It is an example of low-level language   It uses mnemonics  It uses English-like statements  It can be used to directly manipulate hardware in the compute r   It is portable  Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Odd − Even − Even − Odd",
+          "image": "/papers/computer_science-0478-2021/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any one from: − There is a transposition of bits − Bits still add up to correct parity − Data is sent one bit at a time − Data is sent using a single wire − Data is sent in both direction ... − ... at the same time Any one from: − Data transmission can be slower (than parallel) − Additional data may need to be sent May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − Hardware failure − Software failure − Power failure/surge − Fire − Flood − Natural disaste r",
+          "image": "/papers/computer_science-0478-2021/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − Use verification methods before deleting files − Keep data in a fireproof box − Do not drink liquids near a computer − Use surge protection // UPS − Correct shutdown procedures − Access rights − Back data up Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− AND − NOR − XOR",
+          "image": "/papers/computer_science-0478-2021/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Row 1 − Row 4 − Row 7 − Row 8 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct sensor Task Sensor Check if a vehicle is too high Infrared/light Count the vehicles entering the car park Magnetic field // pressure Check if a vehicle is parked in a parking space Pressure // magnetic field // infrared/light May/June 2021 Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q9-9a.png"
+        },
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from: − Sensor sends data to microprocessor − Data is converted from analogue to digital (using ADC) − Data is compared to stored value ... − ... If data is greater than stored value microprocessor sends signal to turn red light on and the green light off − ... If data is less than stored value microprocessor sends signal to turn green light on the red light off − ... If data still within range, no action taken/existing light remains on − Lights turned on/off using actuator − Process is continuous Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct row Statement ALU () CU () RAM () Stores data and instructions before they enter the central processing unit (CPU)  Contains a register called the accumulato r  Manages the transmission of data and instructions to the correct components  Contained within the CPU   Uses the data bus to send data into or out of the CPU ()  Carries out calculations on data ",
+          "image": "/papers/computer_science-0478-2021/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any two from: − MAR − MDR // MBR − PC − CIR // IR",
+          "image": "/papers/computer_science-0478-2021/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 16,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

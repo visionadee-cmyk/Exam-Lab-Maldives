@@ -1,0 +1,191 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) The table lists five devices. Tick (3) to show if each device is an example of an input device, an output device or a storage device. Device Input (3) Output (3) Storage (3) keyboard microphone headphones hard disk drive (HDD) actuator",
+      "text": "1 (a) The table lists five devices. Tick (3) to show if each device is an example of an input device, an output device or a storage device. Device Input (3) Output (3) Storage (3) keyboard microphone headphones hard disk drive (HDD) actuator",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) The table lists five devices. Tick (3) to show if each device is an example of an input device, an output device or a storage device. Device Input (3) Output (3) Storage (3) keyboard microphone headphones hard disk drive (HDD) actuator",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row Device Input (  ) Output (  ) Storage (  ) keyboard  microphone  headphones  hard disk drive (HDD)  actuato r ",
+          "image": "/papers/computer_science-0478-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Optical  Solid state",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Per each binary conversion, one mark for 2 correct character conversions, two marks for three correct character conversions  0000 0101 1010  0001 1000 1100  0010 1001 1111 0478/13 May/June 2022 two from:  It has a bright screen/colours  It does not consume much power  It runs at a cool temperature  Longevity  Can operate in cold conditions  Can be small/compact/thin",
+          "image": "/papers/computer_science-0478-2022/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Per each hex conversion, one mark for 2 correct character conversions, two marks for three correct character conversions  40D  07E 0478/13 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row Statement AND (  ) OR (  ) XOR (  ) if both inputs are 0, the output is 0    if both inputs are different, the output is 1   if both inputs are 1, the output is 1   if both inputs are the same, the output is always 0  0478/13 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for the correct name and one mark for the correct truth table  NOR A B Output 0 0 1 0 1 0 1 0 0 1 1 0  NAND A B Output 0 0 1 0 1 1 1 0 1 1 1 0",
+          "image": "/papers/computer_science-0478-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from:  Protocol  Domain name / Web server name  Filename / web page name / folder name 0478/13 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " It is sent to a DNS ...  which looks up the corresponding / matching IP address  HTTPS one from:  It encrypts it  It applies encryption algorithm  It applies an encryption key two from:  It processes data  It processes/executes instructions  It carries out calculations  It carries out logical operations Any three from:  Fetch  Decode  Execute 0478/13 May/June 2022 four from:  Memory data register / MDR  Control unit / CU  Arithmetic logic unit / ALU  Program counter / PC  Current instruction register / Instruction register / CIR / IR  Accumulator / ACC  Address bus  Data bus  Control bus two from:  To temporarily store  ... the address of the next data/instructions required  ... the address of the location in memory where data is to be stored  Stores the address that is to be collected by the address bus 0478/13 May/June 2022 four from:  It is RAM ...  ... which is volatile storage  It is ROM ...  ... which is non-volatile storage  It is directly accessible by the CPU Any three from:  BIOS  Start-up instructions  Programs that are currently in use  Data that is currently in use  Parts of OS currently in use two from:  Data can be permanently stored  ... meaning that (application) software can be loaded/retrieved  ... meaning that operating system can be loaded/retrieved  ... meaning that user data/files can be accessed/retrieved 0478/13 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Image",
+          "image": "/papers/computer_science-0478-2022/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Lossy compressed file four from:  A light is shone onto the surface of the document  The light is moved across/down/under the document  The reflected light is captured (using mirrors and lenses)  The reflections are converted to binary",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Lossless compression 0478/13 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q6-6d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Data is sent multiple bits at a time  ... down multiple wires  Data is sent in one direction only two from:  Parallel is not suitable for long distances // only suitable for short distances  ... the data could become skewed  Parallel cables are not manufactured above approx. 5m three from (MAX 2 for ARQ):  Checksum used to detect errors (during transmission)  ... using a calculated value  ARQ checks if data is received  ... uses acknowledgement and timeout  ... requests data be sent again if (checksum) detects error / not received One mark per each correct term in the correct place  high-level language  line by line  all at once  executable file  is not required  debugging",
+          "image": "/papers/computer_science-0478-2022/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

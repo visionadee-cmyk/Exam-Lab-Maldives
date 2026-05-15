@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2024-unit3-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit3-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/32",
+  "session": "February/March 2024",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) A student determines the volume of a piece of metal. The student pours 30 cm 3 of water into a measuring cylinder. The piece of metal is submerged in the water and the new volume reading on the measuring cylinder is 42 cm 3 . Calculate the volume of the piece of metal. volume = .................................................. cm 3 [1] (b)",
+      "text": "2 (a) A student determines the volume of a piece of metal. The student pours 30 cm 3 of water into a measuring cylinder. The piece of metal is submerged in the water and the new volume reading on the measuring cylinder is 42 cm 3 . Calculate the volume of the piece of metal. volume = .................................................. cm 3 [1] (b)",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( =) 8(.0) A3 ( =) 320 ÷ 40 (C2) (density =) mass ÷ volume OR ( =) m / V in any form (C1) g / cm B1 weight (downward arrow) B1 February/March 2024 Question Answer Marks ) A3 (P =) 48 ÷ 20 (C2) (P =) F ÷ A (C1) (moment = ) 12  32 (C2) moment = force  (perp.) distance from pivot (C1) Question Answer Marks (work done =) 14  4.5 (C2) (work done =) force  distance (moved in direction of force) (C1) (power input =) 5400 ÷ 30 (C2) (power input =) energy input ÷ time OR E ÷ t (C1) February/March 2024 Question Answer Marks • (particles are; ) random arrangement / pattern • close together OR idea slightly further apart than in solid • move randomly OR move around / about (freely) • colliding with each other / walls • have some vibrational energy / motion B2 any two from: (because) • particles move faster OR have increased kinetic energy • more (frequent) collisions (with walls of container) • harder collisions (with walls of container) B2 conduction (through the metal) B1 Question Answer Marks idea of frequency = no. of waves per second (C1) secondary wave B1 to direction of propagation OR direction of energy transfer A1 February/March 2024 Question Answer Marks (focal length =) 2  5 (C1) ray parallel to axis continued to pass through focal point B1 (top of) image position indicated as where rays cross B1 OR (leading to) cancer / eye conditions B1 Question Answer Marks first method (use of plotting) compass(es) idea of mark arrow position OR move compass in direction of arrow B1 start from different position(s) OR join up marks / draw lines (to show pattern) OR alternative method (use of plotting) compass(es) place number of compasses around magnet idea that arrows line up to show pattern B3 February/March 2024 Question Answer Marks Question Answer Marks ammeter B1 lamp B1 thermistor B1 symbols connected in series circuit B1 27 () A3 5.4 ÷ 0.2(0) (C2) (R=) V ÷ I OR V = I  R or in any form (C1) (E =) 5.4  0.2  30 (C2) (E=) VIt OR P  t OR I  R  t (C1) (because) ",
+          "image": "/papers/physics-0625-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "10 (a) Fig. 10.1 represents an atom of carbon. neutron ............................. ............................. Fig. 10.1 (not to scale) Complete the labels for the particles in Fig. 10.1. On each dotted line, write the name of the particle.",
+      "text": "10 (a) Fig. 10.1 represents an atom of carbon. neutron ............................. ............................. Fig. 10.1 (not to scale) Complete the labels for the particles in Fig. 10.1. On each dotted line, write the name of the particle.",
+      "parts": [
+        {
+          "id": "10c",
+          "text": "Part 10c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(5700  3 =) 17 100 (years) A2 (from 120 mg to 15 mg takes) 3 half-lives (C1) Question Answer Marks Mars B1 1.1  10 ÷ 3.0  10 (C2) speed = distance ÷ time OR (t = ) d ÷ s (C1) Venus has smaller mass ORA OR gravitational field strength depends on / proportional to mass B1",
+          "image": "/papers/physics-0625-2024/q10-10c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q10.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit3-2024-03-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

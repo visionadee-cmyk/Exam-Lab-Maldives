@@ -1,0 +1,87 @@
+{
+  "paperId": "chemistry-0620-2017-unit6-november-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit6-november-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "October/November 2017",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "large amount of energy released / high temperature reached",
+          "image": "/papers/chemistry-0620-2017/q1-1e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final temperature boxes completed: 21, 21, 21, 32, 37, 48 all readings correct = [2] 4 or 5 readings correct = [1]",
+          "image": "/papers/chemistry-0620-2017/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final temperature boxes completed: 23, 23, 23, 23, 20, 18, 16, 12 all readings correct = [2] 6 or 7 readings correct = [1] two straight lines of best fit drawn with a ruler both graphs appropriately labelled shown clearly 0620/62 October/Novembe r shown clearly",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "change to the experiments use burette / pipette use insulation / lid use a new cup / dry the cup explanation (to match change) more accurate (than measuring cylinder) reduce heat losses remove water left from the previous experiment",
+          "image": "/papers/chemistry-0620-2017/q2-2f.png"
+        },
+        {
+          "id": "2h",
+          "text": "Part 2h",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lower temperatures measured / smaller temperature changes changed is halved / more water (to heat) 0620/62 October/Novembe r / fizz limewater (turns) milky / Group II metal / barium / calcium / magnesium max [6]: M1 weigh specified number of nail(s) / specified number of nails M2 immerse in same volume M3 samples of tap water and distilled water (in two test-tubes) M4 for suitable time M5 dry (in oven) M6 reweigh nails M7 compare / conclusion",
+          "image": "/papers/chemistry-0620-2017/q2-2h.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit6-2017-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

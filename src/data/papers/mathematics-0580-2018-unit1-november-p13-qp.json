@@ -1,0 +1,63 @@
+{
+  "paperId": "mathematics-0580-2018-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "mathematics-0580-2018-unit1-november-p13-ms",
+  "subjectId": "mathematics_igcse",
+  "code": "0580/13",
+  "session": "October/November 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 23",
+      "text": "Question 23",
+      "parts": [
+        {
+          "id": "23c",
+          "text": "Part 23c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "8 −    24 600 M2 for 108 1000 20 60 60 ×× × oe or M1 for 108 1000 60 60 × × oe or for figs108 × time oe October/November Question Answer Marks Partial Marks 25 5306.04 M2 for 5000 ×  +   oe or M1 for 5000 ×  +   oe If 0 scored SC1 for 306.04 M1 for 3w = 32 + 7 or w−= or better",
+          "image": "/papers/mathematics-0580-2018/q23-23c.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q23.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 26",
+      "text": "Question 26",
+      "parts": [
+        {
+          "id": "26b",
+          "text": "Part 26b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "0.7 or M1 for first correct step M1 for second correct step, FT their first step",
+          "image": "/papers/mathematics-0580-2018/q26-26b.png"
+        }
+      ],
+      "image": "/papers/mathematics-0580-2018/q26.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/mathematics-0580-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Mathematics-0580/Mathematics-0580-2018-unit1-2018-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "biology-0610-2023-unit2-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2023-unit2-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/21",
+  "session": "May/June 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "blue-eyed person has two recessive alleles / would be bb; blue-eyed person is homozygous / both alleles are the same; heterozygous means the alleles are different / heterozygous would be Bb; B is dominant / Bb would have brown eyes; Max 3 5090/21 May/June 2023 left ventricle; closing of valves; 1 A opening and closing of valves hepatic artery; named substance transported; 1 A blood clotting three from: antibodies produced by white blood cells / internally / by the body; antibiotics are drugs / medicines (that are administered); antibodies produced in response to an antigen / bind with an antigen; antibodies are more specific than antibiotics; antibodies affect viruses, antibiotics do not; Max 3 A produced externally/in a lab/in a fermenter A antibodies are proteins, antibiotics are not five from: variation within a population; mutation produces resistant bacteria; antibiotic kills many bacteria / some survive antibiotic; survivors reproduce; pass on alleles to next generation; repeated over many generations; higher proportion of bacteria in population can resist antibiotics; misuse / over-prescription increases chances; AVP; Max 5 e.g. short-generation time of bacteria 5090/21 May/June 2023 five from: carbon dioxide in atmosphere absorbed by producers / plants / chloroplasts / chlorophyll; photosynthesis; production of carbohydrates / glucose; used to make other organic substances / named example; eaten by / transferred to animals; respiration; releases carbon dioxide; Max 5",
+          "image": "/papers/biology-0610-2023/q5-5c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2023/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "burning max two from: releases carbon dioxide; greenhouse gas / global warming / greenhouse effect; climate change / example of change; made into objects max two from: object acts as a carbon store / locks up carbon; tree removed from ecosystem so nutrients removed AW; left in ecosystem max two from: fed on by decomposers / fungi / bacteria / decomposed; nutrients returned to soil; respiration of decomposers releases carbon dioxide gradually; dead trees / logs act as a habitat; Max 5",
+          "image": "/papers/biology-0610-2023/q7-7b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2023/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

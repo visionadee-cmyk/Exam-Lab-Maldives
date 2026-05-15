@@ -1,0 +1,51 @@
+{
+  "paperId": "biology-0610-2024-unit2-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2024-unit2-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/21",
+  "session": "May/June 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Human: detected by retina / light receptors; involves neurones / nervous system / electrical impulses; response is muscular contractions (in iris); causing constriction / reduction in size of the pupil; Plants: detected by stem tip; involves hormones / auxin; more moves / diffuses to the side away from light; causing more growth / elongation + on the shaded side; positive phototropism / plant stem grows/bends + towards the light; Max 6",
+          "image": "/papers/biology-0610-2024/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "transmission of impulse between neurones; in one direction; neurotransmitter; released (from vesicles) into (synaptic) gap; diffusion + across gap; binds with receptor (proteins); Max 4",
+          "image": "/papers/biology-0610-2024/q6-6b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2024/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2024-unit2-2024-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

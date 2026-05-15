@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2020-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit3-november-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "October/November 2020",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 ) (1) 4 (H O) (1) if 2 marks not obtained: one mark for compound containing carbon and hydrogen (1) October/November 2020 Question Answer Marks • positive electrode: bubbles / effervescence / green gas / green vapour (1) • negative electrode: silvery solid / silvery metal (1) one mark each for any three of: • 2 electrodes dipping into liquid • electrolyte labelled (as electrolyte or sodium chloride) • power pack or batteries labelled and leads connected correctly to electrodes • electrodes labelled anode and cathode / electrodes labelled positive and negative electrodes separation: close togethe r / touching (1) • sodium soft / iron hard • sodium has a low melting point / boiling point OR reverse argument for iron • sodium has low density / iron has high density measuring cylinder or (gas) syringe labelled (1) workable apparatus connected so that it is airtight (1) October/November 2020 Question Answer Marks relights (1) Question Answer Marks",
+          "image": "/papers/chemistry-0620-2020/q5-5a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q5.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "iron( II) chloride (1) hydrogen (1) st box down ticked (iron forms an alloy ...) (1) th box down ticked (both oxygen and water ...) (1) If 2 marks not scored one mark for one consecutive pair reversed / all reversed • filter (off cobalt(II) carbonate) • warm (or heat or evaporate) filtrate to point of crystallisation / warm filtrate to form saturated solution / heat filtrate until crystals start to form • filter off crystals / pick out crystals • wash crystals with cold water / wash crystals with (organic) solvent • dry crystals with filter paper to red / pink (1)",
+          "image": "/papers/chemistry-0620-2020/q8-8a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit3-2020-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

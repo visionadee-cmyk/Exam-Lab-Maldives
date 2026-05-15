@@ -1,0 +1,139 @@
+{
+  "paperId": "physics-0625-2021-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) She records the potential difference (p.d.) V 1 across the resistor and the current I 1 in the circuit. The meters are shown in Fig. 2.2 and Fig. 2.3. (i) Write down the readings. Include the units for potential difference, current or resistance where appropriate in all parts of the question. V 6 7 9 8 10 4 5 2 1 3 0 A 0.6 0.",
+      "text": "1 (a) She records the potential difference (p.d.) V 1 across the resistor and the current I 1 in the circuit. The meters are shown in Fig. 2.2 and Fig. 2.3. (i) Write down the readings. Include the units for potential difference, current or resistance where appropriate in all parts of the question. V 6 7 9 8 10 4 5 2 1 3 0 A 0.6 0.",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) She records the potential difference (p.d.) V 1 across the resistor and the current I 1 in the circuit. The meters are shown in Fig. 2.2 and Fig. 2.3. (i) Write down the readings. Include the units for potential difference, current or resistance where appropriate in all parts of the question. V 6 7 9 8 10 4 5 2 1 3 0 A 0.6 0.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "x = 50.0 (cm) T = 1.67 T = 2.79 (or 2.789 or 2.7889) T given to 3 significant figures cm, s, s, s A xes correctly labelled with quantity and unit and right way round Suitable scales A ll the plots from their table correct to better than ½ small square Good line j udgement, thin, continuous line",
+          "image": "/papers/physics-0625-2021/q1-1a.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "No. Not through origin",
+          "image": "/papers/physics-0625-2021/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(Timing) errors less significant / have a smaller percentage uncertainty / the error is spread over 10 periods / is divided by 10 0625/61 May/June 2021 V = 2.4 I = 0.50 V, A R = (4.8) in Ω",
+          "image": "/papers/physics-0625-2021/q1-1e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "2 (a) The student measures the distance d between the bottom of the clamp and the floor. 120.0 cm d = .............................................................. This distance d remains constant throughout the experiment. He adjusts the length l of the pendul",
+      "text": "2 (a) The student measures the distance d between the bottom of the clamp and the floor. 120.0 cm d = .............................................................. This distance d remains constant throughout the experiment. He adjusts the length l of the pendul",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R S = 9.29 or 9.3 stated to 2 / 3 s f",
+          "image": "/papers/physics-0625-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R P = 2.42 Voltmeter and ammeter correctly placed, all symbols correct",
+          "image": "/papers/physics-0625-2021/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use another resisto r A dd at least three more resistors (one at a time)",
+          "image": "/papers/physics-0625-2021/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct symbol for variable resisto r 0625/61 May/June 2021",
+          "image": "/papers/physics-0625-2021/q2-2f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Normal at centre of AB",
+          "image": "/papers/physics-0625-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "EF and GH at 2.0 cm and 5.0 cm i = 30 ° ± ° to the left of normal and above the block P P distance at least 5.0 cm but not greater than 15 cm a between 2.2 and 2.6 (cm) or 22 and 26 (mm) b between 5.2 and 5.6 cm or 52 and 56 mm, and correct unit seen in (i) or (ii) and not contradicted b / a value quoted with no unit b / a lies within range 2.00 to 2.50 View bases of pins Pins at least 5cm apart Ensure pins are vertical",
+          "image": "/papers/physics-0625-2021/q3-3b.png"
+        },
+        {
+          "id": "3f",
+          "text": "Part 3f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "At least 4 additional values, all < 90 ° Range at least 30 ° 0625/61 May/June 2021 MP1 A pparatus: time r MP2 Remove block from wate r MP3 Record temperatures and times OR record temperatures over a fixed time OR record time for a fixed temperature drop MP4 Other block(s) used MP5 Key variable: One from: Starting temperature of block Room temperature Water temperature Size of block Mass of block MP6 Table with columns for metal / block / material (owtte), temperature OR time OR temperature and time as appropriate to the method. Correct quantity and units required MP7 Plot graph of temperature against time (for each material) OR Compare rates of cooling OR Compare temperature drops (if fixed time used) OR Compare times (if fixed temperature drop used) OR Equate large temp. drop / short time to a high rate of cooling (or the converse)",
+          "image": "/papers/physics-0625-2021/q3-3f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2021/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit6-2021-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2024-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2024-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2024",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "5 values of I all ascending and to 2 decimal places at least 1 • axes labelled with quantity and unit • appropriate scales (plots occupying at least ½ grid) • plots all correct to ½ small square and precise plots • well-judged line and thin line and triangle method seen on graph R in range 4.0 () to 10.0 () uncertain connection point on crocodile clip / resistance wire irregular / curved / not uniform / differing thickness along wire reduce e.m.f. of power supply / thinner resistance wire / use of additional series / protective resistor to reduce current October/November 2024 Question Answer Marks  = 15  1",
+          "image": "/papers/physics-0625-2024/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "pin separation ⩾ 5.0 cm 1st set of lines present and in correct positions 1 n in range 1.30 to 1.70 from correct calculation 1 α = 25  2 justification matching statement e.g. ‘within limits of experimental accuracy’ / owtte with values to support 1 thin lines / use sharp pencil, look at base of pins/keep pins vertical, thin pins October/November 2024 Question Answer Marks 4 MP1 apparatus: stopwatch and metre ruler and protractor MP2 method: measure independent variable measure distance and time between points repeat for different angle MP3 source of inaccuracy (one from): difficult to time at exact point, ramp surface not regular, trolley might travel at an angle across slope MP4 control variable (one from): distance from start to first point, distance between points MP5 table: columns for independent variable, time and speed, all with units MP6 analysis: compare readings of angle with speed or time plot line graph (with axes specified) MP7 additional point (one from): at least 5 sets of data taken, repeat each measurement and take average, 2nd control variable stated",
+          "image": "/papers/physics-0625-2024/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2024-unit5-2024-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

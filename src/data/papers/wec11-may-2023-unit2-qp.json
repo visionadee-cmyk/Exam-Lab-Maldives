@@ -1,0 +1,43 @@
+{
+  "paperId": "wec11-may-2023-unit2-qp",
+  "pairedMarkSchemeId": "wec11-may-2023-unit2-ms",
+  "subjectId": "economics_ial_pearson",
+  "code": "WEC12/01",
+  "session": "May 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Define the term ‘GDP growth rate’ (Extract A, line 23). (2) (b) With reference to Figure 1, explain the difference between a balance of trade deficit and a balance of trade surplus. (4) (c) Analyse how an increase in the rate of inflation could have a ‘negative impact on India’s balance of trade’ (Extract A, line 9). (6) (d) Examine the likely impact on India’s real output of its ‘incr",
+      "text": "12 (a) Define the term ‘GDP growth rate’ (Extract A, line 23). (2) (b) With reference to Figure 1, explain the difference between a balance of trade deficit and a balance of trade surplus. (4) (c) Analyse how an increase in the rate of inflation could have a ‘negative impact on India’s balance of trade’ (Extract A, line 9). (6) (d) Examine the likely impact on India’s real output of its ‘incr",
+      "parts": [
+        {
+          "id": "12e",
+          "text": "Part 12e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Indicative content guidance Answers must be credited by using the level descriptors (below) in line with the general marking guidance. The indicative content below exemplifies some of the points that candidates may make but this does not imply that any of these must be included. Other relevant points must also be credited. Quantitative Skill Assessed QS9: Interpret, apply and analyse information in written, graphical, tabular and numerical forms Knowledge, Application and Analysis (8 marks) – indicative content • Identification that interest rates are a monetary policy instrument • India’s central bank raised the base rate of interest from 4.4% in May 2022 to 4.9% in June 2022 – “an increase of 0.5 percentage points” • An increase in the base rate of interest may decrease AD as it will: o decrease consumption as it creates a disincentive to spend; consumption decreases as cost of borrowing rises and there is an incentive to save as the return on saving increases – “consumer expenditure would increase at a slower rate in the second half of 2022” o create negative wealth effects: higher interest rates will raise the cost of borrowing, so individuals will be less likely to borrow to purchase houses – this will contribute to a decrease in house prices, reducing confidence and consumption o reduces spending as consumers with variable rate loans/mortgages see interest repayments increase, decreasing their discretionary incomes – “small increase in consumer expenditure in the second half of 2022” o lower consumption could decrease imports, improving the trade balance o decrease the net trade balance as it will put an upward pressure on the exchange rate, meaning imports become relatively cheaper, and exports become relatively expensive – India’s central bank wanted “to prevent the rupee from falling further” against the US dollar o decrease investment, as the cost of borrowing to finance investment rises increasing firms cost of production • AD shifts inwards leading to (m",
+          "image": "/papers/wec11-may-2023/q12-12e.png"
+        }
+      ],
+      "image": "/papers/wec11-may-2023/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wec11-may-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Economics-WEC11/Economics-WEC11-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

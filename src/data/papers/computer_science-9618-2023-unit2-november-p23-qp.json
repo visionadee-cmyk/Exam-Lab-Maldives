@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-9618-2023-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit2-november-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "October/November 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Assignment statement Data type MyVar1  Total1 / Total2 REAL MyVar2  27/10/2023 DATE MyVar3  \"Sum1 / Sum2\" STRING MyVar4  Result1 AND Result2 BOOLEAN",
+          "image": "/papers/computer_science-9618-2023/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expression Evaluates to Fraction >= 0.2 AND NOT Active FALSE INT((Fraction1 * 100) + 13.3) STR_TO_NUM(MID(Code, 4, 2)) + 5 LENGTH(\"TRUE\" & Code) MP2 Reason: The (user) requirement(s) changes // to accommodate legislative changes October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Initialise Min to first value in Data and MinIndex to 1 MP2 Loop through 29 more values (or 30 values in total) MP3 Compare element from Data[] with Min MP4 Set new Min AND save MinIndex when element value < Min in a loop MP5 Output MinIndex MP2 It is possible to iterate through the values // can use a loop // allows the storage of many values using a single identifier DECLARE Data : ARRAY[1:120] OF REAL October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q2-2a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": ": MP1 D3, D4, D1, D2 and D5 in question order or reversed - in any five consecutive locations MP2 FoQ value matches index with D3 MP3 EoQ value matches index with D5",
+          "image": "/papers/computer_science-9618-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 If NumItems is / = 8 // (queue) full then jump to step 6 MP2 Increment EndOfQueue MP3 If EndOfQueue = 9 then set EndOfQueue to 1 MP4 Increment NumItems MP5 Set the Element at the index ... MP6 stored in EndOfQueue to value/data/item being added Mark as follows: Steps 1 to 4: One mark for gaps filled as shown Step 5: One mark for 'element' and one mark for other two terms October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE RandList() DECLARE Count, BaseNum, ThisNum : INTEGER CONSTANT StepVal = 10 BaseNum  0 FOR Count  1 TO 25 ThisNum  BaseNum + INT(RAND(StepVal)) OUTPUT ThisNum BaseNum  BaseNum + StepVal NEXT Count ENDPROCEDURE MP1 Procedure heading and ending MP2 Local loop counter Count as integer MP3 Loop to iterate 25 times or more for each unique number MP4 ‘Attempt’ to generate a random number including use of INT() in a loop MP5 Ensure that number generated is greater than previous and change ‘previous’ MP6 Output random number after an attempt at MP5 in a loop MP1 Result[x + 1] <= Result[x] ALTERNATIVE SOLUTION: Result[x] >= Result[x + 1] October/November Question Answer Marks MP1 Row 1 (initialisation) Each iteration (1 – 5): MP2 1 – Total 2 MP3 2 – Total 5 MP4 3 – Total 10 MP5 4 – Total 15 MP6 5 – Total 28 and final Mix[1] = 56 October/November Question Answer Marks FUNCTION TestNum(ThisNum : STRING) RETURNS INTEGER IF LEFT(ThisNum,3) = RIGHT(ThisNum 3) THEN RETURN 3 ENDIF IF RIGHT(ThisNum, 3) = \"000\" THEN RETURN 2 ENDIF IF MID(ThisNum, 4, 1) = MID(ThisNum, 5, 1)__ AND MID(ThisNum, 5, 1) = MID(ThisNum, 6, 1) THEN RETURN 1 ENDIF RETURN 0 ENDFUNCTION MP1 Function heading and ending including parameter and return type MP2 Test for Condition 1 MP3 Test for Condition 2 MP4 Test for Condition 3 MP5 Return the highest value if more than one condition is satisfied MP6 Return zero if no condition matched Question Answer Marks MP2 naming all four modules correctly in the correct sequence // e.g. Module-A repeatedly calls Sub-Y1,then SubY2 then Sub-9 TYPE MyType DECLARE RA : INTEGER DECLARE RB : STRING DECLARE RC : BOOLEAN ENDTYPE MP1 TYPE MyType... ENDTYPE MP2 RA as integer and RB3 as string MP3 RC as Boolean PROCEDURE Sub-9(BYREF Param : MyType) MP 1 One mark for BYREF MP 2 One mark for the rest of the statement October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q4.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE ReceiveFile(FileName : STRING) DECLARE FileData : STRING DECLARE CharCount : INTEGER CONSTANT Terminator = \"****\" OPENFILE FileName FOR WRITE FileData  GetData() CharCount  0 WHILE FileData <> Terminator WRITEFILE FileName, FileData CharCount  CharCount + LENGTH(FileData) FileData  GetData() ENDWHILE CLOSEFILE FileName OUTPUT CharCount (, \" characters were written to \", FileName) ENDPROCEDURE MP1 OPEN file in WRITE mode and subsequently CLOSE MP2 Conditional loop until terminator received MP3 ‘Attempted’ use of GetData() – Ignore CALL ... MP4 Fully correct use GetData()to return the data in a loop MP5 Maintain CharCount in a loop MP6 Write each line to the file - except the terminator in a loop MP7 Final output of message giving number of characters written outside loop Problem: • If the file being sent contains a line of the string \"****\" • then the file being written by ReceiveFile() will end at this point // subsequent file lines will be lost Solution: • Read the file (at the sending end) to find the number of lines it contains • Send an initial message which defines the number of lines in the file ALTERNATIVE SOLUTION: • (Transmitter program) chooses a different terminator string / character that doesn't occur in the file • Transmitter program sends the terminator string / character before first line of file / before the transfer begins October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q8-8a.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE Chat(Destination : STRING, Port : INTEGER) DECLARE Data : STRING DECLARE Finished : BOOLEAN CONSTANT Terminator = \"Bye\" CONSTANT STX = CHR(2) CONSTANT ETX = CHR(3) Finished  FALSE REPEAT Data  GetData() OUTPUT Data IF Data = Terminator THEN Finished  TRUE ENDIF IF NOT Finished THEN //about to reply INPUT Data Transmit(STX & Destination & MyID & Data & ETX, Port) IF Data = Terminator THEN Finished  TRUE ENDIF ENDIF UNTIL Finished = TRUE ENDPROCEDURE Conditional loop MP1 Conditional loop MP2 Test for terminator in both cases MP3 Use GetData() to get the data from the message MP4 OUTPUT the data in a loop MP5 INPUT the data reply MP6 ‘Attempted ‘ use of Transmit to send it in a loop MP7 Correct formation of parameters to Transmit() Limitation: 1 GetData() does not return a value until a message has been received 2 So once a message has been sent the user has to wait for a reply // chat is half-duplex Modification: 3 If no response allow the receiver to exit chat at any time ... 4 GetData() should immediately return a suitable message // set a time limit 5 ... which Chat() can detect and respond by allowing the conversation to continue",
+          "image": "/papers/computer_science-9618-2023/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit2-2023-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

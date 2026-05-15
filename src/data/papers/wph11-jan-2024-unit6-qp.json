@@ -1,0 +1,43 @@
+{
+  "paperId": "wph11-jan-2024-unit6-qp",
+  "pairedMarkSchemeId": "wph11-jan-2024-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "January 2024",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Record position of top of lower magnet and bottom of upper magnet and subtract to give x Any TWO from: Ensure the ruler is close to the bar magnets Read perpendicular to the scale Or measure the position of the bar magnets using a set square Clamp the (30 cm) ruler in position and use a set square to ensure the (30 cm) ruler is vertical (1) (1) (1) (1) log F = log k + p log x Compares with y = c + mx where p is the gradient (which is constant) MP2 dependent on MP1 OR log F = p log x + log k Compares with y = mx + c where p is the gradient (which is constant) MP2 dependent on MP1 (1) (1) (1) (1) Values of log F correct and consistent to 2 d.p. Accept consistent to 3 d.p. Axes labelled: y as log (F / mN) and x as log (x / mm) Sensible scales chosen log values plotted accurately Best fit line drawn Accept ln values (1) (1) (1) (1) (1) (1) x / mm F / mN log (x / mm) log (F / mN) 102 11.22 2.01 1.05 117 7.56 2.07 0.88 128 5.25 2.11 0.72 145 3.43 2.16 0.54 166 2.09 2.22 0.32 197 1.18 2.29 0.07 Value of gradient in range (−)3.40 to (−)3.80 Value of calculated gradient given to 2 or 3 s.f., negative, no unit Example of calculation gradient= 1−0.2 2.03−2.255 = 0.8 −0.225 =−3.6 (1) (1) (1) States form of inverse square relationship as F  x −2 States gradient (p of log F against log x for inverse square law) should be −2 and states calculated gradient p Or States relationship from graph F  x p with p as calculated gradient States valid conclusion MP3 dependent on MP1 and MP2 (1) (1) (1) Total for question 3 17 Number Answer Mark Repeat at different orientations and calculate a mean To reduce (the effect of) random errors MP2 dependent on MP1 OR Check and correct for zero error on the calipers To eliminate systematic error MP2 dependent on MP1 (1) (1) (1) (1) States instrument based on justification using calculation of %U from corresponding resolution Example of calculation %U = 0.005mm 5mm × 100 = 0.1% So use a micrometer screw gauge as the %U is small (1) (1) Uses %U in u ",
+          "image": "/papers/wph11-jan-2024/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit6-2024-01-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

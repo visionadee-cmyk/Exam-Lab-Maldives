@@ -1,0 +1,123 @@
+{
+  "paperId": "physics-0625-2017-unit5-november-p53-qp",
+  "pairedMarkSchemeId": "physics-0625-2017-unit5-november-p53-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/53",
+  "session": "October/November 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Pour 100 cm 3 of hot water into beaker A. • Place the thermometer in the water in beaker A. • In Table 1.1, record the temperature θ of the water at time t = 0 s and immediately start the stopclock. • Record, in the table, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s and 180 s.",
+      "text": "1 (a) • Pour 100 cm 3 of hot water into beaker A. • Place the thermometer in the water in beaker A. • In Table 1.1, record the temperature θ of the water at time t = 0 s and immediately start the stopclock. • Record, in the table, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s and 180 s.",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) • Pour 100 cm 3 of hot water into beaker A. • Place the thermometer in the water in beaker A. • In Table 1.1, record the temperature θ of the water at time t = 0 s and immediately start the stopclock. • Record, in the table, the temperature θ of the water at times t = 30 s, 60 s, 90 s, 120 s, 150 s and 180 s.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "θ for beaker A decreasing θ for beaker B decreasing, more slowly than for A AND all θ values to at least 1 °C units ALL correct (symbols or words) t values all present (30, 60, 90, 120, 150 and 180)",
+          "image": "/papers/physics-0625-2017/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "two appropriate precautions: e.g. avoidance of parallax(only if explained) wait until reading stops rising at start ensure thermometer not touching beaker correct mention of comparative temperature change over 180 s any suitable improvement relating to comparison: e.g. same volume of water, same initial temperature, insulate sides, use plastic beaker, stand on mat, use a thicker / more insulated lid, matching explanation: e.g. lid only factor changed, cooling more rapid for higher temperatures cooling different for different volumes, thermal energy only escapes from surface, less transfer of thermal energy by sides, effect of lid more marked any appropriate similarity: e.g. both cool more rapidly at the start 0625/53 October/Novembe r",
+          "image": "/papers/physics-0625-2017/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct voltmeter symbol in parallel with X I S < 1.00 A AND to 2dp at least V X < V Y AND both<3.0(V) AND to 1dp at least V s within 10% of V X + V Y statement matching readings justification, with use of values seen, matching readings and statement e.g.: ‘3.5 V and 3.6 V are within limits of experimental accuracy’",
+          "image": "/papers/physics-0625-2017/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculation of R s / 3 sig figs and unit( Ω )",
+          "image": "/papers/physics-0625-2017/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "resistors in parallel with correct symbol rest of circuit correct",
+          "image": "/papers/physics-0625-2017/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I P > I S 0625/53 October/Novembe r F values all increasing all to at least 1d.p. any reliable method e.g. equal distances between rule and bench in at least two places, line up with named horizontal surface, use of set-square between stand and rule axes labelled with quantity and unit appropriate scales (plots occupying at least ½ grid and scales starting at 0,0) plots all correct to ½ small square AND precise plots Well-judged line AND thin line F correct from graph W R in range 1 to N AND 2 / 3 sig figs and unit (N)",
+          "image": "/papers/physics-0625-2017/q2-2e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "statement matching plotted points AND explanation referring to line and scatter of data",
+          "image": "/papers/physics-0625-2017/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "repeat all readings and take average 0625/53 October/Novembe r MP1 additional apparatus: screen AND (metre) rule MP2 diagram: suitable arrangement of apparatus with u and v labelled correctly MP3 method: obtain (clear focused) image AND measure u , v MP4 repeat for other values of u MP5 one precaution for clear, focused image: move screen slowly / backwards and forwards, object AND lens AND screen perpendicular to bench / vertical, object and lens at same height (from bench), use of dark room / bright light MP6 one precaution with measurements: clamp rule / fix to bench, mark centre of lens on holder avoidance of parallax explained and specific MP7 one additional point: additional precaution, calculate f from given equation at least 3 values obtained, calculate average, mention of at least one appropriate u value, mention of preliminary expt to obtain rough f value (e.g. light from window)",
+          "image": "/papers/physics-0625-2017/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2017-unit5-2017-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

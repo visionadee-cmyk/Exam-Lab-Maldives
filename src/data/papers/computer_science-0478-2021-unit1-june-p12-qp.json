@@ -1,0 +1,57 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-june-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-june-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "May/June 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Light sensor − Motion sensor // infra-red senso r May/June 2021 Question Answer Marks − Sensors send data to microprocessor − Data is converted to digital (using ADC) − Microprocessor compares data to stored value(s) ... − ... if one value or neither values are within range/out of range/match no action is taken − ... If both values are out of range/in range/match microprocessor sends signal to switch light on ... − ... 1-minute timer is started − Actuator used to switch on/off light − When timer reaches 1 minute, microprocessor sends signal to switch light off − Whole process is continuous − Webserver sends (cookie) file to user’s browser − User’s payment details stored in encrypted text file // data is encrypted to be stored − Cookie file is stored by browser/on user’s HDD/SSD − When user revisits website, webserver requests cookie file // webserver can access the data stored in the cookie file (to automatically enter details) − ... and browser sends cookie file back to webserver (to automatically enter the details) − User does not see what information is stored // might collect data that user does not know about ... − ... so, user may feel their privacy is affected − A profile could be built about the user ... − ... that could expose a user’s identity // lead to identity theft − Sensitive information stored in cookies could be intercepted in transmission ... − Other websites could gain access to the cookies stored on a user’s computer ... − Computer could be hacked to obtain data stored in cookies ... − ... so, payment information could be stolen and used by a third party Question Answer Marks − Placement of text/image − Margins − Line break − Padding NOTE: Any relevant example of structure can be awarded May/June 2021 Question Answer Marks − Font colour − Font style − Font size − Background colour − Image size − Border properties NOTE: Any relevant example of presentation can be awarded − Can easily change/edit the style of the webpage − So, CSS can be used to ",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/page-05.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-06-12-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2021/page-01.png",
+      "/papers/computer_science-0478-2021/page-02.png",
+      "/papers/computer_science-0478-2021/page-03.png",
+      "/papers/computer_science-0478-2021/page-04.png",
+      "/papers/computer_science-0478-2021/page-05.png",
+      "/papers/computer_science-0478-2021/page-06.png",
+      "/papers/computer_science-0478-2021/page-07.png",
+      "/papers/computer_science-0478-2021/page-08.png",
+      "/papers/computer_science-0478-2021/page-09.png",
+      "/papers/computer_science-0478-2021/page-10.png",
+      "/papers/computer_science-0478-2021/page-11.png",
+      "/papers/computer_science-0478-2021/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

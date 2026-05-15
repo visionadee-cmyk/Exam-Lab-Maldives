@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-9618-2023-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit2-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "October/November 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 all values in the order and location shown MP2 TopOfStack value is index of element containing D1 MP3 BottomOfStack value is index of element containing D2",
+          "image": "/papers/computer_science-9618-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 If TopOfStack = 8 // (stack) full then return FALSE MP2 Otherwise, increment TopOfStack MP3 Use TopOfStack as an index to the Array MP4 Set the element at this index / location / position to the value / data / item being added MP5 Return TRUE October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION TooMany(Search : STRING, Max : INTEGER) RETURNS BOOLEAN DECLARE Count, Index : INTEGER Count  0 FOR Index  1 TO 150 IF Data[Index] = Search THEN Count  Count + 1 ENDIF NEXT Index IF Count > Max THEN RETURN TRUE ELSE RETURN FALSE ENDIF ENDFUNCTION MP1 Function heading, ending and return type MP2 Declare Count and Index as integers MP3 Initialise Count MP4 Loop (any type) for 150 iterations MP5 Compare Data element with parameter - if equal, increment Count in a loop MP6 Compare Count with Max and return Boolean in both cases outside the loop MP2 Test for either column value equal to Search IF Row MOD 2 = 0 AND __ (Data[Row, 1] = Search OR Data[Row, 2] = Search) THEN ALTERNATIVE using nested IFs: IF Row MOD 2 = 0 THEN IF Data[Row, 1] = Search OR Data[Row, 2] = Search THEN MP3 Selection structure is either: • Single IF statement using AND, or • Two nested IFs using AND, or • Single IF and the use of a two-iteration loop Either of these structures correctly formed scores the mark ALTERNATIVE SOLUTION: A FOR loop using ‘STEP 2’ FOR Row  2 TO 150 / NEXT Row STEP 2 Data[Row, 1] = Search OR Data[Row, 2] = Search) THEN October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 Num > Min should be Num < Min MP2 Count & 1 should be Count + 1 MP3 NextInput  \"END\" should be NextInput = \"END\" numeric values in the sequence MP2 then the minimum will be given as 999 (and not one of the input values) MP1 Mixture non-numeric and numeric with 3 or 4 values - with all numerics greater than 999 Examples: 1325, DOG, 7868, 7615 // SNAKE, 3478, SPIDER MP2 Final value: END Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE MyOutput(NewString : STRING, EOL : BOOLEAN) IF LENGTH(MyString) + LENGTH(NewString) > 255 THEN OUTPUT MyString // Resulting string would be too long MyString  NewString ELSE MyString  MyString & NewString // Concat with MyString IF EOL = TRUE THEN OUTPUT MyString MyString  \"\" ENDIF ENDIF ENDPROCEDURE MP1 Procedure heading, including parameters, and ending MP2 Produce concatenated string MP3 ... Check whether resulting string would be too long MP4 If so, then output old MyString MP5 ... and assign NewString to MyString MP6 Else concatenate NewString to MyString MP7 (test for length < 255) Test EOL – If TRUE then Output MP8 ... and reset MyString to empty string October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "MP1 A new (instance of) variable MyString is created each time the procedure is called / executed MP2 So the previous contents are lost Question Answer Marks MP1 S2 labelled MP2 S3, S4 and S5 added MP3 Line from S1 to S3 MP4 All three lines between S2 and S5 (including S5 to S5) MP5 Line from S5 to S3 AND from S3 to S4 October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PROCEDURE SendFile(FileName, DestID : STRING, Port : INTEGER) DECLARE FileData : STRING CONSTANT STX = CHR(02) CONSTANT ETX = CHR(03) OPENFILE FileName FOR READ WHILE NOT EOF(FileName) READFILE FileName, FileData FileData  STX & DestID & MyID & FileData & ETX CALL Transmit(FileData, Port) ENDWHILE CLOSEFILE FileName CALL Transmit(STX & DestID & MyID & \"****\" & ETX, Port) ENDPROCEDURE Mark as follows: MP1 OPEN file in READ mode – using parameter - and subsequently CLOSE MP2 Conditional loop to EOF() MP3 Use of READFILE to get a line from the file MP4 ‘Attempt’ to form a message (minimum is DestID, MyID, FileData) MP5 Message formed is completely correct MP6 Call Transmit() with correct MP4 string in a loop MP7 Transmit the \"****\" message (all parts present) after the loop MP1 Indicates that all the lines of the file have been sent // it is the end of the transmission / file transfer MP2 So that the receiving program can stop waiting for further data MP3 The file can be closed / saved MP2 ... so a blank line cannot be sent // there is no way to send a blank line MP2 interpret the new field data as a blank line ALTERNATIVE MP1 Change the message protocol and use an additional field to act as an indicator MP2 Interpret the new field data October/November Question Answer Marks",
+          "image": "/papers/computer_science-9618-2023/q8-8a.png"
+        },
+        {
+          "id": "8d",
+          "text": "8(d) starts on page 18. 18 9618/21/O/N/23© UCLES 2023 (d) A new module has been defined: ModuleDescription GetField() • takes two parameters: o a string containing a message o an integer containing a field number • If the field number is valid (in the range 1 to 3, inclusive), it returns a string containing the required field, otherwise it returns an empty string. As",
+          "marks": 1,
+          "type": "structured",
+          "answer": "FUNCTION GetField(Msg : STRING, FieldNo : INTEGER) RETURNS STRING DECLARE RetString : STRING CASE OF FieldNo 1 : RetString  MID(Msg, 2, 3) 2 : RetString  MID(Msg, 5, 3) 3 : RetString  MID(Msg, 8, LENGTH(Msg) - 8) OTHERWISE : RetString  \"\" ENDCASE RETURN RetString ENDFUNCTION MP1 Use of CASE ... ENDCASE or IF ... THEN ... ENDIF MP2 Field 1 and Field 2 extracted correctly MP3 Calculate a length of field 3 MP4 Field 3 extracted correctly MP5 Return empty string in case of invalid parameter (via OTHERWISE or initialisation) MP6 Final RETURN, after a reasonable attempt",
+          "image": "/papers/computer_science-9618-2023/q8-8d.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit2-2023-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

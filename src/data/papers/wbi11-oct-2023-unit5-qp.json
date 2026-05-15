@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-oct-2023-unit5-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2023-unit5-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI15/01",
+  "session": "October 2023",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Choose an item.  C is the correct answer A is not the correct answer as a gibberellin is not an enzyme that converts starch to glucose B is not the correct answer as a gibberellin is not a molecule that converts Pfr to Pr D is not the correct answer as a gibberellin is not a protein that wraps around DNA (1) Number *6(c) Answers will be credited according to candidate’s deployment of knowledge and understanding of the material in relation to the qualities and skills outlined in the generic mark scheme. The indicative content below is not prescriptive and candidates are not required to include all the material indicated as relevant. Additional content included in the response must be scientific and relevant. accept R for red light and FR for far red light FROM SECTIONS 1 T0 3 MAX 1 credit FROM EACH comment on short day (long night) plants (from the diagram)  short day plants generally require {light period of less than 12 hours / dark period 8-10 hours / longer than critical night length} for flowering  description of light flashes and subsequent flowering or non flowering  interruption of critical night length by {1×R / 2×R and 1×FR} light periods prevents flowering  interruption of critical night length by {1×R and 1×FR / 2×R and 2×FR} light periods gives flowering  there is no flowering if last light flash is R during dark period / the plant flowers if last flash of light is FR  comment on long day (short night) plants (from the diagram)  long day plants require light periods {of 14-16 hours / longer light periods / shorter dark periods / shorter than critical night length} for flowering  critical night length (with no light flashes) prevents flowering  (long day) plants flower {with any (brief) R in long dark night / if last flash of light is R} / interruption of critical night length by {one R (660nm) / two R and one FR} light periods allows flowering  interruption of critical night length by {1×R + 1×FR / 2×R and 2×FR} light periods prevents flowerin",
+          "image": "/papers/wbi11-oct-2023/q6-6b.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2023/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Choose an item. Connective tissue Contains collagen Rich in nerves Envelops muscle fascia    ligaments  X X All correct 2 marks 3 to 5 correct = 1 mark 0 to 2 correct = 0 marks accept yes for  accept no for x ignore blank boxes (2) number Answer Additional guidance Mark  stimulus detected by {specialised pain receptors / nociceptors} in fascia (1)  causes release of neurotransmitters / chemical response (1)  which causes {nerve impulse / action potential / depolarisation} (in sensory neurones) (1)  (impulse) transmitted to pain centre (in brain / CNS) (1) accept fascia rich in {nerves / nerve endings} accept fascia is a sensory organ accept increase in percentage of {nociceptive fibres / pain receptors (that respond to harmful stimuli)} accept causes inflammation accept opening of sodium ion channels / sodium ions enter (sensory) neurone accept {brain / CNS} interprets the impulse as pain (3) number Answer Additional guidance Mark  {tissue injury / cell damage / bacterial or viral infection / / foreign antigen / exercise} (1)  release of {histamine / cytokines / hormone / chemical} (1)  (therefore) vasodilation (of fascia blood vessels) occurs (1)  {swelling / oedema} occurs due to {increase / entry} of {macrophages / white blood cells / fluid} (in the fascia) (1) accept injury / harm / damage (to fascia) unqualified ignore fibromyalgia ignore adrenaline accept increased permeability of capillaries accept description of vasodilation / increased blood flow accept entry of {white blood cells / macrophages} (from blood) (3) number Answer Additional guidance Mark  fibroblasts respond to {mechanical / chemical stimuli / TGF-beta / transcription factor} (1)  causing {a change in gene expression / switching genes on / differential gene expression} (1)  due to {epigenetic modification / histone modification / DNA methylation} (1)  {active / switched on} genes are transcribed (into mRNA) (1)  translation (of mRNA) occurs (at the ribosome) (1)  (resulting i",
+          "image": "/papers/wbi11-oct-2023/q8-8b.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2023-unit5-2023-10-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

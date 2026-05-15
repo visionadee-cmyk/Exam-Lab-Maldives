@@ -1,0 +1,167 @@
+{
+  "paperId": "computer_science-0478-2019-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2019-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2019",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "97 1 0 0 1 0 1 1 1 1 mark 1 mark 5C 0 1 0 1 1 1 0 0 1 mark 1 mark E1 1 1 1 0 0 0 0 1 1 mark 1 mark",
+          "image": "/papers/computer_science-0478-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • Media Access Control (address) • Used to identify a device • It is a unique (address) • It is a static address // It does not change • It is set by the manufacturer • The first part is the manufacturer ID/number/identifies the manufacturer • The second part is the serial number/ID 0478/11 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from e.g.: • Colour codes // Colour in HTML / CSS • Error messages • Locations in memory • Memory dump // debugging • IP address • ASCII // Unicode • Assembly language • URL",
+          "image": "/papers/computer_science-0478-2019/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct name, 1 mark for correct gate symbol − AND",
+          "image": "/papers/computer_science-0478-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct name, 1 mark for correct gate symbol − NOR 0478/11 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for correct name, 1 mark for correct gate symbol − NAND 1 mark for each correct device Description of input or output device Name of device This is an input device that works by shining a light onto the surface of a document. The light source is automatically moved across the document and the reflected light is captured by mirrors and lenses. 2D Scanner This is an input device where a laser or a light source is moved across an object. The width, height and depth of the object are measured to allow a model to be created. 3D scanner This is a large input device that is usually fix ed to a wall. A user can calibrate the device to make sure the sensors align with a projected image. The user can use either their finger or a special pen to make selections. Interactive whiteboard This is an output device that uses many small mirrors to reflect light towards a lens. This will display an image. Projector This is an output device that creates an object by building layer upon layer of material. 3D printer 0478/11 May/June 2019 1 mark for security method, 2 marks for description Anti-virus (software) // Anti-malware (software) • Scans the computer system (for viruses) • Has a record of known viruses • Removes/quarantines any viruses that are found • Checks data before it is downloaded • « and stops download if virus found/warns user may contain virus Firewall // Proxy server • Monitors traffic coming into and out of the computer system • Checks that the traffic meets any criteria/rules set • Blocks any traffic that does not meet the criteria/rules set // set blacklist/whitelist 0478/11 May/June 2019 1 mark for security method, 2 marks for description Firewall // proxy server • Monitors traffic coming into and out of the computer system • Check that the traffic meets any criteria/rules set • Blocks any traffic that does not meet the criteria/rules set // set blacklist/whitelist NOTE: Cannot be awarded if already given in 4(a)(i) Passwords • Making a password stronger // b",
+          "image": "/papers/computer_science-0478-2019/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (max 2 marks per improvement): • Make the password require more characters • Makes the password harder to crack/guess • More possible combinations for the password • Make the password require different types of characters • Makes the password harder to crack/guess • More possible combinations for the password • Use a biometric device • Hard to fake a person’s biological data // data is unique • Two-step verification // Two factor-authentication • Adds an additional level to hack • Have to have the set device for the code to receive it • Drop-down boxes // onscreen keyboard • To prevent passwords being obtained using keylogger • Request random characters • Won’t reveal entire password • Set number of password attempts • Will lock account if attempting to guess • Will stop brute-force attacks 0478/11 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from (max 3 marks for benefits only, without an explanation): • More read/write cycles (over its lifetime) // greater longevity « • « likely to be a lot of read/write functions each day • Read/write speed is sufficient « • « even though it is slower than solid-state • Cheaper per unit of data stored « • « better value for the company to purchase • « so the law company can afford to buy a server with greater storage capacity • No requirement for portability « • « as a server, it does not need to be moved • Trusted technology « • « it has been traditionally used for many years",
+          "image": "/papers/computer_science-0478-2019/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• DVD • CD • Blu-ray 0478/11 May/June 2019 1 mark for each correct term, in the correct place: • Syntax • High-level language • Translator • Machine code • Assembly • Low-level language",
+          "image": "/papers/computer_science-0478-2019/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Six from: • SSL is a (security) protocol • It encrypts any data that is sent • It uses/sends digital certificates « • « which is sent to the (buyer’s/user’s) browser // requested by (buyer’s/user’s) browser • « that contains the gallery’s public key • « that can be used to authenticate the gallery • Once the certificate is authenticated, the transaction will begin 0478/11 May/June 2019",
+          "image": "/papers/computer_science-0478-2019/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct tick. Statement True ( ) False ( ) Firewalls are only available as hardware devices Firewalls allow a user to set rules for network traffic Firewalls will automatically stop all malicious traffic Firewalls only examine traffic entering a network Firewalls encrypt all data that is transmitted around a network Firewalls can be used to block access to certain websites",
+          "image": "/papers/computer_science-0478-2019/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • A set of guidelines • Rules/laws that govern the use of computers / by example • Tell people how to behave when using computers // helps ke ep users safe when using computers // by example • Art gallery could be subject to plagiarism / intellectual property theft • Art gallery could copyright their work (to make it illegal to steal it)",
+          "image": "/papers/computer_science-0478-2019/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2019/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2019-unit1-2019-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

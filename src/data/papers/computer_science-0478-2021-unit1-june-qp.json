@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2021-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2021",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Row 1 − Row 3 − Row 4 − Row 5 Question Answer Marks − (Compression) algorithm is used − No data will be removed // original file can be restored − Example of type of algorithm that would be used e.g. RLE − Repeated patterns in the music are identified − ... and indexed NOTE: If another lossless method is described, marks can be awarded. − To provide the highest quality of music file (that compression will allow) − The user is able to listen to the original sound file − No loss of quality for the sound file provided − Allow for quicker streaming speed − Would not require as much bandwidth (to stream) − Does not need as much RAM − Smoother listening experience // less lag − Will not use as much of data allowance May/June 2021 Question Answer Marks − Streaming speed may be slower − ... and may affect listening experience // buffering may occur − User may need more bandwidth to stream − ... that could be more expensive − It would be a larger file size − ... so may take longer to upload − ... so will take up more storage space ... − ... on webserve r − Browser sends URL to DNS − ... using HTTP/HTTPS − IP address is found on DNS − DNS returns IP address to the browser − Browser sends request to web server/IP address − Web server sends web pages back to browser − Browser interprets/renders the HTML (to display web pages) − Security certificates exchanged − Web server has been flooded with traffic // web server has been sent many requests at once − ... so, server is brought to a halt / crashes Question Answer Marks",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Odd − Odd − Even − Even − there is a transposition of bits − it does not check the order of the bits (just the sum of 1s/0s) − even number of bits change − incorrect bits still add up to correct parity − Multiple bits are sent at the same time − Uses multiple wires − Data is sent in both directions ... − ... but only one direction at a time − Bits may arrive skewed − More expensive to setup/manufacture/purchase cable − Limited distance − More prone to interference/erro r",
+          "image": "/papers/computer_science-0478-2021/q8-8a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit1-2021-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

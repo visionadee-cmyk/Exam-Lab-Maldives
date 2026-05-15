@@ -1,5 +1,5 @@
 {
-  "paperId": "wbi12-jun-2019-unit2-qp",
+  "paperId": "wbi12-may-2019-unit2-qp",
   "subjectId": "biology_ial_pearson",
   "code": "WBI12/01",
   "session": "June 2019",
@@ -13,7 +13,7 @@
       "type": "structured",
       "totalMarks": 6,
       "question": "Mineral ions are transported by xylem vessels. The photograph shows a section through part of the stem of a plant, as seen using a light microscope.",
-      "image": "/papers/wbi12-jun2019/q1-plant-stem-section.PNG",
+      "image": "/papers/wbi12-may-2019/page-03.png",
       "parts": [
         {
           "id": "1a_i",
@@ -22,11 +22,24 @@
           "type": "mcq",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "W" },
-            { "id": "B", "text": "X" },
-            { "id": "C", "text": "Y" },
-            { "id": "D", "text": "Z" }
-          ]
+            {
+              "id": "A",
+              "text": "W"
+            },
+            {
+              "id": "B",
+              "text": "X"
+            },
+            {
+              "id": "C",
+              "text": "Y"
+            },
+            {
+              "id": "D",
+              "text": "Z"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q1-1a_i.png"
         },
         {
           "id": "1a_ii",
@@ -35,20 +48,38 @@
           "type": "mcq",
           "answer": "D",
           "options": [
-            { "id": "A", "text": "U" },
-            { "id": "B", "text": "V" },
-            { "id": "C", "text": "W" },
-            { "id": "D", "text": "Z" }
-          ]
+            {
+              "id": "A",
+              "text": "U"
+            },
+            {
+              "id": "B",
+              "text": "V"
+            },
+            {
+              "id": "C",
+              "text": "W"
+            },
+            {
+              "id": "D",
+              "text": "Z"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q1-1a_ii.png"
         },
         {
           "id": "1b_i",
           "text": "The concentration of calcium ions is 0.45 mmol dm⁻³. Plot this concentration on the graph.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q1-mineral-ions-graph.PNG",
+          "image": "/papers/wbi12-may-2019/q1-1b_i.png",
           "answer": "Plot bar at 0.45 for calcium ions on the graph",
-          "keywords": ["0.45", "calcium", "plot", "bar"]
+          "keywords": [
+            "0.45",
+            "calcium",
+            "plot",
+            "bar"
+          ]
         },
         {
           "id": "1b_ii",
@@ -56,7 +87,17 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Calcium: component of cell walls / pectin in middle lamella. Magnesium: component of chlorophyll / required for photosynthesis. Nitrate: source of nitrogen for amino acids / proteins / nucleic acids / chlorophyll.",
-          "keywords": ["calcium", "cell wall", "pectin", "magnesium", "chlorophyll", "nitrate", "amino acid", "protein"]
+          "keywords": [
+            "calcium",
+            "cell wall",
+            "pectin",
+            "magnesium",
+            "chlorophyll",
+            "nitrate",
+            "amino acid",
+            "protein"
+          ],
+          "image": "/papers/wbi12-may-2019/q1-1b_ii.png"
         }
       ]
     },
@@ -66,7 +107,7 @@
       "type": "structured",
       "totalMarks": 5,
       "question": "Farmers sometimes spray herbicides on their fields. Herbicides kill plants that the farmer does not want to grow. The effect of the concentration of herbicide on the number of species of insects in three fields was investigated. The mean number of species for the three fields was calculated. The graph shows the results of this investigation.",
-      "image": "/papers/wbi12-jun2019/q2-herbicide-insects-graph.PNG",
+      "image": "/papers/wbi12-may-2019/page-05.png",
       "parts": [
         {
           "id": "2a",
@@ -74,7 +115,15 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "A group of organisms that can interbreed to produce fertile offspring / share common characteristics / gene pool is isolated from other species.",
-          "keywords": ["interbreed", "fertile", "offspring", "common", "characteristics", "gene pool"]
+          "keywords": [
+            "interbreed",
+            "fertile",
+            "offspring",
+            "common",
+            "characteristics",
+            "gene pool"
+          ],
+          "image": "/papers/wbi12-may-2019/q2-2a.png"
         },
         {
           "id": "2b",
@@ -82,7 +131,17 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "As herbicide concentration increases, mean number of insect species decreases / negative correlation / herbicides kill plants reducing food and habitats for insects / at low concentration (0-10) number drops from 9 to about 7 / at high concentration (90-100) number is about 3 / fewer niches and less biodiversity.",
-          "keywords": ["increases", "decreases", "negative", "correlation", "habitat", "food", "niches", "biodiversity"]
+          "keywords": [
+            "increases",
+            "decreases",
+            "negative",
+            "correlation",
+            "habitat",
+            "food",
+            "niches",
+            "biodiversity"
+          ],
+          "image": "/papers/wbi12-may-2019/q2-2b.png"
         }
       ]
     },
@@ -98,22 +157,40 @@
           "text": "Meiosis produces gametes that are genetically different. Crossing over is important to increase genetic variation. The diagram shows one pair of homologous chromosomes during early meiosis. Complete the diagram below to show these chromosomes after crossing over has occurred.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q3-crossing-over.PNG",
+          "image": "/papers/wbi12-may-2019/q3-3a.png",
           "answer": "Chromatids exchange segments at chiasmata / resulting chromosomes have recombinant DNA / one chromatid from each chromosome has swapped section with the other.",
-          "keywords": ["chiasmata", "exchange", "recombinant", "swapped", "segments"]
+          "keywords": [
+            "chiasmata",
+            "exchange",
+            "recombinant",
+            "swapped",
+            "segments"
+          ]
         },
         {
           "id": "3b_i",
           "text": "The photograph shows some cells undergoing mitosis. Each labelled cell is in a different stage of mitosis. Which cell is in prophase?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi12-jun2019/q3-mitosis-photo.PNG",
+          "image": "/papers/wbi12-may-2019/q3-3b_i.png",
           "answer": "C",
           "options": [
-            { "id": "A", "text": "P" },
-            { "id": "B", "text": "Q" },
-            { "id": "C", "text": "R" },
-            { "id": "D", "text": "S" }
+            {
+              "id": "A",
+              "text": "P"
+            },
+            {
+              "id": "B",
+              "text": "Q"
+            },
+            {
+              "id": "C",
+              "text": "R"
+            },
+            {
+              "id": "D",
+              "text": "S"
+            }
           ]
         },
         {
@@ -121,9 +198,15 @@
           "text": "In some embryo cells, interphase can last an average of nine hours. The diagram shows the relative proportions of time spent in each part of the cell cycle. Calculate how long cytokinesis would take in these embryo cells.",
           "marks": 1,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q3-cell-cycle-pie.PNG",
+          "image": "/papers/wbi12-may-2019/q3-3b_ii.png",
           "answer": "Interphase is 270° = 9 hours. Cytokinesis is 15°. Time = (15/270) × 9 = 0.5 hours / 30 minutes.",
-          "keywords": ["0.5", "30", "minutes", "hours", "proportional"]
+          "keywords": [
+            "0.5",
+            "30",
+            "minutes",
+            "hours",
+            "proportional"
+          ]
         },
         {
           "id": "3b_iii",
@@ -131,20 +214,36 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "2⁸ = 256 cells",
-          "keywords": ["256", "2^8"]
+          "keywords": [
+            "256",
+            "2^8"
+          ],
+          "image": "/papers/wbi12-may-2019/q3-3b_iii.png"
         },
         {
           "id": "3c_i",
           "text": "Ewing's sarcoma is a type of cancer. Resveratrol, SRT1720 and Vincristine are drugs used to kill cancer cells. An investigation was carried out to determine the most effective treatment for patients with Ewing's sarcoma. The graph shows the results of this investigation. Vincristine prevents spindle fibres from shortening during mitosis. This leads to the death of the cell. At which stage of mitosis do the spindle fibres contract?",
           "marks": 1,
           "type": "mcq",
-          "image": "/papers/wbi12-jun2019/q3-cancer-drugs-bar.PNG",
+          "image": "/papers/wbi12-may-2019/q3-3c_i.png",
           "answer": "A",
           "options": [
-            { "id": "A", "text": "anaphase" },
-            { "id": "B", "text": "metaphase" },
-            { "id": "C", "text": "prophase" },
-            { "id": "D", "text": "telophase" }
+            {
+              "id": "A",
+              "text": "anaphase"
+            },
+            {
+              "id": "B",
+              "text": "metaphase"
+            },
+            {
+              "id": "C",
+              "text": "prophase"
+            },
+            {
+              "id": "D",
+              "text": "telophase"
+            }
           ]
         },
         {
@@ -153,9 +252,19 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Vincristine alone kills about 50% / most effective alone. Resveratrol alone kills about 15% / least effective alone. SRT1720 alone kills about 10% / least effective alone. Resveratrol + Vincristine kills about 50% / slightly more than Vincristine alone. SRT1720 + Vincristine kills about 85% / most effective combination. All combinations with Vincristine are more effective than single drugs.",
-          "keywords": ["vincristine", "resveratrol", "SRT1720", "combination", "effective", "percentage", "graph"]
+          "keywords": [
+            "vincristine",
+            "resveratrol",
+            "SRT1720",
+            "combination",
+            "effective",
+            "percentage",
+            "graph"
+          ],
+          "image": "/papers/wbi12-may-2019/q3-3c_ii.png"
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2019/page-11.png"
     },
     {
       "id": "q4",
@@ -171,11 +280,24 @@
           "type": "mcq",
           "answer": "B",
           "options": [
-            { "id": "A", "text": "centriole" },
-            { "id": "B", "text": "Golgi apparatus" },
-            { "id": "C", "text": "rough endoplasmic reticulum" },
-            { "id": "D", "text": "smooth endoplasmic reticulum" }
-          ]
+            {
+              "id": "A",
+              "text": "centriole"
+            },
+            {
+              "id": "B",
+              "text": "Golgi apparatus"
+            },
+            {
+              "id": "C",
+              "text": "rough endoplasmic reticulum"
+            },
+            {
+              "id": "D",
+              "text": "smooth endoplasmic reticulum"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q4-4a_i.png"
         },
         {
           "id": "4a_ii",
@@ -183,7 +305,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Organelle is too small / below resolution limit of light microscope (about 200 nm) / electron microscope has much higher resolution / light microscope limited by wavelength of light.",
-          "keywords": ["resolution", "small", "200 nm", "wavelength", "electron", "light"]
+          "keywords": [
+            "resolution",
+            "small",
+            "200 nm",
+            "wavelength",
+            "electron",
+            "light"
+          ],
+          "image": "/papers/wbi12-may-2019/q4-4a_ii.png"
         },
         {
           "id": "4a_iii",
@@ -191,7 +321,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Organ: made of several tissues / carries out specific function / larger structure. Tissue: made of one type of cell / group of similar cells / smaller unit within organ.",
-          "keywords": ["tissues", "function", "cells", "similar", "structure", "size"]
+          "keywords": [
+            "tissues",
+            "function",
+            "cells",
+            "similar",
+            "structure",
+            "size"
+          ],
+          "image": "/papers/wbi12-may-2019/q4-4a_iii.png"
         },
         {
           "id": "4b",
@@ -199,18 +337,33 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Centrioles / lysosomes / flagella / cilia / intermediate filaments (any two).",
-          "keywords": ["centriole", "lysosome", "flagellum", "cilia"]
+          "keywords": [
+            "centriole",
+            "lysosome",
+            "flagellum",
+            "cilia"
+          ],
+          "image": "/papers/wbi12-may-2019/q4-4b.png"
         },
         {
           "id": "4c",
           "text": "Cells in the pancreas use amino acids to synthesise polypeptides. These cells also secrete enzymes and glycoproteins into the small intestine. Cells from the pancreas, containing amino acids labelled with a fluorescent marker, were used in an investigation. The fluorescent marker looked green when seen with a special microscope. The percentage of green fluorescence inside and outside the cells was measured at the start and after 60 minutes. The results of this investigation are shown in the table. Explain the results of this investigation.",
           "marks": 4,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q4-pancreas-fluorescence-table.PNG",
+          "image": "/papers/wbi12-may-2019/q4-4c.png",
           "answer": "At start all fluorescence inside cells (100%) / amino acids inside being used for protein synthesis. After 60 minutes, 38% inside and 62% outside / polypeptides/enzymes/glycoproteins secreted by exocytosis / vesicles fuse with membrane releasing products outside cell / decrease inside due to secretion.",
-          "keywords": ["synthesis", "secreted", "exocytosis", "vesicles", "fluorescence", "outside", "decrease"]
+          "keywords": [
+            "synthesis",
+            "secreted",
+            "exocytosis",
+            "vesicles",
+            "fluorescence",
+            "outside",
+            "decrease"
+          ]
         }
-      ]
+      ],
+      "image": "/papers/wbi12-may-2019/page-15.png"
     },
     {
       "id": "q5",
@@ -218,7 +371,7 @@
       "type": "structured",
       "totalMarks": 10,
       "question": "There are more than 100 species of trees and shrubs around the world with the common name of 'ironwood'. One type of ironwood tree, Tabebuia avellanedae, is native to South America. Chemicals from these trees have antibacterial properties.",
-      "image": "/papers/wbi12-jun2019/q5-ironwood-page16.PNG",
+      "image": "/papers/wbi12-may-2019/page-17.png",
       "parts": [
         {
           "id": "5a_i",
@@ -226,7 +379,10 @@
           "marks": 1,
           "type": "short_answer",
           "answer": "Tabebuia",
-          "keywords": ["tabebuia"]
+          "keywords": [
+            "tabebuia"
+          ],
+          "image": "/papers/wbi12-may-2019/q5-5a_i.png"
         },
         {
           "id": "5a_ii",
@@ -235,11 +391,24 @@
           "type": "mcq",
           "answer": "A",
           "options": [
-            { "id": "A", "text": "amyloplast" },
-            { "id": "B", "text": "middle lamella" },
-            { "id": "C", "text": "plasmodesmata" },
-            { "id": "D", "text": "tonoplast" }
-          ]
+            {
+              "id": "A",
+              "text": "amyloplast"
+            },
+            {
+              "id": "B",
+              "text": "middle lamella"
+            },
+            {
+              "id": "C",
+              "text": "plasmodesmata"
+            },
+            {
+              "id": "D",
+              "text": "tonoplast"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q5-5a_ii.png"
         },
         {
           "id": "5b_i",
@@ -247,7 +416,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Slime capsule: protection from host immune system / prevents phagocytosis / prevents desiccation. Pili: attachment to host cells / adhesion.",
-          "keywords": ["capsule", "protection", "phagocytosis", "attach", "adhesion", "pili"]
+          "keywords": [
+            "capsule",
+            "protection",
+            "phagocytosis",
+            "attach",
+            "adhesion",
+            "pili"
+          ],
+          "image": "/papers/wbi12-may-2019/q5-5b_i.png"
         },
         {
           "id": "5b_ii",
@@ -255,7 +432,18 @@
           "marks": 6,
           "type": "short_answer",
           "answer": "Pre-clinical testing on bacteria in vitro / test on animals to check toxicity and dosage. Clinical trials: Phase 1 small group healthy volunteers safety/dosage, Phase 2 larger group patients efficacy/side effects, Phase 3 large RCT with placebo/control / double-blind / statistical analysis. Monitor efficacy and side effects / compare with existing treatments / ethical approval.",
-          "keywords": ["clinical trial", "double blind", "placebo", "random", "dosage", "side effects", "efficacy", "in vitro", "animals"]
+          "keywords": [
+            "clinical trial",
+            "double blind",
+            "placebo",
+            "random",
+            "dosage",
+            "side effects",
+            "efficacy",
+            "in vitro",
+            "animals"
+          ],
+          "image": "/papers/wbi12-may-2019/q5-5b_ii.png"
         }
       ]
     },
@@ -265,7 +453,7 @@
       "type": "structured",
       "totalMarks": 11,
       "question": "One of the aims of seed banks is to maintain genetic diversity. Seeds are stored in the Navdanya Seed Vault, one of over a hundred seed banks in India. This seed bank stores over 4000 varieties of rice.",
-      "image": "/papers/wbi12-jun2019/q6-seedbank-rice-photo.PNG",
+      "image": "/papers/wbi12-may-2019/page-21.png",
       "parts": [
         {
           "id": "6a_i",
@@ -274,11 +462,24 @@
           "type": "mcq",
           "answer": "B",
           "options": [
-            { "id": "A", "text": "Hardy–Weinberg equation" },
-            { "id": "B", "text": "heterozygosity index" },
-            { "id": "C", "text": "index of diversity" },
-            { "id": "D", "text": "mitotic index" }
-          ]
+            {
+              "id": "A",
+              "text": "Hardy–Weinberg equation"
+            },
+            {
+              "id": "B",
+              "text": "heterozygosity index"
+            },
+            {
+              "id": "C",
+              "text": "index of diversity"
+            },
+            {
+              "id": "D",
+              "text": "mitotic index"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q6-6a_i.png"
         },
         {
           "id": "6a_ii",
@@ -286,7 +487,16 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Genetic diversity: variation of alleles/genes within a population or species. Species richness: number of different species in a habitat/community.",
-          "keywords": ["alleles", "genes", "population", "species", "number", "habitat", "community"]
+          "keywords": [
+            "alleles",
+            "genes",
+            "population",
+            "species",
+            "number",
+            "habitat",
+            "community"
+          ],
+          "image": "/papers/wbi12-may-2019/q6-6a_ii.png"
         },
         {
           "id": "6b",
@@ -294,25 +504,49 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Seeds take up less space / cheaper to store / easier to transport / low water content and metabolism allows long-term storage / less risk of pests/disease / can store large numbers of varieties.",
-          "keywords": ["space", "cheaper", "transport", "long", "metabolism", "pests", "disease"]
+          "keywords": [
+            "space",
+            "cheaper",
+            "transport",
+            "long",
+            "metabolism",
+            "pests",
+            "disease"
+          ],
+          "image": "/papers/wbi12-may-2019/q6-6b.png"
         },
         {
           "id": "6c_i",
           "text": "Bananas are a popular food and seed banks are involved in the development of disease-resistant varieties. The table shows the mass of bananas imported by three countries in 2007 and in 2011. Calculate the percentage increase in the mass of bananas imported by China.",
           "marks": 2,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q6-banana-imports-table.PNG",
+          "image": "/papers/wbi12-may-2019/q6-6c_i.png",
           "answer": "((8.2 - 3.3) / 3.3) × 100 = 148.5% / approximately 149% / 148%",
-          "keywords": ["148", "149", "percent", "%", "(8.2", "3.3"]
+          "keywords": [
+            "148",
+            "149",
+            "percent",
+            "%",
+            "(8.2",
+            "3.3"
+          ]
         },
         {
           "id": "6c_ii",
           "text": "Banana plants can reproduce asexually. Most of the bananas grown by farmers around the world are clones from a single parent banana plant called 'The Cavendish'. Panama disease is caused by a fungus. It has destroyed Cavendish banana plants in the Philippines. Cavendish banana plants are not resistant to this fungus. Seed banks around the world have seeds from different varieties of banana. Scientists are trying to improve the Cavendish banana by breeding it with different varieties of banana. Explain why scientists are breeding the Cavendish banana with different varieties of banana.",
           "marks": 4,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q6-banana-clones-diagram.PNG",
+          "image": "/papers/wbi12-may-2019/q6-6c_ii.png",
           "answer": "Clones have identical genomes / low genetic diversity / all susceptible to same disease (Panama disease). Breeding with different varieties increases genetic diversity / introduces new alleles / may produce offspring with resistance to fungus / maintains banana production and food security.",
-          "keywords": ["genetic diversity", "clones", "disease", "resistant", "alleles", "panama", "susceptible"]
+          "keywords": [
+            "genetic diversity",
+            "clones",
+            "disease",
+            "resistant",
+            "alleles",
+            "panama",
+            "susceptible"
+          ]
         }
       ]
     },
@@ -322,7 +556,7 @@
       "type": "structured",
       "totalMarks": 14,
       "question": "A sperm cell is a specialised cell.",
-      "image": "/papers/wbi12-jun2019/q7-sperm-cell-diagram.PNG",
+      "image": "/papers/wbi12-may-2019/page-25.png",
       "parts": [
         {
           "id": "7a_i",
@@ -331,11 +565,24 @@
           "type": "mcq",
           "answer": "B",
           "options": [
-            { "id": "A", "text": "1" },
-            { "id": "B", "text": "2" },
-            { "id": "C", "text": "3" },
-            { "id": "D", "text": "4" }
-          ]
+            {
+              "id": "A",
+              "text": "1"
+            },
+            {
+              "id": "B",
+              "text": "2"
+            },
+            {
+              "id": "C",
+              "text": "3"
+            },
+            {
+              "id": "D",
+              "text": "4"
+            }
+          ],
+          "image": "/papers/wbi12-may-2019/q7-7a_i.png"
         },
         {
           "id": "7a_ii",
@@ -343,7 +590,15 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Mitochondria carry out aerobic respiration / produce ATP / provide energy for contraction of proteins in flagellum / enable swimming movement.",
-          "keywords": ["ATP", "respiration", "energy", "flagellum", "movement", "contract"]
+          "keywords": [
+            "ATP",
+            "respiration",
+            "energy",
+            "flagellum",
+            "movement",
+            "contract"
+          ],
+          "image": "/papers/wbi12-may-2019/q7-7a_ii.png"
         },
         {
           "id": "7a_iii",
@@ -351,16 +606,30 @@
           "marks": 2,
           "type": "short_answer",
           "answer": "Measure image length of scale bar and divide by 60 μm / magnification = image size / actual size.",
-          "keywords": ["magnification", "image size", "actual", "60", "μm", "divide"]
+          "keywords": [
+            "magnification",
+            "image size",
+            "actual",
+            "60",
+            "μm",
+            "divide"
+          ],
+          "image": "/papers/wbi12-may-2019/q7-7a_iii.png"
         },
         {
           "id": "7b",
           "text": "The photograph shows a Chinese hamster. A female Chinese hamster mates with many males in a short period of time. The diagram shows the relative size of a Chinese hamster sperm cell compared with a human sperm cell. Suggest why the Chinese hamster sperm cell has such a long flagellum.",
           "marks": 3,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q7-hamster-sperm-comparison.PNG",
+          "image": "/papers/wbi12-may-2019/q7-7b.png",
           "answer": "Longer flagellum produces greater propulsion / swim faster / need to outcompete sperm from other males / increased chance of fertilisation / sperm competition / reach egg first.",
-          "keywords": ["faster", "propulsion", "sperm competition", "fertilisation", "outcompete"]
+          "keywords": [
+            "faster",
+            "propulsion",
+            "sperm competition",
+            "fertilisation",
+            "outcompete"
+          ]
         },
         {
           "id": "7c",
@@ -368,7 +637,14 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "After sperm enters egg, cortical granules release enzymes / zona pellucida hardens / changes structure / prevents entry of more sperm / prevents polyspermy / ensures correct chromosome number.",
-          "keywords": ["cortical granules", "zona pellucida", "hardens", "polyspermy", "enzymes"]
+          "keywords": [
+            "cortical granules",
+            "zona pellucida",
+            "hardens",
+            "polyspermy",
+            "enzymes"
+          ],
+          "image": "/papers/wbi12-may-2019/q7-7c.png"
         },
         {
           "id": "7d",
@@ -376,7 +652,15 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "Different genes switched on or off / differential gene expression / epigenetic changes / methylation of DNA / cells specialise / lose ability to form all cell types / can only form embryo tissues not extra-embryonic membranes.",
-          "keywords": ["gene expression", "switch", "differentiate", "epigenetic", "methylation", "specialise"]
+          "keywords": [
+            "gene expression",
+            "switch",
+            "differentiate",
+            "epigenetic",
+            "methylation",
+            "specialise"
+          ],
+          "image": "/papers/wbi12-may-2019/q7-7d.png"
         }
       ]
     },
@@ -386,7 +670,7 @@
       "type": "structured",
       "totalMarks": 13,
       "question": "Beavers were hunted to extinction in Scotland in the 16th century. In mainland Europe, populations of beavers have become isolated from each other. In 2009, 11 beavers were reintroduced to Scotland from Norway. Beavers are adapted to live on land and in water. They can cut down trees. They gnaw branches from trees, which they use to build dams. The photograph shows two beavers and a pond that has been created due to a beaver dam.",
-      "image": "/papers/wbi12-jun2019/q8-beavers-photo.PNG",
+      "image": "/papers/wbi12-may-2019/page-29.png",
       "parts": [
         {
           "id": "8a",
@@ -394,16 +678,34 @@
           "marks": 4,
           "type": "short_answer",
           "answer": "Beavers build dams creating ponds and wetlands / new aquatic habitats / increased species richness / more niches / dead wood provides food and habitat / changes water flow creating diverse vegetation / benefits invertebrates, fish, birds, amphibians, plants.",
-          "keywords": ["dams", "wetland", "pond", "habitat", "species", "richness", "niches"]
+          "keywords": [
+            "dams",
+            "wetland",
+            "pond",
+            "habitat",
+            "species",
+            "richness",
+            "niches"
+          ],
+          "image": "/papers/wbi12-may-2019/q8-8a.png"
         },
         {
           "id": "8b",
           "text": "Some scientists were concerned that the low numbers of beavers reintroduced into Scotland from Norway could affect the genetic diversity of the population in Scotland. The scientists proposed two solutions to this concern: to introduce more beavers from Norway; to introduce beavers from several different European locations. The map shows locations of European beavers before they were reintroduced to Scotland. Discuss the solutions proposed by these scientists to overcome the concern of introducing only 11 beavers into Scotland from Norway. Use the information in the map to support your answer.",
           "marks": 6,
           "type": "short_answer",
-          "image": "/papers/wbi12-jun2019/q8-europe-beaver-map.PNG",
+          "image": "/papers/wbi12-may-2019/q8-8b.png",
           "answer": "Introducing more from Norway: increases population size / reduces inbreeding / but limited gene pool as all from same source / may carry same genetic problems. Introducing from several European locations: map shows beavers spread across Europe / multiple isolated populations / increases genetic diversity / larger gene pool / more alleles / heterozygosity / reduces inbreeding depression / but may risk outbreeding depression / different local adaptations / disease transfer.",
-          "keywords": ["genetic diversity", "inbreeding", "gene pool", "alleles", "Norway", "Europe", "heterozygosity", "outbreeding"]
+          "keywords": [
+            "genetic diversity",
+            "inbreeding",
+            "gene pool",
+            "alleles",
+            "Norway",
+            "Europe",
+            "heterozygosity",
+            "outbreeding"
+          ]
         },
         {
           "id": "8c",
@@ -411,9 +713,55 @@
           "marks": 3,
           "type": "short_answer",
           "answer": "q² = 0.09 so q = 0.3. p = 1 − 0.3 = 0.7. p² = 0.49. Percentage = 49%.",
-          "keywords": ["0.09", "0.3", "0.7", "0.49", "49"]
+          "keywords": [
+            "0.09",
+            "0.3",
+            "0.7",
+            "0.49",
+            "49"
+          ],
+          "image": "/papers/wbi12-may-2019/q8-8c.png"
         }
       ]
     }
-  ]
+  ],
+  "assets": {
+    "basePath": "/papers/wbi12-may-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit2-2019-06-qp.pdf",
+    "pageImages": [
+      "/papers/wbi12-may-2019/page-01.png",
+      "/papers/wbi12-may-2019/page-02.png",
+      "/papers/wbi12-may-2019/page-03.png",
+      "/papers/wbi12-may-2019/page-04.png",
+      "/papers/wbi12-may-2019/page-05.png",
+      "/papers/wbi12-may-2019/page-06.png",
+      "/papers/wbi12-may-2019/page-07.png",
+      "/papers/wbi12-may-2019/page-08.png",
+      "/papers/wbi12-may-2019/page-09.png",
+      "/papers/wbi12-may-2019/page-10.png",
+      "/papers/wbi12-may-2019/page-11.png",
+      "/papers/wbi12-may-2019/page-12.png",
+      "/papers/wbi12-may-2019/page-13.png",
+      "/papers/wbi12-may-2019/page-14.png",
+      "/papers/wbi12-may-2019/page-15.png",
+      "/papers/wbi12-may-2019/page-16.png",
+      "/papers/wbi12-may-2019/page-17.png",
+      "/papers/wbi12-may-2019/page-18.png",
+      "/papers/wbi12-may-2019/page-19.png",
+      "/papers/wbi12-may-2019/page-20.png",
+      "/papers/wbi12-may-2019/page-21.png",
+      "/papers/wbi12-may-2019/page-22.png",
+      "/papers/wbi12-may-2019/page-23.png",
+      "/papers/wbi12-may-2019/page-24.png",
+      "/papers/wbi12-may-2019/page-25.png",
+      "/papers/wbi12-may-2019/page-26.png",
+      "/papers/wbi12-may-2019/page-27.png",
+      "/papers/wbi12-may-2019/page-28.png",
+      "/papers/wbi12-may-2019/page-29.png",
+      "/papers/wbi12-may-2019/page-30.png",
+      "/papers/wbi12-may-2019/page-31.png",
+      "/papers/wbi12-may-2019/page-32.png"
+    ]
+  },
+  "unit": "Unit 2"
 }

@@ -1,0 +1,658 @@
+{
+  "paperId": "physics-0625-2025-unit1-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit1-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/12",
+  "session": "February/March 2025",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student is asked to find the volume of a small irregularly shaped piece of rock. The student has the following apparatus available. 100 90 80 70 60 50 40 30 20 10 1002030405060708090100 measuring cylinder containing water rulerbalance Which apparatus must the student use to find the volume of the small piece of rock? A balance and ruler, B ruler only, C balance and measuring cylinder, D measuring cylinder only",
+      "text": "A student is asked to find the volume of a small irregularly shaped piece of rock. The student has the following apparatus available. 100 90 80 70 60 50 40 30 20 10 1002030405060708090100 measuring cylinder containing water rulerbalance Which apparatus must the student use to find the volume of the small piece of rock? A balance and ruler, B ruler only, C balance and measuring cylinder, D measuring cylinder only",
+      "options": [
+        "A balance and ruler",
+        "B ruler only",
+        "C balance and measuring cylinder",
+        "D measuring cylinder only"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A digital stop-clock measures time in minutes and seconds. The stop-clock reads 00:50 when it is started (i.e. 00 minutes 50 seconds). It reads 02:10 when it is stopped. What is the shortest possible time that has passed between starting and stopping the stop-clock? A 1 minute 06 seconds, B 1 minute 20 seconds, C 2 minutes 10 seconds, D 3 minutes 00 seconds 3",
+      "text": "A digital stop-clock measures time in minutes and seconds. The stop-clock reads 00:50 when it is started (i.e. 00 minutes 50 seconds). It reads 02:10 when it is stopped. What is the shortest possible time that has passed between starting and stopping the stop-clock? A 1 minute 06 seconds, B 1 minute 20 seconds, C 2 minutes 10 seconds, D 3 minutes 00 seconds 3",
+      "options": [
+        "A 1 minute 06 seconds",
+        "B 1 minute 20 seconds",
+        "C 2 minutes 10 seconds",
+        "D 3 minutes 00 seconds 3"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four students are instructed to find the time it takes for a ball bearing to fall through a vertical height of 1.0 m. Each student uses a different procedure. Which student follows the correct procedure? A The student measures the time taken for the ball to fall 1.0 m five times. He then adds the times taken together and divides by five., B The student measures the time taken for the ball to fall 1.0 m five times. He then multiplies the times taken together and divides by five., C The student measures the time taken for the ball to fall 2.0 m. He then divides the time taken by two., D The student measures the time taken for the ball to fall 2.0 m five times. He then adds the times taken together and divides by ten.",
+      "text": "Four students are instructed to find the time it takes for a ball bearing to fall through a vertical height of 1.0 m. Each student uses a different procedure. Which student follows the correct procedure? A The student measures the time taken for the ball to fall 1.0 m five times. He then adds the times taken together and divides by five., B The student measures the time taken for the ball to fall 1.0 m five times. He then multiplies the times taken together and divides by five., C The student measures the time taken for the ball to fall 2.0 m. He then divides the time taken by two., D The student measures the time taken for the ball to fall 2.0 m five times. He then adds the times taken together and divides by ten.",
+      "options": [
+        "A The student measures the time taken for the ball to fall 1.0 m five times. He then adds the times taken together and divides by five.",
+        "B The student measures the time taken for the ball to fall 1.0 m five times. He then multiplies the times taken together and divides by five.",
+        "C The student measures the time taken for the ball to fall 2.0 m. He then divides the time taken by two.",
+        "D The student measures the time taken for the ball to fall 2.0 m five times. He then adds the times taken together and divides by ten."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows the motion of a car for a 5-second period. speed time / s 0 0 35 Which row shows a time when the car is at rest and a time when it is moving at a constant speed? the car is at rest at the car is moving at a constant speed at A 0.0 s 2.0 s, B 0.0 s 4.0 s, C 4.0 s 0.0 s, D 4.0 s 2.0 s",
+      "text": "The graph shows the motion of a car for a 5-second period. speed time / s 0 0 35 Which row shows a time when the car is at rest and a time when it is moving at a constant speed? the car is at rest at the car is moving at a constant speed at A 0.0 s 2.0 s, B 0.0 s 4.0 s, C 4.0 s 0.0 s, D 4.0 s 2.0 s",
+      "options": [
+        "A 0.0 s 2.0 s",
+        "B 0.0 s 4.0 s",
+        "C 4.0 s 0.0 s",
+        "D 4.0 s 2.0 s"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which property of an object is a gravitational force acting on its mass? A density, B surface area, C volume, D weight 4",
+      "text": "Which property of an object is a gravitational force acting on its mass? A density, B surface area, C volume, D weight 4",
+      "options": [
+        "A density",
+        "B surface area",
+        "C volume",
+        "D weight 4"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A stone has a weight of 5.7 N. The gravitational field strength g is 9.8 N / kg. What is the mass of the stone? A 0.58 kg B 5.7 kg C 56 kg D 550 kg",
+      "text": "A stone has a weight of 5.7 N. The gravitational field strength g is 9.8 N / kg. What is the mass of the stone? A 0.58 kg B 5.7 kg C 56 kg D 550 kg",
+      "options": [
+        "A 0.58 kg B 5.7 kg C 56 kg D 550 kg"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which equation is correct? A mass = force onaccelerati, B mass = density  volume, C mass = impulse force, D mass = 2 velocity energykinetic",
+      "text": "Which equation is correct? A mass = force onaccelerati, B mass = density  volume, C mass = impulse force, D mass = 2 velocity energykinetic",
+      "options": [
+        "A mass = force onaccelerati",
+        "B mass = density  volume",
+        "C mass = impulse force",
+        "D mass = 2 velocity energykinetic"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is meant by the moment of a force? A the magnitude of the force, B the work done by the force, C the time for which the force acts, D the turning effect of the force",
+      "text": "What is meant by the moment of a force? A the magnitude of the force, B the work done by the force, C the time for which the force acts, D the turning effect of the force",
+      "options": [
+        "A the magnitude of the force",
+        "B the work done by the force",
+        "C the time for which the force acts",
+        "D the turning effect of the force"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mass of 20 kg is held stationary by a rope passing over a frictionless pulley.",
+      "text": "A mass of 20 kg is held stationary by a rope passing over a frictionless pulley.",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 14",
+      "text": "Question 14",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 18",
+      "text": "Question 18",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "kg T pulley wheel What is the force T in the rope? A 10 kg B 20 kg C   100 N D   200 N 10  Which equation relates the work done W on an object by a force F when it moves a distance d ?, A d = WF B d = W F, C F = W d, D F = d W 5 11  A boy produces an average useful power output of 60 W as he rides his bicycle for 2.0 minutes. How much useful energy does he transfer?, A 0.50 J B 30 J C   120 J D   7200 J 12  The diagram shows a solid block resting on a bench. The dimensions of the block are shown. bench 80 cm 20 cm 40 cm P Q R On which labelled surface should the block rest to produce the smallest pressure on the bench?, A P, B Q, C R, D P, Q and R produce the same pressure 13  A skier is standing still on a flat area of snow. skis The total weight of the skier is 550 N. The total area of his skis in contact with the ground is 0.015 m 2 . What is the pressure exerted on the ground by the skier?, A 0.83 N / m 2, B 8.3 N / m 2, C 3700 N / m 2, D 37 000 N / m 2 6 14  A force acts on an area to produce a pressure. Which changes produce the same pressure?, A doubling the area and doubling the force, B doubling the area and halving the force, C doubling the area and making the force four times bigger, D halving the area and doubling the force 15  The diagram shows a cylinder containing oxygen under high pressure. The temperature of the cylinder and the oxygen decreases. Which statement describes what happens to the pressure in the cylinder and gives the reason why the pressure changes?, A The pressure decreases because the oxygen particles move faster., B The pressure decreases because the oxygen particles move more slowly., C The pressure increases because the oxygen particles move faster., D The pressure increases because the oxygen particles move more slowly. 16  Which statement describes what happens during solidification?, A Particles begin to move around each other easily., B Particles stop moving around each other., C The temperature of the particles continues to decrease during solidification., D The temperature of the particles continues to increase during solidification. 7 17  Solids expand the ......1...... and the average separation between molecules is the ......2...... . Which words complete the sentence about the expansion of solids when they are heated, relative to liquids and gases? 1    2, A least greatest, B least smallest, C most greatest, D most smallest 18  A girl blows some air into a party balloon and ties a knot to seal the air in the balloon. The girl holds the sealed balloon above a hot convector heater. She observes that the volume of the balloon increases significantly. Which statement identifies the cause of this increase in volume?, A The air in the balloon contracts., B The air in the balloon expands., C The material of the balloon contracts., D The material of the balloon expands. 8 19  The graph shows what happens to the density of a substance as its temperature changes over time. density time 0 0 t 1 t 2 Which term describes the change of state taking place at time t 2 ?, A melting, B freezing, C condensation, D boiling 20  A candle is used to heat some water in a glass beaker. glass beaker candle water What is the main method of heat transfer through the glass and within the water? through the glass within the water, A conduction conduction, B conduction convection, C convection conduction, D convection convection 9",
+      "text": "kg T pulley wheel What is the force T in the rope? A 10 kg B 20 kg C   100 N D   200 N 10  Which equation relates the work done W on an object by a force F when it moves a distance d ?, A d = WF B d = W F, C F = W d, D F = d W 5 11  A boy produces an average useful power output of 60 W as he rides his bicycle for 2.0 minutes. How much useful energy does he transfer?, A 0.50 J B 30 J C   120 J D   7200 J 12  The diagram shows a solid block resting on a bench. The dimensions of the block are shown. bench 80 cm 20 cm 40 cm P Q R On which labelled surface should the block rest to produce the smallest pressure on the bench?, A P, B Q, C R, D P, Q and R produce the same pressure 13  A skier is standing still on a flat area of snow. skis The total weight of the skier is 550 N. The total area of his skis in contact with the ground is 0.015 m 2 . What is the pressure exerted on the ground by the skier?, A 0.83 N / m 2, B 8.3 N / m 2, C 3700 N / m 2, D 37 000 N / m 2 6 14  A force acts on an area to produce a pressure. Which changes produce the same pressure?, A doubling the area and doubling the force, B doubling the area and halving the force, C doubling the area and making the force four times bigger, D halving the area and doubling the force 15  The diagram shows a cylinder containing oxygen under high pressure. The temperature of the cylinder and the oxygen decreases. Which statement describes what happens to the pressure in the cylinder and gives the reason why the pressure changes?, A The pressure decreases because the oxygen particles move faster., B The pressure decreases because the oxygen particles move more slowly., C The pressure increases because the oxygen particles move faster., D The pressure increases because the oxygen particles move more slowly. 16  Which statement describes what happens during solidification?, A Particles begin to move around each other easily., B Particles stop moving around each other., C The temperature of the particles continues to decrease during solidification., D The temperature of the particles continues to increase during solidification. 7 17  Solids expand the ......1...... and the average separation between molecules is the ......2...... . Which words complete the sentence about the expansion of solids when they are heated, relative to liquids and gases? 1    2, A least greatest, B least smallest, C most greatest, D most smallest 18  A girl blows some air into a party balloon and ties a knot to seal the air in the balloon. The girl holds the sealed balloon above a hot convector heater. She observes that the volume of the balloon increases significantly. Which statement identifies the cause of this increase in volume?, A The air in the balloon contracts., B The air in the balloon expands., C The material of the balloon contracts., D The material of the balloon expands. 8 19  The graph shows what happens to the density of a substance as its temperature changes over time. density time 0 0 t 1 t 2 Which term describes the change of state taking place at time t 2 ?, A melting, B freezing, C condensation, D boiling 20  A candle is used to heat some water in a glass beaker. glass beaker candle water What is the main method of heat transfer through the glass and within the water? through the glass within the water, A conduction conduction, B conduction convection, C convection conduction, D convection convection 9",
+      "options": [
+        "A 10 kg B 20 kg C   100 N D   200 N 10  Which equation relates the work done W on an object by a force F when it moves a distance d ?",
+        "A d = WF B d = W F",
+        "C F = W d",
+        "D F = d W 5 11  A boy produces an average useful power output of 60 W as he rides his bicycle for 2.0 minutes. How much useful energy does he transfer?",
+        "A 0.50 J B 30 J C   120 J D   7200 J 12  The diagram shows a solid block resting on a bench. The dimensions of the block are shown. bench 80 cm 20 cm 40 cm P Q R On which labelled surface should the block rest to produce the smallest pressure on the bench?",
+        "A P",
+        "B Q",
+        "C R",
+        "D P, Q and R produce the same pressure 13  A skier is standing still on a flat area of snow. skis The total weight of the skier is 550 N. The total area of his skis in contact with the ground is 0.015 m 2 . What is the pressure exerted on the ground by the skier?",
+        "A 0.83 N / m 2",
+        "B 8.3 N / m 2",
+        "C 3700 N / m 2",
+        "D 37 000 N / m 2 6 14  A force acts on an area to produce a pressure. Which changes produce the same pressure?",
+        "A doubling the area and doubling the force",
+        "B doubling the area and halving the force",
+        "C doubling the area and making the force four times bigger",
+        "D halving the area and doubling the force 15  The diagram shows a cylinder containing oxygen under high pressure. The temperature of the cylinder and the oxygen decreases. Which statement describes what happens to the pressure in the cylinder and gives the reason why the pressure changes?",
+        "A The pressure decreases because the oxygen particles move faster.",
+        "B The pressure decreases because the oxygen particles move more slowly.",
+        "C The pressure increases because the oxygen particles move faster.",
+        "D The pressure increases because the oxygen particles move more slowly. 16  Which statement describes what happens during solidification?",
+        "A Particles begin to move around each other easily.",
+        "B Particles stop moving around each other.",
+        "C The temperature of the particles continues to decrease during solidification.",
+        "D The temperature of the particles continues to increase during solidification. 7 17  Solids expand the ......1...... and the average separation between molecules is the ......2...... . Which words complete the sentence about the expansion of solids when they are heated, relative to liquids and gases? 1    2",
+        "A least greatest",
+        "B least smallest",
+        "C most greatest",
+        "D most smallest 18  A girl blows some air into a party balloon and ties a knot to seal the air in the balloon. The girl holds the sealed balloon above a hot convector heater. She observes that the volume of the balloon increases significantly. Which statement identifies the cause of this increase in volume?",
+        "A The air in the balloon contracts.",
+        "B The air in the balloon expands.",
+        "C The material of the balloon contracts.",
+        "D The material of the balloon expands. 8 19  The graph shows what happens to the density of a substance as its temperature changes over time. density time 0 0 t 1 t 2 Which term describes the change of state taking place at time t 2 ?",
+        "A melting",
+        "B freezing",
+        "C condensation",
+        "D boiling 20  A candle is used to heat some water in a glass beaker. glass beaker candle water What is the main method of heat transfer through the glass and within the water? through the glass within the water",
+        "A conduction conduction",
+        "B conduction convection",
+        "C convection conduction",
+        "D convection convection 9"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which equation enables the speed of a wave to be calculated? A speed = amplitude  frequency, B speed = amplitude  wavelength, C speed = frequency  wavelength, D speed = wavelength frequency",
+      "text": "Which equation enables the speed of a wave to be calculated? A speed = amplitude  frequency, B speed = amplitude  wavelength, C speed = frequency  wavelength, D speed = wavelength frequency",
+      "options": [
+        "A speed = amplitude  frequency",
+        "B speed = amplitude  wavelength",
+        "C speed = frequency  wavelength",
+        "D speed = wavelength frequency"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ray of light is incident on the surface of a plane mirror, as shown. In which position is the reflected ray? ray of light 30°30° 30° 60° plane mirror A B D C",
+      "text": "A ray of light is incident on the surface of a plane mirror, as shown. In which position is the reflected ray? ray of light 30°30° 30° 60° plane mirror A B D C",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a ray of light passing from glass to air. The dotted line labelled ‘normal’ is a line drawn perpendicular to the surface of the glass. What is the angle of refraction? A B C D air glass normal 10",
+      "text": "The diagram shows a ray of light passing from glass to air. The dotted line labelled ‘normal’ is a line drawn perpendicular to the surface of the glass. What is the angle of refraction? A B C D air glass normal 10",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows how a converging lens forms an image of an object. object image Which description of the image formed by the lens is correct? A real, inverted and diminished, B real, upright and enlarged, C virtual, inverted and diminished, D virtual, upright and enlarged",
+      "text": "The diagram shows how a converging lens forms an image of an object. object image Which description of the image formed by the lens is correct? A real, inverted and diminished, B real, upright and enlarged, C virtual, inverted and diminished, D virtual, upright and enlarged",
+      "options": [
+        "A real, inverted and diminished",
+        "B real, upright and enlarged",
+        "C virtual, inverted and diminished",
+        "D virtual, upright and enlarged"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes the image viewed in a plane mirror? type of image image size A real enlarged, B real same size, C virtual enlarged, D virtual same size",
+      "text": "Which row describes the image viewed in a plane mirror? type of image image size A real enlarged, B real same size, C virtual enlarged, D virtual same size",
+      "options": [
+        "A real enlarged",
+        "B real same size",
+        "C virtual enlarged",
+        "D virtual same size"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table gives the range of frequencies of three types of electromagnetic radiation. type of radiation range of frequencies / Hz radio 3  10 4 to 3  10 9 visible light 4  10 14 to 8  10 14 X-rays 3  10 16 to 3  10 19 Which type of electromagnetic radiation has a frequency of 4  10 15 Hz? A gamma radiation, B infrared radiation, C microwave radiation, D ultraviolet radiation 11",
+      "text": "The table gives the range of frequencies of three types of electromagnetic radiation. type of radiation range of frequencies / Hz radio 3  10 4 to 3  10 9 visible light 4  10 14 to 8  10 14 X-rays 3  10 16 to 3  10 19 Which type of electromagnetic radiation has a frequency of 4  10 15 Hz? A gamma radiation, B infrared radiation, C microwave radiation, D ultraviolet radiation 11",
+      "options": [
+        "A gamma radiation",
+        "B infrared radiation",
+        "C microwave radiation",
+        "D ultraviolet radiation 11"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An athlete hears a starting pistol fire 1.5 seconds after she sees a puff of smoke from the pistol. The sound and the smoke are made at the same time. The starting pistol is 450 metres away from the athlete. What is the speed of sound calculated from this observation? A 150 m / s B   300 m / s C   330 m / s D   675 m / s",
+      "text": "An athlete hears a starting pistol fire 1.5 seconds after she sees a puff of smoke from the pistol. The sound and the smoke are made at the same time. The starting pistol is 450 metres away from the athlete. What is the speed of sound calculated from this observation? A 150 m / s B   300 m / s C   330 m / s D   675 m / s",
+      "options": [
+        "A 150 m / s B   300 m / s C   330 m / s D   675 m / s"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plotting compass is placed close to the pole of a magnet with poles marked X and Y. The N pole of the plotting compass points to pole X, as shown. XY Pole Y of the magnet is then placed close to another magnet with poles marked P and Q, as shown. The magnets repel each other. XYP magnets repel Q Which row is correct? pole X pole P A N N, B N S, C S N, D S S",
+      "text": "A plotting compass is placed close to the pole of a magnet with poles marked X and Y. The N pole of the plotting compass points to pole X, as shown. XY Pole Y of the magnet is then placed close to another magnet with poles marked P and Q, as shown. The magnets repel each other. XYP magnets repel Q Which row is correct? pole X pole P A N N, B N S, C S N, D S S",
+      "options": [
+        "A N N",
+        "B N S",
+        "C S N",
+        "D S S"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why are electrical cables often made from copper? A Copper contains free electrons and is a good conductor., B Copper contains free electrons and is a good insulator., C Copper contains free protons and is a good conductor., D Copper contains free protons and is a good insulator.",
+      "text": "Why are electrical cables often made from copper? A Copper contains free electrons and is a good conductor., B Copper contains free electrons and is a good insulator., C Copper contains free protons and is a good conductor., D Copper contains free protons and is a good insulator.",
+      "options": [
+        "A Copper contains free electrons and is a good conductor.",
+        "B Copper contains free electrons and is a good insulator.",
+        "C Copper contains free protons and is a good conductor.",
+        "D Copper contains free protons and is a good insulator."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current I in a resistor. The potential difference (p.d.) across the resistor is V. What does the product IV represent? A the charge flowing through the resistor, B the energy transferred by the resistor, C the power dissipated by the resistor, D the resistance of the resistor 12",
+      "text": "There is a current I in a resistor. The potential difference (p.d.) across the resistor is V. What does the product IV represent? A the charge flowing through the resistor, B the energy transferred by the resistor, C the power dissipated by the resistor, D the resistance of the resistor 12",
+      "options": [
+        "A the charge flowing through the resistor",
+        "B the energy transferred by the resistor",
+        "C the power dissipated by the resistor",
+        "D the resistance of the resistor 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which circuit contains a thermistor and a heater? AB CD",
+      "text": "Which circuit contains a thermistor and a heater? AB CD",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four 2.0 V cells are connected together in series to make a battery, as shown. What is the combined electromotive force (e.m.f.) of the battery? A 0.50 V B 2.0 V C 6.0 V D 8.0 V",
+      "text": "Four 2.0 V cells are connected together in series to make a battery, as shown. What is the combined electromotive force (e.m.f.) of the battery? A 0.50 V B 2.0 V C 6.0 V D 8.0 V",
+      "options": [
+        "A 0.50 V B 2.0 V C 6.0 V D 8.0 V"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An isolated metal sphere is positively charged. It is then brought near to another isolated metal sphere that is neutral. + + + + + + + + + + + + neutral metal sphere positively charged metal sphere left right What happens to the charges on the neutral sphere as the positively charged sphere is brought close to it? A Some positive charges move to the left and some negative charges move to the right., B Some positive charges move to the right and some negative charges move to the left., C Some positive charges move to the right, but the negative charges do not move., D The positive charges do not move, but some negative charges move to the left. 13",
+      "text": "An isolated metal sphere is positively charged. It is then brought near to another isolated metal sphere that is neutral. + + + + + + + + + + + + neutral metal sphere positively charged metal sphere left right What happens to the charges on the neutral sphere as the positively charged sphere is brought close to it? A Some positive charges move to the left and some negative charges move to the right., B Some positive charges move to the right and some negative charges move to the left., C Some positive charges move to the right, but the negative charges do not move., D The positive charges do not move, but some negative charges move to the left. 13",
+      "options": [
+        "A Some positive charges move to the left and some negative charges move to the right.",
+        "B Some positive charges move to the right and some negative charges move to the left.",
+        "C Some positive charges move to the right, but the negative charges do not move.",
+        "D The positive charges do not move, but some negative charges move to the left. 13"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The potential difference (p.d.) across a car headlamp is 12 V. The current in the lamp is 2.5 A. How much energy is transferred by the lamp in 1.0 hour? A 1800 J B   1800 W C   108 000 J D   108 000 W",
+      "text": "The potential difference (p.d.) across a car headlamp is 12 V. The current in the lamp is 2.5 A. How much energy is transferred by the lamp in 1.0 hour? A 1800 J B   1800 W C   108 000 J D   108 000 W",
+      "options": [
+        "A 1800 J B   1800 W C   108 000 J D   108 000 W"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A copper wire rests in a uniform magnetic field. Which change causes an induced electromotive force (e.m.f.) in the wire? A connecting the wire to a power supply, B connecting the wire to earth, C heating the wire, D moving the wire",
+      "text": "A copper wire rests in a uniform magnetic field. Which change causes an induced electromotive force (e.m.f.) in the wire? A connecting the wire to a power supply, B connecting the wire to earth, C heating the wire, D moving the wire",
+      "options": [
+        "A connecting the wire to a power supply",
+        "B connecting the wire to earth",
+        "C heating the wire",
+        "D moving the wire"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An element has two isotopes. Which row compares the nucleus of one atom of each isotope? the charge on each nucleus the mass of each nucleus A different different, B different the same, C the same different, D the same the same",
+      "text": "An element has two isotopes. Which row compares the nucleus of one atom of each isotope? the charge on each nucleus the mass of each nucleus A different different, B different the same, C the same different, D the same the same",
+      "options": [
+        "A different different",
+        "B different the same",
+        "C the same different",
+        "D the same the same"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In a laboratory, a radiation detector is connected to a counter which shows a reading for the count rate due to background radiation. detector Which unit is count rate measured in? A counts / s, B minutes / count, C coulombs / minute, D amperes / s 14",
+      "text": "In a laboratory, a radiation detector is connected to a counter which shows a reading for the count rate due to background radiation. detector Which unit is count rate measured in? A counts / s, B minutes / count, C coulombs / minute, D amperes / s 14",
+      "options": [
+        "A counts / s",
+        "B minutes / count",
+        "C coulombs / minute",
+        "D amperes / s 14"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about alpha, beta and gamma emissions is correct? A Alpha-particles are lighter than beta-particles., B Beta-particles are not deflected by magnetic fields., C Gamma rays are more penetrating than alpha-particles and beta-particles., D Gamma rays are more ionising than alpha-particles and beta-particles.",
+      "text": "Which statement about alpha, beta and gamma emissions is correct? A Alpha-particles are lighter than beta-particles., B Beta-particles are not deflected by magnetic fields., C Gamma rays are more penetrating than alpha-particles and beta-particles., D Gamma rays are more ionising than alpha-particles and beta-particles.",
+      "options": [
+        "A Alpha-particles are lighter than beta-particles.",
+        "B Beta-particles are not deflected by magnetic fields.",
+        "C Gamma rays are more penetrating than alpha-particles and beta-particles.",
+        "D Gamma rays are more ionising than alpha-particles and beta-particles."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "What is an effect of ionising nuclear radiation on living things? A cell mutation, B electric shock, C internal cooling of body cells, D broken bones",
+      "text": "What is an effect of ionising nuclear radiation on living things? A cell mutation, B electric shock, C internal cooling of body cells, D broken bones",
+      "options": [
+        "A cell mutation",
+        "B electric shock",
+        "C internal cooling of body cells",
+        "D broken bones"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the Earth orbiting the Sun. Sunposition 1 Which row identifies and explains the correct season in the northern hemisphere on the Earth in position 1? season explanation A summer the northern hemisphere tilts away from the Sun, B summer the northern hemisphere tilts towards the Sun, C winter the northern hemisphere tilts away from the Sun, D winter the northern hemisphere tilts towards the Sun 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "The diagram shows the Earth orbiting the Sun. Sunposition 1 Which row identifies and explains the correct season in the northern hemisphere on the Earth in position 1? season explanation A summer the northern hemisphere tilts away from the Sun, B summer the northern hemisphere tilts towards the Sun, C winter the northern hemisphere tilts away from the Sun, D winter the northern hemisphere tilts towards the Sun 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A summer the northern hemisphere tilts away from the Sun",
+        "B summer the northern hemisphere tilts towards the Sun",
+        "C winter the northern hemisphere tilts away from the Sun",
+        "D winter the northern hemisphere tilts towards the Sun 15 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit1-2025-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

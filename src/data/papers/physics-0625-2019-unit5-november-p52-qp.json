@@ -1,0 +1,71 @@
+{
+  "paperId": "physics-0625-2019-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-november-p52-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/52",
+  "session": "October/November 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "1 (a) • Place the screen a distance D = 80.0 cm from the illuminated object. • Place the lens between the object and the screen so that the lens is very close to the screen. • Move the lens slowly away from the screen until a clearly focused image is formed on the screen. (i) Measure, and record in Table 3.1, the distance u between the centre",
+      "text": "1 (a) • Place the screen a distance D = 80.0 cm from the illuminated object. • Place the lens between the object and the screen so that the lens is very close to the screen. • Move the lens slowly away from the screen until a clearly focused image is formed on the screen. (i) Measure, and record in Table 3.1, the distance u between the centre",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method indicated on graph",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct calculation of g to 2 or 3 significant figures 0625/52 October/November 2019 I to at least 2dp < 1 A with correct unit table: V values < 4 V V values increasing V values consistent to either 1 or 2 decimal places R correct one box ticked, matching results justification to match (i) value approximately halfway between 40 cm and 60 cm values correct R value 2 or 3 significant figures with unit 0625/52 October/November 2019 u = 55–65 (cm) v = 80 − u ( ± cm) correct calculation of f",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "u = 15–25 (cm) and v = 80 − u ( ± cm) u and v values in table all in cm to the nearest mm 2 or 3 significant figures darkened room / brighter lamp object and lens at same height (above bench) object and lens and screen perpendicular to the bench ruler on bench or clamped mark centre of lens on holder move lens slowly / back and forth (to obtain best image) D = 120(.0) (cm) f = 18.1 (cm) Statement matches results (expect NO) justification to include the explanation of within / beyond the limits of experimental accuracy 0625/52 October/November 2019 MP1 method diagram showing container, ice cubes, (thermometer and insulation) MP2 method ice (in container), measure time (for all the ice) to melt MP3 repeat with different insulators MP4 control variables (total) mass / volume of ice cubes MP5 control variables any one from: thickness / amount of insulation room temperature / other environmental condition size / shape / surface area of ice cubes initial temperature of ice cubes MP6 table table with headings of (named) insulator and time with correct units MP7 conclusion (use the table to) compare the insulator with the time taken for the ice to melt",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,163 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "February/March 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "e.g. JPEG",
+          "image": "/papers/computer_science-0478-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: • Image is made of pixels • Each pixel stores one colour • Image has a set number of pixels wide by pixels high • Each colour has a unique binary value // Each colour has a unique colour code • The colour/binary value of each pixel is stored in sequence • File contains metadata to identify how the file should be displayed • ... metadata can be the colour depth / resolution file size Any two from: • reduces the storage/memory space taken on email server // reduces the storage space taken on her friend's computer when downloaded • sending/receiving email accounts may have restricted file size for attachments • reduces the time taken to transmit/upload/download to destination • reduces amount of bandwidth needed to transmit/download • file will mean less data usage is taken (for mobile clients) 0478/12 February/March 2022 Any five from: • Parity can be set to odd or even • Sender and receiver agree on parity to use • Data/email/image is split into bytes // blocks of 7 bytes • Sender counts the number of 1s/0s in each group/byte • Each group/byte is assigned a parity bit to match the parity/odd/even • Receiving device/server re counts the number of 1s/0s in each group/byte • ... and compares to parity used/odd/even and if it does not match the parity, an error is reported/identified • (in block check) the location of the error(s) can be identified/estimated at the intersection 1 mark for identification Any three for corresponding description: • Checksum • Value is calculated from the data ... • ...using an algorithm // by example • Value is transmitted with the data • Value recalculated by receiver (using same algorithm) ... • ...if checksum values are different there is an error // reverse • Automatic Repeat request/reQuery (ARQ) • Uses acknowledgement and timeout • Sender starts a timer when data is transmitted • Receiver uses an error checking method to check whether the data has been received accurately • If no error detected a positive acknowledgeme",
+          "image": "/papers/computer_science-0478-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) Tick (3) to show which logic gates will give an output of 1 for the given inputs A and B. InputsANDORNANDNORXOR A = 1 B = 1 A = 0 B = 0 A = 1 B = 0 [3] (b) Draw the logic circuit for the given logic statement: X = (",
+      "text": "3 (a) Tick (3) to show which logic gates will give an output of 1 for the given inputs A and B. InputsANDORNANDNORXOR A = 1 B = 1 A = 0 B = 0 A = 1 B = 0 [3] (b) Draw the logic circuit for the given logic statement: X = (",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Tick (3) to show which logic gates will give an output of 1 for the given inputs A and B. InputsANDORNANDNORXOR A = 1 B = 1 A = 0 B = 0 A = 1 B = 0 [3] (b) Draw the logic circuit for the given logic statement: X = (",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per row Inputs AND OR NAND NOR XOR A = 1 B = 1   A = 0 B = 0   A = 1 B = 0   ",
+          "image": "/papers/computer_science-0478-2022/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark per gate • A XOR B • NOT C • (NOT C) OR B • A ND 0478/12 February/March 2022 1 mark for each completed statement An optical mouse shines a red light from a Light-Emitting Diode//LED underneath the mouse. The light reflects back from a surface through a lens in the mouse and is converted to a value. This value is transmitted to the computer. The computer then determines the direction and speed of the movement. When the user presses a key on a keyboard, the key pushes the switch on the circuit board. This completes a circuit . Signals are sent to the computer that uses the data to calculate which key was pressed. 1 mark each e.g. • touchscreen • touchpad • scanner • microphone",
+          "image": "/papers/computer_science-0478-2022/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any three from: • More visible pixels // higher resolution • Higher colour contrast (in ambient lighting) // more vivid colours • Colours are (often) more accurate • Image (usually) appears brighter (with same wattage) • Will be stationary so does not need the portability of DLP • Does not need the compactness of DLP • Cost of purchase (usually) less • Run quieter • Any surface can be used as a display • Uses less power • Produces less heat • Does not give the rainbow effect DLP often gives • Longer lasting lamps 0478/12 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for naming appropriate device • hard disk / HDD / magnetic • solid state drive / SSD / USB memory stick / flash drive 1 mark each for matching justification to max 3. e.g. HDD • Large capacity storage • ...for videos/films that have large file sizes / require large storage space • Longevity // Can be read from/written to large number of times • ... the copies will be accessible for a long time // device will not break if accessed regularly • ...may require large number of read/write to access fields • Relatively cheap per GB // cheaper than SSD per GB ... • ... there is a large capacity required therefor e overall may cost less than other devices • Device will not be moved regularly so no need for portability/durability SSD • Large capacity storage • ...for videos/films that have large file sizes / require large storage space • No moving parts • ...can be carried/moved to other locations with limited risk of damage • Fast access speed • ... videos are large files that will be stored/accessed in less time • Cost per GB is not significant (in comparison) • ...there is a large capacity required therefore overall cost will not be significantly more than others • Used as a copy of files to may not be accessed regularly • ... the limited number of read/write times/longevity is inconsequential • Uses less power // runs cooler • No latency // does not take time to start-up 0478/12 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each example, allow description or tags Structure e.g. • head • body • table • heading • subheading • paragraph • object position on the page // alignment • margins • borders (position/size) • padding Presentation e.g. • colour • font size • font style • border (style) 0478/12 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each bullet to max 2 for each Type of address Features URL • protocol • domain name • top level domain • file/folder name/address/directory/path • made up of letters, numbers and symbols IP IPv4: • 4 groups of numbers // 12 numbers • separated by full stops (.) • 0-255 in each group • 4 bytes long // 32 bits • Represented in denary IPv6: • 8 groups of numbers // 32 numbers • separated by colons (:) • 0-FFFF in each group • 16 bytes long // 128 bits • Consecutive groups of 0000 can be replaced with :: • Represented in hexadecimal MAC • First part is manufacturer ID • Second part is serial number • Each part has 3 pairs of numbers // Each part has 6 numbers // 6 pairs of 2-digits // consists of 12 numbers • ...between 00 and FF • ..separated by : • Each part is 3 bytes // Is 6 bytes long // Is 48 bits long • Represented using hexadecimal 0478/12 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for threat. 1 for impact. 1 for software. Do not award identical impacts twice but read whole answer and award if additional impact given. Allow the same software twice. e.g. Threat Impact on company Software Denial of service • Users cannot access the website • Loss of sales (of holidays) • Loss of reputation Proxy/firewall Virus/malware • Data on the server may be deleted/changed • Website may be deleted/changed • Server may be filled with data and crash Anti-virus Unauthorised access // hacker • Data could be deleted/stolen/changed Proxy/Firewall Any seven from: • (Motion) sensor sends signals to microprocessor • analogue signal is converted to digital • microprocessor compares signal to stored value ... • ...if it does not meet / meets the stored value (and if camera is not recording) the microprocessor sends signal (to camera) to start recording • ... if it does not meet / meets the stored value the microprocessor starts/resets the timer • When the timer reaches 2 minutes the microprocessor sends signal (to camera) to stop recording • Whole process is repeated continually/until turned of f 0478/12 February/March 2022 1 mark for when e.g. • Development // when writing the program // when debugging 1 mark for explanation to max 2 from: e.g. • ... easier to debug • ...stops when an error is detected • ...reports one error at a time • ...can correct errors in run-time // correct the line and then continue running from that point • ...can test one section without the rest of the code being completed 1 mark for when e.g. • After completion // For distribution // For final/repeated testing 1 mark each to max 2 from: e.g. After completion • It creates an executable file • ...than can be distributed without source code • ...so that other people cannot edit/view the code • ...so end users do not need translator software // so end users do not need to compile/interpret each time • ...so it is machine/platform independent (usually) In final testing • It creates an e",
+          "image": "/papers/computer_science-0478-2022/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any four from, max 2 from each: Freeware: • There is no cost to the user // free trial • No source code provided • ...cannot be modified • Can be redistributed (in same state) • Is subject to copyright Free software: • User has access to the source code • Can be modified (without restriction) • Can be redistributed (without restriction) • Can have a cost associated but does not have to • Is subject to copyright",
+          "image": "/papers/computer_science-0478-2022/q7-7b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

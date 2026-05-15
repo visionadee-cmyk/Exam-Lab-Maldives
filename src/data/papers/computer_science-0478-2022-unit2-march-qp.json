@@ -1,0 +1,115 @@
+{
+  "paperId": "computer_science-0478-2022-unit2-march-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit2-march-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "February/March 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Many correct answers, the names used must be meaningful. The names given are examples only. One mark per mark point, max three Constant name MaxNumberPlayers Value 4 Why constant used This number will not change whilst the program is running One mark per mark point, max three Variable name NumberOfPlayers Data type Integer/int Why variable used A value between 2 and 4 inclusive is input and stored at the start of the round",
+          "image": "/papers/computer_science-0478-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 using a FOR ... NEXT // REPEAT ... UNTIL // DO ... WHILE loop MP2 starting at 1/0 and finishing at 18/17 or 9/8 // 18/9 iterations MP3 setting the elements in the player scores arrays to zero MP4 ... for all four arrays // number of arrays for players in this round MP5 setting variables / array for total scores to 0 MP6 use of assignment / append statement(s) A ny programming statements included must be explained. 0478/22 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "THEN Player2[Hole] ← NumberStrokes Player2Total ← Player2Total + NumberStrokes OUTPUT \"Do you want to see number total of strokes played so far Y/N? \" INPUT SeeTotal IF SeeTotal = \"Y\" THEN OUTPUT \"Total number of strokes so far \", Player2Total ENDIF ENDIF IF Player = 3 THEN Player3[Hole] ← NumberStrokes Player3Total ← Player3Total + NumberStrokes OUTPUT \"Do you want to see number total of strokes played so far Y/N? \" INPUT SeeTotal IF SeeTotal = \"Y\" THEN OUTPUT \"Total number of strokes so far \", Player3Total ENDIF ENDIF IF Player = 4 THEN Player4[Hole] ← NumberStrokes Player4Total ← Player4Total + NumberStrokes OUTPUT \"Do you want to see number total of strokes played so far Y/N? \" INPUT SeeTotal IF SeeTotal = \"Y\" THEN OUTPUT \"Total number of strokes so far \", Player4Total ENDIF ENDIF NEXT Player NEXT Hole 0478/22 February/March 2022 One mark per mark point, max four MP1 Work/ Loop through all the total scores MP2 compare each total score using selection / IF statements // use an appropriate function MP3 select the score with the lowest value MP4 ... also select the player name for that score MP5 output the player name and either the difference between par and their score or their score MP6 compare the score with the lowest value with the value of par using selection / IF statements MP7 ... identify as “over par” if the value is greater than par or output “under par” if the value is less than par or output “par” if there is no difference A ny programming statements included must be explained. 0478/22 February/March 2022 Section B",
+          "image": "/papers/computer_science-0478-2022/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four • • AND Age < 12 • Count12to18 + 1 • CountOver18",
+          "image": "/papers/computer_science-0478-2022/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark suitable IF construct, one mark correct assignment statement, for example IF Age < 7 THEN CountUnder7 ← CountUnder7 + 1 ENDIF One mark suitable message, one mark correct use of countUnder7 variable, for example OUTPUT \"There are \", CountUnder7, \" students aged under 7.\" 0478/22 February/March 2022 One mark for each correct single line from the validation check, max four Validation check Description checks that the data input is between two values length check checks that the data input is an intege r check digit checks that the data input has three digits range check checks that the data has been input type check checks that the data input has the correct digits 0478/22 February/March 2022",
+          "image": "/papers/computer_science-0478-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark each for columns Number and OUTPUT Two marks for column C first four values (1) last three values (1) Two marks for column D first six values (1) last four values (1) Number C D OUTPUT 7 0 3 2 1 6 0 3 1 2 2 1 2 5 0 2 4 0 2 1 1 1 -1",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two • to count the factors / the numbers that go into (other than 1 or itself) of a number • to output the number of factors 0478/22 February/March 2022 One mark per mark point, max two • the value of D becomes zero • division by zero error • endless loop One mark per mark point, max two • after the decision box to test if the number is -1 • insert another decision box to test if the number is less than 4 / less than or equal to 3 • return to INPUT Number if true 5 Explanation One mark per mark point, max three • field, FlowerID, not required / should not be displayed • Type field not included and displayed • Fragrance field should not be displayed • Fragrance criteria should not be Y / should be N Field: Type Fragrance Style Colou r Table: FLOWER FLOWE R FLOWER FLOWER Sort: Show:     Criteria: = N or: query-by-example grid One mark per mark point, max three • One mark for changing Flower ID to Type • One mark for changing Criteria in Fragrance to N • One mark for changing Show in Fragrance to ",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit2-2022-03-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

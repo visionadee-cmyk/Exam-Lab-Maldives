@@ -1,0 +1,79 @@
+{
+  "paperId": "wph11-jan-2024-unit2-qp",
+  "pairedMarkSchemeId": "wph11-jan-2024-unit2-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH12/01",
+  "session": "January 2024",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16a",
+          "text": "Part 16a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of A = π푟 Use of 푅= 휌푙 퐴 l = 63 m Example calculation 퐴=π× ( 12×10 −3 m ) =1.13×10 −4 m 푙= 0.078 Ω×1.13×10 −4 m 1.4×10 −7 Ω m = 63.0 m (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q16-16a.png"
+        },
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푊=푉퐼푡 W = 1.3 × 10 J Or c Use of 퐼= 훥푄 훥푡 퐚퐧퐝 푉= 푊 푄 W = 1.3 × 10 J Or Use of 푃=푉퐼 퐚퐧퐝 푃= 푊 푡 W = 1.3 × 10 J Example calculation 푊=1.5×10 V× 1.2×10 A×70×10 −6 s=1.26×10 J (1) (1) (1) (1) (1) (1) the same but copper has a lower resistivity) (With the same p.d.) there is a greater current in the copper cable Since 퐼=푛푞푣퐴, it is not possible to say whether the student is correct Or Since 퐼=푛푞푣퐴, the student might be correct (1) (1) (1) Total for question 16 8 Number Mark these further wave (let)s interfere / superpose (and the resulting waves predict the shape) (1) (1) *17(b) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for indicative content. The following table shows how the marks should be awarded for structure and lines of reasoning. Indicative content IC1 Waves (from each gap) interfere / superpose IC2 At position A there is no path / phase difference IC3 So, there is constructive interference (leading to large amplitude oscillations) IC4 At position B, the phase difference varies with wavelength IC5 If there is an odd number of half wavelengths path difference, there is destructive interference leading to small oscillations Or If the waves are in antiphase there is destructive interference leading to small oscillations IC6 And if there is a whole number of wavelengths path difference there is constructive interference leading to large oscillations Or If the waves are in phase there is constructive interference leading to large oscillations IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained ",
+          "image": "/papers/wph11-jan-2024/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q16.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19a",
+          "text": "Part 19a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Substitution into ℎ푓=휙 Use of 1eV = 1.6 × 10 −19 J Threshold frequency = 4.5 × 10 Hz Example calculation 퐸=1.86 eV×1.6×10 −19 J eV −1 =2.98 × 10 −19 J 푓= 2.98 × 10 −19 J 6.63×10 −34 J s =4.49×10 Hz (1) (1) (1) (Initially) layer 1 absorbs photons with the greater frequency (of those emitted by the Sun) Photons reaching layer 2 have an energy greater than the work function (of layer 2) Or Photons reaching layer 2 have a frequency greater than the threshold frequency (of layer 2) One photon interacts with one electron so, the rate at which electrons are released remains the same (1) (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2024/q19-19a.png"
+        },
+        {
+          "id": "19c",
+          "text": "Part 19c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푅 T = 푅 + 푅 R T = 0.40 (Ω) Use of potential divider equation (to determine p.d. across resistor) Or Use of ε = I(R+r) (to determine current in resistor) Use of power equation to find power (dissipated in resistor) P = 5.2 (W) which is less than half of 13 (W) so the suggestion is correct Example calculation 푅 internal = 0.80 Ω + 0.8 Ω =0.40 Ω 푉= 5.0 V×4.0 Ω 4.0 Ω+0.4 Ω =4.55 V 퐼= 5.0 V 4.0 Ω+0.40 Ω =1.14 A P = 4.55 V × 1.14 A = 5.19 W (1) (1) (1) (1) (1) Total for question 19 13 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2024/q19-19c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2024/q19.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2024-unit2-2024-01-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

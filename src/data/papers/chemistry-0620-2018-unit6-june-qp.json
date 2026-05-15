@@ -1,0 +1,123 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "methyl orange / thymolphthalein / litmus / 18.9 cm overshot end point / more than 25 cm KOH in flask cm",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(wrong conclusion) nitric acid more concentrated / stronger smaller volume of acid needed",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "volume boxes completed correctly in seconds 0, 10, 15, 20, 40 time boxes completed correctly 27, 33, 45, 66, 201",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all points plotted correctly ( ± half a small square) smooth line graph value from graph with clear indication ÷ value from (c)(i) 0620/61 May/June 2018 more particles of thiosulfate (in a given volume) more chance of collision",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use a pipette / burette",
+          "image": "/papers/chemistry-0620-2018/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "times would be shorter idea of depth of solution is greater",
+          "image": "/papers/chemistry-0620-2018/q2-2f.png"
+        },
+        {
+          "id": "2g",
+          "text": "Part 2g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sketch curve roughly same shape and above original / H acid",
+          "image": "/papers/chemistry-0620-2018/q2-2g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "limewater milky / cloudy / white ppt. precipitate / clears / goes colourless / clears / goes colourless 0620/61 May/June 2018 4 any from one method: evaporation • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C / heat to > ° C • add KC l until no more dissolves / add excess KC l • stir • filter mixture (if heated to > ° C then need to cool and filter) • evaporate filtrate to dryness • weigh solid mass not used • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C • add KC l until no more dissolves • stir • weigh KC l not added • weigh KC l before adding any to water – only awarded if weighed mass not used after • difference in mass of KC l is mass dissolved mass undissolved • measured volume of water • using measuring cylinder / pipette / burette • heat to 40 ° C • stir • filter • weigh residue (do not award if residue washed) • add weighed (excess) KC l to water – only awarded if mass of residue measured • mass KC l dissolved = initial mass – final mass max 6",
+          "image": "/papers/chemistry-0620-2018/q3-3c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

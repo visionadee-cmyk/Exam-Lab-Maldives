@@ -1,0 +1,159 @@
+{
+  "paperId": "computer_science-0478-2022-unit2-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit2-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "May/June 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) Describe the data structures you could have used in Task 1. Your description should include types of data structure, names used for data structures, their uses and examples of sample data. ................................................................................................................................................... .............................................",
+      "text": "1 (a) Describe the data structures you could have used in Task 1. Your description should include types of data structure, names used for data structures, their uses and examples of sample data. ................................................................................................................................................... .............................................",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Describe the data structures you could have used in Task 1. Your description should include types of data structure, names used for data structures, their uses and examples of sample data. ................................................................................................................................................... .............................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max five Data Structure(s), max two MP1 arrays MP2 variable(s) / constant(s) Further description, max three MP3 name(s) one or more MP4 sample data for appropriate arrays or variables MP5 use(s) one or more Additional data structure description using the same data structure type, max one MP6 two or more full descriptions of the data structure including name, sample data and use For example: An array (1) named FirstName (1) to store the first names of the members (1) such as James (1). A variable (1) could also be used to enter whether or not they wish to volunteer. (5 marks) A variable (1) named FirstName (1) to input the first names of the members (1) such as James (1). A variable could also be used to enter whether or not they wish to volunteer, with sample data of ‘yes’ (1). (5 marks) Task 1 – becoming a member of Friends of Seaview Pier Set up a system to enable people to become members of Friends of Seaview Pier and for each new member enter:  their first name and last name  whether or not they wish to work as a volunteer – if they choose to volunteer, identify the area from: o the pier entrance gate o the gift shop o painting and decorating  the date of joining  whether or not they have paid the $75 fee. A ll of this information needs to be stored using suitable data structures. 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Explanation of how each was done. Code is allowed, but must be fully explained. One mark per mark point, max three MP1 add/use a (new) variable/array to total the membership fee money // total number of members who have paid MP2 initialise the totalling variable to 0 at the start of the program MP3 check whether the new member has paid the $75 fee using a conditional statement MP4 ...if they have paid, and the amount paid is being totalled, add 75 to the current running total of the membership fee total MP5 ...if they have paid, and the number of paid members is bei ng totalled, add 1 to the total number of members who have paid MP6 ...if they have paid, and the number of paid members is being totalled, multiply total by 75, to give total paid.",
+          "image": "/papers/computer_science-0478-2022/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any code must include a description of what it is for. One mark per mark point, max three Max two for just naming different appropriate validation checks MP1 apply a presence check // to ensure that data has been entered (to the question do you want to work as a volunteer?) MP2 apply a type check // to ensure that data has been entered of the correct data type e.g. integer if the response required is 1 or 0 MP3 checking the valid inputs would be either yes or no // apply a check to ensure that the data matches the expected input MP4 the valid inputs would be to choose in which area the new member wishes to volunteer e.g. a list of areas MP5 if input is not valid, an error message is output (and a new input is requested) MP6 if input is valid, the program continues 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "PlankName[ArrayIndex]  Name Message[ArrayIndex]  Message ArrayIndex  ArrayIndex + 1 OUTPUT \"The fee for this service is $200\" //some method of paying the fee or acknowledgement of the fee",
+          "image": "/papers/computer_science-0478-2022/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Explanation of how each was done. Code is allowed, but must be fully explained. One mark per mark point, max four MP1 a menu is provided/options are displayed so that the user can choose which of the lists they wish to see MP2 the user inputs a number/code as shown on the menu corresponding to their menu choice MP3 attempt to validate input MP4 ... if it does not match an option, give an error message and ask for re-input MP5 ... if it matches an option, a range of IF statements/conditional statements/CASE statement are/is used to compare the input with the available options MP6 ... output the chosen list e.g. using a loop to output the contents of the appropriate first and second name arrays corresponding to the user input MP7 identification of empty list and appropriate action Task 2 – using the membership data Extend the program in Task 1 so that a list of the first and last names of members can be output in any of the following categories:  Members who have chosen to work as volunteers.  Volunteers who would like to work at the pier entrance gate.  Volunteers who would like to work in the gift shop.  Volunteers who would like to help with painting and decorating tasks.  Members whose membership has expired (they have not re-joined this year).  Members who have not yet paid their $75 fee. 0478/21 May/June 2022 Section B Four marks for five correct rows Three marks for four correct rows Two marks for three correct rows One marks for two correct rows Description Data type Boolean Char Integer Real String a single character from the keyboard  multiple characters from the keyboard  only one of two possible values  only whole numbers  any numbe r  One mark per mark point, max four  Normal test data  Reason this is a valid email address (c ontaining the @ symbol) and should be accepted  Erroneous test data computerscienceisgreat  Reason this is just a string, and should be rejected (as an email address needs a single ’@’) 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q1-1e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max six MP1 input box MP2 correct check of Score MP3 assign Score to Pass correctly MP4 assign Score to Fail correctly MP5 increment both array counters MP6 correct check of number of scores IS Count = 60? END Yes No No Fail[FailCount]  Score FailCount  FailCount + 1 Pass[PassCount]  Score PassCount  PassCount + 1 Count  Count + 1 IS Score >= 50? Count  INPUT Score FailCount  START PassCount  Yes 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max four MP1 appropriate conditional loop structure MP2 correct identification of invalid input MP3 appropriate error message MP4 repeated input of score until correct WHILE Score < 0 OR Score > 100 (DO) OUTPUT \"Your entry must be between 0 and 100, inclusive, please try again \" INPUT Score ENDWHILE Or: REPEAT IF Score < 0 OR Score > 100 THEN OUTPUT \"Your entry must be between 0 and 100, inclusive, please try again \" INPUT Score ENDIF UNTIL Score >= 0 AND Score <= 100 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max five MP1 correct Counter and Limit columns MP2 correct Value column MP3 correct First column MP4 correct Last column MP5 correct OUTPUT Counter Value First Last Limit OUTPUT 0 0 8 1 66 2 606 6 6 606 3 6226 4 8448 5 642 6 2 6 747 7 7 747 7 77 8 121 1 1 121 0478/21 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max two  checks for / outputs 3-digit numbers  ... where the first and last digit are the same",
+          "image": "/papers/computer_science-0478-2022/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The primary key field must be unique/different for each record in the table",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point, max three  correct fields and table named correctly  correct sort and show box rows  correct search criteria Field: GameID GameName GamePrice NumberStock OnOrde r Table: GAMES GAMES GAMES GAMES GAMES Sort: A scending Show:      Criteria: =0 =\"Y\" or:",
+          "image": "/papers/computer_science-0478-2022/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit2-2022-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

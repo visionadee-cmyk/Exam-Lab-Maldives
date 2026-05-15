@@ -1,0 +1,95 @@
+{
+  "paperId": "chemistry-0620-2021-unit5-june-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2021-unit5-june-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "May/June 2021",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "results recorded for five experiments and all volumes in a given column recorded to a suitable precision and the same precision all volumes of dilute hydrochloric acid correct (16,14,12,10,6) volumes of gas decreases as table descended. volume of gas in experiment 5 is half the volume in expt 3",
+          "image": "/papers/chemistry-0620-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "suitable scale for y-axis plotting – all 5 correct scores 2, 4 correct scores 1 line drawn is a straight line of best fit working shown on graph correct reading from graph answer to (c)(i) ÷ gas escapes before bung is replaced / so that gas does not escape place one reagent in tube inside boiling tube / flask tip / shake tube to start reaction OR use a divided flask tip flask to start reaction",
+          "image": "/papers/chemistry-0620-2021/q1-1b.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "line drawn in below plotted line gas volume values are about half of values of plotted graph. For the expected results this would mean the lines diverge L to R 0620/52 May/June 2021 remains / no further change",
+          "image": "/papers/chemistry-0620-2021/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(pale) yellow precipitate",
+          "image": "/papers/chemistry-0620-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 3 from: • effervescence / bubbles / fizzing • glowing splint relights • brown • becomes warm / O / Ca 2+ iodide / I – / (dark) green dissolves / forms a solution which is a darke r / deep blue",
+          "image": "/papers/chemistry-0620-2021/q2-2c.png"
+        },
+        {
+          "id": "2j",
+          "text": "Part 2j",
+          "marks": 1,
+          "type": "structured",
+          "answer": "copper(( II )) / Cu 2+ sulfate/SO 2– 0620/52 May/June 2021 any 6 from: • weighed sample / stated mass (e.g. 5 g) / known mass of epsomite • in a crucible • heated (strongly using a Bunsen burner/spirit burner) • reweigh • heat again, reweigh, continue until mass stops changing • calculate mass of water lost by original mass – final mass • calculate percentage water by 100 × mass water / original mass",
+          "image": "/papers/chemistry-0620-2021/q2-2j.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2021-unit5-2021-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

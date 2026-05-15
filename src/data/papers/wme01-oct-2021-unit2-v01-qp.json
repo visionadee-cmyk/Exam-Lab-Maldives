@@ -1,0 +1,250 @@
+{
+  "paperId": "wme01-oct-2021-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-oct-2021-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "October 2021",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 18,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to give equation in m, u and v only, dimensionally correct, correct no. of terms, condone sign errors and consistent cancelled m’s or extra g’s A1 Correct equation A1 u; must be positive M1 Equation of motion (Allow F for friction at this stage) OR Impulse-momentum equation A1 Correct equation with F substituted M1 Use of suvat to obtain an equation in u and a only OR Use of impulse-momentum to obtain an equation in u and t only A1 Correct equation; equations must be consistent to earn both A marks. A1 Accept 0.33 or better Number Scheme Marks",
+          "image": "/papers/wme01-oct-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Opposite to its original direction, reversed, in opposite direction, direction QP, opposite direction to Q Direction changed is B0 DB1 (1) F = 4ma; OR - Ft = 4m (0 - 2u) 44mgmaμ= (their calculated a or unknown a) 44 (0 2 )mgtmuμ−=− M1 A1 0(2 )2 u ua g  =−   (their calculated a or an unknown a) OR 6(0 2 ) uu t g + = (their calculated t or an unknown t) M1A1 μ= correctly obtained A1 (6) (10) Notes for question 2",
+          "image": "/papers/wme01-oct-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 252 6 48 v = −×× M1 v = 7 ( m s − ) A1 (2)",
+          "image": "/papers/wme01-oct-2021/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find time to reach 13 ms - M1 Complete method to find distance travelled in reaching 13 ms - ft on their 2 if necessary DM1 Dependent on previous two M marks, Complete method to find the total time, ft on their 2 and 38 A1 Correct answer. Allow 2.8 or better",
+          "image": "/papers/wme01-oct-2021/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to find the time taken to reach 13 ms - once it starts decelerating M1 Complete method to find total distance travelled in reaching 13 ms - ft on their 2 if necessary DM1 Dependent on previous two M marks, Complete method to find the total time, ft on their 2 and 38 A1 Correct answer. Allow 2.6 or better Number Scheme Marks Allow column vectors throughout",
+          "image": "/papers/wme01-oct-2021/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "3 =−− r ij B1 tan or θ=±± M1 O or 198 O nearest degree A1 (3)",
+          "image": "/papers/wme01-oct-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "22 (3)(1 2 )2.5tt − +− = M1 4 8 30tt− += ( 5103.75 0tt−+ = ) DM1A1 t= or isw M (A)1 A1 (5) (8) Notes for question 4 M1 for any trig ratio of a relevant angle from their r (trig ratio could be implied by a relevant angle) (cosine could come from use of the scalar product of their r with j) A1 cao DM1, dependent on first M1, for simplifying to a 3 term quadratic or to a form from use of completing the square. A1 correct quadratic M(A)1 for t = 0.5 A1 for t =1.5 Number Scheme Marks",
+          "image": "/papers/wme01-oct-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct no. of terms, condone sin/cos confusion and sign errors, allow if they have T instead of 2.5 A1 Correct equation . Allow + F or − F A1 Need both magnitude (must be positive) and direction",
+          "image": "/papers/wme01-oct-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct terms, condone sin/cos confusion and sign errors errors allow if they have T instead of 6.125 (but M0 if using T = 2.5) A1 Correct equation M1 Correct terms, condone sin/cos confusion and sign error allow if they have T instead of 6.125 (but M0 if using T = 2.5) A1 Correct equation B1 FRμ = seen but B0 if they use a value for R found in (a) DM1 Dependent on both M’s A1 cao Number Scheme Marks",
+          "image": "/papers/wme01-oct-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 for complete method using suvat or the graph to produce an equation in u only, with correct number of terms, condone sign errors. A1 cao (must be positive)",
+          "image": "/papers/wme01-oct-2021/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Complete method to give a final displacement, condone sign errors within a suvat equation. A1ft Correct equation ft on their u A1 cao Number Scheme Marks 2sin2TmgFma α−−= M1A1 (ii) 33mg Tma−= M1A1 N.B. Ignore the labelling (i) and (ii) (4)",
+          "image": "/papers/wme01-oct-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "7 (a) Find the speed with which the ball is thrown. (2) (b) Find the height of A above the ground. (3) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ __________________________________________________________________",
+      "text": "7 (a) Find the speed with which the ball is thrown. (2) (b) Find the height of A above the ground. (3) ___________________________________________________________________________ ___________________________________________________________________________ ___________________________________________________________________________ __________________________________________________________________",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2cosRmgα = Allow if this appears in (a). M1A1 FR= B1 Substitute for trig. and solve for a, DM1 ag= A1 (5)",
+          "image": "/papers/wme01-oct-2021/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "DM1, dependent on the relevant 1 st or 2 nd M1 in (a), for attempt to find their T, must be of form km or kmg . Apply isw if they ‘cancel’ m’s. M1 for a correct expression in terms of T and α only; α does not need to be substituted DM1, dependent on previous M, for substituting in their T and for trig, to give an expression of form km or kmg A1 cao Number Scheme Marks Allow column vectors throughout.",
+          "image": "/papers/wme01-oct-2021/q7-7c.png"
+        },
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Tension is the same on either side of the pulley, tension across the pulley is the same. B1 B0 for tension is same for A and B or is the same for both strings etc (1) (14) Notes for question 7 N.B. If m’s are consistently missing, mark (a) and (b) as a MR A1 Correct equation M1 Correct no. of terms, condone sign errors A1 Correct equation N.B. Could have a replaced by (-a) in both A1 Correct equation B1 Seen, possibly on a diagram or in (a) DM1, dependent on the two M’s in (a), for solving 2 simultaneous equations or using a whole system equation to find a A1 cao",
+          "image": "/papers/wme01-oct-2021/q7-7d.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(46 ) ( 29 ) 0.6+ =−+ +ijijv oe M1 (1 05 )−ij ( km h − ) * N.B. 1 more line of intermediate working needed and must state the answer in i - j form to earn this mark. A1* (2)",
+          "image": "/papers/wme01-oct-2021/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( 29 )(1 05 ) t=−+ + −rijij (km) oe M1 A1 (2)",
+          "image": "/papers/wme01-oct-2021/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Correct unsimplified substitution of t = 1.8 into their r OR use t = 1.2 with (46 )+ij as start point A1 cao M1 Correct unsimplified substitution of t = 2 into their r OR use t = 1.4 with (46 ) +ij as start point OR use t = 0.2 and their first answer as start point A1 cao L A1 cao DM1 Dependent on previous M1, for substituting their value of t into their r A1 cao Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-oct-2021/q8-8c.png"
+        },
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 1019t−+ = M1 2.1t= A1 ( 29 ) 2.1(105 )=−+ + −rijij DM1 (191.5 )= − r ij (km) A1 (4) (12) Notes for question 8 A1* Given answer correctly obtained Allow verification. A1 cao",
+          "image": "/papers/wme01-oct-2021/q8-8d.png"
+        }
+      ],
+      "image": "/papers/wme01-oct-2021/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 18,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-oct-2021"
+  },
+  "unit": "Unit 2"
+}

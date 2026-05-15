@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2025-unit3-november-p33-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2025-unit3-november-p33-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/33",
+  "session": "October/November 2025",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12b",
+          "text": "Part 12b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point (Max 2) MP1 One mark for an example of an exception (see list in guidance) MP2 One mark for the reason for the given exception Example answer Division by zero The processor will not be able to evaluate this answer because a number divided by zero is infinity, so the program will crash. October/November 2025 Question Answer Marks Guidance 13 One mark per mark point (Max 7) MP1 LDM #250 seen MP2 Correct use of LDD 563 MP3 Correct use of ADD with labelled address X MP4 Correct use of SUB with address 899 MP5 At least one correct use of STO Opcode Operand LDM #250 STO X LDD 563 STO Y ADD X SUB 899 STO Total October/November 2025 Question Answer Marks Guidance 13 MP6 Correct setting up of at least one labelled address and its value MP7 Correct setting up of remaining two labelled addresses and their values Label Contents X: 250 Y: 125 Total: 312",
+          "image": "/papers/computer_science-9618-2025/q12-12b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2025/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2025-unit3-2025-11-31-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "wac11-may-2015-unit2-qp",
+  "pairedMarkSchemeId": "wac11-may-2015-unit2-ms",
+  "subjectId": "accounting_ial_pearson",
+  "code": "WAC02/01",
+  "session": "May 2015",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Prepare a Statement of Cash Flow for the year ended 31 March 2015 in accordance with International Accounting Standard (IAS) 7 Statement of Cash Flows (revised). (40) ............................................................................................................................................................................................................................",
+      "text": "1 (a) Prepare a Statement of Cash Flow for the year ended 31 March 2015 in accordance with International Accounting Standard (IAS) 7 Statement of Cash Flows (revised). (40) ............................................................................................................................................................................................................................",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Using the formula Gearing Ratio = Debt_____ x 100 Debt + equity Gearing ratio at 31 March 2014 = __( 320 000 + 1 000 000)√ x100 = 22.1% √ (4 973 000 + 1 000 000) √ Gearing ratio at 31 March 2015 = __( 320 000 + 1 500 000)__ √ x 100 = 29.2% √ (4 727 000 + 1 500 000) √ Other formulas were accepted. Strong points Gearing ratio still below 30% o/f √ and therefore low. √ Interest payments are easily covered √ by profits for the period. √ Perhaps the bank loan does not have assets offered as security √ (ie no charge on assets) which the debenture may have had. √ Share price may rise if shares redeemed √ Weak points Ratio has increased√ by 7.1% o/f points. √ which is a worsening/increased risk √ and increased interest payments √ Borrowing at 5.5% has been replaced √ by higher borrowing at 6%. √ Maybe the bank loan was the best interest rate available. √ Shares that were being given a nominal return of 3%, √ seem to be replaced by borrowing at 6%. √ What is the reason for this/ is there a reason? √ Shareholders equity holdings have been reduced √ Maximum of 8 marks for arguing one side. Conclusion (2 marks) Overall the gearing/financing position has worsened over the 12 months. 12 marks Total 52 Marks Q2 Mark Scheme (a) minutes per day one unit time days weeks staff Total Calctn of production (500√ /25√) x 5√ x 50√ x 25√ =125 000√ (6 marks) (b) Statement of Comprehensive Income Calcltn of revenue (2 400 x 50) √ x £6.5 √ =780 000 √ Marginal Absorption Revenue 780 000 780 000 Less Direct Materials (118 750) (118 750) √ Direct Labour (312 500) (312 500) √√√ (below) Semi-variable costs (70 000) (70 000) √√ Fixed Overheads (122 500) (122 500) √ (623 750) (623 750) Opening Inventory (16 800) (16 800) √ Closing Inventory 33 764 45 908 √ x7 (below) Profit 173 214 185 358 √ o/f + √ o/f Calculation of Labour Cost breakdown (25/60) √ x (£6.00 x 125 000) √ = £312 500 √ Calculation of Closing inventory Calculation of inventory quantity = (4 200 + 125 000 – 120 000) √ = £9 200 √ Marginal",
+          "image": "/papers/wac11-may-2015/q1-1b.png"
+        }
+      ],
+      "image": "/papers/wac11-may-2015/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wac11-may-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Accounting-WAC11/Accounting-WAC11-2015-unit2-2015-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

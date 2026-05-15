@@ -1,0 +1,63 @@
+{
+  "paperId": "wbi11-may-2019-unit3-qp",
+  "pairedMarkSchemeId": "wbi11-may-2019-unit3-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI13/01",
+  "session": "May 2019",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that includes all of the following in this order: (2) apple sweet potato potato bread cashew nut 2 marks all correct 1 mark if one mistake made e.g two foods reversed / one food out of place leaving the rest out of place but in correct sequence (2) Question number Additional guidance Mark A n explanation that includ es the following points:  apple (1)  because there was {more / most} reducing sugar (1)  therefore leaving least copper ions in the solution (1) Accept the most / more copper (ions) {have reacted with reducing sugar / been removed} (3) Question number Additional guidance Mark A n answer that includes four of the following points:  use {standard / known} {mass/volume} of sweet potato / use a standard volume of sweet potato extract / volume of extraction liquid (1)  carry out reducing sugar test (1)  {filter the solution / remove precipitat e} (after the test is carried out) (1)  {weigh the precipitate remaining in the filter paper / measure intensity of blue color in filtrate} (1)  convert this {mass / intensity} to a concentration of reducing sugar / compare colour of tube contents precipitate with a colour chart qualified (1) Accept size e.g. that has been devised using a range of concentrations of reducing sugars / in which the colours correspond to a range of concentrations of reducing sugars (4) Question number Additional guidance Mark An explanation that includes four of the following points:  for equilibration (1)  because mixing the solutions at different temperatures would make the temperature ≠ 40 °C (1)  (40 °C could be) optimum for urease (1)  (so if the mixture) {cooled down / warmed up} rate would change during experiment (1)  ensures only pH is varied (1) Accept when mixing the temperature stays at 40°C / constant (4) Question number A nswer A dditional guidance Mark An explanation that includ es the following points:  run the experiment with a range of different concentrations (1)  choose a combination in which th ",
+          "image": "/papers/wbi11-may-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " 0.36 a.u.min-1 (1) Accept answers in range of 0.3 to 0.4 a.u.min -1 Accept other values with corresponding appropriate units e.g. rate expressed per second 0.003 to 0.007 a.u.sec -1 (1) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Stra nd, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wbi11-may-2019/q3-3c.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit3-2019-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

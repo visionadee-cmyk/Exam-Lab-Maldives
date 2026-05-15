@@ -1,0 +1,43 @@
+{
+  "paperId": "wch11-oct-2023-unit3-qp",
+  "pairedMarkSchemeId": "wch11-oct-2023-unit3-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH13/01",
+  "session": "October 2023",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• calculation of moles of sodium carbonate • use of 2:1 ratio to gives moles of HCl in 22.65 cm • concentration of hydrochloric acid in mol dm −3 (1) (1) (1) Example of calculation mol Na CO = 25.0 × 0.105 ÷ 1000 = 2.625 × 10 −3 / 0.002625 2 × 2.625 × 10 −3 = 5.25 × 10 −3 5.25 × 10 −3 × 1000 ÷ 22.65 = 0.23179 / 2.3179 × 10 −1 (mol dm −3 ) The reacting volumes transposed gives the final concentration of hydrochloric acid = 0.19026 (mol dm −3 ). This scores (2) The same volume used twice will give the final concentration of hydrochloric acid = 0.2100 (mol dm −3 ). These score (2) TE at each stage Ignore SF except 1 SF Allow any correct method Correct answer with some working scores (3) (3) Expert (Total for Question 4 = 9 marks) (Total for Paper = 50 marks) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wch11-oct-2023/q4-4d.png"
+        }
+      ],
+      "image": "/papers/wch11-oct-2023/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-oct-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2023-unit3-2023-10-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

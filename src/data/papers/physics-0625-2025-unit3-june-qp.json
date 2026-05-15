@@ -1,0 +1,59 @@
+{
+  "paperId": "physics-0625-2025-unit3-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit3-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "May/June 2025",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "24 () A2 (combined resistance =) R1 + R2 OR 16 + 8(.0) C1",
+          "image": "/papers/physics-0625-2025/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(I =) 0.25 (A) A3 (I =) 2(.0) ÷ 8(.0) C2 V = IR in any form OR (I =) V ÷ R C1",
+          "image": "/papers/physics-0625-2025/q8-8b.png"
+        },
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "voltmeter correctly connected across 16  resistor A2 correct voltmeter symbol in wrong place OR incorrect meter connected across 16  resistor C1 May/June 2025 Question Answer Marks (current =) 9 ÷ 12 C2 power = IV OR (I =) P ÷ V C1 (cost =) 0.009(0)  24  50 OR 0.216  50 OR 0.009  1200 OR 0.45  24 C2 (cost =) (energy in) kW h  (number of) hours  cost (of one unit) C1 (Ns =) {12  3600} ÷ 240 OR (Ns =) 3600 ÷ 20 OR 240 ÷ 12 = 3600 ÷ Ns C2 Vs ÷ Vp = Ns ÷ Np C1 • idea of large current (in fuse or any part of circuit) • (large current causes) heating in fuse • idea that fuse is made from low melting point wire • fuse / (fuse) wire melts • (and) idea disconnects / isolates (router / wires / circuit) from supply / mains B3 May/June 2025 Question Answer Marks plutonium-241 OR Pu OR Pu-241 A2 (Am =) 241 − 95 OR 146 OR (Pu-239 =) 239 − 94 OR 145 OR (Pu-241 =) 241 − 94 OR 147 OR (U =) 238 − 92 OR 146 C1 72  ½  ½  ½ OR 72  {1÷8} C2 idea that 42 years = 3 half-lives C1 Question Answer Marks • redshift of light / redshift of (em) radiation (from distant / receding galaxies compared to light emitted on Earth) • an increase in the (observed) wavelength of light / em radiation (emitted from distant / receding galaxies) • the most / more distant galaxies have greater redshift than closer galaxies • more distant galaxies are moving away faster than closer galaxies B3",
+          "image": "/papers/physics-0625-2025/q8-8d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2025/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit3-2025-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

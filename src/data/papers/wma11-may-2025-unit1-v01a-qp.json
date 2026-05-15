@@ -1,0 +1,217 @@
+{
+  "paperId": "wma11-may-2025-unit1-v01a-qp",
+  "pairedMarkSchemeId": "wma11-may-2025-unit1-v01a-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WMA11/01A",
+  "session": "May 2025",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "2 (a) find an equation of the tangent to C at P, giving your answer in the form y = mx + c , where m and c are constants, (3) (b) find the value of k, (2) (c) find f (x) , writing the answer in simplest form. (5) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+      "text": "2 (a) find an equation of the tangent to C at P, giving your answer in the form y = mx + c , where m and c are constants, (3) (b) find the value of k, (2) (c) find f (x) , writing the answer in simplest form. (5) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) find an equation of the tangent to C at P, giving your answer in the form y = mx + c , where m and c are constants, (3) (b) find the value of k, (2) (c) find f (x) , writing the answer in simplest form. (5) _____________________________________________________________________________________ _____________________________________________________________________________________ ______",
+          "marks": 1,
+          "type": "structured",
+          "answer": "65 ab =+ , 3.3 8 ab =+ M1 A1 0.9, 10.5 ab = − = dM1 A1 (4) (b)(i) 10.5 m B1ft (ii) 0.9 10.5 0 0.9 10.5 ... t t t − + =  =  = M1 () 136 mint= A1 (3) (7 marks) Notes (a) M1: Sets up the two simultaneous equations, one of which must be correct. Allow if square roots are present for this mark e.g. 625ab=+ , 3.364ab=+ Condone e.g. ab =  + A1: Two correct equations with the square roots processed. May be implied. Allow e.g. ab =  + and 3.3 ab = + here. dM1: Solves their equations by any means including calculator to obtain values for a and b. A1: Correct values 0.9, 10.5 ab = − = or the equivalents e.g. , ab = − = only. If they solve e.g. ab =  + and 3.3 ab = + and offer extra values score A0. (b)(i) B1ft: 10.5 m oe e.g. m including the units, ft on their b provided b > 0 (b)(ii) M1: Solves their 0.9 10.5 0 ... tt − + =  = which must involve squaring, not square rooting. You may need to check but may be implied by e.g. t= (if a and b are correct) Note that if a and b are correct, square rooting rather than squaring leads to 3.41565... and scores M0 A1: Awrt 136 Units are not required but if any are given they must be correct. Condone “m” for “min” Apply isw if necessary e.g. score A1 for t = 136.1 = 137 to the nearest minute. Correct answer only of awrt 136 following a correct a and b scores M1A1 Number Scheme Marks",
+          "image": "/papers/wma11-may-2025/q2-2a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-05.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) f ( ) 3cos xx =− or ( ) f ( ) 3sin( 90 ) xx = −  M1 A1 (2) (b)(i) 8 B1 (ii) 5 B1 (2) (4 marks) Notes Check for answers given in the body of the question. (a) M1: () f ( )3cosxx= or ( ) ( ) f ( ) 3cos xx =  − or () f ( )3sin(90 )xx=   or equivalent e.g. ( ) f ( ) 3cos( 180 ) xx =    For this mark, their equation must be correct or be the equation of the given curve reflected in the x-axis. Brackets are required if needed e.g. ( ) f ( ) 3sin xx = −  scores M0 The “ f ( ) x = ” is not required. The degrees symbol is not required. Condone use of another variable for this mark e.g. θ. A1: ( ) f ( ) 3cos xx =− or ( ) f ( ) 3sin( 90 ) xx = −  or ( ) ( ) f ( ) 3cos xx = − − or equivalent. If correct, the equations are likely to be one of the above but there are an infinite number of possibilities e.g. ( ) ( ) ( ) f ( ) 3cos( 180 ), f ( ) 3cos( 180 ), f ( ) 3sin( 270 ) x x x x x x = −  = +  = − −  etc. The “ f ( ) x = ” is not required so ignore how they reference their expression. The degrees symbol is not required. Must be in terms of x not e.g. θ. Note that just ( ) f ( ) 3sin( 90 ) xx =   with no choice made scores M1A0 (b)(i) B1: 8 cao. Must be 8 not just a list of roots. (b)(ii) B1: 5 cao. Must be 5 not just a list of roots. Number Scheme Marks",
+          "image": "/papers/wma11-may-2025/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-07.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4i",
+          "text": "Part 4i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Uses a correct law of indices on k − or k − The possibilities are endless but some more common examples are: For k − : ( ) 2 , , , , k k k k k − − − −  For k − : ( ) ( ) ( ) 8 8 , , , , k k k k k − − − −  These may be seen in isolation e.g. not in an equation. But not just e.g. = M1 e.g. ( ) ( ) k k k k k k − − −− − − − =  =  = ( ) 3 3 1 ... k k k  − = − −  = dM1 k = A1 (3) Notes Part (i) can be solved using many different approaches. Please follow the general guidelines below and seek advice from your Team Leader if necessary. Note that it is acceptable to use logs within their solution as long as the first mark is scored but they should have a base that is a power of 2 (see note below*) (i) M1: This is effectively a B mark and is for applying a correct law of indices on k − or k − See scheme for some examples. Note that this may be implied by e.g. kk x x − = = dM1: For this mark they must • reach a value for k • reach an equation of a form so that the indices in terms of k can be compared e.g. ( ) ( ) ( ) ( ) fg fg kk kk  =  = or of the form () fk = where ( ) ( ) f and g kk are linear Note that the second bullet point may be implied by e.g. () () 243 3 1 k k kk − − = − = − − A1: Obtains k= from a correct equation of one of the forms above. Note that correct work leading to 8 2 k k =  = or e.g. log8 2 k== is acceptable. *But note that e.g. log 8 2 log 22 kk= = is not acceptable without justification and scores a maximum of M1dM1A0 Correct answers with no working in (i) score no marks. (ii) ( ) ( ) 3 4 3 2 3 4 3 1 x x x x + = −  + = − − − 3 2 34 4 33xxx + = + − − 2 3 2 4 3 xx  − = − M1 ( ) 2 3 3 2 4 3 x  − = − A1 2 4 3 2 3 3 2 3 3 2 3 3 x −+  = −+ dM1 = − − A1 (4) Alternative 3 2 3 2 3 1 3 4 3 4 3 1 3 1 3 1 xx xx + + + = −   = − − − + 2 3 3 2 xx x + + +  = − − 2 3 3 2 2 3 8 10 2 3 x x x x x  + + + = −  − = + M1 ( ) 3 3 10 2 3 x  − = + A1 10 2 3 3 3 3 3 3 3 x ++ = −+ dM1 10 3 30 6 6 3 3 9 + + + = = − − − A1 (ii) M1: Attempts to form a line",
+          "image": "/papers/wma11-may-2025/q4-4i.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-09.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "45 d x x x x c x x  − + = − − +    M1A1A1 (3) (b)(i) d d y x x x  =−   M1A1A1 (3) (b)(ii) 20 3 x x x x − =  − = M1 ( ) ( ) 20 0 ... ... x x x x x x − − =  + − =  =  = or e.g. ( ) ( ) ... ... ... x a a a a x x =  + − =  =  =  = dM1 ,4 x = − A1A1 (4) (10 marks) Notes (a) M1: For increasing any power by one. E.g. ... or ... or ... x x x x x − → − → → Allow unprocessed indices for this mark e.g. ... xx + → A1: For two correct and simplified terms of 3. xx x −− Allow 0.1for xx and 10for.x x − −− Condone for xx −− and for x x −− for this mark. A1: 3. x x c x − − + Must include a constant of integration. Ignore the lhs i.e. ignore what they call their integral. Allow 0.1 for xx and for . x x − Condone spurious integral signs e.g. 3d3 xxxxc x x − +=− − +  Do not allow e.g. 3. xxc x − + − + Mark (b)(i) and (ii) together. (b)(i) M1: For decreasing any power by one. E.g. ... or 0 or ... x x x x − → − → → Allow unprocessed indices for this mark e.g. ... xx − → A1: For one correct and simplified term. or . x x − Allow for . x x − A1: 2. x x − Allow for . x x − (b)(ii) M1: Sets their x x − equal to 3 and multiplies to form a polynomial equation in x. Allow copying slips but it must be their d d y x from part (b)(i) and it must be of the form m n B Ax x + where m and n are integers and m > 0 and n > 0 It is for proceeding from m n B Ax x += to m n n Ax B x + += or equivalent work. dM1: Solves an equation of the form 0, , , px qx r p q r + + =  via non calculator means to find at least one value for x. It is not for finding a value of x so e.g. ( ) ( ) 20 2 20, 2 20 0 , 4 t x x x t t t t t t t =  − − = − − − − =  + − =  = − on its own scores M0 unless a value of x is found by cube rooting. Note we will condone the “cube rooting” done on a calculator for this mark but not the solving of their equation. A1: Either solution of ,4 x =− o.e. such as 2.5 , 4 − Allow () 2.5− for 2.5 − and for Must come from correct work i.e. from the correct equation 20 0 xx − ",
+          "image": "/papers/wma11-may-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-13.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct shape and position B1 Correct equation of vertical asymptote. E.g. x = −6 oe e.g. x + 6 = 0 B1 Correct y intercept 0,    B1 (3) Notes There must be a sketch to score marks in (a) Allow the equation of the asymptote and the y intersection to be identified away from the sketch but they must clearly be identified as the asymptote and/or the intersection and correspond to their sketch. If there is any ambiguity, the sketch takes precedence. (a) B1: Correct shape and position. The right hand branch should • be in quadrants 1 and 2 only (this includes just touching the y-axis) • approach the x-axis from above on the right • approach the vertical upwards on the left in quadrant 2 The left hand branch should • be in quadrant 3 only • approach the x-axis from below on the left • approach the vertical downwards on the right The branches must not clearly overlap. The curve must not clearly turn back on itself at the vertical or horizontal asymptotes but condone “slips of the pen”. B1: Correct equation for vertical asymptote. The curve must be asymptotic here for their curve and for both branches if drawn. The asymptote does not need to be “drawn” e.g. dotted or solid line. Must be an equation (not just −6 marked on the x-axis) B1: Correct y intercept. The curve must only cross the y-axis at this point. Allow as marked on the y-axis or as 0,    and condone ,0    as long as it is in the correct position on the positive y-axis. Also allow y = if it is clearly indicating the point of intersection and not the equation of an asymptote. See supplementary document for some examples. x =− O (b)(i) ( ) ( ) mx mx x x − =  − + = + M1 (64)25 0 or6425 0mxmxmxmxx + − − =+ − − = A1 ( ) '' '' (6 4) b ac m m − = − −   − dM1 (6 4) mm  − + ... m m m m  + +  + + ...... * A1* (ii) ( ) ( ) 1 9 1, m m m m + +  − − ... „ ... M1 A1 (6) Mark (b)(i) and (ii) together. (b)(i) M1: Sets mx x −= + and attempts to cross multiply A1: Correct simplified quadratic equation with ",
+          "image": "/papers/wma11-may-2025/q7-7a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-19.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "18 0 m − = −− M1 () yx− =− or e.g. () yx=+ or ( ) ... cc = +  = or e.g. ( ) ... cc = − +  = dM1 yx =+ A1 (3) (b) Examples: y ax bx = + − ( 3)( ) y x px q = + + ( ) ( ) ( ) , 0, 6 , 2, 18 , 3, 0 ... or ... or ... y ax bx c a b c = + + − −  = = = NB , , a b c = = = − M1 Full method to find all constants. E.g. Solves 6 0 ab − − = and 6 18 ..., ... a b a b + − =  = = dM1 Either or ab == yxx=+ − A1 A1 (4) (c) , x x y x x + −   +  M1 A1ft (2) (9 marks) Notes (a) M1: Attempts gradient = 18 0 − −− . Condone 1 sign/copying slip only if a correct formula is seen or implied. Alternatively solves two simultaneous equations, e.g. 18 2 mc =+ and mc =− + to find m or c. dM1: Full attempt at equation of the line using (−3, 0) or (2, 18) with values correctly placed. If they use y = mx + c they must proceed as far as finding a value for c. If they use e.g. 18 023 yx+ = −− − both M’s can be scored together. Condone 1 sign/copying slip only if a correct formula is seen or implied. A1: yx =+ o.e. (b) M1: Uses a method that finds one of the unknowns leaving an equation in two unknowns. • States equation is y ax bx = + − (the most common) • States equation is ( 3)( ), y x px q p = + +  or e.g. ( 3)( ) y a x x b = + + • States equation is y ax bx c = + + and uses all 3 coordinates to find one unknown dM1: Uses all three coordinates to find all three unknowns. Condone slips with substitution provided the intention is clear. A1: Two correct unknowns found. A1: Correct equation. E.g y x x = + − or ( 3) y x x  = + −   or ( 3) y x x  = + −   but not e.g. C = ... Note that attempts at e.g. y x bx = + − score no marks as there are insufficient unknowns. (c) M1: Uses two of the three required inequalities. Two may be combined as seen in the scheme. Accept „ . Follow through on their equations for l and C. \" 6\" \" \" x x y x + −   + would count as 2 correct inequalities. Do not allow inequalities in terms of R e.g. x x R x + −   + A1ft: Correct definition of R using their e",
+          "image": "/papers/wma11-may-2025/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-23.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "( ) 0.5 1.84 2 0.5 1.84 cos 0.8 CQ = + −   M1 (Radius =) 1.534CQ= m A1 (2) (b) sinsin 0.8 0.5\"1.534\" PCQ = or 0.5\"1.534\" 1.842 \"1.534\" 1.84 cosPCQ=+−  M1 () 0.5sin 0.8 sin0.233.... \"1.534\" PCQ== 0.236 PCQ = * or ( ) \"1.534\" 1.84 0.5 cos 0.972... 0.236 * 2 \"1.534\" 1.84 PCQ PCQ +− = =  =  A1* (2) (c) ( ) = ''1.534 '' 0.236 r   −  oe e.g. ''1.534 '' ''1.534 '' 0.236  −   (= 7.114...) OR ( ) ( ) ( ) sin = 0.5 1.84sin 0.8 or \"1.534\" 1.84sin 0.236 0. 3299... ab C     = M1 Attempts ( ) = ''1.534 '' 0.236 r   −  AND ( ) sin = 0.5 1.84sin 0.8 ab C  AND adds dM1 (awrt) 7.4 (m ) A1 (3) (d) Attempts ( ) ( ) ''1.534 '' 2 0.236 9.276... r  =  − = M1 Perimeter = ( ) ( ) \"1.534\" 2 0.236 0.5 1.84 1.534 10.1  − + + − = (m) A1 (2) (9 marks) Notes It is acceptable in this question to work in degrees and convert if necessary. NB 0.8 radians is 45.8366...° and angle PCQ is 13.5205...° Note that there will be other valid methods – if in doubt use review. See right angled triangle methods for (a) and (b) at the end of the MS (a) M1: Writes down the correct rhs for the cosine rule. Allow e.g. 0.5 1.84 cos 0.8 2 0.5 1.84 CQ +− =  A1: 1.534 CQ = This value only i.e. not awrt. (b) M1: A correct sine rule statement following through on their CQ which may appear as 0.5sin 0.8 sin 1.534 PCQ= and would also count as the intermediate step below. A1*: Correct proof with an intermediate line such as 0.5sin 0.8 sin 1.534 PCQ = or sin 0.233.... PCQ = If awarding for the value of sin PCQ then allow sin awrt 0.23 PCQ = There should be no incorrect statements in the proof e.g. 0.5sin 0.8 0.236 1.534 PCQ == and no obvious incorrect work. E.g. although using CQ as 1.53 gives PCQ = 0.237 to 3 dp we will condone PCQ given as 0.236 if no incorrect work is seen as we assume greater accuracy for CQ has been used. If CQ is used to even less accuracy in their working e.g. 1.5 score M1A0 for otherwise correct work. Must be 0.236 and not e.g. 0.2360 Alternative: M1: A correct cosine ",
+          "image": "/papers/wma11-may-2025/q9-9a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-27.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4 m = B1 ( ) yx + = − or ... cc − =  +  = M1 yx=− A1 (3) (b) () 4 4 3 f (4)... k k −  = =  = M1 k = A1 (2) (c) ( ) ( ) f ( ) xx xx x −  = = − M1 ( ) ( ) f ( ) xx xc =−+ M1 A1ft ( ) ( ) 4 4 4 4 4, x y c c  = = −  − = − +  = −   ddM1 () f ( ) xx x=− − A1 (5) (10 marks) Notes Mark (a), (b) and (c) together (a) B1: States or implies that gradient of tangent (to the curve at P) is M1: Uses their changed gradient (i.e. not − ) with x = 4 and y = −3 where the −3 is their attempt at finding y from yx= − + = −  + to form the equation of tangent. E.g. ( ) yx + = − or ... y x c c c = +  − =  +  = Note that some candidates are assuming P lies on the x-axis and use (4, 0) and this scores M0 A1: yx=− or exact equivalent in this form e.g. 0.8 6.2 yx =− but not ( ) x y − = unless the correct form was seen previously then apply isw. (b) M1: Uses f (4)  = their changed gradient (i.e. not − ) and solves for k. Allow equivalent work e.g. uses f (4)  − = − and solves for k. A1: k = Correct answer with no working scores both marks. (c) M1: Attempts to expand and writes f ( )x  in the form xx+ M1: Integrates with at least one index correct i.e. ... xx  → or ... xx  → which must come from correct work but indices may be unprocessed at this stage. A1ft: Correct integration with or without the + c. Allow with constant k or follow through on an incorrect k only i.e. the expression should be otherwise correct e.g. allow ( ) kx kx c −+ or this expression with their k substituted. Need not be simplified at this stage so indices may be unprocessed. The “f(x) =” is not required. Condone spurious integral signs. ddM1: Must have a constant of integration now. It is for using x = and y =− in their ( ) f ( ) xx xc = − + in an attempt to find their c, where the −3 is their attempt at finding y from yx= − + Many candidates are assuming P lies on the x-axis and use (4, 0) and this scores ddM0 Depends on both previous M marks. A1: ( ) f ( ) xx x = − − Correct simplified expre",
+          "image": "/papers/wma11-may-2025/q10-10a.png"
+        }
+      ],
+      "image": "/papers/wma11-may-2025/page-31.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/wma11-may-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Mathematics-WMA11/Mathematics-WMA12-2025-unit1-2025-06-01-qp.pdf",
+    "pageImages": [
+      "/papers/wma11-may-2025/page-01.png",
+      "/papers/wma11-may-2025/page-02.png",
+      "/papers/wma11-may-2025/page-03.png",
+      "/papers/wma11-may-2025/page-04.png",
+      "/papers/wma11-may-2025/page-05.png",
+      "/papers/wma11-may-2025/page-06.png",
+      "/papers/wma11-may-2025/page-07.png",
+      "/papers/wma11-may-2025/page-08.png",
+      "/papers/wma11-may-2025/page-09.png",
+      "/papers/wma11-may-2025/page-10.png",
+      "/papers/wma11-may-2025/page-11.png",
+      "/papers/wma11-may-2025/page-12.png",
+      "/papers/wma11-may-2025/page-13.png",
+      "/papers/wma11-may-2025/page-14.png",
+      "/papers/wma11-may-2025/page-15.png",
+      "/papers/wma11-may-2025/page-16.png",
+      "/papers/wma11-may-2025/page-17.png",
+      "/papers/wma11-may-2025/page-18.png",
+      "/papers/wma11-may-2025/page-19.png",
+      "/papers/wma11-may-2025/page-20.png",
+      "/papers/wma11-may-2025/page-21.png",
+      "/papers/wma11-may-2025/page-22.png",
+      "/papers/wma11-may-2025/page-23.png",
+      "/papers/wma11-may-2025/page-24.png",
+      "/papers/wma11-may-2025/page-25.png",
+      "/papers/wma11-may-2025/page-26.png",
+      "/papers/wma11-may-2025/page-27.png",
+      "/papers/wma11-may-2025/page-28.png",
+      "/papers/wma11-may-2025/page-29.png",
+      "/papers/wma11-may-2025/page-30.png",
+      "/papers/wma11-may-2025/page-31.png",
+      "/papers/wma11-may-2025/page-32.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

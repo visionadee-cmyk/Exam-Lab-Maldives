@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2015-unit6-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit6-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/61",
+  "session": "May/June 2015",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "ethanol: sweet / nail varnish remover / alcohol / spirit; ethanoic acid: vinegar / sour / acid / sharp / pungent; I strong / pleasant / silver-grey liquid or solid forms / bubbles; / graphite; / is reactive; 1 A corrodes / rusts I dissolves / Br; 1 R bromide / turns white; 1 R lead(II) / lead ions / well-ventilated area; 1 I references to goggles / safety clothing Page 4 Mark Scheme Syllabus Paper / origin clearly labelled on diagram; / ethanol / alcohol / acetone; 1 R water / acids 2 not present; unknown dye present; I reference to properties of dyes 1, 2 and 3 / use a different solvent / measure R f values; all 9 = 3 marks 8 = 2 marks 7 = 1 mark please put an ‘x’ by any incorrectly plotted points all 9 = 3 marks 8 = 2 marks 7 = 1 mark 17 points plotted within half a small square = 2 marks 16 points plotted within half a small square = 1 mark; smooth line graph; labels; °C; indication clearly shown; Page 5 Mark Scheme Syllabus Paper",
+          "image": "/papers/chemistry-0620-2015/q1-1c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4f",
+          "text": "Part 4f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "to remove traces of acid A / clean; to remove water; / acid B; / dibasic / has a lower pH / more acidic; 1 I more reactive / more concentrated / using a measuring cylinder / thermometer / cup not washed; insulate / use burette / digital thermom. / new cup; I repeat and average precipitate; dissolves / clears; / no change / no precipitate / colourless solution; precipitate; / water; / not a named halide; / NH; / NH +; Page 6 Mark Scheme Syllabus Paper step 1 add copper oxide or catalyst to hydrogen peroxide; measure volume of gas / mass loss / collect gas / count bubbles; over time; known volume of hydrogen peroxide; compare to hydrogen peroxide on its own; test gas with glowing splint; splint relights; step 2 filter copper(II) oxide; dry; weigh; compare to original mass; OR filter (copper(II) oxide) / evaporate to dryness; add to hydrogen peroxide; measure rate of reaction; compare to first experiment; max 8",
+          "image": "/papers/chemistry-0620-2015/q4-4f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit6-2015-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

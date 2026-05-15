@@ -1,0 +1,71 @@
+{
+  "paperId": "chemistry-0620-2024-unit4-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2024-unit4-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/41",
+  "session": "October/November 2024",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 12n + 11e M2 10e M3 Ga M4 69 above 31 and to the left of the symbol M5 charge of 3 + M2 with different number of neutrons October/November 2024 Question Answer Marks M1 (3  203) AND (7  205) (= 2044) M2 204.4 Question Answer Marks O M2 state symbols: (s) (aq) (aq) •5H O 1 M2 until saturation (point) AND allow to cool M2 inert October/November 2024 Question Answer Marks 4OH – → 2H O + O + 4e – M1 O as a product M2 OH – AND e – M3 correct equation • colour remains constant • no bubbles at the anode • anode dissolves Question Answer Marks M1 +5 M2 +4 r of Mg(NO ) = 148 M2 mol of Mg(NO ) = 7.40 / 148 = 0.05(00) (mol) M3 mol of NO = 0.05(00)  4 / 2 = 0.1(00) (mol) M4 volume of NO = 0.1(00)  24 000 = 2400 (cm ) October/November 2024 Question Answer Marks M2 six dots and two crosses in second shell of O M3 ‘2+’ charge on Mg ion on correct answer line AND ‘2–’ charge on O ion on correct answer line M2 four non-bonding electrons on each O Question Answer Marks • water is the only product • no carbon dioxide produced • more efficient disadvantage: any one of: • hydrogen needs to be stored at high pressure • hydrogen hard to store • heavy tanks needed to store hydrogen • fewer (hydrogen) filling stations • less efficient October/November 2024 Question Answer Marks r of CH CH COOCH = 88 M2 mol of CH CH COOCH = 44 / 88 = 0.5 M3 mol of H = 0.5  8 = 4.0 M4 no of H atoms = 4.0  6.02  10 = 2.408  10 M2 propene M3 ethanol M4 propanoic acid October/November 2024 Question Answer Marks",
+          "image": "/papers/chemistry-0620-2024/q2-2d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q2.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(3) M1 NH group displayed M2 COOH group displayed M3 use of R",
+          "image": "/papers/chemistry-0620-2024/q6-6c.png"
+        },
+        {
+          "id": "6d",
+          "text": "Part 6d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 correct amide link between any two blocks showing all atoms and all bonds M2 identical orientation of inter-block amide links including terminal groups with correct orientation M3 continuation bonds on polymer M2 distance travelled by solvent f value 1",
+          "image": "/papers/chemistry-0620-2024/q6-6d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2024/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2024-unit4-2024-11-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

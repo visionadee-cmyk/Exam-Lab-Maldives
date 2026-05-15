@@ -1,0 +1,119 @@
+{
+  "paperId": "chemistry-0620-2016-unit5-june-p53-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2016-unit5-june-p53-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/53",
+  "session": "May/June 2016",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 initial temperature readings and maximum temperature completed for all three experiments; M2 temperature rises completed correctly; M3 lowest temperature difference in Experiment 2; 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lighted splint pops;",
+          "image": "/papers/chemistry-0620-2016/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 all 6 temperature boxes and differences completed correctly; M2 temperature difference in Experiment 4 is within 5 °C of supervisor’s result; M3 observation – brown solid OR green solution OR paler solution; 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 y -axis scale is linear and highest temperature change is over half-way up y -axis; M2 all 5 bars drawn to the correct height; M3 bars clearly labelled; 1 1 1 / magnesium / Mg;",
+          "image": "/papers/chemistry-0620-2016/q1-1d.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "potassium is too reactive / dangerous / catches fire / explodes; / easy to use;",
+          "image": "/papers/chemistry-0620-2016/q1-1g.png"
+        },
+        {
+          "id": "1i",
+          "text": "Part 1i",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 insulate / lag tube / use a lid; M2 to reduce heat losses; OR M1 use a pipette / burette (instead of a measuring cylinder); M2 more accurate (than a measuring cylinder); 1 1 1 1 Page 4 Mark Scheme Syllabus Paper 0620 53 M1 white; M2 precipitate; M3 dissolves / colourless solution / solid disappears / precipitate soluble in excess; 1 1 1 M1 white precipitate; M2 dissolves / colourless solution / solid disappears / precipitate soluble in excess; 1 1 / change / precipitate; • effervescence / fizz / bubble; • red litmus / pH paper; • blue / dark green / pH > 7; • pungent / strong / sharp smell;",
+          "image": "/papers/chemistry-0620-2016/q1-1i.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 zinc; M2 nitrate; 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 effervescence / bubbles / fizz; M2 limewater; M3 milky; 1 1 1 / crimson;",
+          "image": "/papers/chemistry-0620-2016/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 lithium; M2 carbonate; 1 1 Page 5 Mark Scheme Syllabus Paper 0620 53 obtaining water • heat the salt; • condenser shown on diagram; • drops of water / condensation / (colourless) liquid formed / collected; • colour change of salt / blue solid becomes paler / solid becomes white; testing pure water • boiling point / freezing point; • °C / °C; 1 1 1 1 1 1",
+          "image": "/papers/chemistry-0620-2016/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2016/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2016-unit5-2016-06-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

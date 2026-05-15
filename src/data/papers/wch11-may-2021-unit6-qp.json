@@ -1,0 +1,51 @@
+{
+  "paperId": "wch11-may-2021-unit6-qp",
+  "pairedMarkSchemeId": "wch11-may-2021-unit6-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH16/01",
+  "session": "May 2021",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• dark blue Allow deep/royal for dark Do not award ‘just’ blue Do not award mention of any other colour Ignore any reference to the formation of a precipitate that subsequently dissolves Number Answer Additional guidance Mark",
+          "image": "/papers/wch11-may-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• ammonia/NH (gas) is toxic Accept poisonous/corrosive/irritant for toxic Ignore harmful/dangerous/health hazard Number Answer Additional guidance Mark Cu(NH ) SO .H O is less soluble in (aqueous) ethanol (than water so crystallises) Allow product/salt/complex/crystals/ precipitate/solid/it for tetraamminecopper(II) sulfate-1-water Allow insoluble in ethanol Number Answer Additional guidance Mark • Buchner funnel and labelled filter paper (1) • Buchner flask and (rubber) seal (1) • (side arm with) vacuum pump (1) Example of diagram: Funnel must show perforations/holes below the filter paper Allow any properly shaped Buchner funnel Allow sintered glass funnel Do not award porous paper Do not award fluted filter paper Allow conical flask with side arm Allow vacuum/pump/reduced pressure/aspirator/suction Ignore just water tap Do not award pressure out/negative pressure Number Answer Additional guidance Mark • to remove (soluble) impurities Ignore to wash the crystals Number Answer Additional guidance Mark • hot ethanol would dissolve the tetraamminecopper(II) sulfate-1-water/Cu(NH ) SO .H O OR so only a very small/the minimum amount of tetraamminecopper(II) sulfate-1-water/ Cu(NH ) SO .H O dissolves (in cold ethanol) Allow product/salt/complex/crystals/ precipitate/solid/it for tetraamminecopper(II) sulfate-1-water Allow just so it does not dissolve Allow just it is less soluble in cold ethanol Do not award insoluble in ethanol Ignore just to minimise loss of product Number Answer Additional guidance Mark • M r values of CuSO .5H O and Cu(NH ) SO .H O (1) • mols of CuSO .5H O and mols Cu(NH ) SO .H O OR theoretical mass Cu(NH ) SO .H O (1) • percentage yield to 2SF or 3SF (1) Example of calculation: M r CuSO .5H O = 249.6 Allow 249.5 M r Cu(NH ) SO .H O = 245.6 Allow 245.5 Mols CuSO .5H O = 2.17 (= 0.0086939 / 8.6939 × 10 −3 ) 249.6 Mols Cu(NH ) SO .H O = 2.54 ( = 0.010342 / 1.0342 × 10 −2 ) 24 5.6 Theoretical mass Cu(NH ) SO .H O = 0.0086939 × 245.6 = 2.1352 (g) TE on",
+          "image": "/papers/wch11-may-2021/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wch11-may-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/wch11-may-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2021-unit6-2021-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

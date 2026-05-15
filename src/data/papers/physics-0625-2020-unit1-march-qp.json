@@ -1,0 +1,644 @@
+{
+  "paperId": "physics-0625-2020-unit1-march-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit1-march-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/12",
+  "session": "February/March 2020",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a rectangular metal sheet close to two rulers. 0 0 10 20 30 1020304050 cm cm metal sheet What is the area of the metal sheet? A 700 cm 2, B 875 cm 2, C 900 cm 2, D 1125 cm 2",
+      "text": "The diagram shows a rectangular metal sheet close to two rulers. 0 0 10 20 30 1020304050 cm cm metal sheet What is the area of the metal sheet? A 700 cm 2, B 875 cm 2, C 900 cm 2, D 1125 cm 2",
+      "options": [
+        "A 700 cm 2",
+        "B 875 cm 2",
+        "C 900 cm 2",
+        "D 1125 cm 2"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of a car changes with time over part of a journey. 0 0 speed time 1 2 3 4 Which   section   of   the   graph   shows   acceleration   and   which   section   of   the   graph   shows deceleration? acceleration          deceleration A 1                           2, B 1                           3, C 2                           4, D 3                           1 3",
+      "text": "The graph shows how the speed of a car changes with time over part of a journey. 0 0 speed time 1 2 3 4 Which   section   of   the   graph   shows   acceleration   and   which   section   of   the   graph   shows deceleration? acceleration          deceleration A 1                           2, B 1                           3, C 2                           4, D 3                           1 3",
+      "options": [
+        "A 1                           2",
+        "B 1                           3",
+        "C 2                           4",
+        "D 3                           1 3"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A steel ball is dropped from the top floor of a building. Air resistance can be ignored. Which statement describes the motion of the ball? A The ball falls with constant acceleration., B The ball falls with constant speed., C The ball falls with decreasing speed., D The ball falls with increasing acceleration.",
+      "text": "A steel ball is dropped from the top floor of a building. Air resistance can be ignored. Which statement describes the motion of the ball? A The ball falls with constant acceleration., B The ball falls with constant speed., C The ball falls with decreasing speed., D The ball falls with increasing acceleration.",
+      "options": [
+        "A The ball falls with constant acceleration.",
+        "B The ball falls with constant speed.",
+        "C The ball falls with decreasing speed.",
+        "D The ball falls with increasing acceleration."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows a piece of flexible material that contains many pockets of air. Diagram 2 shows the same piece of flexible material after it has been compressed so that its volume decreases. diagram 1 (before compression) diagram 2 (after compression) What happens to the mass and to the weight of the flexible material when it is compressed? mass              weight A increases            increases, B increases            no            change, C no change increases, D no change no change",
+      "text": "Diagram 1 shows a piece of flexible material that contains many pockets of air. Diagram 2 shows the same piece of flexible material after it has been compressed so that its volume decreases. diagram 1 (before compression) diagram 2 (after compression) What happens to the mass and to the weight of the flexible material when it is compressed? mass              weight A increases            increases, B increases            no            change, C no change increases, D no change no change",
+      "options": [
+        "A increases            increases",
+        "B increases            no            change",
+        "C no change increases",
+        "D no change no change"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On the Moon, the gravitational field strength g is 1.6 N / kg. An object has a mass of 2.0 kg. What is the weight of the object on the Moon? A 0 N B    1.3 N C    3.2 N D    20.0 N",
+      "text": "On the Moon, the gravitational field strength g is 1.6 N / kg. An object has a mass of 2.0 kg. What is the weight of the object on the Moon? A 0 N B    1.3 N C    3.2 N D    20.0 N",
+      "options": [
+        "A 0 N B    1.3 N C    3.2 N D    20.0 N"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A measuring cylinder contains 40 cm 3 of water. A solid metal ball is dropped into the water and the water level rises to 56 cm 3 . The mass of the ball is 80 g. What is the density of the metal from which the ball is made?, A 0.20 g / cm 3, B 1.4 g / cm 3, C 2.0 g / cm 3, D 5.0 g / cm 3 4",
+      "text": "A measuring cylinder contains 40 cm 3 of water. A solid metal ball is dropped into the water and the water level rises to 56 cm 3 . The mass of the ball is 80 g. What is the density of the metal from which the ball is made?, A 0.20 g / cm 3, B 1.4 g / cm 3, C 2.0 g / cm 3, D 5.0 g / cm 3 4",
+      "options": [
+        "A solid metal ball is dropped into the water and the water level rises to 56 cm 3 . The mass of the ball is 80 g. What is the density of the metal from which the ball is made?",
+        "A 0.20 g / cm 3",
+        "B 1.4 g / cm 3",
+        "C 2.0 g / cm 3",
+        "D 5.0 g / cm 3 4"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  car  travels  along  a  horizontal  road  at  constant  speed.  Three  horizontal  forces  act  on  the  car. The diagram shows two of these forces. air resistance 300 N force from engine 1500 N direction of motion forwards What is the size and the direction of the third horizontal force acting on the car? A 1200 N backwards, B 1200 N forwards, C 1800 N backwards, D 1800 N forwards",
+      "text": "A  car  travels  along  a  horizontal  road  at  constant  speed.  Three  horizontal  forces  act  on  the  car. The diagram shows two of these forces. air resistance 300 N force from engine 1500 N direction of motion forwards What is the size and the direction of the third horizontal force acting on the car? A 1200 N backwards, B 1200 N forwards, C 1800 N backwards, D 1800 N forwards",
+      "options": [
+        "A 1200 N backwards",
+        "B 1200 N forwards",
+        "C 1800 N backwards",
+        "D 1800 N forwards"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A     force     F is applied to a spanner, as shown. F nut spanner Which action increases the moment of F about the centre of the nut? A apply the force F to the end of the spanner handle, B apply the force F parallel to the spanner handle, C spray oil on the nut, D use a shorter spanner",
+      "text": "A     force     F is applied to a spanner, as shown. F nut spanner Which action increases the moment of F about the centre of the nut? A apply the force F to the end of the spanner handle, B apply the force F parallel to the spanner handle, C spray oil on the nut, D use a shorter spanner",
+      "options": [
+        "A apply the force F to the end of the spanner handle",
+        "B apply the force F parallel to the spanner handle",
+        "C spray oil on the nut",
+        "D use a shorter spanner"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A ball is released from rest and rolls down a track from the position shown. What is the furthest position that it is possible for the ball to reach? ball starts here A C B D 5",
+      "text": "A ball is released from rest and rolls down a track from the position shown. What is the furthest position that it is possible for the ball to reach? ball starts here A C B D 5",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes an advantage and a disadvantage of wind turbines? advantage                     disadvantage A no fuel needed harmful gases released, B variable supply fuel needed, C no harmful gases released variable supply, D constant supply noisy",
+      "text": "Which row describes an advantage and a disadvantage of wind turbines? advantage                     disadvantage A no fuel needed harmful gases released, B variable supply fuel needed, C no harmful gases released variable supply, D constant supply noisy",
+      "options": [
+        "A no fuel needed harmful gases released",
+        "B variable supply fuel needed",
+        "C no harmful gases released variable supply",
+        "D constant supply noisy"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A box of mass m and weight W is carried up some stairs of total height x and total width y. y x box On which quantities does the work done against gravity on the box depend? A m and y B W and x C W and y D x and y 6",
+      "text": "A box of mass m and weight W is carried up some stairs of total height x and total width y. y x box On which quantities does the work done against gravity on the box depend? A m and y B W and x C W and y D x and y 6",
+      "options": [
+        "A m and y B W and x C W and y D x and y 6"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram  1  shows  a  tube  sealed  at  one  end  and  partly  immersed  in  mercury.  The  tube  has  a diameter d. The top of the mercury in the tube is a height h above the mercury reservoir. h vacuum mercury reservoir diagram 1 Diagram 2 shows a similar arrangement with a tube that has a diameter 2d. x vacuum diagram 2 mercury reservoir What is the relationship between h and x? A x = 2h, B x = h, C x = 2 h, D x = 4 h 7",
+      "text": "Diagram  1  shows  a  tube  sealed  at  one  end  and  partly  immersed  in  mercury.  The  tube  has  a diameter d. The top of the mercury in the tube is a height h above the mercury reservoir. h vacuum mercury reservoir diagram 1 Diagram 2 shows a similar arrangement with a tube that has a diameter 2d. x vacuum diagram 2 mercury reservoir What is the relationship between h and x? A x = 2h, B x = h, C x = 2 h, D x = 4 h 7",
+      "options": [
+        "A x = 2h",
+        "B x = h",
+        "C x = 2 h",
+        "D x = 4 h 7"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A skier is standing still on a flat area of snow. skis The weight of the skier is 550 N. The total area of his skis in contact with the ground is 0.015 m 2 . What is the pressure exerted on the ground by the skier? A 0.83 N / m 2, B 8.3 N / m 2, C 3700 N / m 2, D 37 000 N / m 2",
+      "text": "A skier is standing still on a flat area of snow. skis The weight of the skier is 550 N. The total area of his skis in contact with the ground is 0.015 m 2 . What is the pressure exerted on the ground by the skier? A 0.83 N / m 2, B 8.3 N / m 2, C 3700 N / m 2, D 37 000 N / m 2",
+      "options": [
+        "A 0.83 N / m 2",
+        "B 8.3 N / m 2",
+        "C 3700 N / m 2",
+        "D 37 000 N / m 2"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The molecules of a substance in a particular state of matter move freely with random motion. The average speed of the molecules is increasing. What is being described? A a gas being heated, B a liquid evaporating, C a solid being heated, D a solid melting",
+      "text": "The molecules of a substance in a particular state of matter move freely with random motion. The average speed of the molecules is increasing. What is being described? A a gas being heated, B a liquid evaporating, C a solid being heated, D a solid melting",
+      "options": [
+        "A a gas being heated",
+        "B a liquid evaporating",
+        "C a solid being heated",
+        "D a solid melting"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  student  measures  the  mass  of  warm  water  in  an  open  container  over  two  minutes.  The container is kept at a constant temperature. The results are in the table. time / minutes          mass / g 0.0                     33.9 0.5                     30.6 1.0                     27.6 1.5                     24.9 2.0                     22.5 Why does the mass of the water change? A The water evaporates., B The water freezes., C The water condenses., D The water boils. 8",
+      "text": "A  student  measures  the  mass  of  warm  water  in  an  open  container  over  two  minutes.  The container is kept at a constant temperature. The results are in the table. time / minutes          mass / g 0.0                     33.9 0.5                     30.6 1.0                     27.6 1.5                     24.9 2.0                     22.5 Why does the mass of the water change? A The water evaporates., B The water freezes., C The water condenses., D The water boils. 8",
+      "options": [
+        "A The water evaporates.",
+        "B The water freezes.",
+        "C The water condenses.",
+        "D The water boils. 8"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which points are the fixed points of the liquid-in-glass thermometer shown? –100 102030405060708090100110 °C A the beginning and end points of the column of liquid, B the points marked –10 °C and 110 °C, C the points marked 0 °C and 100 °C, D the top and bottom points of the thermometer bulb",
+      "text": "Which points are the fixed points of the liquid-in-glass thermometer shown? –100 102030405060708090100110 °C A the beginning and end points of the column of liquid, B the points marked –10 °C and 110 °C, C the points marked 0 °C and 100 °C, D the top and bottom points of the thermometer bulb",
+      "options": [
+        "A the beginning and end points of the column of liquid",
+        "B the points marked –10 °C and 110 °C",
+        "C the points marked 0 °C and 100 °C",
+        "D the top and bottom points of the thermometer bulb"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four different metal blocks are given the same quantity of thermal energy. Which block has the greatest thermal capacity? A temperature rise = 1 °C B temperature rise = 2 °C C temperature rise = 3 °C D temperature rise = 4 °C",
+      "text": "Four different metal blocks are given the same quantity of thermal energy. Which block has the greatest thermal capacity? A temperature rise = 1 °C B temperature rise = 2 °C C temperature rise = 3 °C D temperature rise = 4 °C",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A solid is heated from room temperature. The graph shows how its temperature changes with time as it is heated constantly. At which time has it just become completely liquid? 0 0 ABCD room temperature temperature time 9",
+      "text": "A solid is heated from room temperature. The graph shows how its temperature changes with time as it is heated constantly. At which time has it just become completely liquid? 0 0 ABCD room temperature temperature time 9",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Rods of the same shape and size are inserted through corks into a tank of hot water. Each rod is covered with a layer of solid wax that has a low melting point. After a period of time, some wax melts. hot water tank good thermal conductor bad thermal conductor moderate thermal conductor cork On which rod will the wax melt first? A all at the same time, B good thermal conductor, C bad thermal conductor, D moderate thermal conductor",
+      "text": "Rods of the same shape and size are inserted through corks into a tank of hot water. Each rod is covered with a layer of solid wax that has a low melting point. After a period of time, some wax melts. hot water tank good thermal conductor bad thermal conductor moderate thermal conductor cork On which rod will the wax melt first? A all at the same time, B good thermal conductor, C bad thermal conductor, D moderate thermal conductor",
+      "options": [
+        "A all at the same time",
+        "B good thermal conductor",
+        "C bad thermal conductor",
+        "D moderate thermal conductor"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A boy jumps into an indoor swimming pool. He notices that the water appears to get colder as he goes deeper underwater. This is due to convection. Which statement is correct? A Cold water is more dense than warm water so it sinks to the bottom of the pool., B Warm water is more dense than cold water so it rises to the surface of the pool., C The molecules in cold water have more kinetic energy than the molecules in warm water so they move to the bottom of the pool faster., D The  molecules  in  warm  water  are  closer  together  than  the  molecules  in  cold  water  so  they rise to the surface of the pool. 10",
+      "text": "A boy jumps into an indoor swimming pool. He notices that the water appears to get colder as he goes deeper underwater. This is due to convection. Which statement is correct? A Cold water is more dense than warm water so it sinks to the bottom of the pool., B Warm water is more dense than cold water so it rises to the surface of the pool., C The molecules in cold water have more kinetic energy than the molecules in warm water so they move to the bottom of the pool faster., D The  molecules  in  warm  water  are  closer  together  than  the  molecules  in  cold  water  so  they rise to the surface of the pool. 10",
+      "options": [
+        "A Cold water is more dense than warm water so it sinks to the bottom of the pool.",
+        "B Warm water is more dense than cold water so it rises to the surface of the pool.",
+        "C The molecules in cold water have more kinetic energy than the molecules in warm water so they move to the bottom of the pool faster.",
+        "D The  molecules  in  warm  water  are  closer  together  than  the  molecules  in  cold  water  so  they rise to the surface of the pool. 10"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show examples of wave motion. 12 waves on waterwaves in air waves on a ropewaves in a spring 34 ripple tank drum Which waves are longitudinal? A 1 only B 2 and 3 only C 2, 3 and 4 D 2 and 4 only 11",
+      "text": "The diagrams show examples of wave motion. 12 waves on waterwaves in air waves on a ropewaves in a spring 34 ripple tank drum Which waves are longitudinal? A 1 only B 2 and 3 only C 2, 3 and 4 D 2 and 4 only 11",
+      "options": [
+        "A 1 only B 2 and 3 only C 2, 3 and 4 D 2 and 4 only 11"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Waves on the surface of water travel from deep to shallow water. Which diagram shows the correct path of the waves in the shallow water? deep water A shallow water deep water B shallow water deep water C shallow water deep water D shallow water 12",
+      "text": "Waves on the surface of water travel from deep to shallow water. Which diagram shows the correct path of the waves in the shallow water? deep water A shallow water deep water B shallow water deep water C shallow water deep water D shallow water 12",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows how the light from a candle is reflected by a mirror, and shows the position of the image formed? eye candle image of candle A eye candle eye candle image of candle B image of candle C D eye candle image of candle mirror mirror mirror mirror 13",
+      "text": "Which diagram shows how the light from a candle is reflected by a mirror, and shows the position of the image formed? eye candle image of candle A eye candle eye candle image of candle B image of candle C D eye candle image of candle mirror mirror mirror mirror 13",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an image being formed by a converging lens. F object image F2F2F Which description of the image formed is correct? A enlarged and inverted, B enlarged and upright, C diminished    and    inverted, D diminished    and    upright",
+      "text": "The diagram shows an image being formed by a converging lens. F object image F2F2F Which description of the image formed is correct? A enlarged and inverted, B enlarged and upright, C diminished    and    inverted, D diminished    and    upright",
+      "options": [
+        "A enlarged and inverted",
+        "B enlarged and upright",
+        "C diminished    and    inverted",
+        "D diminished    and    upright"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The horn on a ship makes a sound. The captain on the ship hears an echo from a cliff 4.0 s later. The speed of sound is 340 m / s. How far away is the cliff from the ship? A 170 m B 340 m C 680 m D 1360 m",
+      "text": "The horn on a ship makes a sound. The captain on the ship hears an echo from a cliff 4.0 s later. The speed of sound is 340 m / s. How far away is the cliff from the ship? A 170 m B 340 m C 680 m D 1360 m",
+      "options": [
+        "A 170 m B 340 m C 680 m D 1360 m"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Bats produce ultrasound waves to navigate. What is a possible frequency range for these waves? A 0–20 Hz, B 20 Hz–2000 Hz, C 2 kHz–20 kHz, D 20 kHz–120 kHz",
+      "text": "Bats produce ultrasound waves to navigate. What is a possible frequency range for these waves? A 0–20 Hz, B 20 Hz–2000 Hz, C 2 kHz–20 kHz, D 20 kHz–120 kHz",
+      "options": [
+        "A 0–20 Hz",
+        "B 20 Hz–2000 Hz",
+        "C 2 kHz–20 kHz",
+        "D 20 kHz–120 kHz"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows the forces that exist between magnetic poles. Which row is correct? N pole and N pole N pole and S pole A attraction                           attraction, B attraction                           repulsion, C repulsion                           attraction, D repulsion                           repulsion 14",
+      "text": "The table shows the forces that exist between magnetic poles. Which row is correct? N pole and N pole N pole and S pole A attraction                           attraction, B attraction                           repulsion, C repulsion                           attraction, D repulsion                           repulsion 14",
+      "options": [
+        "A attraction                           attraction",
+        "B attraction                           repulsion",
+        "C repulsion                           attraction",
+        "D repulsion                           repulsion 14"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show three different metal rods P, Q and R, inside coils of wire. Small iron nails are placed on a wooden bench under the rods. Diagram 1 shows the situation when there are electric currents in the wires. Diagram 2 shows the situation when the currents are switched off. P wooden bench current in coils diagram 1 QR P no current in coils diagram 2 Q R wooden bench Which row correctly identifies the metal rods? P               Q               R A copper           soft           iron             steel, B soft iron copper steel, C steel             soft             iron             copper, D copper              steel              soft              iron",
+      "text": "The diagrams show three different metal rods P, Q and R, inside coils of wire. Small iron nails are placed on a wooden bench under the rods. Diagram 1 shows the situation when there are electric currents in the wires. Diagram 2 shows the situation when the currents are switched off. P wooden bench current in coils diagram 1 QR P no current in coils diagram 2 Q R wooden bench Which row correctly identifies the metal rods? P               Q               R A copper           soft           iron             steel, B soft iron copper steel, C steel             soft             iron             copper, D copper              steel              soft              iron",
+      "options": [
+        "A copper           soft           iron             steel",
+        "B soft iron copper steel",
+        "C steel             soft             iron             copper",
+        "D copper              steel              soft              iron"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A polythene rod becomes negatively charged when it is rubbed with a cloth. Which statement explains this? A The rod gains electrons., B The rod loses electrons., C The rod gains protons., D The rod loses protons. 15",
+      "text": "A polythene rod becomes negatively charged when it is rubbed with a cloth. Which statement explains this? A The rod gains electrons., B The rod loses electrons., C The rod gains protons., D The rod loses protons. 15",
+      "options": [
+        "A The rod gains electrons.",
+        "B The rod loses electrons.",
+        "C The rod gains protons.",
+        "D The rod loses protons. 15"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a reading on an ammeter. 6 8 10 4 2 0 A What is the reading? A 0.45, A B    0.50 A C    4.5 A D    5.0 A",
+      "text": "The diagram shows a reading on an ammeter. 6 8 10 4 2 0 A What is the reading? A 0.45, A B    0.50 A C    4.5 A D    5.0 A",
+      "options": [
+        "A 0.45",
+        "A B    0.50 A C    4.5 A D    5.0 A"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student is to determine the resistance of resistor R. She uses a circuit including a voltmeter and an ammeter. Which circuit should be used? A A V R B R A V C R A V D R V A 16",
+      "text": "A student is to determine the resistance of resistor R. She uses a circuit including a voltmeter and an ammeter. Which circuit should be used? A A V R B R A V C R A V D R V A 16",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  a  battery  connected  to  two  resistors.  Three  ammeters  M 1 ,  M 2 and  M 3 are connected in the circuit. M 1 M 2 M 3 A A A Ammeter M 1 reads 1.0 A. What are the readings on M 2 and on M 3 ? reading on M 2 / A reading on M 3 / A A 0.0                  0.0 B 0.5                  0.5 C 0.5                  1.0 D 1.0                  1.0",
+      "text": "The  diagram  shows  a  battery  connected  to  two  resistors.  Three  ammeters  M 1 ,  M 2 and  M 3 are connected in the circuit. M 1 M 2 M 3 A A A Ammeter M 1 reads 1.0 A. What are the readings on M 2 and on M 3 ? reading on M 2 / A reading on M 3 / A A 0.0                  0.0 B 0.5                  0.5 C 0.5                  1.0 D 1.0                  1.0",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Lamps in a circuit are connected in parallel. What is the advantage of this? A If one lamp breaks, the others remain lit., B Less current is taken from the power supply., C The lamps use less power than if they were connected in series., D The potential difference across each lamp is less than that of the power supply. 17",
+      "text": "Lamps in a circuit are connected in parallel. What is the advantage of this? A If one lamp breaks, the others remain lit., B Less current is taken from the power supply., C The lamps use less power than if they were connected in series., D The potential difference across each lamp is less than that of the power supply. 17",
+      "options": [
+        "A If one lamp breaks, the others remain lit.",
+        "B Less current is taken from the power supply.",
+        "C The lamps use less power than if they were connected in series.",
+        "D The potential difference across each lamp is less than that of the power supply. 17"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a relay being used to control a buzzer. relay What is the function of the circuit? A The buzzer switches off when the circuit becomes cold., B The buzzer switches off when the circuit becomes light., C The buzzer switches on when the circuit becomes cold., D The buzzer switches on when the circuit becomes light.",
+      "text": "The diagram shows a relay being used to control a buzzer. relay What is the function of the circuit? A The buzzer switches off when the circuit becomes cold., B The buzzer switches off when the circuit becomes light., C The buzzer switches on when the circuit becomes cold., D The buzzer switches on when the circuit becomes light.",
+      "options": [
+        "A The buzzer switches off when the circuit becomes cold.",
+        "B The buzzer switches off when the circuit becomes light.",
+        "C The buzzer switches on when the circuit becomes cold.",
+        "D The buzzer switches on when the circuit becomes light."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2020/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a 5 A fuse in the circuit of an appliance. What is the purpose of the fuse and in which wire is it connected? purpose wire in which it is connected, A breaks the circuit if the current is greater than 5 A              earth, B breaks the circuit if the current is greater than 5 A               live, C breaks the circuit if the current is less than 5 A                earth, D breaks the circuit if the current is less than 5 A                  live",
+      "text": "There is a 5 A fuse in the circuit of an appliance. What is the purpose of the fuse and in which wire is it connected? purpose wire in which it is connected, A breaks the circuit if the current is greater than 5 A              earth, B breaks the circuit if the current is greater than 5 A               live, C breaks the circuit if the current is less than 5 A                earth, D breaks the circuit if the current is less than 5 A                  live",
+      "options": [
+        "A fuse in the circuit of an appliance. What is the purpose of the fuse and in which wire is it connected? purpose wire in which it is connected",
+        "A breaks the circuit if the current is greater than 5 A              earth",
+        "B breaks the circuit if the current is greater than 5 A               live",
+        "C breaks the circuit if the current is less than 5 A                earth",
+        "D breaks the circuit if the current is less than 5 A                  live"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a transformer that has an output voltage of 12 V. 240 V a.c. input 12 V a.c. output primary coil with 1000 turns secondary coil soft iron core How many turns of wire are in the secondary coil? A 12    B    20    C    50    D    20 000 18",
+      "text": "The diagram shows a transformer that has an output voltage of 12 V. 240 V a.c. input 12 V a.c. output primary coil with 1000 turns secondary coil soft iron core How many turns of wire are in the secondary coil? A 12    B    20    C    50    D    20 000 18",
+      "options": [
+        "A 12    B    20    C    50    D    20 000 18"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2020/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A current-carrying conductor is placed between two magnetic poles. The current causes a force to act on the wire. NS force wire current direction Three other arrangements P, Q and R, of the wire and magnetic poles are set up as shown. NS current reversed P SN magnetic poles switched around Q SN current reversed and magnetic poles switched around R Which arrangements will cause a force in the opposite direction to that shown in the top diagram? A P, Q and R B    P and Q only C    P    only    D    R    only",
+      "text": "A current-carrying conductor is placed between two magnetic poles. The current causes a force to act on the wire. NS force wire current direction Three other arrangements P, Q and R, of the wire and magnetic poles are set up as shown. NS current reversed P SN magnetic poles switched around Q SN current reversed and magnetic poles switched around R Which arrangements will cause a force in the opposite direction to that shown in the top diagram? A P, Q and R B    P and Q only C    P    only    D    R    only",
+      "options": [
+        "A P, Q and R B    P and Q only C    P    only    D    R    only"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The symbol for a radioactive nuclide of carbon is 14 6 C. How many neutrons are in its nucleus? A 6    B    8    C    14    D    20 19",
+      "text": "The symbol for a radioactive nuclide of carbon is 14 6 C. How many neutrons are in its nucleus? A 6    B    8    C    14    D    20 19",
+      "options": [
+        "A 6    B    8    C    14    D    20 19"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student measures the rate at which ionising radiation is emitted from a radioactive substance. He places a detector at different distances from the radioactive source. radioactive source detector counter distance d The table shows how the reading on the counter varies with distance d. The readings on the counter are corrected for background radiation. distance d / cm            0            2            4            6 counter reading / counts per minute 1250 115 0 0 Which type of ionising radiation is being emitted by the substance? A α-particles, B β-particles, C γ-rays, D X-rays 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "text": "A student measures the rate at which ionising radiation is emitted from a radioactive substance. He places a detector at different distances from the radioactive source. radioactive source detector counter distance d The table shows how the reading on the counter varies with distance d. The readings on the counter are corrected for background radiation. distance d / cm            0            2            4            6 counter reading / counts per minute 1250 115 0 0 Which type of ionising radiation is being emitted by the substance? A α-particles, B β-particles, C γ-rays, D X-rays 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of",
+      "options": [
+        "A α-particles",
+        "B β-particles",
+        "C γ-rays",
+        "D X-rays 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2020/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows the count rate from a radioactive source over a period of time. 2000 1500 1000 500 0 0123 time / hours count rate counts / s What is the half-life of the source? A 0.5    hour    B    1.0    hour    C    1.5    hours    D    3.0    hours",
+      "text": "The graph shows the count rate from a radioactive source over a period of time. 2000 1500 1000 500 0 0123 time / hours count rate counts / s What is the half-life of the source? A 0.5    hour    B    1.0    hour    C    1.5    hours    D    3.0    hours",
+      "options": [
+        "A 0.5    hour    B    1.0    hour    C    1.5    hours    D    3.0    hours"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2020/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit1-2020-03-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

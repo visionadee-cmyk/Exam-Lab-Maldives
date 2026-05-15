@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2024-unit2-november-p22-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2024-unit2-november-p22-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/22",
+  "session": "October/November 2024",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for eight correct outputs Three marks for six or seven correct outputs Two marks for four or five correct outputs One mark for two or three correct outputs P Q R X 0 0 0 1 0 0 1 0 0 1 0 0 0 1 1 1 1 0 0 1 1 0 1 1 1 1 0 0 1 1 1 1 Question Answer Marks 10 One mark per mark point (max six) • Declaration of appropriate string variable(s) • Input of a line of text • Correct use of LCASE • Correct use of LENGTH • Opening of at least one of the required text files using given names (Main.txt, Lowercase.txt) • Storing of correct line of text to Main.txt • Storing of correct lines to Lowercase.txt • Closing of both text files • Correct output For example: DECLARE LineOfText : STRING DECLARE LowercaseText: STRING INPUT LineOfText OPENFILE Main.txt FOR WRITE WRITEFILE Main.txt, LineOfText CLOSEFILE Main.txt LowercaseText  LCASE(LineOfText) OUTPUT LowercaseText, LENGTH(LineOfText) OPENFILE Lowercase.txt FOR WRITE WRITEFILE Lowercase.txt, LowercaseText CLOSEFILE Lowercase.txt October/November Question Answer Marks • Fields – 11 • Records – 15 One mark for two or three correct fields Field Data type RoomNo // Type alphanumeric Mon // Tue // Wed // Thu // Fri // Sat // Sun Boolean Rate$ real Guests integer • Data from 4 correct columns printed – any number of rows, any order • Data in rows ordered as shown (row and column) at least two rows and two columns required • All data correct with no extra content Correct output 104S Single 1 72.50 105S Single 1 72.50 201F Family 4 160.00 301D Double 2 200.00 304P Suite 6 700.00 October/November Question Answer Marks • AO2 (maximum 9 marks) • AO3 (maximum 6 marks) Data Structures required with names as given in the scenario: Arrays or lists Rooms[], Dimensions[] Variables Number Requirements (techniques): R1 Input and store number of rooms, the names of the rooms and their dimensions, including validation of number of rooms (input with prompts, (nested) iteration, use of variables, 1D and 2D arrays, validation). R2 Calculate and",
+          "image": "/papers/computer_science-0478-2024/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2024/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2024",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2024-unit2-2024-11-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

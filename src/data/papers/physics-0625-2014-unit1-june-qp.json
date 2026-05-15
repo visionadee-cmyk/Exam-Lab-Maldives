@@ -1,0 +1,633 @@
+{
+  "paperId": "physics-0625-2014-unit1-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2014-unit1-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "May/June 2014",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 39,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student wishes to measure accurately the volume of approximately 40 cm 3 of water. She has two measuring cylinders, a larger one that can hold 100 cm 3 , and a smaller one that can hold 50 cm 3 . The water forms a meniscus where it touches the glass. top of meniscus bottom of meniscus Which  cylinder  should  the  student  use  and  which  water  level  should  she  use  to  ensure  an accurate result? cylinder           water         level A larger one bottom of meniscus, B larger one top of meniscus, C smaller one bottom of meniscus, D smaller one top of meniscus",
+      "text": "A student wishes to measure accurately the volume of approximately 40 cm 3 of water. She has two measuring cylinders, a larger one that can hold 100 cm 3 , and a smaller one that can hold 50 cm 3 . The water forms a meniscus where it touches the glass. top of meniscus bottom of meniscus Which  cylinder  should  the  student  use  and  which  water  level  should  she  use  to  ensure  an accurate result? cylinder           water         level A larger one bottom of meniscus, B larger one top of meniscus, C smaller one bottom of meniscus, D smaller one top of meniscus",
+      "options": [
+        "A larger one bottom of meniscus",
+        "B larger one top of meniscus",
+        "C smaller one bottom of meniscus",
+        "D smaller one top of meniscus"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which   distance / time graph represents the motion of an object moving at constant speed? A 0 0 distance time B 0 0 distance time C 0 0 distance time D 0 0 distance time 3",
+      "text": "Which   distance / time graph represents the motion of an object moving at constant speed? A 0 0 distance time B 0 0 distance time C 0 0 distance time D 0 0 distance time 3",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows how the speed of a car changes with time. 0 14 024 time / s speed m / s Which calculation gives the distance travelled by the car in 24 seconds? A m 24 14       B m 14 24       C m 2 1424       × D )( 1424  ×m",
+      "text": "The graph shows how the speed of a car changes with time. 0 14 024 time / s speed m / s Which calculation gives the distance travelled by the car in 24 seconds? A m 24 14       B m 14 24       C m 2 1424       × D )( 1424  ×m",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which instrument is used to compare the masses of objects? A a balance, B a barometer, C a manometer, D a measuring cylinder",
+      "text": "Which instrument is used to compare the masses of objects? A a balance, B a barometer, C a manometer, D a measuring cylinder",
+      "options": [
+        "A a balance",
+        "B a barometer",
+        "C a manometer",
+        "D a measuring cylinder"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A liquid has a volume of 100 cm 3 and a mass of 85 g. The density of water is 1.0 g / cm 3 . How does the density of the liquid compare with the density of water? A Its density is higher than that of water., B Its density is lower than that of water., C Its density is the same as that of water., D It is impossible to say with only this data. 4",
+      "text": "A liquid has a volume of 100 cm 3 and a mass of 85 g. The density of water is 1.0 g / cm 3 . How does the density of the liquid compare with the density of water? A Its density is higher than that of water., B Its density is lower than that of water., C Its density is the same as that of water., D It is impossible to say with only this data. 4",
+      "options": [
+        "A Its density is higher than that of water.",
+        "B Its density is lower than that of water.",
+        "C Its density is the same as that of water.",
+        "D It is impossible to say with only this data. 4"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plane lamina with centre of mass X touches the ground at point P. Which diagram shows the lamina in equilibrium? P A P B P C P D 45°45° 70° 20° X X X X 5",
+      "text": "A plane lamina with centre of mass X touches the ground at point P. Which diagram shows the lamina in equilibrium? P A P B P C P D 45°45° 70° 20° X X X X 5",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student adds weights to an elastic cord. He measures the length of the cord for each weight. He then plots a graph from the results, as shown. 0 0 weight What has he plotted on the vertical axis? A measured length, B original length, C (measured length + original length), D (measured length – original length)",
+      "text": "A student adds weights to an elastic cord. He measures the length of the cord for each weight. He then plots a graph from the results, as shown. 0 0 weight What has he plotted on the vertical axis? A measured length, B original length, C (measured length + original length), D (measured length – original length)",
+      "options": [
+        "A measured length",
+        "B original length",
+        "C (measured length + original length)",
+        "D (measured length – original length)"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which energy transfer takes place when a matchstick burns? A chemical to thermal, B chemical to nuclear, C nuclear   to   chemical, D thermal   to   chemical",
+      "text": "Which energy transfer takes place when a matchstick burns? A chemical to thermal, B chemical to nuclear, C nuclear   to   chemical, D thermal   to   chemical",
+      "options": [
+        "A chemical to thermal",
+        "B chemical to nuclear",
+        "C nuclear   to   chemical",
+        "D thermal   to   chemical"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Four cars are driven along a road. The table shows the work done by the engine in each car and the time taken by each car. Which engine produces the most power? work done by engine / J time taken / s A 50 000          20, B 50 000          40, C 100 000          20, D 100 000          40 6",
+      "text": "Four cars are driven along a road. The table shows the work done by the engine in each car and the time taken by each car. Which engine produces the most power? work done by engine / J time taken / s A 50 000          20, B 50 000          40, C 100 000          20, D 100 000          40 6",
+      "options": [
+        "A 50 000          20",
+        "B 50 000          40",
+        "C 100 000          20",
+        "D 100 000          40 6"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which situation is an example of a force acting over a large area to produce a small pressure? A a builder hammering a nail into a piece of wood, B a cook using a sharp knife to cut vegetables, C a nurse pushing a needle into a patient’s arm, D a soldier marching in flat-soled boots",
+      "text": "Which situation is an example of a force acting over a large area to produce a small pressure? A a builder hammering a nail into a piece of wood, B a cook using a sharp knife to cut vegetables, C a nurse pushing a needle into a patient’s arm, D a soldier marching in flat-soled boots",
+      "options": [
+        "A a builder hammering a nail into a piece of wood",
+        "B a cook using a sharp knife to cut vegetables",
+        "C a nurse pushing a needle into a patient’s arm",
+        "D a soldier marching in flat-soled boots"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student places four identical beakers on a bench. Two  beakers  contain  salt  water  of  density  1.1 g / cm 3 and  two  beakers  contain  pure  water  of density 1.0 g / cm 3 . Which beaker exerts the greatest pressure on the bench? AB C D 150 cm 3 of salt water 100 cm 3 of pure water 150 cm 3 of pure water 100 cm 3 of salt water",
+      "text": "A student places four identical beakers on a bench. Two  beakers  contain  salt  water  of  density  1.1 g / cm 3 and  two  beakers  contain  pure  water  of density 1.0 g / cm 3 . Which beaker exerts the greatest pressure on the bench? AB C D 150 cm 3 of salt water 100 cm 3 of pure water 150 cm 3 of pure water 100 cm 3 of salt water",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student places his thumb firmly on the outlet of a bicycle pump, to stop the air coming out. direction of motion handle trappe d air What happens to the pressure and what happens to the volume of the trapped air as the pump handle is pushed in? pressure           volume A decreases         decreases, B decreases remains the same, C increases          decreases, D increases remains the same 7",
+      "text": "A student places his thumb firmly on the outlet of a bicycle pump, to stop the air coming out. direction of motion handle trappe d air What happens to the pressure and what happens to the volume of the trapped air as the pump handle is pushed in? pressure           volume A decreases         decreases, B decreases remains the same, C increases          decreases, D increases remains the same 7",
+      "options": [
+        "A decreases         decreases",
+        "B decreases remains the same",
+        "C increases          decreases",
+        "D increases remains the same 7"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "During evaporation, molecules escape rapidly from the surface of a liquid. What happens to the average energy of the molecules of the remaining liquid and what happens to the temperature of the remaining liquid? average energy of remaining molecules temperature of remaining liquid A decreases             decreases, B decreases             increases, C stays the same decreases, D stays the same increases",
+      "text": "During evaporation, molecules escape rapidly from the surface of a liquid. What happens to the average energy of the molecules of the remaining liquid and what happens to the temperature of the remaining liquid? average energy of remaining molecules temperature of remaining liquid A decreases             decreases, B decreases             increases, C stays the same decreases, D stays the same increases",
+      "options": [
+        "A decreases             decreases",
+        "B decreases             increases",
+        "C stays the same decreases",
+        "D stays the same increases"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A telephone engineer connects a wire between two poles when the weather is very cold. He makes the wire very loose. The wire passes over a road. polepole very loose wire The weather changes and it becomes very hot. What could happen to the wire and why? what could happen why A it breaks it contracts, B it breaks it expands, C it sags and touches cars on the road it contracts, D it sags and touches cars on the road it expands 8",
+      "text": "A telephone engineer connects a wire between two poles when the weather is very cold. He makes the wire very loose. The wire passes over a road. polepole very loose wire The weather changes and it becomes very hot. What could happen to the wire and why? what could happen why A it breaks it contracts, B it breaks it expands, C it sags and touches cars on the road it contracts, D it sags and touches cars on the road it expands 8",
+      "options": [
+        "A it breaks it contracts",
+        "B it breaks it expands",
+        "C it sags and touches cars on the road it contracts",
+        "D it sags and touches cars on the road it expands 8"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an experiment, a thermometer is placed in a test-tube of hot liquid. The temperature of the liquid is recorded every half minute. The table shows the results. time / minutes    0.0  0.5  1.0  1.5  2.0  2.5  3.0  3.5  4.0  4.5  5.0  5.5  6.0  6.5  7.0  7.5 temperature / °C   73   65   59   55   55   55   51   48   45   42   40   38   36   35   34   33 What is the melting point of the substance? A 0 °C B 33 °C C 55 °C D 73 °C",
+      "text": "In an experiment, a thermometer is placed in a test-tube of hot liquid. The temperature of the liquid is recorded every half minute. The table shows the results. time / minutes    0.0  0.5  1.0  1.5  2.0  2.5  3.0  3.5  4.0  4.5  5.0  5.5  6.0  6.5  7.0  7.5 temperature / °C   73   65   59   55   55   55   51   48   45   42   40   38   36   35   34   33 What is the melting point of the substance? A 0 °C B 33 °C C 55 °C D 73 °C",
+      "options": [
+        "A 0 °C B 33 °C C 55 °C D 73 °C"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the transfer of thermal energy is correct? A All metals conduct thermal energy equally well., B Convection can only occur in solids or liquids., C Convection occurs in liquids because hot liquid is more dense than cold liquid., D The radiation that transfers thermal energy is a type of electromagnetic radiation.",
+      "text": "Which statement about the transfer of thermal energy is correct? A All metals conduct thermal energy equally well., B Convection can only occur in solids or liquids., C Convection occurs in liquids because hot liquid is more dense than cold liquid., D The radiation that transfers thermal energy is a type of electromagnetic radiation.",
+      "options": [
+        "A All metals conduct thermal energy equally well.",
+        "B Convection can only occur in solids or liquids.",
+        "C Convection occurs in liquids because hot liquid is more dense than cold liquid.",
+        "D The radiation that transfers thermal energy is a type of electromagnetic radiation."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  diagram  shows  a  heater  above  a  thermometer.  The  thermometer  bulb  is  in  the  position shown. thermometer thermometer bulb air heater Which row shows how the heat energy from the heater reaches the thermometer bulb? conduction    convection    radiation A yes         yes          no, B yes          no          yes, C no          yes          no, D no          no          yes 9",
+      "text": "The  diagram  shows  a  heater  above  a  thermometer.  The  thermometer  bulb  is  in  the  position shown. thermometer thermometer bulb air heater Which row shows how the heat energy from the heater reaches the thermometer bulb? conduction    convection    radiation A yes         yes          no, B yes          no          yes, C no          yes          no, D no          no          yes 9",
+      "options": [
+        "A yes         yes          no",
+        "B yes          no          yes",
+        "C no          yes          no",
+        "D no          no          yes 9"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Scout P signals to scout Q on the other side of a valley by using a mirror to reflect the Sun’s rays. mirror scout P Sun’s rays scout Q Which mirror position would allow the Sun’s rays to be reflected to scout Q? Sun’s rays Sun’s rays Sun’s rays Sun’s rays mirror A BCD",
+      "text": "Scout P signals to scout Q on the other side of a valley by using a mirror to reflect the Sun’s rays. mirror scout P Sun’s rays scout Q Which mirror position would allow the Sun’s rays to be reflected to scout Q? Sun’s rays Sun’s rays Sun’s rays Sun’s rays mirror A BCD",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A small boat in a harbour is protected from waves on the sea by harbour walls. seasealandsea small boat harbour harbour walls waves Some waves can curve round the harbour walls and reach the boat. What is the name of this effect? A diffraction, B dispersion, C reflection, D refraction 10",
+      "text": "A small boat in a harbour is protected from waves on the sea by harbour walls. seasealandsea small boat harbour harbour walls waves Some waves can curve round the harbour walls and reach the boat. What is the name of this effect? A diffraction, B dispersion, C reflection, D refraction 10",
+      "options": [
+        "A diffraction",
+        "B dispersion",
+        "C reflection",
+        "D refraction 10"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which list shows electromagnetic waves in order of increasing frequency? A visible light, X-rays, γ-rays, B visible   light,   γ-rays, X-rays, C X-rays,   γ-rays, visible light, D γ-rays, X-rays, visible light",
+      "text": "Which list shows electromagnetic waves in order of increasing frequency? A visible light, X-rays, γ-rays, B visible   light,   γ-rays, X-rays, C X-rays,   γ-rays, visible light, D γ-rays, X-rays, visible light",
+      "options": [
+        "A visible light, X-rays, γ-rays",
+        "B visible   light,   γ-rays, X-rays",
+        "C X-rays,   γ-rays, visible light",
+        "D γ-rays, X-rays, visible light"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about a converging lens is not correct? A A ray parallel to the principal axis of the lens is refracted through the principal focus., B All rays of light refracted by the lens pass through the principal focus., C The distance between the centre of the lens and the principal focus is the focal length., D The principal focus of the lens is a point on the principal axis.",
+      "text": "Which statement about a converging lens is not correct? A A ray parallel to the principal axis of the lens is refracted through the principal focus., B All rays of light refracted by the lens pass through the principal focus., C The distance between the centre of the lens and the principal focus is the focal length., D The principal focus of the lens is a point on the principal axis.",
+      "options": [
+        "A A ray parallel to the principal axis of the lens is refracted through the principal focus.",
+        "B All rays of light refracted by the lens pass through the principal focus.",
+        "C The distance between the centre of the lens and the principal focus is the focal length.",
+        "D The principal focus of the lens is a point on the principal axis."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Rays of light enter and leave a box. ray 1 ray 2 ray 1 ray 2 What could be inside the box to make the rays behave as shown? A a converging lens, B a parallel-sided glass block, C a plane mirror, D a triangular prism",
+      "text": "Rays of light enter and leave a box. ray 1 ray 2 ray 1 ray 2 What could be inside the box to make the rays behave as shown? A a converging lens, B a parallel-sided glass block, C a plane mirror, D a triangular prism",
+      "options": [
+        "A a converging lens",
+        "B a parallel-sided glass block",
+        "C a plane mirror",
+        "D a triangular prism"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A boy blows a whistle that has a frequency of 10 000 Hz. The boy’s friend cannot hear the sound from the whistle. The friend has normal hearing. What could be a reason why he cannot hear the sound? A The amplitude is too large., B The amplitude is too small., C The frequency is too high., D The frequency is too low. 11",
+      "text": "A boy blows a whistle that has a frequency of 10 000 Hz. The boy’s friend cannot hear the sound from the whistle. The friend has normal hearing. What could be a reason why he cannot hear the sound? A The amplitude is too large., B The amplitude is too small., C The frequency is too high., D The frequency is too low. 11",
+      "options": [
+        "A The amplitude is too large.",
+        "B The amplitude is too small.",
+        "C The frequency is too high.",
+        "D The frequency is too low. 11"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A lighted candle is placed in front of a loudspeaker that is making a loud, steady note. The candle flame vibrates because of the sound wave. candle flame loudspeaker Which type of waves are sound waves and in which direction does the flame vibrate? type of wave direction of vibration A longitudinal, B transverse, C longitudinal, D transverse",
+      "text": "A lighted candle is placed in front of a loudspeaker that is making a loud, steady note. The candle flame vibrates because of the sound wave. candle flame loudspeaker Which type of waves are sound waves and in which direction does the flame vibrate? type of wave direction of vibration A longitudinal, B transverse, C longitudinal, D transverse",
+      "options": [
+        "A longitudinal",
+        "B transverse",
+        "C longitudinal",
+        "D transverse"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two iron nails hang from a bar magnet. Which diagram shows the magnetic poles induced in the nails? A N N N S S S B N S N S N S C N N S S S N D N S S S N N bar magnet 12",
+      "text": "Two iron nails hang from a bar magnet. Which diagram shows the magnetic poles induced in the nails? A N N N S S S B N S N S N S C N N S S S N D N S S S N N bar magnet 12",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A steel magnet is placed inside a coil of wire. There is a large alternating current in the coil. The magnet is slowly moved out of the coil to position P. steel magnet moved out of coil 12 V a.c. P coil of wire How has the steel changed, if at all, when it reaches position P? A It has become a stronger magnet., B It has become demagnetised., C The poles have changed ends., D There has been no change.",
+      "text": "A steel magnet is placed inside a coil of wire. There is a large alternating current in the coil. The magnet is slowly moved out of the coil to position P. steel magnet moved out of coil 12 V a.c. P coil of wire How has the steel changed, if at all, when it reaches position P? A It has become a stronger magnet., B It has become demagnetised., C The poles have changed ends., D There has been no change.",
+      "options": [
+        "A It has become a stronger magnet.",
+        "B It has become demagnetised.",
+        "C The poles have changed ends.",
+        "D There has been no change."
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A plastic rod and a dry cloth are uncharged. The  rod  is  now  rubbed  with  the  cloth  and  they  both  become  charged.  The  rod  becomes negatively charged because some charged particles move from the cloth to the rod. What is the charge on the cloth and which particles moved in the charging process? charge on cloth particles that moved A negative       electrons, B negative       neutrons, C positive       electrons, D positive       neutrons 13",
+      "text": "A plastic rod and a dry cloth are uncharged. The  rod  is  now  rubbed  with  the  cloth  and  they  both  become  charged.  The  rod  becomes negatively charged because some charged particles move from the cloth to the rod. What is the charge on the cloth and which particles moved in the charging process? charge on cloth particles that moved A negative       electrons, B negative       neutrons, C positive       electrons, D positive       neutrons 13",
+      "options": [
+        "A negative       electrons",
+        "B negative       neutrons",
+        "C positive       electrons",
+        "D positive       neutrons 13"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an incomplete circuit. A XY Four wires of different length and thickness are connected in turn between point X and point Y. All four wires are made of the same metal. Which wire will cause the greatest reading on the ammeter? A long   and   thick, B long   and   thin, C short and thick, D short and thin",
+      "text": "The diagram shows an incomplete circuit. A XY Four wires of different length and thickness are connected in turn between point X and point Y. All four wires are made of the same metal. Which wire will cause the greatest reading on the ammeter? A long   and   thick, B long   and   thin, C short and thick, D short and thin",
+      "options": [
+        "A long   and   thick",
+        "B long   and   thin",
+        "C short and thick",
+        "D short and thin"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit containing a battery, a lamp, a switch and another component X. The switch is initially closed and the lamp is lit. The switch is now opened and the lamp remains lit for several seconds before slowly going out. component X What is component X? A a capacitor, B a light-dependent resistor, C a thermistor, D a variable resistor 14",
+      "text": "The diagram shows a circuit containing a battery, a lamp, a switch and another component X. The switch is initially closed and the lamp is lit. The switch is now opened and the lamp remains lit for several seconds before slowly going out. component X What is component X? A a capacitor, B a light-dependent resistor, C a thermistor, D a variable resistor 14",
+      "options": [
+        "A a capacitor",
+        "B a light-dependent resistor",
+        "C a thermistor",
+        "D a variable resistor 14"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a circuit containing three lamps and three switches S 1 , S 2 and S 3 . lamp 1 lamp 2 lamp 3 S 1 S 2 S 3 Lamp 1 and lamp 3 are lit, but lamp 2 is not lit. Which switch or switches is/are closed? A S 1 only, B S 1 and S 2, C S 1 and S 3, D S 2 and S 3",
+      "text": "The diagram shows a circuit containing three lamps and three switches S 1 , S 2 and S 3 . lamp 1 lamp 2 lamp 3 S 1 S 2 S 3 Lamp 1 and lamp 3 are lit, but lamp 2 is not lit. Which switch or switches is/are closed? A S 1 only, B S 1 and S 2, C S 1 and S 3, D S 2 and S 3",
+      "options": [
+        "A S 1 only",
+        "B S 1 and S 2",
+        "C S 1 and S 3",
+        "D S 2 and S 3"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows part of an electric circuit. 12 V 0 V V The light falling on the light-dependent resistor (LDR) increases in brightness. What happens to the resistance of the LDR and what happens to the reading on the voltmeter? resistance of LDR reading on voltmeter A decreases          decreases, B decreases          increases, C increases          decreases, D increases          increases 15",
+      "text": "The diagram shows part of an electric circuit. 12 V 0 V V The light falling on the light-dependent resistor (LDR) increases in brightness. What happens to the resistance of the LDR and what happens to the reading on the voltmeter? resistance of LDR reading on voltmeter A decreases          decreases, B decreases          increases, C increases          decreases, D increases          increases 15",
+      "options": [
+        "A decreases          decreases",
+        "B decreases          increases",
+        "C increases          decreases",
+        "D increases          increases 15"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which labelled component in the circuit shown controls the brightness of lamp X? V A B D C X",
+      "text": "Which labelled component in the circuit shown controls the brightness of lamp X? V A B D C X",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An appliance is connected to a mains supply. Its circuit also contains a switch and a fuse. Which circuit shows the fuse in the correct position? live neutral appliance live neutral appliance live neutral appliance live neutral appliance AB CD 16",
+      "text": "An appliance is connected to a mains supply. Its circuit also contains a switch and a fuse. Which circuit shows the fuse in the correct position? live neutral appliance live neutral appliance live neutral appliance live neutral appliance AB CD 16",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An electric current is passed through a coil of wire. coil of wire Which diagram shows the shape of the magnetic field produced in the middle of the coil? A B CD 17",
+      "text": "An electric current is passed through a coil of wire. coil of wire Which diagram shows the shape of the magnetic field produced in the middle of the coil? A B CD 17",
+      "options": [
+        "A B CD 17"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When a wire is moved upwards between the poles of a magnet, an electromotive force (e.m.f.) is induced across the ends of the wire. wire motion of wire N S Which device uses a moving wire to induce an e.m.f.? A a cathode-ray tube, B a   generator, C a   transformer, D an   electromagnet",
+      "text": "When a wire is moved upwards between the poles of a magnet, an electromotive force (e.m.f.) is induced across the ends of the wire. wire motion of wire N S Which device uses a moving wire to induce an e.m.f.? A a cathode-ray tube, B a   generator, C a   transformer, D an   electromagnet",
+      "options": [
+        "A a cathode-ray tube",
+        "B a   generator",
+        "C a   transformer",
+        "D an   electromagnet"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An input voltage of 10 V is supplied to the primary coil of a transformer. An output voltage of 40 V is produced across the secondary coil. The 10 V supply at the primary coil is now replaced with a 40 V supply. What is the new output voltage across the secondary coil? A 10 V B 40 V C 70 V D 160 V",
+      "text": "An input voltage of 10 V is supplied to the primary coil of a transformer. An output voltage of 40 V is produced across the secondary coil. The 10 V supply at the primary coil is now replaced with a 40 V supply. What is the new output voltage across the secondary coil? A 10 V B 40 V C 70 V D 160 V",
+      "options": [
+        "A 10 V B 40 V C 70 V D 160 V"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A beam of cathode rays passes between two parallel metal plates connected to a high-voltage d.c. power supply. Which path does the beam follow? +++ cathode rays D C B A +++ metal plate metal plate 18",
+      "text": "A beam of cathode rays passes between two parallel metal plates connected to a high-voltage d.c. power supply. Which path does the beam follow? +++ cathode rays D C B A +++ metal plate metal plate 18",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The table shows the results of an experiment to find the half-life of a radioactive substance. time / s second/counts substance from rate count 0               150",
+      "text": "The table shows the results of an experiment to find the half-life of a radioactive substance. time / s second/counts substance from rate count 0               150",
+      "options": [],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q38.png"
+    },
+    {
+      "id": "q60",
+      "number": 60,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "120 120                95 180                75 240                60 What is the half-life of the substance? A 60 seconds, B 120 seconds, C 180 seconds, D 240 seconds 39  The diagram shows a box used for storing radioactive sources. Which material is best for lining the box to prevent the escape of most radioactive emissions?, A aluminium, B copper, C lead, D steel 40  A lithium nucleus contains 3 protons and 4 neutrons. What is its nuclide notation? A Li 3 4, B Li 4 3, C Li 7 3 D Li 7 4 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "text": "120 120                95 180                75 240                60 What is the half-life of the substance? A 60 seconds, B 120 seconds, C 180 seconds, D 240 seconds 39  The diagram shows a box used for storing radioactive sources. Which material is best for lining the box to prevent the escape of most radioactive emissions?, A aluminium, B copper, C lead, D steel 40  A lithium nucleus contains 3 protons and 4 neutrons. What is its nuclide notation? A Li 3 4, B Li 4 3, C Li 7 3 D Li 7 4 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local",
+      "options": [
+        "A 60 seconds",
+        "B 120 seconds",
+        "C 180 seconds",
+        "D 240 seconds 39  The diagram shows a box used for storing radioactive sources. Which material is best for lining the box to prevent the escape of most radioactive emissions?",
+        "A aluminium",
+        "B copper",
+        "C lead",
+        "D steel 40  A lithium nucleus contains 3 protons and 4 neutrons. What is its nuclide notation? A Li 3 4",
+        "B Li 4 3",
+        "C Li 7 3 D Li 7 4 19 20 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. Cambridge International Examinations is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of University of Cambridge Local"
+      ],
+      "answer": "",
+      "image": "/papers/physics-0625-2014/q60.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 39,
+    "answersMatched": 0
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2014",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2014-unit1-2014-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

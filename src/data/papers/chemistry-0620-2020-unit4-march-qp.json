@@ -1,0 +1,91 @@
+{
+  "paperId": "chemistry-0620-2020-unit4-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit4-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/42",
+  "session": "February/March 2020",
+  "title": "Paper 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Ca has 2 and C l has outer electrons 7 (1) Ca (atoms) lose electrons (1) C l (atoms) gain electrons (1) Ca 2+ (ions) (1) C l – (ions) (1) 0620/42 March 2020 any number in the range 72 – 129°C attraction increase (1) between molecules (1) 3 P – C l dot cross bonds (1) 2 (only) non-bonding electrons to make an octet on P (1) 6 (only) non-bonding electrons to make an octet on each C l (1) constant concentrations (1) rate of forward reaction = rate of reverse reaction (1) increased temperature : (equilibrium) shifts to LHS (1) (forward) reaction is exothermic (1) increased pressure : (equilibrium) shifts to RHS (1) fewer moles (of gas) on RHS (1) and particles have more energy (1) more collisions (between particles) occur per second / per unit time more (of the) particles / collisions have energy greater than activation energy or more (of the) particles / collisions have sufficient energy to react or a greater percentage / proportion / fraction of collisions (of particles) are successful",
+          "image": "/papers/chemistry-0620-2020/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "mol of LiPF = 3.04 / = 0.02(00) (1) mol of LiF = 0.02(00) × = 0.12(0) (1) mass of LiF = 3.12 g (1) 0620/42 March 2020 oppositely charged ions (ions) are attracted any two from: physical constants : high boiling point / melting point conductivity : conduct (electricity) when aqueous or conduct (electricity) when molten solubility : soluble in wate r",
+          "image": "/papers/chemistry-0620-2020/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Haber (process) (1) ammonia (1) 2+ (aq) + 2OH – (aq)  Fe(OH) (s) Fe(OH) (as only product) (1) Fe 2+ and 2OH – (as reactants) (1) state symbols (1) oxidising agent presence of an acid lose an electron 3+ 0620/42 March 2020 r hydrocarbon with one C=C bond (with both C atoms having 4 bonds) (1) structure of methylpropene (1)",
+          "image": "/papers/chemistry-0620-2020/q4-4a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "water is a product (when polymer is made) any correct amide link between any two blocks showing all atoms and all bonds (1) correct orientation of 3 inter-block amide links (1) continuation bonds (1)",
+          "image": "/papers/chemistry-0620-2020/q5-5b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit4-2020-03-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

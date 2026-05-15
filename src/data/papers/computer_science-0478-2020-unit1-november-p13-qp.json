@@ -1,0 +1,211 @@
+{
+  "paperId": "computer_science-0478-2020-unit1-november-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit1-november-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "October/November 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 13,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Control unit // CU",
+          "image": "/papers/computer_science-0478-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Arithmetic logic unit // ALU",
+          "image": "/papers/computer_science-0478-2020/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Program counter // memory address register // PC // MAR",
+          "image": "/papers/computer_science-0478-2020/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Memory data register // current instruction register // MDR // CIR",
+          "image": "/papers/computer_science-0478-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Memory data register // MDR 0478/13 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q2-2e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3 (a) Four denary to 8-bit binary conversions are given. Tick (3) to show if each denary to 8-bit binary conversion is Correct or Incorrect. DenaryBinary Conversion Correct (3) Incorrect (3) 14510010001 17910110101 1100010011 10001100010",
+      "text": "3 (a) Four denary to 8-bit binary conversions are given. Tick (3) to show if each denary to 8-bit binary conversion is Correct or Incorrect. DenaryBinary Conversion Correct (3) Incorrect (3) 14510010001 17910110101 1100010011 10001100010",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3 (a) Four denary to 8-bit binary conversions are given. Tick (3) to show if each denary to 8-bit binary conversion is Correct or Incorrect. DenaryBinary Conversion Correct (3) Incorrect (3) 14510010001 17910110101 1100010011 10001100010",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per each correct row: Denary Binary Conversion Correct (  ) Incorrect (  ) 145 10010001  179 10110101  11 00010011  100 01100010 ",
+          "image": "/papers/computer_science-0478-2020/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct conversion in the correct order : − C − −",
+          "image": "/papers/computer_science-0478-2020/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any four from: − Browsers sends URL to DNS − ... using HTTP − DNS finds matching IP addresses for URL − ... and sends IP address to web browser − Web browser sends request to IP address/web server for web pages − Web pages are sent from web server to browser − Browser renders HTML to display web pages − Any security certificates are exchanged/authenticated // SSL/HTTPS is used to secure the data − ... encrypting any data sent 0478/13 October/November 2020 three from: − Hacking − Denial of service (DoS) − Malware − Virus NOTE: three suitable types of malware can be awarded",
+          "image": "/papers/computer_science-0478-2020/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct tick, two marks for description − Serial − Bits sent one at a time − Single wire If parallel given, no mark for parallel, but follow through for correct description of parallel: − Multiple bits sent at a time − Multiple wires three from: − Universal connection // industry standard − Can only be inserted one way − Backward compatible − Auto configures // automatically recognised devices − Can power devices − Fast data transfer speed − Inexpensive to purchase/manufacture 0478/13 October/November 2020 two from: − TLS − SSL − HTTPS − Key // Algorithm − Algorithm // Key (must be opposite of first one) − Plain − Cypher − Key // Algorithm",
+          "image": "/papers/computer_science-0478-2020/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row: 8-bit binary value Even (  ) Odd (  )     one from: − Transposition error − When bits still add up to odd/even number − Even number of incorrect bits 0478/13 October/November 2020 one from: − ARQ − Checksum three from: − Liquid crystal display − The display is made of pixels − ... arranged in a matrix − Uses a flat panel display − Backlit display − ... with CCFLs/LEDs − Uses light-modulating properties of liquid crystals − Crystals can be turned between opaque and transparent (to allow light to pass) − Colours created using RGB three from: − Low power consumption − Runs at cool temperature − Do not suffer image burn − Do not suffer flicker issues − Bright image/colours − High resolution image − Cheaper to purchase than e.g. LED screen 0478/13 October/November 2020 three from: − Both need a red laser to read/write data − Both are spun to be read − Both use spiral tracks for data − Both are optical storage − Both are off-line storage // both non-volatile − Both use pits and lands to store data one from: − DVD can be dual layer, but CD can only be single − DVD has higher storage capacity − DVD has a shorter wavelength laser − DVD are spun faster − DVDs have a higher data transfer rate 0478/13 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q7.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 10",
+      "text": "Question 10",
+      "parts": [
+        {
+          "id": "10a",
+          "text": "Part 10a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct logic gate with the correct input: 0478/13 October/November 2020",
+          "image": "/papers/computer_science-0478-2020/q10-10a.png"
+        },
+        {
+          "id": "10b",
+          "text": "Part 10b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6/7 correct outputs Two marks for 4/5 correct outputs One mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 Six from: − Suitable sensor used e.g. motion sensor/pressure sensor − (Analogue) data is converted to digital (using ADC) − Sensor sends data to microprocessor − Data compared to stored data ... − ... if value outside range/within range water is sprayed − ... signal sent to actuator to spray water − ... if value within range/outside range no action taken − Continuous loop 0478/13 October/November 2020 One mark for each correct row: Statement True (  ) False (  ) Provides access to the Internet for customers  Can determine the maximum bandwidth available for customers  Monitors the volume of data downloaded by customers  Can provide an IP address for the custome r  Stores the content for all web pages available on the Internet  0478/13 October/November 2020 one from: − Both are designed to steal/collect personal data − Both pretend to be a real company − Both use fake websites",
+          "image": "/papers/computer_science-0478-2020/q10-10b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q10.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "parts": [
+        {
+          "id": "13b",
+          "text": "Part 13b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Phishing involves use of an email whereas pharming involves installing malicious code − Phishing involves clicking a link or an attachment whereas pharming creates a redirection",
+          "image": "/papers/computer_science-0478-2020/q13-13b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q13.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 13,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit1-2020-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

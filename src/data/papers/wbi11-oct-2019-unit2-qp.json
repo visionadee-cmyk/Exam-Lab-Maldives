@@ -1,0 +1,83 @@
+{
+  "paperId": "wbi11-oct-2019-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-oct-2019-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "October 2019",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Accept identification of side effects Ignore identification of appropriate dosage Accept tested on 100-500 volunteer patients with {disease / HIV/ cancer} Ignore patients unqualified (3) Number Answer Additional guidance Mark",
+          "image": "/papers/wbi11-oct-2019/q5-5c.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2019/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The correct answer is B endemic A is incorrect because the correct term is endemic C is incorrect because the correct term is endemic D is incorrect because the correct term is endemic (1) Number Answer Additional guidance Mark • anatomical (adaptation) (1) • physiological (adaptation) (1) • anatomical (adaptation) (1) (3) Number Answer Additional guidance Mark • {poison / skin colour/ spots} deters predators / reduce risk of predation (1) • adhesive discs allow the frog to {climb / cling to} surfaces (to find food) (1) Accept reduce risk of being eaten / protects frog from predators Ignore camouflage e.g. trees / leaves (2) Number Answer Additional guidance Mark • (genetic) mutation(s) occurred (1) • (new) allele coding for poison production (1) • (which then) conferred a selective advantage / (those with poison) more likely to {survive and reproduce / pass alleles to offspring} (1) • (therefore) increasing allele frequency (1) • (resulting in) new species of frog with the ability to produce poison evolved (1) Ignore genes Accept those without the {mutation / poison / advantageous allele} were less likely to survive and reproduce (4) Number Answer Additional guidance Mark The correct answer is C two A is incorrect because lignin gives waterproofing properties and can form spiral shapes B is incorrect because lignin gives waterproofing properties and can form spiral shapes D is incorrect because lignin does not add strength to the cell membranes (1) Number Answer Additional guidance Mark • both contain {cellulose / pits / dead cells / secondary walls} • both {are hollow / do not contain cytoplasm} Difference (1) • sclerenchyma contain end walls whereas xylem do not Ignore cell walls unqualified Ignore no nucleus Accept sclerenchyma are {pointed/closed} at each end whereas xylem are {not / open at each end} Accept xylem contain tracheids whereas sclerenchyma do not (2) Number Answer Additional guidance Mark • hemp is renewable / more can be grown / will not run out (",
+          "image": "/papers/wbi11-oct-2019/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2019/q6.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The correct answer is C Y A is incorrect because the nucleus contains the genetic information used in the synthesis of acrosomal enzymes B is incorrect because the nucleus contains the genetic information used in the synthesis of acrosomal enzymes D is incorrect because the nucleus contains the genetic information used in the synthesis of acrosomal enzymes (1) Number Answer Additional guidance Mark 8 (b) • morula (1) Number Answer Additional guidance Mark Either: • DNA methylation / adds methyl groups to DNA (1) • (DNA methylation) causes the {switching off / silencing} of gene(s) (1) Or: • histone modification / {methylation / phosphorylation/ acetylation} of histone (1) • (histone modification) causes the {switching off / silencing / activation} of gene(s) / (1) Accept prevents {transcription / expression} of gene(s) Accept activates genes Accept ubiquitylation / sumoylation Accept prevents {transcription / expression} of gene(s) / allows {transcription / expression} of gene(s) (2) Number Answer Additional guidance Mark • transcription of active genes / active mRNA produced (1) • therefore {certain / specific} proteins produced / (1) • these proteins {determine / change} cell {structure / f unction} (1) Accept named example Accept translation at the ribosomes produces proteins Accept description Ignore modifies the cell unqualified (3) Number 8 (d) Answers will be credited according to candidate’s deployment of knowledge and understanding of the material in relation to the qualities and skills outlined in the generic mark scheme. The indicative content below is not prescriptive, and candidates are not required to include all the material indicated as relevant. Additional content included in the response must be scientific and relevant. Basic information • genotype is shown by the different allele combinations • the gene has {multiple / four} alleles • one copy of each allele is inherited from each {parent / gamete} • phenotype is the result of interaction between ",
+          "image": "/papers/wbi11-oct-2019/q8-8a.png"
+        }
+      ],
+      "image": "/papers/wbi11-oct-2019/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-oct-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2019-unit2-2019-10-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

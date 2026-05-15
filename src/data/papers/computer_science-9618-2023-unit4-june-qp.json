@@ -1,0 +1,91 @@
+{
+  "paperId": "computer_science-9618-2023-unit4-june-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2023-unit4-june-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/41",
+  "session": "May/June 2023",
+  "title": "Unit 4 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "1(c) in the evidence document. [3] (d) (i) Amend the main program to: • prompt the user to input a whole number between 0 and 100 inclusive • read and validate the input from the user • call LinearSearch() with DataArray and the valida",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark each  Function header (and close where appropriate) taking array and search value as parameters  Looping through each array element and keeping count of the number of times the parameter appears  Returning the calculated count value Example program code: Java public static Integer LinearSearch(Integer[] DataArray, Integer DataToFind){ Integer Count = 0; for(Integer x = 0; x < DataArray.length - 1; x++){ if(DataArray[x] == DataToFind){ Count++; } } return Count; } VB.NET Function LinearSearch(DataArray, DataToFind) Dim Count As Integer = 0 For x = 0 To DataArray.length - 1 If DataArray(x) = DataToFind Then Count = Count + 1 End If Next Return Count End Function Python def LinearSearch(DataArray, DataToFind): Count = 0 for X in range(0, len(DataArray)): if(DataArray[X] == DataToFind): Count +=1 return Count 9618/41 May/June 2023 1 mark each  Prompt and reading input ...  ...with validation for whole number between 0 and 100 inclusive  Calling LinearSearch() with array and valid data input and storing/using return value  Output of the message with return value Example program code: Java System.out.println(\"Enter a number to find\"); Integer DataToFind = -1; Scanner NewScanner = new Scanner(System.in); while(DataToFind < 0 || DataToFind > 100){ DataToFind = Integer.parseInt(NewScanner.nextLine()); } Integer NumberTimes = LinearSearch(DataArray, DataToFind); System.out.println(\"The number \" + DataToFind + \" is found \" + NumberTimes + \" times\"); VB.NET Console.WriteLine(\"Enter a number to find \") Dim DataToFind As Integer = -1 Do Until DataToFind >= 0 And DataToFind <= 100 DataToFind = Console.ReadLine() Loop Dim NumberTimes = LinearSearch(DataArray, DataToFind) Console.WriteLine(\"The number \" & DataToFind & \" is found \" & NumberTimes & \" times.\") Python DataToFind = int(input(\"Enter a number to find \")) while DataToFind < 0 or DataToFind > 100: DataToFind = int(input(\"Enter a number to find \")) NumberTimes = LinearSearch(DataArray, DataToFind) print(\"The num",
+          "image": "/papers/computer_science-9618-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "2(c) in the evidence document. [3] (d) The main program needs to: • instantiate a car as a new vehicle with the ID \"Tiger\", a maximum speed of 100 and an increase amount of 20 • instantiate a new helicopter with the ID \"L",
+          "marks": 1,
+          "type": "structured",
+          "answer": "def OutputCurrentPosition(self): print(\"Current position = \", Vehicle.GetHorizontalPosition(self)) print(\"Current speed = \", Vehicle.GetCurrentSpeed(self)) print(\"Current verticalposition = \", self.__VerticalPosition) 9618/41 May/June 2023 1 mark each  Instantiating an object of type Vehicle with correct parameters (\"Tiger\", 100, 20)  Instantiating an object of type Helicopter with correct parameters (\"Lion\", 350, 40, 3, 100)  Calling IncreaseSpeed() twice for the car  Calling IncreaseSpeed() twice for the helicopter  Calling the output for both objects Example program code: VB.NET Sub Main() Dim Car As Vehicle Car = New Vehicle(\"Tiger\", 100, 20) Dim Heli1 As Helicopter Heli1 = New Helicopter(\"Lion\", 350, 40, 3, 100) Car.IncreaseSpeed() Car.IncreaseSpeed() OutputCurrentPosition(Car) Console.WriteLine(\"\") Heli1.IncreaseSpeed() Heli1.IncreaseSpeed() OutputCurrentPosition(Heli1) End Sub Java public static void main(String args[]){ Vehicle Car = new Vehicle(\"Tiger\", 100, 20); Helicopter Heli1 = new Helicopter(\"Lion\", 350, 40, 3, 100); Car.IncreaseSpeed(); Car.IncreaseSpeed(); Car.OutputCurrentPosition(); System.out.println(\"\"); Heli1.IncreaseSpeed(); Heli1.IncreaseSpeed(); Heli1.OutputCurrentPosition(); } 9618/41 May/June 2023 Python #main Car = Vehicle(\"Tiger\", 100, 20) Heli1 = Helicopter(\"Lion\", 350, 40, 3, 100) Car.IncreaseSpeed() Car.IncreaseSpeed() Car.OutputCurrentPosition() print(\"\") Heli1.IncreaseSpeed() Heli1.IncreaseSpeed() Heli1.OutputCurrentPosition() Screenshot of results e.g. 9618/41 May/June 2023",
+          "image": "/papers/computer_science-9618-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "3(a) in the evidence document. [3] (b) (i) Study the pseudocode function PushAnimal(): FUNCTION PushAnimal(DataToPush : STRING) RETURNS BOOLEAN IF AnimalTopPointer = 20 THEN RETURN FALSE",
+      "text": "3(a) in the evidence document. [3] (b) (i) Study the pseudocode function PushAnimal(): FUNCTION PushAnimal(DataToPush : STRING) RETURNS BOOLEAN IF AnimalTopPointer = 20 THEN RETURN FALSE",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "3(a) in the evidence document. [3] (b) (i) Study the pseudocode function PushAnimal(): FUNCTION PushAnimal(DataToPush : STRING) RETURNS BOOLEAN IF AnimalTopPointer = 20 THEN RETURN FALSE",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark each  (Global) Animal array (with 20 string elements)  (Global) Colour array (with 10 string elements)  (Global) AnimalTopPointer and ColourTopPointer initialised to 0 Example program code: Java public static String[] Animal = new String[20]; public static String[] Colour = new String[10]; public static Integer AnimalTopPointer = 0; public static Integer ColourTopPointer = 0; VB.NET Dim Animal(0 to 19) As String Dim Colour(0 to 9) As String Dim AnimalTopPointer As Integer = 0 Dim ColourTopPointer As Integer = 0 Python Animal = [] #20 elements Colour = [] #10 elements global AnimalTopPointer global ColourTopPointer AnimalTopPointer = 0 ColourTopPointer = 0 9618/41 May/June 2023 1 mark each  Function header (and close where appropriate) with par ameter, checking if full (AnimalTopPointer = 20) and returning false  If not full, inserting parameter value into AnimalTopPointer  ...incrementing pointer and returning true Example program code: Java public static Boolean PushAnimal(String DataToPush){ if(AnimalTopPointer == 20){ return false; }else{ Animal[AnimalTopPointer] = DataToPush; AnimalTopPointer++; return true; } } VB.NET Function PushAnimal(DataToPush) If AnimalTopPointer = 20 Then Return False Else Animal(AnimalTopPointer) = DataToPush AnimalTopPointer = AnimalTopPointer + 1 Return True End If End Function Python def PushAnimal(DataToPush): global AnimalTopPointer global ColourTopPointer if AnimalTopPointer == 20: return False 9618/41 May/June 2023 else: Animal.append(DataToPush) AnimalTopPointer +=1 return True 1 mark each  Procedure header (and end where appropriate) with no parameter, checking if empty (AnimalTopPointer = 0) and returning empty string  If not empty returning the top data item (AnimalTopPointer-1)  ... and decrementing AnimalTopPointer Example program code: Java public static String PopAnimal(){ String ReturnData; if(AnimalTopPointer == 0){ return \"\"; }else{ ReturnData = Animal[AnimalTopPointer - 1]; AnimalTopPointer--; return R",
+          "image": "/papers/computer_science-9618-2023/q3-3a.png"
+        },
+        {
+          "id": "3c",
+          "text": "3(c) in the evidence document. [5] (d) The main program: • calls the procedure ReadData() • calls OutputItem() four times. (i) Write program code for the main program. Save your program. Copy and paste the pro",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Else If Animalreturned = \"\" Then Console.WriteLine(\"No animal\") PushColour(ColourReturned) Else Console.WriteLine(\"A \" & ColourReturned & \" \" & Animalreturned) End If End If End Sub Python def OutputItem(): global AnimalTopPointer global ColourTopPointer ColourReturned = PopColour() AnimalReturned = PopAnimal() if ColourReturned == \"\": print(\"No colour\") PushAnimal(AnimalReturned) else: if AnimalReturned == \"\": print(\"No animal\") PushColour(ColourReturned) else: print(ColourReturned, AnimalReturned) 9618/41 May/June 2023 1 mark for  Calling ReadData() and calling OutputItem() 4 times Example program code: Java public static void main(String args[]){ ReadData(); OutputItem(); OutputItem(); OutputItem(); OutputItem(); } VB.NET Sub Main() ReadData() OutputItem() OutputItem() OutputItem() OutputItem() End Sub Python ReadData() OutputItem() OutputItem() OutputItem() OutputItem() 1 mark for output e.g.",
+          "image": "/papers/computer_science-9618-2023/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2023/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2023-unit4-2023-06-qp.pdf"
+  },
+  "unit": "Unit 4"
+}

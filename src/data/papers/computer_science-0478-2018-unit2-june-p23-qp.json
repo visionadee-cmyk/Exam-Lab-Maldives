@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2018-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2018",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Max Counter Num OUTPUT –1000.00 0 6.30 6.30 1 18.62 18.62 2 50.01 50.01 3 3.13 50.01 4 2.05 50.01 5 50.10 50.10 6 40.35 50.10 7 30.69 50.10 8 0.85 50.10 9 17.30 50.10 10 50.10 Å 1 mark Æ Å 1 mark ÆÅ 1 mark Æ Box 2 Change the initialization value of the current ‘Max’ variable to a very high number Box 4 Change the inequality from > to < Boxes 2, 4, 5, 8 Change the Max variable to something more suitable e.g. Min Question Answer Marks CatNo It is a unique identifier May/June 2018 Question Answer Marks Field Data Type CatNo Text Title Text Genre 1 Text Stream Boolean / Text 18m02 Golfwatch Yes No Yes 18m03 Chair 27 Yes Yes No Accept if drawn in a table, but don’t allow any punctuation",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6e",
+          "text": "Part 6e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: CatNo Title Genre 1 Genre 2 Stream Table: 2018MOV 2018MOV 2018MOV 2018MOV 2018MOV Sort: Ascending Show:; ;    Criteria: =”Sci-Fi” Yes or: =”Sci-Fi” Yes Å 1 mark ÆÅ 1 mark ÆÅ 1 mark Æ Å 1 mark Æ One mark per completely correct column / group of columns as shown.",
+          "image": "/papers/computer_science-0478-2018/q6-6e.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit2-2018-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

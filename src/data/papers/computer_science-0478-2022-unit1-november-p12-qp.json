@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-november-p12-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-november-p12-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/12",
+  "session": "October/November 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Transport layer security // TLS • To act as intermediary between browser and web server • to filter/examine/monitor traffic to the web server • to help stop malicious traffic to the web server • To cache frequently viewed web pages • to allow faster response time for requests • to reduce the number of requests the server needs to process • To help prevent DoS • stopping the webserver being overloaded with requests • by redirecting away from server // by stopping DoS attack reaching server • To act as a firewall • Spyware October/November 2022 Question Answer Marks • Drop down boxes • this means that the keypresses cannot be recorded • Onscreen/virtual keyboard • this means that the keypresses cannot be recorded • Biometrics // by example • this means that the keypresses cannot be recorded • no password entered to be gathered • Anti-malware // anti-spyware • this will scan for/remove any malware that could be recording keypresses • Random/select values requested from password • this means that full password cannot be obtained (in a single login) • Firewall • to prevent the download of any malware that could gather keypresses • URL • IP address • Web server • Web pages • HTML • Browser October/November 2022 Question Answer Marks Statement NAND (✓) OR (✓) XOR (✓) if both inputs are 1, the output is 1 ✓ if both inputs are different from each other, the output is 1 ✓ ✓ ✓ if both inputs are 0, the output is 0 ✓ ✓ if both inputs are the same as each other, the output is always 0 ✓ • AND A B Output 0 0 0 0 1 0 1 0 0 1 1 1",
+          "image": "/papers/computer_science-0478-2022/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-11-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

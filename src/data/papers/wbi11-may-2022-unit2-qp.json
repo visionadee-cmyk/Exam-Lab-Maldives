@@ -1,0 +1,83 @@
+{
+  "paperId": "wbi11-may-2022-unit2-qp",
+  "pairedMarkSchemeId": "wbi11-may-2022-unit2-ms",
+  "subjectId": "biology_ial_pearson",
+  "code": "WBI12/01",
+  "session": "May 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to two of the following points: • (because the parents are) different species (1) • (because {maternal and paternal / 3 and 23}) chromosomes would not pair up (1) • (t herefore) cannot make {haploid / sperm / egg} cells (1) ACCEPT because diploid number (of either species) could not be restored ignore p arents have different number of chromosome pairs ACCEPT meiosis cannot occur (2) Number Mark The only correct answer is B endemic A is not correct because the correct term is endemic C is not correct because the correct term is endemic D is not correct because the correct term is endemic (1) Number Answer Additional guidance Mark A calculation in which: • correct difference (1) • correct percentage change (1) Example of calculation: 950-7100 = (-) 6150 (-6150 ÷7100) x 100 = (-)87(%) Correct answer scores full marks (2) Number *5(b) Answers will be credited according to candidate’s deployment of knowledge and understanding of the material in relation to the qualities and skills outlined in the generic mark scheme. The indicative content below is not prescriptive and candidates are not required to include all the material indicated as relevant. Additional content included in the response must be scientific and relevant. • common a ncestor { liv ed on Hawaii islands / had shorter beak than Amakihi / less powerful beak than Palila} • colonisation of new island / geographical isolation • change in the environment / competition for food / (new) selection pressures • genetic variation in population / mutation resulted in new allele(s) • some alleles conferred an advantage therefore bird more likely to survive and reproduce than other birds and pass on those advantageous alleles to next generation • repeated over many generations leading to new species • id ea of reproductive isolation Amakihi • Amakihi has a longer beak • (therefore) was able to drink (more) nectar from flowers / tree sap / access more spiders / insects • Amakihi has larger po",
+          "image": "/papers/wbi11-may-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2022/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "An answer that makes reference to the following points: • molecular phylogeny / analysis of (t he sequences in) biological molecules (1) • (therefore) the species with the {most similarities / fewest differences} ( are the most closely related) (1) e.g. DNA, mRNA, proteins (2) Number Mark",
+          "image": "/papers/wbi11-may-2022/q5-5c.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2022/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The only correct answer is C Y A is not correct because W does not contain mitochondria B is not correct because X does not contain mitochondria D is not correct because Z does not contain mitochondria (1) Number Answer Additional guidance Mark • named organelle involved in protein production (1) • role of organelle described in the production of the enzyme (1) mitochondria / nucleus / ribosomes / {rough endoplasmic reticulum / rER} / Golgi (apparatus/body) e.g. mitochondria – produce ATP for protein synthesis (of enzyme) nucleus – site of transcription of enzyme gene / location of gene for enzyme ribosomes -site of protein synthesis / where polypeptide is formed rER -site of protein synthesis / where polypeptide is formed / formation of 3° structure / packaging protein into (transport) vesicle Golgi apparatus – modification of {p rotein / enzyme} / packaging {p rotein / enzyme} into (secretory) vesicle (2) Number Answer Additional guidance Mark • 800 (1) Number Answer Additional guidance Mark • image size divided by magnification ACCEPT 4.5±1 ÷200 ignore unmanipulated equation (1) Number Answer Additional guidance Mark • doubling the acrosin activity of the sperm cell increases the percentage of egg cells fertilised by 68% / non-linear increase • (because) higher acrosin activity means the sperm cells can digest through all of the {outer layer / zona pellucida} ( of more egg cells) (1) • (allowing) sperm (cells) to {bind to (egg cell) membrane / enter egg (cell)} (1) • (so that) sperm nucleus can fuse with egg (cell) nucleus / fusion (of nuclei) can occur (1) • (l ow acrosin activity) could result in death of sperm cells before fertilisation could occur (1) ACCEPT greater increase (in percentage of egg cells fertilised) between 2.5 and 3(a.u.) ACCEPT 100% fertilisation at 5(a.u.) compared to 32% at 2.5(a.u.) ACCEPT digesting the outer layer {faster /more efficiently} / more digestion occurs Accept converse ACCEPT sperm can reach egg (cell) nucleus ACCEPT sperm can ",
+          "image": "/papers/wbi11-may-2022/q6-6a.png"
+        }
+      ],
+      "image": "/papers/wbi11-may-2022/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/wbi11-may-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Biology-WBI11/Biology-WBI11-2022-unit2-2022-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

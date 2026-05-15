@@ -1,0 +1,159 @@
+{
+  "paperId": "wph11-jan-2021-unit6-qp",
+  "pairedMarkSchemeId": "wph11-jan-2021-unit6-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH16/01",
+  "session": "January 2021",
+  "title": "Unit 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 11,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Any THREE from: Use a timing marker (at the centre of the oscillation) Measure multiple oscillations and divide by the number of oscillations Repeat and calculate a mean Start timing after several oscillations have completed (1) (1) (1) (1) (3)",
+          "image": "/papers/wph11-jan-2021/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use a metre rule and set square (to ensure metre rule is horizontal) Or use a metre rule and spirit level (to ensure metre rule is horizontal) View metre rule perpendicularly ( to avoid parallax error) [Accept valid alternative to ensure metre rule is horizontal] (1) (1) (2)",
+          "image": "/papers/wph11-jan-2021/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of T = k√D Or T = kD Three relevant calculations shown [minimum 2 s.f.] Comment consistent with comparing calculations [dependent MP2] [Accept other valid routes] Example of calculation k = 0.78/√0.235 = 1.61 k = 0.94/√0.335 = 1.62 k = 1.09/√0.445 = 1.63 As these values are consistent the prediction is correct. (1) (1) (1) (3) Total mark for Question 1 = 8 number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Capacitors connected in series with a d.c. power supply Circuit to discharge capacitors through resistor and ammeter Method of switching between charging and discharging Example of circuit diagram (1) (1) (1) (3)",
+          "image": "/papers/wph11-jan-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Ensure the working p.d. is not exceeded Or Ensure the capacitors are fully discharged after the experiment [Accept any other appropriate precaution] [Accept reference to electrolytic capacitors] (1) (1)",
+          "image": "/papers/wph11-jan-2021/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Graphical Method Any SIX from: 1. Choose the value of resistor to give a reasonable discharge time 2. Measure the resistance of the resistor (using a multimeter) 3. Charge the capacitors to the initial p.d. 4. Ensure that the ammeter and stopwatch are close together Or use the laptimer on the stopwatch 5. Start the stopwatch at the same time as changing the switch Or (Change the switch) and start the stopwatch at the initial current 6. Record the current (from the ammeter) at times determined using the stopwatch 7. Record measurements over at least one half-life Or time constant Or Take many measurements Alternative graphs 8. Plot a graph of ln I against t 9. Gradient = −1/RC [dependent on MP8] Or (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) 8. Determine the time for I to halve from a graph of I against t 9. t ½ = RC ln2 [dependent on MP8] Or . Determine the time for I to fall to 37% from a graph of I against t 9. τ = RC [dependent on MP8] Non-graphical Method Any SIX from: 1. Choose the value of resistor to give a reasonable discharge time 2. Measure the resistance of the resistor using a multimeter 3. Charge the capacitors to the initial p.d. 4. Ensure that the ammeter and stopwatch are close together Or use the laptimer on the stopwatch 5. Start the stopwatch at the same time as changing the switch Or (Change the switch) and start the stopwatch at the initial current 6. Charge to the same initial p.d. each time 7. Obtain minimum of 3 measurements and calculate a mean 8. Record the time taken for the initial current to halve . t ½ = RC ln2 [dependent on MP8] Or 8. Record the time taken for the initial current to reach 37% 9. τ = RC [dependent on MP8] (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (6)",
+          "image": "/papers/wph11-jan-2021/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Readings (of current and time) can be taken simultaneously Many readings can be taken in a short time (1) (1) (2) Total mark for Question 2 = 12 number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q2-2d.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "log r = log r + n log A This in the form of y = c + mx where the gradient is n [MP2 dependent on MP1] (1) (1) (2) All log r values correct to 2 d.p. [accept 3 d.p.] All log A values correct to 2 d.p. [accept 3 d.p.] Axes labelled: y as log(r / fm) and x as log A Most appropriate scales for both axes Plots accurate Best fit line with even spread of plots (1) (1) (1) (1) (1) (1) (6) Correct calculation using large triangle shown Value of n in range 0.30 to 0.34 to 2 or 3 s.f., no unit Example of calculation n = (0.505 − 0.09)/(1.3 − 0) = 0.415/1.3 = 0.32 (1) (1) (2) Value of y-intercept read from graph shown Or Use of coordinates from point on best fit line with gradient to determine log r shown. Value of r consistent with their value of log r States relationship using their values given to 2 or 3 s.f . Example of calculation log(r /fm) = 0.09 r = 10 0. 09 = 1.23 (fm) Hence r = 1.23 A 0.32 [Accept 1/3 for n] (1) (1) (1) (3) Total mark for Question 3 = 13 Isotope A r / fm log A log (r / fm) H-2 2 1.54 0.30 0.19 He-4 4 1.92 0.60 0.28 Be-9 9 2.47 0.95 0.39 C-12 12 2.72 1.08 0.43 O-16 16 3.00 1.20 0.48 Mg-24 24 3.42 1.38 0.53 Isotope A r / fm ln A ln (r / fm) H-2 2 1.54 0.69 0.43 He-4 4 1.92 1.39 0.65 Be-9 9 2.47 2.20 0.90 C-12 12 2.72 2.48 1.00 O-16 16 3.00 2.77 1.10 Mg-24 24 3.42 3.18 1.23 number Answer Mark",
+          "image": "/papers/wph11-jan-2021/q3-3a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "The uncertainty is the same for both methods Or The resolution of the metre rule is 1mm Student B’s measurement will be larger therefore the percentage uncertainty will be smaller Or Calculation of percentage uncertainty for both methods using same uncertainty shown Conclusion based on comparison of correct values of percentage uncertainty Example of calculation Student A %U = 0.1 × 100% = 1% Student B %U = 0.1 10 휋휋 × 100% = 0.32% Therefore Student B has a smaller percentage uncertainty. [Accept 0.5% and 0.16% if uncertainty of 0.05cm used] (1) (1) (1) (1) (2) Any TWO from: Check for zero error to eliminate systematic error Repeat at different places and calculate a mean to reduce the effect of random errors Avoid squashing the string to reduce the effect of random errors (1) (1) (1) (2) mean t = 2.10 mm Correct uncertainty from calculation of half range shown Example of calculation mean t = (2.15+2.06+2.13+2.08+2.10) mm/5 = 2.104 = 2.10 mm Uncertainty = (2.15−2.06) mm/2 = 0.045 = 0.05 mm (1) (1) (2) Use of C = x − πt Value of C correct to 3 s.f. [e.c.f (b)(ii)] Example of calculation C = 25.8cm − (π × 0.21 cm) = 25.8 − 0.66 = 25.1 cm (1) (1) (2) Addition of uncertainties shown to minimum 2 s.f. [e.c.f. (b)(ii)] Example of calculation 0.2 cm + 0.005 cm = 0.205 cm (1) (1)",
+          "image": "/papers/wph11-jan-2021/q4-4a.png"
+        },
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Value of V correct to 3 s.f. [e.c.f. (c)(i)] Use of 2× %U in C a nd %U in L shown [e.c.f. (c)(i), (c)(ii)] Use of %U to calculate uncertainty in 퐶퐶 퐿퐿 4π shown Correct uncertainty from addition of final uncertainties Example of calculation V = (25.1 × 19.9) cm /4π − 810 cm = 998 cm − 810 cm = 188 cm %U in 퐶퐶 퐿퐿 4π = (2 × 0.205 cm /25.1 cm )×100% + (0.05 cm/19.9 cm)×100% = 1.63% + 0.25% = 1.88% U in 퐶퐶 퐿퐿 4π = (998 cm × 1.88%) = 18.6 = 19 cm U in V = (19 + 5) cm = 24 cm Or Value of V correct to 3 s.f. [e.c.f. (c)(i)] Use of uncertainties to calculate upper or lower limit of V shown [e.c.f. (c)(ii)] Correct upper or lower limit calculated Uncertainty correct from half range of V Example of calculation V = (25.1 × 19.9) cm /4π − 810 cm = 998 cm − 810 cm = 188 cm Upper limit of V = ( 25.1+0.2 ) × ( 19.90+ 0.05 ) 4휋휋 − ( 810−5 ) = 1016 - 805 = 211 cm U = 211 - 188 = 23 cm (1) (1) (1) (1) (1) (1) (1) (1) (4)",
+          "image": "/papers/wph11-jan-2021/q4-4d.png"
+        },
+        {
+          "id": "4e",
+          "text": "Part 4e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Calculation of V m = ρ shown [e.c.f. (d)] Correct calculation of %U in ρ shown [e.c.f. (d)] Calculation of relevant upper and/or lower limit shown Valid conclusion based on comparison [dependent MP3] Example of calculation ρ = 463 g/188 cm = 2.46 (g cm − ) %U = (1/463 × 100) + (24/188 × 100) = 0.2 + 12.8 = 13% Upper limit = 2.46 × 1.13 = 2.78 (g cm − ) Lower limit = 2.46 × (1−0.13) = 2.14 (g cm − ) As both soda glass and borosilicate lie in the range the container may not be safe to heat. Or Calculation of V m = ρ shown [e.c.f. (d)] Correct calculation of %U in ρ shown [e.c.f. (d)] Correct calculation of %D shown for relevant materials Valid conclusion based on comparison [dependent MP3] Example of calculation ρ = 436 g/188 cm = 2.46 (g cm − ) %U = (1/463 × 100) + (24/188 × 100) = 0.2 + 12.8 = 13% Soda glass %D = (2.52−2.46)/2.52 × 100 = 2.38% Borosilicate %D = (2.46−2.23)/2.23 × 100 = 10.3% As both %D are less than the %U we cannot be sure the container is safe to heat. Or Use of uncertainties to calculate maximum or minimum ρ shown Correct calculation of upper limit of ρ shown Correct calculation of lower limit of ρ shown Valid conclusion based on comparison of their values (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (4) Example of calculation Upper limit of ρ = 463 +1 188 −24 = = 2.83 (g cm − ) Lower limit of ρ = 463 −1 188 +24 = = 2.18 (g cm − ) As both soda glass and borosilicate lie in the range the container may not be safe to heat. Total mark for Question 4 = 17 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2021/q4-4e.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2021/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 11,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2021-unit6-2021-01-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

@@ -1,0 +1,163 @@
+{
+  "paperId": "wph11-jan-2023-unit5-qp",
+  "pairedMarkSchemeId": "wph11-jan-2023-unit5-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH15/01",
+  "session": "January 2023",
+  "title": "Unit 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휌= 푚 푉 Use of ∆퐸=푚푐∆휃 ΔE = 1.3 × 10 J Example of calculation 푚=998 kg m ×2750 m =2.74×10 kg ∆퐸=2.74×10 kg×4190 J kg −1 × ( 28.0−16.5 ) C=1.32×10 J o (1) (1) (1) Or Not all of the energy from the heater is used to raise the water temperature (1) Total for question 11 4 Number Answer Mark",
+          "image": "/papers/wph11-jan-2023/q11-11a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "12 (a) Add a line to the graph to show how the total energy of the mass‑spring system varies with displacement. (1) (b) Determine the speed of the mass when its displacement from the equilibrium position is 1.0 cm. (4) ..............................................................................................................................................................................",
+      "text": "12 (a) Add a line to the graph to show how the total energy of the mass‑spring system varies with displacement. (1) (b) Determine the speed of the mass when its displacement from the equilibrium position is 1.0 cm. (4) ..............................................................................................................................................................................",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "12 (a) Add a line to the graph to show how the total energy of the mass‑spring system varies with displacement. (1) (b) Determine the speed of the mass when its displacement from the equilibrium position is 1.0 cm. (4) ..............................................................................................................................................................................",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use 푉 grav = − 퐺푀 푟 to obtain ΔE Equate ΔE to 푚푣 and re-arrangement to obtain 푣= √ 2퐺푀 푟 Example of derivation ∆퐸=푚×푉 grav = 퐺푀푚 푟 푚푣 = 퐺푀푚 푟 ∴푣 = 2퐺푀 푟 ∴푣= √ 2퐺푀 푟 (1) (1) Use of 푣= √ 2퐺푀 푟 v = 1.12 × 10 (m s −1 ) Example of calculation 푣= √ 2×6.67×10 −11 N m kg −2 ×5.98×10 kg 6.36×10 m ∴푣=1.12×10 m s −1 (1) (1) Or Some molecules will be travelling (much) faster than 1900 m s −1 So there will be some molecules with a speed greater than the escape velocity Or There will be some molecules with enough kinetic energy to escape (1) (1) Total for question 12 6 Number Answer Mark Use of ∆휆 휆 = 푣 푐 Use of 푣=퐻 푧 Use of 푠=푢푡 with u = c and t = 3.15 × 10 s Conversion of d to light-year Or conversion of 55 million light years to m d = 54.8 × 10 light-year which is the website value so statement is accurate. Or comparison of 5.18 × 10 m with 5.20 × 10 m so statement is accurate. Example of calculation ( 394.5−393.4 ) ×10 −9 m 393.4 ×10 −9 m = 푣 3.0×10 m s −1 푣=3.0×10 m s −1 × 1.1×10 −9 m 393.4×10 −9 m =8.39×10 m s −1 푑= 푣 퐻 = 8.39×10 m s −1 1.62×10 −18 s −1 =5.18×10 m 1 light year=3.0×10 m s −1 ×3.15×10 s=9.45×10 m 푑= 5.18×10 m 9.45×10 m ( light year ) −1 =5.48×10 light-year ∴푑≈55 ×10 light-year so website statement is correct (1) (1) (1) (1) (1) Total for question 13 5 Number Answer Mark Use of energy conservation Use of 퐸 k = 푚푣 v = 0.44 m s −1 Example of calculation At 1.0 cm E elas = 4.5 mJ ∴퐸 푘 =(19−4.5) ×10 −3 J=1.45×10 −2 J 1.45×10 −2 J= ×0.15 kg×푣 ∴푣= √ 2×1.45×10 −2 J 0.15 kg =0.440 m s −1 (1) (1) (1) (1) Total for question 14 5 Number Answer Mark Bottom line correct Example of equation Cs →Ba+β − +ν̅ e (1) (1)",
+          "image": "/papers/wph11-jan-2023/q12-12a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q12.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 15",
+      "text": "Question 15",
+      "parts": [
+        {
+          "id": "15b",
+          "text": "Part 15b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 휆= ln2 푡 ½ Use of 푑푁 푑푡 =−휆푁 Use of u = 1.66 × 10 −27 kg 푚=2.3×10 −12 (kg) Example of calculation 휆= ln2 30.2×3.15×10 s =7.29×10 −10 s −1 푁= 7400 s −1 7.28×10 −10 s −1 =1.02×10 푚=1.02×10 ×137×1.66×10 −27 kg=2.31×10 −12 kg (1) (1) (1) (1) Total for question 15 6 Number Answer Mark Or Dark matter exerts a gravitational force Dark matter does not emit electromagnetic radiation (1) (1)",
+          "image": "/papers/wph11-jan-2023/q15-15b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 16",
+      "text": "Question 16",
+      "parts": [
+        {
+          "id": "16b",
+          "text": "Part 16b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of ∆퐸=푐 ∆푚 Use of 1 eV = 1.6 × 10 −19 J m = 8.5 × 10 −19 (kg) Example of calculation 푚= 4.8×10 GeV×1.6×10 −10 J GeV −1 (3.0×10 m s −1 ) =8.53×10 −19 kg (1) (1) (1) universe Or the (average) density of the universe must be compared with the critical density of the universe The amount of dark matter is uncertain (so the average density is uncertain) (1) (1) Total for question 16 7 Number Answer Mark",
+          "image": "/papers/wph11-jan-2023/q16-16b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 17",
+      "text": "Question 17",
+      "parts": [
+        {
+          "id": "17a",
+          "text": "Part 17a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푝푉=푁푘푇 Conversion of temperature to kelvin Use of Δp = p −p Δp = 1.1 × 10 Pa Example of calculation 푝 푇 = 푝 푇 푝 =1.28×10 Pa× ( 42.5+273 ) K ( 17.5+273 ) K =1.39×10 Pa ∆푝= ( 1.39×10 −1.28×10 ) Pa=1.10×10 Pa (1) (1) (1) (1) *17(b) This question assesses a student’s ability to show a coherent and logically structured answer with linkages and fully-sustained reasoning. Marks are awarded for indicative content and for how the answer is structured and shows lines of reasoning. The following table shows how the marks should be awarded for structure and lines of reasoning. Number of marks awarded for structure of answer and sustained line of reasoning Answer shows a coherent and logical structure with linkages and fully sustained lines of reasoning demonstrated throughout Answer is partially structured with some linkages and lines of reasoning Answer has no linkages between points and is unstructured Total marks awarded is the sum of marks for indicative content and the marks for structure and lines of reasoning IC points IC mark Max linkage mark Max final mark 6 4 2 6 5 3 2 5 4 3 1 4 3 2 1 3 2 2 0 2 1 1 0 1 0 0 0 0 Indicative content IC1 As the temperature increases the (average) kinetic energy of the (air) molecules increases IC2 So mean/average speed of the air molecules increases IC3 The (average/mean) change of momentum of air molecules when colliding with the tank/walls increases IC4 The rate of collision of air molecules with the tank/walls increases IC5 The rate of change of momentum increases and so the force on the tank/walls, increases IC6 The pressure (exerted by the gas) increases, since p = F/A Total for question 17 10 Number Answer Mark Or the star is viewed from opposite ends of the diameter of the Earth's orbit about the Sun The change in angular position of the star against backdrop of distant/fixed stars is measured Trigonometry is used to calculate the distance to the star [Do not accept Pythagoras] The diameter/radius of the Earth’s orbit about t",
+          "image": "/papers/wph11-jan-2023/q17-17a.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q17.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 19",
+      "text": "Question 19",
+      "parts": [
+        {
+          "id": "19b",
+          "text": "Part 19b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 퐹=푚푔 Use of ∆퐹= ( − ) 푘∆푥 Use of 푇=2π √ 푚 푘 Use of 푠=푢푡 u = 17 m s −1 Example of calculation 푘= 65 kg×9.81 N kg −1 2.5×10 −2 m =2.55×10 N m −1 푇=2π× √ 1365 kg 2.55×10 N m −1 =1.45 s 푢= 25 m 1.45 s =17.2 m s −1 (1) (1) (1) (1) (1) Or (Kinetic energy transferred to the suspension/dampers The energy is dissipated to the surroundings [so the vibration energy decreases] (1) (1) Total for question 19 9 Number Answer Mark Use of r = R + R Use of 퐹= 퐺푚 푚 푟 Maximum force = 2.83 × 10 −7 N Conclusion consistent with calculated values OR Use of r = R + R Use of 퐹= 퐺푚 푚 푟 (Maximum) separation (to give minimum measurable force) = 0.012 m Conclusion consistent with calculated values Example of calculation 푟= √ 6.67×10 −11 N m kg −2 ×158 kg×0.73 kg 5.0×10 −5 N =0.012 m 푟=( 0.305 m + 0.025 m )=0.165 m (1) (1) (1) (1) (1) (1) (1) (1) EITHER Correct equation re-arranged to make G the subject Base units substituted to obtain required units OR Units of G = N m kg −2 and N =kg m s −2 So units of G = kg m s −2 m kg −2 =m kg −1 s −2 Example of derivation 퐹=퐺 푚 푚 푟 ∴퐺= 퐹푟 푚 푚 Units of 퐺= N m kg = kg m s −2 m kg =m kg −1 s −2 (1) (1) (1) (1) Appropriate comment based on their calculated % difference Example of calculation % difference= (6.67×10 −11 −6.04×10 −11 ) N m kg −2 6.67×10 −11 N m kg −2 ×100%=9.4 % (1) (1) Total for question 20 8 Number Answer Mark Use of 휆 max 푇=2.898×10 −3 m K T = 3570 (K) Example of calculation 푇= 2.898×10 −3 m K 8.12×10 −7 m =3569 K (1) (1) Use of 퐿=휎퐴푇 and 퐴=4π푟 Use of 퐼= 퐿 4π푑 Use of intensity of radiation at the Earth Intensity=0.42 I E (ecf from (a)(i)) Or 552 (Wm −2 ) ≈ 583.0 (W m −2 ) Example of calculation 퐿=5.67×10 −8 W m −2 K ×4π× ( 2.03×10 m ) × ( 3570 K ) ∴퐿=4.76×10 W 퐼= 4.76×10 W 4π× ( 2.55×10 m ) =583.0 W m −2 Intensity= 583 푊 푚 −2 1380 푊 푚 −2 퐼 퐸 =0.422 퐼 퐸 I = 0.4 × 1380 Wm −2 = 552 Wm −2 (1) (1) (1) (1)",
+          "image": "/papers/wph11-jan-2023/q19-19b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q19.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 21",
+      "text": "Question 21",
+      "parts": [
+        {
+          "id": "21b",
+          "text": "Part 21b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of 푉= π푟 Use of 휌= 푚 푉 Use of 푔= 퐺푀 푟 g = 18.4 N kg −1 Conclusion consistent with calculated value for g compared with 4g Example of calculation 푉= π× ( 1.02×10 ) =4.45×10 m 푚=6.44×10 kg m −3 ×4.45×10 m =2.86×10 kg 푔= 6.67×10 −11 N m kg −2 ×2.86×10 kg ( 1.02×10 m ) =18.4 N kg −1 Ratio = 18.4 N kg −1 9.81N kg −1 =1.87 which is less than 4, so humans could survive the gravitational field strength (1) (1) (1) (1) (1) Total for question 21 11 Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wph11-jan-2023/q21-21b.png"
+        }
+      ],
+      "image": "/papers/wph11-jan-2023/q21.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wph11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2023-unit5-2023-01-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

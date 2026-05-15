@@ -1,0 +1,215 @@
+{
+  "paperId": "physics-0625-2020-unit3-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2020-unit3-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/31",
+  "session": "May/June 2020",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "density = mass ÷ volume OR m V ρ = in any form. C1 ( ρ =) ÷ 16.6 C1 ( ρ =) 8.9 (g / cm ) A1",
+          "image": "/papers/physics-0625-2020/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "measuring cylinder partially filled with water coil submerged in water (owtte) new volume noted volume of wire = difference or increase in volume(s) B4 (cm) B1 (cm) B1 – (i) B1 B1 size B1 0625/31 May/June 2020 B1 (in) any or all directions or random (motion) B1 M1 (of molecules) with walls of box A1",
+          "image": "/papers/physics-0625-2020/q1-1c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "widely separated (owtte) in gas to very close / touching in solid B1",
+          "image": "/papers/physics-0625-2020/q3-3b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "4 (a) During part of a race, a skier travels a distance of 200 m in a time of 6.4 s. Calculate the average speed of the skier. average speed = ................................................ m / s [3] (b) Fig. 4.1 shows a speed–time graph for the skier in another part of the race. 0 5.0 10.0 05.010.015.0 time / s speed m / s 20.025.030.0 15.0 20.0 P Q R S",
+      "text": "4 (a) During part of a race, a skier travels a distance of 200 m in a time of 6.4 s. Calculate the average speed of the skier. average speed = ................................................ m / s [3] (b) Fig. 4.1 shows a speed–time graph for the skier in another part of the race. 0 5.0 10.0 05.010.015.0 time / s speed m / s 20.025.030.0 15.0 20.0 P Q R S",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "4 (a) During part of a race, a skier travels a distance of 200 m in a time of 6.4 s. Calculate the average speed of the skier. average speed = ................................................ m / s [3] (b) Fig. 4.1 shows a speed–time graph for the skier in another part of the race. 0 5.0 10.0 05.010.015.0 time / s speed m / s 20.025.030.0 15.0 20.0 P Q R S",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(s =) d ÷ t in any form C1 (s =) ÷ 6.4 C1 (s =) (m / s) A1 – (constantly) accelerates (from 5 m / s) B1 Q – constant speed (of 17.5 m / s) B1 R – (non-constant) decelerates (from 17.5 m / s to rest) B1 S – at rest or stationary B1",
+          "image": "/papers/physics-0625-2020/q4-4a.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(skis have) large (surface) area B1 (so) less pressure (on snow / ground) B1 0625/31 May/June 2020",
+          "image": "/papers/physics-0625-2020/q4-4c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(moment =) force × distance (from pivot) B1 (moment =) 5.0 × B1",
+          "image": "/papers/physics-0625-2020/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(sum of) clockwise moments = (sum of) anticlockwise moments C1 = (2.0 × 10) + (F × 60) C1 F = (200 – 20) ÷ 60 OR 180 ÷ C1 (F =) 3.0 (N) A1 °C or degrees celcius B1 arrow at 100 (labelled steam) B1",
+          "image": "/papers/physics-0625-2020/q5-5b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "use OR consequence of thermal expansion identified B1 black is bette r / best absorbe r B1 (so) temperature of wax rises faster on black plate B1 (for a valid comparison all independent) variables must be the same B1 plates / discs should be equal distances (from heater) (owtte) B1 0625/31 May/June 2020 B1 normal correctly positioned B1 correct reflected ray at 60° to normal B1 same value as (i) B1",
+          "image": "/papers/physics-0625-2020/q6-6b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "7 (a) Fig. 7.1 shows a ray of light striking a plane mirror at point P. ray of light 30° P Fig. 7.1 (not to scale) (i) Determine the value of the angle of incidence for the ray of light at point P. angle of incidence = ...................................................... ° [1] (ii) On Fig. 7.1, • draw a normal at point P • draw the ray reflecte",
+      "text": "7 (a) Fig. 7.1 shows a ray of light striking a plane mirror at point P. ray of light 30° P Fig. 7.1 (not to scale) (i) Determine the value of the angle of incidence for the ray of light at point P. angle of incidence = ...................................................... ° [1] (ii) On Fig. 7.1, • draw a normal at point P • draw the ray reflecte",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "horizontal ray drawn to continue through F B1 ray through principal focus continues parallel to axis B1 image indicated in correct position B1 image indicated with correct orientation B1 =) (cm) B1 wave drawn with greater amplitude B1",
+          "image": "/papers/physics-0625-2020/q7-7b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "20 to 20 B1 Hz or hertz B1 N and S poles correctly labelled B1 (iron bar and magnet) attract (each other) B1 (iron) bar becomes an induced magnet B1 with opposite pole next to pole of magnet B1 N S 0625/31 May/June 2020 (charge on Q is) negative B1 (charge on R is) positive B1 (ball) Q is repelled (by negative charge on P) B1 has same charge (as on P) B1 r B1 correct symbol for ammeter drawn B1 correct symbol for voltmeter drawn B1 both meters correctly positioned in circuit B1 ( Ω ) B1 smaller (than A) B1 correct symbol for fuse drawn B1 a large current flows to earth / in the live wire OR fuse is connected into live wire OR fuse contains thin / low melting point wire B1 0625/31 May/June 2020 any two from: current heats (fuse) wire fuse melts / blows (power supply circuit / metal case) is disconnected from mains (supply) B2 s / V p = N s / N p in any form C1 (V s =) (64 × 240) ÷ C1 (V) A1",
+          "image": "/papers/physics-0625-2020/q8-8b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q8.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 12",
+      "text": "Question 12",
+      "parts": [
+        {
+          "id": "12a",
+          "text": "Part 12a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "beta / β AND gamma / γ B1 – =) B1",
+          "image": "/papers/physics-0625-2020/q12-12a.png"
+        },
+        {
+          "id": "12c",
+          "text": "Part 12c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "idea of three hal f -lives C1 ÷ C1 4.5 (mg) A1",
+          "image": "/papers/physics-0625-2020/q12-12c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2020/q12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 8
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2020-unit3-2020-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

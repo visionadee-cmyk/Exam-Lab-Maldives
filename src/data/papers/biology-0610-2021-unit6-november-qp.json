@@ -1,0 +1,43 @@
+{
+  "paperId": "biology-0610-2021-unit6-november-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit6-november-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/61",
+  "session": "October/November 2021",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "cut thin slice of root; place on (microscope) slide; stain section with iodine; add coverslip + prevent bubbles; place slide on microscope + focus lens; stains black if starch present;",
+          "image": "/papers/biology-0610-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit6-2021-11-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

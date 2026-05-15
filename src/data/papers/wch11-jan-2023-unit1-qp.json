@@ -1,0 +1,97 @@
+{
+  "paperId": "wch11-jan-2023-unit1-qp",
+  "pairedMarkSchemeId": "wch11-jan-2023-unit1-ms",
+  "subjectId": "chemistry_ial_pearson",
+  "code": "WCH11/01",
+  "session": "January 2023",
+  "title": "Unit 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 23",
+      "text": "Question 23",
+      "parts": [
+        {
+          "id": "23a",
+          "text": "Part 23a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " a suitable suggestion the oil must be heated until it is a gas / the air must be cooled/compressed until it becomes a liquid Allow air must be liquefied first Allow air (distils at a) lower temperature / oil (distils at a) higher temperature Ignore different temperatures Do not award temperature alone Ignore comments about elements/compounds Ignore comments about numbers of fractions Ignore references to energy/cost (1) Number Answer Additional Guidance Mark  volume of oxygen needed per breath  volume of air required (1) (1) Example of a calculation: 90 × 500 ÷ 100 = 450 (cm ) Accept 0.45 (dm ) 450 × 100 ÷ 21 = 2142.9 cm / 2.1429 (dm ) Ignore SF except 1 SF Alternative calculation: Passing over zeolite reduces 100cm to (21  10/9) cm = 23.333cm (M1) So 1 breath requires 500  100/23.333 = 2143 cm = 2.14(dm ) (M2) Other alternate M1: (500  100) ÷ 21 = 2380 cm /2.38 dm Correct answer (2.14) scores 2 The expression \u0000\u0000 ×\u0000\u0000\u0000 \u0000\u0000 scores 1 Answer in cm must contain units for two marks (2) Number Answer Additional Guidance Mark  three pairs of shared electrons between two atoms  a lone pair on each atom (1) (1) Example of a diagram: Circles are not required Allow any representation of electrons Allow lone pairs to be two individual electrons Ignore inner shells of electrons Ignore lines representing bonds (2) Number Answer Additional Guidance Mark  calculation of mass of oxygen  number of moles  volume in dm  conversion to m Common incorrect answer: 23.77(m )/23.8(m ) = 3 marks (divide by 16 instead of M r 32) (1) (1) (1) (1) Example of a calculation: 13.9 × 1140 = 15846 (g) 15846 ÷ 32.0 = 495.19 (mol) 495.19 × 24.0 = 11884.5 (dm ) 11884.5 ÷ 1000 = 11.88 / 11.9 (m ) Incorrect rounding e.g. 11.8 loses M4 Ignore SF except 1 SF Correct answer with some working scores (4) TE throughout Allow 12.14 or 12.26(m ) if calculated with pV=nRT for 4 marks TE on pV=nRT using moles from M2, so answer worked through would score 2 marks e.g. when using 0.579 mol (from 13.9÷24) th",
+          "image": "/papers/wch11-jan-2023/q23-23a.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2023/page-16.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 25",
+      "text": "Question 25",
+      "parts": [
+        {
+          "id": "25b",
+          "text": "Part 25b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " balanced equation AlCl + 3H O → 3HCl + Al(OH) Allow equation with Al Cl Allow multiples Ignore state symbols even if incorrect (1) Number Answer Additional Guidance Mark",
+          "image": "/papers/wch11-jan-2023/q25-25b.png"
+        },
+        {
+          "id": "25c",
+          "text": "Part 25c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " calculation of moles of sodium hydroxide  use of ratio  M r of aluminium hydroxide and mass of aluminium hydroxide (1) (1) (1) An example of a calculation: 0.15 × 1.5 = 0.225 mol 0.225 ÷ 3 = 0.075 27.0 + (3 × (16 + 1)) = 78 78 × 0.075 = 5.85 (g) Correct answer scores 3 marks TE throughout Ignore SF except 1SF Common incorrect answer: 17.55(g) scores 2 (M1 and M3) (3) Number Answer Additional Guidance Mark  strong electrostatic (attraction)  between cations and delocalised electrons  Al 3+ and 3 electrons per ion (1) (1) (1) Do not award references to covalent bonding for M1 Allow “positively charged ions” for cations Allow aluminium ions for cations Do not award nuclei / protons Do not award M2 for reference to intermolecular forces Allow +3 charge M2 and M3 may be shown in a diagram (3) Number Answer Additional Guidance Mark points:  delocalised electrons flow (under a potential difference)  layers/ions/atoms slide over each other (while still being held together by delocalised electrons) (1) (1) Allow voltage is applied Allow delocalised electrons can move (and conduct/carry charge) Do not award mobile ions Do not award reference to intermolecular forces for M2 (2) (Total for Question 25 = 12 marks) (Total for Section B = 60 marks) (Total for Paper = 80 marks) Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wch11-jan-2023/q25-25c.png"
+        }
+      ],
+      "image": "/papers/wch11-jan-2023/page-22.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/wch11-jan-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Chemistry-WCH11/Chemistry-WCH11-2023-unit1-2023-01-qp.pdf",
+    "pageImages": [
+      "/papers/wch11-jan-2023/page-01.png",
+      "/papers/wch11-jan-2023/page-02.png",
+      "/papers/wch11-jan-2023/page-03.png",
+      "/papers/wch11-jan-2023/page-04.png",
+      "/papers/wch11-jan-2023/page-05.png",
+      "/papers/wch11-jan-2023/page-06.png",
+      "/papers/wch11-jan-2023/page-07.png",
+      "/papers/wch11-jan-2023/page-08.png",
+      "/papers/wch11-jan-2023/page-09.png",
+      "/papers/wch11-jan-2023/page-10.png",
+      "/papers/wch11-jan-2023/page-11.png",
+      "/papers/wch11-jan-2023/page-12.png",
+      "/papers/wch11-jan-2023/page-13.png",
+      "/papers/wch11-jan-2023/page-14.png",
+      "/papers/wch11-jan-2023/page-15.png",
+      "/papers/wch11-jan-2023/page-16.png",
+      "/papers/wch11-jan-2023/page-17.png",
+      "/papers/wch11-jan-2023/page-18.png",
+      "/papers/wch11-jan-2023/page-19.png",
+      "/papers/wch11-jan-2023/page-20.png",
+      "/papers/wch11-jan-2023/page-21.png",
+      "/papers/wch11-jan-2023/page-22.png",
+      "/papers/wch11-jan-2023/page-23.png",
+      "/papers/wch11-jan-2023/page-24.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,43 @@
+{
+  "paperId": "business-0450-2020-unit2-june-qp",
+  "pairedMarkSchemeId": "business-0450-2020-unit2-june-ms",
+  "subjectId": "business_igcse",
+  "code": "0450/21",
+  "session": "May/June 2020",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Recommendation Justification might include: • Batch will be the best as different types of healthy drinks will be produced but not in large enough quantities to make flow production viable until the business has grown significantly. • Flow production will allow more automated machinery to be installed in the factory which will reduce unit costs than if job or batch production is used. Lower prices for the fruit drinks may then be charged leading to higher demand. Also supply to the additional market stalls can easily be met and the business can expand quickly. Question Answer Marks crowd-funding as a source of finance for FJ. Award 1 mark for each relevant advantage/disadvantage (maximum of two): Relevant advantages might include: • May have no initial fees to be paid to the crowd-funding platform • Allows public reaction to the new business venture to be tested • Can be a fast way to raise substantial sums of money • May be used when other more ‘traditional’ sources are not available Relevant disadvantages might include: • Crowd-funding platforms may reject Simon’s proposal if it is not well thought through • If total amount required is not raised, then the finance promised will have to be repaid • Interest from the public will need to be generated to increase the chance of successfully raising the amount required • May allow competitors to steal the idea and reach the market first Award a maximum of 3 additional marks for each explanation of the advantage and disadvantage of using crowd-funding. – one of which must be applied to this context. For example: Crowd-funding will allow large amounts of capital to be raised (1) so Simon can start producing a large output of fruit drinks quickly (app). This will allow Simon to enter the new market before competitors can copy his drinks (1) and he will not have to pay back the money, unlike a bank loan. (1) May/June 2020 Question Answer Marks Which do you think is the best method to use when deciding which product to produ",
+          "image": "/papers/business-0450-2020/q1-1b.png"
+        }
+      ],
+      "image": "/papers/business-0450-2020/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/business-0450-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/BusinessStudies-0450/BusinessStudies-0450-2020-unit2-2020-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

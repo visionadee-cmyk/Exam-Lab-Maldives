@@ -1,0 +1,131 @@
+{
+  "paperId": "chemistry-0620-2018-unit6-november-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit6-november-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "October/November 2018",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 9,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Limewater M2 milky",
+          "image": "/papers/chemistry-0620-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Larger surface area M2 Increases rate of reaction",
+          "image": "/papers/chemistry-0620-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Add magnesium / zinc / iron M2 More reactive metal / displacement reaction",
+          "image": "/papers/chemistry-0620-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Table of results for experiments 1–4 average temperature boxes completed correctly 22, 30, 39, 48 Time boxes completed correctly 98, 42, 26, 22 Times completed in seconds",
+          "image": "/papers/chemistry-0620-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "All points plotted correctly Smooth line graph (curve) 0620/63 October/November 2018 Value from graph °C M1 particles (of solution L) have more / most (kinetic) energy / move faster M2 more frequent collisions / particles collide more often",
+          "image": "/papers/chemistry-0620-2018/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Insulation / use a lid M2 To reduce heat losses",
+          "image": "/papers/chemistry-0620-2018/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Too slow / slower addition of solution M2 Measuring time-taken / results less accurate Tests on solid P / crystals / powder)",
+          "image": "/papers/chemistry-0620-2018/q2-2f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "M1 Bubbles / fizz M2 pH / (red) litmus paper / universal indicator M3 pH>7 / turns blue / alkaline / (remains) colourless / no change 0620/63 October/November 2018 Tests on solid Q",
+          "image": "/papers/chemistry-0620-2018/q3-3b.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Transition metal / element • Chloride / C l – 0620/63 October/November 2018 marks may be awarded from labelled diagrams Ignore any process done to single substances . If candidates make the mixture up for themselves then carry on marking. Method 1 1 heat the mixture 2 using a Bunsen / electric heater / oil bath 3 in a suitable container (flask / boiling tube / test-tube) 4 ethanol boils / evaporates first / at 78 °C 5 limonene boils next / at 176 °C (and collects / condenses ) 6 use of the term (fractional) distillation 7 use of a condenser 8 sodium carbonate residue left max 6 Method 2 (assuming sodium carbonate does not dissolve 1 filter (to obtain sodium carbonate) 2 heat the filtrate 3 using a Bunsen / electric heater / oil bath 4 in a suitable container (flask / boiling tube / test-tube) 5 ethanol boils / evaporates first / at 78 °C 6 limonene boils next / at 176 °C (and collects / condenses) / is the residue 7 use of the term (fractional ) distillation 8 use of a condenser max 6 Method 3 (assuming sodium carbonate does not dissolve and liquids do not mix). 1 filter (to obtain sodium carbonate) 2 use of separating funnel 3 run / let one liquid out 4 by opening the tap 5 leave other liquid in separating funnel max 5",
+          "image": "/papers/chemistry-0620-2018/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 9,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit6-2018-11-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

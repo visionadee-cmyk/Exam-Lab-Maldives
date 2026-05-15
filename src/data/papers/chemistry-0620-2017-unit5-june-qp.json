@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2017-unit5-june-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2017-unit5-june-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/51",
+  "session": "May/June 2017",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "initial and final readings completed correctly differences completed correctly all readings to 1 d.p. results comparable to the Supervisor’s results / brown / amber / orange / orange / paler",
+          "image": "/papers/chemistry-0620-2017/q1-1b.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "yellow to blue / black C is more concentrated a greater volume of thiosulfate was needed ratio of the candidate’s differences from the table in (b)",
+          "image": "/papers/chemistry-0620-2017/q1-1e.png"
+        },
+        {
+          "id": "1g",
+          "text": "Part 1g",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1.5 × value from table in (b) for Experiment 2 unit: cm 2 sources of error, e.g.: • using a measuring cylinder to measure solution C / solution D • only carrying out the experiments once • going past the end-point 2 meaningful improvements related to (h)(i) : • use a pipette / burette • repeat the experiment • improvement linked to going past the end-point 0620/51 May/June 2017",
+          "image": "/papers/chemistry-0620-2017/q1-1g.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "any 2 from: • turns black • condensation / drops of liquid formed • moves / jumps around any 3 from: • blue (solution) • bubbles / fizz • limewater • milky precipitate (with excess) deep / royal blue solution / clear / precipitate dissolves 0620/51 May/June 2017 / Cu 2+ carbonate / CO – / no change / K + iodide / I –",
+          "image": "/papers/chemistry-0620-2017/q2-2b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(red) litmus turns blue / boil the mixture condense the vapour / decant wash residue (with water) dry",
+          "image": "/papers/chemistry-0620-2017/q3-3a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2017/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2017",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2017-unit5-2017-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

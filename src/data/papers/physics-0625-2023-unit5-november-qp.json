@@ -1,0 +1,43 @@
+{
+  "paperId": "physics-0625-2023-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2023-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2023",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "R double 100 cm value  10% Working shown to match. 1 October/November 2023 Question Answer Marks O = 1.2 – 1.8 (or 12 – 18) 1 unit to match result, cm or mm 1 m correct calculation 1 h I values > h O h I /h O consistent 2 or 3 significant figures. 1 First h I /h O = first m to  10% Justification matches statement and includes idea of within (or beyond) the limits of experimental accuracy 1 Take at least 5 sets of readings in total (or take at least 3 additional sets of readings) 1 October/November 2023 Question Answer Marks 4 MP1 (stop)watch / clock / timer / chronometer 1 MP2 Measure / record time for evaporation / for water to disappear / for dish to become dry 1 MP3 Repeat with a different volume / depth of water OR different distance of heater from water / different height of heater MP4 One from: Volume / depth of water (if not chosen variable) OR Height / distance of heater from water (if not chosen variable) MP5 One from: Room temperature / (initial) water temperature Reference to avoiding draughts owtte Surface area of water Second variable from MP4 if wrong investigation MP6 Table with clear columns for time and chosen variable with appropriate units. These must be headed with both a quantity (or a recognised symbol for it) and unit. MP7 Plot graph of chosen variable against time OR an answer which suggests comparing values of chosen variable and time in table Additional graph notes: NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only marks available in this case are the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2023/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2023-unit5-2023-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

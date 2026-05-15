@@ -1,0 +1,79 @@
+{
+  "paperId": "chemistry-0620-2018-unit3-november-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2018-unit3-november-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/31",
+  "session": "October/November 2018",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 4,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "3 (a) The apparatus used for distillation is shown. .......................................... aqueous copper( II) sulfate thermometer flask (i) Complete the box to name the apparatus. [1] (ii) Describe and explain how the water is separated from the aqueous copper( II) sulfate by distillation. .......................................................................",
+      "text": "3 (a) The apparatus used for distillation is shown. .......................................... aqueous copper( II) sulfate thermometer flask (i) Complete the box to name the apparatus. [1] (ii) Describe and explain how the water is separated from the aqueous copper( II) sulfate by distillation. .......................................................................",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "colourless liquid collects / condenses at top of the tube (1) copper( II ) sulfate turns white (1) O / filter",
+          "image": "/papers/chemistry-0620-2018/q3-3b.png"
+        },
+        {
+          "id": "3d",
+          "text": "Part 3d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "oxygen removed from the copper oxide / copper oxide loses oxygen / it loses oxygen (1)",
+          "image": "/papers/chemistry-0620-2018/q3-3d.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(copper + nitric acid) → copper nitrate + nitrogen dioxide + water (2) If 2 marks not scored: 1 mark for correct names of two products has C=C (double bond ) / bromine water / bromine AND (bromine) decolourised / goes colourless (2) aqueous bromine / bromine water / bromine (for 1 mark)",
+          "image": "/papers/chemistry-0620-2018/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "4 (a) The structure of citraconic acid is shown. C C HCOOH COOHH 3 C Citraconic acid is an unsaturated compound. (i) What feature of the structure of citraconic acid shows that it is unsaturated? ....................................................................................................................................... [1] (ii) Describe a test for an uns",
+      "text": "4 (a) The structure of citraconic acid is shown. C C HCOOH COOHH 3 C Citraconic acid is an unsaturated compound. (i) What feature of the structure of citraconic acid shows that it is unsaturated? ....................................................................................................................................... [1] (ii) Describe a test for an uns",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "correct structure of carboxylic acid group showing C=O and –O-H 0620/31 October/November 2018 chemical (1) functional (1) One mark each for any two of: • not much increase / gradual increase in pH at first • sudden increase in pH as more sodium hydroxide added • not much increase / gradual increase in pH when sodium hydroxide in excess 2.4 (cm ) P = melting (1) Q = condensing (1) liquid: motion: moving (more) slowly / sliding over each other / moving randomly / restricted movement (1) separation: close together / touching (1) gas: motion: moving rapidly / moving randomly / move everywhere (1) separation: far apart (1) 2 (Li) (1) 2 (H O) (1) 0620/31 October/November 2018 positive electrode: oxygen (1) negative electrode: hydrogen (1) / effervescence (1) / unreactive / does not react with the electrolyte ORA U (1) U (1) O ) acidic because phosphorus is a non-metal – to promote plant growth / to replenish minerals from the soil which have been absorbed by crop plants 0620/31 October/November 2018 carbon dioxide released / gas released (g) initial gradient of line steeper and starts at 250–0 (1) levels out at 247.8 g (1) ° C → 0.16 ° C → 0.64 ° C → 0.32 dioxide (1) slag (1) If 2 marks not given: 1 mark for (Na) = 23, (C) = 12 and (O) = 16 / takes in heat / O carbon + oxygen → carbon dioxide reactants on the left and product on the right (both required) any suitable use e.g. filling (old-fashioned light) bulbs / lamps / inert gas in stopping oxidations / welding 0620/31 October/November 2018 1st box ticked (argon unreactive) (1) 3rd box ticked (argon monoatomic) (1)",
+          "image": "/papers/chemistry-0620-2018/q4-4b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2018/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 4,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2018-unit3-2018-11-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

@@ -1,0 +1,250 @@
+{
+  "paperId": "wme01-may-2023-unit2-v01-qp",
+  "pairedMarkSchemeId": "wme01-may-2023-unit2-v01-ms",
+  "subjectId": "mathematics_ial_pearson",
+  "code": "WME01/01",
+  "session": "May 2023",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 18,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "For B: () 2 2 3Iuu= −− OR For A: 4 2 u Iu  =  −−   M1 A1 10 NsIu= or 10u kgm s − A1 (3) (7) Notes (a) M1 Dimensionally correct CLM equation or equating of impulses equation. Allow consistent extra g’s. Ignore sign errors. May be +v or v− A1 Correct unsimplified equation A1 Cao. Must be positive. (b) B1 Accept opposite direction. Do not accept changed or to the left or backwards, away from B N.B. This mark is dependent on correctly obtaining u or u− in (a) (c) M1 Dimensionally correct impulse-momentum equation using A or B. Condone sign errors with appropriate velocities. M0 if g is included A1 Correct unsimplified equation A1 Cao with units. Accept kg m/s Number Scheme Marks",
+          "image": "/papers/wme01-may-2023/q1-1c.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(34 ) ( 147 )cc+ + + − + = Fijij0 oe M1 (14 3 )( 7 4 )cc= − + − − Fij A1 (2)",
+          "image": "/papers/wme01-may-2023/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "2 (b) find the size of the angle between the direction of i and the direction of the resultant force acting on P. (4) The mass of P is m kg. Given that the magnitude of the acceleration of P is 8.5 m s –2 (c) find the value of m. (4) _____________________________________________________________________________________ ______________________________________________________________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Resultant force (6 14)(8 7 )+ = − + +ijFF ( 815= − +ij ) M1 Find any relevant angle for their (even if they’ve subtracted) resultant (need not be acute nor positive) M1 any of tan, tan, sin, cos,... −−−−                 A1ft o or better (118.0724...) OR or better (241.9276..) In radians 2.1 or better (2.0607..) OR 4.2 or better (4.2224...) A1 (4)",
+          "image": "/papers/wme01-may-2023/q2-2b.png"
+        },
+        {
+          "id": "2c",
+          "text": "2 (c) find the value of m. (4) _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ _____________________________________________________________________________________ _______________________",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use of Pythagoras on their resultant : ( 8)15−+ or their acceleration: ( )( ) mm − + M1 Use of their R = 8.5m or their Resultant = ma M1 A correct equation in m only eg 178.5m= A1ft 2m= A1 N. B. 8.58.5 −     +         M1 8158.5m− + =ij M1 8.58.5 −     +         = m A1ft 2 = m A1 (4) (10) Notes Accept column vectors throughout apart from answer for (a) (a) M1 Uses the vector sum of all 3 forces being equal to zero oe N.B. =+ FFF is M0 A1 cao Must be in terms of c, i and j but allow uncollected i’s and j’s and apply isw if necessary. (b) M1 Finds the resultant using F + F or their −F M1 Uses trig to find a relevant angle for their resultant A1ft Any correct relevant angle (does not need to be acute), ft on their resultant A1 Cso. (c) M1 Use of Pythagoras to find the magnitude of their resultant force or their acceleration M1 Allow their R = 8.5 m A1ft A correct scalar equation in m only eg 178.5m= , ft on their resultant A1 cso Number Scheme Marks",
+          "image": "/papers/wme01-may-2023/q2-2c.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 1.5 0 gt=+ M1 A1 0.55 or 0.553t= (s) A1 (3)",
+          "image": "/papers/wme01-may-2023/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "() 1.. 065 0 a=+ M1 A1 0.20.2 g Ra−= M1 A1 0.293 , 0.29R= A1 (5) (8) Notes for Question 3 (a) M1 Complete method to find the time taken using a = g A1 Correct unsimplified equation in t only A1 Cao (b) M1 Complete method to form an equation in a only, ag , using t = 0.6 A1 Correct unsimplified equation in a only M1 Use Fma= to form an equation of motion with correct terms, condone sign errors, ag A1 Correct unsimplified equation A1 Cao N.B. Allow consistent use of (-a) instead of a and penalise in the second equation if inconsistent. N.B. Penalise use of g = 9.81 once for the whole question. Also penalise once for the whole question, answers as fractions, penalise the first one, if both answers are fractions. Number Scheme Marks",
+          "image": "/papers/wme01-may-2023/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "T and 4T correctly placed B1 Vertical resolution 4TTpmg mg+ =+ OR a moments equation, see below. M1 A1 ()()()() M: 40.61.81ATTmg +  =  Other moments equations: ()()()() M: 0.61.20.4CpmgTmg +  =  ()()()() M: 10.840.4GpmgTT +  =  ()()()() M: 1.80.841.2DpmgmgT +  =  ()()()()() M: 41.40.221BTTpmgmg +  = +  M1 A1 Eliminate T mg pmg mg  =+   M1 p= (exact ratio of 2 positive integers) A1 (7)",
+          "image": "/papers/wme01-may-2023/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Tension at D is zero, seen or implied. B1 ()()() M: 0.60.4Cqmgmg =  M1 A1 q= (exact ratio of 2 positive integers), accept 0.666..... or 0. . A1 (4) (weight) of the beam acts at the middle, mass at centre, centre of mass at the centre. Penalise incorrect extras. B1 (1) (12) Notes for Question 4 (a) N.B. Full marks can be scored if consistent omission of g’s in a complete solution, but otherwise penalise omission of g’s B1 Correct relationship between the tensions and placed correctly, seen or implied. M1 Vertical resolution. Condone forces at C and D the wrong way round or written as C T and D T . This equation may be replaced with a moments equation. A1 Correct unsimplified equation (even if T and 4T are the wrong way round on their diagram) M1 Moments equation. Correct forces multiplied by a length. Condone consistent forces at C and D the wrong way round or written as C T and D T A1 Correct unsimplified equation, in a variable consistent with their first equation. M1 Eliminate T to give an equation in p only allow extra m’s or g’s or both A1 Cao. Must be exact. N.B. If they write down more than two equations, award the marks for those equations which they use to solve the problem. (b) B1 Recognise tension at D is 0, seen or implied M1 Complete method to obtain an equation q only. e.g. Moments about C equation. A1 Correct unsimplified equation in q only. A1 Cao. Must be exact. ALT (b) M1 Two other equations could be used and solved to find q . M0 if tension at D is never zero. A1 Correct unsimplified equation in q only. A1 Cao. Must be exact. Alternative equations: vert : 'Tqmg mg=+ ()()() M: ' 0.61ATmg =  ()()() M: 1 ' 0.4GqmgT =  ()()()() M: 1.80.8 ' 1.2DqmgmgT +  =  ()()()() M: 21 ' 1.4BqmgmgT +  =  (c) B1 Any appropriate comment number Scheme Marks",
+          "image": "/papers/wme01-may-2023/q4-4b.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "For car: TT V +−    M1 () 15VT− (metres) * Allow () 15TV− A1* (2)",
+          "image": "/papers/wme01-may-2023/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "B1 shape B1 Horiz labels (10,50,60) (2)",
+          "image": "/papers/wme01-may-2023/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "4030 speedV = M1 () speed V = ( m s − )* A1* (2) OR: () 1 441 4 VVV VT     +  ++−       OR: () 1 441 4 401060(60) VVV VTV T     +  +−− + −       OR: () 1 41 4 (10 50)60 VV VT    + ++−   (Simplified: VT V− ) M1 A1 A1 Equate their motorbike distance to () 15VT− to give an equation in T only M1 90T= A1 ALT: Find area of upper trapezium and parallelogram (differences in areas) () 40 10 V T  −+   and 10V M1 A1 A1 Equate to give an equation in T only (V cancels) M1 90T= A1 (5) (11) Notes for Question 5 (a) M1 Uses total area under graph to find an expression for the distance in terms of V and T only May use: Trapezium: TT V +−    triangle + rectangle : ()() VV T+− a triangle subtracted from a rectangle: (30) VTV− OR use of suvat: ()() VV T+− A1* Given answer correctly obtained (allow omission of ‘metres’. (b) N.B. If graph is not done on either of the given graphs on the question paper, they score B0B0 . B1 Correct shape with acceleration lines parallel and meeting at (T, V) B0 if continuous vertical line at t = T B1 Correct horizontal labels. Accept appropriately labelled delineators. N.B. This mark is independent of the first B1. (c) M1 Correct method using gradients or suvat to obtain an equation in V only A1* Given answer correctly obtained (d) M1 For motorbike: find an expression for the TOTAL area under the graph (or use suvat) to find the total distance travelled in terms of V and T only. N.B. () 1 441 4 VVV VT     +  +−−       is M0 as it omits a part of the area. A1 Correct unsimplified expression with at most one error/slip A1 Correct unsimplified expression M1 Clear attempt to equate their distance to the given distance in part (a) to give an equation in T only i.e. the V’s must cancel but they do not need to be cancelled for this mark. N.B. This is an independent mark. A1 cao Number Scheme Marks 6 Vertical sinR PW−= M1 A1 Horizontal cosFP= OR cos MAX FP M1 A1 FR or FR= seen or ",
+          "image": "/papers/wme01-may-2023/q5-5c.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q5.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Whole system: () 3000 1200 sin600 sin21800 0.75ggR R−−− − = M1 A1 A1 From exact working 60 *R= A1* cso (4)",
+          "image": "/papers/wme01-may-2023/q7-7a.png"
+        },
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Trailer: () 600 sin60 600 0.75Tg−− = OR Car: ()() 3000 1200 sin2 601200 0.75gT−−− = (T could be replaced by ( T− ) in either equation, leading to T = 1000− , so tension is 1000 ) M1 A1 1000 (N)T= A1 (3)",
+          "image": "/papers/wme01-may-2023/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Equation of motion 60 600 sin600 ga− −= (or – 600a) 0.9166 a  = − = −   M1 A1 0 122 d  = + −   M1 78.5 , 79 (m)d= A1 (4) (11) Notes for question 7 (a) M1 Equation of motion for the whole system (or for car AND trailer with T eliminated) to give an equation in R only. sin does not need to be substituted Correct number of terms, forces resolved where appropriate, condone sign errors and sin/cos confusion. A1 Correct equation with at most one error. sin does not need to be substituted A1 Correct equation. sin does not need to be substituted A1* Reach the GIVEN answer with at least one intermediate line of working and must come from exact working. (b) M1 Equation of motion for the trailer or for the car. Correct number of terms, forces resolved where appropriate, condone sign errors and sin/cos confusion. sin does not need to be substituted but R = 60 does A1 Correct unsimplified equation. sin does not need to be substituted A1 Correct answer for T (c) M1 Form an equation of motion for the trailer to find the new acceleration. Correct number of terms, forces resolved where appropriate, condone sign errors and sin/cos confusion. sin does not need to be substituted but R = 60 does A1 Correct unsimplified equation. sin does not need to be substituted M1 Complete method, with a calculated acceleration that is not g, to find the distance travelled. A1 Cao 2 or 3sf Must be positive. N.B. Allow a negative value of d and made positive for the distance. Number Scheme Marks Allow working in column vectors and penalise answers to (a) and (b) in column vector form ONCE at the first time it occurs.",
+          "image": "/papers/wme01-may-2023/q7-7c.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "()() + − − + = ijij v M1 Expression for r with correct structure M1 ( 2)(2 )t= − + + +ri jij or (2)(21)tt= − + +rij A1 cao (3)",
+          "image": "/papers/wme01-may-2023/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(2525 )()t= + + − −siji j Or (25)(25)tt= − + −sij B1 (1)",
+          "image": "/papers/wme01-may-2023/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Either −rs Or −sr with their r and s substituted M1  (227)(324)SRtt= − + −ij m * A1* (2)",
+          "image": "/papers/wme01-may-2023/q8-8c.png"
+        },
+        {
+          "id": "8d",
+          "text": "Part 8d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Distance ( )(227)(324)dtt=−+ − ()(227)(324)dtt= −+ − M1 () 132521305dtt= − + A1 9.7 t== (s) or better A1 (3) (9) Notes for Question 8 (a) M1 Use of displacement/time to find velocity. Allow the difference either way round. M1 Expression for r with correct structure using their v and the correct initial position vector. A1 Correct expression in terms of t, i and j (b) B1 Any correct expression for s in terms of t, i and j (c) M1 (Their r – their s) or vice versa, unsimplified A1* Correct answer correctly obtained. Allow missing square brackets and m, but rest must be identical to given answer. (d) M1 Use of Pythagoras to find an expression for distance (or distance squared) A1 Correct 3 term quadratic expression N.B. If no 3 term quadratic expression is seen but a correct derivative is, award this mark. A1 9.7 or better. N.B. If a fraction is given as the answer, it must be the ratio of two positive integers or a mixed fraction. Pearson Education Limited. Registered company number 872828 with its registered office at 80 Strand, London, WC2R 0RL, United Kingdom",
+          "image": "/papers/wme01-may-2023/q8-8d.png"
+        }
+      ],
+      "image": "/papers/wme01-may-2023/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 18,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/wme01-may-2023"
+  },
+  "unit": "Unit 2"
+}

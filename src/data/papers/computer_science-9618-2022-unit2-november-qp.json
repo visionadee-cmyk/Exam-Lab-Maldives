@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-9618-2022-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2022-unit2-november-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/21",
+  "session": "October/November 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "CALL CountErrors(\"Jim01Prog.txt\", 20) One mark for each: 1 Module name, at least one parameter in brackets and one parameter correct 2 Completely correct statement October/November Question Answer Marks 1 Procedure heading and ending including parameters 2 Declaration and initialisation of local Integer value for ErrCount 3 Use of CheckFile(), output message and terminate if it returns FALSE 4 Conditional loop until EOF() 5 ...or ErrCount > MaxErrors 6 Read line and use as parameter to CheckLine()in a loop 7 Test return value and increment ErrCount if non-zero in a loop 8 Output either message once only as appropriate PROCEDURE CountErrors(ThisFile : STRING, MaxErrors : INTEGER) DECLARE ErrCount, ThisError : INTEGER DECLARE ThisLine : STRING ErrCount  0 IF CheckFile(ThisFile) = FALSE THEN OUTPUT \"That program file is not valid\" ELSE OPEN ThisFile FOR READ REPEAT READFILE, ThisFile, ThisLine ThisError  CheckLine(ThisLine) IF ThisError <> 0 THEN ErrCount  ErrCount + 1 ENDIF UNTIL ErrCount > MaxErrors OR EOF(ThisFile) IF EOF(ThisFile) = FALSE THEN OUTPUT \"Check terminated – too many errors\" ELSE OUTPUT \"There were \", ErrCount, \" errors.\" ENDIF CLOSEFILE ThisFile ENDIF ENDPROCEDURE Examples: 1 Incorrect block structure. Missing keyword denoting part of block (for example ENDPROCEDURE, ENDFUNCTION, ENDTYPE) 2 Data type errors, for example, assigning an integer value to a string 3 Identifier used before it is declared 4 Incorrect parameter use",
+          "image": "/papers/computer_science-9618-2022/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2022/q8.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2022-unit2-2022-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

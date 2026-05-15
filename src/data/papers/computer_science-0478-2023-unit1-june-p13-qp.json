@@ -1,0 +1,203 @@
+{
+  "paperId": "computer_science-0478-2023-unit1-june-p13-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2023-unit1-june-p13-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/13",
+  "session": "May/June 2023",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 12,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": " A  E   B",
+          "image": "/papers/computer_science-0478-2023/q1-1b.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct nibble One mark for correct carries (or other correct working method) One mark for identification of overflow error 1 1  1 0001",
+          "image": "/papers/computer_science-0478-2023/q1-1d.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": " one from:  To perform a fetch-decode-execute cycle  To process / execute an instruction",
+          "image": "/papers/computer_science-0478-2023/q1-1f.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from:  It may increase the performance  ... because more instructions can be processed simultaneously Two from:  To store / holds data / address / instruction  ... temporarily 0478/13 May/June 2023 One mark for correct name of bus. Two marks for matching description. Address bus Transmit / carries addresses ... ... between components in the CPU Data bus Transmit / carries data ... ... between components in the CPU Control bus Transmits control signals ... ... from the control unit to othe r components in the CPU two from: e.g.  Keyboard // Keypad  Mouse  Touchscreen  Digital camera  QR code sc anner  Barcode scanner  2D scanner  Microphone",
+          "image": "/papers/computer_science-0478-2023/q2-2b.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Any one from:  Speakers  Headphones",
+          "image": "/papers/computer_science-0478-2023/q2-2e.png"
+        },
+        {
+          "id": "2f",
+          "text": "Part 2f",
+          "marks": 1,
+          "type": "structured",
+          "answer": " random access memory (RAM)  read only memory (ROM) 0478/13 May/June 2023 three from:  Receives data from the self-checkout system  Compares the book data received to stored book data  ... that is a database of stock  If the book is found it decrements the book stock by 1  I f the book is not found an erro r message is displayed One mark for each correct missing term or definition: Term Definition route r a device that forwards packets to their correct destinations in a network IP address this address is assigned by the network and used to identify a device on a network networ k interface card (NIC) this is a component in a device that enables it to connect to a network MAC address this address is assigned by the manufacturer and is used to uniquely identify the device firewall // proxy-serve r this can be hardware or software based and filters traffic coming into and out of a network 0478/13 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q2-2f.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " B  Machine code // low-level language // object code  Interprete r  Compile r  Compile r The diagram demonstrates ( one mark for each):  Packets sent through several routers  ... taking different routes from device A to device B  Packets arrive out of order  Packets being reordered when all arrived at device B three from: e.g.  Checking the spelling and tone of the email/website  Checking the URL attached to a link  Scanning a download with anti-malware  Only downloading data / software from trusted sources  Never providing personal details online  Install a firewall to check i f the website is valid 0478/13 May/June 2023",
+          "image": "/papers/computer_science-0478-2023/q4-4a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q4.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two marks for description, one mark for example:  Manipulating / deceiving / tricking people ...  ... to obtain data // to force them to make an error  Any suitable example of social engineering three from:  Providing users with different permission for the data  Limiting access to reading data limiting the data that can be viewed  Limiting access to editing data // limiting the data that can be deleted / changed  Normally linked to a username ",
+          "image": "/papers/computer_science-0478-2023/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Interface  Knowledge base two from:  Stores the rules for the system  ... for the inference engine to use  Used to link the facts in the knowledge base One mark for each correct term in the correct order:  Malware  Bot  Botnet  Web server  Website 0478/13 May/June 2023 one from:  They can both be used to identify a device (on a network)   They can both be static / dynamic   They are both unique (to a device on a network)   They can both be assigned by a router   They can both be public/private ",
+          "image": "/papers/computer_science-0478-2023/q7-7a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q7.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from:  IPv4 is usually written as denary  ... IPv6 usually written as hexadecimal  IPv4 is separated using dots  ... Pv6 is separated using colons  IPv4 is 32-bit  ... IPv6 is 128-bit  IPv4 is 4 groups of digits  ... IPv6 is 8 groups of digits  IPv4 digits are between 0 and 255  ... IPv6 digits are between 0000 and FFFF  IPv4 all 0s are displayed  ... IPv6 can use double colons to replace repeated groups of 0000  IPv4 has fewer available unique addresses  ... IPv6 has more available unique addresses  Domain name server // DNS  Web browse r 0478/13 May/June 2023 10 Any four from:  The secondary storage / hard drive can be partitio ned to create the virtual memory  ... and page B sent to the virtual memory ...  ... which makes space for page D in RAM  ... Once page A / C / D / another page is not required / has been processed  ... page B can be sent from the virtual memory back to RAM when it is required",
+          "image": "/papers/computer_science-0478-2023/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q9.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 11",
+      "text": "Question 11",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "Part 11a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Operating system one from:  Create a file  Copy a file  Open a file  Close a file  Move a file  Delete a file  Rename a file  Save a file  Sort files two from: e.g.  Keeping track of the status of each memory location  Managing the movement of data to and from RAM  Checks that processes have enough memory located to them  Makes sure that two processes don’t try to access the same memory location  Manage the transfer of pages between virtual memory and RAM  A llows multitasking",
+          "image": "/papers/computer_science-0478-2023/q11-11a.png"
+        },
+        {
+          "id": "11d",
+          "text": "Part 11d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Interrupt",
+          "image": "/papers/computer_science-0478-2023/q11-11d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2023/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 12,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2023-unit1-2023-06-12-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

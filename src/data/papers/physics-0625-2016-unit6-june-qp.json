@@ -1,0 +1,127 @@
+{
+  "paperId": "physics-0625-2016-unit6-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2016-unit6-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/61",
+  "session": "May/June 2016",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 7,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "1 (a) The student places a sliding contact C on the resistance wire at a distance d = 0.200 m from point A. He measures the current I in the circuit and the p.d. V across the lamp L. He repeats the procedure using values for d of 0.400 m, 0.600 m and 0.800 m. The readings are shown in Table 3.1. (i) Calculate the resistance R of the lamp filament for each set",
+      "text": "1 (a) The student places a sliding contact C on the resistance wire at a distance d = 0.200 m from point A. He measures the current I in the circuit and the p.d. V across the lamp L. He repeats the procedure using values for d of 0.400 m, 0.600 m and 0.800 m. The readings are shown in Table 3.1. (i) Calculate the resistance R of the lamp filament for each set",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Method shown on graph and Y correct to ½ small square.",
+          "image": "/papers/physics-0625-2016/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "W = 1.0–1.4. No ecf",
+          "image": "/papers/physics-0625-2016/q1-1d.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Expect agree; allow ecf. Explanation includes idea of close enough (or, ecf, too different) Total 10 0.44–0.45 Units V and A 1 1 1",
+          "image": "/papers/physics-0625-2016/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Perpendicular to scale and at bottom of meniscus Total 5 Page 4 Mark Scheme Syllabus Paper 0625 61 R values 1.60, 1.51, 1.35, 1.21 R values all to 2 significant figures or all to 3 significant figures. 1 1 Column headings m, V, A, Ω",
+          "image": "/papers/physics-0625-2016/q2-2c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "filament changes brightness, owtte increase / decrease / change in temperature of filament / lamp Correct diagram, with variable resistor in series with power supply Total 9 Page 5 Mark Scheme Syllabus Paper 0625 61 MP1 Uses same container throughout MP2 Hot water in container (any) and takes temperatures at intervals or at start and after a fixed time OR Hot water in container (any) and takes time for a fixed temperature fall. MP3 Repeats with different insulators (all three used) MP 4&5 Any two from: Constant room temperature Same starting temperatures (clearly stated) Same volumes of hot water (clearly stated) Same thickness/amount of insulator Use container without insulation Use of a lid Insulates bottom of container Uses the copper can only MP6 Table or tables as appropriate to method: Temperatures with unit °C and time with unit s (or min) and different insulators shown MP7 Use of readings: graph of temperature against time OR compare results and comment that longest time to cool = best insulator or smallest drop in temperature in fixed time = best insulator (or reverse arguments) Total 7 Page 6 Mark Scheme Syllabus Paper 0625 61",
+          "image": "/papers/physics-0625-2016/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "u = 50, v = 21 U = 500, V = 210 ecf from (a) f = 148 or 150 or 147.9 (mm) ecf from (i) 2 or 3 significant figures 1 1",
+          "image": "/papers/physics-0625-2016/q5-5a.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "f 136 (mm) c.a.o. / statement is correct, owtte (6 mm) difference is very small / within limits of experimental error / Difference explained by uncertainty in her focal length measurement Use of darkened room / brighter lamp Mark position of centre of lens on holder Place metre rule on bench (or clamp in position) Ensure object and (centre of) lens are same height (from the bench) Object and lens and screen perpendicular to bench Move screen (slowly) back and forth to obtain best image (owtte) Ensure rule is touching object / lens / holder / screen or look perpendicular to ruler Total 9",
+          "image": "/papers/physics-0625-2016/q5-5c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2016/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 7,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2016",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2016-unit6-2016-06-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

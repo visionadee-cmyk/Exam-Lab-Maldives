@@ -1,0 +1,651 @@
+{
+  "paperId": "physics-0625-2025-unit2-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2025-unit2-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/21",
+  "session": "May/June 2025",
+  "title": "Paper 2 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The speed–time graph for a racing car is divided into four sections, P, Q, R and S. The car starts the race but soon crashes into a wall of tyres. 0 0 speed time P Q R S Which sections of the graph show that there is an acceleration that is changing? A P, Q, R and S, B Q, R and S only, C Q and R only, D R and S only",
+      "text": "The speed–time graph for a racing car is divided into four sections, P, Q, R and S. The car starts the race but soon crashes into a wall of tyres. 0 0 speed time P Q R S Which sections of the graph show that there is an acceleration that is changing? A P, Q, R and S, B Q, R and S only, C Q and R only, D R and S only",
+      "options": [
+        "A P, Q, R and S",
+        "B Q, R and S only",
+        "C Q and R only",
+        "D R and S only"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows the four forces acting on an aircraft in flight. 120 kN 60 kN 60 kN 40 kN Which arrow shows the direction of the resultant of the four forces? ABCD 3",
+      "text": "The diagram shows the four forces acting on an aircraft in flight. 120 kN 60 kN 60 kN 40 kN Which arrow shows the direction of the resultant of the four forces? ABCD 3",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show two metal blocks, X and Y, suspended from identical force meters. X and Y have identical dimensions. 0 1 2 3 4 6 5 N 0 1 2 3 4 6 5 N Y X Which statement about X and Y is correct? A They have different volumes and different weights., B They have different volumes and equal weights., C They have equal volumes and equal weights., D They have equal volumes and different weights.",
+      "text": "The diagrams show two metal blocks, X and Y, suspended from identical force meters. X and Y have identical dimensions. 0 1 2 3 4 6 5 N 0 1 2 3 4 6 5 N Y X Which statement about X and Y is correct? A They have different volumes and different weights., B They have different volumes and equal weights., C They have equal volumes and equal weights., D They have equal volumes and different weights.",
+      "options": [
+        "A They have different volumes and different weights.",
+        "B They have different volumes and equal weights.",
+        "C They have equal volumes and equal weights.",
+        "D They have equal volumes and different weights."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A girl has a gold necklace. Which apparatus does she need to find the density of the gold? balance measuring cylinder thermometer ruler A \u0016 \u0016 \u0016 \u0016 key, B \u0016 \u0016 \u0016 \u001a \u0016 = needed, C \u0016 \u0016 \u001a \u001a \u001a = not needed, D \u0016 \u001a \u001a \u001a",
+      "text": "A girl has a gold necklace. Which apparatus does she need to find the density of the gold? balance measuring cylinder thermometer ruler A \u0016 \u0016 \u0016 \u0016 key, B \u0016 \u0016 \u0016 \u001a \u0016 = needed, C \u0016 \u0016 \u001a \u001a \u001a = not needed, D \u0016 \u001a \u001a \u001a",
+      "options": [
+        "A \u0016 \u0016 \u0016 \u0016 key",
+        "B \u0016 \u0016 \u0016 \u001a \u0016 = needed",
+        "C \u0016 \u0016 \u001a \u001a \u001a = not needed",
+        "D \u0016 \u001a \u001a \u001a"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A spring has a length of 25 cm when a load of 2.0 N is suspended from it. The spring has a length of 35 cm when a 7.0 N load is used. What is the spring constant of the spring? A 0.20 N / cm B 0.50 N / cm C 2.0 N / cm D 5.0 N / cm 4",
+      "text": "A spring has a length of 25 cm when a load of 2.0 N is suspended from it. The spring has a length of 35 cm when a 7.0 N load is used. What is the spring constant of the spring? A 0.20 N / cm B 0.50 N / cm C 2.0 N / cm D 5.0 N / cm 4",
+      "options": [
+        "A 0.20 N / cm B 0.50 N / cm C 2.0 N / cm D 5.0 N / cm 4"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams E–H show a block of wood on a frictionless surface. In each diagram, the block has two forces acting on its sides. E 2 N 2 N F 2 N2 N 2 N2 N G 2 N2 N H Which diagrams show the block in equilibrium? A E, F, G and H, B E, G and H only, C E and F only, D G and H only",
+      "text": "The diagrams E–H show a block of wood on a frictionless surface. In each diagram, the block has two forces acting on its sides. E 2 N 2 N F 2 N2 N 2 N2 N G 2 N2 N H Which diagrams show the block in equilibrium? A E, F, G and H, B E, G and H only, C E and F only, D G and H only",
+      "options": [
+        "A E, F, G and H",
+        "B E, G and H only",
+        "C E and F only",
+        "D G and H only"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement is not correct? A the momentum of a system is conserved in all interactions, B impulse = change of momentum, C force acting = change of momentum  time, D momentum = mass  velocity",
+      "text": "Which statement is not correct? A the momentum of a system is conserved in all interactions, B impulse = change of momentum, C force acting = change of momentum  time, D momentum = mass  velocity",
+      "options": [
+        "A the momentum of a system is conserved in all interactions",
+        "B impulse = change of momentum",
+        "C force acting = change of momentum  time",
+        "D momentum = mass  velocity"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A force acting on a moving ball causes its motion to change. This force stays constant. What makes the force produce a greater change in the motion of the ball? A decreasing the total mass of the ball, B increasing the temperature of the ball, C using a ball with a hollow centre but the same mass, D using a different material for the ball so that it has a lower density but the same mass 5",
+      "text": "A force acting on a moving ball causes its motion to change. This force stays constant. What makes the force produce a greater change in the motion of the ball? A decreasing the total mass of the ball, B increasing the temperature of the ball, C using a ball with a hollow centre but the same mass, D using a different material for the ball so that it has a lower density but the same mass 5",
+      "options": [
+        "A decreasing the total mass of the ball",
+        "B increasing the temperature of the ball",
+        "C using a ball with a hollow centre but the same mass",
+        "D using a different material for the ball so that it has a lower density but the same mass 5"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A farmer has two carts. The carts have the same weight, but one has four narrow wheels and the other has four wide wheels. narrow wheelwide wheel Which cart wheels sink less into soft ground and what is the reason? cart wheels reason A narrow greater pressure on the ground, B narrow less pressure on the ground, C wide greater pressure on the ground, D wide less pressure on the ground",
+      "text": "A farmer has two carts. The carts have the same weight, but one has four narrow wheels and the other has four wide wheels. narrow wheelwide wheel Which cart wheels sink less into soft ground and what is the reason? cart wheels reason A narrow greater pressure on the ground, B narrow less pressure on the ground, C wide greater pressure on the ground, D wide less pressure on the ground",
+      "options": [
+        "A narrow greater pressure on the ground",
+        "B narrow less pressure on the ground",
+        "C wide greater pressure on the ground",
+        "D wide less pressure on the ground"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A hot gas and a cool liquid are at the same pressure. Which row describes the separation and the motion of the particles of a hot gas compared to those of a cool liquid? separation of gas particles motion of gas particles A greater than a cool liquid faster than a cool liquid, B greater than a cool liquid slower than a cool liquid, C less than a cool liquid faster than a cool liquid, D less than a cool liquid slower than a cool liquid",
+      "text": "A hot gas and a cool liquid are at the same pressure. Which row describes the separation and the motion of the particles of a hot gas compared to those of a cool liquid? separation of gas particles motion of gas particles A greater than a cool liquid faster than a cool liquid, B greater than a cool liquid slower than a cool liquid, C less than a cool liquid faster than a cool liquid, D less than a cool liquid slower than a cool liquid",
+      "options": [
+        "A greater than a cool liquid faster than a cool liquid",
+        "B greater than a cool liquid slower than a cool liquid",
+        "C less than a cool liquid faster than a cool liquid",
+        "D less than a cool liquid slower than a cool liquid"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A fixed mass of gas has a volume of 1.2 m 3 and is at a pressure of 200 kPa. The gas expands at constant temperature to a volume of 1.8 m 3 . What is the new pressure of the gas? A 120 kPa B   130 kPa C   300 kPa D   600 kPa 6",
+      "text": "A fixed mass of gas has a volume of 1.2 m 3 and is at a pressure of 200 kPa. The gas expands at constant temperature to a volume of 1.8 m 3 . What is the new pressure of the gas? A 120 kPa B   130 kPa C   300 kPa D   600 kPa 6",
+      "options": [
+        "A 120 kPa B   130 kPa C   300 kPa D   600 kPa 6"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The specific heat capacity of solid P is greater than that of solid Q. What does this statement mean? A Less energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q., B Less energy is needed to melt unit mass of solid P than unit mass of solid Q., C More energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q., D More energy is needed to melt unit mass of solid P than unit mass of solid Q.",
+      "text": "The specific heat capacity of solid P is greater than that of solid Q. What does this statement mean? A Less energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q., B Less energy is needed to melt unit mass of solid P than unit mass of solid Q., C More energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q., D More energy is needed to melt unit mass of solid P than unit mass of solid Q.",
+      "options": [
+        "A Less energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q.",
+        "B Less energy is needed to melt unit mass of solid P than unit mass of solid Q.",
+        "C More energy is needed to raise the temperature by 1 °C of unit mass of solid P than unit mass of solid Q.",
+        "D More energy is needed to melt unit mass of solid P than unit mass of solid Q."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "When water evaporates, what escapes from the surface of the water? A individual atoms, B individual molecules, C individual protons, D tiny drops of water",
+      "text": "When water evaporates, what escapes from the surface of the water? A individual atoms, B individual molecules, C individual protons, D tiny drops of water",
+      "options": [
+        "A individual atoms",
+        "B individual molecules",
+        "C individual protons",
+        "D tiny drops of water"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sealed container of gas is heated. The pressure of the gas increases. Which statement explains this increase in pressure? A The forces of the gas particles striking the walls of the container increase., B The forces of attraction between the gas particles and the walls of the container increase., C The gas particles collide with each other more frequently., D The gas particles lose more energy when they strike the walls of the container.",
+      "text": "A sealed container of gas is heated. The pressure of the gas increases. Which statement explains this increase in pressure? A The forces of the gas particles striking the walls of the container increase., B The forces of attraction between the gas particles and the walls of the container increase., C The gas particles collide with each other more frequently., D The gas particles lose more energy when they strike the walls of the container.",
+      "options": [
+        "A The forces of the gas particles striking the walls of the container increase.",
+        "B The forces of attraction between the gas particles and the walls of the container increase.",
+        "C The gas particles collide with each other more frequently.",
+        "D The gas particles lose more energy when they strike the walls of the container."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student has a copper rod and a wooden rod. Both rods have the same dimensions. The student puts one end of each rod into a beaker of crushed ice. After a few minutes, the student picks up the rods by the ends not in the ice. Which statement is correct? A The copper rod feels colder than the wooden rod because copper is a better conductor than wood., B The copper rod feels warmer than the wooden rod because copper is a better conductor than wood., C The wooden rod feels colder than the copper rod because wood is a better conductor than copper., D The wooden rod feels warmer than the copper rod because wood is a better conductor than copper. 7",
+      "text": "A student has a copper rod and a wooden rod. Both rods have the same dimensions. The student puts one end of each rod into a beaker of crushed ice. After a few minutes, the student picks up the rods by the ends not in the ice. Which statement is correct? A The copper rod feels colder than the wooden rod because copper is a better conductor than wood., B The copper rod feels warmer than the wooden rod because copper is a better conductor than wood., C The wooden rod feels colder than the copper rod because wood is a better conductor than copper., D The wooden rod feels warmer than the copper rod because wood is a better conductor than copper. 7",
+      "options": [
+        "A The copper rod feels colder than the wooden rod because copper is a better conductor than wood.",
+        "B The copper rod feels warmer than the wooden rod because copper is a better conductor than wood.",
+        "C The wooden rod feels colder than the copper rod because wood is a better conductor than copper.",
+        "D The wooden rod feels warmer than the copper rod because wood is a better conductor than copper. 7"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a black object X at constant temperature. The arrows represent the absorption and emission of thermal radiation at the surface. Object Y is at the same constant temperature as X and is identical except that it has a white surface. Which row correctly compares object X with object Y? rate of absorption for X rate of emission for X A higher higher, B lower higher, C higher lower, D lower lower 8",
+      "text": "The diagram shows a black object X at constant temperature. The arrows represent the absorption and emission of thermal radiation at the surface. Object Y is at the same constant temperature as X and is identical except that it has a white surface. Which row correctly compares object X with object Y? rate of absorption for X rate of emission for X A higher higher, B lower higher, C higher lower, D lower lower 8",
+      "options": [
+        "A higher higher",
+        "B lower higher",
+        "C higher lower",
+        "D lower lower 8"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a cork with a weight attached so that the cork floats upright in water. XY cork water surface weight Transverse waves travel across the water from X to Y. In which direction do the waves make the cork move? A   right and left, B  up and down, C  only to the right, D  only to the left",
+      "text": "The diagram shows a cork with a weight attached so that the cork floats upright in water. XY cork water surface weight Transverse waves travel across the water from X to Y. In which direction do the waves make the cork move? A   right and left, B  up and down, C  only to the right, D  only to the left",
+      "options": [
+        "A   right and left",
+        "B  up and down",
+        "C  only to the right",
+        "D  only to the left"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A thin converging lens is used as a magnifying glass. How does the image compare with the object? A real and inverted, B real and upright, C virtual and inverted, D virtual and upright 9",
+      "text": "A thin converging lens is used as a magnifying glass. How does the image compare with the object? A real and inverted, B real and upright, C virtual and inverted, D virtual and upright 9",
+      "options": [
+        "A real and inverted",
+        "B real and upright",
+        "C virtual and inverted",
+        "D virtual and upright 9"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows two plane mirrors at 90° to each other. A ray of light is incident on one of the mirrors. The ray reflects off both mirrors before reaching a screen. At which labelled point does the ray reach the screen? ray of light screen A B C D",
+      "text": "The diagram shows two plane mirrors at 90° to each other. A ray of light is incident on one of the mirrors. The ray reflects off both mirrors before reaching a screen. At which labelled point does the ray reach the screen? ray of light screen A B C D",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The speed of light in a material is 50% of the speed of light in air. What is the refractive index of the material? A 0.5 B 2.0 C 6.0  10 8, D 1.5  10 8",
+      "text": "The speed of light in a material is 50% of the speed of light in air. What is the refractive index of the material? A 0.5 B 2.0 C 6.0  10 8, D 1.5  10 8",
+      "options": [
+        "A 0.5 B 2.0 C 6.0  10 8",
+        "D 1.5  10 8"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A beam of white light is split into a spectrum of seven colours. Which name is given to this process? A diffraction, B dispersion, C reflection, D refraction",
+      "text": "A beam of white light is split into a spectrum of seven colours. Which name is given to this process? A diffraction, B dispersion, C reflection, D refraction",
+      "options": [
+        "A diffraction",
+        "B dispersion",
+        "C reflection",
+        "D refraction"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Satellites are sometimes used to receive and re-transmit television signals. Which row shows the type of satellite and the electromagnetic waves used? type of satellite electromagnetic waves used A low orbit infrared, B low orbit microwaves, C geostationary infrared, D geostationary microwaves 10",
+      "text": "Satellites are sometimes used to receive and re-transmit television signals. Which row shows the type of satellite and the electromagnetic waves used? type of satellite electromagnetic waves used A low orbit infrared, B low orbit microwaves, C geostationary infrared, D geostationary microwaves 10",
+      "options": [
+        "A low orbit infrared",
+        "B low orbit microwaves",
+        "C geostationary infrared",
+        "D geostationary microwaves 10"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A sound wave travels through the air and strikes a solid block of steel. Some of the sound is reflected from the steel, and some is transmitted through the steel. How does the speed and the wavelength of the sound in steel compare to the speed and the wavelength of the sound in air? speed in steel wavelength in steel A less than in air less than in air, B less than in air greater than in air, C greater than in air less than in air, D greater than in air greater than in air",
+      "text": "A sound wave travels through the air and strikes a solid block of steel. Some of the sound is reflected from the steel, and some is transmitted through the steel. How does the speed and the wavelength of the sound in steel compare to the speed and the wavelength of the sound in air? speed in steel wavelength in steel A less than in air less than in air, B less than in air greater than in air, C greater than in air less than in air, D greater than in air greater than in air",
+      "options": [
+        "A less than in air less than in air",
+        "B less than in air greater than in air",
+        "C greater than in air less than in air",
+        "D greater than in air greater than in air"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a bracelet containing two magnets. The arrows represent the pattern and the direction of the magnetic field due to the magnets. JK XY Which row identifies the magnetic pole at J, the magnetic pole at K and where the magnetic field is the strongest? magnetic pole at J magnetic pole at K where the magnetic field is the strongest A N N X, B N N Y, C S S X, D S S Y 11",
+      "text": "The diagram shows a bracelet containing two magnets. The arrows represent the pattern and the direction of the magnetic field due to the magnets. JK XY Which row identifies the magnetic pole at J, the magnetic pole at K and where the magnetic field is the strongest? magnetic pole at J magnetic pole at K where the magnetic field is the strongest A N N X, B N N Y, C S S X, D S S Y 11",
+      "options": [
+        "A N N X",
+        "B N N Y",
+        "C S S X",
+        "D S S Y 11"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which row describes an electric field and its direction? description of electric field direction of electric field A region in which an electric charge experiences a force direction of the force on a positive charge B region in which an electric charge experiences a force direction of the force on a negative charge C region in which an electric charge produces a current direction of the force on a positive charge D region in which an electric charge produces a current direction of the force on a negative charge",
+      "text": "Which row describes an electric field and its direction? description of electric field direction of electric field A region in which an electric charge experiences a force direction of the force on a positive charge B region in which an electric charge experiences a force direction of the force on a negative charge C region in which an electric charge produces a current direction of the force on a positive charge D region in which an electric charge produces a current direction of the force on a negative charge",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Copper wire is available in fixed lengths but in various diameters d. Each wire has a different resistance R. Which relationship between R and d is correct? A R is directly proportional to d., B R is directly proportional to d 2 ., C R is inversely proportional to d., D R is inversely proportional to d 2 .",
+      "text": "Copper wire is available in fixed lengths but in various diameters d. Each wire has a different resistance R. Which relationship between R and d is correct? A R is directly proportional to d., B R is directly proportional to d 2 ., C R is inversely proportional to d., D R is inversely proportional to d 2 .",
+      "options": [
+        "A R is directly proportional to d.",
+        "B R is directly proportional to d 2 .",
+        "C R is inversely proportional to d.",
+        "D R is inversely proportional to d 2 ."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows three 20  resistors, R 1 , R 2 and R 3 , and a switch S connected to a d.c. power supply. R 1 R 2 S R 3 Switch S is open. The potential difference (p.d.) across R 3 is 9.0 V. What is the p.d. across R 3 when switch S is closed? A 3.0 V B 6.0 V C 12 V D 27 V 12",
+      "text": "The diagram shows three 20  resistors, R 1 , R 2 and R 3 , and a switch S connected to a d.c. power supply. R 1 R 2 S R 3 Switch S is open. The potential difference (p.d.) across R 3 is 9.0 V. What is the p.d. across R 3 when switch S is closed? A 3.0 V B 6.0 V C 12 V D 27 V 12",
+      "options": [
+        "A 3.0 V B 6.0 V C 12 V D 27 V 12"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The  circuits  shown  all  include  a  d.c.  power  supply,  one  diode and  two  light-emitting  diodes (LEDs). In which circuit will both LEDs be turned on? AB +–+– CD +–+–",
+      "text": "The  circuits  shown  all  include  a  d.c.  power  supply,  one  diode and  two  light-emitting  diodes (LEDs). In which circuit will both LEDs be turned on? AB +–+– CD +–+–",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A wire connected to a resistor R is moved in a magnetic field. A current is induced in the direction shown. In which direction is the wire moved? NS D A B C B R wire induced current",
+      "text": "A wire connected to a resistor R is moved in a magnetic field. A current is induced in the direction shown. In which direction is the wire moved? NS D A B C B R wire induced current",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which component is not found in an a.c. generator? A coil of wire, B split-ring commutator, C magnetic poles, D slip rings 13",
+      "text": "Which component is not found in an a.c. generator? A coil of wire, B split-ring commutator, C magnetic poles, D slip rings 13",
+      "options": [
+        "A coil of wire",
+        "B split-ring commutator",
+        "C magnetic poles",
+        "D slip rings 13"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "There is a current in a straight metal wire in the direction shown. direction of current Which row describes the direction and the pattern of the magnetic field due to the wire when looking from vertically above the wire? direction pattern A anticlockwise circular, B left to right parallel lines, C clockwise circular, D right to left parallel lines",
+      "text": "There is a current in a straight metal wire in the direction shown. direction of current Which row describes the direction and the pattern of the magnetic field due to the wire when looking from vertically above the wire? direction pattern A anticlockwise circular, B left to right parallel lines, C clockwise circular, D right to left parallel lines",
+      "options": [
+        "A anticlockwise circular",
+        "B left to right parallel lines",
+        "C clockwise circular",
+        "D right to left parallel lines"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A simple transformer contains an iron core. What is the function of the iron core in the transformer? A to conduct current from the primary coil to the secondary coil, B to enable the secondary coil to act as an electromagnet, C to ensure there is a high voltage between the primary coil and the secondary coil, D to link the magnetic field in the primary coil to the secondary coil",
+      "text": "A simple transformer contains an iron core. What is the function of the iron core in the transformer? A to conduct current from the primary coil to the secondary coil, B to enable the secondary coil to act as an electromagnet, C to ensure there is a high voltage between the primary coil and the secondary coil, D to link the magnetic field in the primary coil to the secondary coil",
+      "options": [
+        "A to conduct current from the primary coil to the secondary coil",
+        "B to enable the secondary coil to act as an electromagnet",
+        "C to ensure there is a high voltage between the primary coil and the secondary coil",
+        "D to link the magnetic field in the primary coil to the secondary coil"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In an alpha particle scattering experiment, a beam of alpha particles is fired at a very thin piece of gold foil. In which direction do most of the alpha particles travel after hitting the foil? gold foil beam of alpha particles A B C D 14",
+      "text": "In an alpha particle scattering experiment, a beam of alpha particles is fired at a very thin piece of gold foil. In which direction do most of the alpha particles travel after hitting the foil? gold foil beam of alpha particles A B C D 14",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An atom of boron contains 5 protons and 5 electrons. The nucleon number of the atom is 11. How many neutrons are there in the atom? A 5 B 6 C   11 D   16",
+      "text": "An atom of boron contains 5 protons and 5 electrons. The nucleon number of the atom is 11. How many neutrons are there in the atom? A 5 B 6 C   11 D   16",
+      "options": [
+        "A 5 B 6 C   11 D   16"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A detector placed near a radioactive isotope gives a measured count rate of 800 counts / minute. The half-life of the isotope is three hours. The background count rate is 32 counts / minute. What is the count rate on the detector after six hours? A 192 counts / minute, B 200 counts / minute, C 224 counts / minute, D 232 counts / minute",
+      "text": "A detector placed near a radioactive isotope gives a measured count rate of 800 counts / minute. The half-life of the isotope is three hours. The background count rate is 32 counts / minute. What is the count rate on the detector after six hours? A 192 counts / minute, B 200 counts / minute, C 224 counts / minute, D 232 counts / minute",
+      "options": [
+        "A 192 counts / minute",
+        "B 200 counts / minute",
+        "C 224 counts / minute",
+        "D 232 counts / minute"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Sodium-24 is a radioactive isotope that emits beta radiation. Which nuclear equation shows how sodium-24 decays? 24 NaA\u0001 11 24 Mg  + 12 0 \u0002 –1 24 NaB\u0001 11 24 Ne   + 10 0 \u0002 –1 24 NaC\u0001 11 20 F+ 9 4 \u0002 2 4 \u0002 2 24 NaD\u0001 11 20 Al+ 13",
+      "text": "Sodium-24 is a radioactive isotope that emits beta radiation. Which nuclear equation shows how sodium-24 decays? 24 NaA\u0001 11 24 Mg  + 12 0 \u0002 –1 24 NaB\u0001 11 24 Ne   + 10 0 \u0002 –1 24 NaC\u0001 11 20 F+ 9 4 \u0002 2 4 \u0002 2 24 NaD\u0001 11 20 Al+ 13",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/physics-0625-2025/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which safety precautions must be taken when using a source of gamma radiation? 1   Reduce the distance between the source and the person. 2   Reduce the time of exposure to the radiation. 3   Use a suitable shielding material between the source and the person. A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 15",
+      "text": "Which safety precautions must be taken when using a source of gamma radiation? 1   Reduce the distance between the source and the person. 2   Reduce the time of exposure to the radiation. 3   Use a suitable shielding material between the source and the person. A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 15",
+      "options": [
+        "A 1, 2 and 3 B   1 and 2 only C   1 and 3 only D   2 and 3 only 15"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2025/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student defines three periods of time: ●   the time T S taken for the Earth to orbit the Sun ●   the time T R taken for the Earth to rotate once on its axis ●   the time T M taken for the Moon to orbit the Earth. Which row shows the shortest period of time and the longest period of time? shortest period of time longest period of time A T S T R, B T R T S, C T R T M, D T M T S",
+      "text": "A student defines three periods of time: ●   the time T S taken for the Earth to orbit the Sun ●   the time T R taken for the Earth to rotate once on its axis ●   the time T M taken for the Moon to orbit the Earth. Which row shows the shortest period of time and the longest period of time? shortest period of time longest period of time A T S T R, B T R T S, C T R T M, D T M T S",
+      "options": [
+        "A T S T R",
+        "B T R T S",
+        "C T R T M",
+        "D T M T S"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2025/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the Universe is correct? A The Universe consists of 100 000 galaxies., B Redshift is a decrease in the observed wavelength of electromagnetic radiation emitted from receding galaxies., C Light emitted from distant galaxies appears redshifted., D Redshift of the light from distant galaxies gives evidence that the Universe is contracting.",
+      "text": "Which statement about the Universe is correct? A The Universe consists of 100 000 galaxies., B Redshift is a decrease in the observed wavelength of electromagnetic radiation emitted from receding galaxies., C Light emitted from distant galaxies appears redshifted., D Redshift of the light from distant galaxies gives evidence that the Universe is contracting.",
+      "options": [
+        "A The Universe consists of 100 000 galaxies.",
+        "B Redshift is a decrease in the observed wavelength of electromagnetic radiation emitted from receding galaxies.",
+        "C Light emitted from distant galaxies appears redshifted.",
+        "D Redshift of the light from distant galaxies gives evidence that the Universe is contracting."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about the cosmic microwave background radiation (CMBR) is correct? A CMBR now has a frequency higher than that of infrared radiation., B CMBR has always had exactly the same frequency., C CMBR had a shorter wavelength in the past., D CMBR was produced a long time after the Universe was formed. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "text": "Which statement about the cosmic microwave background radiation (CMBR) is correct? A CMBR now has a frequency higher than that of infrared radiation., B CMBR has always had exactly the same frequency., C CMBR had a shorter wavelength in the past., D CMBR was produced a long time after the Universe was formed. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge",
+      "options": [
+        "A CMBR now has a frequency higher than that of infrared radiation.",
+        "B CMBR has always had exactly the same frequency.",
+        "C CMBR had a shorter wavelength in the past.",
+        "D CMBR was produced a long time after the Universe was formed. 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2025/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

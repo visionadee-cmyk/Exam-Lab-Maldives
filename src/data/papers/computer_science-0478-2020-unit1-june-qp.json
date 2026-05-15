@@ -1,0 +1,189 @@
+{
+  "paperId": "computer_science-0478-2020-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2020",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− It needs RAM to store the data and programs currently in use − It needs ROM to permanently store the boot up instructions two from: − Fingerprint scanner − Voice recognition − Retina/iris recognition − Facial recognition two from: − Adds extra level of security − Biometric device requires properties unique to individual − A llows quicker access as no need to input password // don’t need to remember password 0478/11 May/June 2020",
+          "image": "/papers/computer_science-0478-2020/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-01.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct gate. 0478/11 May/June 2020",
+          "image": "/papers/computer_science-0478-2020/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 4 marks for 8 correct outputs 3 marks for 6 or 7 correct outputs 2 marks for 4 or 5 correct outputs 1 mark for 2 or 3 correct outputs three from: − It is a universal standard − It can’t be inserted the wrong way around − Supports different transmission speeds − Automatically detects if correct driver installed − It will charge the mobile device at the same time 0478/11 May/June 2020",
+          "image": "/papers/computer_science-0478-2020/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-02.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Serial",
+          "image": "/papers/computer_science-0478-2020/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− A compression algorithm is used − No data is removed in the compression process − An index/dictionary of pixels is created − The number of times a pixel is repeated in a row is stored two from: − They both calculate a value from the data − They both append the calculated value to the data − They both recalculate the value − ... They both report an error if they don’t match",
+          "image": "/papers/computer_science-0478-2020/q3-3c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-03.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for method, three marks for description: Automatic Repeat reQuest − Uses acknowledgement / request and time-out − Error control protocol − Check performed on receiving data // error is detected by e.g. parity check, check sum − If error detected, request is sent to resend data // negative acknowledgement is used − Resend request is repeated till data is sent correctly / requests timeout / limit is reached − Send acknowledgement that data is received // positive acknowledgement is used − If acknowledgement not received in set time data is resent Parity Check − A parity bit is added (to the parity byte) − Counts / checks number of 1’s − Can be even or odd − If parity is incorrect, error is detected 0478/11 May/June 2020 Component CPU component (  ) Not a CPU component (  ) A rithmetic logic unit (ALU)  Hard disk drive (HDD)  Memory address register (MAR)  Random access memory (RAM)  Solid state drive (SSD)  Control unit (CU)  One mark per each correct row Sensor Scenario Pressure / motion / infra-red Detecting when a person is approaching an automatic door system pH / light Monitoring the pollution level in a rive r Temperature Checking if a tropical aquarium is 25 degrees Celsius Magnetic field / pressure / motion / infra-red Counting the number of cars that cross a bridge One mark per each correct sensor (each sensor must be different) 0478/11 May/June 2020 four from: − Keylogger is downloaded without knowledge (by example) − Keylogger records key presses − Data is relayed back to third party − Data is analysed // Patterns in data could reveal log-in details ... − ... details can then be used to log into the account one from: − Use drop-down boxes for password − Two-step verification (by example) − Partial password requests − Onscreen / virtual keyboard one from: − Look for locked padlock / green padlock − Check for https four from: − requests web server to identify itself // request to view the (SSL) certificate − receives a copy of the (SSL) certi",
+          "image": "/papers/computer_science-0478-2020/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-04.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Interrupt",
+          "image": "/papers/computer_science-0478-2020/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for benefit, two marks for drawbacks Benefit: − Printing may be higher quality − Can use larger paper sizes − Can print onto different media − No warm-up time Drawbacks: − Printing will be slower − Ink is more expensive per page − Ink can be smeared // ink is not smudge proof",
+          "image": "/papers/computer_science-0478-2020/q8-8b.png"
+        },
+        {
+          "id": "8c",
+          "text": "Part 8c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Statement Inkjet (  ) Laser (  ) Uses a rotating drum to transfer the image to the pape r  Uses powdered tone r  Uses nozzles to spray droplets on to the pape r  Uses a print head mechanism that moves side to side  One mark per each correct row 0478/11 May/June 2020 three from: − Closer to/is machine code − May use mnemonics − May need an assembler to be translated − One line of code represents a single instruction − Machine dependent − Have direct access to memory locations/registers",
+          "image": "/papers/computer_science-0478-2020/q8-8c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-08.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9b",
+          "text": "Part 9b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "− Assembly code − Machine code one from: − It is more difficult to understand − Error prone − Have to manipulate memory locations − Machine dependent − − − 000011111010 (must have leading zeros) − − 1D",
+          "image": "/papers/computer_science-0478-2020/q9-9b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/page-09.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 6
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit1-2020-06-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-0478-2020/page-01.png",
+      "/papers/computer_science-0478-2020/page-02.png",
+      "/papers/computer_science-0478-2020/page-03.png",
+      "/papers/computer_science-0478-2020/page-04.png",
+      "/papers/computer_science-0478-2020/page-05.png",
+      "/papers/computer_science-0478-2020/page-06.png",
+      "/papers/computer_science-0478-2020/page-07.png",
+      "/papers/computer_science-0478-2020/page-08.png",
+      "/papers/computer_science-0478-2020/page-09.png",
+      "/papers/computer_science-0478-2020/page-10.png",
+      "/papers/computer_science-0478-2020/page-11.png",
+      "/papers/computer_science-0478-2020/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

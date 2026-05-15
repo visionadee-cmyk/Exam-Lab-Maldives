@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2025-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2025-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2025",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) Name the item of apparatus labelled A in Fig. 1.1. ............................................................................................................................................. [1] (b) Suggest how the magnesium ribbon should be cleaned before use. ..............................................................................................................................",
+      "text": "1 (a) Name the item of apparatus labelled A in Fig. 1.1. ............................................................................................................................................. [1] (b) Suggest how the magnesium ribbon should be cleaned before use. ..............................................................................................................................",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 May/June 2025 Question Answer Marks all temperatures and temperature changes recorded to 1 dp 1 all five highest temperatures recorded correctly (27.0, 29.0, 30.5, 32.5, 35.5) 1 all temperature changes calculated correctly (4.5, 6.5, 8.0, 10.5, 13.5) 1 all points plotted correctly 2 best fit line 1 correct reading from their extrapolation at 45 1 °C 1 twice as much lithium chloride dissolved / used (so twice as much energy given out) 1 less heat loss (to the surroundings) 1 May/June 2025 Question Answer Marks excess: no (further) change / precipitate remains / green precipitate / insoluble 1",
+          "image": "/papers/chemistry-0620-2025/q1-1d.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q1.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "does not contain ammonium / NH4 + ions / not ammonium / NH4 + + nitrate / NO3 – KNO3 = 2 Question Answer Marks 4 1 mark for any 6 of: • 100 cm of water measured using suitable apparatus and placed into a suitable container • water is heated to 50 °C • water is maintained at this temperature • magnesium sulfate is added in excess or in portions until no more dissolves • the mixture is stirred • the solution is filtered to remove undissolved magnesium sulfate or the mass used is known • the use of appropriate measurements to calculate the solubility.",
+          "image": "/papers/chemistry-0620-2025/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2025/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2025-unit6-2025-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

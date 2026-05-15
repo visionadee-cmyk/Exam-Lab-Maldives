@@ -1,0 +1,135 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-june-p23-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-june-p23-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/23",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "1 (a) All variables, constants and other identifiers must have meaningful names. (i) Identify one constant you could have used for Task 1. Give the value that would be assigned to the constant and explain its use. Constant ............................................................................................................................ Value",
+      "text": "1 (a) All variables, constants and other identifiers must have meaningful names. (i) Identify one constant you could have used for Task 1. Give the value that would be assigned to the constant and explain its use. Constant ............................................................................................................................ Value",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "OUTPUT \"Option Students Staff Total\" OUTPUT \"A \", TotalAS, TotalAF, (TotalAS + TotalAF) OUTPUT \"B \", TotalBS, TotalBF, (TotalBS + TotalBF) OUTPUT \"C \", TotalCS, TotalCF, (TotalCS + TotalCF) OUTPUT \"D \", TotalDS, TotalDF, (TotalDS + TotalDF) OUTPUT \"E \", TotalES, TotalEF, (TotalES + TotalEF) two from: MP1 Change the maximum preferences constant to 6 MP2 Change the input prompt to show six options MP3 Change the loop counter MP4 Change the number of inputs for each person to six MP5 A dd another array/variable to store/total the new option votes Any three from: MP1 Initialise count variables/array for each option MP2 Using a conditional statement to identify preference 1 in at least one option (in the input/stored data) MP3 ... identify preference 1 in all options MP4 ... and adding 1 to the appropriate option count in at least one option MP5 ... for students only MP6 ... using a loop to cycle through the whole array/set of inputs for each option 0478/23 May/June 2021 Section B Three marks for three or four correct Two marks for two correct One mark for one correct Data Type Description Real Strin g Must be a whole numbe r Must be one of two values Ma y be an y numbe r Inte g e r May contain any combination of characters Boolean 0478/23 May/June 2021 One mark per mark point for each piece of test data (3 × two marks) • Correct validation check name • Correct use identified Validation check name Length (check) • Use Counts the number of characters in the data to make sure it isn’t too long (max length 320 characters). 2021 • Validation check name Range (check) • Use Checks that the number entered fits within given parameters Ericson-Bower • Validation check name Type (check) • Use Checks the type of data entered (in this case) to make sure no numbers are present 0478/23 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q1-1b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct Algorithm 2 1 Count ← 2 REPEAT 3 FullScore ← 4 INPUT Number StoreLoop ← 5 REPEAT 6 INPUT Score 7 FullScore ← FullScore + Score StoreLoop ← StoreLoop + 1 8 UNTIL StoreLoop = Number 9 OUTPUT \"The full score is \", FullScore 10 OUTPUT \"Another set of scores (Y or N)?\" 11 INPUT Another 12 IF Another = \"N\" 13 THEN 14 Count ← 15 ENDIF 16 UNTIL Count = 1 0478/23 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per mark point ( Max 4 ) MP1 After line 6 // replace line 6 MP2 ScoreArray[StoreLoop] ← Score // INPUT ScoreArray[StoreLoop] MP3 between lines 8 and 10 MP4 AverageScore ← FullScore/Number MP5 OUTPUT \"The average score is \", AverageScore Example correct algorithm for reference from part 4(a) 1 Count ← 2 REPEAT 3 FullScore ← 4 INPUT Number 5 FOR StoreLoop ← 1 TO Number 6 INPUT Score 7 FullScore ← FullScore + Score 8 NEXT 9 OUTPUT \"The full score is \", FullScore 10 OUTPUT \"Another set of scores (Y or N)?\" 11 INPUT Another 12 IF Another = \"N\" 13 THEN 14 Count ← 15 ENDIF 16 UNTIL Count = 1 0478/23 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct column Op Value1 Value2 Ans OUTPUT 14 101 30 60 Input Erro r 2 5 0478/23 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "To work as a calculator // to add, subtract, multiply or divide a pair of numbers",
+          "image": "/papers/computer_science-0478-2021/q5-5b.png"
+        },
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "To output/store the result/the value of Ans // Adding prompts for data entry.",
+          "image": "/papers/computer_science-0478-2021/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two marks for six correct field names One mark for at least three correct field names Field name LicenceNo Mileage TyreFLft TyreFRgt TyreRLft TyreRRgt 0478/23 May/June 2021",
+          "image": "/papers/computer_science-0478-2021/q6-6a.png"
+        },
+        {
+          "id": "6b",
+          "text": "Part 6b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct fieldnames One mark for correct table names and show fields One mark for correct sort One mark for correct search criteria in all columns Field: LicenceNo Mileage TyreFLft TyreFRgt TyreRLft TyreRRgt Table: TREAD TREAD TREAD TREAD TREAD TREAD Sort: A scending Show:       Criteria: <2 <2 <2 <2 or:",
+          "image": "/papers/computer_science-0478-2021/q6-6b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q6.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-06-22-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

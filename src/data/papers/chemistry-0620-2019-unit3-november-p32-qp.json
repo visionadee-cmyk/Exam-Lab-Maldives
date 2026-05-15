@@ -1,0 +1,99 @@
+{
+  "paperId": "chemistry-0620-2019-unit3-november-p32-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit3-november-p32-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/32",
+  "session": "October/November 2019",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "helium is inert / helium is unreactive / hydrogen is flammable / hydrogen is explosive circle around one or both the C=C groups",
+          "image": "/papers/chemistry-0620-2019/q2-2c.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark each for any four of: • (flask attached to) condenser • (fractionating) column • heat the flask / heat the mixture • idea of different boiling points (of materials in flask) • ethanol evaporates • different compounds reach the condenser at different times / ethanol collects first in (collection) flask • ethanol turns to liquid (in condenser) • solids / plant material remain in flask 0620/32 October/November 2019 s the gradient / slope of the graph is steep(est) (1) (increasing temperature) increases / faster (1) (larger pieces of carbonate) decreases / slower (1) / high temperature (1) break down a substance (into two or more substances) (1) / manufacture of steel / manufacture of cement / neutralising acidic soils or lakes 0620/32 October/November 2019 electrons: 20 (1) neutrons: 24 (1) any suitable uses e.g. measuring thickness of paper / testing for leaks in pipes / energy production",
+          "image": "/papers/chemistry-0620-2019/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q2.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 electrons in outer shell (1) inner shells 2, 8, 8 (1) < iron < samarium < sodium (2) if 2 marks not scored allow 1 mark for 1 consecutive pair reversed 0620/32 October/November 2019 boiling point of chlorine: any value between –180 °C and + 50 °C (inclusive) (1) density of iodine: any value between 3.2 g / cm and 10.0 g / cm (inclusive) (1) increases (down the group) 3rd box down ticked (light yellow) potassium iodide (on left) (1) potassium chloride (on right) (1) fluorine is more reactive than chlorine / chlorine less reactive than fluorine / swimming pools (hydrochloric acid contains) chloride (ions) / it contains a chloride / you would get a white precipitate chloride: white (precipitate) (1) iodide: yellow (precipitate) (1) precipitate (formed) for both chloride and iodide (1) (2) If 2 marks not scored: 1 mark for 4 × OR 4 (for H) OR × 35.5 OR 71 for C l 0620/32 October/November 2019 1 mark each for any three of: • evaporation / molecules escape from surface of ammonia • diffusion • molecules in (constant) movement / molecules collide • (movement of) molecules is random / in every direction • molecules spread out / molecules mix • (molecules spread) from higher concentration to lower concentration • (smell occurs when) molecules hit (the sensory cells in) the nose / heat given out oxygen added (to NO) acidic oxide (no mark alone) AND nitrogen is a non-metal / nose / mouth / skin / airways / lungs 0620/32 October/November 2019 positive electrode: chlorine / C l (1) negative electrode: hydrogen / H (1)",
+          "image": "/papers/chemistry-0620-2019/q4-4b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q4.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "7 (a) Concentrated hydrochloric acid is electrolysed using graphite electrodes. (i) Name the products of this electrolysis at: the positive electrode .......................................................................................................... the negative electrode. .......................................................................................................",
+      "text": "7 (a) Concentrated hydrochloric acid is electrolysed using graphite electrodes. (i) Name the products of this electrolysis at: the positive electrode .......................................................................................................... the negative electrode. .......................................................................................................",
+      "parts": [
+        {
+          "id": "7b",
+          "text": "Part 7b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(hydrochloric acid + zinc) → zinc chloride (1) + hydrogen (1)",
+          "image": "/papers/chemistry-0620-2019/q7-7b.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "(B), A, E, C, D, F (2) If 2 marks not scored: 1 mark for 1 consecutive pair reversed 1 mark each for any three of: • conducts electricity / conducts heat • malleable • ductile • shiny / lustrous (alloy is) harder / more durable / more resistant to wear ORA for copper (1) (alloy is) stronger ORA for copper (alloy is) more resistant to corrosion ORA for copper (1)",
+          "image": "/papers/chemistry-0620-2019/q7-7c.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit3-2019-11-32-qp.pdf"
+  },
+  "unit": "Unit 3"
+}

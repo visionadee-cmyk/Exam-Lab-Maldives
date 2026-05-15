@@ -1,0 +1,139 @@
+{
+  "paperId": "physics-0625-2019-unit5-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2019-unit5-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "May/June 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 10,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 5,
+      "marks": 5,
+      "question": "1 (a) Place the metre rule on the pivot. Place the load P with its centre on the metre rule at the 90.0 cm mark. Keeping the load P at the 90.0 cm mark, adjust the position of the metre rule on the pivot so that the metre rule is as near as possible to being balanced. Measure, and record in the first row of Table 1.1, the distance a from the 90.0 cm",
+      "text": "1 (a) Place the metre rule on the pivot. Place the load P with its centre on the metre rule at the 90.0 cm mark. Keeping the load P at the 90.0 cm mark, adjust the position of the metre rule on the pivot so that the metre rule is as near as possible to being balanced. Measure, and record in the first row of Table 1.1, the distance a from the 90.0 cm",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Place the metre rule on the pivot. Place the load P with its centre on the metre rule at the 90.0 cm mark. Keeping the load P at the 90.0 cm mark, adjust the position of the metre rule on the pivot so that the metre rule is as near as possible to being balanced. Measure, and record in the first row of Table 1.1, the distance a from the 90.0 cm",
+          "marks": 1,
+          "type": "structured",
+          "answer": "a values decreasing all < 25 cm b values decreasing all values in cm Axes correctly labelled with quantity and unit and right way round Suitable scales All plots correct to ½ small square Good line judgement, thin, continuous line",
+          "image": "/papers/physics-0625-2019/q1-1a.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "triangle method indicated on graph",
+          "image": "/papers/physics-0625-2019/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct calculation, to 2 or 3 significant figures",
+          "image": "/papers/physics-0625-2019/q1-1d.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Difficulty in achieving exact balance OR difficulty in judging centre of P OR load easily slips OR less than sharp pivot point",
+          "image": "/papers/physics-0625-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Mass value / 100 = G ± 10% 0625/51 May/June 2019 I to at least 2 decimal places and < 1 A All V to at least 1 decimal place and < 3 V V values increasing V / l correct V / l consistent 2 significant figures or consistent 3 significant figures Box ticked to match results Justification to match results 2 or 3 significant figures Unit Ω",
+          "image": "/papers/physics-0625-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Keep current low OR switch off between readings 0625/51 May/June 2019",
+          "image": "/papers/physics-0625-2019/q2-2d.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Sensible value for room temperature with unit °C",
+          "image": "/papers/physics-0625-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct times in both tables 0, 30, 60, 90, 120, 150 Temperatures decreasing in Table 3.1 Consistent significant figures for temperatures in both tables",
+          "image": "/papers/physics-0625-2019/q3-3b.png"
+        },
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Decreasing temperatures in Table 3.2 Overall temperature decrease no greater than in Table 3.1 Correct box ticked to match readings Justification to match temperature readings Reference to same time",
+          "image": "/papers/physics-0625-2019/q3-3c.png"
+        },
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Use a black painted beaker and black painted can Use a shiny can and unpainted beaker (or put foil round the beaker) 0625/51 May/June 2019 MP1 Apparatus: forcemeter or pulley and weights arrangement MP2 Pull box up slope. Measure force and distance moved MP3 Repeat with different masses MP4 Key variable: angle of slope (or height of blocks, owtte) MP5 Key variable: Distance moved MP6 Table with columns for force and mass with correct units MP7 Calculate work done and compare with mass. OR, if there is a work done column in the table, compare work done with mass OR plot a graph of work done against mass",
+          "image": "/papers/physics-0625-2019/q3-3e.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2019/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 10,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2019-unit5-2019-06-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,243 @@
+{
+  "paperId": "computer_science-0478-2018-unit1-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2018-unit1-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "October/November 2018",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 17,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "1 (a) Computer files can be saved in different file formats. Four file formats and four file types are given. Draw a line to match each file format to the most suitable file type. .jpeg Text file .mp3 .mp4 .txt Image file Audio file Video file File formatFile type [3] (b) Jamelia wants to store an image file. The image has an 8-bit r",
+      "text": "1 (a) Computer files can be saved in different file formats. Four file formats and four file types are given. Draw a line to match each file format to the most suitable file type. .jpeg Text file .mp3 .mp4 .txt Image file Audio file Video file File formatFile type [3] (b) Jamelia wants to store an image file. The image has an 8-bit r",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "1 (a) Computer files can be saved in different file formats. Four file formats and four file types are given. Draw a line to match each file format to the most suitable file type. .jpeg Text file .mp3 .mp4 .txt Image file Audio file Video file File formatFile type [3] (b) Jamelia wants to store an image file. The image has an 8-bit r",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct line (to a maximum of 3) File format File type .jpeg Text file .mp3 Image file .mp4 Audio file .txt Video file",
+          "image": "/papers/computer_science-0478-2018/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "2 marks for working, 1 mark for correct answer • 150*100 = 15 • 000/1024 • 14.65kB",
+          "image": "/papers/computer_science-0478-2018/q1-1b.png"
+        },
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • a compression algorithm is used • no data is lost in the process • repeated words/patterns can be indexed // repeated sections of words/patterns can be indexed // given by example • The indexed words/patterns can be replaced with numerical values // given by example 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1c.png"
+        },
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct tick ( ) File format Lossy ( ) Lossless ( ) .jpeg .mp3 .mp4 .zip 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "2 (a) Six binary or hexadecimal numbers and six denary conversions are given. Draw a line to connect each binary or hexadecimal number to the correct denary conversion. 01001011 75 Binary or hexadecimal Denary 4E 11011010 10011101 A7 19 78 157 167 25 218 [5] (b) Hexadecimal is often used by computer programmers to represent binary values.",
+      "text": "2 (a) Six binary or hexadecimal numbers and six denary conversions are given. Draw a line to connect each binary or hexadecimal number to the correct denary conversion. 01001011 75 Binary or hexadecimal Denary 4E 11011010 10011101 A7 19 78 157 167 25 218 [5] (b) Hexadecimal is often used by computer programmers to represent binary values.",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "2 (a) Six binary or hexadecimal numbers and six denary conversions are given. Draw a line to connect each binary or hexadecimal number to the correct denary conversion. 01001011 75 Binary or hexadecimal Denary 4E 11011010 10011101 A7 19 78 157 167 25 218 [5] (b) Hexadecimal is often used by computer programmers to represent binary values.",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct line (to a maximum of 5) Binary or hexadecimal Denary 4E A7",
+          "image": "/papers/computer_science-0478-2018/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • It makes the values easier to read/write/understand/debug • It is a shorter way to represent the values 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• 4 marks for 8 correct outputs • 3 marks for 6 or 7 correct outputs • 2 marks for 4 or 5 correct outputs • 1 mark for 2 or 3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1",
+          "image": "/papers/computer_science-0478-2018/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • output of AND is 1 if both inputs are 1 • output of AND is 0 if either or both inputs are 0 • output of OR is 1 if either input is 1 • output of OR is 0 if both inputs are 0 • correct example of AND truth table • correct example of OR truth table 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: Phishing: • A legitimate looking email is sent to a user • The email will encourage the user to click a link/open an attachment • The link will redirect a user to a legitimate looking webpage (to steal personal data) Pharming: • A malicious code is installed on a user’s hard drive/server • The code will cause a redirection to a legitimate looking webpage (to steal personal data)",
+          "image": "/papers/computer_science-0478-2018/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Hacking • Cracking • Virus • Denial of service • Malware • Spyware",
+          "image": "/papers/computer_science-0478-2018/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Two from: • Firewall • Proxy server • Anti-virus • Anti-malware • Anti-spyware • Username and password 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "5 (a) Five storage devices or media are listed in the table. Tick () to show whether each storage device or media is an example of primary, secondary or off-line storage. Storage device or media Primary ( ) Secondary () Off-line () External HDD RAM Internal SSD ROM DVD [5] (b) Users can store their data on optical storage media. Explain how data is",
+      "text": "5 (a) Five storage devices or media are listed in the table. Tick () to show whether each storage device or media is an example of primary, secondary or off-line storage. Storage device or media Primary ( ) Secondary () Off-line () External HDD RAM Internal SSD ROM DVD [5] (b) Users can store their data on optical storage media. Explain how data is",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "5 (a) Five storage devices or media are listed in the table. Tick () to show whether each storage device or media is an example of primary, secondary or off-line storage. Storage device or media Primary ( ) Secondary () Off-line () External HDD RAM Internal SSD ROM DVD [5] (b) Users can store their data on optical storage media. Explain how data is",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for the correct tick for each storage Storage device or media Primary ( ) Secondary ( ) Off-line ( ) External HDD RAM Internal SSD ROM DVD",
+          "image": "/papers/computer_science-0478-2018/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four from: • The disc is rotated/spun • Laser beam is used • The laser beam makes indentations on the surface of the disc/pits and lands • The data is written in a spiral/concentric tracks • The pits and lands represent binary values/1s and 0s • It is called burning data to the disc Two from: • It has no moving parts so will be durable • It is small/compact so it can be easily fit onto the device • It is light so it will not be difficult to lift for the drone • It can hold the large amount of data needed for the video/film footage • Uses less power so drone battery will last longer 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 6",
+      "text": "Question 6",
+      "parts": [
+        {
+          "id": "6a",
+          "text": "Part 6a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for the correct ticks ( ) for each statement Statement 3D printer ( ) 3D cutter ( ) Outputs a physical 3D product Uses a high powered laser to create the output Creates 3D prototypes Uses layers of material to create the output",
+          "image": "/papers/computer_science-0478-2018/q6-6a.png"
+        },
+        {
+          "id": "6c",
+          "text": "Part 6c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Three from: • Uses a large number of tiny mirrors • Mirrors are laid out in a grid/matrix • Each mirror creates a pixel in the image • Mirrors can tilt toward or away from light source • The mirrors reflect light toward a (projection) lens • Colour is produced using a colour wheel // Light passes through colour wheel // filters light into red/green/blue • Can be used to display an image on a wall/screen 0478/11 October/November 2018",
+          "image": "/papers/computer_science-0478-2018/q6-6c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7a",
+          "text": "Part 7a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "1 mark for each correct answer: • uses several/multiple wires • transmits multiple bits at a time 1 mark for: • quicker/faster data transfer Drawback One from: • More chance of data being skewed due to bits being sent simultaneously/out of order // less safe transmission as bits are sent simultaneously/out of order • More expensive as requires more/several/multiple wires • More chance of interference as more/several/multiple wires are used (than can create crosstalk)",
+          "image": "/papers/computer_science-0478-2018/q7-7a.png"
+        },
+        {
+          "id": "7c",
+          "text": "Part 7c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One from: • Used in integrated circuits • Used in RAM • Used in connections to peripheral devices (e.g. printer) 1 mark for each correct answer, in the given order: • browser • webpages • Internet Service Provider (ISP) • Internet • protocol • IP address 0478/11 October/November 2018 Five from: • The data is sent to the microprocessor • The analogue data is converted to digital (using ADC) • The microprocessor compares the data to a stored value of 5 kg « – « If the value is greater than 5 kg « – « a counter is added to/incremented • The process is continuous Four from: • It performs a number of basic tasks, including controlling hardware/file handling (any other suitable examples) • It allows the user to communicate with the computer using hardware // without it the user would not be able to communicate with the computer using hardware • It provides the user with a user interface // without it the user would not have a user interface to use • PC’s are often used to perform many complex tasks at a time « – « the OS is needed to handle this multitasking – « therefore, it provides the ability to handle interrupts",
+          "image": "/papers/computer_science-0478-2018/q7-7c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2018/q7.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 17,
+    "questionCount": 7
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2018",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2018-unit1-2018-11-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

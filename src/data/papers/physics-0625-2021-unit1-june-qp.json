@@ -1,0 +1,664 @@
+{
+  "paperId": "physics-0625-2021-unit1-june-qp",
+  "pairedMarkSchemeId": "physics-0625-2021-unit1-june-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/11",
+  "session": "May/June 2021",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 40,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a stone of irregular shape. Which property of the stone can be found by lowering it into a measuring cylinder half-filled with water? A length, B mass, C volume, D weight",
+      "text": "The diagram shows a stone of irregular shape. Which property of the stone can be found by lowering it into a measuring cylinder half-filled with water? A length, B mass, C volume, D weight",
+      "options": [
+        "A length",
+        "B mass",
+        "C volume",
+        "D weight"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two stones of different weights fall at the same time from a table. Air resistance may be ignored. What will happen and why? what will happen why A Both stones hit the floor at the same time. Acceleration of free fall is constant., B Both stones hit the floor at the same time. They fall at constant speed., C The heavier stone hits the floor first. Acceleration increases with weight., D The heavier stone hits the floor first. Speed increases with weight.",
+      "text": "Two stones of different weights fall at the same time from a table. Air resistance may be ignored. What will happen and why? what will happen why A Both stones hit the floor at the same time. Acceleration of free fall is constant., B Both stones hit the floor at the same time. They fall at constant speed., C The heavier stone hits the floor first. Acceleration increases with weight., D The heavier stone hits the floor first. Speed increases with weight.",
+      "options": [
+        "A Both stones hit the floor at the same time. Acceleration of free fall is constant.",
+        "B Both stones hit the floor at the same time. They fall at constant speed.",
+        "C The heavier stone hits the floor first. Acceleration increases with weight.",
+        "D The heavier stone hits the floor first. Speed increases with weight."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The distance–time graph for a motorway journey is shown. 100 90 80 70 60 50 40 30 20 10 0 0 102030405060708090100110120 distance / km time / min What is the average speed for the journey? A 50 km / h B 67 km / h C 70 km / h D 83 km / h 3",
+      "text": "The distance–time graph for a motorway journey is shown. 100 90 80 70 60 50 40 30 20 10 0 0 102030405060708090100110120 distance / km time / min What is the average speed for the journey? A 50 km / h B 67 km / h C 70 km / h D 83 km / h 3",
+      "options": [
+        "A 50 km / h B 67 km / h C 70 km / h D 83 km / h 3"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows a sealed plastic bottle containing a hollow glass sphere and a steel ball. Diagram 2 shows the same bottle after it has been shaken. Diagram 3 shows the same bottle after it has been shaken again until the broken glass is in tiny pieces. sealed plastic bottle steel ball hollow glass sphere steel ball broken glass steel ball tiny pieces of broken glass diagram 1diagram 2diagram 3 The mass of the bottle and contents in diagram 1 is m 1 . The mass of the bottle and contents in diagram 2 is m 2 . The mass of the bottle and contents in diagram 3 is m 3 . Which statement gives the correct relation between m 1 , m 2 and m 3 ? A m 1 is equal to m 2 and m 2 is equal to m 3 ., B m 1 is greater than m 2 and m 2 is greater than m 3 ., C m 1 is less than m 2 and m 2 is greater than m 3 ., D m 1 is less than m 2 and m 2 is less than m 3 .",
+      "text": "Diagram 1 shows a sealed plastic bottle containing a hollow glass sphere and a steel ball. Diagram 2 shows the same bottle after it has been shaken. Diagram 3 shows the same bottle after it has been shaken again until the broken glass is in tiny pieces. sealed plastic bottle steel ball hollow glass sphere steel ball broken glass steel ball tiny pieces of broken glass diagram 1diagram 2diagram 3 The mass of the bottle and contents in diagram 1 is m 1 . The mass of the bottle and contents in diagram 2 is m 2 . The mass of the bottle and contents in diagram 3 is m 3 . Which statement gives the correct relation between m 1 , m 2 and m 3 ? A m 1 is equal to m 2 and m 2 is equal to m 3 ., B m 1 is greater than m 2 and m 2 is greater than m 3 ., C m 1 is less than m 2 and m 2 is greater than m 3 ., D m 1 is less than m 2 and m 2 is less than m 3 .",
+      "options": [
+        "A m 1 is equal to m 2 and m 2 is equal to m 3 .",
+        "B m 1 is greater than m 2 and m 2 is greater than m 3 .",
+        "C m 1 is less than m 2 and m 2 is greater than m 3 .",
+        "D m 1 is less than m 2 and m 2 is less than m 3 ."
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On Mars, the acceleration of free fall g is 3.7 m / s 2 . What is the weight of a 2.0 kg mass on Mars? A 0.54 N B 1.9 N C 7.4 N D 20 N",
+      "text": "On Mars, the acceleration of free fall g is 3.7 m / s 2 . What is the weight of a 2.0 kg mass on Mars? A 0.54 N B 1.9 N C 7.4 N D 20 N",
+      "options": [
+        "A 0.54 N B 1.9 N C 7.4 N D 20 N"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The mass of an empty flask is 34 g. The volume of liquid added to the flask is 20 cm 3 . The total mass of the flask and the liquid is 50 g. What is the density of the liquid? A 0.80 g / cm 3, B 1.25 g / cm 3, C 2.50 g / cm 3, D 4.20 g / cm 3 4",
+      "text": "The mass of an empty flask is 34 g. The volume of liquid added to the flask is 20 cm 3 . The total mass of the flask and the liquid is 50 g. What is the density of the liquid? A 0.80 g / cm 3, B 1.25 g / cm 3, C 2.50 g / cm 3, D 4.20 g / cm 3 4",
+      "options": [
+        "A 0.80 g / cm 3",
+        "B 1.25 g / cm 3",
+        "C 2.50 g / cm 3",
+        "D 4.20 g / cm 3 4"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a solid object on a flat surface, with two forces acting on the object. 3 N4 N What is the resultant force on the object? A 1 N to the left, B 1 N to the right, C 7 N to the left, D 7 N to the right",
+      "text": "The diagram shows a solid object on a flat surface, with two forces acting on the object. 3 N4 N What is the resultant force on the object? A 1 N to the left, B 1 N to the right, C 7 N to the left, D 7 N to the right",
+      "options": [
+        "A 1 N to the left",
+        "B 1 N to the right",
+        "C 7 N to the left",
+        "D 7 N to the right"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The extension–load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is suspended from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N",
+      "text": "The extension–load graph for a spring is shown. The unstretched length of the spring is 17.0 cm. 3 2 1 0 01234 load / N extension / cm When an object is suspended from the spring, the length of the spring is 19.2 cm. What is the weight of the object? A 1.4 N B 1.6 N C 2.6 N D 3.0 N",
+      "options": [
+        "A 1.4 N B 1.6 N C 2.6 N D 3.0 N"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which situation involves no work being done and no energy being transferred? A a car skidding to a stop on a road, B a crane lifting a load, C a heavy load hanging from a strong bar, D a student dragging a big box over a rough floor 5",
+      "text": "Which situation involves no work being done and no energy being transferred? A a car skidding to a stop on a road, B a crane lifting a load, C a heavy load hanging from a strong bar, D a student dragging a big box over a rough floor 5",
+      "options": [
+        "A a car skidding to a stop on a road",
+        "B a crane lifting a load",
+        "C a heavy load hanging from a strong bar",
+        "D a student dragging a big box over a rough floor 5"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q9.png"
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student suggests that there are several ways of transferring energy to a small, stationary block of iron on a smooth table. He makes the following suggestions. 1 Heat it. 2 Shine light on it. 3 Pass a current through it. Which suggestions are correct? A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3",
+      "text": "A student suggests that there are several ways of transferring energy to a small, stationary block of iron on a smooth table. He makes the following suggestions. 1 Heat it. 2 Shine light on it. 3 Pass a current through it. Which suggestions are correct? A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3",
+      "options": [
+        "A 1 and 2 only B 1 and 3 only C 2 and 3 only D 1, 2 and 3"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q10.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two men, X and Y, try to move identical heavy boxes, P and Q. Man X tries to push box P along the floor. The box does not move because an object is in the way. Man Y lifts box Q from the floor onto a shelf. box P box Q man X man Y direction of force direction of force object shelf Which man does the most work on their box, and which box gains the most energy? man doing most work box gaining most energy A X P, B X Q, C Y P, D Y Q",
+      "text": "Two men, X and Y, try to move identical heavy boxes, P and Q. Man X tries to push box P along the floor. The box does not move because an object is in the way. Man Y lifts box Q from the floor onto a shelf. box P box Q man X man Y direction of force direction of force object shelf Which man does the most work on their box, and which box gains the most energy? man doing most work box gaining most energy A X P, B X Q, C Y P, D Y Q",
+      "options": [
+        "A X P",
+        "B X Q",
+        "C Y P",
+        "D Y Q"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q11.png"
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A book has a mass of 400 g. The surface of the book in contact with a table has dimensions 0.10 m  0.20 m. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the table due to the book? A 0.08 N / m 2, B 8.0 N / m 2, C 20 N / m 2, D 200 N / m 2 6",
+      "text": "A book has a mass of 400 g. The surface of the book in contact with a table has dimensions 0.10 m  0.20 m. The gravitational field strength g is 10 N / kg. What is the pressure exerted on the table due to the book? A 0.08 N / m 2, B 8.0 N / m 2, C 20 N / m 2, D 200 N / m 2 6",
+      "options": [
+        "A 0.08 N / m 2",
+        "B 8.0 N / m 2",
+        "C 20 N / m 2",
+        "D 200 N / m 2 6"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q12.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A mercury barometer is used to measure atmospheric pressure. Which distance gives a measure of the atmospheric pressure? B D C A",
+      "text": "A mercury barometer is used to measure atmospheric pressure. Which distance gives a measure of the atmospheric pressure? B D C A",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q13.png"
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Air trapped in a sealed bottle increases in temperature. Which row shows the changes that occur to the trapped air? pressure of the air average speed of molecules in the air A decreases decreases, B decreases increases, C increases decreases, D increases increases 7",
+      "text": "Air trapped in a sealed bottle increases in temperature. Which row shows the changes that occur to the trapped air? pressure of the air average speed of molecules in the air A decreases decreases, B decreases increases, C increases decreases, D increases increases 7",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases 7"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q14.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains",
+      "text": "Very small pollen grains are suspended in water. A bright light shines from the side. When looked at through a microscope, small specks of light are seen to be moving in a random, jerky manner. bright light pollen grains in water microscope eye What are the moving specks of light? A pollen grains being hit by other pollen grains, B pollen grains being hit by water molecules, C water molecules being hit by other water molecules, D water molecules being hit by pollen grains",
+      "options": [
+        "A pollen grains being hit by other pollen grains",
+        "B pollen grains being hit by water molecules",
+        "C water molecules being hit by other water molecules",
+        "D water molecules being hit by pollen grains"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q15.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Why are small gaps left between the metal rails of a railway track? A to allow for expansion of the rails on a hot day, B to allow for contraction of the rails on a hot day, C to allow for expansion of the rails on a cold day, D to allow for contraction of the rails on a cold day",
+      "text": "Why are small gaps left between the metal rails of a railway track? A to allow for expansion of the rails on a hot day, B to allow for contraction of the rails on a hot day, C to allow for expansion of the rails on a cold day, D to allow for contraction of the rails on a cold day",
+      "options": [
+        "A to allow for expansion of the rails on a hot day",
+        "B to allow for contraction of the rails on a hot day",
+        "C to allow for expansion of the rails on a cold day",
+        "D to allow for contraction of the rails on a cold day"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q16.png"
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "All thermometers require a physical property that changes with temperature. Which property would not be suitable for use in a thermometer? A pressure, B volume, C electrical resistance, D mass 8",
+      "text": "All thermometers require a physical property that changes with temperature. Which property would not be suitable for use in a thermometer? A pressure, B volume, C electrical resistance, D mass 8",
+      "options": [
+        "A pressure",
+        "B volume",
+        "C electrical resistance",
+        "D mass 8"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q17.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The thermal capacity of object Y is greater than that of object Z. What is a consequence of this? A Object Y needs less thermal energy to melt it than object Z., B Object Y needs less thermal energy to raise its temperature by 1 C than object Z., C Object Y needs more thermal energy to melt it than object Z., D Object Y needs more thermal energy to raise its temperature by 1 C than object Z.",
+      "text": "The thermal capacity of object Y is greater than that of object Z. What is a consequence of this? A Object Y needs less thermal energy to melt it than object Z., B Object Y needs less thermal energy to raise its temperature by 1 C than object Z., C Object Y needs more thermal energy to melt it than object Z., D Object Y needs more thermal energy to raise its temperature by 1 C than object Z.",
+      "options": [
+        "A Object Y needs less thermal energy to melt it than object Z.",
+        "B Object Y needs less thermal energy to raise its temperature by 1 C than object Z.",
+        "C Object Y needs more thermal energy to melt it than object Z.",
+        "D Object Y needs more thermal energy to raise its temperature by 1 C than object Z."
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q18.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Two  students  carry  out  different  experiments  to  compare  the  abilities  of  different  metals  to conduct thermal energy. heat metal bar melted wax strip experiment 1 heat metal bar pin experiment 2 wax In  experiment  1,  the  bar  is  heated  for  one  minute  and  the  length of wax strip that melts is measured. In experiment 2, the bar is heated and the time taken for the pin to drop off is measured. What happens to each of these measurements when a better conductor of thermal energy is tested? length of melted wax strip time taken for the pin to drop A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "text": "Two  students  carry  out  different  experiments  to  compare  the  abilities  of  different  metals  to conduct thermal energy. heat metal bar melted wax strip experiment 1 heat metal bar pin experiment 2 wax In  experiment  1,  the  bar  is  heated  for  one  minute  and  the  length of wax strip that melts is measured. In experiment 2, the bar is heated and the time taken for the pin to drop off is measured. What happens to each of these measurements when a better conductor of thermal energy is tested? length of melted wax strip time taken for the pin to drop A decreases decreases, B decreases increases, C increases decreases, D increases increases",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q19.png"
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "In which substances is convection a method of thermal energy transfer? A air and water only, B air only, C air, water and wood, D water only 9",
+      "text": "In which substances is convection a method of thermal energy transfer? A air and water only, B air only, C air, water and wood, D water only 9",
+      "options": [
+        "A air and water only",
+        "B air only",
+        "C air, water and wood",
+        "D water only 9"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q20.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram represents a wave on a rope. Y X rope Which type of wave is shown and which labelled arrow shows the wavelength of the wave? type of wave wavelength A longitudinal X, B longitudinal Y, C transverse X, D transverse Y",
+      "text": "The diagram represents a wave on a rope. Y X rope Which type of wave is shown and which labelled arrow shows the wavelength of the wave? type of wave wavelength A longitudinal X, B longitudinal Y, C transverse X, D transverse Y",
+      "options": [
+        "A longitudinal X",
+        "B longitudinal Y",
+        "C transverse X",
+        "D transverse Y"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q21.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams show water waves in three different situations. The arrows show the direction of travel of the waves. 123 What does each diagram show? 1 2 3 A diffraction reflection refraction, B diffraction refraction reflection, C reflection diffraction refraction, D reflection refraction diffraction 10",
+      "text": "The diagrams show water waves in three different situations. The arrows show the direction of travel of the waves. 123 What does each diagram show? 1 2 3 A diffraction reflection refraction, B diffraction refraction reflection, C reflection diffraction refraction, D reflection refraction diffraction 10",
+      "options": [
+        "A diffraction reflection refraction",
+        "B diffraction refraction reflection",
+        "C reflection diffraction refraction",
+        "D reflection refraction diffraction 10"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q22.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a narrow beam of light incident on a glass-air boundary. Some of the light emerges along the surface of the glass and some is reflected back into the glass. \u0001 glass air Which row is correct? this is an example of total internal reflection angle   is the critical angle A no yes, B no no, C yes no, D yes yes",
+      "text": "The diagram shows a narrow beam of light incident on a glass-air boundary. Some of the light emerges along the surface of the glass and some is reflected back into the glass. \u0001 glass air Which row is correct? this is an example of total internal reflection angle   is the critical angle A no yes, B no no, C yes no, D yes yes",
+      "options": [
+        "A no yes",
+        "B no no",
+        "C yes no",
+        "D yes yes"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q23.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "An object is placed in front of a thin converging lens. The diagram shows the paths of two rays from the top of the object. object converging lens An image of the object is formed on a screen to the right of the lens. How does this image compare with the object? A It is larger and inverted., B It is larger and the same way up., C It is smaller and inverted., D It is smaller and the same way up. 11",
+      "text": "An object is placed in front of a thin converging lens. The diagram shows the paths of two rays from the top of the object. object converging lens An image of the object is formed on a screen to the right of the lens. How does this image compare with the object? A It is larger and inverted., B It is larger and the same way up., C It is smaller and inverted., D It is smaller and the same way up. 11",
+      "options": [
+        "A It is larger and inverted.",
+        "B It is larger and the same way up.",
+        "C It is smaller and inverted.",
+        "D It is smaller and the same way up. 11"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q24.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student is asked to give two uses of four different types of electromagnetic radiation. In which row are both the uses correct? radiation use 1 use 2 A radio sterilising medical equipment mobile phone masts, B microwaves mobile phones sterilising medical equipment, C infrared remote controllers intruder alarms, D X-rays security in airports intruder alarms",
+      "text": "A student is asked to give two uses of four different types of electromagnetic radiation. In which row are both the uses correct? radiation use 1 use 2 A radio sterilising medical equipment mobile phone masts, B microwaves mobile phones sterilising medical equipment, C infrared remote controllers intruder alarms, D X-rays security in airports intruder alarms",
+      "options": [
+        "A radio sterilising medical equipment mobile phone masts",
+        "B microwaves mobile phones sterilising medical equipment",
+        "C infrared remote controllers intruder alarms",
+        "D X-rays security in airports intruder alarms"
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q25.png"
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagrams represent the waves produced by four sources of sound. The scales are the same for all the diagrams. Which sound has the highest frequency? A B C D time time time time 12",
+      "text": "The diagrams represent the waves produced by four sources of sound. The scales are the same for all the diagrams. Which sound has the highest frequency? A B C D time time time time 12",
+      "options": [],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q26.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram 1 shows a small compass needle with its poles marked. It is not near any magnetic materials. Diagram 2 shows a bar magnet with its poles marked. The compass needle is placed at point P. N N S P S diagram 1diagram 2 In which direction will the N pole of the compass needle point? A to the left, B to the right, C down the page, D up the page",
+      "text": "Diagram 1 shows a small compass needle with its poles marked. It is not near any magnetic materials. Diagram 2 shows a bar magnet with its poles marked. The compass needle is placed at point P. N N S P S diagram 1diagram 2 In which direction will the N pole of the compass needle point? A to the left, B to the right, C down the page, D up the page",
+      "options": [
+        "A to the left",
+        "B to the right",
+        "C down the page",
+        "D up the page"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q27.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which diagram shows the pattern and direction of the magnetic field lines around a bar magnet? NS A NS B NS C NS D 13",
+      "text": "Which diagram shows the pattern and direction of the magnetic field lines around a bar magnet? NS A NS B NS C NS D 13",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q28.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A student rubs a plastic rod with a cloth. The rod becomes positively charged. What has happened to the rod? A It has gained electrons., B It has gained protons., C It has lost electrons., D It has lost protons.",
+      "text": "A student rubs a plastic rod with a cloth. The rod becomes positively charged. What has happened to the rod? A It has gained electrons., B It has gained protons., C It has lost electrons., D It has lost protons.",
+      "options": [
+        "A It has gained electrons.",
+        "B It has gained protons.",
+        "C It has lost electrons.",
+        "D It has lost protons."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q29.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The circuit diagram shows a cell connected to an ammeter and two resistors. A 6.0 V 3.0 Ω5.0 Ω What is the current in the circuit? A 0.75, A B 1.3 A C 12 A D 48 A",
+      "text": "The circuit diagram shows a cell connected to an ammeter and two resistors. A 6.0 V 3.0 Ω5.0 Ω What is the current in the circuit? A 0.75, A B 1.3 A C 12 A D 48 A",
+      "options": [
+        "A 0.75",
+        "A B 1.3 A C 12 A D 48 A"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q30.png"
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows an electrical circuit. component Xcomponent Y Which row describes what happens when the temperature rises? resistance of component X potential difference (p.d.) across component Y A decreases decreases, B decreases increases, C increases decreases, D increases increases 14",
+      "text": "The diagram shows an electrical circuit. component Xcomponent Y Which row describes what happens when the temperature rises? resistance of component X potential difference (p.d.) across component Y A decreases decreases, B decreases increases, C increases decreases, D increases increases 14",
+      "options": [
+        "A decreases decreases",
+        "B decreases increases",
+        "C increases decreases",
+        "D increases increases 14"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q31.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Diagram  1  shows  a  resistor  connected  in  a  circuit.  Diagram  2  shows  an  identical  resistor connected in parallel with the first one. diagram 1diagram 2 What is the combined resistance of the two resistors? A greater than in the circuit of diagram 1, B less than in the circuit of diagram 1, C the same as in the circuit of diagram 1, D zero",
+      "text": "Diagram  1  shows  a  resistor  connected  in  a  circuit.  Diagram  2  shows  an  identical  resistor connected in parallel with the first one. diagram 1diagram 2 What is the combined resistance of the two resistors? A greater than in the circuit of diagram 1, B less than in the circuit of diagram 1, C the same as in the circuit of diagram 1, D zero",
+      "options": [
+        "A greater than in the circuit of diagram 1",
+        "B less than in the circuit of diagram 1",
+        "C the same as in the circuit of diagram 1",
+        "D zero"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q32.png"
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The current in a lamp connected on its own to the mains supply is 0.60 A. A table decoration has three of these lamps connected in parallel. Which rating of fuse is suitable to protect this circuit?, A 0.2, A B 0.6 A C 1.0 A D 5.0 A",
+      "text": "The current in a lamp connected on its own to the mains supply is 0.60 A. A table decoration has three of these lamps connected in parallel. Which rating of fuse is suitable to protect this circuit?, A 0.2, A B 0.6 A C 1.0 A D 5.0 A",
+      "options": [
+        "A table decoration has three of these lamps connected in parallel. Which rating of fuse is suitable to protect this circuit?",
+        "A 0.2",
+        "A B 0.6 A C 1.0 A D 5.0 A"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q33.png"
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is inserted into one end of the solenoid. The ammeter shows that there is a small electric current in the solenoid while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod 15",
+      "text": "A  solenoid  is  connected  to  a  very  sensitive  ammeter.  A  rod  is inserted into one end of the solenoid. The ammeter shows that there is a small electric current in the solenoid while the rod is moving. solenoid rod A Which rod is being inserted? A a heated copper rod, B a magnetised steel rod, C an uncharged nylon rod, D a radioactive uranium rod 15",
+      "options": [
+        "A a heated copper rod",
+        "B a magnetised steel rod",
+        "C an uncharged nylon rod",
+        "D a radioactive uranium rod 15"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q34.png"
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The diagram shows a transformer. There are 460 turns on the primary coil and 24 turns on the secondary coil. The primary voltage is 230 V. primary coilsecondary coil iron core What is the secondary voltage? A 2.0 V B 12 V C 48 V D   4400 V",
+      "text": "The diagram shows a transformer. There are 460 turns on the primary coil and 24 turns on the secondary coil. The primary voltage is 230 V. primary coilsecondary coil iron core What is the secondary voltage? A 2.0 V B 12 V C 48 V D   4400 V",
+      "options": [
+        "A 2.0 V B 12 V C 48 V D   4400 V"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q35.png"
+    },
+    {
+      "id": "q36",
+      "number": 36,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A  class  is  designing  a  d.c.  motor.  To  achieve  a  greater  turning  effect,  three  suggestions  are made. 1   Have a larger current in the coil of the motor. 2   Have a stronger magnet in the motor. 3   Put a larger number of turns on the coil. Which suggestions will help to increase the turning effect? A 1, 2 and 3 B 1 and 2 only C 1 and 3 only D 2 and 3 only",
+      "text": "A  class  is  designing  a  d.c.  motor.  To  achieve  a  greater  turning  effect,  three  suggestions  are made. 1   Have a larger current in the coil of the motor. 2   Have a stronger magnet in the motor. 3   Put a larger number of turns on the coil. Which suggestions will help to increase the turning effect? A 1, 2 and 3 B 1 and 2 only C 1 and 3 only D 2 and 3 only",
+      "options": [
+        "A 1, 2 and 3 B 1 and 2 only C 1 and 3 only D 2 and 3 only"
+      ],
+      "answer": "A",
+      "image": "/papers/physics-0625-2021/q36.png"
+    },
+    {
+      "id": "q37",
+      "number": 37,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The charge on a proton is e. What is the charge on an electron and what is the charge on a neutron? electron neutron A e e, B e 0, C – e – e, D – e 0 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "text": "The charge on a proton is e. What is the charge on an electron and what is the charge on a neutron? electron neutron A e e, B e 0, C – e – e, D – e 0 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "options": [
+        "A e e",
+        "B e 0",
+        "C – e – e",
+        "D – e 0 16 Permission  to  reproduce  items  where  third-party  owned  material protected  by  copyright  is  included  has  been  sought  and  cleared where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of"
+      ],
+      "answer": "D",
+      "image": "/papers/physics-0625-2021/q37.png"
+    },
+    {
+      "id": "q38",
+      "number": 38,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The nuclide notation of the isotope strontium-90 is 90 38 Sr. Which statement is correct? A A nucleus of strontium-90 has 38 neutrons., B A nucleus of strontium-90 has 52 neutrons., C A nucleus of strontium-90 has 90 electrons., D A nucleus of strontium-90 has 90 neutrons.",
+      "text": "The nuclide notation of the isotope strontium-90 is 90 38 Sr. Which statement is correct? A A nucleus of strontium-90 has 38 neutrons., B A nucleus of strontium-90 has 52 neutrons., C A nucleus of strontium-90 has 90 electrons., D A nucleus of strontium-90 has 90 neutrons.",
+      "options": [
+        "A A nucleus of strontium-90 has 38 neutrons.",
+        "B A nucleus of strontium-90 has 52 neutrons.",
+        "C A nucleus of strontium-90 has 90 electrons.",
+        "D A nucleus of strontium-90 has 90 neutrons."
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q38.png"
+    },
+    {
+      "id": "q39",
+      "number": 39,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement about -particles and -rays is correct? A -particles are a form of electromagnetic radiation., B -particles penetrate materials more easily than -rays., C The emission of an -particle produces a nucleus of a different element., D -rays are more ionising than -particles.",
+      "text": "Which statement about -particles and -rays is correct? A -particles are a form of electromagnetic radiation., B -particles penetrate materials more easily than -rays., C The emission of an -particle produces a nucleus of a different element., D -rays are more ionising than -particles.",
+      "options": [
+        "A -particles are a form of electromagnetic radiation.",
+        "B -particles penetrate materials more easily than -rays.",
+        "C The emission of an -particle produces a nucleus of a different element.",
+        "D -rays are more ionising than -particles."
+      ],
+      "answer": "C",
+      "image": "/papers/physics-0625-2021/q39.png"
+    },
+    {
+      "id": "q40",
+      "number": 40,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The graph shows the activity of a radioactive source over a period of time. 120 90 60 30 0 012345 activity counts / s time / minutes What is the half-life of the source? A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes",
+      "text": "The graph shows the activity of a radioactive source over a period of time. 120 90 60 30 0 012345 activity counts / s time / minutes What is the half-life of the source? A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes",
+      "options": [
+        "A 1.0 minute B 2.0 minutes C 2.5 minutes D 4.0 minutes"
+      ],
+      "answer": "B",
+      "image": "/papers/physics-0625-2021/q40.png"
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 40,
+    "answersMatched": 40
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2021-unit1-2021-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

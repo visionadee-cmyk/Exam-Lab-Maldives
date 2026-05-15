@@ -1,0 +1,119 @@
+{
+  "paperId": "computer_science-0478-2021-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2021-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1d",
+          "text": "Part 1d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "IF NOT Booked AND Available8[BookTime] THEN Available8[BookTime] ← FALSE; CourtNumber ← 8; Booked ← TRUE ENDIF IF NOT Booked OUTPUT(\"No court available at \", BookTime + 7) ENDIF IF Booked THEN OUTPUT (\"Please enter your name\") INPUT Name Code ← Code + 1 Correct ← \"N\" WHILE Correct = \"N\" DO OUTPUT (\"Please enter your mobile number\") INPUT Mobile OUTPUT (\"Is Your mobile number correct Y/N? \", Mobile, \" Your court number is \", CourtNumber, \" Your entry code is \", Code) INPUT Correct ENDWHILE CASE CourtNumber OF 1 : Guest1[BookTime} ← Name; Mobile1[BookTime] ← Mobile; Code1[BookTime] ← Code 2 : Guest2[BookTime} ← Name; Mobile2[BookTime] ← Mobile; Code2[BookTime] ← Code 3 : Guest3[BookTime} ← Name; Mobile3[BookTime] ← Mobile; Code3[BookTime] ← Code 4 : Guest4[BookTime} ← Name; Mobile4[BookTime] ← Mobile; Code4[BookTime] ← Code 5 : Guest5[BookTime} ← Name; Mobile5[BookTime] ← Mobile; Code5[BookTime] ← Code 6 : Guest6[BookTime} ← Name; Mobile6[BookTime] ← Mobile; Code6[BookTime] ← Code 7 : Guest6[BookTime} ← Name; Mobile7[BookTime] ← Mobile; Code7[BookTime] ← Code 8 : Guest8[BookTime} ← Name; Mobile8[BookTime] ← Mobile; Code8[BookTime] ← Code ENDCASE NoCoutsBooked[BookTime] ← NoCoutsBooked[BookTime] - 1 ELSE OUTPUT (\"Court not booked”) ENDIF 0478/21 October/November 2021 Any four from MP1 How the program totalled the number of bookings MP2 How the program displayed the total number of bookings MP3 How the program calculated the number of times each court was booked MP4 How the program selected the highest value for times a court was booked MP5 How the program displayed the court that was most booked Programming statements must be included and must be explained. 0478/21 October/November 2021 Section B",
+          "image": "/papers/computer_science-0478-2021/q1-1d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Line 1 should be Counter ← Line 3 RandNum[Counter] ← Rand(1, 100) should be RandNum[Counter] ← Rand(1, 101) Line 4 Counter ← Counter + 2 should be Counter ← Counter + 1 Line 5 UNTIL Count <= 50 should be UNTIL Counter >= 50 // UNTIL Counter = 50 Counter ← REPEAT RandNum[Counter} ← Rand(1, 100) Counter ← Counter + 1 UNTIL Counter >= 50 Or Line 3 RandNum[Counter] should be RandNum[Count] Line 3 Rand(1, 100) should be Rand(1, 101) Line 4 Counter ← Counter + 2 should be Count ← Count + 1 Line 5 UNTIL Count <= 50 should be UNTIL Count >= 50 // UNTIL Count = 50 Count ← REPEAT RandNum[Count} ← Rand(1, 100) Count ← Count + 1 UNTIL Count >= 50",
+          "image": "/papers/computer_science-0478-2021/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct line FOR Count ← 0 TO 49 // FOR Count ← 1 TO 50 RandNum[Count] ← Rand(1, 101) / Rand(0, 101) NEXT // NEXT Count // WHILE ... DO ... ENDWHILE 0478/21 October/November 2021 one mark for sample, one mark for reason max four Normal Sample any positive value with three decimal places e.g. 5.682 Reason to test that normal data is accepted and processed correctly Erroneous Sample any value that would be rejected e.g. 5.6 or -1.345 or seven Reason to test that erroneous data is rejected Reason to test that 0.000 / -0.001 / highest possible non-positive is rejected and 0.001 / 0.000 / lowest positive num ber is accepted Sample 1 0.000 Sample 2 0.001",
+          "image": "/papers/computer_science-0478-2021/q2-2b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark To check that values are entered as intended // to prevent incorrect values that meet the validation criteria being accepted Two marks Asking the user to enter the value twice and comparing the val ues // double entry (1) only accepting a value if both entries are identical (1) or Displaying the value as it is entered (1) so the user can put right errors have been made as the value was entered (1) 0478/21 October/November 2021 One mark for each correct column Counter Distinction Mark Award OUTPUT 0 0 1 1 88 2 74 3 60 4 2 90 5 3 84 6 4 87 7 5 95 8 72 9 6 84 10 66 -1 0.6 Highly Commended 0478/21 October/November 2021",
+          "image": "/papers/computer_science-0478-2021/q3-3b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q3.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "CATEGORY – Text characters / words only used PRICE – Currency, the price is in dollars / money CODE – Text no calculations required, could be numbers or characters STOCK – Number, comparisons and calculations may be required",
+          "image": "/papers/computer_science-0478-2021/q5-5a.png"
+        },
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for correct rows Field and Table One mark for correct Show row One mark for correct Criteria row Field: CATEGORY MANUFACT URER CODE ECONOMYRATING Table: A PPLIANCE A PPLIANCE A PPLIANCE A PPLIANCE Sort: Show:     Criteri a: =\"A\" or:",
+          "image": "/papers/computer_science-0478-2021/q5-5b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2021/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2021-unit2-2021-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

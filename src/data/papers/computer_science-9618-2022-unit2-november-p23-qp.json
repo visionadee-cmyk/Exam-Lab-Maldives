@@ -1,0 +1,65 @@
+{
+  "paperId": "computer_science-9618-2022-unit2-november-p23-qp",
+  "pairedMarkSchemeId": "computer_science-9618-2022-unit2-november-p23-ms",
+  "subjectId": "computer_science_ial_cambridge",
+  "code": "9618/23",
+  "session": "October/November 2022",
+  "title": "Unit 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark per row Variable use Data type Store the number of days in the current month INTEGER Store the first letter of the customer's first name CHAR Store an indication of whether a year is a leap year BOOLEAN Store the average amount spent per customer visit REAL stage • The problem definition • Requirements specification // Client requirements • Documentation related to current system (e.g. ER diagram of current system, DFD of current system, feasibility study) • Modules are developed in parallel / as prototypes • Minimal / no detailed planning is carried out // Allows for changes to requirements • Flexible development process • Small incremental releases are made, each adding functionality • Used for time critical development • Client involved during (all stages) of development Benefits: (Max 2 marks) • Quicker development possible / Multiple areas can be worked on at same time • Prototype produced (at early stage in process) • Easier to change requirements / quicker delivery of usable modules • Early review possible / closer cooperation between client and developers Drawback: (Max 1 mark) • Difficult to estimate cost / time to complete project • Documentation often omitted • Lack of client availability throughout life cycle // too easy for client to keep changing their mind October/November Question Answer Marks Examples include: 1 Change to website requirements 2 New technologies available to host website // changes made to library modules used 3 Change in relevant legislation Question Answer Marks 2 One mark for name and two marks for use (Max 3 in total): Examples include: Module: SelectCharity() Use: Allows the user to choose a particular charity Module: SpecifyAmountAndType() Use: Allows the user to specify a single or regular payment Module: MakePayment() Use: Make payment to the charity Module: ValidatePayment() Use: Validate payment details (by accessing bank computer) Module: AddBankAccountDetails() / AddPaymentDetails() Use: Allows the user to add ba",
+          "image": "/papers/computer_science-9618-2022/q1-1a.png"
+        }
+      ],
+      "image": "/papers/computer_science-9618-2022/page-01.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-9618-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/ComputerScience-9618/ComputerScience-9618-2022-unit2-2022-11-22-qp.pdf",
+    "pageImages": [
+      "/papers/computer_science-9618-2022/page-01.png",
+      "/papers/computer_science-9618-2022/page-02.png",
+      "/papers/computer_science-9618-2022/page-03.png",
+      "/papers/computer_science-9618-2022/page-04.png",
+      "/papers/computer_science-9618-2022/page-05.png",
+      "/papers/computer_science-9618-2022/page-06.png",
+      "/papers/computer_science-9618-2022/page-07.png",
+      "/papers/computer_science-9618-2022/page-08.png",
+      "/papers/computer_science-9618-2022/page-09.png",
+      "/papers/computer_science-9618-2022/page-10.png",
+      "/papers/computer_science-9618-2022/page-11.png",
+      "/papers/computer_science-9618-2022/page-12.png",
+      "/papers/computer_science-9618-2022/page-13.png",
+      "/papers/computer_science-9618-2022/page-14.png",
+      "/papers/computer_science-9618-2022/page-15.png",
+      "/papers/computer_science-9618-2022/page-16.png",
+      "/papers/computer_science-9618-2022/page-17.png",
+      "/papers/computer_science-9618-2022/page-18.png",
+      "/papers/computer_science-9618-2022/page-19.png",
+      "/papers/computer_science-9618-2022/page-20.png"
+    ]
+  },
+  "unit": "Unit 2"
+}

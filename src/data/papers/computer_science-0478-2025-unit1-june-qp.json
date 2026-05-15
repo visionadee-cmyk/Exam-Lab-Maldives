@@ -1,0 +1,43 @@
+{
+  "paperId": "computer_science-0478-2025-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2025-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2025",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 1,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5a",
+          "text": "Part 5a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Term Definition current instruction register (CIR) stores the instruction that is being decoded/executed core This is a processing unit within the CPU that can fetch, decode and execute instructions. instruction set This is a list of all the commands that can be processed by the CPU. cache stores frequently used data/instructions accumulator stores the result of interim calculations • On each clock pulse, an FDE cycle is performed. • The clock speed is the number of FDE cycle performed in a second // The clock speed is the number of times the clock pulses per second/per unit of time. • If clock speed is increased more FDE cycles can be performed in a second // If clock speed is decreased fewer FDE cycles can be performed in a second. • If clock speed is increased, it can improve the performance of the CPU // If clock speed is decreases it decreases the performance of the CPU. May/June 2025 Question Answer Marks • algorithm • plain text • cipher text • meaningless • public/private • private/public (must be opposite of MP5) • public • private Data is encrypted using an encryption key. This is a type of algorithm that scrambles the plain text and turns it into cipher text. This makes the data meaningless. A public/private key is used to encrypt the data. This key cannot be used to decrypt the data. A private/public key is used to decrypt the data. Any device is able to request the public key, but only your device knows the private key. • The process is more secure. • Do not need to worry about key exchange. May/June 2025 Question Answer Marks • Read only memory // ROM • Cache • RAM is directly accessed by the CPU. • ... whereas secondary storage is not directly accessed by the CPU. • All secondary storage is non-volatile storage. • ... whereas RAM is volatile storage. • Virtual memory can act as an extension to the RAM . • The secondary storage device is partitioned to create the virtual memory. • Pages can be transferred from the RAM to the virtual memory ... • ... to",
+          "image": "/papers/computer_science-0478-2025/q5-5a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2025/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 1,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2025-unit1-2025-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

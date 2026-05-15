@@ -1,0 +1,51 @@
+{
+  "paperId": "chemistry-0620-2015-unit6-june-p63-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2015-unit6-june-p63-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/63",
+  "session": "May/June 2015",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4f",
+          "text": "Part 4f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "appropriate scale for y axis; all temp differences correctly plotted = 2 marks three temp differences correctly plotted = 1 mark; clearly labelled; highest temperature at least half-way 1 A neutralisation / carbon dioxide formed; / solid E; / pH increased; (so solid G is a) base / alkali; / initial temperature from table; reaction over; Page 4 Mark Scheme Syllabus Paper / halved; volume of acid larger / doubled;",
+          "image": "/papers/chemistry-0620-2015/q4-4f.png"
+        },
+        {
+          "id": "4l",
+          "text": "Part 4l",
+          "marks": 1,
+          "type": "structured",
+          "answer": "source: measuring cylinder / thermometer / heat losses; improvement: use burette / digital thermometer / insulate / lag; no change; / no precipitate / no reaction / nothing; / water; / not a named halide; / NH; / NH +; weighed piece of ice; melting method e.g. put into hot water; collection and measurement of gas e.g. measuring cylinder; filled with water; e.g. gas syringe (2 marks); measure volume of gas; calculate volume in 1000 g;",
+          "image": "/papers/chemistry-0620-2015/q4-4l.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2015/q4.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2015",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2015-unit6-2015-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

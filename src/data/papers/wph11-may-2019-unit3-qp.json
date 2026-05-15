@@ -1,0 +1,153 @@
+{
+  "paperId": "wph11-may-2019-unit3-qp",
+  "pairedMarkSchemeId": "wph11-may-2019-unit3-ms",
+  "subjectId": "physics_ial_pearson",
+  "code": "WPH13/01",
+  "session": "May 2019",
+  "title": "Unit 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Percentage uncertainty = 0.24 % (accept 0.2% and 0.244%) Example of Calculation Percentage uncertainty = (0.05 mm / 20.5 mm) × 100 % = 0.24 % (1) • Take readings in different orientations/positions • Check for zero error • Ensure measurement is at widest point (1) (1) (1) • Calculation of mean diameter (using 4 or 5 diameters) • Anomaly (18.3 mm) not included giving mean diameter = 19.0 mm Example of Calculation Mean diameter = (19.0 mm + 19.1 mm + 18.9 mm + 19.1 mm) / 4 = 19.0 mm (1) (1) • Use of half range (0.1 mm) Or value furthest from mean • Percentage uncertainty = 0.5 % Allow full ecf for use of range of values in 1(d)(i) – e.g. use of half range of 5 values If the half range of all 5 is used, but was not use in 1(d)(i) – MP2 only If whole range (e.g. 0.2 or 0.8) is used – award only MP2 Example of Calculation Range = 19.1 mm – 18.9 mm = 0.2 mm Percentage uncertainty = (0.1 mm / 19.0 mm) × 100 % = 0.53 % (1) (1)",
+          "image": "/papers/wph11-may-2019/q1-1b.png"
+        },
+        {
+          "id": "1e",
+          "text": "Part 1e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of 푉= 휋푟 • Use of 휌= 푚 푉 • Density = 7.89 × 10 kg m –3 (7.89 g cm –3 ) • Value given to 3 s.f. Example of Calculation 푉= 휋(10.25×10 −3 m) = 4.51 × 10 –6 m 휌= 35.6× 10 −3 kg 4.51 × 10 −6 m = 7.89 × 10 kg m –3 (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2019/q1-1e.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Uses percentage uncertainty to calculate the range of density values • Comparative statement consistent with their value for density from (e) Example of Calculation 7.75 × 10 kg m –3 × 1.02 = 7.91 × 10 kg m –3 7.75 × 10 kg m –3 × 0.98 = 7.60 × 10 kg m –3 (1) (1) Total for question 1 16 Number Answer Mark",
+          "image": "/papers/wph11-may-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2019/page-04.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Reference to Force = mg Or reference to use of a Newtonmeter to measure weight • Measure initial length of spring and length with load, and subtract to give extension Or align zero on ruler to bottom end of spring and read opposite bottom when loaded to measure extension Or read scale opposite bottom of spring initially and again with load, and subtract to get extension • Use of a set square to ensure the ruler is vertical Or use of a set square to reduce parallax error when measuring length/extension Or use of a pointer attached to the lower end of spring to reduce parallax error when measuring length/extension Or ensure ruler and spring are at eye-level to reduce parallax • Uses a range of masses/forces to obtain multiple pairs of values (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2019/q2-2a.png"
+        },
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• k = gradient Or k = ΔF/Δx • Gradient should be calculated using values from linear section of the graph (1) (1) Total for question 2 6 Number Answer Mark",
+          "image": "/papers/wph11-may-2019/q2-2b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2019/page-06.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of Vernier calipers Or use of dividers/calipers to transfer the measurement to a ruler Or use of paper (tape) and marking points to be measured with a ruler Or use a flexible measuring tape • Measure diameter of (first) ring and divide by 2 • Measure in multiple orientations and calculate the mean • Measure to the middle/brightest part of the ring Or refers to surface of the screen being curved (so diameter cannot be measured directly) (1) (1) (1) (1)",
+          "image": "/papers/wph11-may-2019/q3-3a.png"
+        },
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (Diffracted) electrons experience (constructive) interference/superposition Or the pattern is evidence electrons have interfered/superposed • Diffraction/interference is a wave property For MP1 – it must be clear they are referring to electrons, not waves. (1) (1) • Inconsistent number of significant figures (for wavelength) • Only 5 sets of results • Range of values of angle/wavelength is too small • No evidence of repeat (1) (1) (1) (1) • Correct sin θ values to 3 s.f. • Labels axes with quantities and unit for λ and with no unit for sin θ (Accept sin( / ̊) but not sin  / ̊ ) • Sensible scales • Plotting values • Line of best fit λ / × –11 m θ / ° sin θ 3.47 19.2 0.329 3.2 17.7 0.304 2.93 16.1 0.277 2.44 13.7 0.237 1.9 10.9 0.189 (1) (1) (1) (2) (1) • Use of large triangle to determine gradient • gradient = 1.10 × 10 –10 to 1.20 × 10 –10 • Value given to 2 or 3 s.f. and correct unit (m) (1) (1) (1) • Comparison between (n)λ = d sin θ and y = mx (+ c) • d is a constant given by the gradient and n=1 MP2 is dependent on MP1 being awarded. (1) (1) Total for question 3 19 y = 11.301x -0.2317 1.8 2.2 2.4 2.6 2.8 3.2 3.4 3.6 0.180.20.220.240.260.280.30.320.34 λ / x 10 - m sin θ Number Answer Mark",
+          "image": "/papers/wph11-may-2019/q3-3b.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2019/page-10.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• Use of √ 푚푔 휇 =푓휆 • Use of l = 1.5 × 휆 • μ = 3.2 × 10 –4 kg m -1 Example of calculation 1.5 × 휆 = 1.25 m 휆 = 0.833 m μ = (0.25 kg × 9.81 m s -2 ) / (105 Hz × 0.833 m ) μ = 3.21 × 10 –4 kg m -1 (1) (1) (1) Max 2 from Frequency • Uncertainty in identifying when nodes form • Uncertainty in identifying maximum amplitude Length • Parallax error when measuring length • Uncertainty in measuring length to top of pulley Or uncertainty in measuring length as string is not straight Mass • Zero error on mass balance (1) (1) (1) (1) (1) For each source from (b)(i) Description of experimental technique Additional detail Examples Frequency • Repeat and calculate the mean frequency • Vary frequency from above and below resonance to find two values for the frequency when the standing wave forms Length • Use a set square to reduce parallax error in length Or hold ruler in contact with the wire to reduce parallax error in length Or ensure ruler and string are at eye-level • Switch off vibrator Or ensure string is straight Mass • Zero balance before each measurement • To remove systematic error Or idea that this error is not reduced by repeating (1) (1) (1) (1) (1) (1) (1) (1) Total for question 4 9",
+          "image": "/papers/wph11-may-2019/q4-4a.png"
+        }
+      ],
+      "image": "/papers/wph11-may-2019/page-12.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 4
+  },
+  "assets": {
+    "basePath": "/papers/wph11-may-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/A-Level/Physics-WPH11/Physics-WPH11-2019-unit3-2019-06-qp.pdf",
+    "pageImages": [
+      "/papers/wph11-may-2019/page-01.png",
+      "/papers/wph11-may-2019/page-02.png",
+      "/papers/wph11-may-2019/page-03.png",
+      "/papers/wph11-may-2019/page-04.png",
+      "/papers/wph11-may-2019/page-05.png",
+      "/papers/wph11-may-2019/page-06.png",
+      "/papers/wph11-may-2019/page-07.png",
+      "/papers/wph11-may-2019/page-08.png",
+      "/papers/wph11-may-2019/page-09.png",
+      "/papers/wph11-may-2019/page-10.png",
+      "/papers/wph11-may-2019/page-11.png",
+      "/papers/wph11-may-2019/page-12.png",
+      "/papers/wph11-may-2019/page-13.png",
+      "/papers/wph11-may-2019/page-14.png",
+      "/papers/wph11-may-2019/page-15.png",
+      "/papers/wph11-may-2019/page-16.png"
+    ]
+  },
+  "unit": "Unit 3"
+}

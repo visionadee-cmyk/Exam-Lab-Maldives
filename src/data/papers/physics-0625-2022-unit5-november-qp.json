@@ -1,0 +1,63 @@
+{
+  "paperId": "physics-0625-2022-unit5-november-qp",
+  "pairedMarkSchemeId": "physics-0625-2022-unit5-november-ms",
+  "subjectId": "physics_igcse",
+  "code": "0625/51",
+  "session": "October/November 2022",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "I and V present R correct and < R R unit  (not contradicted in (a) or (c)) and V present R correct and < R R to 2 or 3 significant figures 1 2 decreases 1 Correct circuit including ammeter and voltmeter with correct symbols. With no flying lead. 1 October/November 2022 Question Answer Marks Temperatures to 1 °C or better 1",
+          "image": "/papers/physics-0625-2022/q2-2b.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3c",
+          "text": "Part 3c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Correct values for  and C At t = 0,  as written in (d)(i)  2 °C θ decrease seen overall in table 3.2 1 Correct value for  and C with unit °C / s at (i) or (ii) and not contradicted. Justification that matches conclusion and results 1 To bottom of meniscus 1 October/November 2022 Question Answer Marks 4 MP1 (Metre) rule / tape measure 1 MP2 Release ball to roll down track, measure how far it travels. 1 MP3 Repeat for at least 2 more different angles of right-hand side of track 1 MP4 Clear identification of the correct distance to be measured (e.g. from table leg or other point identified on floor to point of impact with track) OR clear explanation of how to identify point of impact (e.g. using a sand tray) MP5 Constant variable identified Release height for ball Or same ball every time / same weight / mass / size of ball MP6 Table consistent with their method (if method correct with columns for distance travelled and angle of track, with units) MP7 Analysis based on their table Graph of angle against distance travelled, or compare angle with distance travelled (or the equivalents for their method) October/November 2022 Additional graph notes: NOTE: The principle to apply here is ‘could I draw a significantly better line, using these points, under examination conditions?’ If the answer is definitely ‘yes’, do not award the mark. NOTE: – If candidate’s scale consists of actual readings at equal intervals this will produce a perfect straight line! The only mark available in this case is the first (axes right way round and labelled) So maximum 1. – If axes are wrong way round, the other 3 marks are still available.",
+          "image": "/papers/physics-0625-2022/q3-3c.png"
+        }
+      ],
+      "image": "/papers/physics-0625-2022/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/physics-0625-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Physics-0625/Physics-0625-2022-unit5-2022-11-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

@@ -1,0 +1,63 @@
+{
+  "paperId": "computer_science-0478-2020-unit2-november-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2020-unit2-november-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/21",
+  "session": "October/November 2020",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "• (Use first four digits input to) calculate a check digit • Check if the check digit input is valid Question Answer Marks 9 records One each correct row or one mark for each correct column max two Koala3 Australia SkyKing Europe October/November Question Answer Marks",
+          "image": "/papers/computer_science-0478-2020/q4-4b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5c",
+          "text": "Part 5c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Field: Airline name Number of countries Head office Table: AIRLINE AIRLINE AIRLINE Sort: Show:     Criteria: > 4 =\"Asia\" or: > 4 =\"Africa\" one mark for correct fields and correct table names, must have the three columns required, ignore another column provided the show row is not ticked and there are no criteria set for that column one mark for correct show row one mark for correct number of countries criteria one mark for correct head office criteria",
+          "image": "/papers/computer_science-0478-2020/q5-5c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2020/q5.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2020-unit2-2020-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

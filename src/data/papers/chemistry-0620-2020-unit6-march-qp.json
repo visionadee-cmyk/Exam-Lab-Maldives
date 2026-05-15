@@ -1,0 +1,63 @@
+{
+  "paperId": "chemistry-0620-2020-unit6-march-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit6-march-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "February/March 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "arrow to bottom entry to water jacket on condense r / electric heater / heating mantle/ oil bath r / alcohol) lowest boiling point use a water bath",
+          "image": "/papers/chemistry-0620-2020/q1-1b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "all volumes of distilled water completed correctly (12, 10, 8, 4, zero / / none / – ) all times completed correctly, all five correct scores 2, four correct scores 1 (72, 45, 33, 23, 16) all times to number of seconds only y -axis scale plotting – all five correct scores 2, four correct scores 1 suitable best fit line 0620/62 March 2020 correct reading from graph (expected 54 – 56) working shown on graph (cm ) ecf from results table (correct calculation of 40 / time for experiment 1) cm / s gas escapes (before bung inserted) / gas not collected any description of method that prevents gas loss such as partitioned container, suspend magnesium on thread, etc. Tests on solution J hydrochloric acid / HC l hydrogen (ions) / H + chloride (ions) / C l – Tests on solid K 0620/62 March 2020 (litmus) turns blue Any 6 from: • crush / grind root • with pestle / mortar • with water / solvent • place (drop of) liquid / colour on paper • conduct chromatography • (bottom of) paper placed in a suitable solvent / water • number of coloured substances = number of spots",
+          "image": "/papers/chemistry-0620-2020/q2-2b.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit6-2020-03-qp.pdf"
+  },
+  "unit": "Unit 6"
+}

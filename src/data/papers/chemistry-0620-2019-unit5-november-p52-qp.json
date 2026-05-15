@@ -1,0 +1,59 @@
+{
+  "paperId": "chemistry-0620-2019-unit5-november-p52-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2019-unit5-november-p52-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/52",
+  "session": "October/November 2019",
+  "title": "Paper 5 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly in ascending order",
+          "image": "/papers/chemistry-0620-2019/q1-1a.png"
+        },
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "temperature boxes completed correctly in descending order y -axis, using at least half of the grid all points plotted correctly two smooth line graphs, not joined dot-to-dot or with thick lines both labelled initial temperature minus 3 °C value from graph with clear indication graph for Experiment 1 extended to temperature value suggested",
+          "image": "/papers/chemistry-0620-2019/q1-1b.png"
+        },
+        {
+          "id": "1f",
+          "text": "Part 1f",
+          "marks": 1,
+          "type": "structured",
+          "answer": "two sources of error: e.g. heat losses / use of a measuring cylinder / imprecise thermometer / temperature not accurate / experiment only done once / readings taken every 30 s two improvements: e.g. use a lid / lag the apparatus / use a pipette / burette / use more accurate / precise thermometer / repeat and average / compare / more frequent readings to give smoother graph 0620/52 October/November 2019 / faster temperature rise lower volume of water 0620/52 October/November 2019 blue precipitate remains / insoluble / royal blue solution / dissolves / soluble / fizz / effervescence indicator turns blue black solid formed nitrate bromide 0620/52 October/November 2019 3 any 6 from: • add dilute nitric acid to the mixture • in named container • stir • until reaction stops / fizzing stops / excess acid • filter • wash residue with water • dry residue between pressed filter papers / drier max 6",
+          "image": "/papers/chemistry-0620-2019/q1-1f.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2019/q1.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 1
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2019",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2019-unit5-2019-11-52-qp.pdf"
+  },
+  "unit": "Unit 5"
+}

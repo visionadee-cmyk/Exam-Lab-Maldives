@@ -1,0 +1,147 @@
+{
+  "paperId": "computer_science-0478-2022-unit1-june-qp",
+  "pairedMarkSchemeId": "computer_science-0478-2022-unit1-june-ms",
+  "subjectId": "computer_science_igcse",
+  "code": "0478/11",
+  "session": "May/June 2022",
+  "title": "Paper 1 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 8,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 3,
+      "marks": 3,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4a",
+          "text": "Part 4a",
+          "marks": 1,
+          "type": "structured",
+          "answer": " Computer consist of transistors / logic circuits/gates ...  ... that can only store / process data in two states / high-low / on-off / 1 and 0",
+          "image": "/papers/computer_science-0478-2022/q4-4a.png"
+        },
+        {
+          "id": "4b",
+          "text": "Part 4b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "  ",
+          "image": "/papers/computer_science-0478-2022/q4-4b.png"
+        },
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": " 0100 (1 mark) 0010 (1 mark)  1100 (1 mark) 1110 (1 mark)  Two marks for two correct stages of working, one mark for correct final answer     16 // 15   000 / 8  bytes 0478/11 May/June 2022  They both report/check for errors Four from ( MAX per translator):  An interpreter translates the code line by line (and executes each line immediately)  ... whereas a compiler translates the whole code at the same time (before executing it)  A compiler produces an executable file  ... but an interpreter does not  An interpreter is required to run the code each time if used  ... whereas a compiler is not  An interpreter stops and reports an error as it is encountered  ... whereas a compiler creates a report of all errors at the end of translation  An interpreter will run code up to the point it finds an error  ... whereas a compiler will not run the code at all if an error is found one from:  Uses biological data  It uses characteristics/features that belong to a human two from :  A biometric password cannot be guessed  It is very difficult to fake a biometric password  A biometric password cannot be recorded by a keylogger/spyware  A perpetrator cannot shoulder surf to see a biometric password 0478/11 May/June 2022 three from:  The traffic/data is compared to set criteria/rules/whitelist/blacklist  If the traffic/data does/does not meet the criteria/rules/whitelist/blacklist it will be rejected/blocked ...  ... and an alert can be sent to warn Adele  ... this can help prevent hackers/malicious software (gaining access to the data)",
+          "image": "/papers/computer_science-0478-2022/q4-4c.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q4.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "parts": [
+        {
+          "id": "7d",
+          "text": "Part 7d",
+          "marks": 1,
+          "type": "structured",
+          "answer": " It makes the data meaningless",
+          "image": "/papers/computer_science-0478-2022/q7-7d.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 8",
+      "text": "Question 8",
+      "parts": [
+        {
+          "id": "8a",
+          "text": "Part 8a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct logic gate with correct input(s) 0478/11 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q8-8a.png"
+        },
+        {
+          "id": "8b",
+          "text": "Part 8b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Four marks for 8 correct outputs Three marks for 6/7 correct outputs Two marks for 4/5 correct outputs One mark for 2/3 correct outputs A B C Working space X 0 0 0 0 0 1 0 1 0 0 1 1 1 0 0 1 0 1 1 1 0 1 1 1 0478/11 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q8-8b.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "parts": [
+        {
+          "id": "9a",
+          "text": "Part 9a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each correct row: Statement Browser (  ) IP address (  ) URL (  ) it contains the domain name  it is a type of software  it converts Hypertext Markup Language (HTML) to display web pages  it is a type of address   it stores cookies  10 Any three from :  It is a unique address  It is assigned by the manufacturer  It can be used to identify a device  It contains the manufacturer ID/code/number  It contains the serial code/number  It is written in hexadecimal  It has 6 bytes/48 bits/6 pairs of digits  Does not (usually) change // static 0478/11 May/June 2022",
+          "image": "/papers/computer_science-0478-2022/q9-9a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q9.png"
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "11 (a) The paragraph describes the process of printing a document using an inkjet printer. Complete the paragraph using the most appropriate terms from the list. Not all of the terms in the list need to be used. • binary • buffer • drum • information • interrupt • laser • liquid • nozzles • operating system • powder • thermal bubble • toner Data is sent from th",
+      "text": "11 (a) The paragraph describes the process of printing a document using an inkjet printer. Complete the paragraph using the most appropriate terms from the list. Not all of the terms in the list need to be used. • binary • buffer • drum • information • interrupt • laser • liquid • nozzles • operating system • powder • thermal bubble • toner Data is sent from th",
+      "parts": [
+        {
+          "id": "11a",
+          "text": "11 (a) The paragraph describes the process of printing a document using an inkjet printer. Complete the paragraph using the most appropriate terms from the list. Not all of the terms in the list need to be used. • binary • buffer • drum • information • interrupt • laser • liquid • nozzles • operating system • powder • thermal bubble • toner Data is sent from th",
+          "marks": 1,
+          "type": "structured",
+          "answer": "One mark for each of the correct terms, in the correct place  buffer  nozzles  liquid  thermal bubble  interrupt three from e.g.:  Monitor // screen  Speaker  Headphones  Light // LED  (2D/3D) cutter  DLP // LCD projector  A ctuato r two from e.g.:  Keyboard  Mouse // trackerball  Microphone  (2D/3D) scanner  Barcode reader  QR code reader  Digital camera // webcam  Interactive whiteboard  Touchscreen  Senso r 0478/11 May/June 2022 One mark for identification of an issue and one mark for a description e.g.:  Plagiarism – The copying of other people’s work without their permission – Claiming someone else’s work as your own  Hacking – Unauthorised access to a computer/data  Malware – Malicious software designed to damage a computer system or stored data  Spyware – Keylogger used to record keypresses and sends them to third party  Ransomware – Holding hostage a user’s data, often for a release fee  Intellectual property theft – Stealing other people work  Breaching copyright – Breaking the law by copying someone’s work  Piracy – Using piracy websites to gain content for free that should have been paid for  Privacy – A person’s data could be leaked  Phishing – Sending an email to lure users to a fake site to obtain their personal details 0478/11 May/June 2022  Pharming – Downloading of malicious code to redirect user to fake website to obtain their personal details  Data protection – A person’s data is not used according to the law  Cyber bullying – Using the internet to bully people  Inappropriate materials – Materials that could cause harm/offense to people e.g. minors  Fake news – News stories that could be very misleading or harmful  Software cracking – Changing code to e.g. bypass a licence for software  Addiction – Aspects of the internet e.g. social media can cause this  Environmental effects – Increased use of the internet increases the use of electrical powe r",
+          "image": "/papers/computer_science-0478-2022/q11-11a.png"
+        }
+      ],
+      "image": "/papers/computer_science-0478-2022/q11.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 8,
+    "questionCount": 5
+  },
+  "assets": {
+    "basePath": "/papers/computer_science-0478-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/ComputerScience-0478/ComputerScience-0478-2022-unit1-2022-06-qp.pdf"
+  },
+  "unit": "Unit 1"
+}

@@ -1,0 +1,107 @@
+{
+  "paperId": "chemistry-0620-2020-unit6-june-p62-qp",
+  "pairedMarkSchemeId": "chemistry-0620-2020-unit6-june-p62-ms",
+  "subjectId": "chemistry_igcse",
+  "code": "0620/62",
+  "session": "May/June 2020",
+  "title": "Paper 6 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 6,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1a",
+          "text": "Part 1a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "arrow under copper( II ) oxide pointing up to the copper( II ) oxide final: brown r so that the steam / gas condenses / turns into a liquid flammable / explosive method of collection shown would work collection apparatus is graduated",
+          "image": "/papers/chemistry-0620-2020/q1-1a.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 4,
+      "marks": 4,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "lengths completed correctly (1, 2, 3, 5, 6) 10 correct thermometer readings (23 × 5, 24, 26, 29, 36, 40) A ll temperature increases worked out correctly (1, 3, 6, 13, 17)",
+          "image": "/papers/chemistry-0620-2020/q2-2a.png"
+        },
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "scale has one big square = 5 all five points plotted correctly best fit line through points which passes within half a small square of (0, 0)",
+          "image": "/papers/chemistry-0620-2020/q2-2c.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "there is no reaction (with no magnesium) 0620/62 May/June 2020",
+          "image": "/papers/chemistry-0620-2020/q2-2d.png"
+        },
+        {
+          "id": "2e",
+          "text": "Part 2e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "working shown on graph correct reading units of °C shown (polystyrene is a better) insulato r sketch line starts at same point as plotted line for 0 cm magnesium and then is above plotted line at all non-zero lengths of magnesium. r Tests on solution L or no change (dissolves / soluble) producing a green solution remains in excess / does not dissolve 0620/62 May/June 2020 Tests on solid M",
+          "image": "/papers/chemistry-0620-2020/q2-2e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3e",
+          "text": "Part 3e",
+          "marks": 1,
+          "type": "structured",
+          "answer": "sodium / Na + carbonate / CO 2– Any six from: • stated / equal volumes of each cleaner • measured with pipette / measuring cylinder / burette into a beaker or flask • named indicator added • add hydrochloric acid • from a burette • until indicator changes colour • record / calculate volume acid added • biggest volume of acid is most concentrated",
+          "image": "/papers/chemistry-0620-2020/q3-3e.png"
+        }
+      ],
+      "image": "/papers/chemistry-0620-2020/q3.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 6,
+    "questionCount": 3
+  },
+  "assets": {
+    "basePath": "/papers/chemistry-0620-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Chemistry-0620/Chemistry-0620-2020-unit6-2020-06-62-qp.pdf"
+  },
+  "unit": "Unit 6"
+}
