@@ -11,6 +11,7 @@
     "coverage:table": "node scripts/generate-coverage-table.cjs",
     "enrich:qp-images": "node scripts/enrich-qp-images.cjs",
     "extract:qp-images": "node scripts/extract-qp-pdf-images.cjs",
+    "audit:practice": "node scripts/audit-practice-pools.cjs",
     "lint": "eslint .",
     "preview": "vite preview"
   },

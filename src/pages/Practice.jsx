@@ -1,4 +1,4 @@
-import { useState, useEffect, useLayoutEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import { QuestionCard } from '../components/QuestionCard';
 import { useQuestions } from '../hooks/useQuestions';
@@ -17,8 +17,13 @@ import {
   normalizePracticeSubjectId
 } from '../lib/practicePrefs';
 import { getAllBiologyPracticeQuestions } from '../data/biologyPracticePool';
+import {
+  pickPracticeQuestions,
+  getPracticePoolSize
+} from '../data/paperPracticePool';
+import { SUBJECTS } from '../data/subjects';
 
-// Questions: Firestore for most subjects; bundled JSON for biology IGCSE (reliable offline / empty DB).
+// Questions: bundled QP JSON per subject; Firestore optional extra bank.
 const PRACTICE_BUILD_ID = 'nested-exam-lab-mv';
 
 function PracticeDiagnostics({
@@ -30,9 +35,8 @@ function PracticeDiagnostics({
   subject,
   topic,
   questions,
-  usedBiologyFallback
+  localPoolSize
 }) {
-  const poolSize = getAllBiologyPracticeQuestions().length;
   const qState =
     questions === null ? 'loading(null)' : `array(len=${questions.length})`;
   const payload = {
@@ -45,9 +49,8 @@ function PracticeDiagnostics({
     subjectFromStorage,
     resolvedSubject: subject,
     topic,
-    biologyPoolQuestionCount: poolSize,
-    questionsState: qState,
-    usedBiologyFallback
+    localPoolQuestionCount: localPoolSize,
+    questionsState: qState
   };
   return (
     <details className="mt-6 text-left border border-gray-200 rounded-lg p-3 bg-gray-50">
@@ -66,27 +69,6 @@ function PracticeDiagnostics({
       </p>
     </details>
   );
-}
-
-function shuffleCopy(arr) {
-  const a = [...arr];
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-function pickBiologyPracticeQuestions(topic, count = 10) {
-  const all = getAllBiologyPracticeQuestions();
-  if (!all.length) return [];
-  let pool = all;
-  if (topic?.trim()) {
-    const t = topic.trim().toLowerCase();
-    const narrowed = all.filter((q) => (q.text || '').toLowerCase().includes(t));
-    if (narrowed.length) pool = narrowed;
-  }
-  return shuffleCopy(pool).slice(0, count);
 }
 
 export function Practice() {
@@ -121,7 +103,8 @@ export function Practice() {
   
   /** null = still loading; [] = none; otherwise question list */
   const [questions, setQuestions] = useState(null);
-  const [usedBiologyFallback, setUsedBiologyFallback] = useState(false);
+  const localPoolSize = getPracticePoolSize(subject);
+  const subjectMeta = SUBJECTS.find((s) => s.id === subject);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState({});
   const [showResults, setShowResults] = useState(false);
@@ -135,22 +118,18 @@ export function Practice() {
     setScore(0);
   }, [subject, topic]);
 
-  // Biology: synchronous pool before paint (avoids a flash of loading / empty UI).
-  useLayoutEffect(() => {
-    if (subject !== 'biology_igcse') return;
-    const local = pickBiologyPracticeQuestions(topic, 10);
-    setQuestions(local);
-    setUsedBiologyFallback(false);
-  }, [subject, topic]);
-
   useEffect(() => {
-    if (subject === 'biology_igcse') return;
-
     let cancelled = false;
 
     const loadQuestions = async () => {
       setQuestions(null);
-      setUsedBiologyFallback(false);
+      const local = pickPracticeQuestions(subject, topic, 10);
+      if (local.length > 0) {
+        if (!cancelled) {
+          setQuestions(local);
+        }
+        return;
+      }
 
       const filters = {};
       if (subject) filters.subject = subject;
@@ -161,14 +140,11 @@ export function Practice() {
 
       if (data.length > 0) {
         setQuestions(data);
-        setUsedBiologyFallback(false);
         return;
       }
 
-      const fallback = pickBiologyPracticeQuestions(topic, 10);
       if (!cancelled) {
-        setQuestions(fallback.length > 0 ? fallback : []);
-        setUsedBiologyFallback(fallback.length > 0);
+        setQuestions([]);
       }
     };
 
@@ -261,7 +237,7 @@ export function Practice() {
           subject={subject}
           topic={topic}
           questions={questions}
-          usedBiologyFallback={usedBiologyFallback}
+          localPoolSize={localPoolSize}
         />
       </div>
     );
@@ -270,14 +246,17 @@ export function Practice() {
   if (questions.length === 0) {
     return (
       <div className="max-w-3xl mx-auto px-4 py-8 text-center space-y-4">
-        <p>No questions available. Try Biology practice (works offline) or pick another subject.</p>
+        <p>
+          No practice questions loaded for this subject yet. Open the subject&apos;s{' '}
+          <strong>Papers</strong> tab for full question papers with images.
+        </p>
         <div className="flex flex-col sm:flex-row gap-3 justify-center">
           <button
             type="button"
-            onClick={() => navigate('/practice/biology_igcse')}
+            onClick={() => navigate(`/subjects/${subject}`)}
             className="btn-primary"
           >
-            Biology IGCSE practice
+            View papers
           </button>
           <button type="button" onClick={() => navigate('/subjects')} className="btn-secondary">
             Back to Subjects
@@ -292,7 +271,7 @@ export function Practice() {
           subject={subject}
           topic={topic}
           questions={questions}
-          usedBiologyFallback={usedBiologyFallback}
+          localPoolSize={localPoolSize}
         />
       </div>
     );
@@ -310,17 +289,10 @@ export function Practice() {
           Exit Practice
         </button>
 
-        {usedBiologyFallback && (
-          <p className="text-sm text-amber-900 bg-amber-50 border border-amber-100 rounded-lg px-3 py-2 mb-4">
-            No questions in the online bank for this subject yet. Showing sample{' '}
-            <strong>Cambridge IGCSE Biology (0610)</strong> questions from the app library.
-          </p>
-        )}
-        
         <div className="flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-bold text-gray-900">
-              {topic || 'Mixed Topics'} Practice
+              {subjectMeta?.name || 'Subject'} — {topic || 'Mixed Topics'} Practice
             </h1>
             <p className="text-gray-600">
               Question {currentIndex + 1} of {questions.length}
@@ -446,7 +418,7 @@ export function Practice() {
         subject={subject}
         topic={topic}
         questions={questions}
-        usedBiologyFallback={usedBiologyFallback}
+        localPoolSize={localPoolSize}
       />
     </div>
   );

@@ -87,3 +87,32 @@ export const GLOB_MS_INTERACTIVE_MAP = registry.map;
 export const GLOB_MS_PAPER_LISTS = registry.listsBySubject;
 export const GLOB_INTERACTIVE_QP_LISTS = registry.interactiveBySubject;
 export const GLOB_MS_BY_ID = registry.msById;
+
+/** Prefer main paper over v01 / va variants for the same session+unit. */
+function isPreferredPaperRow(a, b) {
+  const variant = /-(v\d+[a-z]?|va)-qp$/i;
+  if (variant.test(a.id) && !variant.test(b.id)) return false;
+  if (!variant.test(a.id) && variant.test(b.id)) return true;
+  return a.id.localeCompare(b.id) > 0;
+}
+
+function paperRowKey(paper) {
+  return String(paper.id || '')
+    .replace(/-(v\d+[a-z]?|va)-qp$/i, '-qp')
+    .replace(/-qp$/i, '');
+}
+
+/** One row per exam session+unit, Biology-style list for subject pages. */
+export function getSubjectPaperList(subjectId) {
+  const sid = uiSubjectId(subjectId);
+  const rows = GLOB_INTERACTIVE_QP_LISTS[sid] || [];
+  const byKey = new Map();
+  for (const row of rows) {
+    const key = paperRowKey(row);
+    const existing = byKey.get(key);
+    if (!existing || isPreferredPaperRow(row, existing)) {
+      byKey.set(key, row);
+    }
+  }
+  return [...byKey.values()].sort((a, b) => b.id.localeCompare(a.id));
+}
