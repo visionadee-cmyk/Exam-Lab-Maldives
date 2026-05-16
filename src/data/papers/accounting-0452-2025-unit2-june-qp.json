@@ -1,0 +1,65 @@
+{
+  "paperId": "accounting-0452-2025-unit2-june-qp",
+  "pairedMarkSchemeId": "accounting-0452-2025-unit2-june-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/21",
+  "session": "May/June 2025",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error Entries required to correct the error Debit Credit Account $ Account $ A payment for wages, $425, had been debited to the purchases account. Wages 425 Purchases 425 Discount allowed, $19, had been credited to the discount allowed account. Discount allowed 38 (1) Suspense 38 (1) The total of the sales journal for April 2025 was undercast by $100. Suspense 100 (1) Sales 100 (1) A bank payment for purchases, $170, had not been recorded in the books of account. Purchases 170 (1) Bank 170 (1) Bank charges, $15, had been recorded as $105. Bank 90 (1) Bank charges 90 (1) A bank payment for insurance, $210, was debited to the bank account. No other entries were made. Insurance Suspense (1) (1) Bank 420 (1)",
+          "image": "/papers/accounting-0452-2025/q3-3a.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4d",
+          "text": "Part 4d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "26 700 250 *26 950100 194 995 5 000199 9951 + = + (1) (1)OF OF = 13.48% (1)OF Alternative calculation 26 700 250 *26 950100 171875 60 130 32 010199 9951 + = +− (1) (1)OF OF = 13.48% (1)OF *Profit adjusted for interest on debentures 250 (5%  5 000)] There will be no liability once the debentures have been repaid (1) Issue of debentures will not reduce shareholders’ stake in the company/ debenture holders do not take an active part in running the company/debenture holders do not have a vote (1) Only have relatively low amount of loans at present (1) Funds may be available quickly/relatively easy to obtain (1) Accept other valid points Max (2) Points against issuing debentures Interest on the debentures has to be paid/ debenture interest reduces profit/ fixed amount of debenture interest each year/ debenture interest needs to be paid even if the company makes a loss (1) May be secured against the assets of the company/are repaid before shareholders if company liquidated (1) Debentures have to be repaid/increase liabilities (1) Funds must be available when repayment is due (1) Already have commitment to repay existing debentures (1) Accept other valid points Max (2) Overall For and Against: Max (4) Recommendation (1)",
+          "image": "/papers/accounting-0452-2025/q4-4d.png"
+        }
+      ],
+      "image": ""
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2025",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2025-unit2-2025-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,583 @@
+{
+  "paperId": "accounting-0452-2020-unit1-june-qp",
+  "pairedMarkSchemeId": "accounting-0452-2020-unit1-june-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/11",
+  "session": "May/June 2020",
+  "title": "Paper 1 - Question Paper (MCQ)",
+  "documentType": "QP",
+  "totalMarks": 35,
+  "timeMinutes": 60,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement is correct? A Accounting involves measuring profits and losses., B Accounting is the recording of financial transactions., C Book-keeping involves communicating financial data., D Book-keeping requires the use of ratio analysis.",
+      "text": "Which statement is correct? A Accounting involves measuring profits and losses., B Accounting is the recording of financial transactions., C Book-keeping involves communicating financial data., D Book-keeping requires the use of ratio analysis.",
+      "options": [
+        "A Accounting involves measuring profits and losses.",
+        "B Accounting is the recording of financial transactions.",
+        "C Book-keeping involves communicating financial data.",
+        "D Book-keeping requires the use of ratio analysis."
+      ],
+      "answer": "A",
+      "image": ""
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The balances remaining on the books of a business after the preparation of the income statement included the following. $ loan from XY Finance 10 000 wages due 620 rent prepaid 240 trade receivables 3 300 trade payables 4 650 motor vehicles 8 000 provision for depreciation of motor vehicles 2 000 What was the total of the liabilities? A $13 920 B $14 890 C $15 270 D $17 270",
+      "text": "The balances remaining on the books of a business after the preparation of the income statement included the following. $ loan from XY Finance 10 000 wages due 620 rent prepaid 240 trade receivables 3 300 trade payables 4 650 motor vehicles 8 000 provision for depreciation of motor vehicles 2 000 What was the total of the liabilities? A $13 920 B $14 890 C $15 270 D $17 270",
+      "options": [
+        "A $13 920 B $14 890 C $15 270 D $17 270"
+      ],
+      "answer": "C",
+      "image": "/papers/accounting-0452-2020/q2-liabilities-balances-table.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On 2 April Nina received a cheque from Zaffar, a credit customer. On 12 April the cheque was returned unpaid by the bank. What entry would Nina make on 12 April? account to be debited account to be credited A irrecoverable debts bank, B irrecoverable debts Zaffar, C provision for doubtful debts Zaffar, D Zaffar bank 3",
+      "text": "On 2 April Nina received a cheque from Zaffar, a credit customer. On 12 April the cheque was returned unpaid by the bank. What entry would Nina make on 12 April? account to be debited account to be credited A irrecoverable debts bank, B irrecoverable debts Zaffar, C provision for doubtful debts Zaffar, D Zaffar bank 3",
+      "options": [
+        "A irrecoverable debts bank",
+        "B irrecoverable debts Zaffar",
+        "C provision for doubtful debts Zaffar",
+        "D Zaffar                                           bank 3"
+      ],
+      "answer": "D",
+      "image": "/papers/accounting-0452-2020/q3-unpaid-cheque-debit-credit-table.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Ann is a trader. On 1 April Cindy’s account in Ann’s ledger showed a credit balance of $520. The following transactions took place during April. April 2 Ann returned goods, $30, to Cindy.",
+      "text": "Ann is a trader. On 1 April Cindy’s account in Ann’s ledger showed a credit balance of $520. The following transactions took place during April. April 2 Ann returned goods, $30, to Cindy.",
+      "options": [],
+      "answer": "A",
+      "image": ""
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "options": [],
+      "answer": "C",
+      "image": ""
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 6",
+      "text": "Question 6",
+      "options": [],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q6-dave-peter-documents-table.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 7",
+      "text": "Question 7",
+      "options": [],
+      "answer": "D",
+      "image": ""
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 8",
+      "text": "Question 8",
+      "options": [],
+      "answer": "C",
+      "image": ""
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 9",
+      "text": "Question 9",
+      "options": [],
+      "answer": "D",
+      "image": ""
+    },
+    {
+      "id": "q10",
+      "number": 10,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 10",
+      "text": "Question 10",
+      "options": [],
+      "answer": "B",
+      "image": ""
+    },
+    {
+      "id": "q11",
+      "number": 11,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 11",
+      "text": "Question 11",
+      "options": [],
+      "answer": "C",
+      "image": ""
+    },
+    {
+      "id": "q12",
+      "number": 12,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 12",
+      "text": "Question 12",
+      "options": [],
+      "answer": "A",
+      "image": "/papers/accounting-0452-2020/q12-bank-statement-transactions-table.png"
+    },
+    {
+      "id": "q13",
+      "number": 13,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 13",
+      "text": "Question 13",
+      "options": [],
+      "answer": "A",
+      "image": ""
+    },
+    {
+      "id": "q14",
+      "number": 14,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Ann bought goods, $210, from Cindy, and paid in cash. Which statement about the balance on Cindy’s account in Ann’s ledger on 30 April is correct? A Ann owes Cindy $490., B Ann owes Cindy $700., C Cindy owes Ann $490., D Cindy owes Ann $700. 5 Goods bought on credit by Tumelo from Tebogo are returned before they are paid for. Tumelo keeps a full double entry system. Where will Tumelo record the return of goods?, A cash book and sales ledger, B general ledger only, C general ledger and purchases ledger, D purchases ledger only 6 Dave supplies goods to Peter on credit. On 1 April, Peter owed Dave $440. Dave sent or received the following documents in April. $ April 7 invoice 360 12 cheque (after deducting $11 cash discount) 429 13 debit note 50",
+      "text": "Ann bought goods, $210, from Cindy, and paid in cash. Which statement about the balance on Cindy’s account in Ann’s ledger on 30 April is correct? A Ann owes Cindy $490., B Ann owes Cindy $700., C Cindy owes Ann $490., D Cindy owes Ann $700. 5 Goods bought on credit by Tumelo from Tebogo are returned before they are paid for. Tumelo keeps a full double entry system. Where will Tumelo record the return of goods?, A cash book and sales ledger, B general ledger only, C general ledger and purchases ledger, D purchases ledger only 6 Dave supplies goods to Peter on credit. On 1 April, Peter owed Dave $440. Dave sent or received the following documents in April. $ April 7 invoice 360 12 cheque (after deducting $11 cash discount) 429 13 debit note 50",
+      "options": [
+        "A Ann owes Cindy $490.",
+        "B Ann owes Cindy $700.",
+        "C Cindy owes Ann $490.",
+        "D Cindy owes Ann $700. 5      Goods  bought  on  credit  by  Tumelo  from  Tebogo  are  returned  before  they  are  paid  for.  Tumelo keeps a full double entry system. Where will Tumelo record the return of goods?",
+        "A cash book and sales ledger",
+        "B general ledger only",
+        "C general ledger and purchases ledger",
+        "D purchases ledger only 6     Dave  supplies  goods  to  Peter  on  credit.  On  1  April,  Peter  owed  Dave  $440.  Dave  sent  or received the following documents in April. $ April  7    invoice 360 12    cheque (after deducting $11 cash discount) 429 13    debit note 50"
+      ],
+      "answer": "C",
+      "image": "/papers/accounting-0452-2020/q14-workshop-capital-expenditure-table.png"
+    },
+    {
+      "id": "q15",
+      "number": 15,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "credit note 50 What was the closing balance on the statement of account on 30 April? A $260 B $310 C $321 D $421 7 What is recorded in the sales journal?, A all money received from sales, B all sales transactions, C cash sales transactions, D credit sales transactions 4 8 Which statement about a two-column cash book is correct?, A It is a ledger account for bank transactions only., B It is a ledger account for cash transactions only., C It is a book of prime entry., D It records cash discounts. 9 Which statements about trade discount are correct? 1 It is debited to the supplier’s account. 2 It is only given if the invoice is paid within the period allowed by the supplier. 3 It is shown as a deduction from the price of the goods on an invoice. 4 It is used to encourage bulk buying., A 1 and 2 B 1 and 3 C 2 and 4 D 3 and 4 10 Why is a trial balance prepared?, A to analyse the financial information, B to assist preparation of financial statements, C to control the costs of the business, D to evaluate the performance of the business 11 The income statement of a business showed a loss for the year of $16 000. On checking the books the following errors were discovered. 1 No adjustment had been made for insurance prepaid, $480. 2 No entry had been made for bank charges, $620. What was the correct loss for the year?, A $14 900 B $15 860 C $16 140 D $17 100 5 12 Peter’s bank statement showed a debit balance of $600 on 1 April. The following transactions took place in April. $ total cheque deposits 7400 total cheque payments 6200 direct debit for insurance premium 180 credit transfer from customer 450 What was the bank statement balance on 30 April?, A $870 credit, B $870 debit, C $2070 credit, D $2070 debit 13 A sales ledger control account had a debit balance of $10 000. It was found that a $2000 contra entry to the purchases ledger control account had been entered on the wrong side of the sales ledger control account. What was the correct debit balance on the sales ledger control account?, A $6000 B $8000 C $12 000 D $14 000 14 A business had a new extension to its workshop premises. It incurred the following expenditure. $ building cost 65 000 legal fees 1 800 air conditioning system for the original workshop 2 300 air conditioning system for the new workshop extension 1 100 decorating the original workshop 1 400 decorating the new workshop extension 800 What was the total capital expenditure of the business?, A $67 900 B $70 200 C $71 000 D $72 400 6 15 A non-current asset was depreciated at the end of the first year of ownership using the straight-line method based on the following information. cost $20 000 working life 4 years residual value $4000 It was then found that the reducing balance method at 30% per annum should have been used. What was the effect on the profit for the year of correcting this error?, A decrease by $2000, B increase by $2000, C decrease by $6000, D increase by $6000",
+      "text": "credit note 50 What was the closing balance on the statement of account on 30 April? A $260 B $310 C $321 D $421 7 What is recorded in the sales journal?, A all money received from sales, B all sales transactions, C cash sales transactions, D credit sales transactions 4 8 Which statement about a two-column cash book is correct?, A It is a ledger account for bank transactions only., B It is a ledger account for cash transactions only., C It is a book of prime entry., D It records cash discounts. 9 Which statements about trade discount are correct? 1 It is debited to the supplier’s account. 2 It is only given if the invoice is paid within the period allowed by the supplier. 3 It is shown as a deduction from the price of the goods on an invoice. 4 It is used to encourage bulk buying., A 1 and 2 B 1 and 3 C 2 and 4 D 3 and 4 10 Why is a trial balance prepared?, A to analyse the financial information, B to assist preparation of financial statements, C to control the costs of the business, D to evaluate the performance of the business 11 The income statement of a business showed a loss for the year of $16 000. On checking the books the following errors were discovered. 1 No adjustment had been made for insurance prepaid, $480. 2 No entry had been made for bank charges, $620. What was the correct loss for the year?, A $14 900 B $15 860 C $16 140 D $17 100 5 12 Peter’s bank statement showed a debit balance of $600 on 1 April. The following transactions took place in April. $ total cheque deposits 7400 total cheque payments 6200 direct debit for insurance premium 180 credit transfer from customer 450 What was the bank statement balance on 30 April?, A $870 credit, B $870 debit, C $2070 credit, D $2070 debit 13 A sales ledger control account had a debit balance of $10 000. It was found that a $2000 contra entry to the purchases ledger control account had been entered on the wrong side of the sales ledger control account. What was the correct debit balance on the sales ledger control account?, A $6000 B $8000 C $12 000 D $14 000 14 A business had a new extension to its workshop premises. It incurred the following expenditure. $ building cost 65 000 legal fees 1 800 air conditioning system for the original workshop 2 300 air conditioning system for the new workshop extension 1 100 decorating the original workshop 1 400 decorating the new workshop extension 800 What was the total capital expenditure of the business?, A $67 900 B $70 200 C $71 000 D $72 400 6 15 A non-current asset was depreciated at the end of the first year of ownership using the straight-line method based on the following information. cost $20 000 working life 4 years residual value $4000 It was then found that the reducing balance method at 30% per annum should have been used. What was the effect on the profit for the year of correcting this error?, A decrease by $2000, B increase by $2000, C decrease by $6000, D increase by $6000",
+      "options": [
+        "A $260    B    $310    C    $321    D    $421 7     What is recorded in the sales journal?",
+        "A all money received from sales",
+        "B all sales transactions",
+        "C cash sales transactions",
+        "D credit    sales    transactions 4 8     Which statement about a two-column cash book is correct?",
+        "A It is a ledger account for bank transactions only.",
+        "B It is a ledger account for cash transactions only.",
+        "C It is a book of prime entry.",
+        "D It records cash discounts. 9     Which statements about trade discount are correct? 1     It is debited to the supplier’s account. 2     It is only given if the invoice is paid within the period allowed by the supplier. 3     It is shown as a deduction from the price of the goods on an invoice. 4     It is used to encourage bulk buying.",
+        "A 1 and 2 B    1 and 3 C    2 and 4 D    3 and 4 10 Why is a trial balance prepared?",
+        "A to analyse the financial information",
+        "B to assist preparation of financial statements",
+        "C to control the costs of the business",
+        "D to evaluate the performance of the business 11   The  income  statement  of  a  business  showed  a  loss  for  the  year  of  $16 000.  On  checking  the books the following errors were discovered. 1     No adjustment had been made for insurance prepaid, $480. 2     No entry had been made for bank charges, $620. What was the correct loss for the year?",
+        "A $14 900 B    $15 860 C    $16 140 D    $17 100 5 12   Peter’s  bank  statement  showed  a  debit  balance  of  $600  on  1  April.  The  following  transactions took place in April. $ total cheque deposits 7400 total cheque payments 6200 direct debit for insurance premium 180 credit transfer from customer 450 What was the bank statement balance on 30 April?",
+        "A $870    credit",
+        "B $870    debit",
+        "C $2070    credit",
+        "D $2070    debit 13   A sales ledger control account had a debit balance of $10 000. It was found that a $2000 contra entry to the purchases ledger control account had been entered on the wrong side of the sales ledger control account. What was the correct debit balance on the sales ledger control account?",
+        "A $6000    B    $8000    C    $12 000 D    $14 000 14   A business had a new extension to its workshop premises. It incurred the following expenditure. $ building cost 65 000 legal fees 1 800 air conditioning system for the original workshop 2 300 air conditioning system for the new workshop extension 1 100 decorating the original workshop 1 400 decorating the new workshop extension 800 What was the total capital expenditure of the business?",
+        "A $67 900 B    $70 200 C    $71 000 D    $72 400 6 15   A  non-current  asset  was  depreciated  at  the  end  of  the  first  year  of  ownership  using  the straight-line method based on the following information. cost                       $20 000 working life 4 years residual value $4000 It was then found that the reducing balance method at 30% per annum should have been used. What was the effect on the profit for the year of correcting this error?",
+        "A decrease by $2000",
+        "B increase    by    $2000",
+        "C decrease by $6000",
+        "D increase    by    $6000"
+      ],
+      "answer": "A",
+      "image": "/papers/accounting-0452-2020/q15-depreciation-asset-data-table.png"
+    },
+    {
+      "id": "q16",
+      "number": 16,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A company’s financial year ended on 31 December 2019. On 1 December 2019 it paid rent, $8000, for the four months ending 31 March 2020. What was the opening balance on the rent account on 1 January 2020? A $2000 credit, B $2000 debit, C $6000 credit, D $6000 debit",
+      "text": "A company’s financial year ended on 31 December 2019. On 1 December 2019 it paid rent, $8000, for the four months ending 31 March 2020. What was the opening balance on the rent account on 1 January 2020? A $2000 credit, B $2000 debit, C $6000 credit, D $6000 debit",
+      "options": [
+        "A $2000    credit",
+        "B $2000    debit",
+        "C $6000    credit",
+        "D $6000    debit"
+      ],
+      "answer": "D",
+      "image": ""
+    },
+    {
+      "id": "q17",
+      "number": 17,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Alice’s financial year ends on 31 December. The balances on her books on 1 January 2020 included the following. $ commission receivable 250 debit rent receivable 500 credit What do these balances represent? commission receivable rent receivable A income outstanding income outstanding, B income outstanding income prepaid, C income prepaid income outstanding, D income prepaid income prepaid 7",
+      "text": "Alice’s financial year ends on 31 December. The balances on her books on 1 January 2020 included the following. $ commission receivable 250 debit rent receivable 500 credit What do these balances represent? commission receivable rent receivable A income outstanding income outstanding, B income outstanding income prepaid, C income prepaid income outstanding, D income prepaid income prepaid 7",
+      "options": [
+        "A income outstanding income outstanding",
+        "B income outstanding income prepaid",
+        "C income prepaid income outstanding",
+        "D income prepaid income prepaid 7"
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q17-commission-rent-receivable-tables.png"
+    },
+    {
+      "id": "q18",
+      "number": 18,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Joseph sells goods on credit and maintains a provision for doubtful debts. He wants to increase his provision for doubtful debts by $250. Which journal entry records an increase in the provision for doubtful debts? debit $ credit $ A credit customer income statement 250 250 B income statement credit customer 250 250 C income statement provision for doubtful debts 250 250 D provision for doubtful debts income statement 250 250",
+      "text": "Joseph sells goods on credit and maintains a provision for doubtful debts. He wants to increase his provision for doubtful debts by $250. Which journal entry records an increase in the provision for doubtful debts? debit $ credit $ A credit customer income statement 250 250 B income statement credit customer 250 250 C income statement provision for doubtful debts 250 250 D provision for doubtful debts income statement 250 250",
+      "options": [],
+      "answer": "C",
+      "image": "/papers/accounting-0452-2020/q18-provision-doubtful-debts-journal-table.png"
+    },
+    {
+      "id": "q19",
+      "number": 19,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which items are deducted from the gross profit when calculating the profit for the year? 1 balance on the provision for doubtful debts account 2 carriage paid on goods supplied to customers 3 drawings made by the owner during the year 4 wages paid to employees during the year A 1, 2 and 3 B 1 and 4 C 2 and 3 only D 2 and 4",
+      "text": "Which items are deducted from the gross profit when calculating the profit for the year? 1 balance on the provision for doubtful debts account 2 carriage paid on goods supplied to customers 3 drawings made by the owner during the year 4 wages paid to employees during the year A 1, 2 and 3 B 1 and 4 C 2 and 3 only D 2 and 4",
+      "options": [
+        "A 1, 2 and 3 B    1 and 4 C    2 and 3 only D    2 and 4"
+      ],
+      "answer": "D",
+      "image": ""
+    },
+    {
+      "id": "q20",
+      "number": 20,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On 31 December 2019 John had net assets of $2000 and capital of $2000. On 1 January 2020, goods costing $140 were sold on credit for $220. What was the effect of this transaction on the statement of financial position? net assets capital $ $ A 80 decrease 80 decrease, B 80 increase 80 increase, C 220 decrease 220 decrease, D 220 increase 220 increase 8",
+      "text": "On 31 December 2019 John had net assets of $2000 and capital of $2000. On 1 January 2020, goods costing $140 were sold on credit for $220. What was the effect of this transaction on the statement of financial position? net assets capital $ $ A 80 decrease 80 decrease, B 80 increase 80 increase, C 220 decrease 220 decrease, D 220 increase 220 increase 8",
+      "options": [
+        "A 80 decrease 80 decrease",
+        "B 80 increase 80 increase",
+        "C 220 decrease 220 decrease",
+        "D 220 increase 220 increase 8"
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q20-net-assets-capital-effect-table.png"
+    },
+    {
+      "id": "q21",
+      "number": 21,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "At the end of his financial year, Raminder made an adjustment for rent owed by a tenant. How did this affect Raminder’s financial statements? profit for the year current assets A decrease decrease, B decrease increase, C increase decrease, D increase increase",
+      "text": "At the end of his financial year, Raminder made an adjustment for rent owed by a tenant. How did this affect Raminder’s financial statements? profit for the year current assets A decrease decrease, B decrease increase, C increase decrease, D increase increase",
+      "options": [
+        "A decrease             decrease",
+        "B decrease              increase",
+        "C increase              decrease",
+        "D increase              increase"
+      ],
+      "answer": "D",
+      "image": "/papers/accounting-0452-2020/q21-rent-owed-financial-statements-table.png"
+    },
+    {
+      "id": "q22",
+      "number": 22,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "The owner of a business took goods for his own use but forgot to make an entry in the accounts. What was the effect of this error? profit for the year capital employed A overstated no effect, B overstated understated, C understated no effect, D understated overstated",
+      "text": "The owner of a business took goods for his own use but forgot to make an entry in the accounts. What was the effect of this error? profit for the year capital employed A overstated no effect, B overstated understated, C understated no effect, D understated overstated",
+      "options": [
+        "A overstated                        no                        effect",
+        "B overstated                      understated",
+        "C understated                       no                       effect",
+        "D understated                      overstated"
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q22-drawings-error-effect-table.png"
+    },
+    {
+      "id": "q23",
+      "number": 23,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Rajid and Sunil formed a partnership on 1 January 2019 but did not prepare a partnership agreement. They provided the following information. Rajid Sunil capital introduced 1 January 2019 $40 000 $20 000 during the year ended 31 December 2019 drawings $5 000 $3 500 share of work 50% 50% They decided to draw up a partnership agreement for future years. Which item would be most beneficial to Rajid in 2020? A interest on capital, B interest on drawings, C limit on annual drawings, D partnership salaries 9",
+      "text": "Rajid and Sunil formed a partnership on 1 January 2019 but did not prepare a partnership agreement. They provided the following information. Rajid Sunil capital introduced 1 January 2019 $40 000 $20 000 during the year ended 31 December 2019 drawings $5 000 $3 500 share of work 50% 50% They decided to draw up a partnership agreement for future years. Which item would be most beneficial to Rajid in 2020? A interest on capital, B interest on drawings, C limit on annual drawings, D partnership salaries 9",
+      "options": [
+        "A interest on capital",
+        "B interest on drawings",
+        "C limit on annual drawings",
+        "D partnership    salaries 9"
+      ],
+      "answer": "A",
+      "image": "/papers/accounting-0452-2020/q23-partnership-rajid-sunil-table.png"
+    },
+    {
+      "id": "q24",
+      "number": 24,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Harry and Jane are in partnership. The following information relates to Harry for the financial year. $ salary 8000 drawings 2800 share of profit 4600 The opening credit balance on Harry’s current account was $28 200. What was the closing balance on his current account? A $30 000 B $38 000 C $40 800 D $43 600",
+      "text": "Harry and Jane are in partnership. The following information relates to Harry for the financial year. $ salary 8000 drawings 2800 share of profit 4600 The opening credit balance on Harry’s current account was $28 200. What was the closing balance on his current account? A $30 000 B $38 000 C $40 800 D $43 600",
+      "options": [
+        "A $30 000 B    $38 000 C    $40 800 D    $43 600"
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q24-harry-current-account-data-table.png"
+    },
+    {
+      "id": "q25",
+      "number": 25,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which item is shown in the income statement of a company and statement of changes in equity? A interest on debentures accrued, B ordinary share dividend paid, C profit for the year, D transfer to general reserve",
+      "text": "Which item is shown in the income statement of a company and statement of changes in equity? A interest on debentures accrued, B ordinary share dividend paid, C profit for the year, D transfer to general reserve",
+      "options": [
+        "A interest on debentures accrued",
+        "B ordinary share dividend paid",
+        "C profit for the year",
+        "D transfer to general reserve"
+      ],
+      "answer": "C",
+      "image": ""
+    },
+    {
+      "id": "q26",
+      "number": 26,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Hassan’s capital decreased by $200 over the year, even though he made a profit of $7000. Which transactions caused this? capital introduced $ drawings $ A 1000 8200, B 1200 6000, C 2000 8800, D 2200 4600 10",
+      "text": "Hassan’s capital decreased by $200 over the year, even though he made a profit of $7000. Which transactions caused this? capital introduced $ drawings $ A 1000 8200, B 1200 6000, C 2000 8800, D 2200 4600 10",
+      "options": [
+        "A 1000                           8200",
+        "B 1200                           6000",
+        "C 2000                           8800",
+        "D 2200                           4600 10"
+      ],
+      "answer": "A",
+      "image": "/papers/accounting-0452-2020/q26-hassan-capital-drawings-options-table.png"
+    },
+    {
+      "id": "q27",
+      "number": 27,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Ahmed provided the following information. $ trade receivables at 1 January 2019 15 000 for the year ended 31 December 2019: credit sales 85 000 cash sales 12 000 cheques received from trade receivables 65 000 irrecoverable debts 2 000 By how much had the trade receivables increased by the end of the financial year? A $18 000 B $30 000 C $33 000 D $45 000",
+      "text": "Ahmed provided the following information. $ trade receivables at 1 January 2019 15 000 for the year ended 31 December 2019: credit sales 85 000 cash sales 12 000 cheques received from trade receivables 65 000 irrecoverable debts 2 000 By how much had the trade receivables increased by the end of the financial year? A $18 000 B $30 000 C $33 000 D $45 000",
+      "options": [
+        "A $18 000 B $30 000 C $33 000 D $45 000"
+      ],
+      "answer": "C",
+      "image": "/papers/accounting-0452-2020/q27-ahmed-trade-receivables-table.png"
+    },
+    {
+      "id": "q28",
+      "number": 28,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Gordon provided the following information for the year. revenue $90 000 opening inventory $8 000 closing inventory $2 000 mark up 50% Gordon took goods, $7000, for his own use. What were the purchases? A $43 000 B $47 000 C $54 000 D $61 000",
+      "text": "Gordon provided the following information for the year. revenue $90 000 opening inventory $8 000 closing inventory $2 000 mark up 50% Gordon took goods, $7000, for his own use. What were the purchases? A $43 000 B $47 000 C $54 000 D $61 000",
+      "options": [
+        "A $43 000 B    $47 000 C    $54 000 D    $61 000"
+      ],
+      "answer": "D",
+      "image": "/papers/accounting-0452-2020/q28-gordon-revenue-inventory-table.png"
+    },
+    {
+      "id": "q29",
+      "number": 29,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A trader provided the following information. $ for the year ended 31 March 2020 revenue 250 000 purchases: cash 125 000 credit 115 000 at March 2020 trade payables 9 765 What was the trade payables turnover? A 14 days B 15 days C 29 days D 31 days 11",
+      "text": "A trader provided the following information. $ for the year ended 31 March 2020 revenue 250 000 purchases: cash 125 000 credit 115 000 at March 2020 trade payables 9 765 What was the trade payables turnover? A 14 days B 15 days C 29 days D 31 days 11",
+      "options": [
+        "A 14 days B 15 days C 29 days D 31 days 11"
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q29-trader-payables-turnover-table.png"
+    },
+    {
+      "id": "q30",
+      "number": 30,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "On 1 January 2019 current assets totalled $16 000 and the current ratio was 2 : 1. On 31 December 2019 the current liabilities had increased by 50% and the current ratio was 1.5 : 1. What was the value of the current assets on 31 December 2019? A $16 000 B $18 000 C $32 000 D $36 000",
+      "text": "On 1 January 2019 current assets totalled $16 000 and the current ratio was 2 : 1. On 31 December 2019 the current liabilities had increased by 50% and the current ratio was 1.5 : 1. What was the value of the current assets on 31 December 2019? A $16 000 B $18 000 C $32 000 D $36 000",
+      "options": [
+        "A $16 000 B $18 000 C    $32 000 D    $36 000"
+      ],
+      "answer": "B",
+      "image": ""
+    },
+    {
+      "id": "q31",
+      "number": 31,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "A company provided the following information about its liquid (acid test) ratio. Year 1 1.2 : 1 Year 2 1.4 : 1 Year 3 1.6 : 1 Which would explain the changes in the ratio? A Inventory is increasing., B Other payables are decreasing., C Trade payables are increasing., D Trade receivables are decreasing.",
+      "text": "A company provided the following information about its liquid (acid test) ratio. Year 1 1.2 : 1 Year 2 1.4 : 1 Year 3 1.6 : 1 Which would explain the changes in the ratio? A Inventory is increasing., B Other payables are decreasing., C Trade payables are increasing., D Trade receivables are decreasing.",
+      "options": [
+        "A Inventory is increasing.",
+        "B Other payables are decreasing.",
+        "C Trade payables are increasing.",
+        "D Trade receivables are decreasing."
+      ],
+      "answer": "B",
+      "image": "/papers/accounting-0452-2020/q31-liquid-ratio-three-years-table.png"
+    },
+    {
+      "id": "q32",
+      "number": 32,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which user of accounting statements is interested in past performance and taking remedial action where necessary? A government, B investors, C managers, D suppliers",
+      "text": "Which user of accounting statements is interested in past performance and taking remedial action where necessary? A government, B investors, C managers, D suppliers",
+      "options": [
+        "A government",
+        "B investors",
+        "C managers",
+        "D suppliers"
+      ],
+      "answer": "C",
+      "image": ""
+    },
+    {
+      "id": "q33",
+      "number": 33,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Rashid’s financial year ends on 31 December. He paid rent on 1 February, 1 May, 1 August and 1 November. An adjustment was made in the income statement for rent prepaid. Which accounting principle was applied? A duality, B matching, C money measurement, D prudence 12 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "text": "Rashid’s financial year ends on 31 December. He paid rent on 1 February, 1 May, 1 August and 1 November. An adjustment was made in the income statement for rent prepaid. Which accounting principle was applied? A duality, B matching, C money measurement, D prudence 12 Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every publisher will be pleased to make amends at the earliest possible opportunity. To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge Assessment International Education is part of the Cambridge Assessment Group. Cambridge Assessment is the brand name of the University of",
+      "options": [
+        "A duality",
+        "B matching",
+        "C money measurement",
+        "D prudence 12 Permission  to  reproduce  items  where  third-party  owned  material  protected  by  copyright  is  included  has  been  sought  and  cleared  where  possible.  Every publisher will be pleased to make amends at the earliest possible opportunity. To  avoid  the  issue  of  disclosure  of  answer-related  information  to  candidates,  all  copyright  acknowledgements  are  reproduced  online  in  the  Cambridge Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download at www.cambridgeinternational.org after the live examination series. Cambridge  Assessment  International  Education  is  part  of  the  Cambridge  Assessment  Group.  Cambridge  Assessment  is  the  brand  name  of  the  University  of"
+      ],
+      "answer": "B",
+      "image": ""
+    },
+    {
+      "id": "q34",
+      "number": 34,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Which statement describes the going concern principle? A Accounting methods must be used consistently from one accounting period to the next., B It is assumed that the business will continue to operate for the foreseeable future., C Revenue is earned when legal title to goods passes from the seller to the buyer., D The business is treated as being completely separate from the owner of the business.",
+      "text": "Which statement describes the going concern principle? A Accounting methods must be used consistently from one accounting period to the next., B It is assumed that the business will continue to operate for the foreseeable future., C Revenue is earned when legal title to goods passes from the seller to the buyer., D The business is treated as being completely separate from the owner of the business.",
+      "options": [
+        "A Accounting methods must be used consistently from one accounting period to the next.",
+        "B It is assumed that the business will continue to operate for the foreseeable future.",
+        "C Revenue is earned when legal title to goods passes from the seller to the buyer.",
+        "D The business is treated as being completely separate from the owner of the business."
+      ],
+      "answer": "B",
+      "image": ""
+    },
+    {
+      "id": "q35",
+      "number": 35,
+      "type": "multiple_choice",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Brad purchased a machine for $1000 on 1 January 2019. The machine was expected to last for four years and have no residual value. On 31 December 2019 the same machine cost $1200 to purchase. At which value should the machine be included in the statement of financial position on 31 December 2019? A current cost with no depreciation, B current cost with one year’s depreciation, C original purchase price with no depreciation, D original purchase price with one year’s depreciation",
+      "text": "Brad purchased a machine for $1000 on 1 January 2019. The machine was expected to last for four years and have no residual value. On 31 December 2019 the same machine cost $1200 to purchase. At which value should the machine be included in the statement of financial position on 31 December 2019? A current cost with no depreciation, B current cost with one year’s depreciation, C original purchase price with no depreciation, D original purchase price with one year’s depreciation",
+      "options": [
+        "A current cost with no depreciation",
+        "B current cost with one year’s depreciation",
+        "C original purchase price with no depreciation",
+        "D original purchase price with one year’s depreciation"
+      ],
+      "answer": "D",
+      "image": ""
+    }
+  ],
+  "_meta": {
+    "parser": "mcq",
+    "questionCount": 35,
+    "answersMatched": 35,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2020",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2020-unit1-2020-06-qp.pdf",
+    "pageImages": [
+      "/papers/accounting-0452-2020/page-01.png",
+      "/papers/accounting-0452-2020/page-02.png",
+      "/papers/accounting-0452-2020/page-03.png",
+      "/papers/accounting-0452-2020/page-04.png",
+      "/papers/accounting-0452-2020/page-05.png",
+      "/papers/accounting-0452-2020/page-06.png",
+      "/papers/accounting-0452-2020/page-07.png",
+      "/papers/accounting-0452-2020/page-08.png",
+      "/papers/accounting-0452-2020/page-09.png",
+      "/papers/accounting-0452-2020/page-10.png",
+      "/papers/accounting-0452-2020/page-11.png",
+      "/papers/accounting-0452-2020/page-12.png"
+    ]
+  },
+  "unit": "Unit 1"
+}

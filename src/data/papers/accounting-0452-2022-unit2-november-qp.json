@@ -1,0 +1,65 @@
+{
+  "paperId": "accounting-0452-2022-unit2-november-qp",
+  "pairedMarkSchemeId": "accounting-0452-2022-unit2-november-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/22",
+  "session": "October/November 2022",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2a",
+          "text": "Part 2a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Item Book of prime entry Discount received from credit suppliers Cash book (1) Purchases returns Purchase returns journal (1) Contra entries General journal (1) Interest charged by credit suppliers General journal (1) Purchase ledger account is debited, and the sales ledger is credited (1) Purchase ledger control account Date Date 2022 Details $ 2022 Details $ Jul 1 Balance b/d 130 * Jul 1 Balance b/d 21 400 (1)* both 31 Purchase returns 9 800 (1) 31 Purchases 259 600 (1) Bank 228 200 (1) Interest charges 150 (1) Discount received 12 900 (1) Balance c/d 180 Cash 500 (1) Contra 2 260 (1) Balance c/d 27 540 _______ 281 330 281 330 Aug 1 Balance b/d 180 ** Aug 1 Balance b/d 27 540 (1) OF** both",
+          "image": "/papers/accounting-0452-2022/q2-2a.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 5",
+      "text": "Question 5",
+      "parts": [
+        {
+          "id": "5b",
+          "text": "Part 5b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Sian and Tom Statement of financial position (extract) at 31 March 2022 $ $ $ Capital Sian 150 000 Tom 100 000 250 000 (1) Current Sian Tom Balance b/d 3 000 (7 000) (1) both Interest on capital 9 000 6 000 (1) OF both Salary 20 000 (1) - Profit 15 000 10 000 (1) OF 47 000 9 000 Drawings 14 000 22 000 (1) Interest on drawings 330 480 (1) OF 14 330 22 480 32 670 (13 480) 19 190 269 190 (1) OF Indicates that the partner’s drawings are too high (1) Indicates that the partner’s drawings are greater than the total profit share (1) Max 2 Assumes there is no intention to close the business down / reduce the size of the business significantly (1) Non-current assets are valued at net book value / not expected sales value (1) Accept other valid points Max 2",
+          "image": "/papers/accounting-0452-2022/q5-5b.png"
+        }
+      ],
+      "image": ""
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2022",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2022-unit2-2022-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

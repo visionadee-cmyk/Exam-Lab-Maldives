@@ -1,0 +1,85 @@
+{
+  "paperId": "accounting-0452-2021-unit2-june-qp",
+  "pairedMarkSchemeId": "accounting-0452-2021-unit2-june-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/21",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 3,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1c",
+          "text": "Part 1c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Sinita Bank Reconciliation Statement at 31 August 2020 $ $ Balance in cash book 6 416 Cheques not yet presented 9 825 (1) 16 24 Amounts not yet credited 2 460 (1) Bank error 250 (1) 2 710 Balance on bank statement 13 53 (1) Alternative presentation $ $ Balance on bank statement 13 53 (1) Amounts not yet credited 2 460 (1) Bank error 250 (1) 2 710 16 24 Cheques not yet presented 9 825 (1) Balance in cash book 6 416",
+          "image": "/papers/accounting-0452-2021/q1-1c.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2c",
+          "text": "Part 2c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Effect on working capital Reason Sell surplus non-current assets Increase (1) Bank increases so current assets increase (1) No change to current liabilities Obtain a short-term bank loan No effect (1) Bank increases so current assets increase (1) Current liabilities increase by same amount Reduce credit sales and increase cash sales by the same amount No effect (1) Trade receivables decrease and cash increases by the same amount so no change in current assets (1) No change to current liabilities Create a provision for doubtful debts Decrease (1) Trade receivables decrease so current assets decrease (1) No change to current liabilities",
+          "image": "/papers/accounting-0452-2021/q2-2c.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3b",
+          "text": "Part 3b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Increase profit for the year Decrease profit for the year Total change in profit for the year $ $ $ Annual wages of factory workers would decrease by $3000 3000 Machinery repairs, $1100, included in factory general expense would decrease by 60% 660 (1) Cost of raw materials used would decrease by 10% 3090 (1)OF The total cost of the new machinery would be financed by a loan on which annual interest of 4% would be charged 4000 (1) The new machinery would be depreciated in equal instalments over 8 years * 500 6750 4500 Total change in profit 2250 (1)OF $ * Calculation of depreciation Depreciation of existing machinery 12 000 OF Depreciation of new machinery 100 000/8 12 500 (1) 500 (1)OF",
+          "image": "/papers/accounting-0452-2021/q3-3b.png"
+        }
+      ],
+      "image": ""
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 3,
+    "questionCount": 3,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

@@ -1,0 +1,113 @@
+{
+  "paperId": "accounting-0452-2023-unit2-june-qp",
+  "pairedMarkSchemeId": "accounting-0452-2023-unit2-june-ms",
+  "subjectId": "accounting_igcse",
+  "code": "7707/21",
+  "session": "May/June 2023",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 5,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 1",
+      "text": "Question 1",
+      "parts": [
+        {
+          "id": "1b",
+          "text": "Part 1b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Shvan Giles account Date Details $ Date Details $ 2023 2023 Ma r 2 Petty cash (1) 55 Ma r 1 Balance b/d 13 Bank (1) 110 22 Purchases (1) 31 Balance c/d A p r 1 Balance b/d (1)OF (1) Internet transfer (1) Telephone transfer (1) Credit transfer (1) Debit/credit card (1) Max (1) 7707/21",
+          "image": "/papers/accounting-0452-2023/q1-1b.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 2,
+      "marks": 2,
+      "question": "Question 2",
+      "text": "Question 2",
+      "parts": [
+        {
+          "id": "2b",
+          "text": "Part 2b",
+          "marks": 1,
+          "type": "structured",
+          "answer": "$ $ Proceeds 9 Cost 16 (1) Less provision for depreciation (1) Profit on disposal (1) (1)OF Motor Vehicles account Date Details $ Date Details $ Jan 1 Balance b/d 000 Dec 31 Disposal (1) Balance c/d Jan 1 Balance b/d (1) 7707/21",
+          "image": "/papers/accounting-0452-2023/q2-2b.png"
+        },
+        {
+          "id": "2d",
+          "text": "Part 2d",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Capital expenditure Revenue expenditure Legal fees for obtaining permission to build the extension  (1) Building costs for the extension  Insurance for the office  (1) Painting the office extension  Office calendar for 2023  (1) Purchase of office equipment  Installation of office equipment  (1) Stationery for office  7707/21",
+          "image": "/papers/accounting-0452-2023/q2-2d.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 3",
+      "text": "Question 3",
+      "parts": [
+        {
+          "id": "3a",
+          "text": "Part 3a",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Error Entries required to correct the erro r Debit Credit A ccount $ A ccount $ A payment for rent, $300, had been debited to the insurance account. Rent paid Insurance Sales to Raymond of $105, had been debited to the sales account and credited to Raymond’s account. Raymond (1) Sales (1) Eshe’s total drawings from the bank for her own use, $9 500, had been debited to the cash account. Drawings (1) Cash (1) A purchases invoice from Danika for $137, had been recorded in her account and in the purchases journal as $173. Danika (1) Purchases (1) Returns inwards, $44, had not been recorded in the returns inwards account. Returns inwards (1) Suspense (1) The motor expenses account had been overcast by $100. Suspense (1) Motor expenses (1) 7707/21",
+          "image": "/papers/accounting-0452-2023/q3-3a.png"
+        }
+      ],
+      "image": ""
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 1,
+      "marks": 1,
+      "question": "Question 4",
+      "text": "Question 4",
+      "parts": [
+        {
+          "id": "4c",
+          "text": "Part 4c",
+          "marks": 1,
+          "type": "structured",
+          "answer": "Advantages of converting office space Will be more profitable use of space/increase output (1) Manufacturing appears to be profitable (1) May not need to purchase finished goods (1) Have high bank balance which will help to pay for conversion (1) Accept other valid points Max (3) Disadvantages of converting office space May not be able to sell the extra output (1) Conversion of office space may be costly (1) May have to purchase additional factory equipment (1) May be more appropriate/more profitable to use the funds for other things (1) The space is necessary for office purposes (1) Accept other valid points Max (3) Max (4) (1) for recommendation 7707/21",
+          "image": "/papers/accounting-0452-2023/q4-4c.png"
+        }
+      ],
+      "image": ""
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 5,
+    "questionCount": 4,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/accounting-0452-2023",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Accounting-0452/Accounting-0452-2023-unit2-2023-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}
