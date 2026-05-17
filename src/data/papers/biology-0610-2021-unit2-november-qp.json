@@ -1,0 +1,357 @@
+{
+  "paperId": "biology-0610-2021-unit2-november-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit2-november-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/21",
+  "session": "October/November 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 14,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 6,
+      "marks": 6,
+      "question": "The diagram shows the human lungs and associated structures.",
+      "text": "The diagram shows the human lungs and associated structures.",
+      "parts": [
+        {
+          "id": "q1a",
+          "number": "(a)",
+          "text": "Complete the diagram by naming the labelled parts.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1a.png"
+        },
+        {
+          "id": "q1b",
+          "number": "(b)",
+          "text": "Explain why a human needs lungs.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "A farmer is growing a crop of tomato plants.",
+      "text": "A farmer is growing a crop of tomato plants.",
+      "parts": [
+        {
+          "id": "q2a",
+          "number": "(a)",
+          "text": "The tomato plants carry out photosynthesis. Describe the process of photosynthesis.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2a.png"
+        },
+        {
+          "id": "q2bi",
+          "number": "(b)(i)",
+          "text": "The farmer grows the tomato plants in a glasshouse instead of in an open field. Suggest reasons why this is an advantage to the farmer.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2bi.png"
+        },
+        {
+          "id": "q2bii",
+          "number": "(b)(ii)",
+          "text": "Suggest one disadvantage, other than cost, of growing plants in this way.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2bii.png"
+        },
+        {
+          "id": "q2ci",
+          "number": "(c)(i)",
+          "text": "The graph shows how the rate of photosynthesis can vary with light intensity when all other environmental conditions are kept the same. Explain how this graph shows that light intensity is the limiting factor for photosynthesis at light intensity P but not at light intensity Q.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2ci.png"
+        },
+        {
+          "id": "q2cii",
+          "number": "(c)(ii)",
+          "text": "Name one environmental condition that could be limiting photosynthesis at light intensity Q.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2cii.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 14,
+      "marks": 14,
+      "question": "A man is cooking in a hot kitchen and sweat is being released by sweat glands in his skin.",
+      "text": "A man is cooking in a hot kitchen and sweat is being released by sweat glands in his skin.",
+      "parts": [
+        {
+          "id": "q3ai",
+          "number": "(a)(i)",
+          "text": "Explain the term homeostasis with reference to sweating.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3ai.png"
+        },
+        {
+          "id": "q3aii",
+          "number": "(a)(ii)",
+          "text": "Explain how receptors and blood vessels in the man's skin are also involved in homeostasis when he is in the hot kitchen.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3aii.png"
+        },
+        {
+          "id": "q3b",
+          "number": "(b)",
+          "text": "Sweat contains very small quantities of the waste product urea. State the name of the organ where most urea is made in the body.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3b.png"
+        },
+        {
+          "id": "q3ci",
+          "number": "(c)(i)",
+          "text": "Use the data in the table to compare the chemical composition of urine and blood plasma.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3ci.png"
+        },
+        {
+          "id": "q3cii",
+          "number": "(c)(ii)",
+          "text": "A patient has kidney disease and is about to start dialysis treatment. Suggest and explain the concentration of urea in the sweat of the patient compared to that of a person who does not have kidney disease.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3cii.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 11,
+      "marks": 11,
+      "question": "The kapok tree is a flowering plant that grows rapidly to become one of the tallest trees in a tropical rainforest ecosystem.",
+      "text": "The kapok tree is a flowering plant that grows rapidly to become one of the tallest trees in a tropical rainforest ecosystem.",
+      "parts": [
+        {
+          "id": "q4ai",
+          "number": "(a)(i)",
+          "text": "Use the information provided to draw a food chain for this tropical rainforest in the space provided. The chain should contain three organisms.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4ai.png"
+        },
+        {
+          "id": "q4aii",
+          "number": "(a)(ii)",
+          "text": "Suggest and explain ways in which being tall may be helpful for the survival of this tree species.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4aii.png"
+        },
+        {
+          "id": "q4aiii",
+          "number": "(a)(iii)",
+          "text": "Explain why the bacteria and fungi found in the rainforest soil are important in this ecosystem.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4aiii.png"
+        },
+        {
+          "id": "q4bi",
+          "number": "(b)(i)",
+          "text": "Name one substance, found in plants but not in animals, that contains carbon.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4bi.png"
+        },
+        {
+          "id": "q4bii",
+          "number": "(b)(ii)",
+          "text": "Explain how burning trees contributes to global warming.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4bii.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 9,
+      "marks": 9,
+      "question": "The graph shows how blood alcohol concentration changes after a person drinks alcohol.",
+      "text": "The graph shows how blood alcohol concentration changes after a person drinks alcohol.",
+      "parts": [
+        {
+          "id": "q5a",
+          "number": "(a)",
+          "text": "Suggest how the shape of the graph can be explained by what happens in parts of the body after drinking alcohol.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q5-q5a.png"
+        },
+        {
+          "id": "q5b",
+          "number": "(b)",
+          "text": "The graph shows that the highest blood alcohol concentration for this person after drinking alcohol is 0.75 g per dm3. Suggest two reasons why the highest blood alcohol concentration may be different for two people after drinking the same volume of alcohol.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q5-q5b.png"
+        },
+        {
+          "id": "q5c",
+          "number": "(c)",
+          "text": "Describe the short-term effects of a high blood alcohol concentration.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q5-q5c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Explain the 'lock and key' hypothesis of enzyme action using a named example.",
+      "text": "Explain the 'lock and key' hypothesis of enzyme action using a named example.",
+      "parts": [
+        {
+          "id": "q6a",
+          "number": "(a)",
+          "text": "Explain the 'lock and key' hypothesis of enzyme action using a named example.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q6-q6a.png"
+        },
+        {
+          "id": "q6b",
+          "number": "(b)",
+          "text": "Explain, using examples, why proteins are essential for all living organisms.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q6-q6b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Explain the role of the nucleus and cell division in the inheritance of characteristics from parents to offspring.",
+      "text": "Explain the role of the nucleus and cell division in the inheritance of characteristics from parents to offspring.",
+      "parts": [
+        {
+          "id": "q7a",
+          "number": "(a)",
+          "text": "Explain the role of the nucleus and cell division in the inheritance of characteristics from parents to offspring.",
+          "marks": 6,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q7-q7a.png"
+        },
+        {
+          "id": "q7b",
+          "number": "(b)",
+          "text": "If people are exposed to ionising radiation, this may affect the inheritance of characteristics by their children. Suggest how this exposure to radiation may affect inheritance of characteristics.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q7-q7b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Water enters living organisms and is transported to all their cells. Compare the transport of water in a human and a flowering plant.",
+      "text": "Water enters living organisms and is transported to all their cells. Compare the transport of water in a human and a flowering plant.",
+      "parts": [
+        {
+          "id": "q8a",
+          "number": "(a)",
+          "text": "Compare the transport of water in a human and a flowering plant.",
+          "marks": 6,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q8-q8a.png"
+        },
+        {
+          "id": "q8b",
+          "number": "(b)",
+          "text": "Water in humans and flowering plants contains dissolved mineral ions. Suggest reasons why the mineral ion requirements of humans and plants are different.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q8-q8b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Sperm cells and pollen grains are both involved in sexual reproduction. Compare the functions of a sperm cell and a pollen grain and describe how the structure of each is related to its function.",
+      "text": "Sperm cells and pollen grains are both involved in sexual reproduction. Compare the functions of a sperm cell and a pollen grain and describe how the structure of each is related to its function.",
+      "parts": [
+        {
+          "id": "q9a",
+          "number": "(a)",
+          "text": "Compare the functions of a sperm cell and a pollen grain and describe how the structure of each is related to its function.",
+          "marks": 6,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q9-q9a.png"
+        },
+        {
+          "id": "q9b",
+          "number": "(b)",
+          "text": "Suggest reasons why sexual reproduction may be better for the survival of a species than asexual reproduction.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q9-q9b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 14,
+    "questionCount": 7,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit2-2021-11-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

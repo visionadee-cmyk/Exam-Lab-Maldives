@@ -1,0 +1,365 @@
+{
+  "paperId": "biology-0610-2021-unit2-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit2-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/21",
+  "session": "May/June 2021",
+  "title": "Paper 2 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 15,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 7,
+      "marks": 7,
+      "question": "The diagram shows a root hair cell from a lemon tree and some soil particles.",
+      "text": "The diagram shows a root hair cell from a lemon tree and some soil particles.",
+      "parts": [
+        {
+          "id": "q1ai",
+          "number": "(a)(i)",
+          "text": "State one feature, visible in the diagram, which shows that a root hair cell is a plant cell.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1ai.png"
+        },
+        {
+          "id": "q1aii",
+          "number": "(a)(ii)",
+          "text": "Describe how mineral ions pass from the soil into the root hair cell.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1aii.png"
+        },
+        {
+          "id": "q1b",
+          "number": "(b)",
+          "text": "The lemon tree has grown in the same soil for many years so the soil now lacks magnesium. Describe and explain the effect on the lemon tree of a lack of magnesium.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 18,
+      "marks": 18,
+      "question": "A person visits an eye doctor to have an eye test. On the wall of the doctor's room is a diagram of an eye.",
+      "text": "A person visits an eye doctor to have an eye test. On the wall of the doctor's room is a diagram of an eye.",
+      "parts": [
+        {
+          "id": "q2ai",
+          "number": "(a)(i)",
+          "text": "Name the part labelled X.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2ai.png"
+        },
+        {
+          "id": "q2aii",
+          "number": "(a)(ii)",
+          "text": "Describe one way in which the structure of X is related to its function.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2aii.png"
+        },
+        {
+          "id": "q2aiii",
+          "number": "(a)(iii)",
+          "text": "Name layer Y.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2aiii.png"
+        },
+        {
+          "id": "q2bi",
+          "number": "(b)(i)",
+          "text": "Name structure Z.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2bi.png"
+        },
+        {
+          "id": "q2bii",
+          "number": "(b)(ii)",
+          "text": "Layer Y does not contain blood vessels. Explain how the blood vessels in the choroid layer are important for layer Y.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2bii.png"
+        },
+        {
+          "id": "q2c",
+          "number": "(c)",
+          "text": "When the bright light is shone into the eye there is a pupil reflex which causes the pupil to become smaller. Explain how named parts of the eye and of the nervous system are involved in this pupil reflex.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2c.png"
+        },
+        {
+          "id": "q2di",
+          "number": "(d)(i)",
+          "text": "Some people inherit a condition which prevents the production of the dark pigment melanin in their choroid and skin cells. The gene involved has two alleles, A (dominant) and a (recessive). Only people with two recessive alleles have this condition. Two people, each with a heterozygous genotype, have children together. Complete the genetic diagram to show the possible genotypes and phenotypes of the children.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2di.png"
+        },
+        {
+          "id": "q2dii",
+          "number": "(d)(ii)",
+          "text": "State the probability of these two people having a child who does not produce melanin.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2dii.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    },
+    {
+      "id": "q3",
+      "number": 3,
+      "type": "structured",
+      "totalMarks": 9,
+      "marks": 9,
+      "question": "A sycamore tree is a producer for many food chains in a forest ecosystem.",
+      "text": "A sycamore tree is a producer for many food chains in a forest ecosystem.",
+      "parts": [
+        {
+          "id": "q3ai",
+          "number": "(a)(i)",
+          "text": "Explain what is meant by a producer.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3ai.png"
+        },
+        {
+          "id": "q3aii",
+          "number": "(a)(ii)",
+          "text": "Explain what is meant by a food chain.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3aii.png"
+        },
+        {
+          "id": "q3b",
+          "number": "(b)",
+          "text": "The diagrams show a pyramid of numbers and a pyramid of biomass for a sycamore tree. Explain the different shapes of the two pyramids.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3b.png"
+        },
+        {
+          "id": "q3c",
+          "number": "(c)",
+          "text": "Sycamore trees produce flowers that are insect-pollinated. Suggest two features of flowers which adapt them for insect-pollination.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3c.png"
+        },
+        {
+          "id": "q3d",
+          "number": "(d)",
+          "text": "State the type of cell division that produces pollen grains.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q3-q3d.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q3.png"
+    },
+    {
+      "id": "q4",
+      "number": 4,
+      "type": "structured",
+      "totalMarks": 8,
+      "marks": 8,
+      "question": "The diagram shows part of the human alimentary canal and its associated organs.",
+      "text": "The diagram shows part of the human alimentary canal and its associated organs.",
+      "parts": [
+        {
+          "id": "q4a",
+          "number": "(a)",
+          "text": "Complete the three labels on the diagram by naming the structures.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4a.png"
+        },
+        {
+          "id": "q4b",
+          "number": "(b)",
+          "text": "Describe the functions of the structure labelled F.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4b.png"
+        },
+        {
+          "id": "q4c",
+          "number": "(c)",
+          "text": "Name structure H and describe its role in homeostasis.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q4-q4c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q4.png"
+    },
+    {
+      "id": "q5",
+      "number": 5,
+      "type": "structured",
+      "totalMarks": 8,
+      "marks": 8,
+      "question": "A farmer is using a tool, called a mattock, to weed her crop.",
+      "text": "A farmer is using a tool, called a mattock, to weed her crop.",
+      "parts": [
+        {
+          "id": "q5a",
+          "number": "(a)",
+          "text": "Explain how the muscles and bones in her right arm help her to lift the tool.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q5-q5a.png"
+        },
+        {
+          "id": "q5b",
+          "number": "(b)",
+          "text": "The farmer has not used any insecticides or artificial fertilisers on the crop. Explain ways in which this may help the local environment.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q5-q5b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q5.png"
+    },
+    {
+      "id": "q6",
+      "number": 6,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Yoghurt is a milk product.",
+      "text": "Yoghurt is a milk product.",
+      "parts": [
+        {
+          "id": "q6a",
+          "number": "(a)",
+          "text": "Outline the role of microorganisms in the process of yoghurt production.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q6-q6a.png"
+        },
+        {
+          "id": "q6b",
+          "number": "(b)",
+          "text": "Yoghurt can contribute to a balanced diet but adult humans cannot survive by eating only yoghurt. Explain this statement using the information on the label.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q6-q6b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q6.png"
+    },
+    {
+      "id": "q7",
+      "number": 7,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Excess amino acids are broken down in liver cells to form molecules of urea.",
+      "text": "Excess amino acids are broken down in liver cells to form molecules of urea.",
+      "parts": [
+        {
+          "id": "q7a",
+          "number": "(a)",
+          "text": "Describe the pathway taken by a molecule of urea, from the liver of a mammal until it reaches the soil.",
+          "marks": 7,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q7-q7a.png"
+        },
+        {
+          "id": "q7b",
+          "number": "(b)",
+          "text": "Urea is a molecule which contains nitrogen. Suggest why it is important that molecules that contain nitrogen are added to the soil.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q7-q7b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q7.png"
+    },
+    {
+      "id": "q8",
+      "number": 8,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Rice, maize and wheat plants are the main carbohydrate source for more than 60% of the human population.",
+      "text": "Rice, maize and wheat plants are the main carbohydrate source for more than 60% of the human population.",
+      "parts": [
+        {
+          "id": "q8a",
+          "number": "(a)",
+          "text": "Describe how plants like these produce carbohydrates using materials from the environment.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q8-q8a.png"
+        },
+        {
+          "id": "q8b",
+          "number": "(b)",
+          "text": "Many scientists predict that, as the world's human population increases, there will be a shortage of food. Suggest and explain why an increase in human population is predicted to lead to a global human food shortage.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q8-q8b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q8.png"
+    },
+    {
+      "id": "q9",
+      "number": 9,
+      "type": "structured",
+      "totalMarks": 10,
+      "marks": 10,
+      "question": "Describe how air is breathed in, using the rib cage and diaphragm, so that it reaches the alveoli.",
+      "text": "Describe how air is breathed in, using the rib cage and diaphragm, so that it reaches the alveoli.",
+      "parts": [
+        {
+          "id": "q9a",
+          "number": "(a)",
+          "text": "Describe how air is breathed in, using the rib cage and diaphragm, so that it reaches the alveoli.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q9-q9a.png"
+        },
+        {
+          "id": "q9b",
+          "number": "(b)",
+          "text": "Bronchitis is a condition that can be triggered by breathing in substances that cause the bronchi to become inflamed and produce a large amount of mucus. Suggest how this condition can affect a person and explain how a person may be able to avoid developing the condition.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q9-q9b.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q9.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 15,
+    "questionCount": 8,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit2-2021-06-qp.pdf"
+  },
+  "unit": "Unit 2"
+}

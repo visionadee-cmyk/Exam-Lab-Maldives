@@ -1,0 +1,169 @@
+{
+  "paperId": "biology-0610-2021-unit3-june-qp",
+  "pairedMarkSchemeId": "biology-0610-2021-unit3-june-ms",
+  "subjectId": "biology_igcse",
+  "code": "5090/31",
+  "session": "May/June 2021",
+  "title": "Paper 3 - Question Paper",
+  "documentType": "QP",
+  "totalMarks": 2,
+  "timeMinutes": 90,
+  "questions": [
+    {
+      "id": "q1",
+      "number": 1,
+      "type": "structured",
+      "totalMarks": 27,
+      "marks": 27,
+      "question": "You are provided with a dish of seedlings that have germinated and then grown for 3–5 days. You are going to measure the heights of six seedlings and calculate their mean height.",
+      "text": "You are provided with a dish of seedlings that have germinated and then grown for 3–5 days. You are going to measure the heights of six seedlings and calculate their mean height.",
+      "parts": [
+        {
+          "id": "q1ai",
+          "number": "(a)(i)",
+          "text": "In the space below, construct a table to record your results. Select six seedlings from the dish and measure the height of each stem to the nearest millimetre. Enter your results in the table. Calculate the mean height and record it in your table.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1ai.png"
+        },
+        {
+          "id": "q1aii",
+          "number": "(a)(ii)",
+          "text": "State two possible sources of error in measuring the seedlings.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1aii.png"
+        },
+        {
+          "id": "q1aiii",
+          "number": "(a)(iii)",
+          "text": "Use the apparatus provided to cut or crush some of the seedlings. Add drops of iodine solution to the cut or crushed seedlings. Record your observations and conclusion from this test.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1aiii.png"
+        },
+        {
+          "id": "q1bi",
+          "number": "(b)(i)",
+          "text": "On the grid construct a line graph to show the relationship between time and mean height for these seedlings. Join your points with ruled lines.",
+          "marks": 4,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1bi.png"
+        },
+        {
+          "id": "q1bii",
+          "number": "(b)(ii)",
+          "text": "Use the graph to describe the growth of these seedlings.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1bii.png"
+        },
+        {
+          "id": "q1biii",
+          "number": "(b)(iii)",
+          "text": "Use the graph to state the time period during which the rate of growth of the seedlings was greatest.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1biii.png"
+        },
+        {
+          "id": "q1biv",
+          "number": "(b)(iv)",
+          "text": "Use the data and your graph to calculate the rate of growth of the seedlings for the five days from day 15 to day 20.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1biv.png"
+        },
+        {
+          "id": "q1bv",
+          "number": "(b)(v)",
+          "text": "State two variables that need to be controlled whilst growing these seedlings and explain why they need to be controlled.",
+          "marks": 3,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1bv.png"
+        },
+        {
+          "id": "q1c",
+          "number": "(c)",
+          "text": "Design an investigation to determine the effect of the pH of water on the growth (mean height) of seedlings. You should use seedlings grown in Petri dishes in a laboratory.",
+          "marks": 6,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q1-q1c.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q1.png"
+    },
+    {
+      "id": "q2",
+      "number": 2,
+      "type": "structured",
+      "totalMarks": 13,
+      "marks": 13,
+      "question": "The photograph shows the surface of a mammalian organ.",
+      "text": "The photograph shows the surface of a mammalian organ.",
+      "parts": [
+        {
+          "id": "q2ai",
+          "number": "(a)(i)",
+          "text": "Identify this organ.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2ai.png"
+        },
+        {
+          "id": "q2aii",
+          "number": "(a)(ii)",
+          "text": "Name the structures labelled A.",
+          "marks": 1,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2aii.png"
+        },
+        {
+          "id": "q2b",
+          "number": "(b)",
+          "text": "In the space below, make a large drawing of this organ as it appears in the photograph.",
+          "marks": 5,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2b.png"
+        },
+        {
+          "id": "q2ci",
+          "number": "(c)(i)",
+          "text": "On the photograph, draw a line between B and C. Measure and record this length.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2ci.png"
+        },
+        {
+          "id": "q2cii",
+          "number": "(c)(ii)",
+          "text": "On your drawing, draw a line at the same location as the line B–C. Measure and record the length of this line.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2cii.png"
+        },
+        {
+          "id": "q2ciii",
+          "number": "(c)(iii)",
+          "text": "Use your measurements in (c)(i) and (c)(ii) to calculate the magnification of your drawing compared to the photograph. Give your answer to one decimal place.",
+          "marks": 2,
+          "type": "structured",
+          "image": "/papers/biology-0610-2021/q2-q2ciii.png"
+        }
+      ],
+      "image": "/papers/biology-0610-2021/q2.png"
+    }
+  ],
+  "_meta": {
+    "parser": "structured",
+    "partCount": 2,
+    "questionCount": 2,
+    "cleanedAt": "2026-05-16",
+    "cleaner": "cleanup-all-qp-json"
+  },
+  "assets": {
+    "basePath": "/papers/biology-0610-2021",
+    "qpPdf": "/pdf-pastpaer-q&a/O-Level/Biology-0610/Biology-0610-2021-unit3-2021-06-qp.pdf"
+  },
+  "unit": "Unit 3"
+}
