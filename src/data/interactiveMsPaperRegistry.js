@@ -17,7 +17,7 @@ function uiSubjectId(subjectId) {
 }
 
 const qpModules = import.meta.glob(
-  ['./papers/*-qp.json', './papers/biology-wbi*.json'],
+  ['./papers/*-qp.json', './papers/biology-wbi*.json', './papers/biology-0610-*.json', './papers/accounting-0452-*.json'],
   { eager: true }
 );
 const msModules = import.meta.glob('./papers/*-ms.json', { eager: true });

@@ -14,7 +14,65 @@ export const O_LEVEL_SUBJECTS = [
     icon: 'Microscope',
     description: 'Cambridge IGCSE Biology (0610)',
     topics: ['Characteristics of Living Organisms', 'Cell Structure', 'Biological Molecules', 'Enzymes', 'Plant Nutrition', 'Human Nutrition', 'Transport', 'Gas Exchange', 'Coordination', 'Reproduction', 'Inheritance', 'Organisms & Environment', 'Human Influences'],
-    color: 'bg-emerald-500'
+    color: 'bg-emerald-500',
+    papers: [
+      {
+        id: 'biology-0610-2021-unit1-june-ms',
+        title: 'Paper 1 - Mark Scheme',
+        session: 'May/June 2021',
+        code: '0610/11',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit1-november-ms',
+        title: 'Paper 1 - Mark Scheme',
+        session: 'October/November 2021',
+        code: '0610/11',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit2-june-ms',
+        title: 'Paper 2 - Mark Scheme',
+        session: 'May/June 2021',
+        code: '0610/21',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit2-november-ms',
+        title: 'Paper 2 - Mark Scheme',
+        session: 'October/November 2021',
+        code: '0610/21',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit3-june-ms',
+        title: 'Paper 3 - Mark Scheme',
+        session: 'May/June 2021',
+        code: '0610/31',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit3-november-ms',
+        title: 'Paper 3 - Mark Scheme',
+        session: 'October/November 2021',
+        code: '0610/31',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit6-june-ms',
+        title: 'Paper 6 - Mark Scheme',
+        session: 'May/June 2021',
+        code: '0610/61',
+        type: 'MS'
+      },
+      {
+        id: 'biology-0610-2021-unit6-november-ms',
+        title: 'Paper 6 - Mark Scheme',
+        session: 'October/November 2021',
+        code: '0610/61',
+        type: 'MS'
+      }
+    ]
   },
   {
     id: 'chemistry_igcse',
@@ -54,7 +112,170 @@ export const O_LEVEL_SUBJECTS = [
     icon: 'BookOpen',
     description: 'Cambridge IGCSE Accounting (0452)',
     topics: ['Introduction to Accounting', 'Sources & Recording of Data', 'Verification of Accounting Records', 'Accounting Procedures', 'Preparation of Financial Statements', 'Analysis & Interpretation', 'Principles of Accounts'],
-    color: 'bg-amber-500'
+    color: 'bg-amber-500',
+    papers: [
+      {
+        id: 'accounting-0452-2020-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2020',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2020-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2020',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2020-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2020',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2020-unit2-november-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'October/November 2020',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2021-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2021',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2021-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2021',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2021-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2021',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2021-unit2-november-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'October/November 2021',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2022-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2022',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2022-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2022',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2022-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2022',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2022-unit2-november-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'October/November 2022',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2023-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2023',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2023-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2023',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2023-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2023',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2023-unit2-november-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'October/November 2023',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2024-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2024',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2024-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2024',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2024-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2024',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2024-unit2-november-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'October/November 2024',
+        code: '0452/21',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2025-unit1-june-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'May/June 2025',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2025-unit1-november-qp',
+        title: 'Paper 1 - Question Paper',
+        session: 'October/November 2025',
+        code: '0452/11',
+        type: 'QP'
+      },
+      {
+        id: 'accounting-0452-2025-unit2-june-qp',
+        title: 'Paper 2 - Question Paper',
+        session: 'May/June 2025',
+        code: '0452/21',
+        type: 'QP'
+      }
+    ]
   },
   {
     id: 'accounting_olevel',

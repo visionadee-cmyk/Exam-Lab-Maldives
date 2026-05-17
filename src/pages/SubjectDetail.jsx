@@ -4,6 +4,7 @@ import { SUBJECTS, QUESTION_TYPES } from '../data/subjects';
 import { useAuth } from '../contexts/AuthContext';
 import {
   GLOB_MS_INTERACTIVE_MAP,
+  GLOB_MS_PAPER_LISTS,
   getSubjectPaperList
 } from '../data/interactiveMsPaperRegistry';
 import { Plus, Trash2, Edit3, Save, X } from 'lucide-react';
@@ -154,13 +155,16 @@ export function SubjectDetail() {
 
   const interactivePaperById = GLOB_MS_INTERACTIVE_MAP;
 
-  const registryPapers = getSubjectPaperList(subjectId);
+  const registryPapers = (GLOB_MS_PAPER_LISTS[subjectId] || []).filter((p) => p.type === 'QP');
+  const interactivePapers = getSubjectPaperList(subjectId);
   const manualPapers = Array.isArray(subject?.papers)
     ? subject.papers.filter((p) => p.type === 'QP')
     : [];
   const papersToShow =
     registryPapers.length > 0
       ? registryPapers
+      : interactivePapers.length > 0
+      ? interactivePapers
       : manualPapers.map((p) => ({
           id: p.id,
           session: p.session || p.title,
@@ -305,6 +309,9 @@ export function SubjectDetail() {
                 <div>
                   <p className="font-medium text-gray-900">{paper.session}</p>
                   <p className="text-sm text-gray-500">{paper.code}</p>
+                  {!interactivePaperById[paper.id] && (
+                    <p className="text-xs text-red-500 mt-1">Not yet available in the reader</p>
+                  )}
                 </div>
                 <ChevronRight className="w-5 h-5 text-gray-400 shrink-0" />
               </button>
